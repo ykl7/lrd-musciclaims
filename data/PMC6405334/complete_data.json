@@ -1,0 +1,806 @@
+{
+  "paper_id": "PMC6405334",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6405334/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Figure 1.",
+      "caption": "Study design. (A) First step: case-only study. (B) Second step: case-control study. IOR, interaction odds ratio. *See Mavaddat et al.30",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3277/6405334/f9f533158c06/blood862607f1.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3277/6405334/f9f533158c06/blood862607f1.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3277/6405334/f9f533158c06/blood862607f1.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3277/6405334/f9f533158c06/blood862607f1.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3277/6405334/f9f533158c06/blood862607f1.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC6405334/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3277/6405334/f9f533158c06/blood862607f1.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Figure 2.",
+      "caption": "Risk of breast cancer after chest RT by tertiles of the RT-interaction-PRS among HL survivors.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3277/6405334/6a3fb04d943d/blood862607f2.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3277/6405334/6a3fb04d943d/blood862607f2.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3277/6405334/6a3fb04d943d/blood862607f2.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3277/6405334/6a3fb04d943d/blood862607f2.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3277/6405334/6a3fb04d943d/blood862607f2.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC6405334/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3277/6405334/6a3fb04d943d/blood862607f2.jpg"
+    },
+    "figure_3": {
+      "figure_number": "Figure 3",
+      "title": "Figure 3.",
+      "caption": "Risk of breast cancer after chest RT by deciles of the BC-PRS in the breast cancer after HL case-control analysis.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3277/6405334/f1437748427b/blood862607f3.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3277/6405334/f1437748427b/blood862607f3.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3277/6405334/f1437748427b/blood862607f3.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3277/6405334/f1437748427b/blood862607f3.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F3",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3277/6405334/f1437748427b/blood862607f3.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC6405334/images/figure_3.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3277/6405334/f1437748427b/blood862607f3.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "Therefore, we used a 2-step design to identify susceptibility variants for radiation-induced breast cancer (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For each SNP, we used logistic regression analysis to estimate the per-allele interaction odds ratio (IOR), a measure of departure from a multiplicative joint effect of the SNP and chest RT, for the risk of breast cancer, assuming independence between chest RT and the SNP in women from the general population.31\nFigure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "SNPs interacting with RT on breast cancer risk (case-only analysis)\nWe tested 194 106 SNPs that passed quality control for an interaction with chest RT in the case-only analysis of breast cancer patients (QQ plot is depicted in supplemental Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The RT-interaction-PRS increased breast cancer risk after chest RT for HL with ORs of 1.2 (95% CI, 0.8-1.7; P = .348) and 1.6 (95% CI, 1.1-2.4; P = .007), respectively, for the middle and highest tertiles compared with the lowest tertile, adjusted for age and year of HL diagnosis, country, ethnicity, and the BC-PRS (Figure 2; supplemental Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Of note, rs10505506 is not in LD (r2 < 0.3 in Europeans from the 1000 Genomes Project38) with previously identified cancer risk variants in the PVT1 locus (supplemental Figure 2).PRS based on known breast cancer SNPs (case-control analysis)\nTo evaluate the combined effect of known breast cancer SNPs, we studied a BC-PRS containing 76 SNPs that increase breast cancer risk in the general population30 in chest-irradiated HL survivors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The ORs for developing breast cancer after chest RT for HL by deciles of the BC-PRS, compared with women in the middle quintile (40th to 60th percentile), are shown in Figure 3 and supplemental Table 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Therefore, we used a 2-step design to identify susceptibility variants for radiation-induced breast cancer (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For each SNP, we used logistic regression analysis to estimate the per-allele interaction odds ratio (IOR), a measure of departure from a multiplicative joint effect of the SNP and chest RT, for the risk of breast cancer, assuming independence between chest RT and the SNP in women from the general population.31\nFigure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "SNPs interacting with RT on breast cancer risk (case-only analysis)\nWe tested 194 106 SNPs that passed quality control for an interaction with chest RT in the case-only analysis of breast cancer patients (QQ plot is depicted in supplemental Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The RT-interaction-PRS increased breast cancer risk after chest RT for HL with ORs of 1.2 (95% CI, 0.8-1.7; P = .348) and 1.6 (95% CI, 1.1-2.4; P = .007), respectively, for the middle and highest tertiles compared with the lowest tertile, adjusted for age and year of HL diagnosis, country, ethnicity, and the BC-PRS (Figure 2; supplemental Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Of note, rs10505506 is not in LD (r2 < 0.3 in Europeans from the 1000 Genomes Project38) with previously identified cancer risk variants in the PVT1 locus (supplemental Figure 2).PRS based on known breast cancer SNPs (case-control analysis)\nTo evaluate the combined effect of known breast cancer SNPs, we studied a BC-PRS containing 76 SNPs that increase breast cancer risk in the general population30 in chest-irradiated HL survivors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The ORs for developing breast cancer after chest RT for HL by deciles of the BC-PRS, compared with women in the middle quintile (40th to 60th percentile), are shown in Figure 3 and supplemental Table 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Therefore, we used a 2-step design to identify susceptibility variants for radiation-induced breast cancer (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For each SNP, we used logistic regression analysis to estimate the per-allele interaction odds ratio (IOR), a measure of departure from a multiplicative joint effect of the SNP and chest RT, for the risk of breast cancer, assuming independence between chest RT and the SNP in women from the general population.31\nFigure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "SNPs interacting with RT on breast cancer risk (case-only analysis)\nWe tested 194 106 SNPs that passed quality control for an interaction with chest RT in the case-only analysis of breast cancer patients (QQ plot is depicted in supplemental Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The RT-interaction-PRS increased breast cancer risk after chest RT for HL with ORs of 1.2 (95% CI, 0.8-1.7; P = .348) and 1.6 (95% CI, 1.1-2.4; P = .007), respectively, for the middle and highest tertiles compared with the lowest tertile, adjusted for age and year of HL diagnosis, country, ethnicity, and the BC-PRS (Figure 2; supplemental Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Of note, rs10505506 is not in LD (r2 < 0.3 in Europeans from the 1000 Genomes Project38) with previously identified cancer risk variants in the PVT1 locus (supplemental Figure 2).PRS based on known breast cancer SNPs (case-control analysis)\nTo evaluate the combined effect of known breast cancer SNPs, we studied a BC-PRS containing 76 SNPs that increase breast cancer risk in the general population30 in chest-irradiated HL survivors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The ORs for developing breast cancer after chest RT for HL by deciles of the BC-PRS, compared with women in the middle quintile (40th to 60th percentile), are shown in Figure 3 and supplemental Table 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Therefore, we used a 2-step design to identify susceptibility variants for radiation-induced breast cancer (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For each SNP, we used logistic regression analysis to estimate the per-allele interaction odds ratio (IOR), a measure of departure from a multiplicative joint effect of the SNP and chest RT, for the risk of breast cancer, assuming independence between chest RT and the SNP in women from the general population.31\nFigure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "SNPs interacting with RT on breast cancer risk (case-only analysis)\nWe tested 194 106 SNPs that passed quality control for an interaction with chest RT in the case-only analysis of breast cancer patients (QQ plot is depicted in supplemental Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The RT-interaction-PRS increased breast cancer risk after chest RT for HL with ORs of 1.2 (95% CI, 0.8-1.7; P = .348) and 1.6 (95% CI, 1.1-2.4; P = .007), respectively, for the middle and highest tertiles compared with the lowest tertile, adjusted for age and year of HL diagnosis, country, ethnicity, and the BC-PRS (Figure 2; supplemental Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Of note, rs10505506 is not in LD (r2 < 0.3 in Europeans from the 1000 Genomes Project38) with previously identified cancer risk variants in the PVT1 locus (supplemental Figure 2).PRS based on known breast cancer SNPs (case-control analysis)\nTo evaluate the combined effect of known breast cancer SNPs, we studied a BC-PRS containing 76 SNPs that increase breast cancer risk in the general population30 in chest-irradiated HL survivors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The ORs for developing breast cancer after chest RT for HL by deciles of the BC-PRS, compared with women in the middle quintile (40th to 60th percentile), are shown in Figure 3 and supplemental Table 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Therefore, we used a 2-step design to identify susceptibility variants for radiation-induced breast cancer (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For each SNP, we used logistic regression analysis to estimate the per-allele interaction odds ratio (IOR), a measure of departure from a multiplicative joint effect of the SNP and chest RT, for the risk of breast cancer, assuming independence between chest RT and the SNP in women from the general population.31\nFigure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "SNPs interacting with RT on breast cancer risk (case-only analysis)\nWe tested 194 106 SNPs that passed quality control for an interaction with chest RT in the case-only analysis of breast cancer patients (QQ plot is depicted in supplemental Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The RT-interaction-PRS increased breast cancer risk after chest RT for HL with ORs of 1.2 (95% CI, 0.8-1.7; P = .348) and 1.6 (95% CI, 1.1-2.4; P = .007), respectively, for the middle and highest tertiles compared with the lowest tertile, adjusted for age and year of HL diagnosis, country, ethnicity, and the BC-PRS (Figure 2; supplemental Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Of note, rs10505506 is not in LD (r2 < 0.3 in Europeans from the 1000 Genomes Project38) with previously identified cancer risk variants in the PVT1 locus (supplemental Figure 2).PRS based on known breast cancer SNPs (case-control analysis)\nTo evaluate the combined effect of known breast cancer SNPs, we studied a BC-PRS containing 76 SNPs that increase breast cancer risk in the general population30 in chest-irradiated HL survivors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The ORs for developing breast cancer after chest RT for HL by deciles of the BC-PRS, compared with women in the middle quintile (40th to 60th percentile), are shown in Figure 3 and supplemental Table 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Therefore, we used a 2-step design to identify susceptibility variants for radiation-induced breast cancer (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For each SNP, we used logistic regression analysis to estimate the per-allele interaction odds ratio (IOR), a measure of departure from a multiplicative joint effect of the SNP and chest RT, for the risk of breast cancer, assuming independence between chest RT and the SNP in women from the general population.31\nFigure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "SNPs interacting with RT on breast cancer risk (case-only analysis)\nWe tested 194 106 SNPs that passed quality control for an interaction with chest RT in the case-only analysis of breast cancer patients (QQ plot is depicted in supplemental Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The RT-interaction-PRS increased breast cancer risk after chest RT for HL with ORs of 1.2 (95% CI, 0.8-1.7; P = .348) and 1.6 (95% CI, 1.1-2.4; P = .007), respectively, for the middle and highest tertiles compared with the lowest tertile, adjusted for age and year of HL diagnosis, country, ethnicity, and the BC-PRS (Figure 2; supplemental Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Of note, rs10505506 is not in LD (r2 < 0.3 in Europeans from the 1000 Genomes Project38) with previously identified cancer risk variants in the PVT1 locus (supplemental Figure 2).PRS based on known breast cancer SNPs (case-control analysis)\nTo evaluate the combined effect of known breast cancer SNPs, we studied a BC-PRS containing 76 SNPs that increase breast cancer risk in the general population30 in chest-irradiated HL survivors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The ORs for developing breast cancer after chest RT for HL by deciles of the BC-PRS, compared with women in the middle quintile (40th to 60th percentile), are shown in Figure 3 and supplemental Table 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Therefore, we used a 2-step design to identify susceptibility variants for radiation-induced breast cancer (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For each SNP, we used logistic regression analysis to estimate the per-allele interaction odds ratio (IOR), a measure of departure from a multiplicative joint effect of the SNP and chest RT, for the risk of breast cancer, assuming independence between chest RT and the SNP in women from the general population.31\nFigure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "SNPs interacting with RT on breast cancer risk (case-only analysis)\nWe tested 194 106 SNPs that passed quality control for an interaction with chest RT in the case-only analysis of breast cancer patients (QQ plot is depicted in supplemental Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The RT-interaction-PRS increased breast cancer risk after chest RT for HL with ORs of 1.2 (95% CI, 0.8-1.7; P = .348) and 1.6 (95% CI, 1.1-2.4; P = .007), respectively, for the middle and highest tertiles compared with the lowest tertile, adjusted for age and year of HL diagnosis, country, ethnicity, and the BC-PRS (Figure 2; supplemental Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Of note, rs10505506 is not in LD (r2 < 0.3 in Europeans from the 1000 Genomes Project38) with previously identified cancer risk variants in the PVT1 locus (supplemental Figure 2).PRS based on known breast cancer SNPs (case-control analysis)\nTo evaluate the combined effect of known breast cancer SNPs, we studied a BC-PRS containing 76 SNPs that increase breast cancer risk in the general population30 in chest-irradiated HL survivors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The ORs for developing breast cancer after chest RT for HL by deciles of the BC-PRS, compared with women in the middle quintile (40th to 60th percentile), are shown in Figure 3 and supplemental Table 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Therefore, we used a 2-step design to identify susceptibility variants for radiation-induced breast cancer (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For each SNP, we used logistic regression analysis to estimate the per-allele interaction odds ratio (IOR), a measure of departure from a multiplicative joint effect of the SNP and chest RT, for the risk of breast cancer, assuming independence between chest RT and the SNP in women from the general population.31\nFigure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "SNPs interacting with RT on breast cancer risk (case-only analysis)\nWe tested 194 106 SNPs that passed quality control for an interaction with chest RT in the case-only analysis of breast cancer patients (QQ plot is depicted in supplemental Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The RT-interaction-PRS increased breast cancer risk after chest RT for HL with ORs of 1.2 (95% CI, 0.8-1.7; P = .348) and 1.6 (95% CI, 1.1-2.4; P = .007), respectively, for the middle and highest tertiles compared with the lowest tertile, adjusted for age and year of HL diagnosis, country, ethnicity, and the BC-PRS (Figure 2; supplemental Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Of note, rs10505506 is not in LD (r2 < 0.3 in Europeans from the 1000 Genomes Project38) with previously identified cancer risk variants in the PVT1 locus (supplemental Figure 2).PRS based on known breast cancer SNPs (case-control analysis)\nTo evaluate the combined effect of known breast cancer SNPs, we studied a BC-PRS containing 76 SNPs that increase breast cancer risk in the general population30 in chest-irradiated HL survivors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The ORs for developing breast cancer after chest RT for HL by deciles of the BC-PRS, compared with women in the middle quintile (40th to 60th percentile), are shown in Figure 3 and supplemental Table 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Therefore, we used a 2-step design to identify susceptibility variants for radiation-induced breast cancer (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For each SNP, we used logistic regression analysis to estimate the per-allele interaction odds ratio (IOR), a measure of departure from a multiplicative joint effect of the SNP and chest RT, for the risk of breast cancer, assuming independence between chest RT and the SNP in women from the general population.31\nFigure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Therefore, we used a 2-step design to identify susceptibility variants for radiation-induced breast cancer (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For each SNP, we used logistic regression analysis to estimate the per-allele interaction odds ratio (IOR), a measure of departure from a multiplicative joint effect of the SNP and chest RT, for the risk of breast cancer, assuming independence between chest RT and the SNP in women from the general population.31\nFigure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Therefore, we used a 2-step design to identify susceptibility variants for radiation-induced breast cancer (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "SNPs interacting with RT on breast cancer risk (case-only analysis)\nWe tested 194 106 SNPs that passed quality control for an interaction with chest RT in the case-only analysis of breast cancer patients (QQ plot is depicted in supplemental Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The RT-interaction-PRS increased breast cancer risk after chest RT for HL with ORs of 1.2 (95% CI, 0.8-1.7; P = .348) and 1.6 (95% CI, 1.1-2.4; P = .007), respectively, for the middle and highest tertiles compared with the lowest tertile, adjusted for age and year of HL diagnosis, country, ethnicity, and the BC-PRS (Figure 2; supplemental Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Of note, rs10505506 is not in LD (r2 < 0.3 in Europeans from the 1000 Genomes Project38) with previously identified cancer risk variants in the PVT1 locus (supplemental Figure 2).PRS based on known breast cancer SNPs (case-control analysis)\nTo evaluate the combined effect of known breast cancer SNPs, we studied a BC-PRS containing 76 SNPs that increase breast cancer risk in the general population30 in chest-irradiated HL survivors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The ORs for developing breast cancer after chest RT for HL by deciles of the BC-PRS, compared with women in the middle quintile (40th to 60th percentile), are shown in Figure 3 and supplemental Table 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "SNPs interacting with RT on breast cancer risk (case-only analysis)\nWe tested 194 106 SNPs that passed quality control for an interaction with chest RT in the case-only analysis of breast cancer patients (QQ plot is depicted in supplemental Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "We tested 194 106 SNPs that passed quality control for an interaction with chest RT in the case-only analysis of breast cancer patients (QQ plot is depicted in supplemental Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The RT-interaction-PRS increased breast cancer risk after chest RT for HL with ORs of 1.2 (95% CI, 0.8-1.7; P = .348) and 1.6 (95% CI, 1.1-2.4; P = .007), respectively, for the middle and highest tertiles compared with the lowest tertile, adjusted for age and year of HL diagnosis, country, ethnicity, and the BC-PRS (Figure 2; supplemental Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Of note, rs10505506 is not in LD (r2 < 0.3 in Europeans from the 1000 Genomes Project38) with previously identified cancer risk variants in the PVT1 locus (supplemental Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The RT-interaction-PRS increased breast cancer risk after chest RT for HL with ORs of 1.2 (95% CI, 0.8-1.7; P = .348) and 1.6 (95% CI, 1.1-2.4; P = .007), respectively, for the middle and highest tertiles compared with the lowest tertile, adjusted for age and year of HL diagnosis, country, ethnicity, and the BC-PRS (Figure 2; supplemental Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Of note, rs10505506 is not in LD (r2 < 0.3 in Europeans from the 1000 Genomes Project38) with previously identified cancer risk variants in the PVT1 locus (supplemental Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The ORs for developing breast cancer after chest RT for HL by deciles of the BC-PRS, compared with women in the middle quintile (40th to 60th percentile), are shown in Figure 3 and supplemental Table 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The ORs for developing breast cancer after chest RT for HL by deciles of the BC-PRS, compared with women in the middle quintile (40th to 60th percentile), are shown in Figure 3 and supplemental Table 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 3,
+    "claims_count": 65,
+    "images_downloaded": 3,
+    "tables_filtered": 32
+  }
+}

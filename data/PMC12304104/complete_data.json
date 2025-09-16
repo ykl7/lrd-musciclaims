@@ -1,0 +1,1407 @@
+{
+  "paper_id": "PMC12304104",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12304104/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Fig. 1.",
+      "caption": "Multi-QTL Co-localization Analysis. (A, B, C) eQTL co-localization analysis reveals that CDKN2B-AS1, CDKN2A, and CDKN2B co-localize with brain cancer. (D, E, F) mQTL co-localization analysis identifies three methylation sites—TERT cg03935379, AL359922.1 cg14069088, and TERT cg00624418—that exhibit co-localization signals. (G, H) sQTL co-localization analysis demonstrates that AL359922.1 (chr9:22,052,542–22,052,842) and CDKN2B-AS1 (chr9:21,995,161–22,046,751) co-localize with brain cancer. Additional co-localization statistics are provided in Table 1. (I, J) The loci of the CDKN2B-AS1 and TERT genes are explored for their genetic correlations with diseases associated with these loci.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/690adb74f46a/41598_2025_10360_Fig1_HTML.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/690adb74f46a/41598_2025_10360_Fig1_HTML.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/690adb74f46a/41598_2025_10360_Fig1_HTML.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/690adb74f46a/41598_2025_10360_Fig1_HTML.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "Fig1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/690adb74f46a/41598_2025_10360_Fig1_HTML.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC12304104/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/690adb74f46a/41598_2025_10360_Fig1_HTML.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Fig. 2.",
+      "caption": "Analysis of CNVs, Gene Expression, and Methylation in TCGA-LGG/GBM Cohorts. (A) Distribution of CNV Types for CDKN2A, CDKN2B, and TERT genes. (B, C) Prevalence of Heterozygous Amplification (Hete.Amp.) in GBM versus LGG. Panels 2B and 2C highlight the significantly higher prevalence of Hete.Amp. in GBM compared to LGG for the TERT gene, with over 75% of samples in both tumor types lacking CNV. (D) CNV Association with Prognosis in LGG and GBM. This panel illustrates the significant association between CNVs of CDKN2A and CDKN2B and various survival metrics—Disease-Specific Survival (DSS), Overall Survival (OS), and Progression-Free Survival (PFS)—in LGG, with a log-rank P value < 0.05. (E) Correlation Between CNV and mRNA Expression. The positive correlation between CNV and mRNA expression for CDKN2A and CDKN2B in both LGG and GBM is depicted, indicating that increases in CNV are generally accompanied by elevated mRNA expression levels. (F) The average methylation level of CDKN2A is shown to be a favorable prognostic factor in LGG across different survival metrics. (G) Regulatory Effects of Methylation on CDKN2A, CDKN2B, and TERT. CDKN2B is negatively regulated, while CDKN2A is positively regulated by methylation in both tumor types. (H–Y) Methylation Sites as Independent Prognostic Factors. Methylation sites cg03935379 (TERT), cg08390209 (CDKN2B), and cg14069088 (CDKN2A) are identified as independent prognostic factors in LGG but not in GBM. The impact of these methylation sites on CNV levels, gene expression, and their correlation with survival metrics is detailed.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/56940e2d398d/41598_2025_10360_Fig2_HTML.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/56940e2d398d/41598_2025_10360_Fig2_HTML.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/56940e2d398d/41598_2025_10360_Fig2_HTML.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/56940e2d398d/41598_2025_10360_Fig2_HTML.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "Fig2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/56940e2d398d/41598_2025_10360_Fig2_HTML.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC12304104/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/56940e2d398d/41598_2025_10360_Fig2_HTML.jpg"
+    },
+    "figure_3": {
+      "figure_number": "Figure 3",
+      "title": "Fig. 3.",
+      "caption": "Genetic Alterations and Expression Correlations of CDKN2A, CDKN2B, and CDKN2B-AS1. (A) Analysis of genetic alterations in CDKN2A, CDKN2B, and CDKN2B-AS1 in the TCGA-GBM cohort. (B, C) Correlation of CDKN2B-AS1 expression with CDKN2A and CDKN2B gene expression in the TCGA-GBM cohort. (D) Analysis of genetic alterations in CDKN2A, CDKN2B, and CDKN2B-AS1 in the TCGA-LGG cohort. (E, F) Correlation of CDKN2B-AS1 expression with CDKN2A and CDKN2B gene expression in the TCGA-LGG cohort.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/a67acbe6b824/41598_2025_10360_Fig3_HTML.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/a67acbe6b824/41598_2025_10360_Fig3_HTML.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/a67acbe6b824/41598_2025_10360_Fig3_HTML.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/a67acbe6b824/41598_2025_10360_Fig3_HTML.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "Fig3",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/a67acbe6b824/41598_2025_10360_Fig3_HTML.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC12304104/images/figure_3.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/a67acbe6b824/41598_2025_10360_Fig3_HTML.jpg"
+    },
+    "figure_4": {
+      "figure_number": "Figure 4",
+      "title": "Fig. 4.",
+      "caption": "Validation of Co-occurrence and Expression Correlations of CDKN2B-AS1 with CDKN2A and CDKN2B in the CPTAC-Glioma Cohort. (A) Analysis of genetic alterations in CDKN2A, CDKN2B, and CDKN2B-AS1 in the CPTAC-Glioma cohort. This analysis reveals significant co-occurrence of these genes across TCGA-LGG, TCGA-GBM, and CPTAC-Glioma cohorts (Log2 Odds Ratio > 3, q-Value < 0.001), suggesting a shared regulatory mechanism that influences tumorigenesis and progression. (B–E) In the CPTAC-Glioma cohort, CDKN2B-AS1 gene expression demonstrates strong positive correlations with both CDKN2A and CDKN2B gene and protein expression. Specifically, the Spearman and Pearson correlation coefficients indicate significant associations (e.g., CDKN2A: Spearman Cor = 0.83, Pearson Cor = 0.87, P < 0.001; CDKN2B: Spearman Cor = 0.80, Pearson Cor = 0.83, P < 0.001). These findings further validate the role of CDKN2B-AS1 in regulating CDKN2A and CDKN2B, highlighting its potential impact on glioma development and progression.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/367803d569eb/41598_2025_10360_Fig4_HTML.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/367803d569eb/41598_2025_10360_Fig4_HTML.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/367803d569eb/41598_2025_10360_Fig4_HTML.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/367803d569eb/41598_2025_10360_Fig4_HTML.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "Fig4",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/367803d569eb/41598_2025_10360_Fig4_HTML.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC12304104/images/figure_4.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/367803d569eb/41598_2025_10360_Fig4_HTML.jpg"
+    },
+    "figure_5": {
+      "figure_number": "Figure 5",
+      "title": "Fig. 5.",
+      "caption": "Role of CDKN2B-AS1 in LGG and the Tumor Microenvironment. (A) Comparison of cellular infiltration in the tumor microenvironment across multiple LGG and GBM cohorts using various algorithms (CIBERSORT, EPIC, etc.). CDKN2B-AS1 expression shows positive correlations with immune-activating cells (e.g., CD8 + T cells, M1 macrophages) and negative correlations with immunosuppressive cells (e.g., Tregs, M2 macrophages). However, these correlations vary across different algorithms and cohorts. (B) Immunomodulator analysis reveals that CDKN2B-AS1 is positively correlated with antigen presentation genes (e.g., HLA-F, HLA-DMA) and several immune-activating and inhibitory genes. This indicates a dual role in promoting immune activation while potentially regulating suppression processes. (C, D) Differential expression analysis of TCGA-LGG cohort groups based on CDKN2B-AS1 expression levels shows that high expression is enriched in pathways related to ncRNA processing and apoptosis, while low expression is linked to pathways associated with synaptic transmission and gated channel activity. KEGG pathway analysis further indicates distinct enrichment profiles for both groups. (E) Comparison of gene alterations between high and low CDKN2B-AS1 expression groups reveals no significant differences in frequently mutated genes or chromosomal regions. (F–I) Gene Set Enrichment Analysis (GSEA) indicates that genes positively correlated with CDKN2B-AS1 are enriched in pathways related to immune response and DNA replication, while negatively correlated genes are linked to calcium signaling. Hallmark analysis shows enrichment in interferon responses and DNA repair pathways for positively correlated genes. Overall, high CDKN2B-AS1 expression is associated with enhanced cell growth, immune activation, and apoptosis, suggesting a role in tumor progression, whereas low expression is linked to neural signaling processes, potentially affecting the tumor microenvironment.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/9d31a838680c/41598_2025_10360_Fig5_HTML.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/9d31a838680c/41598_2025_10360_Fig5_HTML.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/9d31a838680c/41598_2025_10360_Fig5_HTML.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/9d31a838680c/41598_2025_10360_Fig5_HTML.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "Fig5",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/9d31a838680c/41598_2025_10360_Fig5_HTML.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC12304104/images/figure_5.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/9d31a838680c/41598_2025_10360_Fig5_HTML.jpg"
+    },
+    "figure_6": {
+      "figure_number": "Figure 6",
+      "title": "Fig. 6.",
+      "caption": "CDKN2B-AS1 and Its Role in GBM Tumor Microenvironment and Molecular Pathways. (A–C) In the GBM cohorts, the correlation between CDKN2B-AS1 expression and RNA modification-related genes (m1A, m5C, m6A) was explored, revealing variable results. (D, E) Differential expression analysis in the TCGA-GBM cohort, grouped by CDKN2B-AS1 expression levels, showed that the high expression group is enriched in pathways related to DNA damage response, DNA repair, and chromatin binding. In contrast, the low expression group is associated with sensory perception and olfactory receptor activity. KEGG analysis indicated that high expression is related to cell cycle and DNA replication pathways, while low expression is linked to p53 signaling and fatty acid degradation. (F) The high CDKN2B-AS1 expression group in GBM exhibited elevated mutation rates in TP53, SPTA1, and RB1, with notable copy number alterations, including losses at 12q.14.1 and 17p.13.1 and gains at 9p21.3. (G–J) GSEA analysis revealed that genes positively correlated with CDKN2B-AS1 are enriched in pathways related to DNA replication and cell cycle regulation, while negatively correlated genes are linked to potassium ion response and protein folding. Hallmark analysis further indicated enrichment in E2F targets and G2M checkpoint pathways. Overall, these findings suggest that high CDKN2B-AS1 expression in GBM is significantly associated with DNA damage response and repair, indicating a role in maintaining genomic stability. CDKN2B-AS1 may enhance tumor cell proliferation through its regulation of DNA replication and cell cycle processes, supported by consistent results across GO, KEGG, and Hallmark analyses.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/a9a1254a4687/41598_2025_10360_Fig6_HTML.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/a9a1254a4687/41598_2025_10360_Fig6_HTML.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/a9a1254a4687/41598_2025_10360_Fig6_HTML.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/a9a1254a4687/41598_2025_10360_Fig6_HTML.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "Fig6",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/a9a1254a4687/41598_2025_10360_Fig6_HTML.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC12304104/images/figure_6.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/a9a1254a4687/41598_2025_10360_Fig6_HTML.jpg"
+    },
+    "figure_7": {
+      "figure_number": "Figure 7",
+      "title": "Fig. 7.",
+      "caption": "Spatial Heterogeneity of CDKN2B-AS1 in Glioma. (A) Analysis of CDKN2B-AS1 expression across 15 glioma single-cell cohorts from the TISCH2 database. The expression (log(TPM/10 + 1)) was evaluated in 16 cell types, revealing that CDKN2B-AS1 is predominantly enriched in Mono/Macro (10/15), AC-like Malignant (7/15), and Oligodendrocyte (7/15) cells. (B–D) Spatial transcriptomics analysis using the SpatialTME platform on publicly available GBM data from 10X Genomics identified 18 morphological clusters and 10 distinct cell types (Tumor Cells, CD4 T Cells, CD8 T Cells, NK Cells, Macrophages, Dendritic Cells, Neutrophils, Endothelial Cells, Fibroblasts, CNS Cells). (E–H) Consistent with single-cell analysis, CDKN2B-AS1, alongside CDKN2A and CDKN2B, exhibited similar spatial distribution patterns, primarily localized in Dendritic Cells (DCs). This localization supports earlier findings of positive correlations with antigen presentation-related genes and highlights the expression of CDKN2B-AS1 in immune-related and malignant cell types.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/c9f745ab07af/41598_2025_10360_Fig7_HTML.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/c9f745ab07af/41598_2025_10360_Fig7_HTML.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/c9f745ab07af/41598_2025_10360_Fig7_HTML.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/c9f745ab07af/41598_2025_10360_Fig7_HTML.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "Fig7",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/c9f745ab07af/41598_2025_10360_Fig7_HTML.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC12304104/images/figure_7.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/858f/12304104/c9f745ab07af/41598_2025_10360_Fig7_HTML.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "Results\nMulti-omics colocalization analysis reveals key genetic variants in brain cancer\neQTL analysis indicates that CDKN2A, CDKN2B, and CDKN2B-AS1 co-locate with brain cancer(Fig. 1A, B, C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Additional co-localization statistics are provided in Table 1. (I, J) The loci of the CDKN2B-AS1 and TERT genes are explored for their genetic correlations with diseases associated with these loci.mQTL analysis reveals that TERT, AL359922.1, and CDKN2B co-locate with brain cancer(Fig. 1D, E, F).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "ID\nMolecule\nProbe\nGene_id\nChr\nnsnps\npp_h4_abf\npp4_pp3\nColoc_snp\n\n\n\nieu-b-4875\neQTL\nENSG00000240498.9\nCDKN2B-AS1\n9\n2722\n0.951\n19.330\nrs613312\n\n\n\n\nENSG00000147889\nCDKN2A\n9\n2372\n0.917\n11.047\nrs523096\n\n\n\n\nENSG00000147883.12\nCDKN2B\n9\n2722\n0.906\n9.651\nrs7030641\n\n\n\nmQTL\ncg03935379\nTERT\n5\n228\n0.976\n39.965\nrs7726159\n\n\n\n\ncg14069088\nAL359922.1\n9\n162\n0.971\n33.636\nrs615552\n\n\n\n\ncg00624418\nTERT\n5\n232\n0.969\n31.655\nrs7726159\n\n\n\n\ncg08390209\nAL359922.1\n9\n270\n0.723\n2.611\nrs523096\n\n\n\n\ncg08390209\nCDKN2B\n9\n270\n0.723\n2.611\nrs523096\n\n\n\nhaQTL\npeak24709\nAL359922.1\n9\n2372\n0.802\n8.735\nrs615552\n\n\n\n\npeak24709\nCDKN2A\n9\n2372\n0.802\n8.735\nrs615552\n\n\n\nsQTL\nchr9:21,995,161:22,046,751\nCDKN2B-AS1\n9\n2451\n0.786\n3.675\nrs679038\n\n\n\n\nchr9:21,995,161:22,046,751\nRP11-149I2.4\n9\n2451\n0.786\n3.675\nrs679038\n\n\n\ncaQTL\nchr9_22052542_22052842\nAL359922.1\n9\n170\n0.829\n21.247\nrs615552\n\n\n\nOpen in a new tabsQTL analysis indicates that in the Pituitary_sQTL dataset, rs615552_AL359922.1 co-localizes with the non-coding genes CDKN2B-AS1 and RP11-149I2.4 (coloc_snp: rs679038, PP4 = 0.786, PP4/PP3 = 3.68)(Fig. 1G, H).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel G",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "We analyzed the loci of the CDKN2B-AS1 and TERT genes and explored the genetic correlations with diseases associated with these loci (Fig. 1I, J).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel I",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "These findings provide important clues for further research into the specific functional mechanisms of these SNPs and genes in brain cancer and other diseases, potentially aiding in the development of new therapeutic strategies and diagnostic methods.Copy number and methylation signatures of CDKN2A, CDKN2B, and TERT in brain cancer prognosis\nIn the TCGA-LGG/GBM cohorts, we compared the copy number variations (CNVs) and other modal information for the genes CDKN2A, CDKN2B, and TERT (Fig. 2A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "However, Hete.Amp. was significantly more prevalent in GBM compared to LGG (Fig. 2B, C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The impact of these methylation sites on CNV levels, gene expression, and their correlation with survival metrics is detailed.Next, we analyzed the relationship between CDKN2A, CDKN2B, and TERT CNVs and prognosis in LGG and GBM (Fig. 2D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel D",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel D",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel D",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Moreover, CDKN2A and CDKN2B showed a positive correlation between CNV and mRNA expression in both LGG and GBM, indicating that CNV increases (such as amplifications) were generally accompanied by elevated mRNA expression levels (Fig. 2E).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel E",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel E",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel E",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "By comparing the methylation signatures of CDKN2A, CDKN2B, and TERT in the TCGA-LGG/GBM cohorts, we found that the average methylation level of CDKN2A was a favorable prognostic factor in LGG (DFI, DSS, OS, PFS) (Fig. 2F).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel F",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel F",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel F",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "We further investigated the relationship between gene expression regulation and methylation for these three genes (Fig. 2G).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel G",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel G",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel G",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "High methylation of cg03935379 (TERT) was a favorable prognostic factor for LGG patients (P < 0.001, HR = 0.5, 95% CI: 0.35–0.7) and a non-significant favorable factor for GBM patients (P < 0.1, HR = 0.72, 95% CI: 0.49–1.06) (Fig. 2H-Y).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel H",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "We found that these genes exhibit co-occurrence in all three cohorts (Log2 Odds Ratio > 3, q-Value < 0.001)(Table S1, Fig. 3A, Fig. 3D, Fig. 4A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "CDKN2B-AS1, being a non-coding RNA, does not function by encoding proteins but likely participates in the post-transcriptional regulation of CDKN2A and CDKN2B, indirectly affecting the expression regulation of these cell cycle regulatory genes, given their colocation in the same genetic locus (Fig. 1I).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel I",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel I",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel I",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nGenetic Alterations and Expression Correlations of CDKN2A, CDKN2B, and CDKN2B-AS1. (A) Analysis of genetic alterations in CDKN2A, CDKN2B, and CDKN2B-AS1 in the TCGA-GBM cohort. (B, C) Correlation of CDKN2B-AS1 expression with CDKN2A and CDKN2B gene expression in the TCGA-GBM cohort. (D) Analysis of genetic alterations in CDKN2A, CDKN2B, and CDKN2B-AS1 in the TCGA-LGG cohort. (E, F) Correlation of CDKN2B-AS1 expression with CDKN2A and CDKN2B gene expression in the TCGA-LGG cohort.Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Furthermore, deep deletions significantly reduced the expression of CDKN2A, CDKN2B, and CDKN2B-AS1, aligning with our previous findings(Fig. 3B, C, E, F).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Similarly, CDKN2B-AS1 gene expression is significantly positively correlated with CDKN2B gene expression (Spearman Cor = 0.80, Pearson Cor = 0.83, P < 0.001) and protein expression (Spearman Cor = 0.59, Pearson Cor = 0.63, P < 0.001)(Fig. 4B-E).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "However, these correlations were not consistent across different algorithms and cohorts(Fig. 5A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The positive correlation of CDKN2B-AS1 with antigen presentation-related genes indicates that high CDKN2B-AS1 expression may enhance tumor cell recognition by the immune system, particularly in LGG, suggesting a specific role in low-grade gliomas(Fig. 5B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "KEGG pathway analysis showed that the high CDKN2B-AS1 expression group is enriched in apoptosis, DNA replication, adipocytokine signaling, and Toll-like receptor signaling pathways, while the low expression group is enriched in calcium signaling, ErbB signaling, glioma, and long-term depression pathways(Fig. 5C, D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel C",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Overall, high CDKN2B-AS1 expression is associated with enhanced cell growth, immune activation, and apoptosis, suggesting a role in tumor progression, whereas low expression is linked to neural signaling processes, potentially affecting the tumor microenvironment.Comparing gene alterations between the two groups revealed no significant differences in frequently mutated genes and chromosomal regions(Fig. 5E).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel E",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel E",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel E",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "In contrast, low CDKN2B-AS1 expression is associated with neural and calcium signaling processes, potentially impacting the neural microenvironment of tumors(Fig. 5F-I).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel F",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Immunomodulator analysis also showed inconsistent results regarding the correlation between CDKN2B-AS1 and immune cell infiltration and immune-related pathways in GBM cohorts.In the TCGA-LGG and TCGA-GBM cohorts, we explored the correlation between CDKN2B-AS1 expression and genes related to RNA modifications (m1A, m5C, m6A)(Fig. 6A, B, C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "KEGG analysis revealed that the high expression group is enriched in cell cycle, oocyte meiosis, mTOR signaling, DNA replication, and mismatch repair pathways, while the low expression group is enriched in p53 signaling, fatty acid degradation, and drug metabolism-cytochrome P450 pathways(Fig. 6D, E).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel D",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "CDKN2B-AS1 may enhance tumor cell proliferation through its regulation of DNA replication and cell cycle processes, supported by consistent results across GO, KEGG, and Hallmark analyses.In GBM, the high CDKN2B-AS1 expression group exhibited higher mutation rates in TP53, SPTA1, and RB1, with more frequent copy number losses at 12q.14.1 and 17p.13.1, and more frequent copy number gains at 9p21.3(Fig. 6F).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel F",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel F",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel F",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "The consistent results from GO, KEGG, and Hallmark gene set GSEA analyses support the importance of CDKN2B-AS1 in DNA replication, cell cycle regulation, and DNA repair(Fig. 6G-J).Distribution characteristics of the glioma susceptibility lncRNA CDKN2B-AS1 in single-cell and spatial transcriptomics\nTo explore the spatial heterogeneity of CDKN2B-AS1, we analyzed its expression in 15 glioma single-cell cohorts from the TISCH2 database, which includes Glioma_GSE102130, Glioma_GSE103224, Glioma_GSE131928_10X, Glioma_GSE131928_Smartseq2, Glioma_GSE135437, Glioma_GSE141383, Glioma_GSE141460, Glioma_GSE141982, Glioma_GSE148842, Glioma_GSE162631, Glioma_GSE163108_10X, Glioma_GSE163108_Smartseq2, Glioma_GSE70630, Glioma_GSE84465, and Glioma_GSE89567.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel G",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "The results indicate that CDKN2B-AS1 is predominantly enriched in Mono/Macro (10/15), AC-like Malignant (7/15), and Oligodendrocyte (7/15) cells(Fig. 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In this spatial transcriptomics dataset, 18 clusters (Morphological adjusted clusters) and 10 cell types (TumorCells, CD4TCells, CD8TCells, NKCells, Macrophages, DCs, Neutrophils, EndothelialCells, Fibroblasts, and CNSCells) were identified(Fig. 7B-D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "This result aligns with our earlier observations that CDKN2B-AS1 expression is positively correlated with antigen presentation-related genes and is localized to Mono/Macro cells at the single-cell level(Fig. 7E-H).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel E",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Multi-omics colocalization analysis reveals key genetic variants in brain cancer\neQTL analysis indicates that CDKN2A, CDKN2B, and CDKN2B-AS1 co-locate with brain cancer(Fig. 1A, B, C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Additional co-localization statistics are provided in Table 1. (I, J) The loci of the CDKN2B-AS1 and TERT genes are explored for their genetic correlations with diseases associated with these loci.mQTL analysis reveals that TERT, AL359922.1, and CDKN2B co-locate with brain cancer(Fig. 1D, E, F).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "ID\nMolecule\nProbe\nGene_id\nChr\nnsnps\npp_h4_abf\npp4_pp3\nColoc_snp\n\n\n\nieu-b-4875\neQTL\nENSG00000240498.9\nCDKN2B-AS1\n9\n2722\n0.951\n19.330\nrs613312\n\n\n\n\nENSG00000147889\nCDKN2A\n9\n2372\n0.917\n11.047\nrs523096\n\n\n\n\nENSG00000147883.12\nCDKN2B\n9\n2722\n0.906\n9.651\nrs7030641\n\n\n\nmQTL\ncg03935379\nTERT\n5\n228\n0.976\n39.965\nrs7726159\n\n\n\n\ncg14069088\nAL359922.1\n9\n162\n0.971\n33.636\nrs615552\n\n\n\n\ncg00624418\nTERT\n5\n232\n0.969\n31.655\nrs7726159\n\n\n\n\ncg08390209\nAL359922.1\n9\n270\n0.723\n2.611\nrs523096\n\n\n\n\ncg08390209\nCDKN2B\n9\n270\n0.723\n2.611\nrs523096\n\n\n\nhaQTL\npeak24709\nAL359922.1\n9\n2372\n0.802\n8.735\nrs615552\n\n\n\n\npeak24709\nCDKN2A\n9\n2372\n0.802\n8.735\nrs615552\n\n\n\nsQTL\nchr9:21,995,161:22,046,751\nCDKN2B-AS1\n9\n2451\n0.786\n3.675\nrs679038\n\n\n\n\nchr9:21,995,161:22,046,751\nRP11-149I2.4\n9\n2451\n0.786\n3.675\nrs679038\n\n\n\ncaQTL\nchr9_22052542_22052842\nAL359922.1\n9\n170\n0.829\n21.247\nrs615552\n\n\n\nOpen in a new tabsQTL analysis indicates that in the Pituitary_sQTL dataset, rs615552_AL359922.1 co-localizes with the non-coding genes CDKN2B-AS1 and RP11-149I2.4 (coloc_snp: rs679038, PP4 = 0.786, PP4/PP3 = 3.68)(Fig. 1G, H).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel G",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "eQTL analysis indicates that CDKN2A, CDKN2B, and CDKN2B-AS1 co-locate with brain cancer(Fig. 1A, B, C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "mQTL analysis reveals that TERT, AL359922.1, and CDKN2B co-locate with brain cancer(Fig. 1D, E, F).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "sQTL analysis indicates that in the Pituitary_sQTL dataset, rs615552_AL359922.1 co-localizes with the non-coding genes CDKN2B-AS1 and RP11-149I2.4 (coloc_snp: rs679038, PP4 = 0.786, PP4/PP3 = 3.68)(Fig. 1G, H).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel G",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "We analyzed the loci of the CDKN2B-AS1 and TERT genes and explored the genetic correlations with diseases associated with these loci (Fig. 1I, J).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel I",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "We analyzed the loci of the CDKN2B-AS1 and TERT genes and explored the genetic correlations with diseases associated with these loci (Fig. 1I, J).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel I",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Copy number and methylation signatures of CDKN2A, CDKN2B, and TERT in brain cancer prognosis\nIn the TCGA-LGG/GBM cohorts, we compared the copy number variations (CNVs) and other modal information for the genes CDKN2A, CDKN2B, and TERT (Fig. 2A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "However, Hete.Amp. was significantly more prevalent in GBM compared to LGG (Fig. 2B, C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The impact of these methylation sites on CNV levels, gene expression, and their correlation with survival metrics is detailed.Next, we analyzed the relationship between CDKN2A, CDKN2B, and TERT CNVs and prognosis in LGG and GBM (Fig. 2D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel D",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel D",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel D",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Moreover, CDKN2A and CDKN2B showed a positive correlation between CNV and mRNA expression in both LGG and GBM, indicating that CNV increases (such as amplifications) were generally accompanied by elevated mRNA expression levels (Fig. 2E).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel E",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel E",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel E",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "By comparing the methylation signatures of CDKN2A, CDKN2B, and TERT in the TCGA-LGG/GBM cohorts, we found that the average methylation level of CDKN2A was a favorable prognostic factor in LGG (DFI, DSS, OS, PFS) (Fig. 2F).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel F",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel F",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel F",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "We further investigated the relationship between gene expression regulation and methylation for these three genes (Fig. 2G).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel G",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel G",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel G",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "High methylation of cg03935379 (TERT) was a favorable prognostic factor for LGG patients (P < 0.001, HR = 0.5, 95% CI: 0.35–0.7) and a non-significant favorable factor for GBM patients (P < 0.1, HR = 0.72, 95% CI: 0.49–1.06) (Fig. 2H-Y).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel H",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "In the TCGA-LGG/GBM cohorts, we compared the copy number variations (CNVs) and other modal information for the genes CDKN2A, CDKN2B, and TERT (Fig. 2A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "However, Hete.Amp. was significantly more prevalent in GBM compared to LGG (Fig. 2B, C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Next, we analyzed the relationship between CDKN2A, CDKN2B, and TERT CNVs and prognosis in LGG and GBM (Fig. 2D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel D",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel D",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel D",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Moreover, CDKN2A and CDKN2B showed a positive correlation between CNV and mRNA expression in both LGG and GBM, indicating that CNV increases (such as amplifications) were generally accompanied by elevated mRNA expression levels (Fig. 2E).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel E",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel E",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel E",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "By comparing the methylation signatures of CDKN2A, CDKN2B, and TERT in the TCGA-LGG/GBM cohorts, we found that the average methylation level of CDKN2A was a favorable prognostic factor in LGG (DFI, DSS, OS, PFS) (Fig. 2F).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel F",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel F",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel F",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "We further investigated the relationship between gene expression regulation and methylation for these three genes (Fig. 2G).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel G",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel G",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel G",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "High methylation of cg03935379 (TERT) was a favorable prognostic factor for LGG patients (P < 0.001, HR = 0.5, 95% CI: 0.35–0.7) and a non-significant favorable factor for GBM patients (P < 0.1, HR = 0.72, 95% CI: 0.49–1.06) (Fig. 2H-Y).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel H",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "We found that these genes exhibit co-occurrence in all three cohorts (Log2 Odds Ratio > 3, q-Value < 0.001)(Table S1, Fig. 3A, Fig. 3D, Fig. 4A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "CDKN2B-AS1, being a non-coding RNA, does not function by encoding proteins but likely participates in the post-transcriptional regulation of CDKN2A and CDKN2B, indirectly affecting the expression regulation of these cell cycle regulatory genes, given their colocation in the same genetic locus (Fig. 1I).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel I",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel I",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel I",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nGenetic Alterations and Expression Correlations of CDKN2A, CDKN2B, and CDKN2B-AS1. (A) Analysis of genetic alterations in CDKN2A, CDKN2B, and CDKN2B-AS1 in the TCGA-GBM cohort. (B, C) Correlation of CDKN2B-AS1 expression with CDKN2A and CDKN2B gene expression in the TCGA-GBM cohort. (D) Analysis of genetic alterations in CDKN2A, CDKN2B, and CDKN2B-AS1 in the TCGA-LGG cohort. (E, F) Correlation of CDKN2B-AS1 expression with CDKN2A and CDKN2B gene expression in the TCGA-LGG cohort.Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Furthermore, deep deletions significantly reduced the expression of CDKN2A, CDKN2B, and CDKN2B-AS1, aligning with our previous findings(Fig. 3B, C, E, F).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Similarly, CDKN2B-AS1 gene expression is significantly positively correlated with CDKN2B gene expression (Spearman Cor = 0.80, Pearson Cor = 0.83, P < 0.001) and protein expression (Spearman Cor = 0.59, Pearson Cor = 0.63, P < 0.001)(Fig. 4B-E).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We found that these genes exhibit co-occurrence in all three cohorts (Log2 Odds Ratio > 3, q-Value < 0.001)(Table S1, Fig. 3A, Fig. 3D, Fig. 4A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "CDKN2B-AS1, being a non-coding RNA, does not function by encoding proteins but likely participates in the post-transcriptional regulation of CDKN2A and CDKN2B, indirectly affecting the expression regulation of these cell cycle regulatory genes, given their colocation in the same genetic locus (Fig. 1I).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel I",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel I",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel I",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Furthermore, deep deletions significantly reduced the expression of CDKN2A, CDKN2B, and CDKN2B-AS1, aligning with our previous findings(Fig. 3B, C, E, F).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Similarly, CDKN2B-AS1 gene expression is significantly positively correlated with CDKN2B gene expression (Spearman Cor = 0.80, Pearson Cor = 0.83, P < 0.001) and protein expression (Spearman Cor = 0.59, Pearson Cor = 0.63, P < 0.001)(Fig. 4B-E).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "However, these correlations were not consistent across different algorithms and cohorts(Fig. 5A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The positive correlation of CDKN2B-AS1 with antigen presentation-related genes indicates that high CDKN2B-AS1 expression may enhance tumor cell recognition by the immune system, particularly in LGG, suggesting a specific role in low-grade gliomas(Fig. 5B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "KEGG pathway analysis showed that the high CDKN2B-AS1 expression group is enriched in apoptosis, DNA replication, adipocytokine signaling, and Toll-like receptor signaling pathways, while the low expression group is enriched in calcium signaling, ErbB signaling, glioma, and long-term depression pathways(Fig. 5C, D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel C",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Overall, high CDKN2B-AS1 expression is associated with enhanced cell growth, immune activation, and apoptosis, suggesting a role in tumor progression, whereas low expression is linked to neural signaling processes, potentially affecting the tumor microenvironment.Comparing gene alterations between the two groups revealed no significant differences in frequently mutated genes and chromosomal regions(Fig. 5E).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel E",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel E",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel E",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "In contrast, low CDKN2B-AS1 expression is associated with neural and calcium signaling processes, potentially impacting the neural microenvironment of tumors(Fig. 5F-I).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel F",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Immunomodulator analysis also showed inconsistent results regarding the correlation between CDKN2B-AS1 and immune cell infiltration and immune-related pathways in GBM cohorts.In the TCGA-LGG and TCGA-GBM cohorts, we explored the correlation between CDKN2B-AS1 expression and genes related to RNA modifications (m1A, m5C, m6A)(Fig. 6A, B, C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "KEGG analysis revealed that the high expression group is enriched in cell cycle, oocyte meiosis, mTOR signaling, DNA replication, and mismatch repair pathways, while the low expression group is enriched in p53 signaling, fatty acid degradation, and drug metabolism-cytochrome P450 pathways(Fig. 6D, E).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel D",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "CDKN2B-AS1 may enhance tumor cell proliferation through its regulation of DNA replication and cell cycle processes, supported by consistent results across GO, KEGG, and Hallmark analyses.In GBM, the high CDKN2B-AS1 expression group exhibited higher mutation rates in TP53, SPTA1, and RB1, with more frequent copy number losses at 12q.14.1 and 17p.13.1, and more frequent copy number gains at 9p21.3(Fig. 6F).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel F",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel F",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel F",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "The consistent results from GO, KEGG, and Hallmark gene set GSEA analyses support the importance of CDKN2B-AS1 in DNA replication, cell cycle regulation, and DNA repair(Fig. 6G-J).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel G",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "However, these correlations were not consistent across different algorithms and cohorts(Fig. 5A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The positive correlation of CDKN2B-AS1 with antigen presentation-related genes indicates that high CDKN2B-AS1 expression may enhance tumor cell recognition by the immune system, particularly in LGG, suggesting a specific role in low-grade gliomas(Fig. 5B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "KEGG pathway analysis showed that the high CDKN2B-AS1 expression group is enriched in apoptosis, DNA replication, adipocytokine signaling, and Toll-like receptor signaling pathways, while the low expression group is enriched in calcium signaling, ErbB signaling, glioma, and long-term depression pathways(Fig. 5C, D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel C",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Comparing gene alterations between the two groups revealed no significant differences in frequently mutated genes and chromosomal regions(Fig. 5E).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel E",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel E",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel E",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "In contrast, low CDKN2B-AS1 expression is associated with neural and calcium signaling processes, potentially impacting the neural microenvironment of tumors(Fig. 5F-I).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel F",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Immunomodulator analysis also showed inconsistent results regarding the correlation between CDKN2B-AS1 and immune cell infiltration and immune-related pathways in GBM cohorts.In the TCGA-LGG and TCGA-GBM cohorts, we explored the correlation between CDKN2B-AS1 expression and genes related to RNA modifications (m1A, m5C, m6A)(Fig. 6A, B, C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "KEGG analysis revealed that the high expression group is enriched in cell cycle, oocyte meiosis, mTOR signaling, DNA replication, and mismatch repair pathways, while the low expression group is enriched in p53 signaling, fatty acid degradation, and drug metabolism-cytochrome P450 pathways(Fig. 6D, E).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel D",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "In GBM, the high CDKN2B-AS1 expression group exhibited higher mutation rates in TP53, SPTA1, and RB1, with more frequent copy number losses at 12q.14.1 and 17p.13.1, and more frequent copy number gains at 9p21.3(Fig. 6F).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel F",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel F",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel F",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "The consistent results from GO, KEGG, and Hallmark gene set GSEA analyses support the importance of CDKN2B-AS1 in DNA replication, cell cycle regulation, and DNA repair(Fig. 6G-J).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel G",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "The results indicate that CDKN2B-AS1 is predominantly enriched in Mono/Macro (10/15), AC-like Malignant (7/15), and Oligodendrocyte (7/15) cells(Fig. 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In this spatial transcriptomics dataset, 18 clusters (Morphological adjusted clusters) and 10 cell types (TumorCells, CD4TCells, CD8TCells, NKCells, Macrophages, DCs, Neutrophils, EndothelialCells, Fibroblasts, and CNSCells) were identified(Fig. 7B-D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "This result aligns with our earlier observations that CDKN2B-AS1 expression is positively correlated with antigen presentation-related genes and is localized to Mono/Macro cells at the single-cell level(Fig. 7E-H).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel E",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "The results indicate that CDKN2B-AS1 is predominantly enriched in Mono/Macro (10/15), AC-like Malignant (7/15), and Oligodendrocyte (7/15) cells(Fig. 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In this spatial transcriptomics dataset, 18 clusters (Morphological adjusted clusters) and 10 cell types (TumorCells, CD4TCells, CD8TCells, NKCells, Macrophages, DCs, Neutrophils, EndothelialCells, Fibroblasts, and CNSCells) were identified(Fig. 7B-D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "This result aligns with our earlier observations that CDKN2B-AS1 expression is positively correlated with antigen presentation-related genes and is localized to Mono/Macro cells at the single-cell level(Fig. 7E-H).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel E",
+          "figure_key": "figure_7"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 7,
+    "claims_count": 83,
+    "images_downloaded": 7,
+    "tables_filtered": 3
+  }
+}

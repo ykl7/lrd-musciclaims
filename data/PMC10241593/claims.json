@@ -1,0 +1,1392 @@
+[
+  {
+    "sentence": "Materials and Methods\n\nFigure 1 depicts an overview of the suggested approach for predicting blood cancer using transfer learning-enabled malignant white blood cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the sample data instance of each blood sample class.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Equation (3) represents the distribution function of histogram equalization.\n\n\n(3)\n\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nBlood cell samples before image processing (this depicts the results of data samples before image preprocessing in the form of histogram equalization).Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 shows the training progress of SGD with momentum using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows the training progress of the adaptive momentum association using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 shows the training progress of root mean square (RMS) propagation using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the training progress of SGD with momentum using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the training progress of adaptive momentum association using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the training progress of RMS propagation using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 11 shows the training progress of SGD with momentum using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 12 shows the training progress of adaptive momentum association using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 13 shows the training progress of RMS propagation using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "AlexNet\n\nModel\nIterations\nLearning rate (LR)\nEpoch\nClassification accuracy (%)\nMissclassification rate (%)\n\n\n\n\nSGD moment\n5800\n0.001\n100\n99.2\n0.8\n\n\nADAM\n95.31\n4.69\n\n\nRMSPROP\n96.09\n3.91\n\n\n\nOpen in a new tab\nFigure 14 shows the training progress of SGD moments using AlexNet after image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  },
+  {
+    "sentence": "Materials and Methods\n\nFigure 1 depicts an overview of the suggested approach for predicting blood cancer using transfer learning-enabled malignant white blood cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the sample data instance of each blood sample class.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Equation (3) represents the distribution function of histogram equalization.\n\n\n(3)\n\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nBlood cell samples before image processing (this depicts the results of data samples before image preprocessing in the form of histogram equalization).Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 shows the training progress of SGD with momentum using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows the training progress of the adaptive momentum association using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 shows the training progress of root mean square (RMS) propagation using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the training progress of SGD with momentum using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the training progress of adaptive momentum association using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the training progress of RMS propagation using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 11 shows the training progress of SGD with momentum using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 12 shows the training progress of adaptive momentum association using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 13 shows the training progress of RMS propagation using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "AlexNet\n\nModel\nIterations\nLearning rate (LR)\nEpoch\nClassification accuracy (%)\nMissclassification rate (%)\n\n\n\n\nSGD moment\n5800\n0.001\n100\n99.2\n0.8\n\n\nADAM\n95.31\n4.69\n\n\nRMSPROP\n96.09\n3.91\n\n\n\nOpen in a new tab\nFigure 14 shows the training progress of SGD moments using AlexNet after image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  },
+  {
+    "sentence": "Materials and Methods\n\nFigure 1 depicts an overview of the suggested approach for predicting blood cancer using transfer learning-enabled malignant white blood cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the sample data instance of each blood sample class.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Equation (3) represents the distribution function of histogram equalization.\n\n\n(3)\n\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nBlood cell samples before image processing (this depicts the results of data samples before image preprocessing in the form of histogram equalization).Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 shows the training progress of SGD with momentum using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows the training progress of the adaptive momentum association using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 shows the training progress of root mean square (RMS) propagation using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the training progress of SGD with momentum using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the training progress of adaptive momentum association using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the training progress of RMS propagation using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 11 shows the training progress of SGD with momentum using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 12 shows the training progress of adaptive momentum association using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 13 shows the training progress of RMS propagation using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "AlexNet\n\nModel\nIterations\nLearning rate (LR)\nEpoch\nClassification accuracy (%)\nMissclassification rate (%)\n\n\n\n\nSGD moment\n5800\n0.001\n100\n99.2\n0.8\n\n\nADAM\n95.31\n4.69\n\n\nRMSPROP\n96.09\n3.91\n\n\n\nOpen in a new tab\nFigure 14 shows the training progress of SGD moments using AlexNet after image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  },
+  {
+    "sentence": "Materials and Methods\n\nFigure 1 depicts an overview of the suggested approach for predicting blood cancer using transfer learning-enabled malignant white blood cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the sample data instance of each blood sample class.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Equation (3) represents the distribution function of histogram equalization.\n\n\n(3)\n\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nBlood cell samples before image processing (this depicts the results of data samples before image preprocessing in the form of histogram equalization).Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 shows the training progress of SGD with momentum using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows the training progress of the adaptive momentum association using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 shows the training progress of root mean square (RMS) propagation using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the training progress of SGD with momentum using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the training progress of adaptive momentum association using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the training progress of RMS propagation using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 11 shows the training progress of SGD with momentum using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 12 shows the training progress of adaptive momentum association using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 13 shows the training progress of RMS propagation using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "AlexNet\n\nModel\nIterations\nLearning rate (LR)\nEpoch\nClassification accuracy (%)\nMissclassification rate (%)\n\n\n\n\nSGD moment\n5800\n0.001\n100\n99.2\n0.8\n\n\nADAM\n95.31\n4.69\n\n\nRMSPROP\n96.09\n3.91\n\n\n\nOpen in a new tab\nFigure 14 shows the training progress of SGD moments using AlexNet after image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  },
+  {
+    "sentence": "Materials and Methods\n\nFigure 1 depicts an overview of the suggested approach for predicting blood cancer using transfer learning-enabled malignant white blood cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the sample data instance of each blood sample class.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Equation (3) represents the distribution function of histogram equalization.\n\n\n(3)\n\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nBlood cell samples before image processing (this depicts the results of data samples before image preprocessing in the form of histogram equalization).Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 shows the training progress of SGD with momentum using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows the training progress of the adaptive momentum association using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 shows the training progress of root mean square (RMS) propagation using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the training progress of SGD with momentum using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the training progress of adaptive momentum association using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the training progress of RMS propagation using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 11 shows the training progress of SGD with momentum using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 12 shows the training progress of adaptive momentum association using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 13 shows the training progress of RMS propagation using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "AlexNet\n\nModel\nIterations\nLearning rate (LR)\nEpoch\nClassification accuracy (%)\nMissclassification rate (%)\n\n\n\n\nSGD moment\n5800\n0.001\n100\n99.2\n0.8\n\n\nADAM\n95.31\n4.69\n\n\nRMSPROP\n96.09\n3.91\n\n\n\nOpen in a new tab\nFigure 14 shows the training progress of SGD moments using AlexNet after image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  },
+  {
+    "sentence": "Materials and Methods\n\nFigure 1 depicts an overview of the suggested approach for predicting blood cancer using transfer learning-enabled malignant white blood cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the sample data instance of each blood sample class.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Equation (3) represents the distribution function of histogram equalization.\n\n\n(3)\n\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nBlood cell samples before image processing (this depicts the results of data samples before image preprocessing in the form of histogram equalization).Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 shows the training progress of SGD with momentum using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows the training progress of the adaptive momentum association using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 shows the training progress of root mean square (RMS) propagation using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the training progress of SGD with momentum using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the training progress of adaptive momentum association using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the training progress of RMS propagation using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 11 shows the training progress of SGD with momentum using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 12 shows the training progress of adaptive momentum association using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 13 shows the training progress of RMS propagation using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "AlexNet\n\nModel\nIterations\nLearning rate (LR)\nEpoch\nClassification accuracy (%)\nMissclassification rate (%)\n\n\n\n\nSGD moment\n5800\n0.001\n100\n99.2\n0.8\n\n\nADAM\n95.31\n4.69\n\n\nRMSPROP\n96.09\n3.91\n\n\n\nOpen in a new tab\nFigure 14 shows the training progress of SGD moments using AlexNet after image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  },
+  {
+    "sentence": "Materials and Methods\n\nFigure 1 depicts an overview of the suggested approach for predicting blood cancer using transfer learning-enabled malignant white blood cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the sample data instance of each blood sample class.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Equation (3) represents the distribution function of histogram equalization.\n\n\n(3)\n\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nBlood cell samples before image processing (this depicts the results of data samples before image preprocessing in the form of histogram equalization).Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 shows the training progress of SGD with momentum using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows the training progress of the adaptive momentum association using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 shows the training progress of root mean square (RMS) propagation using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the training progress of SGD with momentum using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the training progress of adaptive momentum association using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the training progress of RMS propagation using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 11 shows the training progress of SGD with momentum using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 12 shows the training progress of adaptive momentum association using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 13 shows the training progress of RMS propagation using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "AlexNet\n\nModel\nIterations\nLearning rate (LR)\nEpoch\nClassification accuracy (%)\nMissclassification rate (%)\n\n\n\n\nSGD moment\n5800\n0.001\n100\n99.2\n0.8\n\n\nADAM\n95.31\n4.69\n\n\nRMSPROP\n96.09\n3.91\n\n\n\nOpen in a new tab\nFigure 14 shows the training progress of SGD moments using AlexNet after image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  },
+  {
+    "sentence": "Materials and Methods\n\nFigure 1 depicts an overview of the suggested approach for predicting blood cancer using transfer learning-enabled malignant white blood cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the sample data instance of each blood sample class.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Equation (3) represents the distribution function of histogram equalization.\n\n\n(3)\n\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nBlood cell samples before image processing (this depicts the results of data samples before image preprocessing in the form of histogram equalization).Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 shows the training progress of SGD with momentum using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows the training progress of the adaptive momentum association using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 shows the training progress of root mean square (RMS) propagation using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the training progress of SGD with momentum using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the training progress of adaptive momentum association using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the training progress of RMS propagation using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 11 shows the training progress of SGD with momentum using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 12 shows the training progress of adaptive momentum association using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 13 shows the training progress of RMS propagation using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "AlexNet\n\nModel\nIterations\nLearning rate (LR)\nEpoch\nClassification accuracy (%)\nMissclassification rate (%)\n\n\n\n\nSGD moment\n5800\n0.001\n100\n99.2\n0.8\n\n\nADAM\n95.31\n4.69\n\n\nRMSPROP\n96.09\n3.91\n\n\n\nOpen in a new tab\nFigure 14 shows the training progress of SGD moments using AlexNet after image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  },
+  {
+    "sentence": "Materials and Methods\n\nFigure 1 depicts an overview of the suggested approach for predicting blood cancer using transfer learning-enabled malignant white blood cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the sample data instance of each blood sample class.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 depicts an overview of the suggested approach for predicting blood cancer using transfer learning-enabled malignant white blood cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the sample data instance of each blood sample class.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the sample data instance of each blood sample class.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Equation (3) represents the distribution function of histogram equalization.\n\n\n(3)\n\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nBlood cell samples before image processing (this depicts the results of data samples before image preprocessing in the form of histogram equalization).Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 shows the training progress of SGD with momentum using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows the training progress of the adaptive momentum association using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 shows the training progress of root mean square (RMS) propagation using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the training progress of SGD with momentum using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the training progress of adaptive momentum association using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the training progress of RMS propagation using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 11 shows the training progress of SGD with momentum using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 12 shows the training progress of adaptive momentum association using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 13 shows the training progress of RMS propagation using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "AlexNet\n\nModel\nIterations\nLearning rate (LR)\nEpoch\nClassification accuracy (%)\nMissclassification rate (%)\n\n\n\n\nSGD moment\n5800\n0.001\n100\n99.2\n0.8\n\n\nADAM\n95.31\n4.69\n\n\nRMSPROP\n96.09\n3.91\n\n\n\nOpen in a new tab\nFigure 14 shows the training progress of SGD moments using AlexNet after image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 shows the training progress of SGD with momentum using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows the training progress of the adaptive momentum association using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 shows the training progress of root mean square (RMS) propagation using AlexNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the training progress of SGD with momentum using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the training progress of adaptive momentum association using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the training progress of RMS propagation using MobileNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 11 shows the training progress of SGD with momentum using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 12 shows the training progress of adaptive momentum association using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 13 shows the training progress of RMS propagation using ResNet without image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 14 shows the training progress of SGD moments using AlexNet after image processing.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  }
+]

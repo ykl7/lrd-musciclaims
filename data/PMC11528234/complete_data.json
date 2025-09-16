@@ -1,0 +1,487 @@
+{
+  "paper_id": "PMC11528234",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11528234/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Figure 1.",
+      "caption": "Overview of breast cancer radiomics\nThe workflow of breast cancer radiomics includes four continuous parts: (1) Image acquisition and medical images from various modalities, including MG, US, MRI, and PET/CT, are acquired for further analysis. (2) Tumor segmentation, with manual or semiautomatic segmentation methods. (3) Feature extraction, hand-crafted, or DL features are extracted globally or locally from ROIs. (4) Model building and analysis include feature selection, modeling, and model validation. Abbreviations: MG, mammography; DBT, digital breast tomosynthesis; CEM, contrast-enhanced mammography; CESM, contrast-enhanced spectral mammography; US, ultrasound; ABUS, automated breast ultrasound; SWE, shear wave elastography; MRI, magnetic resonance imaging; ADC, apparent diffusion coefficient; DWI, diffusion-weighted images; DCE-MEI, dynamic contrast-enhanced magnetic resonance imaging; PET/CT, positron emission tomography-computed tomography; SUV, standardized uptake value; MTV, metabolic tumor volume; TLG, total lesion glycolysis; GLCM, gray-level co-occurrence matrix; GLRLM, gray-level run length matrix; NGTDM, neighborhood gray-tone difference matrix; CNN, convolutional neural network; SVM, support vector machine; LASSO, least absolute shrinkage and selection operator; LR, logistic regression; RF, random forest; ROIs, regions of interest; DL, deep learning; Grad-CAM, gradient-weighted class activation mapping.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5a16/11528234/71d7d75a9617/gr1.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5a16/11528234/71d7d75a9617/gr1.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5a16/11528234/71d7d75a9617/gr1.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5a16/11528234/71d7d75a9617/gr1.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5a16/11528234/71d7d75a9617/gr1.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11528234/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5a16/11528234/71d7d75a9617/gr1.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Figure 2.",
+      "caption": "Future directions for radiomics in breast cancer\nWe propose the establishment of an all-in-one AI-aided radiology-clinic system, as well as optimizing validation methods and enhancing interpretability of radiomic models in breast cancer. For the all-in-one AI-aided radiology-clinic system, users input the unique identifier of a patient and select the needed function. For patients with screening demand, the DL section of the system utilizes well-established CAD systems to mark suspicious lesions for radiologists. Next, if the patient is confirmed malignant, the system automatically inputs the full-scale information, including clinicopathological indices, medical images, as well as multi-omics information. Then, the system automatically predicts the classification of lesion, molecular subtypes, lymph node status, as well as the prognosis and treatment response, and outputs all the results to the user in an integrated report. For the optimization of validation methods, we expect more studies to undergo external multicenter validation to assess the performance of the model, and we also recommend the clinical application of established systems to prospectively evaluate whether these systems will benefit clinical decisions. For enhancing interpretability, we anticipate greater and more transparent use of DL radiomics, and we look forward to broadening the understanding of imaging features through comprehensive radio-multi-omics analysis. Abbreviations: AI, artificial intelligence; CAD, computer aided detection/diagnosis.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5a16/11528234/79f87c80e5be/gr2.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5a16/11528234/79f87c80e5be/gr2.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5a16/11528234/79f87c80e5be/gr2.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5a16/11528234/79f87c80e5be/gr2.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5a16/11528234/79f87c80e5be/gr2.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11528234/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5a16/11528234/79f87c80e5be/gr2.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "The types of DL features include, but are not limited to, outputs extracted from various convolutional neural network (CNN) layers, including convolutional layers, average pooling layers, and fully connected layers.42,43,44 Compared to hand-crafted features, these DL features possess a more abstract meaning; therefore, they are usually not categorized as hand-crafted features.Workflow of radiomics in breast cancer\nBoth ML and DL radiomics comprise four major steps: image acquisition, tumor segmentation, feature extraction, and model building and analysis (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For assessing the quality of radiomics studies, Lambin et al. initiated the Radiomics Quality Score in 2017 by assigning points according to 16 different items for a maximum score of 36.45 This evaluation system has been widely accepted and employed in various studies, mainly in systematic reviews.46,47\nFigure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "These include employing optimized validation methods, such as multicenter and prospective trials, to achieve higher evidence levels; delving deeper into DL radiomics and adopting radio-multi-omics to enhance interpretability; and developing a user-friendly, all-in-one multifunctional system to improve convenience and promote clinical application (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The types of DL features include, but are not limited to, outputs extracted from various convolutional neural network (CNN) layers, including convolutional layers, average pooling layers, and fully connected layers.42,43,44 Compared to hand-crafted features, these DL features possess a more abstract meaning; therefore, they are usually not categorized as hand-crafted features.Workflow of radiomics in breast cancer\nBoth ML and DL radiomics comprise four major steps: image acquisition, tumor segmentation, feature extraction, and model building and analysis (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For assessing the quality of radiomics studies, Lambin et al. initiated the Radiomics Quality Score in 2017 by assigning points according to 16 different items for a maximum score of 36.45 This evaluation system has been widely accepted and employed in various studies, mainly in systematic reviews.46,47\nFigure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "These include employing optimized validation methods, such as multicenter and prospective trials, to achieve higher evidence levels; delving deeper into DL radiomics and adopting radio-multi-omics to enhance interpretability; and developing a user-friendly, all-in-one multifunctional system to improve convenience and promote clinical application (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The types of DL features include, but are not limited to, outputs extracted from various convolutional neural network (CNN) layers, including convolutional layers, average pooling layers, and fully connected layers.42,43,44 Compared to hand-crafted features, these DL features possess a more abstract meaning; therefore, they are usually not categorized as hand-crafted features.Workflow of radiomics in breast cancer\nBoth ML and DL radiomics comprise four major steps: image acquisition, tumor segmentation, feature extraction, and model building and analysis (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For assessing the quality of radiomics studies, Lambin et al. initiated the Radiomics Quality Score in 2017 by assigning points according to 16 different items for a maximum score of 36.45 This evaluation system has been widely accepted and employed in various studies, mainly in systematic reviews.46,47\nFigure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "These include employing optimized validation methods, such as multicenter and prospective trials, to achieve higher evidence levels; delving deeper into DL radiomics and adopting radio-multi-omics to enhance interpretability; and developing a user-friendly, all-in-one multifunctional system to improve convenience and promote clinical application (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The types of DL features include, but are not limited to, outputs extracted from various convolutional neural network (CNN) layers, including convolutional layers, average pooling layers, and fully connected layers.42,43,44 Compared to hand-crafted features, these DL features possess a more abstract meaning; therefore, they are usually not categorized as hand-crafted features.Workflow of radiomics in breast cancer\nBoth ML and DL radiomics comprise four major steps: image acquisition, tumor segmentation, feature extraction, and model building and analysis (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For assessing the quality of radiomics studies, Lambin et al. initiated the Radiomics Quality Score in 2017 by assigning points according to 16 different items for a maximum score of 36.45 This evaluation system has been widely accepted and employed in various studies, mainly in systematic reviews.46,47\nFigure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "These include employing optimized validation methods, such as multicenter and prospective trials, to achieve higher evidence levels; delving deeper into DL radiomics and adopting radio-multi-omics to enhance interpretability; and developing a user-friendly, all-in-one multifunctional system to improve convenience and promote clinical application (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The types of DL features include, but are not limited to, outputs extracted from various convolutional neural network (CNN) layers, including convolutional layers, average pooling layers, and fully connected layers.42,43,44 Compared to hand-crafted features, these DL features possess a more abstract meaning; therefore, they are usually not categorized as hand-crafted features.Workflow of radiomics in breast cancer\nBoth ML and DL radiomics comprise four major steps: image acquisition, tumor segmentation, feature extraction, and model building and analysis (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For assessing the quality of radiomics studies, Lambin et al. initiated the Radiomics Quality Score in 2017 by assigning points according to 16 different items for a maximum score of 36.45 This evaluation system has been widely accepted and employed in various studies, mainly in systematic reviews.46,47\nFigure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "These include employing optimized validation methods, such as multicenter and prospective trials, to achieve higher evidence levels; delving deeper into DL radiomics and adopting radio-multi-omics to enhance interpretability; and developing a user-friendly, all-in-one multifunctional system to improve convenience and promote clinical application (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The types of DL features include, but are not limited to, outputs extracted from various convolutional neural network (CNN) layers, including convolutional layers, average pooling layers, and fully connected layers.42,43,44 Compared to hand-crafted features, these DL features possess a more abstract meaning; therefore, they are usually not categorized as hand-crafted features.Workflow of radiomics in breast cancer\nBoth ML and DL radiomics comprise four major steps: image acquisition, tumor segmentation, feature extraction, and model building and analysis (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For assessing the quality of radiomics studies, Lambin et al. initiated the Radiomics Quality Score in 2017 by assigning points according to 16 different items for a maximum score of 36.45 This evaluation system has been widely accepted and employed in various studies, mainly in systematic reviews.46,47\nFigure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "These include employing optimized validation methods, such as multicenter and prospective trials, to achieve higher evidence levels; delving deeper into DL radiomics and adopting radio-multi-omics to enhance interpretability; and developing a user-friendly, all-in-one multifunctional system to improve convenience and promote clinical application (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The types of DL features include, but are not limited to, outputs extracted from various convolutional neural network (CNN) layers, including convolutional layers, average pooling layers, and fully connected layers.42,43,44 Compared to hand-crafted features, these DL features possess a more abstract meaning; therefore, they are usually not categorized as hand-crafted features.Workflow of radiomics in breast cancer\nBoth ML and DL radiomics comprise four major steps: image acquisition, tumor segmentation, feature extraction, and model building and analysis (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For assessing the quality of radiomics studies, Lambin et al. initiated the Radiomics Quality Score in 2017 by assigning points according to 16 different items for a maximum score of 36.45 This evaluation system has been widely accepted and employed in various studies, mainly in systematic reviews.46,47\nFigure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "These include employing optimized validation methods, such as multicenter and prospective trials, to achieve higher evidence levels; delving deeper into DL radiomics and adopting radio-multi-omics to enhance interpretability; and developing a user-friendly, all-in-one multifunctional system to improve convenience and promote clinical application (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The types of DL features include, but are not limited to, outputs extracted from various convolutional neural network (CNN) layers, including convolutional layers, average pooling layers, and fully connected layers.42,43,44 Compared to hand-crafted features, these DL features possess a more abstract meaning; therefore, they are usually not categorized as hand-crafted features.Workflow of radiomics in breast cancer\nBoth ML and DL radiomics comprise four major steps: image acquisition, tumor segmentation, feature extraction, and model building and analysis (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For assessing the quality of radiomics studies, Lambin et al. initiated the Radiomics Quality Score in 2017 by assigning points according to 16 different items for a maximum score of 36.45 This evaluation system has been widely accepted and employed in various studies, mainly in systematic reviews.46,47\nFigure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "These include employing optimized validation methods, such as multicenter and prospective trials, to achieve higher evidence levels; delving deeper into DL radiomics and adopting radio-multi-omics to enhance interpretability; and developing a user-friendly, all-in-one multifunctional system to improve convenience and promote clinical application (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The types of DL features include, but are not limited to, outputs extracted from various convolutional neural network (CNN) layers, including convolutional layers, average pooling layers, and fully connected layers.42,43,44 Compared to hand-crafted features, these DL features possess a more abstract meaning; therefore, they are usually not categorized as hand-crafted features.Workflow of radiomics in breast cancer\nBoth ML and DL radiomics comprise four major steps: image acquisition, tumor segmentation, feature extraction, and model building and analysis (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For assessing the quality of radiomics studies, Lambin et al. initiated the Radiomics Quality Score in 2017 by assigning points according to 16 different items for a maximum score of 36.45 This evaluation system has been widely accepted and employed in various studies, mainly in systematic reviews.46,47\nFigure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Workflow of radiomics in breast cancer\nBoth ML and DL radiomics comprise four major steps: image acquisition, tumor segmentation, feature extraction, and model building and analysis (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For assessing the quality of radiomics studies, Lambin et al. initiated the Radiomics Quality Score in 2017 by assigning points according to 16 different items for a maximum score of 36.45 This evaluation system has been widely accepted and employed in various studies, mainly in systematic reviews.46,47\nFigure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Both ML and DL radiomics comprise four major steps: image acquisition, tumor segmentation, feature extraction, and model building and analysis (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "These include employing optimized validation methods, such as multicenter and prospective trials, to achieve higher evidence levels; delving deeper into DL radiomics and adopting radio-multi-omics to enhance interpretability; and developing a user-friendly, all-in-one multifunctional system to improve convenience and promote clinical application (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These include employing optimized validation methods, such as multicenter and prospective trials, to achieve higher evidence levels; delving deeper into DL radiomics and adopting radio-multi-omics to enhance interpretability; and developing a user-friendly, all-in-one multifunctional system to improve convenience and promote clinical application (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 2,
+    "claims_count": 31,
+    "images_downloaded": 2,
+    "tables_filtered": 4
+  }
+}

@@ -1,0 +1,1162 @@
+[
+  {
+    "sentence": "We first analyzed the RAW data of RNA-seq, which showed that drug-resistant cells had more reads mapping to exons of ACE2 than parental cells, suggesting that ACE2 may be upregulated in drug-resistant breast cancer cells (Fig. 1A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Indeed, as shown in boxplot, the mRNA expression of ACE2 was significantly upregulated in drug-resistant breast cancer cells (LogFC > 1, FDR < 0.05, Fig. 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Consistently, Western blot analysis also confirmed that ACE2 expression was substantially increased in the drug-resistant cells compared with parental cells (Fig. 1C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We first analyzed the RAW data of RNA-seq, which showed that drug-resistant cells had more reads mapping to exons of ACE2 than parental cells, suggesting that ACE2 may be upregulated in drug-resistant breast cancer cells (Fig. 1A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Indeed, as shown in boxplot, the mRNA expression of ACE2 was significantly upregulated in drug-resistant breast cancer cells (LogFC > 1, FDR < 0.05, Fig. 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Consistently, Western blot analysis also confirmed that ACE2 expression was substantially increased in the drug-resistant cells compared with parental cells (Fig. 1C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Consistently, the result based on the analysis of the TCGA-BRCA and GTEx database showed that the expression of ACE2 in normal tissues was higher than that in breast cancer patients (Fig. 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 2B, breast cancer cells indeed expressed lower levels of ACE2 compared to normal breast cell MCF-10A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, as revealed by CCLE analysis, the expression level of ACE2 was lower in breast cancer cell lines than in other cancer cell lines, including colorectal, lung, and kidney cancers (Fig. 2C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 2D, the overall level of ACE2 in the plasma of breast cancer patients is still lower than that of healthy control.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Intriguingly, when classifying breast cancer patients according to their sensitivity to chemotherapy, we found that plasma ACE2 levels were significantly higher in chemotherapy-insensitive patients than in sensitive patients (Fig. 2E; Table 1, P < 0.0001).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In agreement with this finding, we also observed a similar association between upregulation of ACE2 levels and sensitivity to chemotherapy in breast cancer patients in the METABRIC and TCGA-BRCA database (Fig. 2F and G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel F",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Consistently, the result based on the analysis of the TCGA-BRCA and GTEx database showed that the expression of ACE2 in normal tissues was higher than that in breast cancer patients (Fig. 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 2B, breast cancer cells indeed expressed lower levels of ACE2 compared to normal breast cell MCF-10A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, as revealed by CCLE analysis, the expression level of ACE2 was lower in breast cancer cell lines than in other cancer cell lines, including colorectal, lung, and kidney cancers (Fig. 2C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 2D, the overall level of ACE2 in the plasma of breast cancer patients is still lower than that of healthy control.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Intriguingly, when classifying breast cancer patients according to their sensitivity to chemotherapy, we found that plasma ACE2 levels were significantly higher in chemotherapy-insensitive patients than in sensitive patients (Fig. 2E; Table 1, P < 0.0001).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In agreement with this finding, we also observed a similar association between upregulation of ACE2 levels and sensitivity to chemotherapy in breast cancer patients in the METABRIC and TCGA-BRCA database (Fig. 2F and G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel F",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 4A, drug treatment significantly increased the level of ROS in breast cancer cells, while ROS levels increased after the addition of H2O2 and decreased after NAC treatment.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The results showed that the drug-induced increase in ROS levels was inhibited by the addition of NAC (Fig. 4A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, the expression of ACE2 in EPI-treated breast cancer cells was measured by qRT-PCR and western blotting in the presence or absence of NAC (Fig. 4B, C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel B",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 4A, drug treatment significantly increased the level of ROS in breast cancer cells, while ROS levels increased after the addition of H2O2 and decreased after NAC treatment.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The results showed that the drug-induced increase in ROS levels was inhibited by the addition of NAC (Fig. 4A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, the expression of ACE2 in EPI-treated breast cancer cells was measured by qRT-PCR and western blotting in the presence or absence of NAC (Fig. 4B, C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel B",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5A showed that the mRNA and protein expression levels of HIF-1α were upregulated in four breast cancer cells after EPI treatment, while quenching of ROS with NAC counteracted the EPI-induced elevation of HIF-1α expression.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 5C, EPI-induced upregulation of ACE2 was suppressed by siHIF-1α under either normoxic or hypoxic conditions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Consistently, the HIF-1α inhibitor YC-1 also blocked chemotherapy-induced expression of ACE2 (Fig. 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Knockdown of HIF-1α expression with siRNA resulted in a decrease in ACE2 protein level in 468/EPR cells (Fig. 5E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Consistently, treatment of 468/EPR cells with YC-1 also reduced the expression of ACE2 (Fig. 5E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Nevertheless, the protein level of HIF-1α did not appear to be altered by overexpression of ACE2 in parental 468 cells and knockdown of ACE2 in resistant 468/EPR cells (Fig. 5F).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5A showed that the mRNA and protein expression levels of HIF-1α were upregulated in four breast cancer cells after EPI treatment, while quenching of ROS with NAC counteracted the EPI-induced elevation of HIF-1α expression.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 5C, EPI-induced upregulation of ACE2 was suppressed by siHIF-1α under either normoxic or hypoxic conditions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Consistently, the HIF-1α inhibitor YC-1 also blocked chemotherapy-induced expression of ACE2 (Fig. 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Knockdown of HIF-1α expression with siRNA resulted in a decrease in ACE2 protein level in 468/EPR cells (Fig. 5E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Consistently, treatment of 468/EPR cells with YC-1 also reduced the expression of ACE2 (Fig. 5E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Nevertheless, the protein level of HIF-1α did not appear to be altered by overexpression of ACE2 in parental 468 cells and knockdown of ACE2 in resistant 468/EPR cells (Fig. 5F).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As expected, increased levels of phospho-AKT were detected after EPI treatment, whereas the addition of the ROS scavenger NAC counteracted the EPI-induced increase in AKT phosphorylation (Fig. 6A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 6B, MK-2206 significantly suppressed EPI-induced AKT phosphorylation and completely inhibited EPI-induced expression of HIF-1α and ACE2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel B",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 6C and D, inhibition of AKT phosphorylation reduced the expression of HIF-1α and ACE2 at the protein and mRNA levels.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel C",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "As expected, increased levels of phospho-AKT were detected after EPI treatment, whereas the addition of the ROS scavenger NAC counteracted the EPI-induced increase in AKT phosphorylation (Fig. 6A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 6B, MK-2206 significantly suppressed EPI-induced AKT phosphorylation and completely inhibited EPI-induced expression of HIF-1α and ACE2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel B",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 6C and D, inhibition of AKT phosphorylation reduced the expression of HIF-1α and ACE2 at the protein and mRNA levels.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel C",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 7A and B, Western blot and qRT-PCR analysis showed that ACE2 expression was substantially reduced in ACE2 shRNA-infected cells compared with that of control shRNA-infected cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel A",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 7C and Table 2, the survival rate of resistant cells exposed to EPI was decreased after ACE2 knockdown, and the IC50 value of EPI was significantly reduced in ACE2-silenced cells compared with control cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel C",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "By contrast, CCK8-based assay showed that ACE2 silencing significantly increased the proliferative activity of resistant cells (Fig. 7D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel D",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel D",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel D",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Similarly, 468/EPR-shACE2 cells also showed remarkably increased colony-forming capacity in vitro compared with control cells (Fig. 7E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel E",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel E",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel E",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "EdU staining also confirmed that decreased expression of ACE2 significantly increased the cell proliferation index (Fig. 7F).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel F",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel F",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel F",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, knockdown of ACE2 resulted in an approximately 2-fold increase in intracellular ROS levels in 468/EPR cells compared to control cells (Fig. 7G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel G",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel G",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel G",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, ROS levels were increased approximately 4-fold in 468/EPR-shACE2 cells treated with 0.05 µM EPI for 72 h compared to control cells (Fig. 7H).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel H",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel H",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel H",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Annexin-V/PI staining assay displayed that the apoptosis rate of 468/EPR-shACE2 cells was significantly increased after 3 days of EPI treatment compared with the controls (Fig. 7I).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel I",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel I",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel I",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 7A and B, Western blot and qRT-PCR analysis showed that ACE2 expression was substantially reduced in ACE2 shRNA-infected cells compared with that of control shRNA-infected cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel A",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 7C and Table 2, the survival rate of resistant cells exposed to EPI was decreased after ACE2 knockdown, and the IC50 value of EPI was significantly reduced in ACE2-silenced cells compared with control cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel C",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "By contrast, CCK8-based assay showed that ACE2 silencing significantly increased the proliferative activity of resistant cells (Fig. 7D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel D",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel D",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel D",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Similarly, 468/EPR-shACE2 cells also showed remarkably increased colony-forming capacity in vitro compared with control cells (Fig. 7E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel E",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel E",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel E",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "EdU staining also confirmed that decreased expression of ACE2 significantly increased the cell proliferation index (Fig. 7F).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel F",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel F",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel F",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, knockdown of ACE2 resulted in an approximately 2-fold increase in intracellular ROS levels in 468/EPR cells compared to control cells (Fig. 7G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel G",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel G",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel G",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, ROS levels were increased approximately 4-fold in 468/EPR-shACE2 cells treated with 0.05 µM EPI for 72 h compared to control cells (Fig. 7H).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel H",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel H",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel H",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Annexin-V/PI staining assay displayed that the apoptosis rate of 468/EPR-shACE2 cells was significantly increased after 3 days of EPI treatment compared with the controls (Fig. 7I).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel I",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel I",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel I",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 8A, a 28 genes signature (named as BRCA-DRGs, Table 3) was identified by combined analysis of the upregulated genes (LogFC > 1 and FDR < 0.05) in the four groups of drug-resistant/parental RNA-Seq data and drug-resistant genes defined by GeneCards.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel A",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Expectedly, a strong positive correlation pattern was observed among these genes in our RNA-sequencing results of the four drug-resistant/parental cells, indicating that these genes are closely interconnected in drug-resistant cells (Fig. 8B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel B",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel B",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel B",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 8C, most of these genes were positively correlated with increased resistance of cancer cells to anticancer drugs, indicating that our constructed BRCA-DRGs could well predict the sensitivity of cancer cells to drugs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel C",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, survival analysis based on TCGA-BRCA and METABRIC database further showed that patients with high expression of BRCA-DRGs had poorer overall survival time (Fig. 8D and E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel D",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, we also identified a strong positive correlation between ACE2 and BRCA-DRGs (R = 0.858, P = 8.25e−08) (Fig. 8F), indicating that ACE2 may be involved in regulating drug resistance in breast cancer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel F",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel F",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel F",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 8A, a 28 genes signature (named as BRCA-DRGs, Table 3) was identified by combined analysis of the upregulated genes (LogFC > 1 and FDR < 0.05) in the four groups of drug-resistant/parental RNA-Seq data and drug-resistant genes defined by GeneCards.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel A",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Expectedly, a strong positive correlation pattern was observed among these genes in our RNA-sequencing results of the four drug-resistant/parental cells, indicating that these genes are closely interconnected in drug-resistant cells (Fig. 8B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel B",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel B",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel B",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 8C, most of these genes were positively correlated with increased resistance of cancer cells to anticancer drugs, indicating that our constructed BRCA-DRGs could well predict the sensitivity of cancer cells to drugs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel C",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, survival analysis based on TCGA-BRCA and METABRIC database further showed that patients with high expression of BRCA-DRGs had poorer overall survival time (Fig. 8D and E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel D",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, we also identified a strong positive correlation between ACE2 and BRCA-DRGs (R = 0.858, P = 8.25e−08) (Fig. 8F), indicating that ACE2 may be involved in regulating drug resistance in breast cancer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel F",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel F",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel F",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Waffle Chart was generated based on prognostic parameters and ACE2 expression (Fig. 9A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel A",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel A",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel A",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 9B, among breast cancer patients receiving chemotherapy, both recurrence-free survival (RFS) and distant metastasis-free survival (DMFS) were significantly lower in patients with high ACE2 expression than in those with low expression.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel B",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "However, there was no significant association between ACE2 expression and survival in breast cancer patients who did not receive chemotherapy and were systematically untreated (Fig. 9C, D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel C",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 9E, in breast cancer patients receiving chemotherapy, high ACE2 expression was associated with poorer overall survival, whereas ACE2 expression was not significantly associated with overall survival in patients who did not receive chemotherapy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel E",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Waffle Chart was generated based on prognostic parameters and ACE2 expression (Fig. 9A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel A",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel A",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel A",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 9B, among breast cancer patients receiving chemotherapy, both recurrence-free survival (RFS) and distant metastasis-free survival (DMFS) were significantly lower in patients with high ACE2 expression than in those with low expression.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel B",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "However, there was no significant association between ACE2 expression and survival in breast cancer patients who did not receive chemotherapy and were systematically untreated (Fig. 9C, D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel C",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig. 9E, in breast cancer patients receiving chemotherapy, high ACE2 expression was associated with poorer overall survival, whereas ACE2 expression was not significantly associated with overall survival in patients who did not receive chemotherapy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel E",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "As illustrated in Fig. 10, we demonstrate that ACE2 expression is relatively low in breast cancer cells, but its expression increases specifically and rapidly after exposure to anticancer drugs, and stabilizes at a high level after acquisition of drug resistance.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "As illustrated in Fig. 10, we demonstrate that ACE2 expression is relatively low in breast cancer cells, but its expression increases specifically and rapidly after exposure to anticancer drugs, and stabilizes at a high level after acquisition of drug resistance.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  }
+]

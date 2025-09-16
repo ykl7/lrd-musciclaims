@@ -1,0 +1,131 @@
+{
+  "paper_id": "PMC7987299",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7987299/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "FIGURE 1.",
+      "caption": "Scatter plot comparing the transcriptome-wide association study z scores in ER+ and ER− patients",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6363/7987299/243a8d4f9069/nihms-1658893-f0001.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6363/7987299/243a8d4f9069/nihms-1658893-f0001.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6363/7987299/243a8d4f9069/nihms-1658893-f0001.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6363/7987299/243a8d4f9069/nihms-1658893-f0001.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6363/7987299/243a8d4f9069/nihms-1658893-f0001.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC7987299/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6363/7987299/243a8d4f9069/nihms-1658893-f0001.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "FIGURE 2.",
+      "caption": "Conditional and joint analysis (COJO) for genes near a strong breast cancer GWAS hit. (a) COJO results adjusting for predicted expression of ALS2CR12. After conditioning on ALS2CR12, almost all original significant GWAS signals (grey dots) disappear (blue dots). (b) COJO results adjusting for the predicted expression of CASP8. After conditioning on CASP8, some of the original GWAS significant signals (grey dots) remains (blue dots)",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6363/7987299/30954cd25367/nihms-1658893-f0002.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6363/7987299/30954cd25367/nihms-1658893-f0002.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6363/7987299/30954cd25367/nihms-1658893-f0002.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6363/7987299/30954cd25367/nihms-1658893-f0002.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6363/7987299/30954cd25367/nihms-1658893-f0002.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC7987299/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6363/7987299/30954cd25367/nihms-1658893-f0002.jpg"
+    },
+    "figure_3": {
+      "figure_number": "Figure 3",
+      "title": "FIGURE 3.",
+      "caption": "COJO for regions with multiple TWAS associations. For each plot, the top panel shows all genes in the locus. After COJO analysis, the marginally associated genes are highlighted in blue, while those that remain jointly significant are highlighted in green (in this case, L3MBTL3, CASP8, and ALS2C12). The bottom panel shows a Manhattan plot of the GWAS signals before (gray) and after (blue) conditioning on the significant (green) genes. (a) COJO results for 6q22 (only one gene remains significant after COJO). (b) COJO results for 2q33 (an example of multiple genes remaining jointly remain significant after COJO). COJO, conditional and joint analysis; GWAS, genome-wide association studies; TWAS, transcriptome-wide association studies",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6363/7987299/a9e5e001b581/nihms-1658893-f0003.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6363/7987299/a9e5e001b581/nihms-1658893-f0003.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6363/7987299/a9e5e001b581/nihms-1658893-f0003.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6363/7987299/a9e5e001b581/nihms-1658893-f0003.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F3",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6363/7987299/a9e5e001b581/nihms-1658893-f0003.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC7987299/images/figure_3.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6363/7987299/a9e5e001b581/nihms-1658893-f0003.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "Two genes, HIST2H2BA and STXBP4, showed significant associations (p < .05/901) with ER status among cases (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Two genes, HIST2H2BA and STXBP4, showed significant associations (p < .05/901) with ER status among cases (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 3,
+    "claims_count": 2,
+    "images_downloaded": 3,
+    "tables_filtered": 10
+  }
+}

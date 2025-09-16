@@ -1,0 +1,2662 @@
+[
+  {
+    "sentence": "Figure 1 shows block diagram of PCSN-Net for skin cancer detection.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Architecture of SegNet is shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "General structure of PCSN-Net layer is shown in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The Fig. 4 represents PCNN structure.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "44\n\nBy substituting Eq. (40) in Eq. (41), we get,\n\n\n45\n\n\n\n46\n\nhere,  specifies the outcome of DSNN, and Fig. 5 illustrates the architecture of DSNN.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The FPR is formulated as, \n\n52\n\n\nExperimentation results\nThe image outcomes obtained from PCSN-Net are displayed in Fig. 6, where the input and resultant filtered image are shown in Fig. 6a,b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The segmented skin cancer image is given in Fig. 6c, and the mix-up as well as cut mix image is elucidated in Fig. 6d,e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, the colorspace transformation image, like hue, brightness, and saturation skin lesion image is shown in Fig. 6f–h.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel f",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, the resultant geometric transformation image, like rotation, crop flip, and shift scale image is depicted in Fig. 6i–k.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel i",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImage results of PCSN-Net.Performance evaluation\nThe performance validation of PCSN-Net used for detecting skin cancer is illustrated in Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of PCSN-Net using FPR is given in Fig. 7a, where the PCSN-Net obtained FPR of 0.176, 0.157, 0.146, and 0.107 for the learning set of 90% and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel a",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7b shows the analysis of PCSN-Net used to identify skin cancer using PPV.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of PCSN-Net used to detect skin cancer from skin image based on NPV is displayed in Fig. 7c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel c",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 7d depicts the performance analysis of PCSN-Net by utilizing specificity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel d",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Further, the validation of PCSN-Net used for detecting skin cancer through sensitivity is depicted in Fig. 7e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel e",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 7f, the validation of performance of PCSN-Net using accuracy is validated, where the PCSN-Net obtained accuracy of 0.897, 0.917, 0.929, and 0.957 for 90% learning set and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel f",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nPerformance validation of PCSN-Net employing.Comparative techniques\nThe superiority of PCSN-Net used for the detection of skin cancer is determined by comparing with existing detection models, like Aquila Whale Optimization-SqueezeNet (AWO-SqueezeNet)36, deep learning6, Ensemble lightweight deep learning9, Optimized CNN4, transfer learning3, and DeepSegNet+Fuzzy cognitive map (FCM).Comparative analysis\nFigure 8 delineates the analysis carried out to identify the performance of PCSN-Net for detecting skin cancer by varying learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8a shows the analysis of different approaches used for diagnosing skin cancer using FPR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of different approaches used for detecting skin cancer utilizing PPV is demonstrated in Fig. 8b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of various skin cancer detection models using NPV is depicted in Fig. 8c, where the NPV recorded by PCSN-Net designed in this research is 0.897 for 90% learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d investigates the specificity recorded by the detection techniques used for identifying skin cancer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 8e shows the comparative assessment of various approaches used to detect skin cancer employing sensitivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel e",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, Fig. 8f displays the validation of different approaches utilized to identify skin cancer from skin images using accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel f",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows block diagram of PCSN-Net for skin cancer detection.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Architecture of SegNet is shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "General structure of PCSN-Net layer is shown in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The Fig. 4 represents PCNN structure.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "44\n\nBy substituting Eq. (40) in Eq. (41), we get,\n\n\n45\n\n\n\n46\n\nhere,  specifies the outcome of DSNN, and Fig. 5 illustrates the architecture of DSNN.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The FPR is formulated as, \n\n52\n\n\nExperimentation results\nThe image outcomes obtained from PCSN-Net are displayed in Fig. 6, where the input and resultant filtered image are shown in Fig. 6a,b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The segmented skin cancer image is given in Fig. 6c, and the mix-up as well as cut mix image is elucidated in Fig. 6d,e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, the colorspace transformation image, like hue, brightness, and saturation skin lesion image is shown in Fig. 6f–h.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel f",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, the resultant geometric transformation image, like rotation, crop flip, and shift scale image is depicted in Fig. 6i–k.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel i",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImage results of PCSN-Net.Performance evaluation\nThe performance validation of PCSN-Net used for detecting skin cancer is illustrated in Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of PCSN-Net using FPR is given in Fig. 7a, where the PCSN-Net obtained FPR of 0.176, 0.157, 0.146, and 0.107 for the learning set of 90% and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel a",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7b shows the analysis of PCSN-Net used to identify skin cancer using PPV.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of PCSN-Net used to detect skin cancer from skin image based on NPV is displayed in Fig. 7c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel c",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 7d depicts the performance analysis of PCSN-Net by utilizing specificity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel d",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Further, the validation of PCSN-Net used for detecting skin cancer through sensitivity is depicted in Fig. 7e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel e",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 7f, the validation of performance of PCSN-Net using accuracy is validated, where the PCSN-Net obtained accuracy of 0.897, 0.917, 0.929, and 0.957 for 90% learning set and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel f",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nPerformance validation of PCSN-Net employing.Comparative techniques\nThe superiority of PCSN-Net used for the detection of skin cancer is determined by comparing with existing detection models, like Aquila Whale Optimization-SqueezeNet (AWO-SqueezeNet)36, deep learning6, Ensemble lightweight deep learning9, Optimized CNN4, transfer learning3, and DeepSegNet+Fuzzy cognitive map (FCM).Comparative analysis\nFigure 8 delineates the analysis carried out to identify the performance of PCSN-Net for detecting skin cancer by varying learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8a shows the analysis of different approaches used for diagnosing skin cancer using FPR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of different approaches used for detecting skin cancer utilizing PPV is demonstrated in Fig. 8b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of various skin cancer detection models using NPV is depicted in Fig. 8c, where the NPV recorded by PCSN-Net designed in this research is 0.897 for 90% learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d investigates the specificity recorded by the detection techniques used for identifying skin cancer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 8e shows the comparative assessment of various approaches used to detect skin cancer employing sensitivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel e",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, Fig. 8f displays the validation of different approaches utilized to identify skin cancer from skin images using accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel f",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows block diagram of PCSN-Net for skin cancer detection.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Architecture of SegNet is shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "General structure of PCSN-Net layer is shown in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The Fig. 4 represents PCNN structure.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "44\n\nBy substituting Eq. (40) in Eq. (41), we get,\n\n\n45\n\n\n\n46\n\nhere,  specifies the outcome of DSNN, and Fig. 5 illustrates the architecture of DSNN.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The FPR is formulated as, \n\n52\n\n\nExperimentation results\nThe image outcomes obtained from PCSN-Net are displayed in Fig. 6, where the input and resultant filtered image are shown in Fig. 6a,b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The segmented skin cancer image is given in Fig. 6c, and the mix-up as well as cut mix image is elucidated in Fig. 6d,e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, the colorspace transformation image, like hue, brightness, and saturation skin lesion image is shown in Fig. 6f–h.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel f",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, the resultant geometric transformation image, like rotation, crop flip, and shift scale image is depicted in Fig. 6i–k.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel i",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImage results of PCSN-Net.Performance evaluation\nThe performance validation of PCSN-Net used for detecting skin cancer is illustrated in Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of PCSN-Net using FPR is given in Fig. 7a, where the PCSN-Net obtained FPR of 0.176, 0.157, 0.146, and 0.107 for the learning set of 90% and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel a",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7b shows the analysis of PCSN-Net used to identify skin cancer using PPV.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of PCSN-Net used to detect skin cancer from skin image based on NPV is displayed in Fig. 7c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel c",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 7d depicts the performance analysis of PCSN-Net by utilizing specificity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel d",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Further, the validation of PCSN-Net used for detecting skin cancer through sensitivity is depicted in Fig. 7e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel e",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 7f, the validation of performance of PCSN-Net using accuracy is validated, where the PCSN-Net obtained accuracy of 0.897, 0.917, 0.929, and 0.957 for 90% learning set and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel f",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nPerformance validation of PCSN-Net employing.Comparative techniques\nThe superiority of PCSN-Net used for the detection of skin cancer is determined by comparing with existing detection models, like Aquila Whale Optimization-SqueezeNet (AWO-SqueezeNet)36, deep learning6, Ensemble lightweight deep learning9, Optimized CNN4, transfer learning3, and DeepSegNet+Fuzzy cognitive map (FCM).Comparative analysis\nFigure 8 delineates the analysis carried out to identify the performance of PCSN-Net for detecting skin cancer by varying learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8a shows the analysis of different approaches used for diagnosing skin cancer using FPR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of different approaches used for detecting skin cancer utilizing PPV is demonstrated in Fig. 8b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of various skin cancer detection models using NPV is depicted in Fig. 8c, where the NPV recorded by PCSN-Net designed in this research is 0.897 for 90% learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d investigates the specificity recorded by the detection techniques used for identifying skin cancer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 8e shows the comparative assessment of various approaches used to detect skin cancer employing sensitivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel e",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, Fig. 8f displays the validation of different approaches utilized to identify skin cancer from skin images using accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel f",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows block diagram of PCSN-Net for skin cancer detection.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Architecture of SegNet is shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "General structure of PCSN-Net layer is shown in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The Fig. 4 represents PCNN structure.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "44\n\nBy substituting Eq. (40) in Eq. (41), we get,\n\n\n45\n\n\n\n46\n\nhere,  specifies the outcome of DSNN, and Fig. 5 illustrates the architecture of DSNN.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The FPR is formulated as, \n\n52\n\n\nExperimentation results\nThe image outcomes obtained from PCSN-Net are displayed in Fig. 6, where the input and resultant filtered image are shown in Fig. 6a,b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The segmented skin cancer image is given in Fig. 6c, and the mix-up as well as cut mix image is elucidated in Fig. 6d,e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, the colorspace transformation image, like hue, brightness, and saturation skin lesion image is shown in Fig. 6f–h.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel f",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, the resultant geometric transformation image, like rotation, crop flip, and shift scale image is depicted in Fig. 6i–k.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel i",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImage results of PCSN-Net.Performance evaluation\nThe performance validation of PCSN-Net used for detecting skin cancer is illustrated in Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of PCSN-Net using FPR is given in Fig. 7a, where the PCSN-Net obtained FPR of 0.176, 0.157, 0.146, and 0.107 for the learning set of 90% and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel a",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7b shows the analysis of PCSN-Net used to identify skin cancer using PPV.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of PCSN-Net used to detect skin cancer from skin image based on NPV is displayed in Fig. 7c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel c",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 7d depicts the performance analysis of PCSN-Net by utilizing specificity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel d",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Further, the validation of PCSN-Net used for detecting skin cancer through sensitivity is depicted in Fig. 7e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel e",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 7f, the validation of performance of PCSN-Net using accuracy is validated, where the PCSN-Net obtained accuracy of 0.897, 0.917, 0.929, and 0.957 for 90% learning set and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel f",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nPerformance validation of PCSN-Net employing.Comparative techniques\nThe superiority of PCSN-Net used for the detection of skin cancer is determined by comparing with existing detection models, like Aquila Whale Optimization-SqueezeNet (AWO-SqueezeNet)36, deep learning6, Ensemble lightweight deep learning9, Optimized CNN4, transfer learning3, and DeepSegNet+Fuzzy cognitive map (FCM).Comparative analysis\nFigure 8 delineates the analysis carried out to identify the performance of PCSN-Net for detecting skin cancer by varying learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8a shows the analysis of different approaches used for diagnosing skin cancer using FPR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of different approaches used for detecting skin cancer utilizing PPV is demonstrated in Fig. 8b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of various skin cancer detection models using NPV is depicted in Fig. 8c, where the NPV recorded by PCSN-Net designed in this research is 0.897 for 90% learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d investigates the specificity recorded by the detection techniques used for identifying skin cancer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 8e shows the comparative assessment of various approaches used to detect skin cancer employing sensitivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel e",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, Fig. 8f displays the validation of different approaches utilized to identify skin cancer from skin images using accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel f",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows block diagram of PCSN-Net for skin cancer detection.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Architecture of SegNet is shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "General structure of PCSN-Net layer is shown in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The Fig. 4 represents PCNN structure.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "44\n\nBy substituting Eq. (40) in Eq. (41), we get,\n\n\n45\n\n\n\n46\n\nhere,  specifies the outcome of DSNN, and Fig. 5 illustrates the architecture of DSNN.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The FPR is formulated as, \n\n52\n\n\nExperimentation results\nThe image outcomes obtained from PCSN-Net are displayed in Fig. 6, where the input and resultant filtered image are shown in Fig. 6a,b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The segmented skin cancer image is given in Fig. 6c, and the mix-up as well as cut mix image is elucidated in Fig. 6d,e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, the colorspace transformation image, like hue, brightness, and saturation skin lesion image is shown in Fig. 6f–h.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel f",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, the resultant geometric transformation image, like rotation, crop flip, and shift scale image is depicted in Fig. 6i–k.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel i",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImage results of PCSN-Net.Performance evaluation\nThe performance validation of PCSN-Net used for detecting skin cancer is illustrated in Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of PCSN-Net using FPR is given in Fig. 7a, where the PCSN-Net obtained FPR of 0.176, 0.157, 0.146, and 0.107 for the learning set of 90% and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel a",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7b shows the analysis of PCSN-Net used to identify skin cancer using PPV.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of PCSN-Net used to detect skin cancer from skin image based on NPV is displayed in Fig. 7c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel c",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 7d depicts the performance analysis of PCSN-Net by utilizing specificity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel d",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Further, the validation of PCSN-Net used for detecting skin cancer through sensitivity is depicted in Fig. 7e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel e",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 7f, the validation of performance of PCSN-Net using accuracy is validated, where the PCSN-Net obtained accuracy of 0.897, 0.917, 0.929, and 0.957 for 90% learning set and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel f",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nPerformance validation of PCSN-Net employing.Comparative techniques\nThe superiority of PCSN-Net used for the detection of skin cancer is determined by comparing with existing detection models, like Aquila Whale Optimization-SqueezeNet (AWO-SqueezeNet)36, deep learning6, Ensemble lightweight deep learning9, Optimized CNN4, transfer learning3, and DeepSegNet+Fuzzy cognitive map (FCM).Comparative analysis\nFigure 8 delineates the analysis carried out to identify the performance of PCSN-Net for detecting skin cancer by varying learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8a shows the analysis of different approaches used for diagnosing skin cancer using FPR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of different approaches used for detecting skin cancer utilizing PPV is demonstrated in Fig. 8b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of various skin cancer detection models using NPV is depicted in Fig. 8c, where the NPV recorded by PCSN-Net designed in this research is 0.897 for 90% learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d investigates the specificity recorded by the detection techniques used for identifying skin cancer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 8e shows the comparative assessment of various approaches used to detect skin cancer employing sensitivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel e",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, Fig. 8f displays the validation of different approaches utilized to identify skin cancer from skin images using accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel f",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows block diagram of PCSN-Net for skin cancer detection.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Architecture of SegNet is shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "General structure of PCSN-Net layer is shown in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The Fig. 4 represents PCNN structure.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "44\n\nBy substituting Eq. (40) in Eq. (41), we get,\n\n\n45\n\n\n\n46\n\nhere,  specifies the outcome of DSNN, and Fig. 5 illustrates the architecture of DSNN.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The FPR is formulated as, \n\n52\n\n\nExperimentation results\nThe image outcomes obtained from PCSN-Net are displayed in Fig. 6, where the input and resultant filtered image are shown in Fig. 6a,b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The segmented skin cancer image is given in Fig. 6c, and the mix-up as well as cut mix image is elucidated in Fig. 6d,e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, the colorspace transformation image, like hue, brightness, and saturation skin lesion image is shown in Fig. 6f–h.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel f",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, the resultant geometric transformation image, like rotation, crop flip, and shift scale image is depicted in Fig. 6i–k.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel i",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImage results of PCSN-Net.Performance evaluation\nThe performance validation of PCSN-Net used for detecting skin cancer is illustrated in Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of PCSN-Net using FPR is given in Fig. 7a, where the PCSN-Net obtained FPR of 0.176, 0.157, 0.146, and 0.107 for the learning set of 90% and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel a",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7b shows the analysis of PCSN-Net used to identify skin cancer using PPV.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of PCSN-Net used to detect skin cancer from skin image based on NPV is displayed in Fig. 7c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel c",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 7d depicts the performance analysis of PCSN-Net by utilizing specificity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel d",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Further, the validation of PCSN-Net used for detecting skin cancer through sensitivity is depicted in Fig. 7e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel e",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 7f, the validation of performance of PCSN-Net using accuracy is validated, where the PCSN-Net obtained accuracy of 0.897, 0.917, 0.929, and 0.957 for 90% learning set and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel f",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nPerformance validation of PCSN-Net employing.Comparative techniques\nThe superiority of PCSN-Net used for the detection of skin cancer is determined by comparing with existing detection models, like Aquila Whale Optimization-SqueezeNet (AWO-SqueezeNet)36, deep learning6, Ensemble lightweight deep learning9, Optimized CNN4, transfer learning3, and DeepSegNet+Fuzzy cognitive map (FCM).Comparative analysis\nFigure 8 delineates the analysis carried out to identify the performance of PCSN-Net for detecting skin cancer by varying learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8a shows the analysis of different approaches used for diagnosing skin cancer using FPR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of different approaches used for detecting skin cancer utilizing PPV is demonstrated in Fig. 8b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of various skin cancer detection models using NPV is depicted in Fig. 8c, where the NPV recorded by PCSN-Net designed in this research is 0.897 for 90% learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d investigates the specificity recorded by the detection techniques used for identifying skin cancer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 8e shows the comparative assessment of various approaches used to detect skin cancer employing sensitivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel e",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, Fig. 8f displays the validation of different approaches utilized to identify skin cancer from skin images using accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel f",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows block diagram of PCSN-Net for skin cancer detection.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Architecture of SegNet is shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "General structure of PCSN-Net layer is shown in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The Fig. 4 represents PCNN structure.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "44\n\nBy substituting Eq. (40) in Eq. (41), we get,\n\n\n45\n\n\n\n46\n\nhere,  specifies the outcome of DSNN, and Fig. 5 illustrates the architecture of DSNN.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The FPR is formulated as, \n\n52\n\n\nExperimentation results\nThe image outcomes obtained from PCSN-Net are displayed in Fig. 6, where the input and resultant filtered image are shown in Fig. 6a,b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The segmented skin cancer image is given in Fig. 6c, and the mix-up as well as cut mix image is elucidated in Fig. 6d,e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, the colorspace transformation image, like hue, brightness, and saturation skin lesion image is shown in Fig. 6f–h.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel f",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, the resultant geometric transformation image, like rotation, crop flip, and shift scale image is depicted in Fig. 6i–k.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel i",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImage results of PCSN-Net.Performance evaluation\nThe performance validation of PCSN-Net used for detecting skin cancer is illustrated in Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of PCSN-Net using FPR is given in Fig. 7a, where the PCSN-Net obtained FPR of 0.176, 0.157, 0.146, and 0.107 for the learning set of 90% and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel a",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7b shows the analysis of PCSN-Net used to identify skin cancer using PPV.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of PCSN-Net used to detect skin cancer from skin image based on NPV is displayed in Fig. 7c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel c",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 7d depicts the performance analysis of PCSN-Net by utilizing specificity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel d",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Further, the validation of PCSN-Net used for detecting skin cancer through sensitivity is depicted in Fig. 7e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel e",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 7f, the validation of performance of PCSN-Net using accuracy is validated, where the PCSN-Net obtained accuracy of 0.897, 0.917, 0.929, and 0.957 for 90% learning set and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel f",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nPerformance validation of PCSN-Net employing.Comparative techniques\nThe superiority of PCSN-Net used for the detection of skin cancer is determined by comparing with existing detection models, like Aquila Whale Optimization-SqueezeNet (AWO-SqueezeNet)36, deep learning6, Ensemble lightweight deep learning9, Optimized CNN4, transfer learning3, and DeepSegNet+Fuzzy cognitive map (FCM).Comparative analysis\nFigure 8 delineates the analysis carried out to identify the performance of PCSN-Net for detecting skin cancer by varying learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8a shows the analysis of different approaches used for diagnosing skin cancer using FPR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of different approaches used for detecting skin cancer utilizing PPV is demonstrated in Fig. 8b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of various skin cancer detection models using NPV is depicted in Fig. 8c, where the NPV recorded by PCSN-Net designed in this research is 0.897 for 90% learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d investigates the specificity recorded by the detection techniques used for identifying skin cancer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 8e shows the comparative assessment of various approaches used to detect skin cancer employing sensitivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel e",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, Fig. 8f displays the validation of different approaches utilized to identify skin cancer from skin images using accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel f",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows block diagram of PCSN-Net for skin cancer detection.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Architecture of SegNet is shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "General structure of PCSN-Net layer is shown in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The Fig. 4 represents PCNN structure.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "44\n\nBy substituting Eq. (40) in Eq. (41), we get,\n\n\n45\n\n\n\n46\n\nhere,  specifies the outcome of DSNN, and Fig. 5 illustrates the architecture of DSNN.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The FPR is formulated as, \n\n52\n\n\nExperimentation results\nThe image outcomes obtained from PCSN-Net are displayed in Fig. 6, where the input and resultant filtered image are shown in Fig. 6a,b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The segmented skin cancer image is given in Fig. 6c, and the mix-up as well as cut mix image is elucidated in Fig. 6d,e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, the colorspace transformation image, like hue, brightness, and saturation skin lesion image is shown in Fig. 6f–h.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel f",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, the resultant geometric transformation image, like rotation, crop flip, and shift scale image is depicted in Fig. 6i–k.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel i",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImage results of PCSN-Net.Performance evaluation\nThe performance validation of PCSN-Net used for detecting skin cancer is illustrated in Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of PCSN-Net using FPR is given in Fig. 7a, where the PCSN-Net obtained FPR of 0.176, 0.157, 0.146, and 0.107 for the learning set of 90% and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel a",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7b shows the analysis of PCSN-Net used to identify skin cancer using PPV.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of PCSN-Net used to detect skin cancer from skin image based on NPV is displayed in Fig. 7c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel c",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 7d depicts the performance analysis of PCSN-Net by utilizing specificity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel d",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Further, the validation of PCSN-Net used for detecting skin cancer through sensitivity is depicted in Fig. 7e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel e",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 7f, the validation of performance of PCSN-Net using accuracy is validated, where the PCSN-Net obtained accuracy of 0.897, 0.917, 0.929, and 0.957 for 90% learning set and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel f",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nPerformance validation of PCSN-Net employing.Comparative techniques\nThe superiority of PCSN-Net used for the detection of skin cancer is determined by comparing with existing detection models, like Aquila Whale Optimization-SqueezeNet (AWO-SqueezeNet)36, deep learning6, Ensemble lightweight deep learning9, Optimized CNN4, transfer learning3, and DeepSegNet+Fuzzy cognitive map (FCM).Comparative analysis\nFigure 8 delineates the analysis carried out to identify the performance of PCSN-Net for detecting skin cancer by varying learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8a shows the analysis of different approaches used for diagnosing skin cancer using FPR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of different approaches used for detecting skin cancer utilizing PPV is demonstrated in Fig. 8b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of various skin cancer detection models using NPV is depicted in Fig. 8c, where the NPV recorded by PCSN-Net designed in this research is 0.897 for 90% learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d investigates the specificity recorded by the detection techniques used for identifying skin cancer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 8e shows the comparative assessment of various approaches used to detect skin cancer employing sensitivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel e",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, Fig. 8f displays the validation of different approaches utilized to identify skin cancer from skin images using accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel f",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows block diagram of PCSN-Net for skin cancer detection.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Architecture of SegNet is shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "General structure of PCSN-Net layer is shown in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The Fig. 4 represents PCNN structure.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "44\n\nBy substituting Eq. (40) in Eq. (41), we get,\n\n\n45\n\n\n\n46\n\nhere,  specifies the outcome of DSNN, and Fig. 5 illustrates the architecture of DSNN.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows block diagram of PCSN-Net for skin cancer detection.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Architecture of SegNet is shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Architecture of SegNet is shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Architecture of SegNet is shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "General structure of PCSN-Net layer is shown in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The Fig. 4 represents PCNN structure.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "44\n\nBy substituting Eq. (40) in Eq. (41), we get,\n\n\n45\n\n\n\n46\n\nhere,  specifies the outcome of DSNN, and Fig. 5 illustrates the architecture of DSNN.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "General structure of PCSN-Net layer is shown in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The Fig. 4 represents PCNN structure.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The Fig. 4 represents PCNN structure.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "44\n\nBy substituting Eq. (40) in Eq. (41), we get,\n\n\n45\n\n\n\n46\n\nhere,  specifies the outcome of DSNN, and Fig. 5 illustrates the architecture of DSNN.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "here,  specifies the outcome of DSNN, and Fig. 5 illustrates the architecture of DSNN.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The FPR is formulated as, \n\n52\n\n\nExperimentation results\nThe image outcomes obtained from PCSN-Net are displayed in Fig. 6, where the input and resultant filtered image are shown in Fig. 6a,b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The segmented skin cancer image is given in Fig. 6c, and the mix-up as well as cut mix image is elucidated in Fig. 6d,e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, the colorspace transformation image, like hue, brightness, and saturation skin lesion image is shown in Fig. 6f–h.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel f",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, the resultant geometric transformation image, like rotation, crop flip, and shift scale image is depicted in Fig. 6i–k.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel i",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImage results of PCSN-Net.Performance evaluation\nThe performance validation of PCSN-Net used for detecting skin cancer is illustrated in Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of PCSN-Net using FPR is given in Fig. 7a, where the PCSN-Net obtained FPR of 0.176, 0.157, 0.146, and 0.107 for the learning set of 90% and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel a",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7b shows the analysis of PCSN-Net used to identify skin cancer using PPV.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of PCSN-Net used to detect skin cancer from skin image based on NPV is displayed in Fig. 7c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel c",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 7d depicts the performance analysis of PCSN-Net by utilizing specificity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel d",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Further, the validation of PCSN-Net used for detecting skin cancer through sensitivity is depicted in Fig. 7e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel e",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 7f, the validation of performance of PCSN-Net using accuracy is validated, where the PCSN-Net obtained accuracy of 0.897, 0.917, 0.929, and 0.957 for 90% learning set and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel f",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nPerformance validation of PCSN-Net employing.Comparative techniques\nThe superiority of PCSN-Net used for the detection of skin cancer is determined by comparing with existing detection models, like Aquila Whale Optimization-SqueezeNet (AWO-SqueezeNet)36, deep learning6, Ensemble lightweight deep learning9, Optimized CNN4, transfer learning3, and DeepSegNet+Fuzzy cognitive map (FCM).Comparative analysis\nFigure 8 delineates the analysis carried out to identify the performance of PCSN-Net for detecting skin cancer by varying learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8a shows the analysis of different approaches used for diagnosing skin cancer using FPR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of different approaches used for detecting skin cancer utilizing PPV is demonstrated in Fig. 8b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of various skin cancer detection models using NPV is depicted in Fig. 8c, where the NPV recorded by PCSN-Net designed in this research is 0.897 for 90% learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d investigates the specificity recorded by the detection techniques used for identifying skin cancer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 8e shows the comparative assessment of various approaches used to detect skin cancer employing sensitivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel e",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, Fig. 8f displays the validation of different approaches utilized to identify skin cancer from skin images using accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel f",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Experimentation results\nThe image outcomes obtained from PCSN-Net are displayed in Fig. 6, where the input and resultant filtered image are shown in Fig. 6a,b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The segmented skin cancer image is given in Fig. 6c, and the mix-up as well as cut mix image is elucidated in Fig. 6d,e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, the colorspace transformation image, like hue, brightness, and saturation skin lesion image is shown in Fig. 6f–h.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel f",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, the resultant geometric transformation image, like rotation, crop flip, and shift scale image is depicted in Fig. 6i–k.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel i",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The image outcomes obtained from PCSN-Net are displayed in Fig. 6, where the input and resultant filtered image are shown in Fig. 6a,b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The segmented skin cancer image is given in Fig. 6c, and the mix-up as well as cut mix image is elucidated in Fig. 6d,e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, the colorspace transformation image, like hue, brightness, and saturation skin lesion image is shown in Fig. 6f–h.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel f",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, the resultant geometric transformation image, like rotation, crop flip, and shift scale image is depicted in Fig. 6i–k.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel i",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Performance evaluation\nThe performance validation of PCSN-Net used for detecting skin cancer is illustrated in Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of PCSN-Net using FPR is given in Fig. 7a, where the PCSN-Net obtained FPR of 0.176, 0.157, 0.146, and 0.107 for the learning set of 90% and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel a",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7b shows the analysis of PCSN-Net used to identify skin cancer using PPV.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of PCSN-Net used to detect skin cancer from skin image based on NPV is displayed in Fig. 7c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel c",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 7d depicts the performance analysis of PCSN-Net by utilizing specificity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel d",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Further, the validation of PCSN-Net used for detecting skin cancer through sensitivity is depicted in Fig. 7e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel e",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 7f, the validation of performance of PCSN-Net using accuracy is validated, where the PCSN-Net obtained accuracy of 0.897, 0.917, 0.929, and 0.957 for 90% learning set and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel f",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The performance validation of PCSN-Net used for detecting skin cancer is illustrated in Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of PCSN-Net using FPR is given in Fig. 7a, where the PCSN-Net obtained FPR of 0.176, 0.157, 0.146, and 0.107 for the learning set of 90% and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel a",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7b shows the analysis of PCSN-Net used to identify skin cancer using PPV.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of PCSN-Net used to detect skin cancer from skin image based on NPV is displayed in Fig. 7c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel c",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 7d depicts the performance analysis of PCSN-Net by utilizing specificity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel d",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Further, the validation of PCSN-Net used for detecting skin cancer through sensitivity is depicted in Fig. 7e.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel e",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 7f, the validation of performance of PCSN-Net using accuracy is validated, where the PCSN-Net obtained accuracy of 0.897, 0.917, 0.929, and 0.957 for 90% learning set and for 2,4,6, and 8 layers.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel f",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Comparative analysis\nFigure 8 delineates the analysis carried out to identify the performance of PCSN-Net for detecting skin cancer by varying learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8a shows the analysis of different approaches used for diagnosing skin cancer using FPR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of different approaches used for detecting skin cancer utilizing PPV is demonstrated in Fig. 8b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of various skin cancer detection models using NPV is depicted in Fig. 8c, where the NPV recorded by PCSN-Net designed in this research is 0.897 for 90% learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d investigates the specificity recorded by the detection techniques used for identifying skin cancer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 8e shows the comparative assessment of various approaches used to detect skin cancer employing sensitivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel e",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, Fig. 8f displays the validation of different approaches utilized to identify skin cancer from skin images using accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel f",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 delineates the analysis carried out to identify the performance of PCSN-Net for detecting skin cancer by varying learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8a shows the analysis of different approaches used for diagnosing skin cancer using FPR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The validation of different approaches used for detecting skin cancer utilizing PPV is demonstrated in Fig. 8b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The evaluation of various skin cancer detection models using NPV is depicted in Fig. 8c, where the NPV recorded by PCSN-Net designed in this research is 0.897 for 90% learning set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d investigates the specificity recorded by the detection techniques used for identifying skin cancer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, Fig. 8e shows the comparative assessment of various approaches used to detect skin cancer employing sensitivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel e",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, Fig. 8f displays the validation of different approaches utilized to identify skin cancer from skin images using accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel f",
+        "figure_key": "figure_8"
+      }
+    ]
+  }
+]

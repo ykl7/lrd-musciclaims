@@ -1,0 +1,2517 @@
+[
+  {
+    "sentence": "The second stage was to develop a local element-specific material model and compare it with a conventional ring-segmented material model, Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Averaged eye 3D surfaces modelling\nCompletion of the averaging process allows the averaged eye model to be represented in a 3D point cloud plot as shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For display purposes, the averaged eye 3D surfaces model globe was flattened with the corneal apex located at the centre, Fig. 3(a,b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The position of the limbus on the averaged eye globe was located by averaging the limbal elevation position of all studied eyes and hence used as a landmark for the edge of the cornea (Ec), Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nMean eye globe model resulting from averaging 118 eyes.Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The white contour line represents the standard deviation (b) Average eye globe thickness map flattened to two-dimensional view.Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The division process was carried out in 3D using the corneal edge elevation angle Ec to split the cornea portion and the same angle to split the posterior sclera portion while the equatorial scleral angle was set to Es = 180°-2Ec, Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Material modelling\nFollowing the geometrical modelling, two material models were compared in this study, the newly created localised element-specific material model and the conventional ring-segmented material model, Fig. 5(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The flattened 2D mapped collagen map presented in Fig. 6(a) is plotted against peripheral lengths of the eye globe with the centre at the corneal apex for displaying purposes, Fig. 6(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The map is normalised against the fibril density at the corneal apex at the centre of the map. (b) Fibril density map of the eye mapped to the 3D eye shape.A Zernike polynomial was chosen for fitting the normalised collagen map in Fig. 6, where the order of the polynomial was selected based on the K-fold cross-validation method, Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Hence, rearranging Eq. (15) results in Eq. (16)\n\nand for age 70 years as\n\n\nEq.16\n\nwith the exponent  fixed to a scaler  and eyes being strained to equal starch , then Eq. (17)\n\n\nEq.17\n\nwhere  is an age factor determined by normalising the averaged stress-strain behaviour of both cornea and sclera following [75,123] against the median noted age of 70 years, Fig. 8(a,b,c,d,e,f,g,h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "To facilitate the material model and allow covering the eye matter stiffness variation with age, the material age factor was represented as a map for each age, Fig. 9(a,b,c,d,e,f,g), where the discretised spline robust smoothing was applied to ensure a smooth transition between eye globe boundaries [124].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Results\nWhen eyes were averaged based on their surfaces' radial distances from the scleral centre in the spherical coordinate system, variation in the form of higher standard deviation was noticed in the nasal-temporal direction ±0.9 mm, while it was a limited variation in the superior-inferior direction <±0.01 mm, Fig. 3(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "On the other hand, the thickness profile followed the reported values in the literature with a minimum thickness of 0.558 mm at the corneal apex, 0.624 mm at the limbus and 0.833 mm at the posterior pole, Fig. 3(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Exterior wall\n\nInterior wall\n\n\n\nCornea (Eq. (1))\nEquatorial Sclera (Eq. (6))\nPosterior Sclera (Eq. (1))\nCornea (Eq. (1))\nEquatorial Sclera (Eq. (6))\nPosterior Sclera (Eq. (1))\n\n\n\n\na1\n11.788\n12.213\n−11.254\n11.218\n11.506\n−10.478\n\n\na2\n0.040\n0.027\n0.000\n0.039\n0.110\n0.001\n\n\na3\n0.008\n−0.011\n0.000\n0.008\n−0.018\n0.000\n\n\na4\n−0.003\n−0.030\n0.000\n−0.004\n−0.040\n0.000\n\n\na5\n−1.478\n0.019\n0.961\n−1.456\n0.025\n0.908\n\n\na6\n0.022\n0.034\n0.000\n0.016\n0.044\n0.000\n\n\na7\n−0.002\n–\n−0.003\n0.000\n–\n0.000\n\n\na8\n−0.030\n–\n−0.032\n0.000\n–\n0.000\n\n\na9\n−0.007\n–\n−0.007\n0.000\n–\n0.000\n\n\na10\n−0.002\n–\n−0.002\n0.000\n–\n0.000\n\n\na11\n−0.001\n–\n−0.001\n0.000\n–\n0.000\n\n\na12\n0.001\n–\n0.001\n0.000\n–\n0.000\n\n\na13\n0.027\n–\n0.049\n0.027\n–\n0.031\n\n\na14\n−0.007\n–\n−0.010\n0.000\n–\n0.000\n\n\na15\n0.002\n–\n0.006\n0.000\n–\n0.000\n\n\na16\n0.003\n–\n0.004\n0.000\n–\n0.000\n\n\na17\n0.001\n–\n0.001\n0.000\n–\n0.000\n\n\na18\n−0.008\n–\n−0.005\n0.000\n–\n0.000\n\n\na19\n0.000\n–\n0.001\n0.000\n–\n0.000\n\n\na20\n0.001\n–\n0.002\n0.000\n–\n0.000\n\n\na21\n0.000\n–\n0.000\n0.000\n–\n0.000\n\n\n\nOpen in a new tabFor the purpose of comparison, the geometry of the nasal side of both the limbal discontinuity model and the average eye model were plotted in Fig. 10(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Statistical significance (p) of the difference between the ideal eye model and the average eye model geometries, as reported in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In terms of material models, the difference between the stresses built in the inflation simulation up to 15 mmHg in the ring-segmented material model and localised element-specific material model were significantly different (p < 0.001) with the ring-segmented material model recording average von-Mises stress 0.0168 ± 0.0046 MPa (range 0.0100–0.0291 MPa) and the localised element-specific material model recording average von-Mises stress 0.0144 ± 0.0025 MPa (range 0.0091–0.0222 MPa), Fig. 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "As can be seen in Fig. 11(i), the ring-segmented model recorded its highest logarithmic strain (0.0267) at the peripheral cornea; however, the element-specific model's highest logarithmic strain was at the corneal apex (0.0203).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The study also presents a localised element-specific material model for the ocular globe that is suitable for FE analysis and works better than a ring-segmented model in terms of stress distribution, Fig. 11, with no need for a custom coded user-subroutine.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, the averaged eye geometry model has the limbus in place with its true tangent angle with the corneal surface, Fig. 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Material\nIn terms of material behaviour, dividing the eye model to ring segments with varying material parameters for each segment, as in the ring-segmented model, Fig. 5(a), did not reflect the regional variation in the eye stiffness as detected by determination of fibril density via x-ray scattering techniques, Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The second stage was to develop a local element-specific material model and compare it with a conventional ring-segmented material model, Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Averaged eye 3D surfaces modelling\nCompletion of the averaging process allows the averaged eye model to be represented in a 3D point cloud plot as shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For display purposes, the averaged eye 3D surfaces model globe was flattened with the corneal apex located at the centre, Fig. 3(a,b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The position of the limbus on the averaged eye globe was located by averaging the limbal elevation position of all studied eyes and hence used as a landmark for the edge of the cornea (Ec), Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nMean eye globe model resulting from averaging 118 eyes.Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The white contour line represents the standard deviation (b) Average eye globe thickness map flattened to two-dimensional view.Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The division process was carried out in 3D using the corneal edge elevation angle Ec to split the cornea portion and the same angle to split the posterior sclera portion while the equatorial scleral angle was set to Es = 180°-2Ec, Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Material modelling\nFollowing the geometrical modelling, two material models were compared in this study, the newly created localised element-specific material model and the conventional ring-segmented material model, Fig. 5(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The flattened 2D mapped collagen map presented in Fig. 6(a) is plotted against peripheral lengths of the eye globe with the centre at the corneal apex for displaying purposes, Fig. 6(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The map is normalised against the fibril density at the corneal apex at the centre of the map. (b) Fibril density map of the eye mapped to the 3D eye shape.A Zernike polynomial was chosen for fitting the normalised collagen map in Fig. 6, where the order of the polynomial was selected based on the K-fold cross-validation method, Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Hence, rearranging Eq. (15) results in Eq. (16)\n\nand for age 70 years as\n\n\nEq.16\n\nwith the exponent  fixed to a scaler  and eyes being strained to equal starch , then Eq. (17)\n\n\nEq.17\n\nwhere  is an age factor determined by normalising the averaged stress-strain behaviour of both cornea and sclera following [75,123] against the median noted age of 70 years, Fig. 8(a,b,c,d,e,f,g,h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "To facilitate the material model and allow covering the eye matter stiffness variation with age, the material age factor was represented as a map for each age, Fig. 9(a,b,c,d,e,f,g), where the discretised spline robust smoothing was applied to ensure a smooth transition between eye globe boundaries [124].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Results\nWhen eyes were averaged based on their surfaces' radial distances from the scleral centre in the spherical coordinate system, variation in the form of higher standard deviation was noticed in the nasal-temporal direction ±0.9 mm, while it was a limited variation in the superior-inferior direction <±0.01 mm, Fig. 3(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "On the other hand, the thickness profile followed the reported values in the literature with a minimum thickness of 0.558 mm at the corneal apex, 0.624 mm at the limbus and 0.833 mm at the posterior pole, Fig. 3(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Exterior wall\n\nInterior wall\n\n\n\nCornea (Eq. (1))\nEquatorial Sclera (Eq. (6))\nPosterior Sclera (Eq. (1))\nCornea (Eq. (1))\nEquatorial Sclera (Eq. (6))\nPosterior Sclera (Eq. (1))\n\n\n\n\na1\n11.788\n12.213\n−11.254\n11.218\n11.506\n−10.478\n\n\na2\n0.040\n0.027\n0.000\n0.039\n0.110\n0.001\n\n\na3\n0.008\n−0.011\n0.000\n0.008\n−0.018\n0.000\n\n\na4\n−0.003\n−0.030\n0.000\n−0.004\n−0.040\n0.000\n\n\na5\n−1.478\n0.019\n0.961\n−1.456\n0.025\n0.908\n\n\na6\n0.022\n0.034\n0.000\n0.016\n0.044\n0.000\n\n\na7\n−0.002\n–\n−0.003\n0.000\n–\n0.000\n\n\na8\n−0.030\n–\n−0.032\n0.000\n–\n0.000\n\n\na9\n−0.007\n–\n−0.007\n0.000\n–\n0.000\n\n\na10\n−0.002\n–\n−0.002\n0.000\n–\n0.000\n\n\na11\n−0.001\n–\n−0.001\n0.000\n–\n0.000\n\n\na12\n0.001\n–\n0.001\n0.000\n–\n0.000\n\n\na13\n0.027\n–\n0.049\n0.027\n–\n0.031\n\n\na14\n−0.007\n–\n−0.010\n0.000\n–\n0.000\n\n\na15\n0.002\n–\n0.006\n0.000\n–\n0.000\n\n\na16\n0.003\n–\n0.004\n0.000\n–\n0.000\n\n\na17\n0.001\n–\n0.001\n0.000\n–\n0.000\n\n\na18\n−0.008\n–\n−0.005\n0.000\n–\n0.000\n\n\na19\n0.000\n–\n0.001\n0.000\n–\n0.000\n\n\na20\n0.001\n–\n0.002\n0.000\n–\n0.000\n\n\na21\n0.000\n–\n0.000\n0.000\n–\n0.000\n\n\n\nOpen in a new tabFor the purpose of comparison, the geometry of the nasal side of both the limbal discontinuity model and the average eye model were plotted in Fig. 10(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Statistical significance (p) of the difference between the ideal eye model and the average eye model geometries, as reported in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In terms of material models, the difference between the stresses built in the inflation simulation up to 15 mmHg in the ring-segmented material model and localised element-specific material model were significantly different (p < 0.001) with the ring-segmented material model recording average von-Mises stress 0.0168 ± 0.0046 MPa (range 0.0100–0.0291 MPa) and the localised element-specific material model recording average von-Mises stress 0.0144 ± 0.0025 MPa (range 0.0091–0.0222 MPa), Fig. 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "As can be seen in Fig. 11(i), the ring-segmented model recorded its highest logarithmic strain (0.0267) at the peripheral cornea; however, the element-specific model's highest logarithmic strain was at the corneal apex (0.0203).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The study also presents a localised element-specific material model for the ocular globe that is suitable for FE analysis and works better than a ring-segmented model in terms of stress distribution, Fig. 11, with no need for a custom coded user-subroutine.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, the averaged eye geometry model has the limbus in place with its true tangent angle with the corneal surface, Fig. 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Material\nIn terms of material behaviour, dividing the eye model to ring segments with varying material parameters for each segment, as in the ring-segmented model, Fig. 5(a), did not reflect the regional variation in the eye stiffness as detected by determination of fibril density via x-ray scattering techniques, Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The second stage was to develop a local element-specific material model and compare it with a conventional ring-segmented material model, Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Averaged eye 3D surfaces modelling\nCompletion of the averaging process allows the averaged eye model to be represented in a 3D point cloud plot as shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For display purposes, the averaged eye 3D surfaces model globe was flattened with the corneal apex located at the centre, Fig. 3(a,b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The position of the limbus on the averaged eye globe was located by averaging the limbal elevation position of all studied eyes and hence used as a landmark for the edge of the cornea (Ec), Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nMean eye globe model resulting from averaging 118 eyes.Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The white contour line represents the standard deviation (b) Average eye globe thickness map flattened to two-dimensional view.Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The division process was carried out in 3D using the corneal edge elevation angle Ec to split the cornea portion and the same angle to split the posterior sclera portion while the equatorial scleral angle was set to Es = 180°-2Ec, Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Material modelling\nFollowing the geometrical modelling, two material models were compared in this study, the newly created localised element-specific material model and the conventional ring-segmented material model, Fig. 5(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The flattened 2D mapped collagen map presented in Fig. 6(a) is plotted against peripheral lengths of the eye globe with the centre at the corneal apex for displaying purposes, Fig. 6(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The map is normalised against the fibril density at the corneal apex at the centre of the map. (b) Fibril density map of the eye mapped to the 3D eye shape.A Zernike polynomial was chosen for fitting the normalised collagen map in Fig. 6, where the order of the polynomial was selected based on the K-fold cross-validation method, Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Hence, rearranging Eq. (15) results in Eq. (16)\n\nand for age 70 years as\n\n\nEq.16\n\nwith the exponent  fixed to a scaler  and eyes being strained to equal starch , then Eq. (17)\n\n\nEq.17\n\nwhere  is an age factor determined by normalising the averaged stress-strain behaviour of both cornea and sclera following [75,123] against the median noted age of 70 years, Fig. 8(a,b,c,d,e,f,g,h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "To facilitate the material model and allow covering the eye matter stiffness variation with age, the material age factor was represented as a map for each age, Fig. 9(a,b,c,d,e,f,g), where the discretised spline robust smoothing was applied to ensure a smooth transition between eye globe boundaries [124].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Results\nWhen eyes were averaged based on their surfaces' radial distances from the scleral centre in the spherical coordinate system, variation in the form of higher standard deviation was noticed in the nasal-temporal direction ±0.9 mm, while it was a limited variation in the superior-inferior direction <±0.01 mm, Fig. 3(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "On the other hand, the thickness profile followed the reported values in the literature with a minimum thickness of 0.558 mm at the corneal apex, 0.624 mm at the limbus and 0.833 mm at the posterior pole, Fig. 3(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Exterior wall\n\nInterior wall\n\n\n\nCornea (Eq. (1))\nEquatorial Sclera (Eq. (6))\nPosterior Sclera (Eq. (1))\nCornea (Eq. (1))\nEquatorial Sclera (Eq. (6))\nPosterior Sclera (Eq. (1))\n\n\n\n\na1\n11.788\n12.213\n−11.254\n11.218\n11.506\n−10.478\n\n\na2\n0.040\n0.027\n0.000\n0.039\n0.110\n0.001\n\n\na3\n0.008\n−0.011\n0.000\n0.008\n−0.018\n0.000\n\n\na4\n−0.003\n−0.030\n0.000\n−0.004\n−0.040\n0.000\n\n\na5\n−1.478\n0.019\n0.961\n−1.456\n0.025\n0.908\n\n\na6\n0.022\n0.034\n0.000\n0.016\n0.044\n0.000\n\n\na7\n−0.002\n–\n−0.003\n0.000\n–\n0.000\n\n\na8\n−0.030\n–\n−0.032\n0.000\n–\n0.000\n\n\na9\n−0.007\n–\n−0.007\n0.000\n–\n0.000\n\n\na10\n−0.002\n–\n−0.002\n0.000\n–\n0.000\n\n\na11\n−0.001\n–\n−0.001\n0.000\n–\n0.000\n\n\na12\n0.001\n–\n0.001\n0.000\n–\n0.000\n\n\na13\n0.027\n–\n0.049\n0.027\n–\n0.031\n\n\na14\n−0.007\n–\n−0.010\n0.000\n–\n0.000\n\n\na15\n0.002\n–\n0.006\n0.000\n–\n0.000\n\n\na16\n0.003\n–\n0.004\n0.000\n–\n0.000\n\n\na17\n0.001\n–\n0.001\n0.000\n–\n0.000\n\n\na18\n−0.008\n–\n−0.005\n0.000\n–\n0.000\n\n\na19\n0.000\n–\n0.001\n0.000\n–\n0.000\n\n\na20\n0.001\n–\n0.002\n0.000\n–\n0.000\n\n\na21\n0.000\n–\n0.000\n0.000\n–\n0.000\n\n\n\nOpen in a new tabFor the purpose of comparison, the geometry of the nasal side of both the limbal discontinuity model and the average eye model were plotted in Fig. 10(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Statistical significance (p) of the difference between the ideal eye model and the average eye model geometries, as reported in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In terms of material models, the difference between the stresses built in the inflation simulation up to 15 mmHg in the ring-segmented material model and localised element-specific material model were significantly different (p < 0.001) with the ring-segmented material model recording average von-Mises stress 0.0168 ± 0.0046 MPa (range 0.0100–0.0291 MPa) and the localised element-specific material model recording average von-Mises stress 0.0144 ± 0.0025 MPa (range 0.0091–0.0222 MPa), Fig. 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "As can be seen in Fig. 11(i), the ring-segmented model recorded its highest logarithmic strain (0.0267) at the peripheral cornea; however, the element-specific model's highest logarithmic strain was at the corneal apex (0.0203).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The study also presents a localised element-specific material model for the ocular globe that is suitable for FE analysis and works better than a ring-segmented model in terms of stress distribution, Fig. 11, with no need for a custom coded user-subroutine.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, the averaged eye geometry model has the limbus in place with its true tangent angle with the corneal surface, Fig. 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Material\nIn terms of material behaviour, dividing the eye model to ring segments with varying material parameters for each segment, as in the ring-segmented model, Fig. 5(a), did not reflect the regional variation in the eye stiffness as detected by determination of fibril density via x-ray scattering techniques, Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The second stage was to develop a local element-specific material model and compare it with a conventional ring-segmented material model, Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Averaged eye 3D surfaces modelling\nCompletion of the averaging process allows the averaged eye model to be represented in a 3D point cloud plot as shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For display purposes, the averaged eye 3D surfaces model globe was flattened with the corneal apex located at the centre, Fig. 3(a,b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The position of the limbus on the averaged eye globe was located by averaging the limbal elevation position of all studied eyes and hence used as a landmark for the edge of the cornea (Ec), Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nMean eye globe model resulting from averaging 118 eyes.Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The white contour line represents the standard deviation (b) Average eye globe thickness map flattened to two-dimensional view.Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The division process was carried out in 3D using the corneal edge elevation angle Ec to split the cornea portion and the same angle to split the posterior sclera portion while the equatorial scleral angle was set to Es = 180°-2Ec, Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Material modelling\nFollowing the geometrical modelling, two material models were compared in this study, the newly created localised element-specific material model and the conventional ring-segmented material model, Fig. 5(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The flattened 2D mapped collagen map presented in Fig. 6(a) is plotted against peripheral lengths of the eye globe with the centre at the corneal apex for displaying purposes, Fig. 6(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The map is normalised against the fibril density at the corneal apex at the centre of the map. (b) Fibril density map of the eye mapped to the 3D eye shape.A Zernike polynomial was chosen for fitting the normalised collagen map in Fig. 6, where the order of the polynomial was selected based on the K-fold cross-validation method, Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Hence, rearranging Eq. (15) results in Eq. (16)\n\nand for age 70 years as\n\n\nEq.16\n\nwith the exponent  fixed to a scaler  and eyes being strained to equal starch , then Eq. (17)\n\n\nEq.17\n\nwhere  is an age factor determined by normalising the averaged stress-strain behaviour of both cornea and sclera following [75,123] against the median noted age of 70 years, Fig. 8(a,b,c,d,e,f,g,h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "To facilitate the material model and allow covering the eye matter stiffness variation with age, the material age factor was represented as a map for each age, Fig. 9(a,b,c,d,e,f,g), where the discretised spline robust smoothing was applied to ensure a smooth transition between eye globe boundaries [124].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Results\nWhen eyes were averaged based on their surfaces' radial distances from the scleral centre in the spherical coordinate system, variation in the form of higher standard deviation was noticed in the nasal-temporal direction ±0.9 mm, while it was a limited variation in the superior-inferior direction <±0.01 mm, Fig. 3(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "On the other hand, the thickness profile followed the reported values in the literature with a minimum thickness of 0.558 mm at the corneal apex, 0.624 mm at the limbus and 0.833 mm at the posterior pole, Fig. 3(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Exterior wall\n\nInterior wall\n\n\n\nCornea (Eq. (1))\nEquatorial Sclera (Eq. (6))\nPosterior Sclera (Eq. (1))\nCornea (Eq. (1))\nEquatorial Sclera (Eq. (6))\nPosterior Sclera (Eq. (1))\n\n\n\n\na1\n11.788\n12.213\n−11.254\n11.218\n11.506\n−10.478\n\n\na2\n0.040\n0.027\n0.000\n0.039\n0.110\n0.001\n\n\na3\n0.008\n−0.011\n0.000\n0.008\n−0.018\n0.000\n\n\na4\n−0.003\n−0.030\n0.000\n−0.004\n−0.040\n0.000\n\n\na5\n−1.478\n0.019\n0.961\n−1.456\n0.025\n0.908\n\n\na6\n0.022\n0.034\n0.000\n0.016\n0.044\n0.000\n\n\na7\n−0.002\n–\n−0.003\n0.000\n–\n0.000\n\n\na8\n−0.030\n–\n−0.032\n0.000\n–\n0.000\n\n\na9\n−0.007\n–\n−0.007\n0.000\n–\n0.000\n\n\na10\n−0.002\n–\n−0.002\n0.000\n–\n0.000\n\n\na11\n−0.001\n–\n−0.001\n0.000\n–\n0.000\n\n\na12\n0.001\n–\n0.001\n0.000\n–\n0.000\n\n\na13\n0.027\n–\n0.049\n0.027\n–\n0.031\n\n\na14\n−0.007\n–\n−0.010\n0.000\n–\n0.000\n\n\na15\n0.002\n–\n0.006\n0.000\n–\n0.000\n\n\na16\n0.003\n–\n0.004\n0.000\n–\n0.000\n\n\na17\n0.001\n–\n0.001\n0.000\n–\n0.000\n\n\na18\n−0.008\n–\n−0.005\n0.000\n–\n0.000\n\n\na19\n0.000\n–\n0.001\n0.000\n–\n0.000\n\n\na20\n0.001\n–\n0.002\n0.000\n–\n0.000\n\n\na21\n0.000\n–\n0.000\n0.000\n–\n0.000\n\n\n\nOpen in a new tabFor the purpose of comparison, the geometry of the nasal side of both the limbal discontinuity model and the average eye model were plotted in Fig. 10(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Statistical significance (p) of the difference between the ideal eye model and the average eye model geometries, as reported in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In terms of material models, the difference between the stresses built in the inflation simulation up to 15 mmHg in the ring-segmented material model and localised element-specific material model were significantly different (p < 0.001) with the ring-segmented material model recording average von-Mises stress 0.0168 ± 0.0046 MPa (range 0.0100–0.0291 MPa) and the localised element-specific material model recording average von-Mises stress 0.0144 ± 0.0025 MPa (range 0.0091–0.0222 MPa), Fig. 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "As can be seen in Fig. 11(i), the ring-segmented model recorded its highest logarithmic strain (0.0267) at the peripheral cornea; however, the element-specific model's highest logarithmic strain was at the corneal apex (0.0203).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The study also presents a localised element-specific material model for the ocular globe that is suitable for FE analysis and works better than a ring-segmented model in terms of stress distribution, Fig. 11, with no need for a custom coded user-subroutine.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, the averaged eye geometry model has the limbus in place with its true tangent angle with the corneal surface, Fig. 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Material\nIn terms of material behaviour, dividing the eye model to ring segments with varying material parameters for each segment, as in the ring-segmented model, Fig. 5(a), did not reflect the regional variation in the eye stiffness as detected by determination of fibril density via x-ray scattering techniques, Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The second stage was to develop a local element-specific material model and compare it with a conventional ring-segmented material model, Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Averaged eye 3D surfaces modelling\nCompletion of the averaging process allows the averaged eye model to be represented in a 3D point cloud plot as shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For display purposes, the averaged eye 3D surfaces model globe was flattened with the corneal apex located at the centre, Fig. 3(a,b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The position of the limbus on the averaged eye globe was located by averaging the limbal elevation position of all studied eyes and hence used as a landmark for the edge of the cornea (Ec), Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nMean eye globe model resulting from averaging 118 eyes.Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The white contour line represents the standard deviation (b) Average eye globe thickness map flattened to two-dimensional view.Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The division process was carried out in 3D using the corneal edge elevation angle Ec to split the cornea portion and the same angle to split the posterior sclera portion while the equatorial scleral angle was set to Es = 180°-2Ec, Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Material modelling\nFollowing the geometrical modelling, two material models were compared in this study, the newly created localised element-specific material model and the conventional ring-segmented material model, Fig. 5(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The flattened 2D mapped collagen map presented in Fig. 6(a) is plotted against peripheral lengths of the eye globe with the centre at the corneal apex for displaying purposes, Fig. 6(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The map is normalised against the fibril density at the corneal apex at the centre of the map. (b) Fibril density map of the eye mapped to the 3D eye shape.A Zernike polynomial was chosen for fitting the normalised collagen map in Fig. 6, where the order of the polynomial was selected based on the K-fold cross-validation method, Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Hence, rearranging Eq. (15) results in Eq. (16)\n\nand for age 70 years as\n\n\nEq.16\n\nwith the exponent  fixed to a scaler  and eyes being strained to equal starch , then Eq. (17)\n\n\nEq.17\n\nwhere  is an age factor determined by normalising the averaged stress-strain behaviour of both cornea and sclera following [75,123] against the median noted age of 70 years, Fig. 8(a,b,c,d,e,f,g,h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "To facilitate the material model and allow covering the eye matter stiffness variation with age, the material age factor was represented as a map for each age, Fig. 9(a,b,c,d,e,f,g), where the discretised spline robust smoothing was applied to ensure a smooth transition between eye globe boundaries [124].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Results\nWhen eyes were averaged based on their surfaces' radial distances from the scleral centre in the spherical coordinate system, variation in the form of higher standard deviation was noticed in the nasal-temporal direction ±0.9 mm, while it was a limited variation in the superior-inferior direction <±0.01 mm, Fig. 3(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "On the other hand, the thickness profile followed the reported values in the literature with a minimum thickness of 0.558 mm at the corneal apex, 0.624 mm at the limbus and 0.833 mm at the posterior pole, Fig. 3(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Exterior wall\n\nInterior wall\n\n\n\nCornea (Eq. (1))\nEquatorial Sclera (Eq. (6))\nPosterior Sclera (Eq. (1))\nCornea (Eq. (1))\nEquatorial Sclera (Eq. (6))\nPosterior Sclera (Eq. (1))\n\n\n\n\na1\n11.788\n12.213\n−11.254\n11.218\n11.506\n−10.478\n\n\na2\n0.040\n0.027\n0.000\n0.039\n0.110\n0.001\n\n\na3\n0.008\n−0.011\n0.000\n0.008\n−0.018\n0.000\n\n\na4\n−0.003\n−0.030\n0.000\n−0.004\n−0.040\n0.000\n\n\na5\n−1.478\n0.019\n0.961\n−1.456\n0.025\n0.908\n\n\na6\n0.022\n0.034\n0.000\n0.016\n0.044\n0.000\n\n\na7\n−0.002\n–\n−0.003\n0.000\n–\n0.000\n\n\na8\n−0.030\n–\n−0.032\n0.000\n–\n0.000\n\n\na9\n−0.007\n–\n−0.007\n0.000\n–\n0.000\n\n\na10\n−0.002\n–\n−0.002\n0.000\n–\n0.000\n\n\na11\n−0.001\n–\n−0.001\n0.000\n–\n0.000\n\n\na12\n0.001\n–\n0.001\n0.000\n–\n0.000\n\n\na13\n0.027\n–\n0.049\n0.027\n–\n0.031\n\n\na14\n−0.007\n–\n−0.010\n0.000\n–\n0.000\n\n\na15\n0.002\n–\n0.006\n0.000\n–\n0.000\n\n\na16\n0.003\n–\n0.004\n0.000\n–\n0.000\n\n\na17\n0.001\n–\n0.001\n0.000\n–\n0.000\n\n\na18\n−0.008\n–\n−0.005\n0.000\n–\n0.000\n\n\na19\n0.000\n–\n0.001\n0.000\n–\n0.000\n\n\na20\n0.001\n–\n0.002\n0.000\n–\n0.000\n\n\na21\n0.000\n–\n0.000\n0.000\n–\n0.000\n\n\n\nOpen in a new tabFor the purpose of comparison, the geometry of the nasal side of both the limbal discontinuity model and the average eye model were plotted in Fig. 10(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Statistical significance (p) of the difference between the ideal eye model and the average eye model geometries, as reported in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In terms of material models, the difference between the stresses built in the inflation simulation up to 15 mmHg in the ring-segmented material model and localised element-specific material model were significantly different (p < 0.001) with the ring-segmented material model recording average von-Mises stress 0.0168 ± 0.0046 MPa (range 0.0100–0.0291 MPa) and the localised element-specific material model recording average von-Mises stress 0.0144 ± 0.0025 MPa (range 0.0091–0.0222 MPa), Fig. 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "As can be seen in Fig. 11(i), the ring-segmented model recorded its highest logarithmic strain (0.0267) at the peripheral cornea; however, the element-specific model's highest logarithmic strain was at the corneal apex (0.0203).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The study also presents a localised element-specific material model for the ocular globe that is suitable for FE analysis and works better than a ring-segmented model in terms of stress distribution, Fig. 11, with no need for a custom coded user-subroutine.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, the averaged eye geometry model has the limbus in place with its true tangent angle with the corneal surface, Fig. 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Material\nIn terms of material behaviour, dividing the eye model to ring segments with varying material parameters for each segment, as in the ring-segmented model, Fig. 5(a), did not reflect the regional variation in the eye stiffness as detected by determination of fibril density via x-ray scattering techniques, Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The second stage was to develop a local element-specific material model and compare it with a conventional ring-segmented material model, Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Averaged eye 3D surfaces modelling\nCompletion of the averaging process allows the averaged eye model to be represented in a 3D point cloud plot as shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For display purposes, the averaged eye 3D surfaces model globe was flattened with the corneal apex located at the centre, Fig. 3(a,b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The position of the limbus on the averaged eye globe was located by averaging the limbal elevation position of all studied eyes and hence used as a landmark for the edge of the cornea (Ec), Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nMean eye globe model resulting from averaging 118 eyes.Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The white contour line represents the standard deviation (b) Average eye globe thickness map flattened to two-dimensional view.Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The division process was carried out in 3D using the corneal edge elevation angle Ec to split the cornea portion and the same angle to split the posterior sclera portion while the equatorial scleral angle was set to Es = 180°-2Ec, Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Material modelling\nFollowing the geometrical modelling, two material models were compared in this study, the newly created localised element-specific material model and the conventional ring-segmented material model, Fig. 5(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The flattened 2D mapped collagen map presented in Fig. 6(a) is plotted against peripheral lengths of the eye globe with the centre at the corneal apex for displaying purposes, Fig. 6(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The map is normalised against the fibril density at the corneal apex at the centre of the map. (b) Fibril density map of the eye mapped to the 3D eye shape.A Zernike polynomial was chosen for fitting the normalised collagen map in Fig. 6, where the order of the polynomial was selected based on the K-fold cross-validation method, Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Hence, rearranging Eq. (15) results in Eq. (16)\n\nand for age 70 years as\n\n\nEq.16\n\nwith the exponent  fixed to a scaler  and eyes being strained to equal starch , then Eq. (17)\n\n\nEq.17\n\nwhere  is an age factor determined by normalising the averaged stress-strain behaviour of both cornea and sclera following [75,123] against the median noted age of 70 years, Fig. 8(a,b,c,d,e,f,g,h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "To facilitate the material model and allow covering the eye matter stiffness variation with age, the material age factor was represented as a map for each age, Fig. 9(a,b,c,d,e,f,g), where the discretised spline robust smoothing was applied to ensure a smooth transition between eye globe boundaries [124].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Results\nWhen eyes were averaged based on their surfaces' radial distances from the scleral centre in the spherical coordinate system, variation in the form of higher standard deviation was noticed in the nasal-temporal direction ±0.9 mm, while it was a limited variation in the superior-inferior direction <±0.01 mm, Fig. 3(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "On the other hand, the thickness profile followed the reported values in the literature with a minimum thickness of 0.558 mm at the corneal apex, 0.624 mm at the limbus and 0.833 mm at the posterior pole, Fig. 3(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Exterior wall\n\nInterior wall\n\n\n\nCornea (Eq. (1))\nEquatorial Sclera (Eq. (6))\nPosterior Sclera (Eq. (1))\nCornea (Eq. (1))\nEquatorial Sclera (Eq. (6))\nPosterior Sclera (Eq. (1))\n\n\n\n\na1\n11.788\n12.213\n−11.254\n11.218\n11.506\n−10.478\n\n\na2\n0.040\n0.027\n0.000\n0.039\n0.110\n0.001\n\n\na3\n0.008\n−0.011\n0.000\n0.008\n−0.018\n0.000\n\n\na4\n−0.003\n−0.030\n0.000\n−0.004\n−0.040\n0.000\n\n\na5\n−1.478\n0.019\n0.961\n−1.456\n0.025\n0.908\n\n\na6\n0.022\n0.034\n0.000\n0.016\n0.044\n0.000\n\n\na7\n−0.002\n–\n−0.003\n0.000\n–\n0.000\n\n\na8\n−0.030\n–\n−0.032\n0.000\n–\n0.000\n\n\na9\n−0.007\n–\n−0.007\n0.000\n–\n0.000\n\n\na10\n−0.002\n–\n−0.002\n0.000\n–\n0.000\n\n\na11\n−0.001\n–\n−0.001\n0.000\n–\n0.000\n\n\na12\n0.001\n–\n0.001\n0.000\n–\n0.000\n\n\na13\n0.027\n–\n0.049\n0.027\n–\n0.031\n\n\na14\n−0.007\n–\n−0.010\n0.000\n–\n0.000\n\n\na15\n0.002\n–\n0.006\n0.000\n–\n0.000\n\n\na16\n0.003\n–\n0.004\n0.000\n–\n0.000\n\n\na17\n0.001\n–\n0.001\n0.000\n–\n0.000\n\n\na18\n−0.008\n–\n−0.005\n0.000\n–\n0.000\n\n\na19\n0.000\n–\n0.001\n0.000\n–\n0.000\n\n\na20\n0.001\n–\n0.002\n0.000\n–\n0.000\n\n\na21\n0.000\n–\n0.000\n0.000\n–\n0.000\n\n\n\nOpen in a new tabFor the purpose of comparison, the geometry of the nasal side of both the limbal discontinuity model and the average eye model were plotted in Fig. 10(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Statistical significance (p) of the difference between the ideal eye model and the average eye model geometries, as reported in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In terms of material models, the difference between the stresses built in the inflation simulation up to 15 mmHg in the ring-segmented material model and localised element-specific material model were significantly different (p < 0.001) with the ring-segmented material model recording average von-Mises stress 0.0168 ± 0.0046 MPa (range 0.0100–0.0291 MPa) and the localised element-specific material model recording average von-Mises stress 0.0144 ± 0.0025 MPa (range 0.0091–0.0222 MPa), Fig. 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "As can be seen in Fig. 11(i), the ring-segmented model recorded its highest logarithmic strain (0.0267) at the peripheral cornea; however, the element-specific model's highest logarithmic strain was at the corneal apex (0.0203).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The study also presents a localised element-specific material model for the ocular globe that is suitable for FE analysis and works better than a ring-segmented model in terms of stress distribution, Fig. 11, with no need for a custom coded user-subroutine.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, the averaged eye geometry model has the limbus in place with its true tangent angle with the corneal surface, Fig. 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Material\nIn terms of material behaviour, dividing the eye model to ring segments with varying material parameters for each segment, as in the ring-segmented model, Fig. 5(a), did not reflect the regional variation in the eye stiffness as detected by determination of fibril density via x-ray scattering techniques, Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The second stage was to develop a local element-specific material model and compare it with a conventional ring-segmented material model, Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Averaged eye 3D surfaces modelling\nCompletion of the averaging process allows the averaged eye model to be represented in a 3D point cloud plot as shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For display purposes, the averaged eye 3D surfaces model globe was flattened with the corneal apex located at the centre, Fig. 3(a,b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The position of the limbus on the averaged eye globe was located by averaging the limbal elevation position of all studied eyes and hence used as a landmark for the edge of the cornea (Ec), Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nMean eye globe model resulting from averaging 118 eyes.Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The white contour line represents the standard deviation (b) Average eye globe thickness map flattened to two-dimensional view.Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The division process was carried out in 3D using the corneal edge elevation angle Ec to split the cornea portion and the same angle to split the posterior sclera portion while the equatorial scleral angle was set to Es = 180°-2Ec, Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Material modelling\nFollowing the geometrical modelling, two material models were compared in this study, the newly created localised element-specific material model and the conventional ring-segmented material model, Fig. 5(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The flattened 2D mapped collagen map presented in Fig. 6(a) is plotted against peripheral lengths of the eye globe with the centre at the corneal apex for displaying purposes, Fig. 6(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The map is normalised against the fibril density at the corneal apex at the centre of the map. (b) Fibril density map of the eye mapped to the 3D eye shape.A Zernike polynomial was chosen for fitting the normalised collagen map in Fig. 6, where the order of the polynomial was selected based on the K-fold cross-validation method, Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Hence, rearranging Eq. (15) results in Eq. (16)\n\nand for age 70 years as\n\n\nEq.16\n\nwith the exponent  fixed to a scaler  and eyes being strained to equal starch , then Eq. (17)\n\n\nEq.17\n\nwhere  is an age factor determined by normalising the averaged stress-strain behaviour of both cornea and sclera following [75,123] against the median noted age of 70 years, Fig. 8(a,b,c,d,e,f,g,h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "To facilitate the material model and allow covering the eye matter stiffness variation with age, the material age factor was represented as a map for each age, Fig. 9(a,b,c,d,e,f,g), where the discretised spline robust smoothing was applied to ensure a smooth transition between eye globe boundaries [124].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Results\nWhen eyes were averaged based on their surfaces' radial distances from the scleral centre in the spherical coordinate system, variation in the form of higher standard deviation was noticed in the nasal-temporal direction ±0.9 mm, while it was a limited variation in the superior-inferior direction <±0.01 mm, Fig. 3(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "On the other hand, the thickness profile followed the reported values in the literature with a minimum thickness of 0.558 mm at the corneal apex, 0.624 mm at the limbus and 0.833 mm at the posterior pole, Fig. 3(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Exterior wall\n\nInterior wall\n\n\n\nCornea (Eq. (1))\nEquatorial Sclera (Eq. (6))\nPosterior Sclera (Eq. (1))\nCornea (Eq. (1))\nEquatorial Sclera (Eq. (6))\nPosterior Sclera (Eq. (1))\n\n\n\n\na1\n11.788\n12.213\n−11.254\n11.218\n11.506\n−10.478\n\n\na2\n0.040\n0.027\n0.000\n0.039\n0.110\n0.001\n\n\na3\n0.008\n−0.011\n0.000\n0.008\n−0.018\n0.000\n\n\na4\n−0.003\n−0.030\n0.000\n−0.004\n−0.040\n0.000\n\n\na5\n−1.478\n0.019\n0.961\n−1.456\n0.025\n0.908\n\n\na6\n0.022\n0.034\n0.000\n0.016\n0.044\n0.000\n\n\na7\n−0.002\n–\n−0.003\n0.000\n–\n0.000\n\n\na8\n−0.030\n–\n−0.032\n0.000\n–\n0.000\n\n\na9\n−0.007\n–\n−0.007\n0.000\n–\n0.000\n\n\na10\n−0.002\n–\n−0.002\n0.000\n–\n0.000\n\n\na11\n−0.001\n–\n−0.001\n0.000\n–\n0.000\n\n\na12\n0.001\n–\n0.001\n0.000\n–\n0.000\n\n\na13\n0.027\n–\n0.049\n0.027\n–\n0.031\n\n\na14\n−0.007\n–\n−0.010\n0.000\n–\n0.000\n\n\na15\n0.002\n–\n0.006\n0.000\n–\n0.000\n\n\na16\n0.003\n–\n0.004\n0.000\n–\n0.000\n\n\na17\n0.001\n–\n0.001\n0.000\n–\n0.000\n\n\na18\n−0.008\n–\n−0.005\n0.000\n–\n0.000\n\n\na19\n0.000\n–\n0.001\n0.000\n–\n0.000\n\n\na20\n0.001\n–\n0.002\n0.000\n–\n0.000\n\n\na21\n0.000\n–\n0.000\n0.000\n–\n0.000\n\n\n\nOpen in a new tabFor the purpose of comparison, the geometry of the nasal side of both the limbal discontinuity model and the average eye model were plotted in Fig. 10(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Statistical significance (p) of the difference between the ideal eye model and the average eye model geometries, as reported in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In terms of material models, the difference between the stresses built in the inflation simulation up to 15 mmHg in the ring-segmented material model and localised element-specific material model were significantly different (p < 0.001) with the ring-segmented material model recording average von-Mises stress 0.0168 ± 0.0046 MPa (range 0.0100–0.0291 MPa) and the localised element-specific material model recording average von-Mises stress 0.0144 ± 0.0025 MPa (range 0.0091–0.0222 MPa), Fig. 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "As can be seen in Fig. 11(i), the ring-segmented model recorded its highest logarithmic strain (0.0267) at the peripheral cornea; however, the element-specific model's highest logarithmic strain was at the corneal apex (0.0203).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The study also presents a localised element-specific material model for the ocular globe that is suitable for FE analysis and works better than a ring-segmented model in terms of stress distribution, Fig. 11, with no need for a custom coded user-subroutine.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, the averaged eye geometry model has the limbus in place with its true tangent angle with the corneal surface, Fig. 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Material\nIn terms of material behaviour, dividing the eye model to ring segments with varying material parameters for each segment, as in the ring-segmented model, Fig. 5(a), did not reflect the regional variation in the eye stiffness as detected by determination of fibril density via x-ray scattering techniques, Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The second stage was to develop a local element-specific material model and compare it with a conventional ring-segmented material model, Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Averaged eye 3D surfaces modelling\nCompletion of the averaging process allows the averaged eye model to be represented in a 3D point cloud plot as shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For display purposes, the averaged eye 3D surfaces model globe was flattened with the corneal apex located at the centre, Fig. 3(a,b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The position of the limbus on the averaged eye globe was located by averaging the limbal elevation position of all studied eyes and hence used as a landmark for the edge of the cornea (Ec), Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nMean eye globe model resulting from averaging 118 eyes.Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The white contour line represents the standard deviation (b) Average eye globe thickness map flattened to two-dimensional view.Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The division process was carried out in 3D using the corneal edge elevation angle Ec to split the cornea portion and the same angle to split the posterior sclera portion while the equatorial scleral angle was set to Es = 180°-2Ec, Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Material modelling\nFollowing the geometrical modelling, two material models were compared in this study, the newly created localised element-specific material model and the conventional ring-segmented material model, Fig. 5(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The flattened 2D mapped collagen map presented in Fig. 6(a) is plotted against peripheral lengths of the eye globe with the centre at the corneal apex for displaying purposes, Fig. 6(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The map is normalised against the fibril density at the corneal apex at the centre of the map. (b) Fibril density map of the eye mapped to the 3D eye shape.A Zernike polynomial was chosen for fitting the normalised collagen map in Fig. 6, where the order of the polynomial was selected based on the K-fold cross-validation method, Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Hence, rearranging Eq. (15) results in Eq. (16)\n\nand for age 70 years as\n\n\nEq.16\n\nwith the exponent  fixed to a scaler  and eyes being strained to equal starch , then Eq. (17)\n\n\nEq.17\n\nwhere  is an age factor determined by normalising the averaged stress-strain behaviour of both cornea and sclera following [75,123] against the median noted age of 70 years, Fig. 8(a,b,c,d,e,f,g,h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "To facilitate the material model and allow covering the eye matter stiffness variation with age, the material age factor was represented as a map for each age, Fig. 9(a,b,c,d,e,f,g), where the discretised spline robust smoothing was applied to ensure a smooth transition between eye globe boundaries [124].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Results\nWhen eyes were averaged based on their surfaces' radial distances from the scleral centre in the spherical coordinate system, variation in the form of higher standard deviation was noticed in the nasal-temporal direction ±0.9 mm, while it was a limited variation in the superior-inferior direction <±0.01 mm, Fig. 3(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "On the other hand, the thickness profile followed the reported values in the literature with a minimum thickness of 0.558 mm at the corneal apex, 0.624 mm at the limbus and 0.833 mm at the posterior pole, Fig. 3(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Exterior wall\n\nInterior wall\n\n\n\nCornea (Eq. (1))\nEquatorial Sclera (Eq. (6))\nPosterior Sclera (Eq. (1))\nCornea (Eq. (1))\nEquatorial Sclera (Eq. (6))\nPosterior Sclera (Eq. (1))\n\n\n\n\na1\n11.788\n12.213\n−11.254\n11.218\n11.506\n−10.478\n\n\na2\n0.040\n0.027\n0.000\n0.039\n0.110\n0.001\n\n\na3\n0.008\n−0.011\n0.000\n0.008\n−0.018\n0.000\n\n\na4\n−0.003\n−0.030\n0.000\n−0.004\n−0.040\n0.000\n\n\na5\n−1.478\n0.019\n0.961\n−1.456\n0.025\n0.908\n\n\na6\n0.022\n0.034\n0.000\n0.016\n0.044\n0.000\n\n\na7\n−0.002\n–\n−0.003\n0.000\n–\n0.000\n\n\na8\n−0.030\n–\n−0.032\n0.000\n–\n0.000\n\n\na9\n−0.007\n–\n−0.007\n0.000\n–\n0.000\n\n\na10\n−0.002\n–\n−0.002\n0.000\n–\n0.000\n\n\na11\n−0.001\n–\n−0.001\n0.000\n–\n0.000\n\n\na12\n0.001\n–\n0.001\n0.000\n–\n0.000\n\n\na13\n0.027\n–\n0.049\n0.027\n–\n0.031\n\n\na14\n−0.007\n–\n−0.010\n0.000\n–\n0.000\n\n\na15\n0.002\n–\n0.006\n0.000\n–\n0.000\n\n\na16\n0.003\n–\n0.004\n0.000\n–\n0.000\n\n\na17\n0.001\n–\n0.001\n0.000\n–\n0.000\n\n\na18\n−0.008\n–\n−0.005\n0.000\n–\n0.000\n\n\na19\n0.000\n–\n0.001\n0.000\n–\n0.000\n\n\na20\n0.001\n–\n0.002\n0.000\n–\n0.000\n\n\na21\n0.000\n–\n0.000\n0.000\n–\n0.000\n\n\n\nOpen in a new tabFor the purpose of comparison, the geometry of the nasal side of both the limbal discontinuity model and the average eye model were plotted in Fig. 10(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Statistical significance (p) of the difference between the ideal eye model and the average eye model geometries, as reported in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In terms of material models, the difference between the stresses built in the inflation simulation up to 15 mmHg in the ring-segmented material model and localised element-specific material model were significantly different (p < 0.001) with the ring-segmented material model recording average von-Mises stress 0.0168 ± 0.0046 MPa (range 0.0100–0.0291 MPa) and the localised element-specific material model recording average von-Mises stress 0.0144 ± 0.0025 MPa (range 0.0091–0.0222 MPa), Fig. 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "As can be seen in Fig. 11(i), the ring-segmented model recorded its highest logarithmic strain (0.0267) at the peripheral cornea; however, the element-specific model's highest logarithmic strain was at the corneal apex (0.0203).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The study also presents a localised element-specific material model for the ocular globe that is suitable for FE analysis and works better than a ring-segmented model in terms of stress distribution, Fig. 11, with no need for a custom coded user-subroutine.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, the averaged eye geometry model has the limbus in place with its true tangent angle with the corneal surface, Fig. 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Material\nIn terms of material behaviour, dividing the eye model to ring segments with varying material parameters for each segment, as in the ring-segmented model, Fig. 5(a), did not reflect the regional variation in the eye stiffness as detected by determination of fibril density via x-ray scattering techniques, Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The second stage was to develop a local element-specific material model and compare it with a conventional ring-segmented material model, Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Averaged eye 3D surfaces modelling\nCompletion of the averaging process allows the averaged eye model to be represented in a 3D point cloud plot as shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For display purposes, the averaged eye 3D surfaces model globe was flattened with the corneal apex located at the centre, Fig. 3(a,b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The position of the limbus on the averaged eye globe was located by averaging the limbal elevation position of all studied eyes and hence used as a landmark for the edge of the cornea (Ec), Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nMean eye globe model resulting from averaging 118 eyes.Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The white contour line represents the standard deviation (b) Average eye globe thickness map flattened to two-dimensional view.Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The division process was carried out in 3D using the corneal edge elevation angle Ec to split the cornea portion and the same angle to split the posterior sclera portion while the equatorial scleral angle was set to Es = 180°-2Ec, Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Material modelling\nFollowing the geometrical modelling, two material models were compared in this study, the newly created localised element-specific material model and the conventional ring-segmented material model, Fig. 5(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The flattened 2D mapped collagen map presented in Fig. 6(a) is plotted against peripheral lengths of the eye globe with the centre at the corneal apex for displaying purposes, Fig. 6(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The map is normalised against the fibril density at the corneal apex at the centre of the map. (b) Fibril density map of the eye mapped to the 3D eye shape.A Zernike polynomial was chosen for fitting the normalised collagen map in Fig. 6, where the order of the polynomial was selected based on the K-fold cross-validation method, Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Hence, rearranging Eq. (15) results in Eq. (16)\n\nand for age 70 years as\n\n\nEq.16\n\nwith the exponent  fixed to a scaler  and eyes being strained to equal starch , then Eq. (17)\n\n\nEq.17\n\nwhere  is an age factor determined by normalising the averaged stress-strain behaviour of both cornea and sclera following [75,123] against the median noted age of 70 years, Fig. 8(a,b,c,d,e,f,g,h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "To facilitate the material model and allow covering the eye matter stiffness variation with age, the material age factor was represented as a map for each age, Fig. 9(a,b,c,d,e,f,g), where the discretised spline robust smoothing was applied to ensure a smooth transition between eye globe boundaries [124].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "The second stage was to develop a local element-specific material model and compare it with a conventional ring-segmented material model, Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The second stage was to develop a local element-specific material model and compare it with a conventional ring-segmented material model, Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Averaged eye 3D surfaces modelling\nCompletion of the averaging process allows the averaged eye model to be represented in a 3D point cloud plot as shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For display purposes, the averaged eye 3D surfaces model globe was flattened with the corneal apex located at the centre, Fig. 3(a,b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The position of the limbus on the averaged eye globe was located by averaging the limbal elevation position of all studied eyes and hence used as a landmark for the edge of the cornea (Ec), Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nMean eye globe model resulting from averaging 118 eyes.Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The white contour line represents the standard deviation (b) Average eye globe thickness map flattened to two-dimensional view.Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The division process was carried out in 3D using the corneal edge elevation angle Ec to split the cornea portion and the same angle to split the posterior sclera portion while the equatorial scleral angle was set to Es = 180°-2Ec, Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Averaged eye 3D surfaces modelling\nCompletion of the averaging process allows the averaged eye model to be represented in a 3D point cloud plot as shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For display purposes, the averaged eye 3D surfaces model globe was flattened with the corneal apex located at the centre, Fig. 3(a,b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The position of the limbus on the averaged eye globe was located by averaging the limbal elevation position of all studied eyes and hence used as a landmark for the edge of the cornea (Ec), Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nMean eye globe model resulting from averaging 118 eyes.Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The white contour line represents the standard deviation (b) Average eye globe thickness map flattened to two-dimensional view.Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Completion of the averaging process allows the averaged eye model to be represented in a 3D point cloud plot as shown in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For display purposes, the averaged eye 3D surfaces model globe was flattened with the corneal apex located at the centre, Fig. 3(a,b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The position of the limbus on the averaged eye globe was located by averaging the limbal elevation position of all studied eyes and hence used as a landmark for the edge of the cornea (Ec), Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The division process was carried out in 3D using the corneal edge elevation angle Ec to split the cornea portion and the same angle to split the posterior sclera portion while the equatorial scleral angle was set to Es = 180°-2Ec, Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The division process was carried out in 3D using the corneal edge elevation angle Ec to split the cornea portion and the same angle to split the posterior sclera portion while the equatorial scleral angle was set to Es = 180°-2Ec, Fig. 4(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Material modelling\nFollowing the geometrical modelling, two material models were compared in this study, the newly created localised element-specific material model and the conventional ring-segmented material model, Fig. 5(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The flattened 2D mapped collagen map presented in Fig. 6(a) is plotted against peripheral lengths of the eye globe with the centre at the corneal apex for displaying purposes, Fig. 6(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The map is normalised against the fibril density at the corneal apex at the centre of the map. (b) Fibril density map of the eye mapped to the 3D eye shape.A Zernike polynomial was chosen for fitting the normalised collagen map in Fig. 6, where the order of the polynomial was selected based on the K-fold cross-validation method, Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Hence, rearranging Eq. (15) results in Eq. (16)\n\nand for age 70 years as\n\n\nEq.16\n\nwith the exponent  fixed to a scaler  and eyes being strained to equal starch , then Eq. (17)\n\n\nEq.17\n\nwhere  is an age factor determined by normalising the averaged stress-strain behaviour of both cornea and sclera following [75,123] against the median noted age of 70 years, Fig. 8(a,b,c,d,e,f,g,h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "To facilitate the material model and allow covering the eye matter stiffness variation with age, the material age factor was represented as a map for each age, Fig. 9(a,b,c,d,e,f,g), where the discretised spline robust smoothing was applied to ensure a smooth transition between eye globe boundaries [124].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Following the geometrical modelling, two material models were compared in this study, the newly created localised element-specific material model and the conventional ring-segmented material model, Fig. 5(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The flattened 2D mapped collagen map presented in Fig. 6(a) is plotted against peripheral lengths of the eye globe with the centre at the corneal apex for displaying purposes, Fig. 6(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The map is normalised against the fibril density at the corneal apex at the centre of the map. (b) Fibril density map of the eye mapped to the 3D eye shape.A Zernike polynomial was chosen for fitting the normalised collagen map in Fig. 6, where the order of the polynomial was selected based on the K-fold cross-validation method, Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Hence, rearranging Eq. (15) results in Eq. (16)\n\nand for age 70 years as\n\n\nEq.16\n\nwith the exponent  fixed to a scaler  and eyes being strained to equal starch , then Eq. (17)\n\n\nEq.17\n\nwhere  is an age factor determined by normalising the averaged stress-strain behaviour of both cornea and sclera following [75,123] against the median noted age of 70 years, Fig. 8(a,b,c,d,e,f,g,h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "To facilitate the material model and allow covering the eye matter stiffness variation with age, the material age factor was represented as a map for each age, Fig. 9(a,b,c,d,e,f,g), where the discretised spline robust smoothing was applied to ensure a smooth transition between eye globe boundaries [124].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "The flattened 2D mapped collagen map presented in Fig. 6(a) is plotted against peripheral lengths of the eye globe with the centre at the corneal apex for displaying purposes, Fig. 6(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "A Zernike polynomial was chosen for fitting the normalised collagen map in Fig. 6, where the order of the polynomial was selected based on the K-fold cross-validation method, Fig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "where  is an age factor determined by normalising the averaged stress-strain behaviour of both cornea and sclera following [75,123] against the median noted age of 70 years, Fig. 8(a,b,c,d,e,f,g,h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "To facilitate the material model and allow covering the eye matter stiffness variation with age, the material age factor was represented as a map for each age, Fig. 9(a,b,c,d,e,f,g), where the discretised spline robust smoothing was applied to ensure a smooth transition between eye globe boundaries [124].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Results\nWhen eyes were averaged based on their surfaces' radial distances from the scleral centre in the spherical coordinate system, variation in the form of higher standard deviation was noticed in the nasal-temporal direction ±0.9 mm, while it was a limited variation in the superior-inferior direction <±0.01 mm, Fig. 3(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "On the other hand, the thickness profile followed the reported values in the literature with a minimum thickness of 0.558 mm at the corneal apex, 0.624 mm at the limbus and 0.833 mm at the posterior pole, Fig. 3(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Exterior wall\n\nInterior wall\n\n\n\nCornea (Eq. (1))\nEquatorial Sclera (Eq. (6))\nPosterior Sclera (Eq. (1))\nCornea (Eq. (1))\nEquatorial Sclera (Eq. (6))\nPosterior Sclera (Eq. (1))\n\n\n\n\na1\n11.788\n12.213\n−11.254\n11.218\n11.506\n−10.478\n\n\na2\n0.040\n0.027\n0.000\n0.039\n0.110\n0.001\n\n\na3\n0.008\n−0.011\n0.000\n0.008\n−0.018\n0.000\n\n\na4\n−0.003\n−0.030\n0.000\n−0.004\n−0.040\n0.000\n\n\na5\n−1.478\n0.019\n0.961\n−1.456\n0.025\n0.908\n\n\na6\n0.022\n0.034\n0.000\n0.016\n0.044\n0.000\n\n\na7\n−0.002\n–\n−0.003\n0.000\n–\n0.000\n\n\na8\n−0.030\n–\n−0.032\n0.000\n–\n0.000\n\n\na9\n−0.007\n–\n−0.007\n0.000\n–\n0.000\n\n\na10\n−0.002\n–\n−0.002\n0.000\n–\n0.000\n\n\na11\n−0.001\n–\n−0.001\n0.000\n–\n0.000\n\n\na12\n0.001\n–\n0.001\n0.000\n–\n0.000\n\n\na13\n0.027\n–\n0.049\n0.027\n–\n0.031\n\n\na14\n−0.007\n–\n−0.010\n0.000\n–\n0.000\n\n\na15\n0.002\n–\n0.006\n0.000\n–\n0.000\n\n\na16\n0.003\n–\n0.004\n0.000\n–\n0.000\n\n\na17\n0.001\n–\n0.001\n0.000\n–\n0.000\n\n\na18\n−0.008\n–\n−0.005\n0.000\n–\n0.000\n\n\na19\n0.000\n–\n0.001\n0.000\n–\n0.000\n\n\na20\n0.001\n–\n0.002\n0.000\n–\n0.000\n\n\na21\n0.000\n–\n0.000\n0.000\n–\n0.000\n\n\n\nOpen in a new tabFor the purpose of comparison, the geometry of the nasal side of both the limbal discontinuity model and the average eye model were plotted in Fig. 10(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Statistical significance (p) of the difference between the ideal eye model and the average eye model geometries, as reported in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In terms of material models, the difference between the stresses built in the inflation simulation up to 15 mmHg in the ring-segmented material model and localised element-specific material model were significantly different (p < 0.001) with the ring-segmented material model recording average von-Mises stress 0.0168 ± 0.0046 MPa (range 0.0100–0.0291 MPa) and the localised element-specific material model recording average von-Mises stress 0.0144 ± 0.0025 MPa (range 0.0091–0.0222 MPa), Fig. 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "As can be seen in Fig. 11(i), the ring-segmented model recorded its highest logarithmic strain (0.0267) at the peripheral cornea; however, the element-specific model's highest logarithmic strain was at the corneal apex (0.0203).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "When eyes were averaged based on their surfaces' radial distances from the scleral centre in the spherical coordinate system, variation in the form of higher standard deviation was noticed in the nasal-temporal direction ±0.9 mm, while it was a limited variation in the superior-inferior direction <±0.01 mm, Fig. 3(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "On the other hand, the thickness profile followed the reported values in the literature with a minimum thickness of 0.558 mm at the corneal apex, 0.624 mm at the limbus and 0.833 mm at the posterior pole, Fig. 3(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For the purpose of comparison, the geometry of the nasal side of both the limbal discontinuity model and the average eye model were plotted in Fig. 10(a and b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Statistical significance (p) of the difference between the ideal eye model and the average eye model geometries, as reported in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Statistical significance (p) of the difference between the ideal eye model and the average eye model geometries, as reported in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Statistical significance (p) of the difference between the ideal eye model and the average eye model geometries, as reported in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In terms of material models, the difference between the stresses built in the inflation simulation up to 15 mmHg in the ring-segmented material model and localised element-specific material model were significantly different (p < 0.001) with the ring-segmented material model recording average von-Mises stress 0.0168 ± 0.0046 MPa (range 0.0100–0.0291 MPa) and the localised element-specific material model recording average von-Mises stress 0.0144 ± 0.0025 MPa (range 0.0091–0.0222 MPa), Fig. 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "As can be seen in Fig. 11(i), the ring-segmented model recorded its highest logarithmic strain (0.0267) at the peripheral cornea; however, the element-specific model's highest logarithmic strain was at the corneal apex (0.0203).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The study also presents a localised element-specific material model for the ocular globe that is suitable for FE analysis and works better than a ring-segmented model in terms of stress distribution, Fig. 11, with no need for a custom coded user-subroutine.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, the averaged eye geometry model has the limbus in place with its true tangent angle with the corneal surface, Fig. 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Material\nIn terms of material behaviour, dividing the eye model to ring segments with varying material parameters for each segment, as in the ring-segmented model, Fig. 5(a), did not reflect the regional variation in the eye stiffness as detected by determination of fibril density via x-ray scattering techniques, Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The study also presents a localised element-specific material model for the ocular globe that is suitable for FE analysis and works better than a ring-segmented model in terms of stress distribution, Fig. 11, with no need for a custom coded user-subroutine.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, the averaged eye geometry model has the limbus in place with its true tangent angle with the corneal surface, Fig. 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, the averaged eye geometry model has the limbus in place with its true tangent angle with the corneal surface, Fig. 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Material\nIn terms of material behaviour, dividing the eye model to ring segments with varying material parameters for each segment, as in the ring-segmented model, Fig. 5(a), did not reflect the regional variation in the eye stiffness as detected by determination of fibril density via x-ray scattering techniques, Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In terms of material behaviour, dividing the eye model to ring segments with varying material parameters for each segment, as in the ring-segmented model, Fig. 5(a), did not reflect the regional variation in the eye stiffness as detected by determination of fibril density via x-ray scattering techniques, Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  }
+]

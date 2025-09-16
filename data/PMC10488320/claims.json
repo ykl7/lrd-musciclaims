@@ -1,0 +1,1917 @@
+[
+  {
+    "sentence": "Both articles provide up-to-date references for how to apply genomic information to practice.Introduction\nGenomic characterization is essential for the management of myeloid neoplasms and acute leukemia, providing critical information for diagnosis, risk assessment, therapeutic decisions, residual disease monitoring, progression, and treatment resistance (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The abundance of a detected variant is generally represented as a variant allele frequency (VAF, Figure 2A), which represents the ratio of sequencing reads that contain a variant at a given position in the genome divided by the total number of reads at that position.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The exact methods used to filter polymorphisms varies widely between laboratories13 and may give rise to both false-positive somatic calls, especially in genes with low probability of loss intolerance (pLI)14 scores such as TET2,15 and false-negative calls, often resulting from the presence of clonal hematopoiesis of indeterminate potential (CHIP) variants (ie, DNMT3A p.R882) coded as polymorphisms in \"normal\" population databases.16,17 The limit of detection for standard NGS assays is generally determined by the sequencing coverage depth and typically ranges from 2% to 5% VAF (Figure 2B); reliable detection of variants below this level typically requires error-correction methods (described in further sections).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Enrichment strategies (Figure 2C) include the capture of genetic regions of interest though hybridization (hybrid capture using DNA or RNA probes) or PCR amplification (amplicon enrichment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Recurrent translocations may be detected either by FISH or more sensitive qPCR from RNA, with sensitivities of 10−2 and 10−6, respectively.29 In AML, high sensitivity monitoring for highly recurrent NPM1 exon 11 gene mutation can be accomplished by qPCR with a sensitivity of ∼10−3 or lower.30High-sensitivity sequencing for somatic variants\nThe sensitivity and specificity of NGS can be improved with UMIs to tag individual DNA templates on single or dual strands of the target and can increase the analytic detection sensitivity to up to 10−6.31, 32, 33 For detecting low levels of molecular disease after treatment in AML, a sensitivity of at least 10−3 is recommended.34 UMIs are used to computationally “collapse” DNA sequence information into “consensus” reads, allowing removal of PCR or sequencing errors absent in identically tagged templates (Figure 2D).35, 36, 37, 38 UMI-based sequencing can be coupled with DNA enrichment to create generalized MRD panels or to monitor previously detected mutations in a patient-specific manner.T-cell receptor (TR) and immunoglobulin NGS-based MRD approaches\nNGS of the hypervariable regions of immunoglobulin (IGH, IGK, or IGL) and/or TR (TRB, TRG) can be used to measure MRD in B- or T-cell lymphoblastic leukemias.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Outside of RT-PCR and MFC, NGS is an alternative method for MRD assessment, which can provide useful information about emerging mutations not present at AML diagnosis (Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This is especially true in patients with FLT3-mutated AML after receipt of FLT3-directed treatments, as ∼40% of patients can relapse with FLT3–wild type clones.159 Caution must be taken in the interpretation of residual epigenetic mutations, including “DTA” (DNMT3A, TET2, ASXL1), which represent preleukemic clones and are not predictive of relapse.156,160 Residual SRSF2 and IDH1/2 mutations may be similarly noninformative for MRD assessment.161\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "FISH assays may be used for rapid identification of translocations and gene fusions (Figure 4), including those in BCR::ABL1-like B-ALL for which targeted therapies are currently available (eg, ABL-family kinase genes, JAK2, CRLF2, and NTRK3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Image is from Kimura et al.191Several entities may benefit from flow cytometry analysis of subtype-defining antigen expression patterns, such as CD371 in DUX4-rearranged ALL and surface expression of TSLPR (encoded by CRLF2), a sensitive and specific indicator of CRLF2-rearrangement (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Transcriptome sequencing provides comprehensive characterization of fusion transcript chimeras (Figure 4), mutant allele expression (Figure 4), gene expression profiling, and ploidy169,172 to identify subgroups and several phenocopies (eg, BCR::ABL1-like ALL, ETV6-RUNX1-like, KMT2A-like, and ZNF384/362-like).169,173 The availability of a reference dataset of leukemia transcriptomes, such as the St Jude Cloud (https://www.stjude.cloud),174 allows analysis and classification of individual samples against a reference data set, without the need for an extensive local cohort.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "These are highly diverse in terms of the genes involved and the genomic drivers of deregulation, challenging to identify comprehensively, and are not consistently associated with outcome, thus are not typically identified in current diagnostic workflows.28,162 WGS can detect the diverse genomic alterations that, more commonly in T-ALL than B-ALL, involve intergenic regions (eg, TLX3, T-cell receptor gene loci) that deregulate oncogenes, and noncoding sequence mutations that generate neo-enhancers (eg, TAL1 and LMO1/2).28,162 One entity of clinical relevance is early T-cell precursor ALL (ETP ALL), a high-risk subset of early T-lineage and stem cell leukemias most commonly identified by immunophenotyping (CD7+ and typically cytoplasmic CD3+; CD2+; CD1a−; CD8−; myeloperoxidase negative but positive for at least 1 stem cell/myeloid marker).177 ETP ALL is genetically diverse, but one-third of ETP ALL and T/myeloid mixed phenotype acute leukemia cases have structural variants deregulating BCL11B, which may be detected by WGS (Figure 4) or, for the majority, by FISH to detect disruption of the BCL11B locus.178Molecular quantitation of MRD\nEarly MRD monitoring at the end of induction and consolidation phases of therapy has important prognostic and, subsequently, therapeutic implications.179, 180, 181 Conventional approaches include MFC and allele-specific PCR for IG/TR gene rearrangements.180,182 To be clinically relevant, MRD analysis needs to be accurate and sensitive (at least ≤10−4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Both articles provide up-to-date references for how to apply genomic information to practice.Introduction\nGenomic characterization is essential for the management of myeloid neoplasms and acute leukemia, providing critical information for diagnosis, risk assessment, therapeutic decisions, residual disease monitoring, progression, and treatment resistance (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The abundance of a detected variant is generally represented as a variant allele frequency (VAF, Figure 2A), which represents the ratio of sequencing reads that contain a variant at a given position in the genome divided by the total number of reads at that position.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The exact methods used to filter polymorphisms varies widely between laboratories13 and may give rise to both false-positive somatic calls, especially in genes with low probability of loss intolerance (pLI)14 scores such as TET2,15 and false-negative calls, often resulting from the presence of clonal hematopoiesis of indeterminate potential (CHIP) variants (ie, DNMT3A p.R882) coded as polymorphisms in \"normal\" population databases.16,17 The limit of detection for standard NGS assays is generally determined by the sequencing coverage depth and typically ranges from 2% to 5% VAF (Figure 2B); reliable detection of variants below this level typically requires error-correction methods (described in further sections).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Enrichment strategies (Figure 2C) include the capture of genetic regions of interest though hybridization (hybrid capture using DNA or RNA probes) or PCR amplification (amplicon enrichment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Recurrent translocations may be detected either by FISH or more sensitive qPCR from RNA, with sensitivities of 10−2 and 10−6, respectively.29 In AML, high sensitivity monitoring for highly recurrent NPM1 exon 11 gene mutation can be accomplished by qPCR with a sensitivity of ∼10−3 or lower.30High-sensitivity sequencing for somatic variants\nThe sensitivity and specificity of NGS can be improved with UMIs to tag individual DNA templates on single or dual strands of the target and can increase the analytic detection sensitivity to up to 10−6.31, 32, 33 For detecting low levels of molecular disease after treatment in AML, a sensitivity of at least 10−3 is recommended.34 UMIs are used to computationally “collapse” DNA sequence information into “consensus” reads, allowing removal of PCR or sequencing errors absent in identically tagged templates (Figure 2D).35, 36, 37, 38 UMI-based sequencing can be coupled with DNA enrichment to create generalized MRD panels or to monitor previously detected mutations in a patient-specific manner.T-cell receptor (TR) and immunoglobulin NGS-based MRD approaches\nNGS of the hypervariable regions of immunoglobulin (IGH, IGK, or IGL) and/or TR (TRB, TRG) can be used to measure MRD in B- or T-cell lymphoblastic leukemias.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Outside of RT-PCR and MFC, NGS is an alternative method for MRD assessment, which can provide useful information about emerging mutations not present at AML diagnosis (Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This is especially true in patients with FLT3-mutated AML after receipt of FLT3-directed treatments, as ∼40% of patients can relapse with FLT3–wild type clones.159 Caution must be taken in the interpretation of residual epigenetic mutations, including “DTA” (DNMT3A, TET2, ASXL1), which represent preleukemic clones and are not predictive of relapse.156,160 Residual SRSF2 and IDH1/2 mutations may be similarly noninformative for MRD assessment.161\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "FISH assays may be used for rapid identification of translocations and gene fusions (Figure 4), including those in BCR::ABL1-like B-ALL for which targeted therapies are currently available (eg, ABL-family kinase genes, JAK2, CRLF2, and NTRK3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Image is from Kimura et al.191Several entities may benefit from flow cytometry analysis of subtype-defining antigen expression patterns, such as CD371 in DUX4-rearranged ALL and surface expression of TSLPR (encoded by CRLF2), a sensitive and specific indicator of CRLF2-rearrangement (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Transcriptome sequencing provides comprehensive characterization of fusion transcript chimeras (Figure 4), mutant allele expression (Figure 4), gene expression profiling, and ploidy169,172 to identify subgroups and several phenocopies (eg, BCR::ABL1-like ALL, ETV6-RUNX1-like, KMT2A-like, and ZNF384/362-like).169,173 The availability of a reference dataset of leukemia transcriptomes, such as the St Jude Cloud (https://www.stjude.cloud),174 allows analysis and classification of individual samples against a reference data set, without the need for an extensive local cohort.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "These are highly diverse in terms of the genes involved and the genomic drivers of deregulation, challenging to identify comprehensively, and are not consistently associated with outcome, thus are not typically identified in current diagnostic workflows.28,162 WGS can detect the diverse genomic alterations that, more commonly in T-ALL than B-ALL, involve intergenic regions (eg, TLX3, T-cell receptor gene loci) that deregulate oncogenes, and noncoding sequence mutations that generate neo-enhancers (eg, TAL1 and LMO1/2).28,162 One entity of clinical relevance is early T-cell precursor ALL (ETP ALL), a high-risk subset of early T-lineage and stem cell leukemias most commonly identified by immunophenotyping (CD7+ and typically cytoplasmic CD3+; CD2+; CD1a−; CD8−; myeloperoxidase negative but positive for at least 1 stem cell/myeloid marker).177 ETP ALL is genetically diverse, but one-third of ETP ALL and T/myeloid mixed phenotype acute leukemia cases have structural variants deregulating BCL11B, which may be detected by WGS (Figure 4) or, for the majority, by FISH to detect disruption of the BCL11B locus.178Molecular quantitation of MRD\nEarly MRD monitoring at the end of induction and consolidation phases of therapy has important prognostic and, subsequently, therapeutic implications.179, 180, 181 Conventional approaches include MFC and allele-specific PCR for IG/TR gene rearrangements.180,182 To be clinically relevant, MRD analysis needs to be accurate and sensitive (at least ≤10−4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Both articles provide up-to-date references for how to apply genomic information to practice.Introduction\nGenomic characterization is essential for the management of myeloid neoplasms and acute leukemia, providing critical information for diagnosis, risk assessment, therapeutic decisions, residual disease monitoring, progression, and treatment resistance (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The abundance of a detected variant is generally represented as a variant allele frequency (VAF, Figure 2A), which represents the ratio of sequencing reads that contain a variant at a given position in the genome divided by the total number of reads at that position.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The exact methods used to filter polymorphisms varies widely between laboratories13 and may give rise to both false-positive somatic calls, especially in genes with low probability of loss intolerance (pLI)14 scores such as TET2,15 and false-negative calls, often resulting from the presence of clonal hematopoiesis of indeterminate potential (CHIP) variants (ie, DNMT3A p.R882) coded as polymorphisms in \"normal\" population databases.16,17 The limit of detection for standard NGS assays is generally determined by the sequencing coverage depth and typically ranges from 2% to 5% VAF (Figure 2B); reliable detection of variants below this level typically requires error-correction methods (described in further sections).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Enrichment strategies (Figure 2C) include the capture of genetic regions of interest though hybridization (hybrid capture using DNA or RNA probes) or PCR amplification (amplicon enrichment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Recurrent translocations may be detected either by FISH or more sensitive qPCR from RNA, with sensitivities of 10−2 and 10−6, respectively.29 In AML, high sensitivity monitoring for highly recurrent NPM1 exon 11 gene mutation can be accomplished by qPCR with a sensitivity of ∼10−3 or lower.30High-sensitivity sequencing for somatic variants\nThe sensitivity and specificity of NGS can be improved with UMIs to tag individual DNA templates on single or dual strands of the target and can increase the analytic detection sensitivity to up to 10−6.31, 32, 33 For detecting low levels of molecular disease after treatment in AML, a sensitivity of at least 10−3 is recommended.34 UMIs are used to computationally “collapse” DNA sequence information into “consensus” reads, allowing removal of PCR or sequencing errors absent in identically tagged templates (Figure 2D).35, 36, 37, 38 UMI-based sequencing can be coupled with DNA enrichment to create generalized MRD panels or to monitor previously detected mutations in a patient-specific manner.T-cell receptor (TR) and immunoglobulin NGS-based MRD approaches\nNGS of the hypervariable regions of immunoglobulin (IGH, IGK, or IGL) and/or TR (TRB, TRG) can be used to measure MRD in B- or T-cell lymphoblastic leukemias.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Outside of RT-PCR and MFC, NGS is an alternative method for MRD assessment, which can provide useful information about emerging mutations not present at AML diagnosis (Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This is especially true in patients with FLT3-mutated AML after receipt of FLT3-directed treatments, as ∼40% of patients can relapse with FLT3–wild type clones.159 Caution must be taken in the interpretation of residual epigenetic mutations, including “DTA” (DNMT3A, TET2, ASXL1), which represent preleukemic clones and are not predictive of relapse.156,160 Residual SRSF2 and IDH1/2 mutations may be similarly noninformative for MRD assessment.161\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "FISH assays may be used for rapid identification of translocations and gene fusions (Figure 4), including those in BCR::ABL1-like B-ALL for which targeted therapies are currently available (eg, ABL-family kinase genes, JAK2, CRLF2, and NTRK3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Image is from Kimura et al.191Several entities may benefit from flow cytometry analysis of subtype-defining antigen expression patterns, such as CD371 in DUX4-rearranged ALL and surface expression of TSLPR (encoded by CRLF2), a sensitive and specific indicator of CRLF2-rearrangement (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Transcriptome sequencing provides comprehensive characterization of fusion transcript chimeras (Figure 4), mutant allele expression (Figure 4), gene expression profiling, and ploidy169,172 to identify subgroups and several phenocopies (eg, BCR::ABL1-like ALL, ETV6-RUNX1-like, KMT2A-like, and ZNF384/362-like).169,173 The availability of a reference dataset of leukemia transcriptomes, such as the St Jude Cloud (https://www.stjude.cloud),174 allows analysis and classification of individual samples against a reference data set, without the need for an extensive local cohort.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "These are highly diverse in terms of the genes involved and the genomic drivers of deregulation, challenging to identify comprehensively, and are not consistently associated with outcome, thus are not typically identified in current diagnostic workflows.28,162 WGS can detect the diverse genomic alterations that, more commonly in T-ALL than B-ALL, involve intergenic regions (eg, TLX3, T-cell receptor gene loci) that deregulate oncogenes, and noncoding sequence mutations that generate neo-enhancers (eg, TAL1 and LMO1/2).28,162 One entity of clinical relevance is early T-cell precursor ALL (ETP ALL), a high-risk subset of early T-lineage and stem cell leukemias most commonly identified by immunophenotyping (CD7+ and typically cytoplasmic CD3+; CD2+; CD1a−; CD8−; myeloperoxidase negative but positive for at least 1 stem cell/myeloid marker).177 ETP ALL is genetically diverse, but one-third of ETP ALL and T/myeloid mixed phenotype acute leukemia cases have structural variants deregulating BCL11B, which may be detected by WGS (Figure 4) or, for the majority, by FISH to detect disruption of the BCL11B locus.178Molecular quantitation of MRD\nEarly MRD monitoring at the end of induction and consolidation phases of therapy has important prognostic and, subsequently, therapeutic implications.179, 180, 181 Conventional approaches include MFC and allele-specific PCR for IG/TR gene rearrangements.180,182 To be clinically relevant, MRD analysis needs to be accurate and sensitive (at least ≤10−4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Both articles provide up-to-date references for how to apply genomic information to practice.Introduction\nGenomic characterization is essential for the management of myeloid neoplasms and acute leukemia, providing critical information for diagnosis, risk assessment, therapeutic decisions, residual disease monitoring, progression, and treatment resistance (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The abundance of a detected variant is generally represented as a variant allele frequency (VAF, Figure 2A), which represents the ratio of sequencing reads that contain a variant at a given position in the genome divided by the total number of reads at that position.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The exact methods used to filter polymorphisms varies widely between laboratories13 and may give rise to both false-positive somatic calls, especially in genes with low probability of loss intolerance (pLI)14 scores such as TET2,15 and false-negative calls, often resulting from the presence of clonal hematopoiesis of indeterminate potential (CHIP) variants (ie, DNMT3A p.R882) coded as polymorphisms in \"normal\" population databases.16,17 The limit of detection for standard NGS assays is generally determined by the sequencing coverage depth and typically ranges from 2% to 5% VAF (Figure 2B); reliable detection of variants below this level typically requires error-correction methods (described in further sections).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Enrichment strategies (Figure 2C) include the capture of genetic regions of interest though hybridization (hybrid capture using DNA or RNA probes) or PCR amplification (amplicon enrichment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Recurrent translocations may be detected either by FISH or more sensitive qPCR from RNA, with sensitivities of 10−2 and 10−6, respectively.29 In AML, high sensitivity monitoring for highly recurrent NPM1 exon 11 gene mutation can be accomplished by qPCR with a sensitivity of ∼10−3 or lower.30High-sensitivity sequencing for somatic variants\nThe sensitivity and specificity of NGS can be improved with UMIs to tag individual DNA templates on single or dual strands of the target and can increase the analytic detection sensitivity to up to 10−6.31, 32, 33 For detecting low levels of molecular disease after treatment in AML, a sensitivity of at least 10−3 is recommended.34 UMIs are used to computationally “collapse” DNA sequence information into “consensus” reads, allowing removal of PCR or sequencing errors absent in identically tagged templates (Figure 2D).35, 36, 37, 38 UMI-based sequencing can be coupled with DNA enrichment to create generalized MRD panels or to monitor previously detected mutations in a patient-specific manner.T-cell receptor (TR) and immunoglobulin NGS-based MRD approaches\nNGS of the hypervariable regions of immunoglobulin (IGH, IGK, or IGL) and/or TR (TRB, TRG) can be used to measure MRD in B- or T-cell lymphoblastic leukemias.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Outside of RT-PCR and MFC, NGS is an alternative method for MRD assessment, which can provide useful information about emerging mutations not present at AML diagnosis (Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This is especially true in patients with FLT3-mutated AML after receipt of FLT3-directed treatments, as ∼40% of patients can relapse with FLT3–wild type clones.159 Caution must be taken in the interpretation of residual epigenetic mutations, including “DTA” (DNMT3A, TET2, ASXL1), which represent preleukemic clones and are not predictive of relapse.156,160 Residual SRSF2 and IDH1/2 mutations may be similarly noninformative for MRD assessment.161\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "FISH assays may be used for rapid identification of translocations and gene fusions (Figure 4), including those in BCR::ABL1-like B-ALL for which targeted therapies are currently available (eg, ABL-family kinase genes, JAK2, CRLF2, and NTRK3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Image is from Kimura et al.191Several entities may benefit from flow cytometry analysis of subtype-defining antigen expression patterns, such as CD371 in DUX4-rearranged ALL and surface expression of TSLPR (encoded by CRLF2), a sensitive and specific indicator of CRLF2-rearrangement (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Transcriptome sequencing provides comprehensive characterization of fusion transcript chimeras (Figure 4), mutant allele expression (Figure 4), gene expression profiling, and ploidy169,172 to identify subgroups and several phenocopies (eg, BCR::ABL1-like ALL, ETV6-RUNX1-like, KMT2A-like, and ZNF384/362-like).169,173 The availability of a reference dataset of leukemia transcriptomes, such as the St Jude Cloud (https://www.stjude.cloud),174 allows analysis and classification of individual samples against a reference data set, without the need for an extensive local cohort.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "These are highly diverse in terms of the genes involved and the genomic drivers of deregulation, challenging to identify comprehensively, and are not consistently associated with outcome, thus are not typically identified in current diagnostic workflows.28,162 WGS can detect the diverse genomic alterations that, more commonly in T-ALL than B-ALL, involve intergenic regions (eg, TLX3, T-cell receptor gene loci) that deregulate oncogenes, and noncoding sequence mutations that generate neo-enhancers (eg, TAL1 and LMO1/2).28,162 One entity of clinical relevance is early T-cell precursor ALL (ETP ALL), a high-risk subset of early T-lineage and stem cell leukemias most commonly identified by immunophenotyping (CD7+ and typically cytoplasmic CD3+; CD2+; CD1a−; CD8−; myeloperoxidase negative but positive for at least 1 stem cell/myeloid marker).177 ETP ALL is genetically diverse, but one-third of ETP ALL and T/myeloid mixed phenotype acute leukemia cases have structural variants deregulating BCL11B, which may be detected by WGS (Figure 4) or, for the majority, by FISH to detect disruption of the BCL11B locus.178Molecular quantitation of MRD\nEarly MRD monitoring at the end of induction and consolidation phases of therapy has important prognostic and, subsequently, therapeutic implications.179, 180, 181 Conventional approaches include MFC and allele-specific PCR for IG/TR gene rearrangements.180,182 To be clinically relevant, MRD analysis needs to be accurate and sensitive (at least ≤10−4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Both articles provide up-to-date references for how to apply genomic information to practice.Introduction\nGenomic characterization is essential for the management of myeloid neoplasms and acute leukemia, providing critical information for diagnosis, risk assessment, therapeutic decisions, residual disease monitoring, progression, and treatment resistance (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The abundance of a detected variant is generally represented as a variant allele frequency (VAF, Figure 2A), which represents the ratio of sequencing reads that contain a variant at a given position in the genome divided by the total number of reads at that position.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The exact methods used to filter polymorphisms varies widely between laboratories13 and may give rise to both false-positive somatic calls, especially in genes with low probability of loss intolerance (pLI)14 scores such as TET2,15 and false-negative calls, often resulting from the presence of clonal hematopoiesis of indeterminate potential (CHIP) variants (ie, DNMT3A p.R882) coded as polymorphisms in \"normal\" population databases.16,17 The limit of detection for standard NGS assays is generally determined by the sequencing coverage depth and typically ranges from 2% to 5% VAF (Figure 2B); reliable detection of variants below this level typically requires error-correction methods (described in further sections).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Enrichment strategies (Figure 2C) include the capture of genetic regions of interest though hybridization (hybrid capture using DNA or RNA probes) or PCR amplification (amplicon enrichment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Recurrent translocations may be detected either by FISH or more sensitive qPCR from RNA, with sensitivities of 10−2 and 10−6, respectively.29 In AML, high sensitivity monitoring for highly recurrent NPM1 exon 11 gene mutation can be accomplished by qPCR with a sensitivity of ∼10−3 or lower.30High-sensitivity sequencing for somatic variants\nThe sensitivity and specificity of NGS can be improved with UMIs to tag individual DNA templates on single or dual strands of the target and can increase the analytic detection sensitivity to up to 10−6.31, 32, 33 For detecting low levels of molecular disease after treatment in AML, a sensitivity of at least 10−3 is recommended.34 UMIs are used to computationally “collapse” DNA sequence information into “consensus” reads, allowing removal of PCR or sequencing errors absent in identically tagged templates (Figure 2D).35, 36, 37, 38 UMI-based sequencing can be coupled with DNA enrichment to create generalized MRD panels or to monitor previously detected mutations in a patient-specific manner.T-cell receptor (TR) and immunoglobulin NGS-based MRD approaches\nNGS of the hypervariable regions of immunoglobulin (IGH, IGK, or IGL) and/or TR (TRB, TRG) can be used to measure MRD in B- or T-cell lymphoblastic leukemias.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Outside of RT-PCR and MFC, NGS is an alternative method for MRD assessment, which can provide useful information about emerging mutations not present at AML diagnosis (Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This is especially true in patients with FLT3-mutated AML after receipt of FLT3-directed treatments, as ∼40% of patients can relapse with FLT3–wild type clones.159 Caution must be taken in the interpretation of residual epigenetic mutations, including “DTA” (DNMT3A, TET2, ASXL1), which represent preleukemic clones and are not predictive of relapse.156,160 Residual SRSF2 and IDH1/2 mutations may be similarly noninformative for MRD assessment.161\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "FISH assays may be used for rapid identification of translocations and gene fusions (Figure 4), including those in BCR::ABL1-like B-ALL for which targeted therapies are currently available (eg, ABL-family kinase genes, JAK2, CRLF2, and NTRK3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Image is from Kimura et al.191Several entities may benefit from flow cytometry analysis of subtype-defining antigen expression patterns, such as CD371 in DUX4-rearranged ALL and surface expression of TSLPR (encoded by CRLF2), a sensitive and specific indicator of CRLF2-rearrangement (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Transcriptome sequencing provides comprehensive characterization of fusion transcript chimeras (Figure 4), mutant allele expression (Figure 4), gene expression profiling, and ploidy169,172 to identify subgroups and several phenocopies (eg, BCR::ABL1-like ALL, ETV6-RUNX1-like, KMT2A-like, and ZNF384/362-like).169,173 The availability of a reference dataset of leukemia transcriptomes, such as the St Jude Cloud (https://www.stjude.cloud),174 allows analysis and classification of individual samples against a reference data set, without the need for an extensive local cohort.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "These are highly diverse in terms of the genes involved and the genomic drivers of deregulation, challenging to identify comprehensively, and are not consistently associated with outcome, thus are not typically identified in current diagnostic workflows.28,162 WGS can detect the diverse genomic alterations that, more commonly in T-ALL than B-ALL, involve intergenic regions (eg, TLX3, T-cell receptor gene loci) that deregulate oncogenes, and noncoding sequence mutations that generate neo-enhancers (eg, TAL1 and LMO1/2).28,162 One entity of clinical relevance is early T-cell precursor ALL (ETP ALL), a high-risk subset of early T-lineage and stem cell leukemias most commonly identified by immunophenotyping (CD7+ and typically cytoplasmic CD3+; CD2+; CD1a−; CD8−; myeloperoxidase negative but positive for at least 1 stem cell/myeloid marker).177 ETP ALL is genetically diverse, but one-third of ETP ALL and T/myeloid mixed phenotype acute leukemia cases have structural variants deregulating BCL11B, which may be detected by WGS (Figure 4) or, for the majority, by FISH to detect disruption of the BCL11B locus.178Molecular quantitation of MRD\nEarly MRD monitoring at the end of induction and consolidation phases of therapy has important prognostic and, subsequently, therapeutic implications.179, 180, 181 Conventional approaches include MFC and allele-specific PCR for IG/TR gene rearrangements.180,182 To be clinically relevant, MRD analysis needs to be accurate and sensitive (at least ≤10−4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Both articles provide up-to-date references for how to apply genomic information to practice.Introduction\nGenomic characterization is essential for the management of myeloid neoplasms and acute leukemia, providing critical information for diagnosis, risk assessment, therapeutic decisions, residual disease monitoring, progression, and treatment resistance (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The abundance of a detected variant is generally represented as a variant allele frequency (VAF, Figure 2A), which represents the ratio of sequencing reads that contain a variant at a given position in the genome divided by the total number of reads at that position.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The exact methods used to filter polymorphisms varies widely between laboratories13 and may give rise to both false-positive somatic calls, especially in genes with low probability of loss intolerance (pLI)14 scores such as TET2,15 and false-negative calls, often resulting from the presence of clonal hematopoiesis of indeterminate potential (CHIP) variants (ie, DNMT3A p.R882) coded as polymorphisms in \"normal\" population databases.16,17 The limit of detection for standard NGS assays is generally determined by the sequencing coverage depth and typically ranges from 2% to 5% VAF (Figure 2B); reliable detection of variants below this level typically requires error-correction methods (described in further sections).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Enrichment strategies (Figure 2C) include the capture of genetic regions of interest though hybridization (hybrid capture using DNA or RNA probes) or PCR amplification (amplicon enrichment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Recurrent translocations may be detected either by FISH or more sensitive qPCR from RNA, with sensitivities of 10−2 and 10−6, respectively.29 In AML, high sensitivity monitoring for highly recurrent NPM1 exon 11 gene mutation can be accomplished by qPCR with a sensitivity of ∼10−3 or lower.30High-sensitivity sequencing for somatic variants\nThe sensitivity and specificity of NGS can be improved with UMIs to tag individual DNA templates on single or dual strands of the target and can increase the analytic detection sensitivity to up to 10−6.31, 32, 33 For detecting low levels of molecular disease after treatment in AML, a sensitivity of at least 10−3 is recommended.34 UMIs are used to computationally “collapse” DNA sequence information into “consensus” reads, allowing removal of PCR or sequencing errors absent in identically tagged templates (Figure 2D).35, 36, 37, 38 UMI-based sequencing can be coupled with DNA enrichment to create generalized MRD panels or to monitor previously detected mutations in a patient-specific manner.T-cell receptor (TR) and immunoglobulin NGS-based MRD approaches\nNGS of the hypervariable regions of immunoglobulin (IGH, IGK, or IGL) and/or TR (TRB, TRG) can be used to measure MRD in B- or T-cell lymphoblastic leukemias.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Outside of RT-PCR and MFC, NGS is an alternative method for MRD assessment, which can provide useful information about emerging mutations not present at AML diagnosis (Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This is especially true in patients with FLT3-mutated AML after receipt of FLT3-directed treatments, as ∼40% of patients can relapse with FLT3–wild type clones.159 Caution must be taken in the interpretation of residual epigenetic mutations, including “DTA” (DNMT3A, TET2, ASXL1), which represent preleukemic clones and are not predictive of relapse.156,160 Residual SRSF2 and IDH1/2 mutations may be similarly noninformative for MRD assessment.161\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "FISH assays may be used for rapid identification of translocations and gene fusions (Figure 4), including those in BCR::ABL1-like B-ALL for which targeted therapies are currently available (eg, ABL-family kinase genes, JAK2, CRLF2, and NTRK3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Image is from Kimura et al.191Several entities may benefit from flow cytometry analysis of subtype-defining antigen expression patterns, such as CD371 in DUX4-rearranged ALL and surface expression of TSLPR (encoded by CRLF2), a sensitive and specific indicator of CRLF2-rearrangement (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Transcriptome sequencing provides comprehensive characterization of fusion transcript chimeras (Figure 4), mutant allele expression (Figure 4), gene expression profiling, and ploidy169,172 to identify subgroups and several phenocopies (eg, BCR::ABL1-like ALL, ETV6-RUNX1-like, KMT2A-like, and ZNF384/362-like).169,173 The availability of a reference dataset of leukemia transcriptomes, such as the St Jude Cloud (https://www.stjude.cloud),174 allows analysis and classification of individual samples against a reference data set, without the need for an extensive local cohort.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "These are highly diverse in terms of the genes involved and the genomic drivers of deregulation, challenging to identify comprehensively, and are not consistently associated with outcome, thus are not typically identified in current diagnostic workflows.28,162 WGS can detect the diverse genomic alterations that, more commonly in T-ALL than B-ALL, involve intergenic regions (eg, TLX3, T-cell receptor gene loci) that deregulate oncogenes, and noncoding sequence mutations that generate neo-enhancers (eg, TAL1 and LMO1/2).28,162 One entity of clinical relevance is early T-cell precursor ALL (ETP ALL), a high-risk subset of early T-lineage and stem cell leukemias most commonly identified by immunophenotyping (CD7+ and typically cytoplasmic CD3+; CD2+; CD1a−; CD8−; myeloperoxidase negative but positive for at least 1 stem cell/myeloid marker).177 ETP ALL is genetically diverse, but one-third of ETP ALL and T/myeloid mixed phenotype acute leukemia cases have structural variants deregulating BCL11B, which may be detected by WGS (Figure 4) or, for the majority, by FISH to detect disruption of the BCL11B locus.178Molecular quantitation of MRD\nEarly MRD monitoring at the end of induction and consolidation phases of therapy has important prognostic and, subsequently, therapeutic implications.179, 180, 181 Conventional approaches include MFC and allele-specific PCR for IG/TR gene rearrangements.180,182 To be clinically relevant, MRD analysis needs to be accurate and sensitive (at least ≤10−4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Both articles provide up-to-date references for how to apply genomic information to practice.Introduction\nGenomic characterization is essential for the management of myeloid neoplasms and acute leukemia, providing critical information for diagnosis, risk assessment, therapeutic decisions, residual disease monitoring, progression, and treatment resistance (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The abundance of a detected variant is generally represented as a variant allele frequency (VAF, Figure 2A), which represents the ratio of sequencing reads that contain a variant at a given position in the genome divided by the total number of reads at that position.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The exact methods used to filter polymorphisms varies widely between laboratories13 and may give rise to both false-positive somatic calls, especially in genes with low probability of loss intolerance (pLI)14 scores such as TET2,15 and false-negative calls, often resulting from the presence of clonal hematopoiesis of indeterminate potential (CHIP) variants (ie, DNMT3A p.R882) coded as polymorphisms in \"normal\" population databases.16,17 The limit of detection for standard NGS assays is generally determined by the sequencing coverage depth and typically ranges from 2% to 5% VAF (Figure 2B); reliable detection of variants below this level typically requires error-correction methods (described in further sections).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Enrichment strategies (Figure 2C) include the capture of genetic regions of interest though hybridization (hybrid capture using DNA or RNA probes) or PCR amplification (amplicon enrichment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Recurrent translocations may be detected either by FISH or more sensitive qPCR from RNA, with sensitivities of 10−2 and 10−6, respectively.29 In AML, high sensitivity monitoring for highly recurrent NPM1 exon 11 gene mutation can be accomplished by qPCR with a sensitivity of ∼10−3 or lower.30High-sensitivity sequencing for somatic variants\nThe sensitivity and specificity of NGS can be improved with UMIs to tag individual DNA templates on single or dual strands of the target and can increase the analytic detection sensitivity to up to 10−6.31, 32, 33 For detecting low levels of molecular disease after treatment in AML, a sensitivity of at least 10−3 is recommended.34 UMIs are used to computationally “collapse” DNA sequence information into “consensus” reads, allowing removal of PCR or sequencing errors absent in identically tagged templates (Figure 2D).35, 36, 37, 38 UMI-based sequencing can be coupled with DNA enrichment to create generalized MRD panels or to monitor previously detected mutations in a patient-specific manner.T-cell receptor (TR) and immunoglobulin NGS-based MRD approaches\nNGS of the hypervariable regions of immunoglobulin (IGH, IGK, or IGL) and/or TR (TRB, TRG) can be used to measure MRD in B- or T-cell lymphoblastic leukemias.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Outside of RT-PCR and MFC, NGS is an alternative method for MRD assessment, which can provide useful information about emerging mutations not present at AML diagnosis (Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This is especially true in patients with FLT3-mutated AML after receipt of FLT3-directed treatments, as ∼40% of patients can relapse with FLT3–wild type clones.159 Caution must be taken in the interpretation of residual epigenetic mutations, including “DTA” (DNMT3A, TET2, ASXL1), which represent preleukemic clones and are not predictive of relapse.156,160 Residual SRSF2 and IDH1/2 mutations may be similarly noninformative for MRD assessment.161\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "FISH assays may be used for rapid identification of translocations and gene fusions (Figure 4), including those in BCR::ABL1-like B-ALL for which targeted therapies are currently available (eg, ABL-family kinase genes, JAK2, CRLF2, and NTRK3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Image is from Kimura et al.191Several entities may benefit from flow cytometry analysis of subtype-defining antigen expression patterns, such as CD371 in DUX4-rearranged ALL and surface expression of TSLPR (encoded by CRLF2), a sensitive and specific indicator of CRLF2-rearrangement (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Transcriptome sequencing provides comprehensive characterization of fusion transcript chimeras (Figure 4), mutant allele expression (Figure 4), gene expression profiling, and ploidy169,172 to identify subgroups and several phenocopies (eg, BCR::ABL1-like ALL, ETV6-RUNX1-like, KMT2A-like, and ZNF384/362-like).169,173 The availability of a reference dataset of leukemia transcriptomes, such as the St Jude Cloud (https://www.stjude.cloud),174 allows analysis and classification of individual samples against a reference data set, without the need for an extensive local cohort.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "These are highly diverse in terms of the genes involved and the genomic drivers of deregulation, challenging to identify comprehensively, and are not consistently associated with outcome, thus are not typically identified in current diagnostic workflows.28,162 WGS can detect the diverse genomic alterations that, more commonly in T-ALL than B-ALL, involve intergenic regions (eg, TLX3, T-cell receptor gene loci) that deregulate oncogenes, and noncoding sequence mutations that generate neo-enhancers (eg, TAL1 and LMO1/2).28,162 One entity of clinical relevance is early T-cell precursor ALL (ETP ALL), a high-risk subset of early T-lineage and stem cell leukemias most commonly identified by immunophenotyping (CD7+ and typically cytoplasmic CD3+; CD2+; CD1a−; CD8−; myeloperoxidase negative but positive for at least 1 stem cell/myeloid marker).177 ETP ALL is genetically diverse, but one-third of ETP ALL and T/myeloid mixed phenotype acute leukemia cases have structural variants deregulating BCL11B, which may be detected by WGS (Figure 4) or, for the majority, by FISH to detect disruption of the BCL11B locus.178Molecular quantitation of MRD\nEarly MRD monitoring at the end of induction and consolidation phases of therapy has important prognostic and, subsequently, therapeutic implications.179, 180, 181 Conventional approaches include MFC and allele-specific PCR for IG/TR gene rearrangements.180,182 To be clinically relevant, MRD analysis needs to be accurate and sensitive (at least ≤10−4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Both articles provide up-to-date references for how to apply genomic information to practice.Introduction\nGenomic characterization is essential for the management of myeloid neoplasms and acute leukemia, providing critical information for diagnosis, risk assessment, therapeutic decisions, residual disease monitoring, progression, and treatment resistance (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The abundance of a detected variant is generally represented as a variant allele frequency (VAF, Figure 2A), which represents the ratio of sequencing reads that contain a variant at a given position in the genome divided by the total number of reads at that position.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The exact methods used to filter polymorphisms varies widely between laboratories13 and may give rise to both false-positive somatic calls, especially in genes with low probability of loss intolerance (pLI)14 scores such as TET2,15 and false-negative calls, often resulting from the presence of clonal hematopoiesis of indeterminate potential (CHIP) variants (ie, DNMT3A p.R882) coded as polymorphisms in \"normal\" population databases.16,17 The limit of detection for standard NGS assays is generally determined by the sequencing coverage depth and typically ranges from 2% to 5% VAF (Figure 2B); reliable detection of variants below this level typically requires error-correction methods (described in further sections).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Enrichment strategies (Figure 2C) include the capture of genetic regions of interest though hybridization (hybrid capture using DNA or RNA probes) or PCR amplification (amplicon enrichment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Recurrent translocations may be detected either by FISH or more sensitive qPCR from RNA, with sensitivities of 10−2 and 10−6, respectively.29 In AML, high sensitivity monitoring for highly recurrent NPM1 exon 11 gene mutation can be accomplished by qPCR with a sensitivity of ∼10−3 or lower.30High-sensitivity sequencing for somatic variants\nThe sensitivity and specificity of NGS can be improved with UMIs to tag individual DNA templates on single or dual strands of the target and can increase the analytic detection sensitivity to up to 10−6.31, 32, 33 For detecting low levels of molecular disease after treatment in AML, a sensitivity of at least 10−3 is recommended.34 UMIs are used to computationally “collapse” DNA sequence information into “consensus” reads, allowing removal of PCR or sequencing errors absent in identically tagged templates (Figure 2D).35, 36, 37, 38 UMI-based sequencing can be coupled with DNA enrichment to create generalized MRD panels or to monitor previously detected mutations in a patient-specific manner.T-cell receptor (TR) and immunoglobulin NGS-based MRD approaches\nNGS of the hypervariable regions of immunoglobulin (IGH, IGK, or IGL) and/or TR (TRB, TRG) can be used to measure MRD in B- or T-cell lymphoblastic leukemias.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Outside of RT-PCR and MFC, NGS is an alternative method for MRD assessment, which can provide useful information about emerging mutations not present at AML diagnosis (Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This is especially true in patients with FLT3-mutated AML after receipt of FLT3-directed treatments, as ∼40% of patients can relapse with FLT3–wild type clones.159 Caution must be taken in the interpretation of residual epigenetic mutations, including “DTA” (DNMT3A, TET2, ASXL1), which represent preleukemic clones and are not predictive of relapse.156,160 Residual SRSF2 and IDH1/2 mutations may be similarly noninformative for MRD assessment.161\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "FISH assays may be used for rapid identification of translocations and gene fusions (Figure 4), including those in BCR::ABL1-like B-ALL for which targeted therapies are currently available (eg, ABL-family kinase genes, JAK2, CRLF2, and NTRK3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Image is from Kimura et al.191Several entities may benefit from flow cytometry analysis of subtype-defining antigen expression patterns, such as CD371 in DUX4-rearranged ALL and surface expression of TSLPR (encoded by CRLF2), a sensitive and specific indicator of CRLF2-rearrangement (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Transcriptome sequencing provides comprehensive characterization of fusion transcript chimeras (Figure 4), mutant allele expression (Figure 4), gene expression profiling, and ploidy169,172 to identify subgroups and several phenocopies (eg, BCR::ABL1-like ALL, ETV6-RUNX1-like, KMT2A-like, and ZNF384/362-like).169,173 The availability of a reference dataset of leukemia transcriptomes, such as the St Jude Cloud (https://www.stjude.cloud),174 allows analysis and classification of individual samples against a reference data set, without the need for an extensive local cohort.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "These are highly diverse in terms of the genes involved and the genomic drivers of deregulation, challenging to identify comprehensively, and are not consistently associated with outcome, thus are not typically identified in current diagnostic workflows.28,162 WGS can detect the diverse genomic alterations that, more commonly in T-ALL than B-ALL, involve intergenic regions (eg, TLX3, T-cell receptor gene loci) that deregulate oncogenes, and noncoding sequence mutations that generate neo-enhancers (eg, TAL1 and LMO1/2).28,162 One entity of clinical relevance is early T-cell precursor ALL (ETP ALL), a high-risk subset of early T-lineage and stem cell leukemias most commonly identified by immunophenotyping (CD7+ and typically cytoplasmic CD3+; CD2+; CD1a−; CD8−; myeloperoxidase negative but positive for at least 1 stem cell/myeloid marker).177 ETP ALL is genetically diverse, but one-third of ETP ALL and T/myeloid mixed phenotype acute leukemia cases have structural variants deregulating BCL11B, which may be detected by WGS (Figure 4) or, for the majority, by FISH to detect disruption of the BCL11B locus.178Molecular quantitation of MRD\nEarly MRD monitoring at the end of induction and consolidation phases of therapy has important prognostic and, subsequently, therapeutic implications.179, 180, 181 Conventional approaches include MFC and allele-specific PCR for IG/TR gene rearrangements.180,182 To be clinically relevant, MRD analysis needs to be accurate and sensitive (at least ≤10−4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Introduction\nGenomic characterization is essential for the management of myeloid neoplasms and acute leukemia, providing critical information for diagnosis, risk assessment, therapeutic decisions, residual disease monitoring, progression, and treatment resistance (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The abundance of a detected variant is generally represented as a variant allele frequency (VAF, Figure 2A), which represents the ratio of sequencing reads that contain a variant at a given position in the genome divided by the total number of reads at that position.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The exact methods used to filter polymorphisms varies widely between laboratories13 and may give rise to both false-positive somatic calls, especially in genes with low probability of loss intolerance (pLI)14 scores such as TET2,15 and false-negative calls, often resulting from the presence of clonal hematopoiesis of indeterminate potential (CHIP) variants (ie, DNMT3A p.R882) coded as polymorphisms in \"normal\" population databases.16,17 The limit of detection for standard NGS assays is generally determined by the sequencing coverage depth and typically ranges from 2% to 5% VAF (Figure 2B); reliable detection of variants below this level typically requires error-correction methods (described in further sections).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Enrichment strategies (Figure 2C) include the capture of genetic regions of interest though hybridization (hybrid capture using DNA or RNA probes) or PCR amplification (amplicon enrichment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Recurrent translocations may be detected either by FISH or more sensitive qPCR from RNA, with sensitivities of 10−2 and 10−6, respectively.29 In AML, high sensitivity monitoring for highly recurrent NPM1 exon 11 gene mutation can be accomplished by qPCR with a sensitivity of ∼10−3 or lower.30High-sensitivity sequencing for somatic variants\nThe sensitivity and specificity of NGS can be improved with UMIs to tag individual DNA templates on single or dual strands of the target and can increase the analytic detection sensitivity to up to 10−6.31, 32, 33 For detecting low levels of molecular disease after treatment in AML, a sensitivity of at least 10−3 is recommended.34 UMIs are used to computationally “collapse” DNA sequence information into “consensus” reads, allowing removal of PCR or sequencing errors absent in identically tagged templates (Figure 2D).35, 36, 37, 38 UMI-based sequencing can be coupled with DNA enrichment to create generalized MRD panels or to monitor previously detected mutations in a patient-specific manner.T-cell receptor (TR) and immunoglobulin NGS-based MRD approaches\nNGS of the hypervariable regions of immunoglobulin (IGH, IGK, or IGL) and/or TR (TRB, TRG) can be used to measure MRD in B- or T-cell lymphoblastic leukemias.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Outside of RT-PCR and MFC, NGS is an alternative method for MRD assessment, which can provide useful information about emerging mutations not present at AML diagnosis (Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This is especially true in patients with FLT3-mutated AML after receipt of FLT3-directed treatments, as ∼40% of patients can relapse with FLT3–wild type clones.159 Caution must be taken in the interpretation of residual epigenetic mutations, including “DTA” (DNMT3A, TET2, ASXL1), which represent preleukemic clones and are not predictive of relapse.156,160 Residual SRSF2 and IDH1/2 mutations may be similarly noninformative for MRD assessment.161\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "FISH assays may be used for rapid identification of translocations and gene fusions (Figure 4), including those in BCR::ABL1-like B-ALL for which targeted therapies are currently available (eg, ABL-family kinase genes, JAK2, CRLF2, and NTRK3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Image is from Kimura et al.191Several entities may benefit from flow cytometry analysis of subtype-defining antigen expression patterns, such as CD371 in DUX4-rearranged ALL and surface expression of TSLPR (encoded by CRLF2), a sensitive and specific indicator of CRLF2-rearrangement (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Transcriptome sequencing provides comprehensive characterization of fusion transcript chimeras (Figure 4), mutant allele expression (Figure 4), gene expression profiling, and ploidy169,172 to identify subgroups and several phenocopies (eg, BCR::ABL1-like ALL, ETV6-RUNX1-like, KMT2A-like, and ZNF384/362-like).169,173 The availability of a reference dataset of leukemia transcriptomes, such as the St Jude Cloud (https://www.stjude.cloud),174 allows analysis and classification of individual samples against a reference data set, without the need for an extensive local cohort.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "These are highly diverse in terms of the genes involved and the genomic drivers of deregulation, challenging to identify comprehensively, and are not consistently associated with outcome, thus are not typically identified in current diagnostic workflows.28,162 WGS can detect the diverse genomic alterations that, more commonly in T-ALL than B-ALL, involve intergenic regions (eg, TLX3, T-cell receptor gene loci) that deregulate oncogenes, and noncoding sequence mutations that generate neo-enhancers (eg, TAL1 and LMO1/2).28,162 One entity of clinical relevance is early T-cell precursor ALL (ETP ALL), a high-risk subset of early T-lineage and stem cell leukemias most commonly identified by immunophenotyping (CD7+ and typically cytoplasmic CD3+; CD2+; CD1a−; CD8−; myeloperoxidase negative but positive for at least 1 stem cell/myeloid marker).177 ETP ALL is genetically diverse, but one-third of ETP ALL and T/myeloid mixed phenotype acute leukemia cases have structural variants deregulating BCL11B, which may be detected by WGS (Figure 4) or, for the majority, by FISH to detect disruption of the BCL11B locus.178Molecular quantitation of MRD\nEarly MRD monitoring at the end of induction and consolidation phases of therapy has important prognostic and, subsequently, therapeutic implications.179, 180, 181 Conventional approaches include MFC and allele-specific PCR for IG/TR gene rearrangements.180,182 To be clinically relevant, MRD analysis needs to be accurate and sensitive (at least ≤10−4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Genomic characterization is essential for the management of myeloid neoplasms and acute leukemia, providing critical information for diagnosis, risk assessment, therapeutic decisions, residual disease monitoring, progression, and treatment resistance (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The abundance of a detected variant is generally represented as a variant allele frequency (VAF, Figure 2A), which represents the ratio of sequencing reads that contain a variant at a given position in the genome divided by the total number of reads at that position.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The exact methods used to filter polymorphisms varies widely between laboratories13 and may give rise to both false-positive somatic calls, especially in genes with low probability of loss intolerance (pLI)14 scores such as TET2,15 and false-negative calls, often resulting from the presence of clonal hematopoiesis of indeterminate potential (CHIP) variants (ie, DNMT3A p.R882) coded as polymorphisms in \"normal\" population databases.16,17 The limit of detection for standard NGS assays is generally determined by the sequencing coverage depth and typically ranges from 2% to 5% VAF (Figure 2B); reliable detection of variants below this level typically requires error-correction methods (described in further sections).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Enrichment strategies (Figure 2C) include the capture of genetic regions of interest though hybridization (hybrid capture using DNA or RNA probes) or PCR amplification (amplicon enrichment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The abundance of a detected variant is generally represented as a variant allele frequency (VAF, Figure 2A), which represents the ratio of sequencing reads that contain a variant at a given position in the genome divided by the total number of reads at that position.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The exact methods used to filter polymorphisms varies widely between laboratories13 and may give rise to both false-positive somatic calls, especially in genes with low probability of loss intolerance (pLI)14 scores such as TET2,15 and false-negative calls, often resulting from the presence of clonal hematopoiesis of indeterminate potential (CHIP) variants (ie, DNMT3A p.R882) coded as polymorphisms in \"normal\" population databases.16,17 The limit of detection for standard NGS assays is generally determined by the sequencing coverage depth and typically ranges from 2% to 5% VAF (Figure 2B); reliable detection of variants below this level typically requires error-correction methods (described in further sections).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The abundance of a detected variant is generally represented as a variant allele frequency (VAF, Figure 2A), which represents the ratio of sequencing reads that contain a variant at a given position in the genome divided by the total number of reads at that position.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The exact methods used to filter polymorphisms varies widely between laboratories13 and may give rise to both false-positive somatic calls, especially in genes with low probability of loss intolerance (pLI)14 scores such as TET2,15 and false-negative calls, often resulting from the presence of clonal hematopoiesis of indeterminate potential (CHIP) variants (ie, DNMT3A p.R882) coded as polymorphisms in \"normal\" population databases.16,17 The limit of detection for standard NGS assays is generally determined by the sequencing coverage depth and typically ranges from 2% to 5% VAF (Figure 2B); reliable detection of variants below this level typically requires error-correction methods (described in further sections).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Enrichment strategies (Figure 2C) include the capture of genetic regions of interest though hybridization (hybrid capture using DNA or RNA probes) or PCR amplification (amplicon enrichment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Enrichment strategies (Figure 2C) include the capture of genetic regions of interest though hybridization (hybrid capture using DNA or RNA probes) or PCR amplification (amplicon enrichment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Recurrent translocations may be detected either by FISH or more sensitive qPCR from RNA, with sensitivities of 10−2 and 10−6, respectively.29 In AML, high sensitivity monitoring for highly recurrent NPM1 exon 11 gene mutation can be accomplished by qPCR with a sensitivity of ∼10−3 or lower.30High-sensitivity sequencing for somatic variants\nThe sensitivity and specificity of NGS can be improved with UMIs to tag individual DNA templates on single or dual strands of the target and can increase the analytic detection sensitivity to up to 10−6.31, 32, 33 For detecting low levels of molecular disease after treatment in AML, a sensitivity of at least 10−3 is recommended.34 UMIs are used to computationally “collapse” DNA sequence information into “consensus” reads, allowing removal of PCR or sequencing errors absent in identically tagged templates (Figure 2D).35, 36, 37, 38 UMI-based sequencing can be coupled with DNA enrichment to create generalized MRD panels or to monitor previously detected mutations in a patient-specific manner.T-cell receptor (TR) and immunoglobulin NGS-based MRD approaches\nNGS of the hypervariable regions of immunoglobulin (IGH, IGK, or IGL) and/or TR (TRB, TRG) can be used to measure MRD in B- or T-cell lymphoblastic leukemias.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "High-sensitivity sequencing for somatic variants\nThe sensitivity and specificity of NGS can be improved with UMIs to tag individual DNA templates on single or dual strands of the target and can increase the analytic detection sensitivity to up to 10−6.31, 32, 33 For detecting low levels of molecular disease after treatment in AML, a sensitivity of at least 10−3 is recommended.34 UMIs are used to computationally “collapse” DNA sequence information into “consensus” reads, allowing removal of PCR or sequencing errors absent in identically tagged templates (Figure 2D).35, 36, 37, 38 UMI-based sequencing can be coupled with DNA enrichment to create generalized MRD panels or to monitor previously detected mutations in a patient-specific manner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The sensitivity and specificity of NGS can be improved with UMIs to tag individual DNA templates on single or dual strands of the target and can increase the analytic detection sensitivity to up to 10−6.31, 32, 33 For detecting low levels of molecular disease after treatment in AML, a sensitivity of at least 10−3 is recommended.34 UMIs are used to computationally “collapse” DNA sequence information into “consensus” reads, allowing removal of PCR or sequencing errors absent in identically tagged templates (Figure 2D).35, 36, 37, 38 UMI-based sequencing can be coupled with DNA enrichment to create generalized MRD panels or to monitor previously detected mutations in a patient-specific manner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Outside of RT-PCR and MFC, NGS is an alternative method for MRD assessment, which can provide useful information about emerging mutations not present at AML diagnosis (Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This is especially true in patients with FLT3-mutated AML after receipt of FLT3-directed treatments, as ∼40% of patients can relapse with FLT3–wild type clones.159 Caution must be taken in the interpretation of residual epigenetic mutations, including “DTA” (DNMT3A, TET2, ASXL1), which represent preleukemic clones and are not predictive of relapse.156,160 Residual SRSF2 and IDH1/2 mutations may be similarly noninformative for MRD assessment.161\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Outside of RT-PCR and MFC, NGS is an alternative method for MRD assessment, which can provide useful information about emerging mutations not present at AML diagnosis (Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "FISH assays may be used for rapid identification of translocations and gene fusions (Figure 4), including those in BCR::ABL1-like B-ALL for which targeted therapies are currently available (eg, ABL-family kinase genes, JAK2, CRLF2, and NTRK3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Image is from Kimura et al.191Several entities may benefit from flow cytometry analysis of subtype-defining antigen expression patterns, such as CD371 in DUX4-rearranged ALL and surface expression of TSLPR (encoded by CRLF2), a sensitive and specific indicator of CRLF2-rearrangement (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Transcriptome sequencing provides comprehensive characterization of fusion transcript chimeras (Figure 4), mutant allele expression (Figure 4), gene expression profiling, and ploidy169,172 to identify subgroups and several phenocopies (eg, BCR::ABL1-like ALL, ETV6-RUNX1-like, KMT2A-like, and ZNF384/362-like).169,173 The availability of a reference dataset of leukemia transcriptomes, such as the St Jude Cloud (https://www.stjude.cloud),174 allows analysis and classification of individual samples against a reference data set, without the need for an extensive local cohort.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "These are highly diverse in terms of the genes involved and the genomic drivers of deregulation, challenging to identify comprehensively, and are not consistently associated with outcome, thus are not typically identified in current diagnostic workflows.28,162 WGS can detect the diverse genomic alterations that, more commonly in T-ALL than B-ALL, involve intergenic regions (eg, TLX3, T-cell receptor gene loci) that deregulate oncogenes, and noncoding sequence mutations that generate neo-enhancers (eg, TAL1 and LMO1/2).28,162 One entity of clinical relevance is early T-cell precursor ALL (ETP ALL), a high-risk subset of early T-lineage and stem cell leukemias most commonly identified by immunophenotyping (CD7+ and typically cytoplasmic CD3+; CD2+; CD1a−; CD8−; myeloperoxidase negative but positive for at least 1 stem cell/myeloid marker).177 ETP ALL is genetically diverse, but one-third of ETP ALL and T/myeloid mixed phenotype acute leukemia cases have structural variants deregulating BCL11B, which may be detected by WGS (Figure 4) or, for the majority, by FISH to detect disruption of the BCL11B locus.178.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "FISH assays may be used for rapid identification of translocations and gene fusions (Figure 4), including those in BCR::ABL1-like B-ALL for which targeted therapies are currently available (eg, ABL-family kinase genes, JAK2, CRLF2, and NTRK3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Image is from Kimura et al.191Several entities may benefit from flow cytometry analysis of subtype-defining antigen expression patterns, such as CD371 in DUX4-rearranged ALL and surface expression of TSLPR (encoded by CRLF2), a sensitive and specific indicator of CRLF2-rearrangement (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "FISH assays may be used for rapid identification of translocations and gene fusions (Figure 4), including those in BCR::ABL1-like B-ALL for which targeted therapies are currently available (eg, ABL-family kinase genes, JAK2, CRLF2, and NTRK3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Several entities may benefit from flow cytometry analysis of subtype-defining antigen expression patterns, such as CD371 in DUX4-rearranged ALL and surface expression of TSLPR (encoded by CRLF2), a sensitive and specific indicator of CRLF2-rearrangement (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Transcriptome sequencing provides comprehensive characterization of fusion transcript chimeras (Figure 4), mutant allele expression (Figure 4), gene expression profiling, and ploidy169,172 to identify subgroups and several phenocopies (eg, BCR::ABL1-like ALL, ETV6-RUNX1-like, KMT2A-like, and ZNF384/362-like).169,173 The availability of a reference dataset of leukemia transcriptomes, such as the St Jude Cloud (https://www.stjude.cloud),174 allows analysis and classification of individual samples against a reference data set, without the need for an extensive local cohort.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "These are highly diverse in terms of the genes involved and the genomic drivers of deregulation, challenging to identify comprehensively, and are not consistently associated with outcome, thus are not typically identified in current diagnostic workflows.28,162 WGS can detect the diverse genomic alterations that, more commonly in T-ALL than B-ALL, involve intergenic regions (eg, TLX3, T-cell receptor gene loci) that deregulate oncogenes, and noncoding sequence mutations that generate neo-enhancers (eg, TAL1 and LMO1/2).28,162 One entity of clinical relevance is early T-cell precursor ALL (ETP ALL), a high-risk subset of early T-lineage and stem cell leukemias most commonly identified by immunophenotyping (CD7+ and typically cytoplasmic CD3+; CD2+; CD1a−; CD8−; myeloperoxidase negative but positive for at least 1 stem cell/myeloid marker).177 ETP ALL is genetically diverse, but one-third of ETP ALL and T/myeloid mixed phenotype acute leukemia cases have structural variants deregulating BCL11B, which may be detected by WGS (Figure 4) or, for the majority, by FISH to detect disruption of the BCL11B locus.178.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Transcriptome sequencing provides comprehensive characterization of fusion transcript chimeras (Figure 4), mutant allele expression (Figure 4), gene expression profiling, and ploidy169,172 to identify subgroups and several phenocopies (eg, BCR::ABL1-like ALL, ETV6-RUNX1-like, KMT2A-like, and ZNF384/362-like).169,173 The availability of a reference dataset of leukemia transcriptomes, such as the St Jude Cloud (https://www.stjude.cloud),174 allows analysis and classification of individual samples against a reference data set, without the need for an extensive local cohort.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "These are highly diverse in terms of the genes involved and the genomic drivers of deregulation, challenging to identify comprehensively, and are not consistently associated with outcome, thus are not typically identified in current diagnostic workflows.28,162 WGS can detect the diverse genomic alterations that, more commonly in T-ALL than B-ALL, involve intergenic regions (eg, TLX3, T-cell receptor gene loci) that deregulate oncogenes, and noncoding sequence mutations that generate neo-enhancers (eg, TAL1 and LMO1/2).28,162 One entity of clinical relevance is early T-cell precursor ALL (ETP ALL), a high-risk subset of early T-lineage and stem cell leukemias most commonly identified by immunophenotyping (CD7+ and typically cytoplasmic CD3+; CD2+; CD1a−; CD8−; myeloperoxidase negative but positive for at least 1 stem cell/myeloid marker).177 ETP ALL is genetically diverse, but one-third of ETP ALL and T/myeloid mixed phenotype acute leukemia cases have structural variants deregulating BCL11B, which may be detected by WGS (Figure 4) or, for the majority, by FISH to detect disruption of the BCL11B locus.178.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  }
+]

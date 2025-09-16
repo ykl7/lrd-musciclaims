@@ -1,0 +1,339 @@
+{
+  "paper_id": "PMC12319403",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12319403/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Figure 1.",
+      "caption": "Schematic overview of the study. A, Schematic overview of the study design, including cohort selection and experimental and statistical approaches. TE, transposable element, SINE, short interspersed nuclear elements, LINE, long interspersed nuclear elements, PNS, peripheral nervous system. B, Schematic overview of the systemic and local pathophysiologic alterations in HGGs relevant to cfDNA fragmentation and liquid biopsies. HGGs establish a systemic and local immune-suppressive environment that leads to systemic lymphopenia and infiltration of myeloid-derived suppressor cells in the tumor microenvironment. Apoptotic lymphocytes release cfDNA in the circulation, increasing the contribution of lymphocytes to the total pool of cfDNA fragments compared with individuals without cancer. In the local microenvironment, the blood–brain barrier (BBB) is broken down in the tumor, thus allowing nucleosomal DNA from apoptotic tumor cells and other supporting cells to exit into the circulation.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/3464146de023/cd-25-0074_f1.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/3464146de023/cd-25-0074_f1.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/3464146de023/cd-25-0074_f1.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/3464146de023/cd-25-0074_f1.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/3464146de023/cd-25-0074_f1.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC12319403/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/3464146de023/cd-25-0074_f1.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Figure 2.",
+      "caption": "ARTEMIS–DELFI performance for detection of brain cancers. ARTEMIS–DELFI score distribution across noncancer individuals and patients with brain tumor, stratified by grade and histology, in the discovery cohort. A, The boxplot shows the median ARTEMIS–DELFI score and the IQR with the individual sample values overlaid as dots. The noncancer neurologic controls, although overall exhibiting low ARTEMIS–DELFI scores, have a higher score than the screening population group (median score of 0.25 vs. 0.11; P < 0.0001). The noncancer cases with or without neurologic conditions have a lower ARTEMIS–DELFI score compared with brain tumor cases, and there is an incremental increase in the ARTEMIS–DELFI score between the LGGs (median score of 0.46) and HGGs (median score of 0.71). Within primary brain tumors, the highest median DELFI score is observed in GBMs (median score 0.72). Metastatic brain tumors (including lung, breast, ovarian, melanoma, and kidney cancers) have a high score (median of 0.86). The center line in the boxplots represents the median, the top limit of the boxplots represents the third quantile (75th percentile), the bottom limit of the boxplots represents the first quantile (25th percentile), the top whiskers is the maximum value of the data that are within 1.5 times the IQR over the 75th percentile, and the bottom whisker is the minimum value of the data that are within 1.5 times the IQR under the 25th percentile. Rec, recurrent. B, ROC analyses of the overall discovery cohort as well as by grade. The faded gray vertical lines in the ROC figures represents a 95% and 90% specificity as decision boundaries. C, The boxplot shows the median ARTEMIS–DELFI score and the IQR with the individual sample values overlaid as dots in the validation cohort. The noncancer neurologic controls exhibit a low ARTEMIS–DELFI score (median of 0.11), with gliomas (median of 0.70) and brain metastases (median of 0.86) showing elevated scores similar to our discovery cohort. D, Analysis of an ARTEMIS–DELFI fixed model and score cutoff of 0.30 determined from the discovery cohort was applied in the validation cohort. The performance of this classifier in the independent cohort was similar to the discovery cohort in both specificity (left) and sensitivity (right). The number of samples in the discovery and validation sets are indicated in the labels of the horizontal axis. The intervals presented reflect a 90% CI.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/3188a253c7ed/cd-25-0074_f2.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/3188a253c7ed/cd-25-0074_f2.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/3188a253c7ed/cd-25-0074_f2.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/3188a253c7ed/cd-25-0074_f2.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/3188a253c7ed/cd-25-0074_f2.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC12319403/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/3188a253c7ed/cd-25-0074_f2.jpg"
+    },
+    "figure_3": {
+      "figure_number": "Figure 3",
+      "title": "Figure 3.",
+      "caption": "Survival analyses of patients with molecularly defined untreated GBM using ARTEMIS–DELFI model components. A, The horizontal axis indicates the classifier score cutoff used to dichotomize the GBM patient cohort to low- and high-score categories. The vertical axis indicates the P value of the univariate survival analysis of the Cox proportional hazard ratios for each ARTEMIS–DELFI submodel at all evaluated score cutoffs. Each submodel of the ARTEMIS–DELFI model is represented with a different color. Kaplan–Meier survival analyses of the GBM cohort for the chromosomal arm model (B) and the epigenetic model (C) both at a score cutoff of 0.75. P values are calculated based on the log-rank test, and the estimated HR and 95% CI are shown. TE, transposable element, SINE, short interspersed nuclear elements, LINE, long interspersed nuclear elements.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/cd63d9e3536b/cd-25-0074_f3.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/cd63d9e3536b/cd-25-0074_f3.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/cd63d9e3536b/cd-25-0074_f3.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/cd63d9e3536b/cd-25-0074_f3.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig3",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/cd63d9e3536b/cd-25-0074_f3.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC12319403/images/figure_3.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/cd63d9e3536b/cd-25-0074_f3.jpg"
+    },
+    "figure_4": {
+      "figure_number": "Figure 4",
+      "title": "Figure 4.",
+      "caption": "cfDNA fragmentation and mutations in plasma of patients with HGGs. A, The table shows the number and percentage of patients analyzed and detected with the ARTEMIS–DELFI assay, the tumor-guided mutational panel approach, or both. B, Histogram representation of the sensitivity of HGG detection by the mutation panel or the ARTEMIS–DELFI approach. The score threshold corresponding to 90% specificity is applied to determine the samples detected by ARTEMIS–DELFI approach. The analytical specificity of the tumor-informed mutation panel assay is 99.9%. C, Fragment length distribution of tumor-specific mutant fragments vs. fragments with no mutations, germline mutations or known clonal hematopoiesis of indeterminate potential (CHIP) mutations. Tumor-specific mutations are residing in shorter fragments than wild-type (WT) or nontumor mutant fragments (median length of 146 bp vs. 167 bp, Wilcoxon P < 0.0001).",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/df90d7293a29/cd-25-0074_f4.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/df90d7293a29/cd-25-0074_f4.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/df90d7293a29/cd-25-0074_f4.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/df90d7293a29/cd-25-0074_f4.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig4",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/df90d7293a29/cd-25-0074_f4.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC12319403/images/figure_4.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/df90d7293a29/cd-25-0074_f4.jpg"
+    },
+    "figure_5": {
+      "figure_number": "Figure 5",
+      "title": "Figure 5.",
+      "caption": "Origins of cfDNA fragmentation in HGGs based on DECIFER analyses. A, The horizontal axis shows the quantile of number of TFBSs (numbers closer to 0 include a greater number of TFs with a lower number of BSs, and numbers closer to 1 include fewer TFs with a larger number of BSs), and the vertical axis shows the level of Pearson R correlation between the effect size of relative coverage in TFBSs of patients with HGGs vs. noncancer individuals and the effect size of TF RNA expression of several tumor types vs. whole blood. The vertical axis contains all available data. This correlation is calculated and depicted across the full array of number of TFBS quantiles from 0 to 1. Each tumor type is color-coded. B, This panel is a similar graph to (A) that includes immune cell subpopulations, brain tumor tissue, brain cells, and other cancers, including liver hepatocellular carcinoma (LIHC) and lung adenocarcinoma (LUAD). C, Box plots represent the % of immune subpopulations in noncancer, LGGs, and HGGs based on complete blood count differential analysis. The center line in the boxplots represents the median, the top limit of the boxplots represents the third quantile (75th percentile), the bottom limit of the boxplots represents the first quantile (25th percentile), the top whiskers is the maximum value of the data that are within 1.5 times the IQR over the 75th percentile, and the bottom whisker is the minimum value of the data that are within 1.5 times the IQR under the 25th percentile. AML, acute myeloid leukemia; BRCA, Breast invasive carcinoma; NNNC, nonneoplastic neurologic control; BLCA, bladder urothelial carcinoma; COAD, colon adenocarcinoma; KIRC, kidney renal cell carcinoma; LUSC, lung squamous cell carcinoma; OV, ovarian serous cystadenocarcinoma; PRAD, prostate adenocarcinoma; STAD, stomach adenocarcinoma.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/db8adc0fdcd8/cd-25-0074_f5.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/db8adc0fdcd8/cd-25-0074_f5.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/db8adc0fdcd8/cd-25-0074_f5.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/db8adc0fdcd8/cd-25-0074_f5.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig5",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/db8adc0fdcd8/cd-25-0074_f5.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC12319403/images/figure_5.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fbe6/12319403/db8adc0fdcd8/cd-25-0074_f5.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "The discovery cohort consisted of individuals enrolled in four prospectively collected observational trials (Fig. 1A and B; Table 1), including 130 who prospectively presented to the Neurosurgery Department at the Johns Hopkins Hospital in Baltimore, Maryland, or at Seoul National University Hospital in South Korea and had pathologic confirmation of a brain tumor diagnosis, a control group of 31 prospectively collected patients who presented to the Johns Hopkins Hospital with nononcologic neurologic conditions, and 312 individuals without cancer from screening programs in the Netherlands (29) and Denmark (30).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The discovery cohort consisted of individuals enrolled in four prospectively collected observational trials (Fig. 1A and B; Table 1), including 130 who prospectively presented to the Neurosurgery Department at the Johns Hopkins Hospital in Baltimore, Maryland, or at Seoul National University Hospital in South Korea and had pathologic confirmation of a brain tumor diagnosis, a control group of 31 prospectively collected patients who presented to the Johns Hopkins Hospital with nononcologic neurologic conditions, and 312 individuals without cancer from screening programs in the Netherlands (29) and Denmark (30).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Whereas no association was found (P = 0.91) between OS and the ARTEMIS–DELFI score, certain model components were associated with survival (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Higher scores in the chromosomal arm and epigenetic profile submodels were associated with worse OS in this population (Cox proportional hazard ratio 2.39; 95% CI, 1.26–4.52; P = 0.006 and Cox proportional hazard ratio 3.04; 95% CI, 1.68–5.51; P = 0.0001, respectively, Fig. 3A–C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "At high-TFBS thresholds (>0.90), we found strong anticorrelation between RNA expression and cfDNA coverage to profiles of brain tumors, including GBM and LGG, as well as acute myeloid leukemia (Fig. 5A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "To evaluate this hypothesis, we utilized RNA expression datasets from sorted immune cells, including T cells, macrophages, neutrophils, NK cells, B cells, and monocytes, from noncancer donors (Fig. 5B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "A subset of the patients with GBM and individuals without cancer had available analyses of blood cell counts that were performed preoperatively (Supplementary Table S5) and consistent with our hypotheses, these analyses revealed depletion of lymphocytes (30% in controls vs. 20% in patients with GBM; P = 0.001, Fig. 5C) and an increase in the level of neutrophils (57% in controls vs. 68% in patients with GBM, P = 0.003; Fig. 5C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel C",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel C",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Overall, these observations support the hypothesis that cfDNA released in the circulation of brain tumor patients represents a combination of direct release of DNA in the circulation by the tumor cells as well as the apoptotic T cells turning over due to GBM-induced immunosuppressive mechanism (Fig. 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "To evaluate this hypothesis, we utilized RNA expression datasets from sorted immune cells, including T cells, macrophages, neutrophils, NK cells, B cells, and monocytes, from noncancer donors (Fig. 5B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "A subset of the patients with GBM and individuals without cancer had available analyses of blood cell counts that were performed preoperatively (Supplementary Table S5) and consistent with our hypotheses, these analyses revealed depletion of lymphocytes (30% in controls vs. 20% in patients with GBM; P = 0.001, Fig. 5C) and an increase in the level of neutrophils (57% in controls vs. 68% in patients with GBM, P = 0.003; Fig. 5C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel C",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel C",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Overall, these observations support the hypothesis that cfDNA released in the circulation of brain tumor patients represents a combination of direct release of DNA in the circulation by the tumor cells as well as the apoptotic T cells turning over due to GBM-induced immunosuppressive mechanism (Fig. 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 5,
+    "claims_count": 11,
+    "images_downloaded": 5,
+    "tables_filtered": 16
+  }
+}

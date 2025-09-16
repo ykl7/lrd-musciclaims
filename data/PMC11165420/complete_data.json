@@ -1,0 +1,2269 @@
+{
+  "paper_id": "PMC11165420",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11165420/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Figure 1: Mechanisms of action for immunotherapy as a monotherapy and the immunogenic effects of radiotherapy in brain tumors.",
+      "caption": "Panel (a) shows an example of how monoclonal antibodies targeting PD-1 receptors inhibit the binding of T-cells to PD-L1 thus enabling the immune cells to attack tumor cells. Panel (b) shows a schematic of how CAR T cells are produced for individual patients to enable targeting of patient cancer cells. Panel (c) Shows an example of the stimulatory effect of radiotherapy on the immune system by inducing apoptotic cell death and the release of tumor-specific antigens that prime cytotoxic T cells and enable the removal of distant, non-irradiated tumors. Components of this figure were adapted from “Immune Checkpoint Inhibitor Against Tumor Cell” and “CAR T Cell Therapy Overview” by BioRender.com (2022) retrieved from https://app.biorender.com/biorender-templates.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/dc8e705b6f73/nihms-1995417-f0001.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/dc8e705b6f73/nihms-1995417-f0001.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/dc8e705b6f73/nihms-1995417-f0001.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/dc8e705b6f73/nihms-1995417-f0001.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/dc8e705b6f73/nihms-1995417-f0001.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11165420/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/dc8e705b6f73/nihms-1995417-f0001.jpg"
+    },
+    "figure_3": {
+      "figure_number": "Figure 3",
+      "title": "Figure 3: Example quantitative imaging measurements that are used to model tumor growth and response to radiation therapy.",
+      "caption": "Anatomical imaging techniques such as T1-weighted and T2-weighted FLAIR MRI are commonly used to segment and identify the extent of tumor burden before, during, and after treatment. Quantitative MRI techniques such as diffusion-weighted or diffusion tensor imaging can be used to estimate the apparent diffusion coefficient (ADC) and fractional anisotropy (FA) map which report on different properties of water diffusion in the tissue. Within the segmented tumor regions, the ADC map can then be used to estimate tumor cell density using an inverse linear approximation. PET imaging techniques with radiopharmaceuticals such as 18F-MISO and 18F-FET could also be used to identify regions of hypoxic tumor or estimate cell density, respectively.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/c71b508c7487/nihms-1995417-f0003.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/c71b508c7487/nihms-1995417-f0003.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/c71b508c7487/nihms-1995417-f0003.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/c71b508c7487/nihms-1995417-f0003.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F3",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/c71b508c7487/nihms-1995417-f0003.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11165420/images/figure_3.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/c71b508c7487/nihms-1995417-f0003.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Figure 2: Graphical representation of diffusion, advection, and reaction (or proliferation) terms commonly employed in models of tumor growth and response.",
+      "caption": "In this example, the spatial-temporal evolution of the concentration of tumor cells, c, is influenced by tumor cell mobility (e.g., diffusion and advection terms) and net-growth (e.g., proliferation term). Tumor cell diffusion is typically regarded as random, Brownian motion; however, D may vary spatially as a function of the tissue type (e.g., white matter or gray matter) or local mechanical properties. The advection term results in directed tumor cell movement and is often related to tissue mass effect or the deformation and displacement of surrounding tissue as a result of tumor growth. The third term on the right-hand side of the equation represents the net tumor cell proliferation or cell death (natural or in response to treatment) governed by a proliferation rate . The top two rows depict the tissue scale dynamics, while the bottom row shows an example of an individual cell’s movement (diffusion and advection) or proliferation from time point 1 (t1) to time point 2 (t2).",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/5bead6138416/nihms-1995417-f0002.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/5bead6138416/nihms-1995417-f0002.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/5bead6138416/nihms-1995417-f0002.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/5bead6138416/nihms-1995417-f0002.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/5bead6138416/nihms-1995417-f0002.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11165420/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/5bead6138416/nihms-1995417-f0002.jpg"
+    },
+    "figure_4": {
+      "figure_number": "Figure 4",
+      "title": "Figure 4: Application of patient-specific quantitative MRI data to personalize models of tumor growth and response.",
+      "caption": "Patient observations of tumor volume fractions estimated from DW-MRI (top panel) are acquired at baseline (i.e., pre-radiotherapy but post-surgery) and at 1 month following radiotherapy. Radiotherapy (cyan circles) and chemotherapy (orange circles) regimens are supplied as well for model calibration. The modeling framework (bottom panel) uses the initial volume fractions of enhancing and non-enhancing tumor (arrow a) and an initial guess of model parameters (arrow b) as inputs into the 3D two-species partial differential equation model of tumor growth and response. The model is then run forward in time to the next imaging visit (arrow c), and the error between the model and the observation is assessed (arrow d). If the error between the observation and the model estimated tumor volume fractions are minimized the calibration process ceases. Otherwise, the calibration process continues (arrow e) by changing the model parameters and running the model again. After model parameters are calibrated, they can be used to predict (or forecast) response at future time points (e.g., later imaging visits).",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/47b9b88aa033/nihms-1995417-f0004.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/47b9b88aa033/nihms-1995417-f0004.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/47b9b88aa033/nihms-1995417-f0004.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/47b9b88aa033/nihms-1995417-f0004.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F4",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/47b9b88aa033/nihms-1995417-f0004.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11165420/images/figure_4.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/47b9b88aa033/nihms-1995417-f0004.jpg"
+    },
+    "figure_5": {
+      "figure_number": "Figure 5",
+      "title": "Figure 5: Imaged-based modeling for optimization of radiotherapy and immunotherapy regimens.",
+      "caption": "Critical to developing any patient-focused approach is the availability of relevant data (e.g., imaging, biopsy, serum, sequencing data (panel a). Longitudinal patient data collected before, during, or after treatment can be used in conjunction with details on the prescribed treatment to develop and validate predictive models of tumor growth and response (panel b). Model predictions can then directly be compared to the observed tumor growth. Once a validated model has been developed, it could then be leveraged to optimize or adapt treatment regimens for individual patients (panel c). In panel c, a patient’s initial set of observations could be combined with a model of response to radiotherapy and immunotherapy to evaluate different treatment (Tx) regimens and identify an optimal candidate. Once new observations are available, the model can be updated and the treatment adapted if the original treatment regimen is insufficient. Components of this figure were designed in BioRender.com (2022).",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/95feb7be2b90/nihms-1995417-f0005.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/95feb7be2b90/nihms-1995417-f0005.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/95feb7be2b90/nihms-1995417-f0005.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/95feb7be2b90/nihms-1995417-f0005.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F5",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/95feb7be2b90/nihms-1995417-f0005.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11165420/images/figure_5.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f754/11165420/95feb7be2b90/nihms-1995417-f0005.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "Among other monoclonal antibody targets, nivolumab and pembrolizumab are monoclonal antibodies targeting PD-1 receptor on T cells, B cells and NK (natural killer) cells inhibiting its binding to PD-L1 (Figure 1a), allowing the positive signaling of IFN-γ (interferon gamma) and activating the intracellular expression of anti-proliferation and pro-apoptosis genes [3,5,36].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1: Mechanisms of action for immunotherapy as a monotherapy and the immunogenic effects of radiotherapy in brain tumors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The CAR (Figure 1b) consists of an artificial B cell receptor with variable antigen receptor domain specific to a unique tumor expressed antigen fused with the T cells CD3 TCR (CD 3-zeta) intracytoplasmic domain.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The systemic increase in antigen recognition has been shown to induce T cell-mediated inhibition of untreated metastatic disease (the abscopal effect) [59,60] (Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A summary of these imaging modalities and the quantities they measure is provided in Table 2; examples of some of these modalities may be found in Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of both contrast-enhanced T1-weighted and T2-FLAIR MRI in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of an ADC and FA map in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows a graphical representation of common mathematical terms employed to simplify the complex dynamics of tumor growth into two major contributing factors, proliferation, and invasion [21].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2: Graphical representation of diffusion, advection, and reaction (or proliferation) terms commonly employed in models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Throughout this section the reader is referred to Figure 3 which illustrates how imaging has been used in the literature to inform mathematical models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 4 shows a schematic of the approach in Hormuth et al. where patient specific images are used to calibrate model parameters of response to radiotherapy.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 4: Application of patient-specific quantitative MRI data to personalize models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The reader is encouraged to refer to Figure 5 as they go through the following section as it provides one potential schema for this patient-oriented modeling approach.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5: Imaged-based modeling for optimization of radiotherapy and immunotherapy regimens.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Data types required\nCentral to developing a patient-focused modeling study is the availability of serial patient-specific data characterizing the disease status and treatment effect (Figure 5a).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Patient imaging data (and other data types) collected prior to the start of treatment and either midway or at the conclusion of treatment could be used in a mathematical framework to predict individual patient response [16,160,237] (Figure 5b).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Once the descriptive and predictive accuracy of the mathematical model is established, the mathematical framework can be employed to investigate alternative and potentially optimal treatment regimens aimed at improving tumor control (Figure 5c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Among other monoclonal antibody targets, nivolumab and pembrolizumab are monoclonal antibodies targeting PD-1 receptor on T cells, B cells and NK (natural killer) cells inhibiting its binding to PD-L1 (Figure 1a), allowing the positive signaling of IFN-γ (interferon gamma) and activating the intracellular expression of anti-proliferation and pro-apoptosis genes [3,5,36].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1: Mechanisms of action for immunotherapy as a monotherapy and the immunogenic effects of radiotherapy in brain tumors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The CAR (Figure 1b) consists of an artificial B cell receptor with variable antigen receptor domain specific to a unique tumor expressed antigen fused with the T cells CD3 TCR (CD 3-zeta) intracytoplasmic domain.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The systemic increase in antigen recognition has been shown to induce T cell-mediated inhibition of untreated metastatic disease (the abscopal effect) [59,60] (Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A summary of these imaging modalities and the quantities they measure is provided in Table 2; examples of some of these modalities may be found in Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of both contrast-enhanced T1-weighted and T2-FLAIR MRI in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of an ADC and FA map in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows a graphical representation of common mathematical terms employed to simplify the complex dynamics of tumor growth into two major contributing factors, proliferation, and invasion [21].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2: Graphical representation of diffusion, advection, and reaction (or proliferation) terms commonly employed in models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Throughout this section the reader is referred to Figure 3 which illustrates how imaging has been used in the literature to inform mathematical models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 4 shows a schematic of the approach in Hormuth et al. where patient specific images are used to calibrate model parameters of response to radiotherapy.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 4: Application of patient-specific quantitative MRI data to personalize models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The reader is encouraged to refer to Figure 5 as they go through the following section as it provides one potential schema for this patient-oriented modeling approach.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5: Imaged-based modeling for optimization of radiotherapy and immunotherapy regimens.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Data types required\nCentral to developing a patient-focused modeling study is the availability of serial patient-specific data characterizing the disease status and treatment effect (Figure 5a).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Patient imaging data (and other data types) collected prior to the start of treatment and either midway or at the conclusion of treatment could be used in a mathematical framework to predict individual patient response [16,160,237] (Figure 5b).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Once the descriptive and predictive accuracy of the mathematical model is established, the mathematical framework can be employed to investigate alternative and potentially optimal treatment regimens aimed at improving tumor control (Figure 5c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Among other monoclonal antibody targets, nivolumab and pembrolizumab are monoclonal antibodies targeting PD-1 receptor on T cells, B cells and NK (natural killer) cells inhibiting its binding to PD-L1 (Figure 1a), allowing the positive signaling of IFN-γ (interferon gamma) and activating the intracellular expression of anti-proliferation and pro-apoptosis genes [3,5,36].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1: Mechanisms of action for immunotherapy as a monotherapy and the immunogenic effects of radiotherapy in brain tumors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The CAR (Figure 1b) consists of an artificial B cell receptor with variable antigen receptor domain specific to a unique tumor expressed antigen fused with the T cells CD3 TCR (CD 3-zeta) intracytoplasmic domain.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The systemic increase in antigen recognition has been shown to induce T cell-mediated inhibition of untreated metastatic disease (the abscopal effect) [59,60] (Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A summary of these imaging modalities and the quantities they measure is provided in Table 2; examples of some of these modalities may be found in Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of both contrast-enhanced T1-weighted and T2-FLAIR MRI in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of an ADC and FA map in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows a graphical representation of common mathematical terms employed to simplify the complex dynamics of tumor growth into two major contributing factors, proliferation, and invasion [21].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2: Graphical representation of diffusion, advection, and reaction (or proliferation) terms commonly employed in models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Throughout this section the reader is referred to Figure 3 which illustrates how imaging has been used in the literature to inform mathematical models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 4 shows a schematic of the approach in Hormuth et al. where patient specific images are used to calibrate model parameters of response to radiotherapy.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 4: Application of patient-specific quantitative MRI data to personalize models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The reader is encouraged to refer to Figure 5 as they go through the following section as it provides one potential schema for this patient-oriented modeling approach.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5: Imaged-based modeling for optimization of radiotherapy and immunotherapy regimens.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Data types required\nCentral to developing a patient-focused modeling study is the availability of serial patient-specific data characterizing the disease status and treatment effect (Figure 5a).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Patient imaging data (and other data types) collected prior to the start of treatment and either midway or at the conclusion of treatment could be used in a mathematical framework to predict individual patient response [16,160,237] (Figure 5b).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Once the descriptive and predictive accuracy of the mathematical model is established, the mathematical framework can be employed to investigate alternative and potentially optimal treatment regimens aimed at improving tumor control (Figure 5c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Among other monoclonal antibody targets, nivolumab and pembrolizumab are monoclonal antibodies targeting PD-1 receptor on T cells, B cells and NK (natural killer) cells inhibiting its binding to PD-L1 (Figure 1a), allowing the positive signaling of IFN-γ (interferon gamma) and activating the intracellular expression of anti-proliferation and pro-apoptosis genes [3,5,36].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1: Mechanisms of action for immunotherapy as a monotherapy and the immunogenic effects of radiotherapy in brain tumors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The CAR (Figure 1b) consists of an artificial B cell receptor with variable antigen receptor domain specific to a unique tumor expressed antigen fused with the T cells CD3 TCR (CD 3-zeta) intracytoplasmic domain.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The systemic increase in antigen recognition has been shown to induce T cell-mediated inhibition of untreated metastatic disease (the abscopal effect) [59,60] (Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A summary of these imaging modalities and the quantities they measure is provided in Table 2; examples of some of these modalities may be found in Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of both contrast-enhanced T1-weighted and T2-FLAIR MRI in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of an ADC and FA map in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows a graphical representation of common mathematical terms employed to simplify the complex dynamics of tumor growth into two major contributing factors, proliferation, and invasion [21].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2: Graphical representation of diffusion, advection, and reaction (or proliferation) terms commonly employed in models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Throughout this section the reader is referred to Figure 3 which illustrates how imaging has been used in the literature to inform mathematical models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 4 shows a schematic of the approach in Hormuth et al. where patient specific images are used to calibrate model parameters of response to radiotherapy.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 4: Application of patient-specific quantitative MRI data to personalize models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The reader is encouraged to refer to Figure 5 as they go through the following section as it provides one potential schema for this patient-oriented modeling approach.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5: Imaged-based modeling for optimization of radiotherapy and immunotherapy regimens.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Data types required\nCentral to developing a patient-focused modeling study is the availability of serial patient-specific data characterizing the disease status and treatment effect (Figure 5a).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Patient imaging data (and other data types) collected prior to the start of treatment and either midway or at the conclusion of treatment could be used in a mathematical framework to predict individual patient response [16,160,237] (Figure 5b).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Once the descriptive and predictive accuracy of the mathematical model is established, the mathematical framework can be employed to investigate alternative and potentially optimal treatment regimens aimed at improving tumor control (Figure 5c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Among other monoclonal antibody targets, nivolumab and pembrolizumab are monoclonal antibodies targeting PD-1 receptor on T cells, B cells and NK (natural killer) cells inhibiting its binding to PD-L1 (Figure 1a), allowing the positive signaling of IFN-γ (interferon gamma) and activating the intracellular expression of anti-proliferation and pro-apoptosis genes [3,5,36].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1: Mechanisms of action for immunotherapy as a monotherapy and the immunogenic effects of radiotherapy in brain tumors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The CAR (Figure 1b) consists of an artificial B cell receptor with variable antigen receptor domain specific to a unique tumor expressed antigen fused with the T cells CD3 TCR (CD 3-zeta) intracytoplasmic domain.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The systemic increase in antigen recognition has been shown to induce T cell-mediated inhibition of untreated metastatic disease (the abscopal effect) [59,60] (Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A summary of these imaging modalities and the quantities they measure is provided in Table 2; examples of some of these modalities may be found in Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of both contrast-enhanced T1-weighted and T2-FLAIR MRI in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of an ADC and FA map in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows a graphical representation of common mathematical terms employed to simplify the complex dynamics of tumor growth into two major contributing factors, proliferation, and invasion [21].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2: Graphical representation of diffusion, advection, and reaction (or proliferation) terms commonly employed in models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Throughout this section the reader is referred to Figure 3 which illustrates how imaging has been used in the literature to inform mathematical models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 4 shows a schematic of the approach in Hormuth et al. where patient specific images are used to calibrate model parameters of response to radiotherapy.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 4: Application of patient-specific quantitative MRI data to personalize models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The reader is encouraged to refer to Figure 5 as they go through the following section as it provides one potential schema for this patient-oriented modeling approach.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5: Imaged-based modeling for optimization of radiotherapy and immunotherapy regimens.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Data types required\nCentral to developing a patient-focused modeling study is the availability of serial patient-specific data characterizing the disease status and treatment effect (Figure 5a).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Patient imaging data (and other data types) collected prior to the start of treatment and either midway or at the conclusion of treatment could be used in a mathematical framework to predict individual patient response [16,160,237] (Figure 5b).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Once the descriptive and predictive accuracy of the mathematical model is established, the mathematical framework can be employed to investigate alternative and potentially optimal treatment regimens aimed at improving tumor control (Figure 5c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Among other monoclonal antibody targets, nivolumab and pembrolizumab are monoclonal antibodies targeting PD-1 receptor on T cells, B cells and NK (natural killer) cells inhibiting its binding to PD-L1 (Figure 1a), allowing the positive signaling of IFN-γ (interferon gamma) and activating the intracellular expression of anti-proliferation and pro-apoptosis genes [3,5,36].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1: Mechanisms of action for immunotherapy as a monotherapy and the immunogenic effects of radiotherapy in brain tumors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The CAR (Figure 1b) consists of an artificial B cell receptor with variable antigen receptor domain specific to a unique tumor expressed antigen fused with the T cells CD3 TCR (CD 3-zeta) intracytoplasmic domain.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The systemic increase in antigen recognition has been shown to induce T cell-mediated inhibition of untreated metastatic disease (the abscopal effect) [59,60] (Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A summary of these imaging modalities and the quantities they measure is provided in Table 2; examples of some of these modalities may be found in Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of both contrast-enhanced T1-weighted and T2-FLAIR MRI in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of an ADC and FA map in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows a graphical representation of common mathematical terms employed to simplify the complex dynamics of tumor growth into two major contributing factors, proliferation, and invasion [21].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2: Graphical representation of diffusion, advection, and reaction (or proliferation) terms commonly employed in models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Throughout this section the reader is referred to Figure 3 which illustrates how imaging has been used in the literature to inform mathematical models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 4 shows a schematic of the approach in Hormuth et al. where patient specific images are used to calibrate model parameters of response to radiotherapy.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 4: Application of patient-specific quantitative MRI data to personalize models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The reader is encouraged to refer to Figure 5 as they go through the following section as it provides one potential schema for this patient-oriented modeling approach.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5: Imaged-based modeling for optimization of radiotherapy and immunotherapy regimens.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Data types required\nCentral to developing a patient-focused modeling study is the availability of serial patient-specific data characterizing the disease status and treatment effect (Figure 5a).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Patient imaging data (and other data types) collected prior to the start of treatment and either midway or at the conclusion of treatment could be used in a mathematical framework to predict individual patient response [16,160,237] (Figure 5b).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Once the descriptive and predictive accuracy of the mathematical model is established, the mathematical framework can be employed to investigate alternative and potentially optimal treatment regimens aimed at improving tumor control (Figure 5c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Among other monoclonal antibody targets, nivolumab and pembrolizumab are monoclonal antibodies targeting PD-1 receptor on T cells, B cells and NK (natural killer) cells inhibiting its binding to PD-L1 (Figure 1a), allowing the positive signaling of IFN-γ (interferon gamma) and activating the intracellular expression of anti-proliferation and pro-apoptosis genes [3,5,36].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1: Mechanisms of action for immunotherapy as a monotherapy and the immunogenic effects of radiotherapy in brain tumors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The CAR (Figure 1b) consists of an artificial B cell receptor with variable antigen receptor domain specific to a unique tumor expressed antigen fused with the T cells CD3 TCR (CD 3-zeta) intracytoplasmic domain.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The systemic increase in antigen recognition has been shown to induce T cell-mediated inhibition of untreated metastatic disease (the abscopal effect) [59,60] (Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A summary of these imaging modalities and the quantities they measure is provided in Table 2; examples of some of these modalities may be found in Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of both contrast-enhanced T1-weighted and T2-FLAIR MRI in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of an ADC and FA map in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows a graphical representation of common mathematical terms employed to simplify the complex dynamics of tumor growth into two major contributing factors, proliferation, and invasion [21].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2: Graphical representation of diffusion, advection, and reaction (or proliferation) terms commonly employed in models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Throughout this section the reader is referred to Figure 3 which illustrates how imaging has been used in the literature to inform mathematical models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 4 shows a schematic of the approach in Hormuth et al. where patient specific images are used to calibrate model parameters of response to radiotherapy.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 4: Application of patient-specific quantitative MRI data to personalize models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The reader is encouraged to refer to Figure 5 as they go through the following section as it provides one potential schema for this patient-oriented modeling approach.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5: Imaged-based modeling for optimization of radiotherapy and immunotherapy regimens.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Data types required\nCentral to developing a patient-focused modeling study is the availability of serial patient-specific data characterizing the disease status and treatment effect (Figure 5a).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Patient imaging data (and other data types) collected prior to the start of treatment and either midway or at the conclusion of treatment could be used in a mathematical framework to predict individual patient response [16,160,237] (Figure 5b).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Once the descriptive and predictive accuracy of the mathematical model is established, the mathematical framework can be employed to investigate alternative and potentially optimal treatment regimens aimed at improving tumor control (Figure 5c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Among other monoclonal antibody targets, nivolumab and pembrolizumab are monoclonal antibodies targeting PD-1 receptor on T cells, B cells and NK (natural killer) cells inhibiting its binding to PD-L1 (Figure 1a), allowing the positive signaling of IFN-γ (interferon gamma) and activating the intracellular expression of anti-proliferation and pro-apoptosis genes [3,5,36].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1: Mechanisms of action for immunotherapy as a monotherapy and the immunogenic effects of radiotherapy in brain tumors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The CAR (Figure 1b) consists of an artificial B cell receptor with variable antigen receptor domain specific to a unique tumor expressed antigen fused with the T cells CD3 TCR (CD 3-zeta) intracytoplasmic domain.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The systemic increase in antigen recognition has been shown to induce T cell-mediated inhibition of untreated metastatic disease (the abscopal effect) [59,60] (Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A summary of these imaging modalities and the quantities they measure is provided in Table 2; examples of some of these modalities may be found in Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of both contrast-enhanced T1-weighted and T2-FLAIR MRI in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of an ADC and FA map in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows a graphical representation of common mathematical terms employed to simplify the complex dynamics of tumor growth into two major contributing factors, proliferation, and invasion [21].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2: Graphical representation of diffusion, advection, and reaction (or proliferation) terms commonly employed in models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Throughout this section the reader is referred to Figure 3 which illustrates how imaging has been used in the literature to inform mathematical models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 4 shows a schematic of the approach in Hormuth et al. where patient specific images are used to calibrate model parameters of response to radiotherapy.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 4: Application of patient-specific quantitative MRI data to personalize models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The reader is encouraged to refer to Figure 5 as they go through the following section as it provides one potential schema for this patient-oriented modeling approach.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5: Imaged-based modeling for optimization of radiotherapy and immunotherapy regimens.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Data types required\nCentral to developing a patient-focused modeling study is the availability of serial patient-specific data characterizing the disease status and treatment effect (Figure 5a).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Patient imaging data (and other data types) collected prior to the start of treatment and either midway or at the conclusion of treatment could be used in a mathematical framework to predict individual patient response [16,160,237] (Figure 5b).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Once the descriptive and predictive accuracy of the mathematical model is established, the mathematical framework can be employed to investigate alternative and potentially optimal treatment regimens aimed at improving tumor control (Figure 5c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Among other monoclonal antibody targets, nivolumab and pembrolizumab are monoclonal antibodies targeting PD-1 receptor on T cells, B cells and NK (natural killer) cells inhibiting its binding to PD-L1 (Figure 1a), allowing the positive signaling of IFN-γ (interferon gamma) and activating the intracellular expression of anti-proliferation and pro-apoptosis genes [3,5,36].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1: Mechanisms of action for immunotherapy as a monotherapy and the immunogenic effects of radiotherapy in brain tumors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The CAR (Figure 1b) consists of an artificial B cell receptor with variable antigen receptor domain specific to a unique tumor expressed antigen fused with the T cells CD3 TCR (CD 3-zeta) intracytoplasmic domain.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The systemic increase in antigen recognition has been shown to induce T cell-mediated inhibition of untreated metastatic disease (the abscopal effect) [59,60] (Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Among other monoclonal antibody targets, nivolumab and pembrolizumab are monoclonal antibodies targeting PD-1 receptor on T cells, B cells and NK (natural killer) cells inhibiting its binding to PD-L1 (Figure 1a), allowing the positive signaling of IFN-γ (interferon gamma) and activating the intracellular expression of anti-proliferation and pro-apoptosis genes [3,5,36].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1: Mechanisms of action for immunotherapy as a monotherapy and the immunogenic effects of radiotherapy in brain tumors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The CAR (Figure 1b) consists of an artificial B cell receptor with variable antigen receptor domain specific to a unique tumor expressed antigen fused with the T cells CD3 TCR (CD 3-zeta) intracytoplasmic domain.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Among other monoclonal antibody targets, nivolumab and pembrolizumab are monoclonal antibodies targeting PD-1 receptor on T cells, B cells and NK (natural killer) cells inhibiting its binding to PD-L1 (Figure 1a), allowing the positive signaling of IFN-γ (interferon gamma) and activating the intracellular expression of anti-proliferation and pro-apoptosis genes [3,5,36].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The CAR (Figure 1b) consists of an artificial B cell receptor with variable antigen receptor domain specific to a unique tumor expressed antigen fused with the T cells CD3 TCR (CD 3-zeta) intracytoplasmic domain.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel b",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The systemic increase in antigen recognition has been shown to induce T cell-mediated inhibition of untreated metastatic disease (the abscopal effect) [59,60] (Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The systemic increase in antigen recognition has been shown to induce T cell-mediated inhibition of untreated metastatic disease (the abscopal effect) [59,60] (Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A summary of these imaging modalities and the quantities they measure is provided in Table 2; examples of some of these modalities may be found in Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of both contrast-enhanced T1-weighted and T2-FLAIR MRI in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of an ADC and FA map in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "A summary of these imaging modalities and the quantities they measure is provided in Table 2; examples of some of these modalities may be found in Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of both contrast-enhanced T1-weighted and T2-FLAIR MRI in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of both contrast-enhanced T1-weighted and T2-FLAIR MRI in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of an ADC and FA map in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an example of an ADC and FA map in a patient with a high-grade glioma.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows a graphical representation of common mathematical terms employed to simplify the complex dynamics of tumor growth into two major contributing factors, proliferation, and invasion [21].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2: Graphical representation of diffusion, advection, and reaction (or proliferation) terms commonly employed in models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows a graphical representation of common mathematical terms employed to simplify the complex dynamics of tumor growth into two major contributing factors, proliferation, and invasion [21].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Throughout this section the reader is referred to Figure 3 which illustrates how imaging has been used in the literature to inform mathematical models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 4 shows a schematic of the approach in Hormuth et al. where patient specific images are used to calibrate model parameters of response to radiotherapy.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 4: Application of patient-specific quantitative MRI data to personalize models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Throughout this section the reader is referred to Figure 3 which illustrates how imaging has been used in the literature to inform mathematical models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Throughout this section the reader is referred to Figure 3 which illustrates how imaging has been used in the literature to inform mathematical models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 4 shows a schematic of the approach in Hormuth et al. where patient specific images are used to calibrate model parameters of response to radiotherapy.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 4: Application of patient-specific quantitative MRI data to personalize models of tumor growth and response.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 4 shows a schematic of the approach in Hormuth et al. where patient specific images are used to calibrate model parameters of response to radiotherapy.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The reader is encouraged to refer to Figure 5 as they go through the following section as it provides one potential schema for this patient-oriented modeling approach.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5: Imaged-based modeling for optimization of radiotherapy and immunotherapy regimens.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Data types required\nCentral to developing a patient-focused modeling study is the availability of serial patient-specific data characterizing the disease status and treatment effect (Figure 5a).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Patient imaging data (and other data types) collected prior to the start of treatment and either midway or at the conclusion of treatment could be used in a mathematical framework to predict individual patient response [16,160,237] (Figure 5b).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Once the descriptive and predictive accuracy of the mathematical model is established, the mathematical framework can be employed to investigate alternative and potentially optimal treatment regimens aimed at improving tumor control (Figure 5c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The reader is encouraged to refer to Figure 5 as they go through the following section as it provides one potential schema for this patient-oriented modeling approach.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Data types required\nCentral to developing a patient-focused modeling study is the availability of serial patient-specific data characterizing the disease status and treatment effect (Figure 5a).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Central to developing a patient-focused modeling study is the availability of serial patient-specific data characterizing the disease status and treatment effect (Figure 5a).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel a",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Patient imaging data (and other data types) collected prior to the start of treatment and either midway or at the conclusion of treatment could be used in a mathematical framework to predict individual patient response [16,160,237] (Figure 5b).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Once the descriptive and predictive accuracy of the mathematical model is established, the mathematical framework can be employed to investigate alternative and potentially optimal treatment regimens aimed at improving tumor control (Figure 5c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Patient imaging data (and other data types) collected prior to the start of treatment and either midway or at the conclusion of treatment could be used in a mathematical framework to predict individual patient response [16,160,237] (Figure 5b).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel b",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Once the descriptive and predictive accuracy of the mathematical model is established, the mathematical framework can be employed to investigate alternative and potentially optimal treatment regimens aimed at improving tumor control (Figure 5c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel c",
+          "figure_key": "figure_5"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 5,
+    "claims_count": 178,
+    "images_downloaded": 5,
+    "tables_filtered": 35
+  }
+}

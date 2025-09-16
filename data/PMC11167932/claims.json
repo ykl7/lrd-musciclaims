@@ -1,0 +1,4502 @@
+[
+  {
+    "sentence": "A visual inspection of the differential patterns by heatmap (Fig. 1a) showed these to transcend the PAM50 intrinsic molecular subtype [18] assignments of the metastasis or primary sample, notwithstanding instances of molecular subtype switching [4, 5, 12].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Firstly, we noted that the relative intensities of the differential patterns (higher versus lower fold changes) in each metastasis sample compared to its corresponding primary pair tracked closely with the metastasis biopsy site (Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Analysis of gene expression signatures of immune cell types [20] indicated that overall levels of T cell and B cell infiltrates were statistically lower on average in metastases versus its paired primary (p < 0.01, paired t-test, Fig. 1a), though these immune cell types often appeared higher in lymph node biopsies [4, 13].An essential gene expression signature of breast cancer metastases\nWe hypothesized that a fraction of genes with differential patterns in breast cancer metastases versus paired primary would be intrinsic to cancer cells and not due to sample biopsy composition.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "To help sift through the top differential metastasis genes (Fig. 1a), we turned to the Cancer Dependency Map (DepMap) CRISPR assays [17, 21] measuring the essentiality of each gene for each of 46 breast cancer cell lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We overlapped the 2115 genes higher (p < 0.001, paired t-test) in the breast cancer metastasis signature (from Fig. 1a) with the set of 1810 genes that were essential (with gene effect score < − 0.75) in > 10% of breast cancer cell lines by DepMap.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The overlap of 264 genes between the two result sets (Fig. 2a and Data File S1) was highly statistically significant (enrichment p < 1E−29, chi-square test, chance expected overlap of 136 genes) and represented an “essential” metastasis signature as explored further below.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We observed no significant overlap between the genes lower in metastasis and genes essential by DepMap (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nAn essential gene expression signature of breast cancer metastases versus paired primary. a Venn diagram showing the overlapping genes between the genes essential in > 10% of breast cancer cell lines, according to the DepMap dataset [17, 21] (using CRISPR-based gene effect score < − 0.75 to call essentiality for a given gene and cell line), and the metastasis signature genes (from Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "From parts b-d, we observe that the issues involving the contribution of non-cancer cells to the differential metastasis expression profile (e.g., as highlighted in Fig. 1) are not present in the essential metastasis signatureThe set of 1581 genes higher in metastasis but for which no breast cell lines had low DepMap-based gene effect scores represented a “nonessential” metastasis signature that could serve as an interesting comparison and contrast to the essential metastasis signature of 264 genes (Figs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, in contrast to the 1581 nonessential genes, the 264 essential genes were not significantly enriched for genes lower in normal breast tissue by GTEx (Fig. 2b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, while the nonessential genes showed the above-noted association with liver biopsy site, the differential expression patterns for the 264 essential genes were much more consistent across diverse metastatic biopsy sites (Fig. 2c and d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel c",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, analysis of single cell RNA-sequencing (scRNA-seq) data from both metastatic and primary tumors showed the essential signature genes to be highly expressed as a group within the cancer epithelial cells (Supplementary Fig. 1a–c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Primary cancer cells scored moderate to high for the essential signature, though spatial transcriptomics did not reveal any clear patterns of the high metastasis signature cells as being on the invasive front of the tumor (Supplementary Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 248 essential genes represented in the compendium dataset, 182—73%—were differential expressed in metastasis versus primary tumors across the compendium (p < 0.05, paired t-test, Fig. 3a), a highly significant overlap (p < 1E−80, one-sided Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe essential metastasis signature patterns as examined in external breast cancer datasets. a For the essential metastasis genes from the BIG dataset (from Fig. 2a), heat map of differential expression in a compendium dataset of 195 breast metastases versus paired primary, representing seven individual studies [5–11].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "P-values for association of signature score with patient outcome by log-rank test and by univariate Cox, as indicated. c Similar to part b, but using the nonessential signature genes (Fig. 2b) to compute a nonessential gene signature score in primary breast tumorsResults of previous studies have suggested that the metastatic potential of human tumors is encoded within the primary tumor [25, 26].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Based on the expression patterns of primary tumors, the essential metastasis signature could stratify patients in each dataset into high-, low-, and intermediate-risk groups representing significant differences in patient outcome by Kaplan–Meier analysis (Fig. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, the nonessential metastasis signature was associated with worse breast cancer patient outcome in only one of the three primary tumor datasets (Fig. 3c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "However, in multivariate Cox models incorporating other well-known prognostic signatures [26, 30] in addition to the essential metastasis signature, the latter was found to not provide additional prognostic information in two out of three datasets (Table S1).Pathways and functional gene groups represented by the metastasis signature\nThe essential metastasis signature genes represented functional gene categories and altered pathways (Fig. 4a and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Both 20S and 26s proteasomes included several genes both higher in breast cancer expression in metastasis and essential in more than 90% of breast cancer cell lines in DepMap (Fig. 4b and Data File S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "When surveying core metabolic pathways (Fig. 4c), genes both higher in expression in metastasis and essential in one or more breast cancer cell lines included glycolysis, lipid synthesis, the Krebs cycle, the Warburg effect, and the electron transport chain.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The essential metastasis genes involving the electron transport chain spanned complexes I–V (Fig. 4c and Data Files S1 and S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Gene set enrichment patterns (by one-sided Fisher’s exact test) are represented for both essential and nonessential metastasis gene sets. c For both essential and nonessential metastasis signature genes (top and bottom, respectively), the corresponding patterns are represented involving differential expression in metastases, CRISPR-based gene effect scoring, binding 2 kb upstream for selected TFs, and differential expression in response to siRNA knockdown (GSE27869 dataset [35] involving profiling of cells after knockdown of each of 400 genes)We examined both essential and nonessential metastasis signature genes across all the above datasets, including differential expression patterns in metastasis, gene target binding for selected TFs, and differential expression patterns in response to the knockdown of selected genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The nonessential signature genes were also significantly enriched for targets of TFs, including MYC, MAX, and HCFC1, though these three TFs involved a relatively lower fraction of genes for the nonessential versus the essential signature (Fig. 5c and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, where the nonessential genes overlapped with the above TF-related and knockdown target-related patterns of interest, these genes showed a weaker association with liver biopsy site than that of the other nonessential genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figures represent biological and not technical replicates.Supplementary Information\n\nSupplementary Table 1. (80.4KB, pdf) \n\n13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Supplementary Materials\n\nSupplementary Table 1. (80.4KB, pdf) \n\n13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "A visual inspection of the differential patterns by heatmap (Fig. 1a) showed these to transcend the PAM50 intrinsic molecular subtype [18] assignments of the metastasis or primary sample, notwithstanding instances of molecular subtype switching [4, 5, 12].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Firstly, we noted that the relative intensities of the differential patterns (higher versus lower fold changes) in each metastasis sample compared to its corresponding primary pair tracked closely with the metastasis biopsy site (Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Analysis of gene expression signatures of immune cell types [20] indicated that overall levels of T cell and B cell infiltrates were statistically lower on average in metastases versus its paired primary (p < 0.01, paired t-test, Fig. 1a), though these immune cell types often appeared higher in lymph node biopsies [4, 13].An essential gene expression signature of breast cancer metastases\nWe hypothesized that a fraction of genes with differential patterns in breast cancer metastases versus paired primary would be intrinsic to cancer cells and not due to sample biopsy composition.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "To help sift through the top differential metastasis genes (Fig. 1a), we turned to the Cancer Dependency Map (DepMap) CRISPR assays [17, 21] measuring the essentiality of each gene for each of 46 breast cancer cell lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We overlapped the 2115 genes higher (p < 0.001, paired t-test) in the breast cancer metastasis signature (from Fig. 1a) with the set of 1810 genes that were essential (with gene effect score < − 0.75) in > 10% of breast cancer cell lines by DepMap.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The overlap of 264 genes between the two result sets (Fig. 2a and Data File S1) was highly statistically significant (enrichment p < 1E−29, chi-square test, chance expected overlap of 136 genes) and represented an “essential” metastasis signature as explored further below.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We observed no significant overlap between the genes lower in metastasis and genes essential by DepMap (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nAn essential gene expression signature of breast cancer metastases versus paired primary. a Venn diagram showing the overlapping genes between the genes essential in > 10% of breast cancer cell lines, according to the DepMap dataset [17, 21] (using CRISPR-based gene effect score < − 0.75 to call essentiality for a given gene and cell line), and the metastasis signature genes (from Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "From parts b-d, we observe that the issues involving the contribution of non-cancer cells to the differential metastasis expression profile (e.g., as highlighted in Fig. 1) are not present in the essential metastasis signatureThe set of 1581 genes higher in metastasis but for which no breast cell lines had low DepMap-based gene effect scores represented a “nonessential” metastasis signature that could serve as an interesting comparison and contrast to the essential metastasis signature of 264 genes (Figs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, in contrast to the 1581 nonessential genes, the 264 essential genes were not significantly enriched for genes lower in normal breast tissue by GTEx (Fig. 2b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, while the nonessential genes showed the above-noted association with liver biopsy site, the differential expression patterns for the 264 essential genes were much more consistent across diverse metastatic biopsy sites (Fig. 2c and d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel c",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, analysis of single cell RNA-sequencing (scRNA-seq) data from both metastatic and primary tumors showed the essential signature genes to be highly expressed as a group within the cancer epithelial cells (Supplementary Fig. 1a–c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Primary cancer cells scored moderate to high for the essential signature, though spatial transcriptomics did not reveal any clear patterns of the high metastasis signature cells as being on the invasive front of the tumor (Supplementary Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 248 essential genes represented in the compendium dataset, 182—73%—were differential expressed in metastasis versus primary tumors across the compendium (p < 0.05, paired t-test, Fig. 3a), a highly significant overlap (p < 1E−80, one-sided Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe essential metastasis signature patterns as examined in external breast cancer datasets. a For the essential metastasis genes from the BIG dataset (from Fig. 2a), heat map of differential expression in a compendium dataset of 195 breast metastases versus paired primary, representing seven individual studies [5–11].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "P-values for association of signature score with patient outcome by log-rank test and by univariate Cox, as indicated. c Similar to part b, but using the nonessential signature genes (Fig. 2b) to compute a nonessential gene signature score in primary breast tumorsResults of previous studies have suggested that the metastatic potential of human tumors is encoded within the primary tumor [25, 26].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Based on the expression patterns of primary tumors, the essential metastasis signature could stratify patients in each dataset into high-, low-, and intermediate-risk groups representing significant differences in patient outcome by Kaplan–Meier analysis (Fig. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, the nonessential metastasis signature was associated with worse breast cancer patient outcome in only one of the three primary tumor datasets (Fig. 3c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "However, in multivariate Cox models incorporating other well-known prognostic signatures [26, 30] in addition to the essential metastasis signature, the latter was found to not provide additional prognostic information in two out of three datasets (Table S1).Pathways and functional gene groups represented by the metastasis signature\nThe essential metastasis signature genes represented functional gene categories and altered pathways (Fig. 4a and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Both 20S and 26s proteasomes included several genes both higher in breast cancer expression in metastasis and essential in more than 90% of breast cancer cell lines in DepMap (Fig. 4b and Data File S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "When surveying core metabolic pathways (Fig. 4c), genes both higher in expression in metastasis and essential in one or more breast cancer cell lines included glycolysis, lipid synthesis, the Krebs cycle, the Warburg effect, and the electron transport chain.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The essential metastasis genes involving the electron transport chain spanned complexes I–V (Fig. 4c and Data Files S1 and S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Gene set enrichment patterns (by one-sided Fisher’s exact test) are represented for both essential and nonessential metastasis gene sets. c For both essential and nonessential metastasis signature genes (top and bottom, respectively), the corresponding patterns are represented involving differential expression in metastases, CRISPR-based gene effect scoring, binding 2 kb upstream for selected TFs, and differential expression in response to siRNA knockdown (GSE27869 dataset [35] involving profiling of cells after knockdown of each of 400 genes)We examined both essential and nonessential metastasis signature genes across all the above datasets, including differential expression patterns in metastasis, gene target binding for selected TFs, and differential expression patterns in response to the knockdown of selected genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The nonessential signature genes were also significantly enriched for targets of TFs, including MYC, MAX, and HCFC1, though these three TFs involved a relatively lower fraction of genes for the nonessential versus the essential signature (Fig. 5c and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, where the nonessential genes overlapped with the above TF-related and knockdown target-related patterns of interest, these genes showed a weaker association with liver biopsy site than that of the other nonessential genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figures represent biological and not technical replicates.Supplementary Information\n\nSupplementary Table 1. (80.4KB, pdf) \n\n13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Supplementary Materials\n\nSupplementary Table 1. (80.4KB, pdf) \n\n13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "A visual inspection of the differential patterns by heatmap (Fig. 1a) showed these to transcend the PAM50 intrinsic molecular subtype [18] assignments of the metastasis or primary sample, notwithstanding instances of molecular subtype switching [4, 5, 12].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Firstly, we noted that the relative intensities of the differential patterns (higher versus lower fold changes) in each metastasis sample compared to its corresponding primary pair tracked closely with the metastasis biopsy site (Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Analysis of gene expression signatures of immune cell types [20] indicated that overall levels of T cell and B cell infiltrates were statistically lower on average in metastases versus its paired primary (p < 0.01, paired t-test, Fig. 1a), though these immune cell types often appeared higher in lymph node biopsies [4, 13].An essential gene expression signature of breast cancer metastases\nWe hypothesized that a fraction of genes with differential patterns in breast cancer metastases versus paired primary would be intrinsic to cancer cells and not due to sample biopsy composition.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "To help sift through the top differential metastasis genes (Fig. 1a), we turned to the Cancer Dependency Map (DepMap) CRISPR assays [17, 21] measuring the essentiality of each gene for each of 46 breast cancer cell lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We overlapped the 2115 genes higher (p < 0.001, paired t-test) in the breast cancer metastasis signature (from Fig. 1a) with the set of 1810 genes that were essential (with gene effect score < − 0.75) in > 10% of breast cancer cell lines by DepMap.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The overlap of 264 genes between the two result sets (Fig. 2a and Data File S1) was highly statistically significant (enrichment p < 1E−29, chi-square test, chance expected overlap of 136 genes) and represented an “essential” metastasis signature as explored further below.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We observed no significant overlap between the genes lower in metastasis and genes essential by DepMap (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nAn essential gene expression signature of breast cancer metastases versus paired primary. a Venn diagram showing the overlapping genes between the genes essential in > 10% of breast cancer cell lines, according to the DepMap dataset [17, 21] (using CRISPR-based gene effect score < − 0.75 to call essentiality for a given gene and cell line), and the metastasis signature genes (from Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "From parts b-d, we observe that the issues involving the contribution of non-cancer cells to the differential metastasis expression profile (e.g., as highlighted in Fig. 1) are not present in the essential metastasis signatureThe set of 1581 genes higher in metastasis but for which no breast cell lines had low DepMap-based gene effect scores represented a “nonessential” metastasis signature that could serve as an interesting comparison and contrast to the essential metastasis signature of 264 genes (Figs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, in contrast to the 1581 nonessential genes, the 264 essential genes were not significantly enriched for genes lower in normal breast tissue by GTEx (Fig. 2b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, while the nonessential genes showed the above-noted association with liver biopsy site, the differential expression patterns for the 264 essential genes were much more consistent across diverse metastatic biopsy sites (Fig. 2c and d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel c",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, analysis of single cell RNA-sequencing (scRNA-seq) data from both metastatic and primary tumors showed the essential signature genes to be highly expressed as a group within the cancer epithelial cells (Supplementary Fig. 1a–c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Primary cancer cells scored moderate to high for the essential signature, though spatial transcriptomics did not reveal any clear patterns of the high metastasis signature cells as being on the invasive front of the tumor (Supplementary Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 248 essential genes represented in the compendium dataset, 182—73%—were differential expressed in metastasis versus primary tumors across the compendium (p < 0.05, paired t-test, Fig. 3a), a highly significant overlap (p < 1E−80, one-sided Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe essential metastasis signature patterns as examined in external breast cancer datasets. a For the essential metastasis genes from the BIG dataset (from Fig. 2a), heat map of differential expression in a compendium dataset of 195 breast metastases versus paired primary, representing seven individual studies [5–11].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "P-values for association of signature score with patient outcome by log-rank test and by univariate Cox, as indicated. c Similar to part b, but using the nonessential signature genes (Fig. 2b) to compute a nonessential gene signature score in primary breast tumorsResults of previous studies have suggested that the metastatic potential of human tumors is encoded within the primary tumor [25, 26].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Based on the expression patterns of primary tumors, the essential metastasis signature could stratify patients in each dataset into high-, low-, and intermediate-risk groups representing significant differences in patient outcome by Kaplan–Meier analysis (Fig. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, the nonessential metastasis signature was associated with worse breast cancer patient outcome in only one of the three primary tumor datasets (Fig. 3c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "However, in multivariate Cox models incorporating other well-known prognostic signatures [26, 30] in addition to the essential metastasis signature, the latter was found to not provide additional prognostic information in two out of three datasets (Table S1).Pathways and functional gene groups represented by the metastasis signature\nThe essential metastasis signature genes represented functional gene categories and altered pathways (Fig. 4a and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Both 20S and 26s proteasomes included several genes both higher in breast cancer expression in metastasis and essential in more than 90% of breast cancer cell lines in DepMap (Fig. 4b and Data File S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "When surveying core metabolic pathways (Fig. 4c), genes both higher in expression in metastasis and essential in one or more breast cancer cell lines included glycolysis, lipid synthesis, the Krebs cycle, the Warburg effect, and the electron transport chain.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The essential metastasis genes involving the electron transport chain spanned complexes I–V (Fig. 4c and Data Files S1 and S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Gene set enrichment patterns (by one-sided Fisher’s exact test) are represented for both essential and nonessential metastasis gene sets. c For both essential and nonessential metastasis signature genes (top and bottom, respectively), the corresponding patterns are represented involving differential expression in metastases, CRISPR-based gene effect scoring, binding 2 kb upstream for selected TFs, and differential expression in response to siRNA knockdown (GSE27869 dataset [35] involving profiling of cells after knockdown of each of 400 genes)We examined both essential and nonessential metastasis signature genes across all the above datasets, including differential expression patterns in metastasis, gene target binding for selected TFs, and differential expression patterns in response to the knockdown of selected genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The nonessential signature genes were also significantly enriched for targets of TFs, including MYC, MAX, and HCFC1, though these three TFs involved a relatively lower fraction of genes for the nonessential versus the essential signature (Fig. 5c and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, where the nonessential genes overlapped with the above TF-related and knockdown target-related patterns of interest, these genes showed a weaker association with liver biopsy site than that of the other nonessential genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figures represent biological and not technical replicates.Supplementary Information\n\nSupplementary Table 1. (80.4KB, pdf) \n\n13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Supplementary Materials\n\nSupplementary Table 1. (80.4KB, pdf) \n\n13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "A visual inspection of the differential patterns by heatmap (Fig. 1a) showed these to transcend the PAM50 intrinsic molecular subtype [18] assignments of the metastasis or primary sample, notwithstanding instances of molecular subtype switching [4, 5, 12].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Firstly, we noted that the relative intensities of the differential patterns (higher versus lower fold changes) in each metastasis sample compared to its corresponding primary pair tracked closely with the metastasis biopsy site (Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Analysis of gene expression signatures of immune cell types [20] indicated that overall levels of T cell and B cell infiltrates were statistically lower on average in metastases versus its paired primary (p < 0.01, paired t-test, Fig. 1a), though these immune cell types often appeared higher in lymph node biopsies [4, 13].An essential gene expression signature of breast cancer metastases\nWe hypothesized that a fraction of genes with differential patterns in breast cancer metastases versus paired primary would be intrinsic to cancer cells and not due to sample biopsy composition.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "To help sift through the top differential metastasis genes (Fig. 1a), we turned to the Cancer Dependency Map (DepMap) CRISPR assays [17, 21] measuring the essentiality of each gene for each of 46 breast cancer cell lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We overlapped the 2115 genes higher (p < 0.001, paired t-test) in the breast cancer metastasis signature (from Fig. 1a) with the set of 1810 genes that were essential (with gene effect score < − 0.75) in > 10% of breast cancer cell lines by DepMap.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The overlap of 264 genes between the two result sets (Fig. 2a and Data File S1) was highly statistically significant (enrichment p < 1E−29, chi-square test, chance expected overlap of 136 genes) and represented an “essential” metastasis signature as explored further below.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We observed no significant overlap between the genes lower in metastasis and genes essential by DepMap (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nAn essential gene expression signature of breast cancer metastases versus paired primary. a Venn diagram showing the overlapping genes between the genes essential in > 10% of breast cancer cell lines, according to the DepMap dataset [17, 21] (using CRISPR-based gene effect score < − 0.75 to call essentiality for a given gene and cell line), and the metastasis signature genes (from Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "From parts b-d, we observe that the issues involving the contribution of non-cancer cells to the differential metastasis expression profile (e.g., as highlighted in Fig. 1) are not present in the essential metastasis signatureThe set of 1581 genes higher in metastasis but for which no breast cell lines had low DepMap-based gene effect scores represented a “nonessential” metastasis signature that could serve as an interesting comparison and contrast to the essential metastasis signature of 264 genes (Figs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, in contrast to the 1581 nonessential genes, the 264 essential genes were not significantly enriched for genes lower in normal breast tissue by GTEx (Fig. 2b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, while the nonessential genes showed the above-noted association with liver biopsy site, the differential expression patterns for the 264 essential genes were much more consistent across diverse metastatic biopsy sites (Fig. 2c and d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel c",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, analysis of single cell RNA-sequencing (scRNA-seq) data from both metastatic and primary tumors showed the essential signature genes to be highly expressed as a group within the cancer epithelial cells (Supplementary Fig. 1a–c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Primary cancer cells scored moderate to high for the essential signature, though spatial transcriptomics did not reveal any clear patterns of the high metastasis signature cells as being on the invasive front of the tumor (Supplementary Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 248 essential genes represented in the compendium dataset, 182—73%—were differential expressed in metastasis versus primary tumors across the compendium (p < 0.05, paired t-test, Fig. 3a), a highly significant overlap (p < 1E−80, one-sided Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe essential metastasis signature patterns as examined in external breast cancer datasets. a For the essential metastasis genes from the BIG dataset (from Fig. 2a), heat map of differential expression in a compendium dataset of 195 breast metastases versus paired primary, representing seven individual studies [5–11].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "P-values for association of signature score with patient outcome by log-rank test and by univariate Cox, as indicated. c Similar to part b, but using the nonessential signature genes (Fig. 2b) to compute a nonessential gene signature score in primary breast tumorsResults of previous studies have suggested that the metastatic potential of human tumors is encoded within the primary tumor [25, 26].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Based on the expression patterns of primary tumors, the essential metastasis signature could stratify patients in each dataset into high-, low-, and intermediate-risk groups representing significant differences in patient outcome by Kaplan–Meier analysis (Fig. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, the nonessential metastasis signature was associated with worse breast cancer patient outcome in only one of the three primary tumor datasets (Fig. 3c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "However, in multivariate Cox models incorporating other well-known prognostic signatures [26, 30] in addition to the essential metastasis signature, the latter was found to not provide additional prognostic information in two out of three datasets (Table S1).Pathways and functional gene groups represented by the metastasis signature\nThe essential metastasis signature genes represented functional gene categories and altered pathways (Fig. 4a and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Both 20S and 26s proteasomes included several genes both higher in breast cancer expression in metastasis and essential in more than 90% of breast cancer cell lines in DepMap (Fig. 4b and Data File S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "When surveying core metabolic pathways (Fig. 4c), genes both higher in expression in metastasis and essential in one or more breast cancer cell lines included glycolysis, lipid synthesis, the Krebs cycle, the Warburg effect, and the electron transport chain.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The essential metastasis genes involving the electron transport chain spanned complexes I–V (Fig. 4c and Data Files S1 and S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Gene set enrichment patterns (by one-sided Fisher’s exact test) are represented for both essential and nonessential metastasis gene sets. c For both essential and nonessential metastasis signature genes (top and bottom, respectively), the corresponding patterns are represented involving differential expression in metastases, CRISPR-based gene effect scoring, binding 2 kb upstream for selected TFs, and differential expression in response to siRNA knockdown (GSE27869 dataset [35] involving profiling of cells after knockdown of each of 400 genes)We examined both essential and nonessential metastasis signature genes across all the above datasets, including differential expression patterns in metastasis, gene target binding for selected TFs, and differential expression patterns in response to the knockdown of selected genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The nonessential signature genes were also significantly enriched for targets of TFs, including MYC, MAX, and HCFC1, though these three TFs involved a relatively lower fraction of genes for the nonessential versus the essential signature (Fig. 5c and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, where the nonessential genes overlapped with the above TF-related and knockdown target-related patterns of interest, these genes showed a weaker association with liver biopsy site than that of the other nonessential genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figures represent biological and not technical replicates.Supplementary Information\n\nSupplementary Table 1. (80.4KB, pdf) \n\n13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Supplementary Materials\n\nSupplementary Table 1. (80.4KB, pdf) \n\n13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "A visual inspection of the differential patterns by heatmap (Fig. 1a) showed these to transcend the PAM50 intrinsic molecular subtype [18] assignments of the metastasis or primary sample, notwithstanding instances of molecular subtype switching [4, 5, 12].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Firstly, we noted that the relative intensities of the differential patterns (higher versus lower fold changes) in each metastasis sample compared to its corresponding primary pair tracked closely with the metastasis biopsy site (Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Analysis of gene expression signatures of immune cell types [20] indicated that overall levels of T cell and B cell infiltrates were statistically lower on average in metastases versus its paired primary (p < 0.01, paired t-test, Fig. 1a), though these immune cell types often appeared higher in lymph node biopsies [4, 13].An essential gene expression signature of breast cancer metastases\nWe hypothesized that a fraction of genes with differential patterns in breast cancer metastases versus paired primary would be intrinsic to cancer cells and not due to sample biopsy composition.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "To help sift through the top differential metastasis genes (Fig. 1a), we turned to the Cancer Dependency Map (DepMap) CRISPR assays [17, 21] measuring the essentiality of each gene for each of 46 breast cancer cell lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We overlapped the 2115 genes higher (p < 0.001, paired t-test) in the breast cancer metastasis signature (from Fig. 1a) with the set of 1810 genes that were essential (with gene effect score < − 0.75) in > 10% of breast cancer cell lines by DepMap.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The overlap of 264 genes between the two result sets (Fig. 2a and Data File S1) was highly statistically significant (enrichment p < 1E−29, chi-square test, chance expected overlap of 136 genes) and represented an “essential” metastasis signature as explored further below.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We observed no significant overlap between the genes lower in metastasis and genes essential by DepMap (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nAn essential gene expression signature of breast cancer metastases versus paired primary. a Venn diagram showing the overlapping genes between the genes essential in > 10% of breast cancer cell lines, according to the DepMap dataset [17, 21] (using CRISPR-based gene effect score < − 0.75 to call essentiality for a given gene and cell line), and the metastasis signature genes (from Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "From parts b-d, we observe that the issues involving the contribution of non-cancer cells to the differential metastasis expression profile (e.g., as highlighted in Fig. 1) are not present in the essential metastasis signatureThe set of 1581 genes higher in metastasis but for which no breast cell lines had low DepMap-based gene effect scores represented a “nonessential” metastasis signature that could serve as an interesting comparison and contrast to the essential metastasis signature of 264 genes (Figs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, in contrast to the 1581 nonessential genes, the 264 essential genes were not significantly enriched for genes lower in normal breast tissue by GTEx (Fig. 2b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, while the nonessential genes showed the above-noted association with liver biopsy site, the differential expression patterns for the 264 essential genes were much more consistent across diverse metastatic biopsy sites (Fig. 2c and d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel c",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, analysis of single cell RNA-sequencing (scRNA-seq) data from both metastatic and primary tumors showed the essential signature genes to be highly expressed as a group within the cancer epithelial cells (Supplementary Fig. 1a–c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Primary cancer cells scored moderate to high for the essential signature, though spatial transcriptomics did not reveal any clear patterns of the high metastasis signature cells as being on the invasive front of the tumor (Supplementary Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 248 essential genes represented in the compendium dataset, 182—73%—were differential expressed in metastasis versus primary tumors across the compendium (p < 0.05, paired t-test, Fig. 3a), a highly significant overlap (p < 1E−80, one-sided Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe essential metastasis signature patterns as examined in external breast cancer datasets. a For the essential metastasis genes from the BIG dataset (from Fig. 2a), heat map of differential expression in a compendium dataset of 195 breast metastases versus paired primary, representing seven individual studies [5–11].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "P-values for association of signature score with patient outcome by log-rank test and by univariate Cox, as indicated. c Similar to part b, but using the nonessential signature genes (Fig. 2b) to compute a nonessential gene signature score in primary breast tumorsResults of previous studies have suggested that the metastatic potential of human tumors is encoded within the primary tumor [25, 26].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Based on the expression patterns of primary tumors, the essential metastasis signature could stratify patients in each dataset into high-, low-, and intermediate-risk groups representing significant differences in patient outcome by Kaplan–Meier analysis (Fig. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, the nonessential metastasis signature was associated with worse breast cancer patient outcome in only one of the three primary tumor datasets (Fig. 3c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "However, in multivariate Cox models incorporating other well-known prognostic signatures [26, 30] in addition to the essential metastasis signature, the latter was found to not provide additional prognostic information in two out of three datasets (Table S1).Pathways and functional gene groups represented by the metastasis signature\nThe essential metastasis signature genes represented functional gene categories and altered pathways (Fig. 4a and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Both 20S and 26s proteasomes included several genes both higher in breast cancer expression in metastasis and essential in more than 90% of breast cancer cell lines in DepMap (Fig. 4b and Data File S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "When surveying core metabolic pathways (Fig. 4c), genes both higher in expression in metastasis and essential in one or more breast cancer cell lines included glycolysis, lipid synthesis, the Krebs cycle, the Warburg effect, and the electron transport chain.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The essential metastasis genes involving the electron transport chain spanned complexes I–V (Fig. 4c and Data Files S1 and S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Gene set enrichment patterns (by one-sided Fisher’s exact test) are represented for both essential and nonessential metastasis gene sets. c For both essential and nonessential metastasis signature genes (top and bottom, respectively), the corresponding patterns are represented involving differential expression in metastases, CRISPR-based gene effect scoring, binding 2 kb upstream for selected TFs, and differential expression in response to siRNA knockdown (GSE27869 dataset [35] involving profiling of cells after knockdown of each of 400 genes)We examined both essential and nonessential metastasis signature genes across all the above datasets, including differential expression patterns in metastasis, gene target binding for selected TFs, and differential expression patterns in response to the knockdown of selected genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The nonessential signature genes were also significantly enriched for targets of TFs, including MYC, MAX, and HCFC1, though these three TFs involved a relatively lower fraction of genes for the nonessential versus the essential signature (Fig. 5c and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, where the nonessential genes overlapped with the above TF-related and knockdown target-related patterns of interest, these genes showed a weaker association with liver biopsy site than that of the other nonessential genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figures represent biological and not technical replicates.Supplementary Information\n\nSupplementary Table 1. (80.4KB, pdf) \n\n13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Supplementary Materials\n\nSupplementary Table 1. (80.4KB, pdf) \n\n13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "A visual inspection of the differential patterns by heatmap (Fig. 1a) showed these to transcend the PAM50 intrinsic molecular subtype [18] assignments of the metastasis or primary sample, notwithstanding instances of molecular subtype switching [4, 5, 12].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Firstly, we noted that the relative intensities of the differential patterns (higher versus lower fold changes) in each metastasis sample compared to its corresponding primary pair tracked closely with the metastasis biopsy site (Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Analysis of gene expression signatures of immune cell types [20] indicated that overall levels of T cell and B cell infiltrates were statistically lower on average in metastases versus its paired primary (p < 0.01, paired t-test, Fig. 1a), though these immune cell types often appeared higher in lymph node biopsies [4, 13].An essential gene expression signature of breast cancer metastases\nWe hypothesized that a fraction of genes with differential patterns in breast cancer metastases versus paired primary would be intrinsic to cancer cells and not due to sample biopsy composition.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "To help sift through the top differential metastasis genes (Fig. 1a), we turned to the Cancer Dependency Map (DepMap) CRISPR assays [17, 21] measuring the essentiality of each gene for each of 46 breast cancer cell lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We overlapped the 2115 genes higher (p < 0.001, paired t-test) in the breast cancer metastasis signature (from Fig. 1a) with the set of 1810 genes that were essential (with gene effect score < − 0.75) in > 10% of breast cancer cell lines by DepMap.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The overlap of 264 genes between the two result sets (Fig. 2a and Data File S1) was highly statistically significant (enrichment p < 1E−29, chi-square test, chance expected overlap of 136 genes) and represented an “essential” metastasis signature as explored further below.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We observed no significant overlap between the genes lower in metastasis and genes essential by DepMap (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nAn essential gene expression signature of breast cancer metastases versus paired primary. a Venn diagram showing the overlapping genes between the genes essential in > 10% of breast cancer cell lines, according to the DepMap dataset [17, 21] (using CRISPR-based gene effect score < − 0.75 to call essentiality for a given gene and cell line), and the metastasis signature genes (from Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "From parts b-d, we observe that the issues involving the contribution of non-cancer cells to the differential metastasis expression profile (e.g., as highlighted in Fig. 1) are not present in the essential metastasis signatureThe set of 1581 genes higher in metastasis but for which no breast cell lines had low DepMap-based gene effect scores represented a “nonessential” metastasis signature that could serve as an interesting comparison and contrast to the essential metastasis signature of 264 genes (Figs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, in contrast to the 1581 nonessential genes, the 264 essential genes were not significantly enriched for genes lower in normal breast tissue by GTEx (Fig. 2b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, while the nonessential genes showed the above-noted association with liver biopsy site, the differential expression patterns for the 264 essential genes were much more consistent across diverse metastatic biopsy sites (Fig. 2c and d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel c",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, analysis of single cell RNA-sequencing (scRNA-seq) data from both metastatic and primary tumors showed the essential signature genes to be highly expressed as a group within the cancer epithelial cells (Supplementary Fig. 1a–c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Primary cancer cells scored moderate to high for the essential signature, though spatial transcriptomics did not reveal any clear patterns of the high metastasis signature cells as being on the invasive front of the tumor (Supplementary Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 248 essential genes represented in the compendium dataset, 182—73%—were differential expressed in metastasis versus primary tumors across the compendium (p < 0.05, paired t-test, Fig. 3a), a highly significant overlap (p < 1E−80, one-sided Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe essential metastasis signature patterns as examined in external breast cancer datasets. a For the essential metastasis genes from the BIG dataset (from Fig. 2a), heat map of differential expression in a compendium dataset of 195 breast metastases versus paired primary, representing seven individual studies [5–11].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "P-values for association of signature score with patient outcome by log-rank test and by univariate Cox, as indicated. c Similar to part b, but using the nonessential signature genes (Fig. 2b) to compute a nonessential gene signature score in primary breast tumorsResults of previous studies have suggested that the metastatic potential of human tumors is encoded within the primary tumor [25, 26].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Based on the expression patterns of primary tumors, the essential metastasis signature could stratify patients in each dataset into high-, low-, and intermediate-risk groups representing significant differences in patient outcome by Kaplan–Meier analysis (Fig. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, the nonessential metastasis signature was associated with worse breast cancer patient outcome in only one of the three primary tumor datasets (Fig. 3c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "However, in multivariate Cox models incorporating other well-known prognostic signatures [26, 30] in addition to the essential metastasis signature, the latter was found to not provide additional prognostic information in two out of three datasets (Table S1).Pathways and functional gene groups represented by the metastasis signature\nThe essential metastasis signature genes represented functional gene categories and altered pathways (Fig. 4a and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Both 20S and 26s proteasomes included several genes both higher in breast cancer expression in metastasis and essential in more than 90% of breast cancer cell lines in DepMap (Fig. 4b and Data File S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "When surveying core metabolic pathways (Fig. 4c), genes both higher in expression in metastasis and essential in one or more breast cancer cell lines included glycolysis, lipid synthesis, the Krebs cycle, the Warburg effect, and the electron transport chain.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The essential metastasis genes involving the electron transport chain spanned complexes I–V (Fig. 4c and Data Files S1 and S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Gene set enrichment patterns (by one-sided Fisher’s exact test) are represented for both essential and nonessential metastasis gene sets. c For both essential and nonessential metastasis signature genes (top and bottom, respectively), the corresponding patterns are represented involving differential expression in metastases, CRISPR-based gene effect scoring, binding 2 kb upstream for selected TFs, and differential expression in response to siRNA knockdown (GSE27869 dataset [35] involving profiling of cells after knockdown of each of 400 genes)We examined both essential and nonessential metastasis signature genes across all the above datasets, including differential expression patterns in metastasis, gene target binding for selected TFs, and differential expression patterns in response to the knockdown of selected genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The nonessential signature genes were also significantly enriched for targets of TFs, including MYC, MAX, and HCFC1, though these three TFs involved a relatively lower fraction of genes for the nonessential versus the essential signature (Fig. 5c and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, where the nonessential genes overlapped with the above TF-related and knockdown target-related patterns of interest, these genes showed a weaker association with liver biopsy site than that of the other nonessential genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figures represent biological and not technical replicates.Supplementary Information\n\nSupplementary Table 1. (80.4KB, pdf) \n\n13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Supplementary Materials\n\nSupplementary Table 1. (80.4KB, pdf) \n\n13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "A visual inspection of the differential patterns by heatmap (Fig. 1a) showed these to transcend the PAM50 intrinsic molecular subtype [18] assignments of the metastasis or primary sample, notwithstanding instances of molecular subtype switching [4, 5, 12].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Firstly, we noted that the relative intensities of the differential patterns (higher versus lower fold changes) in each metastasis sample compared to its corresponding primary pair tracked closely with the metastasis biopsy site (Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Analysis of gene expression signatures of immune cell types [20] indicated that overall levels of T cell and B cell infiltrates were statistically lower on average in metastases versus its paired primary (p < 0.01, paired t-test, Fig. 1a), though these immune cell types often appeared higher in lymph node biopsies [4, 13].An essential gene expression signature of breast cancer metastases\nWe hypothesized that a fraction of genes with differential patterns in breast cancer metastases versus paired primary would be intrinsic to cancer cells and not due to sample biopsy composition.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "To help sift through the top differential metastasis genes (Fig. 1a), we turned to the Cancer Dependency Map (DepMap) CRISPR assays [17, 21] measuring the essentiality of each gene for each of 46 breast cancer cell lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We overlapped the 2115 genes higher (p < 0.001, paired t-test) in the breast cancer metastasis signature (from Fig. 1a) with the set of 1810 genes that were essential (with gene effect score < − 0.75) in > 10% of breast cancer cell lines by DepMap.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The overlap of 264 genes between the two result sets (Fig. 2a and Data File S1) was highly statistically significant (enrichment p < 1E−29, chi-square test, chance expected overlap of 136 genes) and represented an “essential” metastasis signature as explored further below.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We observed no significant overlap between the genes lower in metastasis and genes essential by DepMap (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nAn essential gene expression signature of breast cancer metastases versus paired primary. a Venn diagram showing the overlapping genes between the genes essential in > 10% of breast cancer cell lines, according to the DepMap dataset [17, 21] (using CRISPR-based gene effect score < − 0.75 to call essentiality for a given gene and cell line), and the metastasis signature genes (from Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "From parts b-d, we observe that the issues involving the contribution of non-cancer cells to the differential metastasis expression profile (e.g., as highlighted in Fig. 1) are not present in the essential metastasis signatureThe set of 1581 genes higher in metastasis but for which no breast cell lines had low DepMap-based gene effect scores represented a “nonessential” metastasis signature that could serve as an interesting comparison and contrast to the essential metastasis signature of 264 genes (Figs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, in contrast to the 1581 nonessential genes, the 264 essential genes were not significantly enriched for genes lower in normal breast tissue by GTEx (Fig. 2b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, while the nonessential genes showed the above-noted association with liver biopsy site, the differential expression patterns for the 264 essential genes were much more consistent across diverse metastatic biopsy sites (Fig. 2c and d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel c",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, analysis of single cell RNA-sequencing (scRNA-seq) data from both metastatic and primary tumors showed the essential signature genes to be highly expressed as a group within the cancer epithelial cells (Supplementary Fig. 1a–c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Primary cancer cells scored moderate to high for the essential signature, though spatial transcriptomics did not reveal any clear patterns of the high metastasis signature cells as being on the invasive front of the tumor (Supplementary Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 248 essential genes represented in the compendium dataset, 182—73%—were differential expressed in metastasis versus primary tumors across the compendium (p < 0.05, paired t-test, Fig. 3a), a highly significant overlap (p < 1E−80, one-sided Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe essential metastasis signature patterns as examined in external breast cancer datasets. a For the essential metastasis genes from the BIG dataset (from Fig. 2a), heat map of differential expression in a compendium dataset of 195 breast metastases versus paired primary, representing seven individual studies [5–11].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "P-values for association of signature score with patient outcome by log-rank test and by univariate Cox, as indicated. c Similar to part b, but using the nonessential signature genes (Fig. 2b) to compute a nonessential gene signature score in primary breast tumorsResults of previous studies have suggested that the metastatic potential of human tumors is encoded within the primary tumor [25, 26].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Based on the expression patterns of primary tumors, the essential metastasis signature could stratify patients in each dataset into high-, low-, and intermediate-risk groups representing significant differences in patient outcome by Kaplan–Meier analysis (Fig. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, the nonessential metastasis signature was associated with worse breast cancer patient outcome in only one of the three primary tumor datasets (Fig. 3c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "However, in multivariate Cox models incorporating other well-known prognostic signatures [26, 30] in addition to the essential metastasis signature, the latter was found to not provide additional prognostic information in two out of three datasets (Table S1).Pathways and functional gene groups represented by the metastasis signature\nThe essential metastasis signature genes represented functional gene categories and altered pathways (Fig. 4a and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Both 20S and 26s proteasomes included several genes both higher in breast cancer expression in metastasis and essential in more than 90% of breast cancer cell lines in DepMap (Fig. 4b and Data File S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "When surveying core metabolic pathways (Fig. 4c), genes both higher in expression in metastasis and essential in one or more breast cancer cell lines included glycolysis, lipid synthesis, the Krebs cycle, the Warburg effect, and the electron transport chain.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The essential metastasis genes involving the electron transport chain spanned complexes I–V (Fig. 4c and Data Files S1 and S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Gene set enrichment patterns (by one-sided Fisher’s exact test) are represented for both essential and nonessential metastasis gene sets. c For both essential and nonessential metastasis signature genes (top and bottom, respectively), the corresponding patterns are represented involving differential expression in metastases, CRISPR-based gene effect scoring, binding 2 kb upstream for selected TFs, and differential expression in response to siRNA knockdown (GSE27869 dataset [35] involving profiling of cells after knockdown of each of 400 genes)We examined both essential and nonessential metastasis signature genes across all the above datasets, including differential expression patterns in metastasis, gene target binding for selected TFs, and differential expression patterns in response to the knockdown of selected genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The nonessential signature genes were also significantly enriched for targets of TFs, including MYC, MAX, and HCFC1, though these three TFs involved a relatively lower fraction of genes for the nonessential versus the essential signature (Fig. 5c and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, where the nonessential genes overlapped with the above TF-related and knockdown target-related patterns of interest, these genes showed a weaker association with liver biopsy site than that of the other nonessential genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figures represent biological and not technical replicates.Supplementary Information\n\nSupplementary Table 1. (80.4KB, pdf) \n\n13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Supplementary Materials\n\nSupplementary Table 1. (80.4KB, pdf) \n\n13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "A visual inspection of the differential patterns by heatmap (Fig. 1a) showed these to transcend the PAM50 intrinsic molecular subtype [18] assignments of the metastasis or primary sample, notwithstanding instances of molecular subtype switching [4, 5, 12].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Firstly, we noted that the relative intensities of the differential patterns (higher versus lower fold changes) in each metastasis sample compared to its corresponding primary pair tracked closely with the metastasis biopsy site (Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Analysis of gene expression signatures of immune cell types [20] indicated that overall levels of T cell and B cell infiltrates were statistically lower on average in metastases versus its paired primary (p < 0.01, paired t-test, Fig. 1a), though these immune cell types often appeared higher in lymph node biopsies [4, 13].An essential gene expression signature of breast cancer metastases\nWe hypothesized that a fraction of genes with differential patterns in breast cancer metastases versus paired primary would be intrinsic to cancer cells and not due to sample biopsy composition.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "To help sift through the top differential metastasis genes (Fig. 1a), we turned to the Cancer Dependency Map (DepMap) CRISPR assays [17, 21] measuring the essentiality of each gene for each of 46 breast cancer cell lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We overlapped the 2115 genes higher (p < 0.001, paired t-test) in the breast cancer metastasis signature (from Fig. 1a) with the set of 1810 genes that were essential (with gene effect score < − 0.75) in > 10% of breast cancer cell lines by DepMap.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The overlap of 264 genes between the two result sets (Fig. 2a and Data File S1) was highly statistically significant (enrichment p < 1E−29, chi-square test, chance expected overlap of 136 genes) and represented an “essential” metastasis signature as explored further below.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We observed no significant overlap between the genes lower in metastasis and genes essential by DepMap (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nAn essential gene expression signature of breast cancer metastases versus paired primary. a Venn diagram showing the overlapping genes between the genes essential in > 10% of breast cancer cell lines, according to the DepMap dataset [17, 21] (using CRISPR-based gene effect score < − 0.75 to call essentiality for a given gene and cell line), and the metastasis signature genes (from Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "From parts b-d, we observe that the issues involving the contribution of non-cancer cells to the differential metastasis expression profile (e.g., as highlighted in Fig. 1) are not present in the essential metastasis signatureThe set of 1581 genes higher in metastasis but for which no breast cell lines had low DepMap-based gene effect scores represented a “nonessential” metastasis signature that could serve as an interesting comparison and contrast to the essential metastasis signature of 264 genes (Figs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, in contrast to the 1581 nonessential genes, the 264 essential genes were not significantly enriched for genes lower in normal breast tissue by GTEx (Fig. 2b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, while the nonessential genes showed the above-noted association with liver biopsy site, the differential expression patterns for the 264 essential genes were much more consistent across diverse metastatic biopsy sites (Fig. 2c and d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel c",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, analysis of single cell RNA-sequencing (scRNA-seq) data from both metastatic and primary tumors showed the essential signature genes to be highly expressed as a group within the cancer epithelial cells (Supplementary Fig. 1a–c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Primary cancer cells scored moderate to high for the essential signature, though spatial transcriptomics did not reveal any clear patterns of the high metastasis signature cells as being on the invasive front of the tumor (Supplementary Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 248 essential genes represented in the compendium dataset, 182—73%—were differential expressed in metastasis versus primary tumors across the compendium (p < 0.05, paired t-test, Fig. 3a), a highly significant overlap (p < 1E−80, one-sided Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe essential metastasis signature patterns as examined in external breast cancer datasets. a For the essential metastasis genes from the BIG dataset (from Fig. 2a), heat map of differential expression in a compendium dataset of 195 breast metastases versus paired primary, representing seven individual studies [5–11].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "P-values for association of signature score with patient outcome by log-rank test and by univariate Cox, as indicated. c Similar to part b, but using the nonessential signature genes (Fig. 2b) to compute a nonessential gene signature score in primary breast tumorsResults of previous studies have suggested that the metastatic potential of human tumors is encoded within the primary tumor [25, 26].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Based on the expression patterns of primary tumors, the essential metastasis signature could stratify patients in each dataset into high-, low-, and intermediate-risk groups representing significant differences in patient outcome by Kaplan–Meier analysis (Fig. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, the nonessential metastasis signature was associated with worse breast cancer patient outcome in only one of the three primary tumor datasets (Fig. 3c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "However, in multivariate Cox models incorporating other well-known prognostic signatures [26, 30] in addition to the essential metastasis signature, the latter was found to not provide additional prognostic information in two out of three datasets (Table S1).Pathways and functional gene groups represented by the metastasis signature\nThe essential metastasis signature genes represented functional gene categories and altered pathways (Fig. 4a and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Both 20S and 26s proteasomes included several genes both higher in breast cancer expression in metastasis and essential in more than 90% of breast cancer cell lines in DepMap (Fig. 4b and Data File S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "When surveying core metabolic pathways (Fig. 4c), genes both higher in expression in metastasis and essential in one or more breast cancer cell lines included glycolysis, lipid synthesis, the Krebs cycle, the Warburg effect, and the electron transport chain.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The essential metastasis genes involving the electron transport chain spanned complexes I–V (Fig. 4c and Data Files S1 and S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Gene set enrichment patterns (by one-sided Fisher’s exact test) are represented for both essential and nonessential metastasis gene sets. c For both essential and nonessential metastasis signature genes (top and bottom, respectively), the corresponding patterns are represented involving differential expression in metastases, CRISPR-based gene effect scoring, binding 2 kb upstream for selected TFs, and differential expression in response to siRNA knockdown (GSE27869 dataset [35] involving profiling of cells after knockdown of each of 400 genes)We examined both essential and nonessential metastasis signature genes across all the above datasets, including differential expression patterns in metastasis, gene target binding for selected TFs, and differential expression patterns in response to the knockdown of selected genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The nonessential signature genes were also significantly enriched for targets of TFs, including MYC, MAX, and HCFC1, though these three TFs involved a relatively lower fraction of genes for the nonessential versus the essential signature (Fig. 5c and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, where the nonessential genes overlapped with the above TF-related and knockdown target-related patterns of interest, these genes showed a weaker association with liver biopsy site than that of the other nonessential genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figures represent biological and not technical replicates.Supplementary Information\n\nSupplementary Table 1. (80.4KB, pdf) \n\n13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Supplementary Materials\n\nSupplementary Table 1. (80.4KB, pdf) \n\n13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "A visual inspection of the differential patterns by heatmap (Fig. 1a) showed these to transcend the PAM50 intrinsic molecular subtype [18] assignments of the metastasis or primary sample, notwithstanding instances of molecular subtype switching [4, 5, 12].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Firstly, we noted that the relative intensities of the differential patterns (higher versus lower fold changes) in each metastasis sample compared to its corresponding primary pair tracked closely with the metastasis biopsy site (Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Analysis of gene expression signatures of immune cell types [20] indicated that overall levels of T cell and B cell infiltrates were statistically lower on average in metastases versus its paired primary (p < 0.01, paired t-test, Fig. 1a), though these immune cell types often appeared higher in lymph node biopsies [4, 13].An essential gene expression signature of breast cancer metastases\nWe hypothesized that a fraction of genes with differential patterns in breast cancer metastases versus paired primary would be intrinsic to cancer cells and not due to sample biopsy composition.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "To help sift through the top differential metastasis genes (Fig. 1a), we turned to the Cancer Dependency Map (DepMap) CRISPR assays [17, 21] measuring the essentiality of each gene for each of 46 breast cancer cell lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We overlapped the 2115 genes higher (p < 0.001, paired t-test) in the breast cancer metastasis signature (from Fig. 1a) with the set of 1810 genes that were essential (with gene effect score < − 0.75) in > 10% of breast cancer cell lines by DepMap.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The overlap of 264 genes between the two result sets (Fig. 2a and Data File S1) was highly statistically significant (enrichment p < 1E−29, chi-square test, chance expected overlap of 136 genes) and represented an “essential” metastasis signature as explored further below.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We observed no significant overlap between the genes lower in metastasis and genes essential by DepMap (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nAn essential gene expression signature of breast cancer metastases versus paired primary. a Venn diagram showing the overlapping genes between the genes essential in > 10% of breast cancer cell lines, according to the DepMap dataset [17, 21] (using CRISPR-based gene effect score < − 0.75 to call essentiality for a given gene and cell line), and the metastasis signature genes (from Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "From parts b-d, we observe that the issues involving the contribution of non-cancer cells to the differential metastasis expression profile (e.g., as highlighted in Fig. 1) are not present in the essential metastasis signatureThe set of 1581 genes higher in metastasis but for which no breast cell lines had low DepMap-based gene effect scores represented a “nonessential” metastasis signature that could serve as an interesting comparison and contrast to the essential metastasis signature of 264 genes (Figs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, in contrast to the 1581 nonessential genes, the 264 essential genes were not significantly enriched for genes lower in normal breast tissue by GTEx (Fig. 2b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, while the nonessential genes showed the above-noted association with liver biopsy site, the differential expression patterns for the 264 essential genes were much more consistent across diverse metastatic biopsy sites (Fig. 2c and d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel c",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, analysis of single cell RNA-sequencing (scRNA-seq) data from both metastatic and primary tumors showed the essential signature genes to be highly expressed as a group within the cancer epithelial cells (Supplementary Fig. 1a–c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Primary cancer cells scored moderate to high for the essential signature, though spatial transcriptomics did not reveal any clear patterns of the high metastasis signature cells as being on the invasive front of the tumor (Supplementary Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 248 essential genes represented in the compendium dataset, 182—73%—were differential expressed in metastasis versus primary tumors across the compendium (p < 0.05, paired t-test, Fig. 3a), a highly significant overlap (p < 1E−80, one-sided Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe essential metastasis signature patterns as examined in external breast cancer datasets. a For the essential metastasis genes from the BIG dataset (from Fig. 2a), heat map of differential expression in a compendium dataset of 195 breast metastases versus paired primary, representing seven individual studies [5–11].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "P-values for association of signature score with patient outcome by log-rank test and by univariate Cox, as indicated. c Similar to part b, but using the nonessential signature genes (Fig. 2b) to compute a nonessential gene signature score in primary breast tumorsResults of previous studies have suggested that the metastatic potential of human tumors is encoded within the primary tumor [25, 26].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Based on the expression patterns of primary tumors, the essential metastasis signature could stratify patients in each dataset into high-, low-, and intermediate-risk groups representing significant differences in patient outcome by Kaplan–Meier analysis (Fig. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, the nonessential metastasis signature was associated with worse breast cancer patient outcome in only one of the three primary tumor datasets (Fig. 3c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "However, in multivariate Cox models incorporating other well-known prognostic signatures [26, 30] in addition to the essential metastasis signature, the latter was found to not provide additional prognostic information in two out of three datasets (Table S1).Pathways and functional gene groups represented by the metastasis signature\nThe essential metastasis signature genes represented functional gene categories and altered pathways (Fig. 4a and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Both 20S and 26s proteasomes included several genes both higher in breast cancer expression in metastasis and essential in more than 90% of breast cancer cell lines in DepMap (Fig. 4b and Data File S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "When surveying core metabolic pathways (Fig. 4c), genes both higher in expression in metastasis and essential in one or more breast cancer cell lines included glycolysis, lipid synthesis, the Krebs cycle, the Warburg effect, and the electron transport chain.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The essential metastasis genes involving the electron transport chain spanned complexes I–V (Fig. 4c and Data Files S1 and S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Gene set enrichment patterns (by one-sided Fisher’s exact test) are represented for both essential and nonessential metastasis gene sets. c For both essential and nonessential metastasis signature genes (top and bottom, respectively), the corresponding patterns are represented involving differential expression in metastases, CRISPR-based gene effect scoring, binding 2 kb upstream for selected TFs, and differential expression in response to siRNA knockdown (GSE27869 dataset [35] involving profiling of cells after knockdown of each of 400 genes)We examined both essential and nonessential metastasis signature genes across all the above datasets, including differential expression patterns in metastasis, gene target binding for selected TFs, and differential expression patterns in response to the knockdown of selected genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The nonessential signature genes were also significantly enriched for targets of TFs, including MYC, MAX, and HCFC1, though these three TFs involved a relatively lower fraction of genes for the nonessential versus the essential signature (Fig. 5c and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, where the nonessential genes overlapped with the above TF-related and knockdown target-related patterns of interest, these genes showed a weaker association with liver biopsy site than that of the other nonessential genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "A visual inspection of the differential patterns by heatmap (Fig. 1a) showed these to transcend the PAM50 intrinsic molecular subtype [18] assignments of the metastasis or primary sample, notwithstanding instances of molecular subtype switching [4, 5, 12].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Firstly, we noted that the relative intensities of the differential patterns (higher versus lower fold changes) in each metastasis sample compared to its corresponding primary pair tracked closely with the metastasis biopsy site (Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Analysis of gene expression signatures of immune cell types [20] indicated that overall levels of T cell and B cell infiltrates were statistically lower on average in metastases versus its paired primary (p < 0.01, paired t-test, Fig. 1a), though these immune cell types often appeared higher in lymph node biopsies [4, 13].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "A visual inspection of the differential patterns by heatmap (Fig. 1a) showed these to transcend the PAM50 intrinsic molecular subtype [18] assignments of the metastasis or primary sample, notwithstanding instances of molecular subtype switching [4, 5, 12].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Firstly, we noted that the relative intensities of the differential patterns (higher versus lower fold changes) in each metastasis sample compared to its corresponding primary pair tracked closely with the metastasis biopsy site (Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Analysis of gene expression signatures of immune cell types [20] indicated that overall levels of T cell and B cell infiltrates were statistically lower on average in metastases versus its paired primary (p < 0.01, paired t-test, Fig. 1a), though these immune cell types often appeared higher in lymph node biopsies [4, 13].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "To help sift through the top differential metastasis genes (Fig. 1a), we turned to the Cancer Dependency Map (DepMap) CRISPR assays [17, 21] measuring the essentiality of each gene for each of 46 breast cancer cell lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We overlapped the 2115 genes higher (p < 0.001, paired t-test) in the breast cancer metastasis signature (from Fig. 1a) with the set of 1810 genes that were essential (with gene effect score < − 0.75) in > 10% of breast cancer cell lines by DepMap.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The overlap of 264 genes between the two result sets (Fig. 2a and Data File S1) was highly statistically significant (enrichment p < 1E−29, chi-square test, chance expected overlap of 136 genes) and represented an “essential” metastasis signature as explored further below.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We observed no significant overlap between the genes lower in metastasis and genes essential by DepMap (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nAn essential gene expression signature of breast cancer metastases versus paired primary. a Venn diagram showing the overlapping genes between the genes essential in > 10% of breast cancer cell lines, according to the DepMap dataset [17, 21] (using CRISPR-based gene effect score < − 0.75 to call essentiality for a given gene and cell line), and the metastasis signature genes (from Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "From parts b-d, we observe that the issues involving the contribution of non-cancer cells to the differential metastasis expression profile (e.g., as highlighted in Fig. 1) are not present in the essential metastasis signatureThe set of 1581 genes higher in metastasis but for which no breast cell lines had low DepMap-based gene effect scores represented a “nonessential” metastasis signature that could serve as an interesting comparison and contrast to the essential metastasis signature of 264 genes (Figs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, in contrast to the 1581 nonessential genes, the 264 essential genes were not significantly enriched for genes lower in normal breast tissue by GTEx (Fig. 2b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, while the nonessential genes showed the above-noted association with liver biopsy site, the differential expression patterns for the 264 essential genes were much more consistent across diverse metastatic biopsy sites (Fig. 2c and d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel c",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, analysis of single cell RNA-sequencing (scRNA-seq) data from both metastatic and primary tumors showed the essential signature genes to be highly expressed as a group within the cancer epithelial cells (Supplementary Fig. 1a–c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Primary cancer cells scored moderate to high for the essential signature, though spatial transcriptomics did not reveal any clear patterns of the high metastasis signature cells as being on the invasive front of the tumor (Supplementary Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "To help sift through the top differential metastasis genes (Fig. 1a), we turned to the Cancer Dependency Map (DepMap) CRISPR assays [17, 21] measuring the essentiality of each gene for each of 46 breast cancer cell lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We overlapped the 2115 genes higher (p < 0.001, paired t-test) in the breast cancer metastasis signature (from Fig. 1a) with the set of 1810 genes that were essential (with gene effect score < − 0.75) in > 10% of breast cancer cell lines by DepMap.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The overlap of 264 genes between the two result sets (Fig. 2a and Data File S1) was highly statistically significant (enrichment p < 1E−29, chi-square test, chance expected overlap of 136 genes) and represented an “essential” metastasis signature as explored further below.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We observed no significant overlap between the genes lower in metastasis and genes essential by DepMap (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "An essential gene expression signature of breast cancer metastases versus paired primary. a Venn diagram showing the overlapping genes between the genes essential in > 10% of breast cancer cell lines, according to the DepMap dataset [17, 21] (using CRISPR-based gene effect score < − 0.75 to call essentiality for a given gene and cell line), and the metastasis signature genes (from Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "From parts b-d, we observe that the issues involving the contribution of non-cancer cells to the differential metastasis expression profile (e.g., as highlighted in Fig. 1) are not present in the essential metastasis signature.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, in contrast to the 1581 nonessential genes, the 264 essential genes were not significantly enriched for genes lower in normal breast tissue by GTEx (Fig. 2b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, while the nonessential genes showed the above-noted association with liver biopsy site, the differential expression patterns for the 264 essential genes were much more consistent across diverse metastatic biopsy sites (Fig. 2c and d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel c",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, analysis of single cell RNA-sequencing (scRNA-seq) data from both metastatic and primary tumors showed the essential signature genes to be highly expressed as a group within the cancer epithelial cells (Supplementary Fig. 1a–c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Primary cancer cells scored moderate to high for the essential signature, though spatial transcriptomics did not reveal any clear patterns of the high metastasis signature cells as being on the invasive front of the tumor (Supplementary Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 248 essential genes represented in the compendium dataset, 182—73%—were differential expressed in metastasis versus primary tumors across the compendium (p < 0.05, paired t-test, Fig. 3a), a highly significant overlap (p < 1E−80, one-sided Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe essential metastasis signature patterns as examined in external breast cancer datasets. a For the essential metastasis genes from the BIG dataset (from Fig. 2a), heat map of differential expression in a compendium dataset of 195 breast metastases versus paired primary, representing seven individual studies [5–11].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "P-values for association of signature score with patient outcome by log-rank test and by univariate Cox, as indicated. c Similar to part b, but using the nonessential signature genes (Fig. 2b) to compute a nonessential gene signature score in primary breast tumorsResults of previous studies have suggested that the metastatic potential of human tumors is encoded within the primary tumor [25, 26].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Based on the expression patterns of primary tumors, the essential metastasis signature could stratify patients in each dataset into high-, low-, and intermediate-risk groups representing significant differences in patient outcome by Kaplan–Meier analysis (Fig. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, the nonessential metastasis signature was associated with worse breast cancer patient outcome in only one of the three primary tumor datasets (Fig. 3c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 248 essential genes represented in the compendium dataset, 182—73%—were differential expressed in metastasis versus primary tumors across the compendium (p < 0.05, paired t-test, Fig. 3a), a highly significant overlap (p < 1E−80, one-sided Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The essential metastasis signature patterns as examined in external breast cancer datasets. a For the essential metastasis genes from the BIG dataset (from Fig. 2a), heat map of differential expression in a compendium dataset of 195 breast metastases versus paired primary, representing seven individual studies [5–11].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "P-values for association of signature score with patient outcome by log-rank test and by univariate Cox, as indicated. c Similar to part b, but using the nonessential signature genes (Fig. 2b) to compute a nonessential gene signature score in primary breast tumors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Based on the expression patterns of primary tumors, the essential metastasis signature could stratify patients in each dataset into high-, low-, and intermediate-risk groups representing significant differences in patient outcome by Kaplan–Meier analysis (Fig. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, the nonessential metastasis signature was associated with worse breast cancer patient outcome in only one of the three primary tumor datasets (Fig. 3c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Pathways and functional gene groups represented by the metastasis signature\nThe essential metastasis signature genes represented functional gene categories and altered pathways (Fig. 4a and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Both 20S and 26s proteasomes included several genes both higher in breast cancer expression in metastasis and essential in more than 90% of breast cancer cell lines in DepMap (Fig. 4b and Data File S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "When surveying core metabolic pathways (Fig. 4c), genes both higher in expression in metastasis and essential in one or more breast cancer cell lines included glycolysis, lipid synthesis, the Krebs cycle, the Warburg effect, and the electron transport chain.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The essential metastasis genes involving the electron transport chain spanned complexes I–V (Fig. 4c and Data Files S1 and S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The essential metastasis signature genes represented functional gene categories and altered pathways (Fig. 4a and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Both 20S and 26s proteasomes included several genes both higher in breast cancer expression in metastasis and essential in more than 90% of breast cancer cell lines in DepMap (Fig. 4b and Data File S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "When surveying core metabolic pathways (Fig. 4c), genes both higher in expression in metastasis and essential in one or more breast cancer cell lines included glycolysis, lipid synthesis, the Krebs cycle, the Warburg effect, and the electron transport chain.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The essential metastasis genes involving the electron transport chain spanned complexes I–V (Fig. 4c and Data Files S1 and S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Gene set enrichment patterns (by one-sided Fisher’s exact test) are represented for both essential and nonessential metastasis gene sets. c For both essential and nonessential metastasis signature genes (top and bottom, respectively), the corresponding patterns are represented involving differential expression in metastases, CRISPR-based gene effect scoring, binding 2 kb upstream for selected TFs, and differential expression in response to siRNA knockdown (GSE27869 dataset [35] involving profiling of cells after knockdown of each of 400 genes)We examined both essential and nonessential metastasis signature genes across all the above datasets, including differential expression patterns in metastasis, gene target binding for selected TFs, and differential expression patterns in response to the knockdown of selected genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The nonessential signature genes were also significantly enriched for targets of TFs, including MYC, MAX, and HCFC1, though these three TFs involved a relatively lower fraction of genes for the nonessential versus the essential signature (Fig. 5c and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, where the nonessential genes overlapped with the above TF-related and knockdown target-related patterns of interest, these genes showed a weaker association with liver biopsy site than that of the other nonessential genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We examined both essential and nonessential metastasis signature genes across all the above datasets, including differential expression patterns in metastasis, gene target binding for selected TFs, and differential expression patterns in response to the knockdown of selected genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The nonessential signature genes were also significantly enriched for targets of TFs, including MYC, MAX, and HCFC1, though these three TFs involved a relatively lower fraction of genes for the nonessential versus the essential signature (Fig. 5c and Data File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, where the nonessential genes overlapped with the above TF-related and knockdown target-related patterns of interest, these genes showed a weaker association with liver biopsy site than that of the other nonessential genes (Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Supplementary Information\n\nSupplementary Table 1. (80.4KB, pdf) \n\n13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Supplementary Materials\n\nSupplementary Table 1. (80.4KB, pdf) \n\n13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Supplementary Materials\n\nSupplementary Table 1. (80.4KB, pdf) \n\n13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "13058_2024_1855_MOESM2_ESM.docx (1.3MB, docx) Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Supplementary Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the same time, epithelial cells in the MBC have the highest levels of the nonessential signature, where many bona fide metastasis-intrinsic genes could still be present in the nonessential signature (while being enriched for non-specific genes, e.g., as suggested by Fig. 5c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      }
+    ]
+  }
+]

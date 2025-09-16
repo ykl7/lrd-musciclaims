@@ -1,0 +1,4027 @@
+[
+  {
+    "sentence": "We used the R package dndscv to calculate the ratio of observed to expected nonsynonymous variants per synonymous variant in a regression model using both local and global mutation rates as covariates.16Results\nClonal hematopoiesis in 42 714 patients with nonhematologic malignancies\nWe assessed variants in at least 341 genes in MSK IMPACT sequencing for 42 714 patients, of whom 39 510 were alive with no hematologic diagnosis within 2 weeks and had medical record follow up beyond this time (Figure 1A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "A total of 11 735 patients had at least 1 conventional CH variant in a cancer-related gene (29.7%), including 3871 with ≥2 variants (supplemental Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The most common CH mutations were in DNMT3A, TET2, and ASXL1 as well as genes related to DNA damage response, including PPM1D, CHEK2, and TP53 (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We also identified mosaic copy number changes in 675 patients (1.9%) out of 35 134 evaluable among the cohort (Figure 1C; supplemental Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs and P values were calculated using a multivariate competing risk regression, adjusting for age, gender, and cancer type.The fraction of patients with CH correlated strongly with age with little variation by cancer diagnosis (Figure 1D; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "CH incidence was similar across patients exposed to different drug mechanisms (Figure 1E; supplemental Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel E",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Complete blood counts within 14 days of sequencing were available for most patients (33 114) (Figure 1F; supplemental Figure 4; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel F",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Nonetheless, CH was strongly associated with increased risk of hematologic malignancy (HR = 1.93; 95% confidence interval [CI], 1.45-2.57; P < .001; Figure 1G) and of death (HR, 1.11; 95% CI, 1.07-1.15; P ≤ .001; Figure 1H) in multivariate regressions modeling competing risk of the other outcome and adjusting for age, cancer diagnosis, and gender.Identification of CH genotypes associated with high risk of hematologic malignancy\nTo identify the CH genotypes associated with highest risk of progression we considered CH variants implicated in prior studies (CH-PD2 and M-CHIP/L-CHIP28) and/or observed in at least 40 patients in this cohort (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel G",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel H",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nine genotypes were associated with a significantly increased rate of hematologic malignancy using a false discovery rate threshold of 0.1 (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs for MCAs were calculated using the same models described earlier.We, next, evaluated mosaic chromosome alterations using the same risk model to define their association with hematologic malignancy in this cohort (Figure 2C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Mosaic chromosome alterations involving 5/7/17 are also associated with a high risk of hematologic malignancy and deserve attention similar to high-risk gene mutations.Characteristics of hematologic malignancies predicted by CH\nWe, then, evaluated the ability of CH to detect hematologic malignancy disease subsets (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "CH was identified in approximately half of the number of patients who went on to develop either myeloid malignancies (36 of 70 patients) or lymphoid malignancies (70 of 133 patients; supplemental Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "CH occurred before 81 of 136 (59.6%) of chronic hematologic malignancies and 26 of 66 (39.4%) of acute malignancies (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Patients with CH had a significantly increased risk of chronic hematologic malignancies (HR = 3.3; 95% CI, 2.36-4.6; P < .001) but not acute hematologic malignancies (HR = 1.49; 95% CI, 0.93-2.39; P = .10; Figure 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These results suggest that length bias should be considered when the predictive use of CH is evaluated.Relationship between clonal selection and risk of hematologic malignancy\nSomatic mutation acquisition in human tissues can be modeled as an evolutionary process driven by acquisition of mutations under positive selection.12 Using this perspective, the enrichment of dN/dS is a common manner in which driver mutations are defined.20,21,37,38 To understand selective forces in our cohort, we calculated genomic context-corrected dN/dS (dNdScv) and plotted HR for hematologic malignancy as a function of dNdScv (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Gene-specific HRs for hematologic neoplasm (as calculated in Figure 2) are plotted as a function of context-corrected nonsynonymous mutation enrichment (dNdScv).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "High-risk CH genotypes identified in Figure 2 are labeled in red, whereas other selected genotypes are labeled in blue.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To this end we identified a set of “silent CH” variants combining synonymous mutations in protein-coding regions and nonsplice site mutations in noncoding regions (Figure 5A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The largest categories of silent CH variants in our data set were synonymous variants in coding regions (2247; 28.7%) and variants in introns (5021; 64.2%; Figure 5B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Silent CH was enriched in older patients, similar to conventional CH (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Additionally, the 2 groups had similar distributions of variant allele fractions (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Both conventional and silent CH were dominated by single nucleotide transversions with a similar distribution of nucleotide changes, with the major difference being that complex DNA changes were less common in silent CH (Figure 5E; Pearson r = 0.95 correlating number of mutations observed in 7 categories including the 6 types of single nucleotide changes and complex changes).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Although any DNA mutation has potential to alter cellular fitness, we observed few recurrent silent CH mutations compared with conventional CH mutations (Figure 5F), arguing against widespread selective influence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs and P values were calculated using a multivariate competing risk regression, adjusting for age, gender, and cancer type.We measured the HR for hematologic malignancy in patients with silent CH (Figure 5G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast to conventional CH, silent CH was not strongly associated with mortality in our cohort (supplemental Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We visualized the clonal trajectory of each recurrent variant from CH assessment to disease (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Vector origins at time zero show CH VAF in blood, and vector termini show VAF in the bone marrow at time of hematologic disease characterization.We next divided the full variant set based on disease category and conventional vs silent CH type (supplemental Figure 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "We used the R package dndscv to calculate the ratio of observed to expected nonsynonymous variants per synonymous variant in a regression model using both local and global mutation rates as covariates.16Results\nClonal hematopoiesis in 42 714 patients with nonhematologic malignancies\nWe assessed variants in at least 341 genes in MSK IMPACT sequencing for 42 714 patients, of whom 39 510 were alive with no hematologic diagnosis within 2 weeks and had medical record follow up beyond this time (Figure 1A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "A total of 11 735 patients had at least 1 conventional CH variant in a cancer-related gene (29.7%), including 3871 with ≥2 variants (supplemental Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The most common CH mutations were in DNMT3A, TET2, and ASXL1 as well as genes related to DNA damage response, including PPM1D, CHEK2, and TP53 (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We also identified mosaic copy number changes in 675 patients (1.9%) out of 35 134 evaluable among the cohort (Figure 1C; supplemental Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs and P values were calculated using a multivariate competing risk regression, adjusting for age, gender, and cancer type.The fraction of patients with CH correlated strongly with age with little variation by cancer diagnosis (Figure 1D; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "CH incidence was similar across patients exposed to different drug mechanisms (Figure 1E; supplemental Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel E",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Complete blood counts within 14 days of sequencing were available for most patients (33 114) (Figure 1F; supplemental Figure 4; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel F",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Nonetheless, CH was strongly associated with increased risk of hematologic malignancy (HR = 1.93; 95% confidence interval [CI], 1.45-2.57; P < .001; Figure 1G) and of death (HR, 1.11; 95% CI, 1.07-1.15; P ≤ .001; Figure 1H) in multivariate regressions modeling competing risk of the other outcome and adjusting for age, cancer diagnosis, and gender.Identification of CH genotypes associated with high risk of hematologic malignancy\nTo identify the CH genotypes associated with highest risk of progression we considered CH variants implicated in prior studies (CH-PD2 and M-CHIP/L-CHIP28) and/or observed in at least 40 patients in this cohort (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel G",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel H",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nine genotypes were associated with a significantly increased rate of hematologic malignancy using a false discovery rate threshold of 0.1 (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs for MCAs were calculated using the same models described earlier.We, next, evaluated mosaic chromosome alterations using the same risk model to define their association with hematologic malignancy in this cohort (Figure 2C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Mosaic chromosome alterations involving 5/7/17 are also associated with a high risk of hematologic malignancy and deserve attention similar to high-risk gene mutations.Characteristics of hematologic malignancies predicted by CH\nWe, then, evaluated the ability of CH to detect hematologic malignancy disease subsets (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "CH was identified in approximately half of the number of patients who went on to develop either myeloid malignancies (36 of 70 patients) or lymphoid malignancies (70 of 133 patients; supplemental Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "CH occurred before 81 of 136 (59.6%) of chronic hematologic malignancies and 26 of 66 (39.4%) of acute malignancies (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Patients with CH had a significantly increased risk of chronic hematologic malignancies (HR = 3.3; 95% CI, 2.36-4.6; P < .001) but not acute hematologic malignancies (HR = 1.49; 95% CI, 0.93-2.39; P = .10; Figure 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These results suggest that length bias should be considered when the predictive use of CH is evaluated.Relationship between clonal selection and risk of hematologic malignancy\nSomatic mutation acquisition in human tissues can be modeled as an evolutionary process driven by acquisition of mutations under positive selection.12 Using this perspective, the enrichment of dN/dS is a common manner in which driver mutations are defined.20,21,37,38 To understand selective forces in our cohort, we calculated genomic context-corrected dN/dS (dNdScv) and plotted HR for hematologic malignancy as a function of dNdScv (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Gene-specific HRs for hematologic neoplasm (as calculated in Figure 2) are plotted as a function of context-corrected nonsynonymous mutation enrichment (dNdScv).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "High-risk CH genotypes identified in Figure 2 are labeled in red, whereas other selected genotypes are labeled in blue.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To this end we identified a set of “silent CH” variants combining synonymous mutations in protein-coding regions and nonsplice site mutations in noncoding regions (Figure 5A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The largest categories of silent CH variants in our data set were synonymous variants in coding regions (2247; 28.7%) and variants in introns (5021; 64.2%; Figure 5B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Silent CH was enriched in older patients, similar to conventional CH (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Additionally, the 2 groups had similar distributions of variant allele fractions (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Both conventional and silent CH were dominated by single nucleotide transversions with a similar distribution of nucleotide changes, with the major difference being that complex DNA changes were less common in silent CH (Figure 5E; Pearson r = 0.95 correlating number of mutations observed in 7 categories including the 6 types of single nucleotide changes and complex changes).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Although any DNA mutation has potential to alter cellular fitness, we observed few recurrent silent CH mutations compared with conventional CH mutations (Figure 5F), arguing against widespread selective influence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs and P values were calculated using a multivariate competing risk regression, adjusting for age, gender, and cancer type.We measured the HR for hematologic malignancy in patients with silent CH (Figure 5G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast to conventional CH, silent CH was not strongly associated with mortality in our cohort (supplemental Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We visualized the clonal trajectory of each recurrent variant from CH assessment to disease (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Vector origins at time zero show CH VAF in blood, and vector termini show VAF in the bone marrow at time of hematologic disease characterization.We next divided the full variant set based on disease category and conventional vs silent CH type (supplemental Figure 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "We used the R package dndscv to calculate the ratio of observed to expected nonsynonymous variants per synonymous variant in a regression model using both local and global mutation rates as covariates.16Results\nClonal hematopoiesis in 42 714 patients with nonhematologic malignancies\nWe assessed variants in at least 341 genes in MSK IMPACT sequencing for 42 714 patients, of whom 39 510 were alive with no hematologic diagnosis within 2 weeks and had medical record follow up beyond this time (Figure 1A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "A total of 11 735 patients had at least 1 conventional CH variant in a cancer-related gene (29.7%), including 3871 with ≥2 variants (supplemental Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The most common CH mutations were in DNMT3A, TET2, and ASXL1 as well as genes related to DNA damage response, including PPM1D, CHEK2, and TP53 (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We also identified mosaic copy number changes in 675 patients (1.9%) out of 35 134 evaluable among the cohort (Figure 1C; supplemental Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs and P values were calculated using a multivariate competing risk regression, adjusting for age, gender, and cancer type.The fraction of patients with CH correlated strongly with age with little variation by cancer diagnosis (Figure 1D; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "CH incidence was similar across patients exposed to different drug mechanisms (Figure 1E; supplemental Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel E",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Complete blood counts within 14 days of sequencing were available for most patients (33 114) (Figure 1F; supplemental Figure 4; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel F",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Nonetheless, CH was strongly associated with increased risk of hematologic malignancy (HR = 1.93; 95% confidence interval [CI], 1.45-2.57; P < .001; Figure 1G) and of death (HR, 1.11; 95% CI, 1.07-1.15; P ≤ .001; Figure 1H) in multivariate regressions modeling competing risk of the other outcome and adjusting for age, cancer diagnosis, and gender.Identification of CH genotypes associated with high risk of hematologic malignancy\nTo identify the CH genotypes associated with highest risk of progression we considered CH variants implicated in prior studies (CH-PD2 and M-CHIP/L-CHIP28) and/or observed in at least 40 patients in this cohort (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel G",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel H",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nine genotypes were associated with a significantly increased rate of hematologic malignancy using a false discovery rate threshold of 0.1 (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs for MCAs were calculated using the same models described earlier.We, next, evaluated mosaic chromosome alterations using the same risk model to define their association with hematologic malignancy in this cohort (Figure 2C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Mosaic chromosome alterations involving 5/7/17 are also associated with a high risk of hematologic malignancy and deserve attention similar to high-risk gene mutations.Characteristics of hematologic malignancies predicted by CH\nWe, then, evaluated the ability of CH to detect hematologic malignancy disease subsets (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "CH was identified in approximately half of the number of patients who went on to develop either myeloid malignancies (36 of 70 patients) or lymphoid malignancies (70 of 133 patients; supplemental Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "CH occurred before 81 of 136 (59.6%) of chronic hematologic malignancies and 26 of 66 (39.4%) of acute malignancies (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Patients with CH had a significantly increased risk of chronic hematologic malignancies (HR = 3.3; 95% CI, 2.36-4.6; P < .001) but not acute hematologic malignancies (HR = 1.49; 95% CI, 0.93-2.39; P = .10; Figure 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These results suggest that length bias should be considered when the predictive use of CH is evaluated.Relationship between clonal selection and risk of hematologic malignancy\nSomatic mutation acquisition in human tissues can be modeled as an evolutionary process driven by acquisition of mutations under positive selection.12 Using this perspective, the enrichment of dN/dS is a common manner in which driver mutations are defined.20,21,37,38 To understand selective forces in our cohort, we calculated genomic context-corrected dN/dS (dNdScv) and plotted HR for hematologic malignancy as a function of dNdScv (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Gene-specific HRs for hematologic neoplasm (as calculated in Figure 2) are plotted as a function of context-corrected nonsynonymous mutation enrichment (dNdScv).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "High-risk CH genotypes identified in Figure 2 are labeled in red, whereas other selected genotypes are labeled in blue.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To this end we identified a set of “silent CH” variants combining synonymous mutations in protein-coding regions and nonsplice site mutations in noncoding regions (Figure 5A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The largest categories of silent CH variants in our data set were synonymous variants in coding regions (2247; 28.7%) and variants in introns (5021; 64.2%; Figure 5B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Silent CH was enriched in older patients, similar to conventional CH (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Additionally, the 2 groups had similar distributions of variant allele fractions (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Both conventional and silent CH were dominated by single nucleotide transversions with a similar distribution of nucleotide changes, with the major difference being that complex DNA changes were less common in silent CH (Figure 5E; Pearson r = 0.95 correlating number of mutations observed in 7 categories including the 6 types of single nucleotide changes and complex changes).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Although any DNA mutation has potential to alter cellular fitness, we observed few recurrent silent CH mutations compared with conventional CH mutations (Figure 5F), arguing against widespread selective influence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs and P values were calculated using a multivariate competing risk regression, adjusting for age, gender, and cancer type.We measured the HR for hematologic malignancy in patients with silent CH (Figure 5G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast to conventional CH, silent CH was not strongly associated with mortality in our cohort (supplemental Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We visualized the clonal trajectory of each recurrent variant from CH assessment to disease (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Vector origins at time zero show CH VAF in blood, and vector termini show VAF in the bone marrow at time of hematologic disease characterization.We next divided the full variant set based on disease category and conventional vs silent CH type (supplemental Figure 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "We used the R package dndscv to calculate the ratio of observed to expected nonsynonymous variants per synonymous variant in a regression model using both local and global mutation rates as covariates.16Results\nClonal hematopoiesis in 42 714 patients with nonhematologic malignancies\nWe assessed variants in at least 341 genes in MSK IMPACT sequencing for 42 714 patients, of whom 39 510 were alive with no hematologic diagnosis within 2 weeks and had medical record follow up beyond this time (Figure 1A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "A total of 11 735 patients had at least 1 conventional CH variant in a cancer-related gene (29.7%), including 3871 with ≥2 variants (supplemental Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The most common CH mutations were in DNMT3A, TET2, and ASXL1 as well as genes related to DNA damage response, including PPM1D, CHEK2, and TP53 (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We also identified mosaic copy number changes in 675 patients (1.9%) out of 35 134 evaluable among the cohort (Figure 1C; supplemental Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs and P values were calculated using a multivariate competing risk regression, adjusting for age, gender, and cancer type.The fraction of patients with CH correlated strongly with age with little variation by cancer diagnosis (Figure 1D; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "CH incidence was similar across patients exposed to different drug mechanisms (Figure 1E; supplemental Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel E",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Complete blood counts within 14 days of sequencing were available for most patients (33 114) (Figure 1F; supplemental Figure 4; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel F",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Nonetheless, CH was strongly associated with increased risk of hematologic malignancy (HR = 1.93; 95% confidence interval [CI], 1.45-2.57; P < .001; Figure 1G) and of death (HR, 1.11; 95% CI, 1.07-1.15; P ≤ .001; Figure 1H) in multivariate regressions modeling competing risk of the other outcome and adjusting for age, cancer diagnosis, and gender.Identification of CH genotypes associated with high risk of hematologic malignancy\nTo identify the CH genotypes associated with highest risk of progression we considered CH variants implicated in prior studies (CH-PD2 and M-CHIP/L-CHIP28) and/or observed in at least 40 patients in this cohort (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel G",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel H",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nine genotypes were associated with a significantly increased rate of hematologic malignancy using a false discovery rate threshold of 0.1 (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs for MCAs were calculated using the same models described earlier.We, next, evaluated mosaic chromosome alterations using the same risk model to define their association with hematologic malignancy in this cohort (Figure 2C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Mosaic chromosome alterations involving 5/7/17 are also associated with a high risk of hematologic malignancy and deserve attention similar to high-risk gene mutations.Characteristics of hematologic malignancies predicted by CH\nWe, then, evaluated the ability of CH to detect hematologic malignancy disease subsets (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "CH was identified in approximately half of the number of patients who went on to develop either myeloid malignancies (36 of 70 patients) or lymphoid malignancies (70 of 133 patients; supplemental Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "CH occurred before 81 of 136 (59.6%) of chronic hematologic malignancies and 26 of 66 (39.4%) of acute malignancies (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Patients with CH had a significantly increased risk of chronic hematologic malignancies (HR = 3.3; 95% CI, 2.36-4.6; P < .001) but not acute hematologic malignancies (HR = 1.49; 95% CI, 0.93-2.39; P = .10; Figure 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These results suggest that length bias should be considered when the predictive use of CH is evaluated.Relationship between clonal selection and risk of hematologic malignancy\nSomatic mutation acquisition in human tissues can be modeled as an evolutionary process driven by acquisition of mutations under positive selection.12 Using this perspective, the enrichment of dN/dS is a common manner in which driver mutations are defined.20,21,37,38 To understand selective forces in our cohort, we calculated genomic context-corrected dN/dS (dNdScv) and plotted HR for hematologic malignancy as a function of dNdScv (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Gene-specific HRs for hematologic neoplasm (as calculated in Figure 2) are plotted as a function of context-corrected nonsynonymous mutation enrichment (dNdScv).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "High-risk CH genotypes identified in Figure 2 are labeled in red, whereas other selected genotypes are labeled in blue.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To this end we identified a set of “silent CH” variants combining synonymous mutations in protein-coding regions and nonsplice site mutations in noncoding regions (Figure 5A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The largest categories of silent CH variants in our data set were synonymous variants in coding regions (2247; 28.7%) and variants in introns (5021; 64.2%; Figure 5B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Silent CH was enriched in older patients, similar to conventional CH (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Additionally, the 2 groups had similar distributions of variant allele fractions (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Both conventional and silent CH were dominated by single nucleotide transversions with a similar distribution of nucleotide changes, with the major difference being that complex DNA changes were less common in silent CH (Figure 5E; Pearson r = 0.95 correlating number of mutations observed in 7 categories including the 6 types of single nucleotide changes and complex changes).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Although any DNA mutation has potential to alter cellular fitness, we observed few recurrent silent CH mutations compared with conventional CH mutations (Figure 5F), arguing against widespread selective influence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs and P values were calculated using a multivariate competing risk regression, adjusting for age, gender, and cancer type.We measured the HR for hematologic malignancy in patients with silent CH (Figure 5G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast to conventional CH, silent CH was not strongly associated with mortality in our cohort (supplemental Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We visualized the clonal trajectory of each recurrent variant from CH assessment to disease (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Vector origins at time zero show CH VAF in blood, and vector termini show VAF in the bone marrow at time of hematologic disease characterization.We next divided the full variant set based on disease category and conventional vs silent CH type (supplemental Figure 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "We used the R package dndscv to calculate the ratio of observed to expected nonsynonymous variants per synonymous variant in a regression model using both local and global mutation rates as covariates.16Results\nClonal hematopoiesis in 42 714 patients with nonhematologic malignancies\nWe assessed variants in at least 341 genes in MSK IMPACT sequencing for 42 714 patients, of whom 39 510 were alive with no hematologic diagnosis within 2 weeks and had medical record follow up beyond this time (Figure 1A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "A total of 11 735 patients had at least 1 conventional CH variant in a cancer-related gene (29.7%), including 3871 with ≥2 variants (supplemental Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The most common CH mutations were in DNMT3A, TET2, and ASXL1 as well as genes related to DNA damage response, including PPM1D, CHEK2, and TP53 (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We also identified mosaic copy number changes in 675 patients (1.9%) out of 35 134 evaluable among the cohort (Figure 1C; supplemental Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs and P values were calculated using a multivariate competing risk regression, adjusting for age, gender, and cancer type.The fraction of patients with CH correlated strongly with age with little variation by cancer diagnosis (Figure 1D; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "CH incidence was similar across patients exposed to different drug mechanisms (Figure 1E; supplemental Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel E",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Complete blood counts within 14 days of sequencing were available for most patients (33 114) (Figure 1F; supplemental Figure 4; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel F",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Nonetheless, CH was strongly associated with increased risk of hematologic malignancy (HR = 1.93; 95% confidence interval [CI], 1.45-2.57; P < .001; Figure 1G) and of death (HR, 1.11; 95% CI, 1.07-1.15; P ≤ .001; Figure 1H) in multivariate regressions modeling competing risk of the other outcome and adjusting for age, cancer diagnosis, and gender.Identification of CH genotypes associated with high risk of hematologic malignancy\nTo identify the CH genotypes associated with highest risk of progression we considered CH variants implicated in prior studies (CH-PD2 and M-CHIP/L-CHIP28) and/or observed in at least 40 patients in this cohort (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel G",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel H",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nine genotypes were associated with a significantly increased rate of hematologic malignancy using a false discovery rate threshold of 0.1 (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs for MCAs were calculated using the same models described earlier.We, next, evaluated mosaic chromosome alterations using the same risk model to define their association with hematologic malignancy in this cohort (Figure 2C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Mosaic chromosome alterations involving 5/7/17 are also associated with a high risk of hematologic malignancy and deserve attention similar to high-risk gene mutations.Characteristics of hematologic malignancies predicted by CH\nWe, then, evaluated the ability of CH to detect hematologic malignancy disease subsets (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "CH was identified in approximately half of the number of patients who went on to develop either myeloid malignancies (36 of 70 patients) or lymphoid malignancies (70 of 133 patients; supplemental Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "CH occurred before 81 of 136 (59.6%) of chronic hematologic malignancies and 26 of 66 (39.4%) of acute malignancies (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Patients with CH had a significantly increased risk of chronic hematologic malignancies (HR = 3.3; 95% CI, 2.36-4.6; P < .001) but not acute hematologic malignancies (HR = 1.49; 95% CI, 0.93-2.39; P = .10; Figure 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These results suggest that length bias should be considered when the predictive use of CH is evaluated.Relationship between clonal selection and risk of hematologic malignancy\nSomatic mutation acquisition in human tissues can be modeled as an evolutionary process driven by acquisition of mutations under positive selection.12 Using this perspective, the enrichment of dN/dS is a common manner in which driver mutations are defined.20,21,37,38 To understand selective forces in our cohort, we calculated genomic context-corrected dN/dS (dNdScv) and plotted HR for hematologic malignancy as a function of dNdScv (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Gene-specific HRs for hematologic neoplasm (as calculated in Figure 2) are plotted as a function of context-corrected nonsynonymous mutation enrichment (dNdScv).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "High-risk CH genotypes identified in Figure 2 are labeled in red, whereas other selected genotypes are labeled in blue.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To this end we identified a set of “silent CH” variants combining synonymous mutations in protein-coding regions and nonsplice site mutations in noncoding regions (Figure 5A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The largest categories of silent CH variants in our data set were synonymous variants in coding regions (2247; 28.7%) and variants in introns (5021; 64.2%; Figure 5B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Silent CH was enriched in older patients, similar to conventional CH (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Additionally, the 2 groups had similar distributions of variant allele fractions (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Both conventional and silent CH were dominated by single nucleotide transversions with a similar distribution of nucleotide changes, with the major difference being that complex DNA changes were less common in silent CH (Figure 5E; Pearson r = 0.95 correlating number of mutations observed in 7 categories including the 6 types of single nucleotide changes and complex changes).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Although any DNA mutation has potential to alter cellular fitness, we observed few recurrent silent CH mutations compared with conventional CH mutations (Figure 5F), arguing against widespread selective influence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs and P values were calculated using a multivariate competing risk regression, adjusting for age, gender, and cancer type.We measured the HR for hematologic malignancy in patients with silent CH (Figure 5G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast to conventional CH, silent CH was not strongly associated with mortality in our cohort (supplemental Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We visualized the clonal trajectory of each recurrent variant from CH assessment to disease (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Vector origins at time zero show CH VAF in blood, and vector termini show VAF in the bone marrow at time of hematologic disease characterization.We next divided the full variant set based on disease category and conventional vs silent CH type (supplemental Figure 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "We used the R package dndscv to calculate the ratio of observed to expected nonsynonymous variants per synonymous variant in a regression model using both local and global mutation rates as covariates.16Results\nClonal hematopoiesis in 42 714 patients with nonhematologic malignancies\nWe assessed variants in at least 341 genes in MSK IMPACT sequencing for 42 714 patients, of whom 39 510 were alive with no hematologic diagnosis within 2 weeks and had medical record follow up beyond this time (Figure 1A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "A total of 11 735 patients had at least 1 conventional CH variant in a cancer-related gene (29.7%), including 3871 with ≥2 variants (supplemental Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The most common CH mutations were in DNMT3A, TET2, and ASXL1 as well as genes related to DNA damage response, including PPM1D, CHEK2, and TP53 (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We also identified mosaic copy number changes in 675 patients (1.9%) out of 35 134 evaluable among the cohort (Figure 1C; supplemental Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs and P values were calculated using a multivariate competing risk regression, adjusting for age, gender, and cancer type.The fraction of patients with CH correlated strongly with age with little variation by cancer diagnosis (Figure 1D; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "CH incidence was similar across patients exposed to different drug mechanisms (Figure 1E; supplemental Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel E",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Complete blood counts within 14 days of sequencing were available for most patients (33 114) (Figure 1F; supplemental Figure 4; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel F",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Nonetheless, CH was strongly associated with increased risk of hematologic malignancy (HR = 1.93; 95% confidence interval [CI], 1.45-2.57; P < .001; Figure 1G) and of death (HR, 1.11; 95% CI, 1.07-1.15; P ≤ .001; Figure 1H) in multivariate regressions modeling competing risk of the other outcome and adjusting for age, cancer diagnosis, and gender.Identification of CH genotypes associated with high risk of hematologic malignancy\nTo identify the CH genotypes associated with highest risk of progression we considered CH variants implicated in prior studies (CH-PD2 and M-CHIP/L-CHIP28) and/or observed in at least 40 patients in this cohort (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel G",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel H",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nine genotypes were associated with a significantly increased rate of hematologic malignancy using a false discovery rate threshold of 0.1 (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs for MCAs were calculated using the same models described earlier.We, next, evaluated mosaic chromosome alterations using the same risk model to define their association with hematologic malignancy in this cohort (Figure 2C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Mosaic chromosome alterations involving 5/7/17 are also associated with a high risk of hematologic malignancy and deserve attention similar to high-risk gene mutations.Characteristics of hematologic malignancies predicted by CH\nWe, then, evaluated the ability of CH to detect hematologic malignancy disease subsets (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "CH was identified in approximately half of the number of patients who went on to develop either myeloid malignancies (36 of 70 patients) or lymphoid malignancies (70 of 133 patients; supplemental Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "CH occurred before 81 of 136 (59.6%) of chronic hematologic malignancies and 26 of 66 (39.4%) of acute malignancies (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Patients with CH had a significantly increased risk of chronic hematologic malignancies (HR = 3.3; 95% CI, 2.36-4.6; P < .001) but not acute hematologic malignancies (HR = 1.49; 95% CI, 0.93-2.39; P = .10; Figure 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These results suggest that length bias should be considered when the predictive use of CH is evaluated.Relationship between clonal selection and risk of hematologic malignancy\nSomatic mutation acquisition in human tissues can be modeled as an evolutionary process driven by acquisition of mutations under positive selection.12 Using this perspective, the enrichment of dN/dS is a common manner in which driver mutations are defined.20,21,37,38 To understand selective forces in our cohort, we calculated genomic context-corrected dN/dS (dNdScv) and plotted HR for hematologic malignancy as a function of dNdScv (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Gene-specific HRs for hematologic neoplasm (as calculated in Figure 2) are plotted as a function of context-corrected nonsynonymous mutation enrichment (dNdScv).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "High-risk CH genotypes identified in Figure 2 are labeled in red, whereas other selected genotypes are labeled in blue.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To this end we identified a set of “silent CH” variants combining synonymous mutations in protein-coding regions and nonsplice site mutations in noncoding regions (Figure 5A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The largest categories of silent CH variants in our data set were synonymous variants in coding regions (2247; 28.7%) and variants in introns (5021; 64.2%; Figure 5B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Silent CH was enriched in older patients, similar to conventional CH (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Additionally, the 2 groups had similar distributions of variant allele fractions (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Both conventional and silent CH were dominated by single nucleotide transversions with a similar distribution of nucleotide changes, with the major difference being that complex DNA changes were less common in silent CH (Figure 5E; Pearson r = 0.95 correlating number of mutations observed in 7 categories including the 6 types of single nucleotide changes and complex changes).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Although any DNA mutation has potential to alter cellular fitness, we observed few recurrent silent CH mutations compared with conventional CH mutations (Figure 5F), arguing against widespread selective influence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs and P values were calculated using a multivariate competing risk regression, adjusting for age, gender, and cancer type.We measured the HR for hematologic malignancy in patients with silent CH (Figure 5G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast to conventional CH, silent CH was not strongly associated with mortality in our cohort (supplemental Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We visualized the clonal trajectory of each recurrent variant from CH assessment to disease (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Vector origins at time zero show CH VAF in blood, and vector termini show VAF in the bone marrow at time of hematologic disease characterization.We next divided the full variant set based on disease category and conventional vs silent CH type (supplemental Figure 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "We used the R package dndscv to calculate the ratio of observed to expected nonsynonymous variants per synonymous variant in a regression model using both local and global mutation rates as covariates.16Results\nClonal hematopoiesis in 42 714 patients with nonhematologic malignancies\nWe assessed variants in at least 341 genes in MSK IMPACT sequencing for 42 714 patients, of whom 39 510 were alive with no hematologic diagnosis within 2 weeks and had medical record follow up beyond this time (Figure 1A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "A total of 11 735 patients had at least 1 conventional CH variant in a cancer-related gene (29.7%), including 3871 with ≥2 variants (supplemental Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The most common CH mutations were in DNMT3A, TET2, and ASXL1 as well as genes related to DNA damage response, including PPM1D, CHEK2, and TP53 (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We also identified mosaic copy number changes in 675 patients (1.9%) out of 35 134 evaluable among the cohort (Figure 1C; supplemental Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs and P values were calculated using a multivariate competing risk regression, adjusting for age, gender, and cancer type.The fraction of patients with CH correlated strongly with age with little variation by cancer diagnosis (Figure 1D; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "CH incidence was similar across patients exposed to different drug mechanisms (Figure 1E; supplemental Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel E",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Complete blood counts within 14 days of sequencing were available for most patients (33 114) (Figure 1F; supplemental Figure 4; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel F",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Nonetheless, CH was strongly associated with increased risk of hematologic malignancy (HR = 1.93; 95% confidence interval [CI], 1.45-2.57; P < .001; Figure 1G) and of death (HR, 1.11; 95% CI, 1.07-1.15; P ≤ .001; Figure 1H) in multivariate regressions modeling competing risk of the other outcome and adjusting for age, cancer diagnosis, and gender.Identification of CH genotypes associated with high risk of hematologic malignancy\nTo identify the CH genotypes associated with highest risk of progression we considered CH variants implicated in prior studies (CH-PD2 and M-CHIP/L-CHIP28) and/or observed in at least 40 patients in this cohort (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel G",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel H",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nine genotypes were associated with a significantly increased rate of hematologic malignancy using a false discovery rate threshold of 0.1 (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs for MCAs were calculated using the same models described earlier.We, next, evaluated mosaic chromosome alterations using the same risk model to define their association with hematologic malignancy in this cohort (Figure 2C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Mosaic chromosome alterations involving 5/7/17 are also associated with a high risk of hematologic malignancy and deserve attention similar to high-risk gene mutations.Characteristics of hematologic malignancies predicted by CH\nWe, then, evaluated the ability of CH to detect hematologic malignancy disease subsets (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "CH was identified in approximately half of the number of patients who went on to develop either myeloid malignancies (36 of 70 patients) or lymphoid malignancies (70 of 133 patients; supplemental Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "CH occurred before 81 of 136 (59.6%) of chronic hematologic malignancies and 26 of 66 (39.4%) of acute malignancies (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Patients with CH had a significantly increased risk of chronic hematologic malignancies (HR = 3.3; 95% CI, 2.36-4.6; P < .001) but not acute hematologic malignancies (HR = 1.49; 95% CI, 0.93-2.39; P = .10; Figure 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These results suggest that length bias should be considered when the predictive use of CH is evaluated.Relationship between clonal selection and risk of hematologic malignancy\nSomatic mutation acquisition in human tissues can be modeled as an evolutionary process driven by acquisition of mutations under positive selection.12 Using this perspective, the enrichment of dN/dS is a common manner in which driver mutations are defined.20,21,37,38 To understand selective forces in our cohort, we calculated genomic context-corrected dN/dS (dNdScv) and plotted HR for hematologic malignancy as a function of dNdScv (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Gene-specific HRs for hematologic neoplasm (as calculated in Figure 2) are plotted as a function of context-corrected nonsynonymous mutation enrichment (dNdScv).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "High-risk CH genotypes identified in Figure 2 are labeled in red, whereas other selected genotypes are labeled in blue.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To this end we identified a set of “silent CH” variants combining synonymous mutations in protein-coding regions and nonsplice site mutations in noncoding regions (Figure 5A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The largest categories of silent CH variants in our data set were synonymous variants in coding regions (2247; 28.7%) and variants in introns (5021; 64.2%; Figure 5B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Silent CH was enriched in older patients, similar to conventional CH (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Additionally, the 2 groups had similar distributions of variant allele fractions (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Both conventional and silent CH were dominated by single nucleotide transversions with a similar distribution of nucleotide changes, with the major difference being that complex DNA changes were less common in silent CH (Figure 5E; Pearson r = 0.95 correlating number of mutations observed in 7 categories including the 6 types of single nucleotide changes and complex changes).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Although any DNA mutation has potential to alter cellular fitness, we observed few recurrent silent CH mutations compared with conventional CH mutations (Figure 5F), arguing against widespread selective influence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs and P values were calculated using a multivariate competing risk regression, adjusting for age, gender, and cancer type.We measured the HR for hematologic malignancy in patients with silent CH (Figure 5G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast to conventional CH, silent CH was not strongly associated with mortality in our cohort (supplemental Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We visualized the clonal trajectory of each recurrent variant from CH assessment to disease (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Vector origins at time zero show CH VAF in blood, and vector termini show VAF in the bone marrow at time of hematologic disease characterization.We next divided the full variant set based on disease category and conventional vs silent CH type (supplemental Figure 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "We used the R package dndscv to calculate the ratio of observed to expected nonsynonymous variants per synonymous variant in a regression model using both local and global mutation rates as covariates.16Results\nClonal hematopoiesis in 42 714 patients with nonhematologic malignancies\nWe assessed variants in at least 341 genes in MSK IMPACT sequencing for 42 714 patients, of whom 39 510 were alive with no hematologic diagnosis within 2 weeks and had medical record follow up beyond this time (Figure 1A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "A total of 11 735 patients had at least 1 conventional CH variant in a cancer-related gene (29.7%), including 3871 with ≥2 variants (supplemental Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The most common CH mutations were in DNMT3A, TET2, and ASXL1 as well as genes related to DNA damage response, including PPM1D, CHEK2, and TP53 (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We also identified mosaic copy number changes in 675 patients (1.9%) out of 35 134 evaluable among the cohort (Figure 1C; supplemental Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs and P values were calculated using a multivariate competing risk regression, adjusting for age, gender, and cancer type.The fraction of patients with CH correlated strongly with age with little variation by cancer diagnosis (Figure 1D; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "CH incidence was similar across patients exposed to different drug mechanisms (Figure 1E; supplemental Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel E",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Complete blood counts within 14 days of sequencing were available for most patients (33 114) (Figure 1F; supplemental Figure 4; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel F",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Nonetheless, CH was strongly associated with increased risk of hematologic malignancy (HR = 1.93; 95% confidence interval [CI], 1.45-2.57; P < .001; Figure 1G) and of death (HR, 1.11; 95% CI, 1.07-1.15; P ≤ .001; Figure 1H) in multivariate regressions modeling competing risk of the other outcome and adjusting for age, cancer diagnosis, and gender.Identification of CH genotypes associated with high risk of hematologic malignancy\nTo identify the CH genotypes associated with highest risk of progression we considered CH variants implicated in prior studies (CH-PD2 and M-CHIP/L-CHIP28) and/or observed in at least 40 patients in this cohort (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel G",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel H",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nine genotypes were associated with a significantly increased rate of hematologic malignancy using a false discovery rate threshold of 0.1 (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs for MCAs were calculated using the same models described earlier.We, next, evaluated mosaic chromosome alterations using the same risk model to define their association with hematologic malignancy in this cohort (Figure 2C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Mosaic chromosome alterations involving 5/7/17 are also associated with a high risk of hematologic malignancy and deserve attention similar to high-risk gene mutations.Characteristics of hematologic malignancies predicted by CH\nWe, then, evaluated the ability of CH to detect hematologic malignancy disease subsets (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "CH was identified in approximately half of the number of patients who went on to develop either myeloid malignancies (36 of 70 patients) or lymphoid malignancies (70 of 133 patients; supplemental Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "CH occurred before 81 of 136 (59.6%) of chronic hematologic malignancies and 26 of 66 (39.4%) of acute malignancies (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Patients with CH had a significantly increased risk of chronic hematologic malignancies (HR = 3.3; 95% CI, 2.36-4.6; P < .001) but not acute hematologic malignancies (HR = 1.49; 95% CI, 0.93-2.39; P = .10; Figure 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These results suggest that length bias should be considered when the predictive use of CH is evaluated.Relationship between clonal selection and risk of hematologic malignancy\nSomatic mutation acquisition in human tissues can be modeled as an evolutionary process driven by acquisition of mutations under positive selection.12 Using this perspective, the enrichment of dN/dS is a common manner in which driver mutations are defined.20,21,37,38 To understand selective forces in our cohort, we calculated genomic context-corrected dN/dS (dNdScv) and plotted HR for hematologic malignancy as a function of dNdScv (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Gene-specific HRs for hematologic neoplasm (as calculated in Figure 2) are plotted as a function of context-corrected nonsynonymous mutation enrichment (dNdScv).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "High-risk CH genotypes identified in Figure 2 are labeled in red, whereas other selected genotypes are labeled in blue.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To this end we identified a set of “silent CH” variants combining synonymous mutations in protein-coding regions and nonsplice site mutations in noncoding regions (Figure 5A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The largest categories of silent CH variants in our data set were synonymous variants in coding regions (2247; 28.7%) and variants in introns (5021; 64.2%; Figure 5B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Silent CH was enriched in older patients, similar to conventional CH (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Additionally, the 2 groups had similar distributions of variant allele fractions (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Both conventional and silent CH were dominated by single nucleotide transversions with a similar distribution of nucleotide changes, with the major difference being that complex DNA changes were less common in silent CH (Figure 5E; Pearson r = 0.95 correlating number of mutations observed in 7 categories including the 6 types of single nucleotide changes and complex changes).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Although any DNA mutation has potential to alter cellular fitness, we observed few recurrent silent CH mutations compared with conventional CH mutations (Figure 5F), arguing against widespread selective influence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs and P values were calculated using a multivariate competing risk regression, adjusting for age, gender, and cancer type.We measured the HR for hematologic malignancy in patients with silent CH (Figure 5G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast to conventional CH, silent CH was not strongly associated with mortality in our cohort (supplemental Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We visualized the clonal trajectory of each recurrent variant from CH assessment to disease (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Vector origins at time zero show CH VAF in blood, and vector termini show VAF in the bone marrow at time of hematologic disease characterization.We next divided the full variant set based on disease category and conventional vs silent CH type (supplemental Figure 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Results\nClonal hematopoiesis in 42 714 patients with nonhematologic malignancies\nWe assessed variants in at least 341 genes in MSK IMPACT sequencing for 42 714 patients, of whom 39 510 were alive with no hematologic diagnosis within 2 weeks and had medical record follow up beyond this time (Figure 1A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "A total of 11 735 patients had at least 1 conventional CH variant in a cancer-related gene (29.7%), including 3871 with ≥2 variants (supplemental Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The most common CH mutations were in DNMT3A, TET2, and ASXL1 as well as genes related to DNA damage response, including PPM1D, CHEK2, and TP53 (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We also identified mosaic copy number changes in 675 patients (1.9%) out of 35 134 evaluable among the cohort (Figure 1C; supplemental Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs and P values were calculated using a multivariate competing risk regression, adjusting for age, gender, and cancer type.The fraction of patients with CH correlated strongly with age with little variation by cancer diagnosis (Figure 1D; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "CH incidence was similar across patients exposed to different drug mechanisms (Figure 1E; supplemental Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel E",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Complete blood counts within 14 days of sequencing were available for most patients (33 114) (Figure 1F; supplemental Figure 4; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel F",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Nonetheless, CH was strongly associated with increased risk of hematologic malignancy (HR = 1.93; 95% confidence interval [CI], 1.45-2.57; P < .001; Figure 1G) and of death (HR, 1.11; 95% CI, 1.07-1.15; P ≤ .001; Figure 1H) in multivariate regressions modeling competing risk of the other outcome and adjusting for age, cancer diagnosis, and gender.Identification of CH genotypes associated with high risk of hematologic malignancy\nTo identify the CH genotypes associated with highest risk of progression we considered CH variants implicated in prior studies (CH-PD2 and M-CHIP/L-CHIP28) and/or observed in at least 40 patients in this cohort (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel G",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel H",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nine genotypes were associated with a significantly increased rate of hematologic malignancy using a false discovery rate threshold of 0.1 (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs for MCAs were calculated using the same models described earlier.We, next, evaluated mosaic chromosome alterations using the same risk model to define their association with hematologic malignancy in this cohort (Figure 2C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Mosaic chromosome alterations involving 5/7/17 are also associated with a high risk of hematologic malignancy and deserve attention similar to high-risk gene mutations.Characteristics of hematologic malignancies predicted by CH\nWe, then, evaluated the ability of CH to detect hematologic malignancy disease subsets (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "CH was identified in approximately half of the number of patients who went on to develop either myeloid malignancies (36 of 70 patients) or lymphoid malignancies (70 of 133 patients; supplemental Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "CH occurred before 81 of 136 (59.6%) of chronic hematologic malignancies and 26 of 66 (39.4%) of acute malignancies (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Patients with CH had a significantly increased risk of chronic hematologic malignancies (HR = 3.3; 95% CI, 2.36-4.6; P < .001) but not acute hematologic malignancies (HR = 1.49; 95% CI, 0.93-2.39; P = .10; Figure 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These results suggest that length bias should be considered when the predictive use of CH is evaluated.Relationship between clonal selection and risk of hematologic malignancy\nSomatic mutation acquisition in human tissues can be modeled as an evolutionary process driven by acquisition of mutations under positive selection.12 Using this perspective, the enrichment of dN/dS is a common manner in which driver mutations are defined.20,21,37,38 To understand selective forces in our cohort, we calculated genomic context-corrected dN/dS (dNdScv) and plotted HR for hematologic malignancy as a function of dNdScv (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Gene-specific HRs for hematologic neoplasm (as calculated in Figure 2) are plotted as a function of context-corrected nonsynonymous mutation enrichment (dNdScv).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "High-risk CH genotypes identified in Figure 2 are labeled in red, whereas other selected genotypes are labeled in blue.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To this end we identified a set of “silent CH” variants combining synonymous mutations in protein-coding regions and nonsplice site mutations in noncoding regions (Figure 5A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The largest categories of silent CH variants in our data set were synonymous variants in coding regions (2247; 28.7%) and variants in introns (5021; 64.2%; Figure 5B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Silent CH was enriched in older patients, similar to conventional CH (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Additionally, the 2 groups had similar distributions of variant allele fractions (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Both conventional and silent CH were dominated by single nucleotide transversions with a similar distribution of nucleotide changes, with the major difference being that complex DNA changes were less common in silent CH (Figure 5E; Pearson r = 0.95 correlating number of mutations observed in 7 categories including the 6 types of single nucleotide changes and complex changes).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Although any DNA mutation has potential to alter cellular fitness, we observed few recurrent silent CH mutations compared with conventional CH mutations (Figure 5F), arguing against widespread selective influence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs and P values were calculated using a multivariate competing risk regression, adjusting for age, gender, and cancer type.We measured the HR for hematologic malignancy in patients with silent CH (Figure 5G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast to conventional CH, silent CH was not strongly associated with mortality in our cohort (supplemental Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We visualized the clonal trajectory of each recurrent variant from CH assessment to disease (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Vector origins at time zero show CH VAF in blood, and vector termini show VAF in the bone marrow at time of hematologic disease characterization.We next divided the full variant set based on disease category and conventional vs silent CH type (supplemental Figure 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Clonal hematopoiesis in 42 714 patients with nonhematologic malignancies\nWe assessed variants in at least 341 genes in MSK IMPACT sequencing for 42 714 patients, of whom 39 510 were alive with no hematologic diagnosis within 2 weeks and had medical record follow up beyond this time (Figure 1A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "A total of 11 735 patients had at least 1 conventional CH variant in a cancer-related gene (29.7%), including 3871 with ≥2 variants (supplemental Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The most common CH mutations were in DNMT3A, TET2, and ASXL1 as well as genes related to DNA damage response, including PPM1D, CHEK2, and TP53 (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We also identified mosaic copy number changes in 675 patients (1.9%) out of 35 134 evaluable among the cohort (Figure 1C; supplemental Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs and P values were calculated using a multivariate competing risk regression, adjusting for age, gender, and cancer type.The fraction of patients with CH correlated strongly with age with little variation by cancer diagnosis (Figure 1D; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "CH incidence was similar across patients exposed to different drug mechanisms (Figure 1E; supplemental Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel E",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Complete blood counts within 14 days of sequencing were available for most patients (33 114) (Figure 1F; supplemental Figure 4; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel F",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Nonetheless, CH was strongly associated with increased risk of hematologic malignancy (HR = 1.93; 95% confidence interval [CI], 1.45-2.57; P < .001; Figure 1G) and of death (HR, 1.11; 95% CI, 1.07-1.15; P ≤ .001; Figure 1H) in multivariate regressions modeling competing risk of the other outcome and adjusting for age, cancer diagnosis, and gender.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel G",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel H",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We assessed variants in at least 341 genes in MSK IMPACT sequencing for 42 714 patients, of whom 39 510 were alive with no hematologic diagnosis within 2 weeks and had medical record follow up beyond this time (Figure 1A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "A total of 11 735 patients had at least 1 conventional CH variant in a cancer-related gene (29.7%), including 3871 with ≥2 variants (supplemental Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The most common CH mutations were in DNMT3A, TET2, and ASXL1 as well as genes related to DNA damage response, including PPM1D, CHEK2, and TP53 (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We also identified mosaic copy number changes in 675 patients (1.9%) out of 35 134 evaluable among the cohort (Figure 1C; supplemental Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The fraction of patients with CH correlated strongly with age with little variation by cancer diagnosis (Figure 1D; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "CH incidence was similar across patients exposed to different drug mechanisms (Figure 1E; supplemental Figure 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel E",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Complete blood counts within 14 days of sequencing were available for most patients (33 114) (Figure 1F; supplemental Figure 4; supplemental Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel F",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Nonetheless, CH was strongly associated with increased risk of hematologic malignancy (HR = 1.93; 95% confidence interval [CI], 1.45-2.57; P < .001; Figure 1G) and of death (HR, 1.11; 95% CI, 1.07-1.15; P ≤ .001; Figure 1H) in multivariate regressions modeling competing risk of the other outcome and adjusting for age, cancer diagnosis, and gender.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel G",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel H",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Identification of CH genotypes associated with high risk of hematologic malignancy\nTo identify the CH genotypes associated with highest risk of progression we considered CH variants implicated in prior studies (CH-PD2 and M-CHIP/L-CHIP28) and/or observed in at least 40 patients in this cohort (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nine genotypes were associated with a significantly increased rate of hematologic malignancy using a false discovery rate threshold of 0.1 (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs for MCAs were calculated using the same models described earlier.We, next, evaluated mosaic chromosome alterations using the same risk model to define their association with hematologic malignancy in this cohort (Figure 2C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To identify the CH genotypes associated with highest risk of progression we considered CH variants implicated in prior studies (CH-PD2 and M-CHIP/L-CHIP28) and/or observed in at least 40 patients in this cohort (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nine genotypes were associated with a significantly increased rate of hematologic malignancy using a false discovery rate threshold of 0.1 (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We, next, evaluated mosaic chromosome alterations using the same risk model to define their association with hematologic malignancy in this cohort (Figure 2C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Characteristics of hematologic malignancies predicted by CH\nWe, then, evaluated the ability of CH to detect hematologic malignancy disease subsets (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "CH was identified in approximately half of the number of patients who went on to develop either myeloid malignancies (36 of 70 patients) or lymphoid malignancies (70 of 133 patients; supplemental Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "CH occurred before 81 of 136 (59.6%) of chronic hematologic malignancies and 26 of 66 (39.4%) of acute malignancies (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Patients with CH had a significantly increased risk of chronic hematologic malignancies (HR = 3.3; 95% CI, 2.36-4.6; P < .001) but not acute hematologic malignancies (HR = 1.49; 95% CI, 0.93-2.39; P = .10; Figure 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "We, then, evaluated the ability of CH to detect hematologic malignancy disease subsets (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "CH was identified in approximately half of the number of patients who went on to develop either myeloid malignancies (36 of 70 patients) or lymphoid malignancies (70 of 133 patients; supplemental Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "CH occurred before 81 of 136 (59.6%) of chronic hematologic malignancies and 26 of 66 (39.4%) of acute malignancies (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Patients with CH had a significantly increased risk of chronic hematologic malignancies (HR = 3.3; 95% CI, 2.36-4.6; P < .001) but not acute hematologic malignancies (HR = 1.49; 95% CI, 0.93-2.39; P = .10; Figure 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Relationship between clonal selection and risk of hematologic malignancy\nSomatic mutation acquisition in human tissues can be modeled as an evolutionary process driven by acquisition of mutations under positive selection.12 Using this perspective, the enrichment of dN/dS is a common manner in which driver mutations are defined.20,21,37,38 To understand selective forces in our cohort, we calculated genomic context-corrected dN/dS (dNdScv) and plotted HR for hematologic malignancy as a function of dNdScv (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Gene-specific HRs for hematologic neoplasm (as calculated in Figure 2) are plotted as a function of context-corrected nonsynonymous mutation enrichment (dNdScv).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "High-risk CH genotypes identified in Figure 2 are labeled in red, whereas other selected genotypes are labeled in blue.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Somatic mutation acquisition in human tissues can be modeled as an evolutionary process driven by acquisition of mutations under positive selection.12 Using this perspective, the enrichment of dN/dS is a common manner in which driver mutations are defined.20,21,37,38 To understand selective forces in our cohort, we calculated genomic context-corrected dN/dS (dNdScv) and plotted HR for hematologic malignancy as a function of dNdScv (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Gene-specific HRs for hematologic neoplasm (as calculated in Figure 2) are plotted as a function of context-corrected nonsynonymous mutation enrichment (dNdScv).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "High-risk CH genotypes identified in Figure 2 are labeled in red, whereas other selected genotypes are labeled in blue.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To this end we identified a set of “silent CH” variants combining synonymous mutations in protein-coding regions and nonsplice site mutations in noncoding regions (Figure 5A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The largest categories of silent CH variants in our data set were synonymous variants in coding regions (2247; 28.7%) and variants in introns (5021; 64.2%; Figure 5B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Silent CH was enriched in older patients, similar to conventional CH (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Additionally, the 2 groups had similar distributions of variant allele fractions (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Both conventional and silent CH were dominated by single nucleotide transversions with a similar distribution of nucleotide changes, with the major difference being that complex DNA changes were less common in silent CH (Figure 5E; Pearson r = 0.95 correlating number of mutations observed in 7 categories including the 6 types of single nucleotide changes and complex changes).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Although any DNA mutation has potential to alter cellular fitness, we observed few recurrent silent CH mutations compared with conventional CH mutations (Figure 5F), arguing against widespread selective influence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "HRs and P values were calculated using a multivariate competing risk regression, adjusting for age, gender, and cancer type.We measured the HR for hematologic malignancy in patients with silent CH (Figure 5G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast to conventional CH, silent CH was not strongly associated with mortality in our cohort (supplemental Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "To this end we identified a set of “silent CH” variants combining synonymous mutations in protein-coding regions and nonsplice site mutations in noncoding regions (Figure 5A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The largest categories of silent CH variants in our data set were synonymous variants in coding regions (2247; 28.7%) and variants in introns (5021; 64.2%; Figure 5B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Silent CH was enriched in older patients, similar to conventional CH (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Additionally, the 2 groups had similar distributions of variant allele fractions (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Both conventional and silent CH were dominated by single nucleotide transversions with a similar distribution of nucleotide changes, with the major difference being that complex DNA changes were less common in silent CH (Figure 5E; Pearson r = 0.95 correlating number of mutations observed in 7 categories including the 6 types of single nucleotide changes and complex changes).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Although any DNA mutation has potential to alter cellular fitness, we observed few recurrent silent CH mutations compared with conventional CH mutations (Figure 5F), arguing against widespread selective influence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel F",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We measured the HR for hematologic malignancy in patients with silent CH (Figure 5G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel G",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast to conventional CH, silent CH was not strongly associated with mortality in our cohort (supplemental Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We visualized the clonal trajectory of each recurrent variant from CH assessment to disease (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Vector origins at time zero show CH VAF in blood, and vector termini show VAF in the bone marrow at time of hematologic disease characterization.We next divided the full variant set based on disease category and conventional vs silent CH type (supplemental Figure 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "We visualized the clonal trajectory of each recurrent variant from CH assessment to disease (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We next divided the full variant set based on disease category and conventional vs silent CH type (supplemental Figure 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  }
+]

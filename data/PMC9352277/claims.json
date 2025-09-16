@@ -1,0 +1,2157 @@
+[
+  {
+    "sentence": "Posterior nodal distance of individualized Emsley reduced eye\nThe simplest schematic eyes, referred to as reduced eyes, model the eye as a single refracting surface that represents the anterior surface of the cornea followed by a single homogenous medium, as depicted on the top left panel of Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior nodal distance scaling of individualized Gullstrand-Emsley eye\nEye models consisting of three refractive surfaces representing the anterior corneal surface, as well as the anterior and posterior surfaces of the crystalline lens (top right panel of Fig. 1), are referred to as simplified schematic eyes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior principal distance scaling of individualized Bennett-Rabbetts eye\nAn alternative RMF definition [9,44,47], uses the posterior principal distance (PPD) of the individualized simplified schematic eye by Bennett et. al. [9,43,44] (see bottom left panel of Fig. 1), \n\n\n(3)\n\n where 1.336 is the assumed refractive index of the aqueous and vitreous humors [43] and 1.82 mm is the distance from the corneal apex to the rear principal point of the eye.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The change in direction cosines of a ray after a refractive surface can be calculated using the vector form of Snell’s law [90], \n\n\n(7)\n\n where, as depicted in Fig. 2, \n\n is a unit vector along the refracted ray, \n\n is the ratio of the refractive indices before and after the surface, respectively, \n\n is a unit vector along the incident ray, \n\n is the surface normal unit vector, and \n\n is a scalar that can be calculated as follows.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "If we square Eq. (7), calculate the norm of both sides of the equation, and recall that all vectors have unit normal, we get, \n\n\n(8)\n\nFig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To explore the magnitude of such variation, we traced four ray pairs at 45 deg increments rotated about the optical axis, with their HFOVs defined in Eq. (14), where the first two angle pairs are depicted in Fig. 3. \n\n\n(14)\n\nFig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In these situations, the RMF should be scaled by a factor M that can be coarsely estimated using paraxial optics modeling of the spectacle or trial lens as a thin lens with power \n\n (in diopters), placed at a (positive) distance d from the entrance pupil plane of the eye in meters (i.e., the image of the iris as seen through the cornea and anterior chamber of the eye) as depicted in Fig. 4 [93], \n\n\n(15)\n\nFig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Comparison of RMF calculation methods\nRMFs values were calculated using all the methods described above based on the refractive index-corrected biometry, with the resulting values plotted in Fig. 5 and listed in Appendix B.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "To further test this point, the RMF values for our four-surface paraxial model eye were also calculated using the PND scaling (yellow symbols and line in Fig. 5) instead of chief rays (see Fig. 6), resulting in values consistent with those from other PND scaling methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nFour-surface paraxial individualized schematic eye diagrams showing the ray used to calculate retinal magnification factors using posterior nodal distance (left) scaling and chief ray tracing (right).The RMF values Fig. 5 were calculated for 555 nm light.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As with the plots in Fig. 7, we see good agreement between the paraxial and non-paraxial predictions of RMF change with axial positioning of the eye (seeTable 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "These images are shown in Fig. 8 with annotations indicating absolute and relative distance changes between a blood vessel fork and the intersection of a blood vessel with the optic disc rim.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Importantly, the RMF change with axial positioning in the same eye is reduced to ∼1% when the subject was wearing contact lenses, as the images on the bottom row of Fig. 8 show.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The plots and data shown in Fig. 9 and Fig. 10, show weak correlation and statistical significance between surfaces radius and refractive error sphere equivalent, as well as axial length, whether considering all eyes in the study, or the higher myopes, defined as having sphere equivalent smaller than -4D.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, vitreous thickness shows a strong correlation (\n\n -0.92) and significance (\n\n) with refractive error when considering all eyes in our data set, and when considering only the higher myopes (\n\n -0.95; \n\n) as shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Finally, in the highly myopic eyes we see that the aqueous thickness shows a statistically significant correlation with axial length (\n\n 0.85) but not with refractive error (\n\n -0.68), suggesting that although the aqueous thickness increases with eye size, it does not affect the refractive error (Fig. 10).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nExploring the refractive myopia hypothesis in 34 eyes (left plots) and 9 myopic eyes with sphere equivalent ≤ 4D (right plots) through the correlation of the radii of the ocular surfaces against the spectacle prescription spherical equivalent and the ocular axial length.Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior nodal distance of individualized Emsley reduced eye\nThe simplest schematic eyes, referred to as reduced eyes, model the eye as a single refracting surface that represents the anterior surface of the cornea followed by a single homogenous medium, as depicted on the top left panel of Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior nodal distance scaling of individualized Gullstrand-Emsley eye\nEye models consisting of three refractive surfaces representing the anterior corneal surface, as well as the anterior and posterior surfaces of the crystalline lens (top right panel of Fig. 1), are referred to as simplified schematic eyes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior principal distance scaling of individualized Bennett-Rabbetts eye\nAn alternative RMF definition [9,44,47], uses the posterior principal distance (PPD) of the individualized simplified schematic eye by Bennett et. al. [9,43,44] (see bottom left panel of Fig. 1), \n\n\n(3)\n\n where 1.336 is the assumed refractive index of the aqueous and vitreous humors [43] and 1.82 mm is the distance from the corneal apex to the rear principal point of the eye.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The change in direction cosines of a ray after a refractive surface can be calculated using the vector form of Snell’s law [90], \n\n\n(7)\n\n where, as depicted in Fig. 2, \n\n is a unit vector along the refracted ray, \n\n is the ratio of the refractive indices before and after the surface, respectively, \n\n is a unit vector along the incident ray, \n\n is the surface normal unit vector, and \n\n is a scalar that can be calculated as follows.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "If we square Eq. (7), calculate the norm of both sides of the equation, and recall that all vectors have unit normal, we get, \n\n\n(8)\n\nFig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To explore the magnitude of such variation, we traced four ray pairs at 45 deg increments rotated about the optical axis, with their HFOVs defined in Eq. (14), where the first two angle pairs are depicted in Fig. 3. \n\n\n(14)\n\nFig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In these situations, the RMF should be scaled by a factor M that can be coarsely estimated using paraxial optics modeling of the spectacle or trial lens as a thin lens with power \n\n (in diopters), placed at a (positive) distance d from the entrance pupil plane of the eye in meters (i.e., the image of the iris as seen through the cornea and anterior chamber of the eye) as depicted in Fig. 4 [93], \n\n\n(15)\n\nFig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Comparison of RMF calculation methods\nRMFs values were calculated using all the methods described above based on the refractive index-corrected biometry, with the resulting values plotted in Fig. 5 and listed in Appendix B.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "To further test this point, the RMF values for our four-surface paraxial model eye were also calculated using the PND scaling (yellow symbols and line in Fig. 5) instead of chief rays (see Fig. 6), resulting in values consistent with those from other PND scaling methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nFour-surface paraxial individualized schematic eye diagrams showing the ray used to calculate retinal magnification factors using posterior nodal distance (left) scaling and chief ray tracing (right).The RMF values Fig. 5 were calculated for 555 nm light.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As with the plots in Fig. 7, we see good agreement between the paraxial and non-paraxial predictions of RMF change with axial positioning of the eye (seeTable 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "These images are shown in Fig. 8 with annotations indicating absolute and relative distance changes between a blood vessel fork and the intersection of a blood vessel with the optic disc rim.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Importantly, the RMF change with axial positioning in the same eye is reduced to ∼1% when the subject was wearing contact lenses, as the images on the bottom row of Fig. 8 show.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The plots and data shown in Fig. 9 and Fig. 10, show weak correlation and statistical significance between surfaces radius and refractive error sphere equivalent, as well as axial length, whether considering all eyes in the study, or the higher myopes, defined as having sphere equivalent smaller than -4D.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, vitreous thickness shows a strong correlation (\n\n -0.92) and significance (\n\n) with refractive error when considering all eyes in our data set, and when considering only the higher myopes (\n\n -0.95; \n\n) as shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Finally, in the highly myopic eyes we see that the aqueous thickness shows a statistically significant correlation with axial length (\n\n 0.85) but not with refractive error (\n\n -0.68), suggesting that although the aqueous thickness increases with eye size, it does not affect the refractive error (Fig. 10).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nExploring the refractive myopia hypothesis in 34 eyes (left plots) and 9 myopic eyes with sphere equivalent ≤ 4D (right plots) through the correlation of the radii of the ocular surfaces against the spectacle prescription spherical equivalent and the ocular axial length.Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior nodal distance of individualized Emsley reduced eye\nThe simplest schematic eyes, referred to as reduced eyes, model the eye as a single refracting surface that represents the anterior surface of the cornea followed by a single homogenous medium, as depicted on the top left panel of Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior nodal distance scaling of individualized Gullstrand-Emsley eye\nEye models consisting of three refractive surfaces representing the anterior corneal surface, as well as the anterior and posterior surfaces of the crystalline lens (top right panel of Fig. 1), are referred to as simplified schematic eyes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior principal distance scaling of individualized Bennett-Rabbetts eye\nAn alternative RMF definition [9,44,47], uses the posterior principal distance (PPD) of the individualized simplified schematic eye by Bennett et. al. [9,43,44] (see bottom left panel of Fig. 1), \n\n\n(3)\n\n where 1.336 is the assumed refractive index of the aqueous and vitreous humors [43] and 1.82 mm is the distance from the corneal apex to the rear principal point of the eye.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The change in direction cosines of a ray after a refractive surface can be calculated using the vector form of Snell’s law [90], \n\n\n(7)\n\n where, as depicted in Fig. 2, \n\n is a unit vector along the refracted ray, \n\n is the ratio of the refractive indices before and after the surface, respectively, \n\n is a unit vector along the incident ray, \n\n is the surface normal unit vector, and \n\n is a scalar that can be calculated as follows.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "If we square Eq. (7), calculate the norm of both sides of the equation, and recall that all vectors have unit normal, we get, \n\n\n(8)\n\nFig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To explore the magnitude of such variation, we traced four ray pairs at 45 deg increments rotated about the optical axis, with their HFOVs defined in Eq. (14), where the first two angle pairs are depicted in Fig. 3. \n\n\n(14)\n\nFig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In these situations, the RMF should be scaled by a factor M that can be coarsely estimated using paraxial optics modeling of the spectacle or trial lens as a thin lens with power \n\n (in diopters), placed at a (positive) distance d from the entrance pupil plane of the eye in meters (i.e., the image of the iris as seen through the cornea and anterior chamber of the eye) as depicted in Fig. 4 [93], \n\n\n(15)\n\nFig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Comparison of RMF calculation methods\nRMFs values were calculated using all the methods described above based on the refractive index-corrected biometry, with the resulting values plotted in Fig. 5 and listed in Appendix B.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "To further test this point, the RMF values for our four-surface paraxial model eye were also calculated using the PND scaling (yellow symbols and line in Fig. 5) instead of chief rays (see Fig. 6), resulting in values consistent with those from other PND scaling methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nFour-surface paraxial individualized schematic eye diagrams showing the ray used to calculate retinal magnification factors using posterior nodal distance (left) scaling and chief ray tracing (right).The RMF values Fig. 5 were calculated for 555 nm light.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As with the plots in Fig. 7, we see good agreement between the paraxial and non-paraxial predictions of RMF change with axial positioning of the eye (seeTable 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "These images are shown in Fig. 8 with annotations indicating absolute and relative distance changes between a blood vessel fork and the intersection of a blood vessel with the optic disc rim.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Importantly, the RMF change with axial positioning in the same eye is reduced to ∼1% when the subject was wearing contact lenses, as the images on the bottom row of Fig. 8 show.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The plots and data shown in Fig. 9 and Fig. 10, show weak correlation and statistical significance between surfaces radius and refractive error sphere equivalent, as well as axial length, whether considering all eyes in the study, or the higher myopes, defined as having sphere equivalent smaller than -4D.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, vitreous thickness shows a strong correlation (\n\n -0.92) and significance (\n\n) with refractive error when considering all eyes in our data set, and when considering only the higher myopes (\n\n -0.95; \n\n) as shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Finally, in the highly myopic eyes we see that the aqueous thickness shows a statistically significant correlation with axial length (\n\n 0.85) but not with refractive error (\n\n -0.68), suggesting that although the aqueous thickness increases with eye size, it does not affect the refractive error (Fig. 10).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nExploring the refractive myopia hypothesis in 34 eyes (left plots) and 9 myopic eyes with sphere equivalent ≤ 4D (right plots) through the correlation of the radii of the ocular surfaces against the spectacle prescription spherical equivalent and the ocular axial length.Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior nodal distance of individualized Emsley reduced eye\nThe simplest schematic eyes, referred to as reduced eyes, model the eye as a single refracting surface that represents the anterior surface of the cornea followed by a single homogenous medium, as depicted on the top left panel of Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior nodal distance scaling of individualized Gullstrand-Emsley eye\nEye models consisting of three refractive surfaces representing the anterior corneal surface, as well as the anterior and posterior surfaces of the crystalline lens (top right panel of Fig. 1), are referred to as simplified schematic eyes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior principal distance scaling of individualized Bennett-Rabbetts eye\nAn alternative RMF definition [9,44,47], uses the posterior principal distance (PPD) of the individualized simplified schematic eye by Bennett et. al. [9,43,44] (see bottom left panel of Fig. 1), \n\n\n(3)\n\n where 1.336 is the assumed refractive index of the aqueous and vitreous humors [43] and 1.82 mm is the distance from the corneal apex to the rear principal point of the eye.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The change in direction cosines of a ray after a refractive surface can be calculated using the vector form of Snell’s law [90], \n\n\n(7)\n\n where, as depicted in Fig. 2, \n\n is a unit vector along the refracted ray, \n\n is the ratio of the refractive indices before and after the surface, respectively, \n\n is a unit vector along the incident ray, \n\n is the surface normal unit vector, and \n\n is a scalar that can be calculated as follows.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "If we square Eq. (7), calculate the norm of both sides of the equation, and recall that all vectors have unit normal, we get, \n\n\n(8)\n\nFig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To explore the magnitude of such variation, we traced four ray pairs at 45 deg increments rotated about the optical axis, with their HFOVs defined in Eq. (14), where the first two angle pairs are depicted in Fig. 3. \n\n\n(14)\n\nFig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In these situations, the RMF should be scaled by a factor M that can be coarsely estimated using paraxial optics modeling of the spectacle or trial lens as a thin lens with power \n\n (in diopters), placed at a (positive) distance d from the entrance pupil plane of the eye in meters (i.e., the image of the iris as seen through the cornea and anterior chamber of the eye) as depicted in Fig. 4 [93], \n\n\n(15)\n\nFig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Comparison of RMF calculation methods\nRMFs values were calculated using all the methods described above based on the refractive index-corrected biometry, with the resulting values plotted in Fig. 5 and listed in Appendix B.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "To further test this point, the RMF values for our four-surface paraxial model eye were also calculated using the PND scaling (yellow symbols and line in Fig. 5) instead of chief rays (see Fig. 6), resulting in values consistent with those from other PND scaling methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nFour-surface paraxial individualized schematic eye diagrams showing the ray used to calculate retinal magnification factors using posterior nodal distance (left) scaling and chief ray tracing (right).The RMF values Fig. 5 were calculated for 555 nm light.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As with the plots in Fig. 7, we see good agreement between the paraxial and non-paraxial predictions of RMF change with axial positioning of the eye (seeTable 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "These images are shown in Fig. 8 with annotations indicating absolute and relative distance changes between a blood vessel fork and the intersection of a blood vessel with the optic disc rim.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Importantly, the RMF change with axial positioning in the same eye is reduced to ∼1% when the subject was wearing contact lenses, as the images on the bottom row of Fig. 8 show.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The plots and data shown in Fig. 9 and Fig. 10, show weak correlation and statistical significance between surfaces radius and refractive error sphere equivalent, as well as axial length, whether considering all eyes in the study, or the higher myopes, defined as having sphere equivalent smaller than -4D.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, vitreous thickness shows a strong correlation (\n\n -0.92) and significance (\n\n) with refractive error when considering all eyes in our data set, and when considering only the higher myopes (\n\n -0.95; \n\n) as shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Finally, in the highly myopic eyes we see that the aqueous thickness shows a statistically significant correlation with axial length (\n\n 0.85) but not with refractive error (\n\n -0.68), suggesting that although the aqueous thickness increases with eye size, it does not affect the refractive error (Fig. 10).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nExploring the refractive myopia hypothesis in 34 eyes (left plots) and 9 myopic eyes with sphere equivalent ≤ 4D (right plots) through the correlation of the radii of the ocular surfaces against the spectacle prescription spherical equivalent and the ocular axial length.Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior nodal distance of individualized Emsley reduced eye\nThe simplest schematic eyes, referred to as reduced eyes, model the eye as a single refracting surface that represents the anterior surface of the cornea followed by a single homogenous medium, as depicted on the top left panel of Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior nodal distance scaling of individualized Gullstrand-Emsley eye\nEye models consisting of three refractive surfaces representing the anterior corneal surface, as well as the anterior and posterior surfaces of the crystalline lens (top right panel of Fig. 1), are referred to as simplified schematic eyes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior principal distance scaling of individualized Bennett-Rabbetts eye\nAn alternative RMF definition [9,44,47], uses the posterior principal distance (PPD) of the individualized simplified schematic eye by Bennett et. al. [9,43,44] (see bottom left panel of Fig. 1), \n\n\n(3)\n\n where 1.336 is the assumed refractive index of the aqueous and vitreous humors [43] and 1.82 mm is the distance from the corneal apex to the rear principal point of the eye.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The change in direction cosines of a ray after a refractive surface can be calculated using the vector form of Snell’s law [90], \n\n\n(7)\n\n where, as depicted in Fig. 2, \n\n is a unit vector along the refracted ray, \n\n is the ratio of the refractive indices before and after the surface, respectively, \n\n is a unit vector along the incident ray, \n\n is the surface normal unit vector, and \n\n is a scalar that can be calculated as follows.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "If we square Eq. (7), calculate the norm of both sides of the equation, and recall that all vectors have unit normal, we get, \n\n\n(8)\n\nFig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To explore the magnitude of such variation, we traced four ray pairs at 45 deg increments rotated about the optical axis, with their HFOVs defined in Eq. (14), where the first two angle pairs are depicted in Fig. 3. \n\n\n(14)\n\nFig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In these situations, the RMF should be scaled by a factor M that can be coarsely estimated using paraxial optics modeling of the spectacle or trial lens as a thin lens with power \n\n (in diopters), placed at a (positive) distance d from the entrance pupil plane of the eye in meters (i.e., the image of the iris as seen through the cornea and anterior chamber of the eye) as depicted in Fig. 4 [93], \n\n\n(15)\n\nFig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Comparison of RMF calculation methods\nRMFs values were calculated using all the methods described above based on the refractive index-corrected biometry, with the resulting values plotted in Fig. 5 and listed in Appendix B.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "To further test this point, the RMF values for our four-surface paraxial model eye were also calculated using the PND scaling (yellow symbols and line in Fig. 5) instead of chief rays (see Fig. 6), resulting in values consistent with those from other PND scaling methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nFour-surface paraxial individualized schematic eye diagrams showing the ray used to calculate retinal magnification factors using posterior nodal distance (left) scaling and chief ray tracing (right).The RMF values Fig. 5 were calculated for 555 nm light.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As with the plots in Fig. 7, we see good agreement between the paraxial and non-paraxial predictions of RMF change with axial positioning of the eye (seeTable 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "These images are shown in Fig. 8 with annotations indicating absolute and relative distance changes between a blood vessel fork and the intersection of a blood vessel with the optic disc rim.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Importantly, the RMF change with axial positioning in the same eye is reduced to ∼1% when the subject was wearing contact lenses, as the images on the bottom row of Fig. 8 show.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The plots and data shown in Fig. 9 and Fig. 10, show weak correlation and statistical significance between surfaces radius and refractive error sphere equivalent, as well as axial length, whether considering all eyes in the study, or the higher myopes, defined as having sphere equivalent smaller than -4D.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, vitreous thickness shows a strong correlation (\n\n -0.92) and significance (\n\n) with refractive error when considering all eyes in our data set, and when considering only the higher myopes (\n\n -0.95; \n\n) as shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Finally, in the highly myopic eyes we see that the aqueous thickness shows a statistically significant correlation with axial length (\n\n 0.85) but not with refractive error (\n\n -0.68), suggesting that although the aqueous thickness increases with eye size, it does not affect the refractive error (Fig. 10).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nExploring the refractive myopia hypothesis in 34 eyes (left plots) and 9 myopic eyes with sphere equivalent ≤ 4D (right plots) through the correlation of the radii of the ocular surfaces against the spectacle prescription spherical equivalent and the ocular axial length.Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior nodal distance of individualized Emsley reduced eye\nThe simplest schematic eyes, referred to as reduced eyes, model the eye as a single refracting surface that represents the anterior surface of the cornea followed by a single homogenous medium, as depicted on the top left panel of Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior nodal distance scaling of individualized Gullstrand-Emsley eye\nEye models consisting of three refractive surfaces representing the anterior corneal surface, as well as the anterior and posterior surfaces of the crystalline lens (top right panel of Fig. 1), are referred to as simplified schematic eyes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior principal distance scaling of individualized Bennett-Rabbetts eye\nAn alternative RMF definition [9,44,47], uses the posterior principal distance (PPD) of the individualized simplified schematic eye by Bennett et. al. [9,43,44] (see bottom left panel of Fig. 1), \n\n\n(3)\n\n where 1.336 is the assumed refractive index of the aqueous and vitreous humors [43] and 1.82 mm is the distance from the corneal apex to the rear principal point of the eye.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The change in direction cosines of a ray after a refractive surface can be calculated using the vector form of Snell’s law [90], \n\n\n(7)\n\n where, as depicted in Fig. 2, \n\n is a unit vector along the refracted ray, \n\n is the ratio of the refractive indices before and after the surface, respectively, \n\n is a unit vector along the incident ray, \n\n is the surface normal unit vector, and \n\n is a scalar that can be calculated as follows.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "If we square Eq. (7), calculate the norm of both sides of the equation, and recall that all vectors have unit normal, we get, \n\n\n(8)\n\nFig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To explore the magnitude of such variation, we traced four ray pairs at 45 deg increments rotated about the optical axis, with their HFOVs defined in Eq. (14), where the first two angle pairs are depicted in Fig. 3. \n\n\n(14)\n\nFig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In these situations, the RMF should be scaled by a factor M that can be coarsely estimated using paraxial optics modeling of the spectacle or trial lens as a thin lens with power \n\n (in diopters), placed at a (positive) distance d from the entrance pupil plane of the eye in meters (i.e., the image of the iris as seen through the cornea and anterior chamber of the eye) as depicted in Fig. 4 [93], \n\n\n(15)\n\nFig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Comparison of RMF calculation methods\nRMFs values were calculated using all the methods described above based on the refractive index-corrected biometry, with the resulting values plotted in Fig. 5 and listed in Appendix B.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "To further test this point, the RMF values for our four-surface paraxial model eye were also calculated using the PND scaling (yellow symbols and line in Fig. 5) instead of chief rays (see Fig. 6), resulting in values consistent with those from other PND scaling methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nFour-surface paraxial individualized schematic eye diagrams showing the ray used to calculate retinal magnification factors using posterior nodal distance (left) scaling and chief ray tracing (right).The RMF values Fig. 5 were calculated for 555 nm light.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As with the plots in Fig. 7, we see good agreement between the paraxial and non-paraxial predictions of RMF change with axial positioning of the eye (seeTable 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "These images are shown in Fig. 8 with annotations indicating absolute and relative distance changes between a blood vessel fork and the intersection of a blood vessel with the optic disc rim.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Importantly, the RMF change with axial positioning in the same eye is reduced to ∼1% when the subject was wearing contact lenses, as the images on the bottom row of Fig. 8 show.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The plots and data shown in Fig. 9 and Fig. 10, show weak correlation and statistical significance between surfaces radius and refractive error sphere equivalent, as well as axial length, whether considering all eyes in the study, or the higher myopes, defined as having sphere equivalent smaller than -4D.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, vitreous thickness shows a strong correlation (\n\n -0.92) and significance (\n\n) with refractive error when considering all eyes in our data set, and when considering only the higher myopes (\n\n -0.95; \n\n) as shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Finally, in the highly myopic eyes we see that the aqueous thickness shows a statistically significant correlation with axial length (\n\n 0.85) but not with refractive error (\n\n -0.68), suggesting that although the aqueous thickness increases with eye size, it does not affect the refractive error (Fig. 10).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nExploring the refractive myopia hypothesis in 34 eyes (left plots) and 9 myopic eyes with sphere equivalent ≤ 4D (right plots) through the correlation of the radii of the ocular surfaces against the spectacle prescription spherical equivalent and the ocular axial length.Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior nodal distance of individualized Emsley reduced eye\nThe simplest schematic eyes, referred to as reduced eyes, model the eye as a single refracting surface that represents the anterior surface of the cornea followed by a single homogenous medium, as depicted on the top left panel of Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior nodal distance scaling of individualized Gullstrand-Emsley eye\nEye models consisting of three refractive surfaces representing the anterior corneal surface, as well as the anterior and posterior surfaces of the crystalline lens (top right panel of Fig. 1), are referred to as simplified schematic eyes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior principal distance scaling of individualized Bennett-Rabbetts eye\nAn alternative RMF definition [9,44,47], uses the posterior principal distance (PPD) of the individualized simplified schematic eye by Bennett et. al. [9,43,44] (see bottom left panel of Fig. 1), \n\n\n(3)\n\n where 1.336 is the assumed refractive index of the aqueous and vitreous humors [43] and 1.82 mm is the distance from the corneal apex to the rear principal point of the eye.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The change in direction cosines of a ray after a refractive surface can be calculated using the vector form of Snell’s law [90], \n\n\n(7)\n\n where, as depicted in Fig. 2, \n\n is a unit vector along the refracted ray, \n\n is the ratio of the refractive indices before and after the surface, respectively, \n\n is a unit vector along the incident ray, \n\n is the surface normal unit vector, and \n\n is a scalar that can be calculated as follows.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "If we square Eq. (7), calculate the norm of both sides of the equation, and recall that all vectors have unit normal, we get, \n\n\n(8)\n\nFig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To explore the magnitude of such variation, we traced four ray pairs at 45 deg increments rotated about the optical axis, with their HFOVs defined in Eq. (14), where the first two angle pairs are depicted in Fig. 3. \n\n\n(14)\n\nFig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In these situations, the RMF should be scaled by a factor M that can be coarsely estimated using paraxial optics modeling of the spectacle or trial lens as a thin lens with power \n\n (in diopters), placed at a (positive) distance d from the entrance pupil plane of the eye in meters (i.e., the image of the iris as seen through the cornea and anterior chamber of the eye) as depicted in Fig. 4 [93], \n\n\n(15)\n\nFig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Comparison of RMF calculation methods\nRMFs values were calculated using all the methods described above based on the refractive index-corrected biometry, with the resulting values plotted in Fig. 5 and listed in Appendix B.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "To further test this point, the RMF values for our four-surface paraxial model eye were also calculated using the PND scaling (yellow symbols and line in Fig. 5) instead of chief rays (see Fig. 6), resulting in values consistent with those from other PND scaling methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nFour-surface paraxial individualized schematic eye diagrams showing the ray used to calculate retinal magnification factors using posterior nodal distance (left) scaling and chief ray tracing (right).The RMF values Fig. 5 were calculated for 555 nm light.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As with the plots in Fig. 7, we see good agreement between the paraxial and non-paraxial predictions of RMF change with axial positioning of the eye (seeTable 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "These images are shown in Fig. 8 with annotations indicating absolute and relative distance changes between a blood vessel fork and the intersection of a blood vessel with the optic disc rim.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Importantly, the RMF change with axial positioning in the same eye is reduced to ∼1% when the subject was wearing contact lenses, as the images on the bottom row of Fig. 8 show.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The plots and data shown in Fig. 9 and Fig. 10, show weak correlation and statistical significance between surfaces radius and refractive error sphere equivalent, as well as axial length, whether considering all eyes in the study, or the higher myopes, defined as having sphere equivalent smaller than -4D.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, vitreous thickness shows a strong correlation (\n\n -0.92) and significance (\n\n) with refractive error when considering all eyes in our data set, and when considering only the higher myopes (\n\n -0.95; \n\n) as shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Finally, in the highly myopic eyes we see that the aqueous thickness shows a statistically significant correlation with axial length (\n\n 0.85) but not with refractive error (\n\n -0.68), suggesting that although the aqueous thickness increases with eye size, it does not affect the refractive error (Fig. 10).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nExploring the refractive myopia hypothesis in 34 eyes (left plots) and 9 myopic eyes with sphere equivalent ≤ 4D (right plots) through the correlation of the radii of the ocular surfaces against the spectacle prescription spherical equivalent and the ocular axial length.Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior nodal distance of individualized Emsley reduced eye\nThe simplest schematic eyes, referred to as reduced eyes, model the eye as a single refracting surface that represents the anterior surface of the cornea followed by a single homogenous medium, as depicted on the top left panel of Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior nodal distance scaling of individualized Gullstrand-Emsley eye\nEye models consisting of three refractive surfaces representing the anterior corneal surface, as well as the anterior and posterior surfaces of the crystalline lens (top right panel of Fig. 1), are referred to as simplified schematic eyes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior principal distance scaling of individualized Bennett-Rabbetts eye\nAn alternative RMF definition [9,44,47], uses the posterior principal distance (PPD) of the individualized simplified schematic eye by Bennett et. al. [9,43,44] (see bottom left panel of Fig. 1), \n\n\n(3)\n\n where 1.336 is the assumed refractive index of the aqueous and vitreous humors [43] and 1.82 mm is the distance from the corneal apex to the rear principal point of the eye.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The change in direction cosines of a ray after a refractive surface can be calculated using the vector form of Snell’s law [90], \n\n\n(7)\n\n where, as depicted in Fig. 2, \n\n is a unit vector along the refracted ray, \n\n is the ratio of the refractive indices before and after the surface, respectively, \n\n is a unit vector along the incident ray, \n\n is the surface normal unit vector, and \n\n is a scalar that can be calculated as follows.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "If we square Eq. (7), calculate the norm of both sides of the equation, and recall that all vectors have unit normal, we get, \n\n\n(8)\n\nFig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To explore the magnitude of such variation, we traced four ray pairs at 45 deg increments rotated about the optical axis, with their HFOVs defined in Eq. (14), where the first two angle pairs are depicted in Fig. 3. \n\n\n(14)\n\nFig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In these situations, the RMF should be scaled by a factor M that can be coarsely estimated using paraxial optics modeling of the spectacle or trial lens as a thin lens with power \n\n (in diopters), placed at a (positive) distance d from the entrance pupil plane of the eye in meters (i.e., the image of the iris as seen through the cornea and anterior chamber of the eye) as depicted in Fig. 4 [93], \n\n\n(15)\n\nFig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Comparison of RMF calculation methods\nRMFs values were calculated using all the methods described above based on the refractive index-corrected biometry, with the resulting values plotted in Fig. 5 and listed in Appendix B.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "To further test this point, the RMF values for our four-surface paraxial model eye were also calculated using the PND scaling (yellow symbols and line in Fig. 5) instead of chief rays (see Fig. 6), resulting in values consistent with those from other PND scaling methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nFour-surface paraxial individualized schematic eye diagrams showing the ray used to calculate retinal magnification factors using posterior nodal distance (left) scaling and chief ray tracing (right).The RMF values Fig. 5 were calculated for 555 nm light.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As with the plots in Fig. 7, we see good agreement between the paraxial and non-paraxial predictions of RMF change with axial positioning of the eye (seeTable 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "These images are shown in Fig. 8 with annotations indicating absolute and relative distance changes between a blood vessel fork and the intersection of a blood vessel with the optic disc rim.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Importantly, the RMF change with axial positioning in the same eye is reduced to ∼1% when the subject was wearing contact lenses, as the images on the bottom row of Fig. 8 show.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The plots and data shown in Fig. 9 and Fig. 10, show weak correlation and statistical significance between surfaces radius and refractive error sphere equivalent, as well as axial length, whether considering all eyes in the study, or the higher myopes, defined as having sphere equivalent smaller than -4D.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, vitreous thickness shows a strong correlation (\n\n -0.92) and significance (\n\n) with refractive error when considering all eyes in our data set, and when considering only the higher myopes (\n\n -0.95; \n\n) as shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Finally, in the highly myopic eyes we see that the aqueous thickness shows a statistically significant correlation with axial length (\n\n 0.85) but not with refractive error (\n\n -0.68), suggesting that although the aqueous thickness increases with eye size, it does not affect the refractive error (Fig. 10).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nExploring the refractive myopia hypothesis in 34 eyes (left plots) and 9 myopic eyes with sphere equivalent ≤ 4D (right plots) through the correlation of the radii of the ocular surfaces against the spectacle prescription spherical equivalent and the ocular axial length.Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior nodal distance of individualized Emsley reduced eye\nThe simplest schematic eyes, referred to as reduced eyes, model the eye as a single refracting surface that represents the anterior surface of the cornea followed by a single homogenous medium, as depicted on the top left panel of Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior nodal distance scaling of individualized Gullstrand-Emsley eye\nEye models consisting of three refractive surfaces representing the anterior corneal surface, as well as the anterior and posterior surfaces of the crystalline lens (top right panel of Fig. 1), are referred to as simplified schematic eyes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior principal distance scaling of individualized Bennett-Rabbetts eye\nAn alternative RMF definition [9,44,47], uses the posterior principal distance (PPD) of the individualized simplified schematic eye by Bennett et. al. [9,43,44] (see bottom left panel of Fig. 1), \n\n\n(3)\n\n where 1.336 is the assumed refractive index of the aqueous and vitreous humors [43] and 1.82 mm is the distance from the corneal apex to the rear principal point of the eye.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior nodal distance of individualized Emsley reduced eye\nThe simplest schematic eyes, referred to as reduced eyes, model the eye as a single refracting surface that represents the anterior surface of the cornea followed by a single homogenous medium, as depicted on the top left panel of Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The simplest schematic eyes, referred to as reduced eyes, model the eye as a single refracting surface that represents the anterior surface of the cornea followed by a single homogenous medium, as depicted on the top left panel of Fig. 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior nodal distance scaling of individualized Gullstrand-Emsley eye\nEye models consisting of three refractive surfaces representing the anterior corneal surface, as well as the anterior and posterior surfaces of the crystalline lens (top right panel of Fig. 1), are referred to as simplified schematic eyes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Eye models consisting of three refractive surfaces representing the anterior corneal surface, as well as the anterior and posterior surfaces of the crystalline lens (top right panel of Fig. 1), are referred to as simplified schematic eyes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Posterior principal distance scaling of individualized Bennett-Rabbetts eye\nAn alternative RMF definition [9,44,47], uses the posterior principal distance (PPD) of the individualized simplified schematic eye by Bennett et. al. [9,43,44] (see bottom left panel of Fig. 1), \n\n\n(3)\n\n where 1.336 is the assumed refractive index of the aqueous and vitreous humors [43] and 1.82 mm is the distance from the corneal apex to the rear principal point of the eye.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "An alternative RMF definition [9,44,47], uses the posterior principal distance (PPD) of the individualized simplified schematic eye by Bennett et. al. [9,43,44] (see bottom left panel of Fig. 1),.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The change in direction cosines of a ray after a refractive surface can be calculated using the vector form of Snell’s law [90], \n\n\n(7)\n\n where, as depicted in Fig. 2, \n\n is a unit vector along the refracted ray, \n\n is the ratio of the refractive indices before and after the surface, respectively, \n\n is a unit vector along the incident ray, \n\n is the surface normal unit vector, and \n\n is a scalar that can be calculated as follows.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "If we square Eq. (7), calculate the norm of both sides of the equation, and recall that all vectors have unit normal, we get, \n\n\n(8)\n\nFig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To explore the magnitude of such variation, we traced four ray pairs at 45 deg increments rotated about the optical axis, with their HFOVs defined in Eq. (14), where the first two angle pairs are depicted in Fig. 3. \n\n\n(14)\n\nFig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The change in direction cosines of a ray after a refractive surface can be calculated using the vector form of Snell’s law [90], \n\n\n(7)\n\n where, as depicted in Fig. 2, \n\n is a unit vector along the refracted ray, \n\n is the ratio of the refractive indices before and after the surface, respectively, \n\n is a unit vector along the incident ray, \n\n is the surface normal unit vector, and \n\n is a scalar that can be calculated as follows.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "If we square Eq. (7), calculate the norm of both sides of the equation, and recall that all vectors have unit normal, we get, \n\n\n(8)\n\nFig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "where, as depicted in Fig. 2, \n\n is a unit vector along the refracted ray, \n\n is the ratio of the refractive indices before and after the surface, respectively, \n\n is a unit vector along the incident ray, \n\n is the surface normal unit vector, and \n\n is a scalar that can be calculated as follows.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To explore the magnitude of such variation, we traced four ray pairs at 45 deg increments rotated about the optical axis, with their HFOVs defined in Eq. (14), where the first two angle pairs are depicted in Fig. 3. \n\n\n(14)\n\nFig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To explore the magnitude of such variation, we traced four ray pairs at 45 deg increments rotated about the optical axis, with their HFOVs defined in Eq. (14), where the first two angle pairs are depicted in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In these situations, the RMF should be scaled by a factor M that can be coarsely estimated using paraxial optics modeling of the spectacle or trial lens as a thin lens with power \n\n (in diopters), placed at a (positive) distance d from the entrance pupil plane of the eye in meters (i.e., the image of the iris as seen through the cornea and anterior chamber of the eye) as depicted in Fig. 4 [93], \n\n\n(15)\n\nFig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "In these situations, the RMF should be scaled by a factor M that can be coarsely estimated using paraxial optics modeling of the spectacle or trial lens as a thin lens with power \n\n (in diopters), placed at a (positive) distance d from the entrance pupil plane of the eye in meters (i.e., the image of the iris as seen through the cornea and anterior chamber of the eye) as depicted in Fig. 4 [93],.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Comparison of RMF calculation methods\nRMFs values were calculated using all the methods described above based on the refractive index-corrected biometry, with the resulting values plotted in Fig. 5 and listed in Appendix B.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "To further test this point, the RMF values for our four-surface paraxial model eye were also calculated using the PND scaling (yellow symbols and line in Fig. 5) instead of chief rays (see Fig. 6), resulting in values consistent with those from other PND scaling methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nFour-surface paraxial individualized schematic eye diagrams showing the ray used to calculate retinal magnification factors using posterior nodal distance (left) scaling and chief ray tracing (right).The RMF values Fig. 5 were calculated for 555 nm light.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As with the plots in Fig. 7, we see good agreement between the paraxial and non-paraxial predictions of RMF change with axial positioning of the eye (seeTable 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "These images are shown in Fig. 8 with annotations indicating absolute and relative distance changes between a blood vessel fork and the intersection of a blood vessel with the optic disc rim.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Importantly, the RMF change with axial positioning in the same eye is reduced to ∼1% when the subject was wearing contact lenses, as the images on the bottom row of Fig. 8 show.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The plots and data shown in Fig. 9 and Fig. 10, show weak correlation and statistical significance between surfaces radius and refractive error sphere equivalent, as well as axial length, whether considering all eyes in the study, or the higher myopes, defined as having sphere equivalent smaller than -4D.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, vitreous thickness shows a strong correlation (\n\n -0.92) and significance (\n\n) with refractive error when considering all eyes in our data set, and when considering only the higher myopes (\n\n -0.95; \n\n) as shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Finally, in the highly myopic eyes we see that the aqueous thickness shows a statistically significant correlation with axial length (\n\n 0.85) but not with refractive error (\n\n -0.68), suggesting that although the aqueous thickness increases with eye size, it does not affect the refractive error (Fig. 10).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nExploring the refractive myopia hypothesis in 34 eyes (left plots) and 9 myopic eyes with sphere equivalent ≤ 4D (right plots) through the correlation of the radii of the ocular surfaces against the spectacle prescription spherical equivalent and the ocular axial length.Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Comparison of RMF calculation methods\nRMFs values were calculated using all the methods described above based on the refractive index-corrected biometry, with the resulting values plotted in Fig. 5 and listed in Appendix B.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "To further test this point, the RMF values for our four-surface paraxial model eye were also calculated using the PND scaling (yellow symbols and line in Fig. 5) instead of chief rays (see Fig. 6), resulting in values consistent with those from other PND scaling methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nFour-surface paraxial individualized schematic eye diagrams showing the ray used to calculate retinal magnification factors using posterior nodal distance (left) scaling and chief ray tracing (right).The RMF values Fig. 5 were calculated for 555 nm light.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "RMFs values were calculated using all the methods described above based on the refractive index-corrected biometry, with the resulting values plotted in Fig. 5 and listed in Appendix B.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "To further test this point, the RMF values for our four-surface paraxial model eye were also calculated using the PND scaling (yellow symbols and line in Fig. 5) instead of chief rays (see Fig. 6), resulting in values consistent with those from other PND scaling methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The RMF values Fig. 5 were calculated for 555 nm light.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As with the plots in Fig. 7, we see good agreement between the paraxial and non-paraxial predictions of RMF change with axial positioning of the eye (seeTable 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "These images are shown in Fig. 8 with annotations indicating absolute and relative distance changes between a blood vessel fork and the intersection of a blood vessel with the optic disc rim.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Importantly, the RMF change with axial positioning in the same eye is reduced to ∼1% when the subject was wearing contact lenses, as the images on the bottom row of Fig. 8 show.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "As with the plots in Fig. 7, we see good agreement between the paraxial and non-paraxial predictions of RMF change with axial positioning of the eye (seeTable 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "These images are shown in Fig. 8 with annotations indicating absolute and relative distance changes between a blood vessel fork and the intersection of a blood vessel with the optic disc rim.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Importantly, the RMF change with axial positioning in the same eye is reduced to ∼1% when the subject was wearing contact lenses, as the images on the bottom row of Fig. 8 show.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The plots and data shown in Fig. 9 and Fig. 10, show weak correlation and statistical significance between surfaces radius and refractive error sphere equivalent, as well as axial length, whether considering all eyes in the study, or the higher myopes, defined as having sphere equivalent smaller than -4D.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, vitreous thickness shows a strong correlation (\n\n -0.92) and significance (\n\n) with refractive error when considering all eyes in our data set, and when considering only the higher myopes (\n\n -0.95; \n\n) as shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Finally, in the highly myopic eyes we see that the aqueous thickness shows a statistically significant correlation with axial length (\n\n 0.85) but not with refractive error (\n\n -0.68), suggesting that although the aqueous thickness increases with eye size, it does not affect the refractive error (Fig. 10).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nExploring the refractive myopia hypothesis in 34 eyes (left plots) and 9 myopic eyes with sphere equivalent ≤ 4D (right plots) through the correlation of the radii of the ocular surfaces against the spectacle prescription spherical equivalent and the ocular axial length.Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "The plots and data shown in Fig. 9 and Fig. 10, show weak correlation and statistical significance between surfaces radius and refractive error sphere equivalent, as well as axial length, whether considering all eyes in the study, or the higher myopes, defined as having sphere equivalent smaller than -4D.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, vitreous thickness shows a strong correlation (\n\n -0.92) and significance (\n\n) with refractive error when considering all eyes in our data set, and when considering only the higher myopes (\n\n -0.95; \n\n) as shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Finally, in the highly myopic eyes we see that the aqueous thickness shows a statistically significant correlation with axial length (\n\n 0.85) but not with refractive error (\n\n -0.68), suggesting that although the aqueous thickness increases with eye size, it does not affect the refractive error (Fig. 10).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  }
+]

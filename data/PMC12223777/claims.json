@@ -1,0 +1,387 @@
+[
+  {
+    "sentence": "The study design is depicted in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The study design is depicted in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The analysis demonstrated that patients in cluster 1 had significantly lower stromal score, immune score, and ESTIMATE score compared to those in cluster 2 (Figure 3A), indicating higher tumor purity in cluster 1 and greater immune cell infiltration in cluster 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Additionally, immune checkpoint expression analysis revealed significantly higher expression levels of PD-1, PD-L1, and CTLA-4 in cluster 2 compared to cluster 1 (Figure 3B-D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "A heatmap analysis demonstrated that cluster 2 tumors exhibited significantly higher immune cell infiltration than cluster 1 tumors (Figure 3E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel E",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel E",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This finding was corroborated by H&E staining, which showed increased lymphocyte infiltration in cluster 2 tumor tissues compared to cluster 1 (Figure 3F).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel F",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel F",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Univariate Cox regression analysis revealed that age (hazard ratio (HR) = 1.048, 95% confidence interval (CI) [1.029-1.067], P < 0.001), stage (HR = 1.694, 95% CI [1.279-2.244], P < 0.001), M stage (HR = 5.179, 95% CI [2.662-10.076], P < 0.001), N stage (HR = 1.369, 95% CI [1.090-1.720], P = 0.007), T stage (HR = 1.322, 95% CI [1.006-1.738], P = 0.045), and LMF_index (HR = 1.116, 95% CI [1.084-1.149], P < 0.001) were significantly associated with patient prognosis (Figure 5A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Multivariate Cox regression analysis further confirmed that age (HR = 1.054, 95% CI [1.034-1.074], P < 0.001) and LMF_index (HR = 1.113, 95% CI [1.078-1.150], P < 0.001) were independent prognostic factors for HR+ breast cancer (Figure 5B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Calibration curve analysis demonstrated strong predictive performance, with the nomogram achieving a C-index of 0.797 (95% CI [0.741-0.853]), indicating a high level of concordance between predicted and actual survival outcomes (Figure 5C-D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Additionally, multi-variable ROC curve analysis showed that the nomogram exhibited the highest AUC values for 2-year, 5-year, and 8-year survival predictions, with AUCs of 0.763, 0.787, and 0.821, respectively, demonstrating its superior predictive capability compared to individual prognostic factors (Figure 5E-G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Univariate Cox regression analysis revealed that age (hazard ratio (HR) = 1.048, 95% confidence interval (CI) [1.029-1.067], P < 0.001), stage (HR = 1.694, 95% CI [1.279-2.244], P < 0.001), M stage (HR = 5.179, 95% CI [2.662-10.076], P < 0.001), N stage (HR = 1.369, 95% CI [1.090-1.720], P = 0.007), T stage (HR = 1.322, 95% CI [1.006-1.738], P = 0.045), and LMF_index (HR = 1.116, 95% CI [1.084-1.149], P < 0.001) were significantly associated with patient prognosis (Figure 5A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Multivariate Cox regression analysis further confirmed that age (HR = 1.054, 95% CI [1.034-1.074], P < 0.001) and LMF_index (HR = 1.113, 95% CI [1.078-1.150], P < 0.001) were independent prognostic factors for HR+ breast cancer (Figure 5B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Calibration curve analysis demonstrated strong predictive performance, with the nomogram achieving a C-index of 0.797 (95% CI [0.741-0.853]), indicating a high level of concordance between predicted and actual survival outcomes (Figure 5C-D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Additionally, multi-variable ROC curve analysis showed that the nomogram exhibited the highest AUC values for 2-year, 5-year, and 8-year survival predictions, with AUCs of 0.763, 0.787, and 0.821, respectively, demonstrating its superior predictive capability compared to individual prognostic factors (Figure 5E-G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel E",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Kaplan-Meier survival analysis demonstrated that patients in the high LMF_index group exhibited significantly worse OS compared to those in the low LMF_index group (Figure 6A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, ROC curve analysis revealed that the AUC value for 8-year OS prediction exceeded 0.6, further confirming the predictive reliability of LMF_index in HR+ breast cancer (Figure 6B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel B",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel B",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Additionally, univariate and multivariate Cox regression analyses established LMF_index as an independent prognostic factor for HR+ breast cancer patients (Figure 6C-D), highlighting its clinical relevance in prognostic assessment.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel C",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Representative mIHC images demonstrated distinct expression differences between high and low LMF_index groups (Figure 7A-B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel A",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Kaplan-Meier survival analysis further demonstrated that patients with a low LMF_index had a more favorable prognosis (Figure 7C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel C",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel C",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, ROC curve analysis showed that LMF_index achieved an AUC of 0.76 in 8-year OS prediction, underscoring its potential as a robust prognostic biomarker (Figure 7D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel D",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel D",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, LMF_index was significantly associated with patient age and survival status (Figure 7E), further supporting its clinical relevance as a prognostic indicator.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel E",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel E",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Kaplan-Meier survival analysis demonstrated that patients in the high LMF_index group exhibited significantly worse OS compared to those in the low LMF_index group (Figure 6A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, ROC curve analysis revealed that the AUC value for 8-year OS prediction exceeded 0.6, further confirming the predictive reliability of LMF_index in HR+ breast cancer (Figure 6B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel B",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel B",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Additionally, univariate and multivariate Cox regression analyses established LMF_index as an independent prognostic factor for HR+ breast cancer patients (Figure 6C-D), highlighting its clinical relevance in prognostic assessment.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel C",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Representative mIHC images demonstrated distinct expression differences between high and low LMF_index groups (Figure 7A-B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel A",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Kaplan-Meier survival analysis further demonstrated that patients with a low LMF_index had a more favorable prognosis (Figure 7C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel C",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel C",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, ROC curve analysis showed that LMF_index achieved an AUC of 0.76 in 8-year OS prediction, underscoring its potential as a robust prognostic biomarker (Figure 7D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel D",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel D",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, LMF_index was significantly associated with patient age and survival status (Figure 7E), further supporting its clinical relevance as a prognostic indicator.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel E",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel E",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Additionally, we thank BioRender (https://app.biorender.com) for assisting in the creation of Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Additionally, we thank BioRender (https://app.biorender.com) for assisting in the creation of Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  }
+]

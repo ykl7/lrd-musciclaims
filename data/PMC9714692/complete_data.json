@@ -1,0 +1,732 @@
+{
+  "paper_id": "PMC9714692",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9714692/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Fig. 1. STAT structure.",
+      "caption": "The signal transducer and activator of transcription (STAT) family members are ~740–900 amino acids in length and maintain relatively conserved regions in their structures. Each STAT protein contains these functionally conserved domains: 1) N-terminal domain (NTD) capped with NH2, 2) coiled-coiled domain (CCD), 3) DNA-binding domain (DBD), 4) linker domain (LD), 5) SRC homology 2 domain (SH2), 6) tyrosine phosphorylation site (pY), and 7) C-terminal transactivation domain (TAD) containing COOH. STAT4 is the shortest STAT protein (748), while STAT2 is the longest (851). Additionally, there is another conserved phospho-serine residue in the TAD of STAT1, STAT3, STAT5a, STAT5b, and STAT6.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff38/9714692/57740d56f2c9/nihms-1844795-f0001.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff38/9714692/57740d56f2c9/nihms-1844795-f0001.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff38/9714692/57740d56f2c9/nihms-1844795-f0001.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff38/9714692/57740d56f2c9/nihms-1844795-f0001.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff38/9714692/57740d56f2c9/nihms-1844795-f0001.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC9714692/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff38/9714692/57740d56f2c9/nihms-1844795-f0001.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Fig. 2.",
+      "caption": "Canonical STAT pathway activation. STAT proteins are activated by a myriad of cytokines or growth factors (i.e. ligands), which bind to extracellular domains on cell-surface receptors (i.e. receptors) to form ligand-receptor complexes. The canonical IL-6/IL-6Ralpha/STAT3 pathway (left), for example, involves the IL-6 cytokine (ligand) binding to the IL-6Ralpha, which activates gp130 association with IL-6/IL-6Ralpha. Two trimeric IL-6/IL-6Ralpha/STAT3 complexes interact, recruit JAKs, phosphorylate the intracellular domains of gp130, activate STAT3 via phosphorylation, pSTAT3 dimers then translocate to the nucleus where they modulate gene expression of downstream target genes. Additional receptors, such as EGF or FGF receptors (right), retain intrinsic kinase activities and can directly phosphorylate STAT proteins leading to STAT phosphorylation, dimerization, and subsequent translocation to the nucleus. Though there are reports of alternative STAT activation including methods where STAT proteins form dimers without phosphorylation, this pathway describes the most common STAT pathway activation.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff38/9714692/c206174dc388/nihms-1844795-f0002.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff38/9714692/c206174dc388/nihms-1844795-f0002.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff38/9714692/c206174dc388/nihms-1844795-f0002.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff38/9714692/c206174dc388/nihms-1844795-f0002.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff38/9714692/c206174dc388/nihms-1844795-f0002.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC9714692/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff38/9714692/c206174dc388/nihms-1844795-f0002.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "In general, the canonical STAT members contain these common domains/regions including 1) the N-terminal domain (NTD; NH2), 2) the coiled-coil domain (CCD), 3) the DNA-binding domain (DBD), 4) the linker domain (LD), 5) the SRC homology 2 domain (SH2), 6) the tyrosine-phosphorylation site (pY), and 7) the C-terminal transactivation domain (TAD) [23,46–53] (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Activation by ligand binding to its respective surface receptor initiates a cascade of signaling events leading to STAT translocation to the nucleus and regulation of downstream target genes (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Unactivated STATs are also phosphorylated by tyrosine kinases that retain intrinsic kinase activity, which do not require JAKs (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "In general, the canonical STAT members contain these common domains/regions including 1) the N-terminal domain (NTD; NH2), 2) the coiled-coil domain (CCD), 3) the DNA-binding domain (DBD), 4) the linker domain (LD), 5) the SRC homology 2 domain (SH2), 6) the tyrosine-phosphorylation site (pY), and 7) the C-terminal transactivation domain (TAD) [23,46–53] (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Activation by ligand binding to its respective surface receptor initiates a cascade of signaling events leading to STAT translocation to the nucleus and regulation of downstream target genes (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Unactivated STATs are also phosphorylated by tyrosine kinases that retain intrinsic kinase activity, which do not require JAKs (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "In general, the canonical STAT members contain these common domains/regions including 1) the N-terminal domain (NTD; NH2), 2) the coiled-coil domain (CCD), 3) the DNA-binding domain (DBD), 4) the linker domain (LD), 5) the SRC homology 2 domain (SH2), 6) the tyrosine-phosphorylation site (pY), and 7) the C-terminal transactivation domain (TAD) [23,46–53] (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Activation by ligand binding to its respective surface receptor initiates a cascade of signaling events leading to STAT translocation to the nucleus and regulation of downstream target genes (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Unactivated STATs are also phosphorylated by tyrosine kinases that retain intrinsic kinase activity, which do not require JAKs (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "In general, the canonical STAT members contain these common domains/regions including 1) the N-terminal domain (NTD; NH2), 2) the coiled-coil domain (CCD), 3) the DNA-binding domain (DBD), 4) the linker domain (LD), 5) the SRC homology 2 domain (SH2), 6) the tyrosine-phosphorylation site (pY), and 7) the C-terminal transactivation domain (TAD) [23,46–53] (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Activation by ligand binding to its respective surface receptor initiates a cascade of signaling events leading to STAT translocation to the nucleus and regulation of downstream target genes (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Unactivated STATs are also phosphorylated by tyrosine kinases that retain intrinsic kinase activity, which do not require JAKs (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "In general, the canonical STAT members contain these common domains/regions including 1) the N-terminal domain (NTD; NH2), 2) the coiled-coil domain (CCD), 3) the DNA-binding domain (DBD), 4) the linker domain (LD), 5) the SRC homology 2 domain (SH2), 6) the tyrosine-phosphorylation site (pY), and 7) the C-terminal transactivation domain (TAD) [23,46–53] (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Activation by ligand binding to its respective surface receptor initiates a cascade of signaling events leading to STAT translocation to the nucleus and regulation of downstream target genes (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Unactivated STATs are also phosphorylated by tyrosine kinases that retain intrinsic kinase activity, which do not require JAKs (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "In general, the canonical STAT members contain these common domains/regions including 1) the N-terminal domain (NTD; NH2), 2) the coiled-coil domain (CCD), 3) the DNA-binding domain (DBD), 4) the linker domain (LD), 5) the SRC homology 2 domain (SH2), 6) the tyrosine-phosphorylation site (pY), and 7) the C-terminal transactivation domain (TAD) [23,46–53] (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Activation by ligand binding to its respective surface receptor initiates a cascade of signaling events leading to STAT translocation to the nucleus and regulation of downstream target genes (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Unactivated STATs are also phosphorylated by tyrosine kinases that retain intrinsic kinase activity, which do not require JAKs (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "In general, the canonical STAT members contain these common domains/regions including 1) the N-terminal domain (NTD; NH2), 2) the coiled-coil domain (CCD), 3) the DNA-binding domain (DBD), 4) the linker domain (LD), 5) the SRC homology 2 domain (SH2), 6) the tyrosine-phosphorylation site (pY), and 7) the C-terminal transactivation domain (TAD) [23,46–53] (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Activation by ligand binding to its respective surface receptor initiates a cascade of signaling events leading to STAT translocation to the nucleus and regulation of downstream target genes (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Unactivated STATs are also phosphorylated by tyrosine kinases that retain intrinsic kinase activity, which do not require JAKs (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "In general, the canonical STAT members contain these common domains/regions including 1) the N-terminal domain (NTD; NH2), 2) the coiled-coil domain (CCD), 3) the DNA-binding domain (DBD), 4) the linker domain (LD), 5) the SRC homology 2 domain (SH2), 6) the tyrosine-phosphorylation site (pY), and 7) the C-terminal transactivation domain (TAD) [23,46–53] (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Activation by ligand binding to its respective surface receptor initiates a cascade of signaling events leading to STAT translocation to the nucleus and regulation of downstream target genes (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Unactivated STATs are also phosphorylated by tyrosine kinases that retain intrinsic kinase activity, which do not require JAKs (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "In general, the canonical STAT members contain these common domains/regions including 1) the N-terminal domain (NTD; NH2), 2) the coiled-coil domain (CCD), 3) the DNA-binding domain (DBD), 4) the linker domain (LD), 5) the SRC homology 2 domain (SH2), 6) the tyrosine-phosphorylation site (pY), and 7) the C-terminal transactivation domain (TAD) [23,46–53] (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Activation by ligand binding to its respective surface receptor initiates a cascade of signaling events leading to STAT translocation to the nucleus and regulation of downstream target genes (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Unactivated STATs are also phosphorylated by tyrosine kinases that retain intrinsic kinase activity, which do not require JAKs (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "In general, the canonical STAT members contain these common domains/regions including 1) the N-terminal domain (NTD; NH2), 2) the coiled-coil domain (CCD), 3) the DNA-binding domain (DBD), 4) the linker domain (LD), 5) the SRC homology 2 domain (SH2), 6) the tyrosine-phosphorylation site (pY), and 7) the C-terminal transactivation domain (TAD) [23,46–53] (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "In general, the canonical STAT members contain these common domains/regions including 1) the N-terminal domain (NTD; NH2), 2) the coiled-coil domain (CCD), 3) the DNA-binding domain (DBD), 4) the linker domain (LD), 5) the SRC homology 2 domain (SH2), 6) the tyrosine-phosphorylation site (pY), and 7) the C-terminal transactivation domain (TAD) [23,46–53] (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Activation by ligand binding to its respective surface receptor initiates a cascade of signaling events leading to STAT translocation to the nucleus and regulation of downstream target genes (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Unactivated STATs are also phosphorylated by tyrosine kinases that retain intrinsic kinase activity, which do not require JAKs (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Activation by ligand binding to its respective surface receptor initiates a cascade of signaling events leading to STAT translocation to the nucleus and regulation of downstream target genes (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Unactivated STATs are also phosphorylated by tyrosine kinases that retain intrinsic kinase activity, which do not require JAKs (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 2,
+    "claims_count": 33,
+    "images_downloaded": 2,
+    "tables_filtered": 1
+  }
+}

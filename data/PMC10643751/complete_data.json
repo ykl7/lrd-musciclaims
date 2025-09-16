@@ -1,0 +1,4212 @@
+{
+  "paper_id": "PMC10643751",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10643751/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Figure 1.",
+      "caption": "Methodology of eye deviation analysis: (A,B) show the time series of right and left eye horizontal and vertical eye position data from a Parkinson’s disease subject collected under right (A) and left (B) eye viewing conditions while viewing a target in primary position for 20 s. Notice that in right eye viewing condition (A), the left eye is deviated to the left and during left eye viewing (B), the right eye is deviated to the right indicative of an exodeviation. The viewing eye data obtained under monocular viewing is designated as the expected eye position – i.e., the right eye position data [blue trace in (A)] under right eye viewing is designated as right eye expected eye position data and vice versa whereas the non-viewing eye data obtained under monocular viewing is the actual eye position data, i.e., non-viewing right eye data [cyan trace in (B)] obtained under left eye viewing is designated as actual eye position data of the right eye and vice versa. (C,D) show the respective “expected” (dark blue and dark red traces) and “actual” eye position traces (light blue and light red) for the right (C) and left eye (D). Annotations on the side show median values for expected horizontal and expected vertical eye positions to use in the calculation of the angle of deviation. The eye deviation was measured by comparing the position of each eye with itself when it was viewing vs. non-viewing (i.e., expected and actual eye positions, respectively). (E,F) show the computed difference in horizontal and vertical planes between the “expected” and “actual” eye positions for the right (E) and left eyes (F).",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/078f0b443464/fnagi-15-1217765-g001.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/078f0b443464/fnagi-15-1217765-g001.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/078f0b443464/fnagi-15-1217765-g001.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/078f0b443464/fnagi-15-1217765-g001.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/078f0b443464/fnagi-15-1217765-g001.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10643751/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/078f0b443464/fnagi-15-1217765-g001.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Figure 2.",
+      "caption": "Application of DBSCAN: (A–C) shows the time series [x-axis: time(s); y-axis: eye deviation (deg)]; (A) shows the computed difference between expected and actual eye positions in horizontal and vertical planes; (B) shows the Initial application of DBSCAN resulting in 5 well-aligned and 8 misaligned clusters. Inset shows the instance of filtering out rapid eye movements, in this case, an SWJ; (C) shows a single well-aligned super-cluster. Misaligned clusters with horizontal means <2° and vertical means <1° apart are combined. End result: 1 super-cluster of good binocular alignment and 3 misaligned super-clusters.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/d8124694b348/fnagi-15-1217765-g002.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/d8124694b348/fnagi-15-1217765-g002.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/d8124694b348/fnagi-15-1217765-g002.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/d8124694b348/fnagi-15-1217765-g002.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/d8124694b348/fnagi-15-1217765-g002.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10643751/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/d8124694b348/fnagi-15-1217765-g002.jpg"
+    },
+    "figure_3": {
+      "figure_number": "Figure 3",
+      "title": "Figure 3.",
+      "caption": "Examples of horizontal and vertical eye positions obtained from the right eye during a 30-s epoch under left eye viewing (monocular) and binocular viewing conditions: From a Control subject in BV [(A)-left top panel)] and MV [(A)-right top panel)], eye positions maintained fairly close together under BV with minimal increase in difference (exodeviation) between actual and expected eye positions observed under MV; (A) (middle panel): eye deviation, i.e., difference in eye positions for BV (right) and MV (left) in horizontal and vertical planes in control subject; (A) (bottom panel): histogram of difference of horizontal eye positions (95% lower and upper bounds with span in parenthesis) showing less spread in BV than MV with the majority of data points falling within the threshold window of 3.5°). PDG1 subject: (B) (left top panel): BV—eye positions maintained close together, (B) (right top panel): MV—significant difference (7–9.25° horizontal) between actual and expected eye position; (B) (middle panel): minimal difference in eye positions for BV (right) and a significantly larger difference in MV (left) in horizontal and vertical planes in PDG1; (B) (bottom panel): histogram of difference of horizontal eye positions showing constrained spread in BV and relatively larger spread in MV. PDG2 subject: (C) (left top panel): BV—eye positions maintained close together initially with right eye deviating up to 8° starting around the halfway point, (C) (right top panel): MV—gradually increasing rightward deviation in horizontal plane; (C) (middle panel): difference in eye positions for BV (right) and MV (left) in horizontal and vertical planes in PDG2 showing significantly higher deviation; (C) (bottom panel): histogram of difference of eye positions showing large spread in both BV and MV with increased span under BV. PDG3 subject: (D) (left top panel): BV—large difference in eye positions throughout, (D) (right top panel): MV—large angle deviation in horizontal between actual and expected eye position; (D) (middle panel): difference in eye positions for BV (right) and MV (left) in horizontal and vertical planes and horizontal eye deviation in PDG3; (D) (bottom panel): histogram of the horizontal difference of eye positions showing extremely large spread in both BV and MV with increased span under both BV and MV.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/f56f73479ebe/fnagi-15-1217765-g003.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/f56f73479ebe/fnagi-15-1217765-g003.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/f56f73479ebe/fnagi-15-1217765-g003.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/f56f73479ebe/fnagi-15-1217765-g003.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig3",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/f56f73479ebe/fnagi-15-1217765-g003.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10643751/images/figure_3.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/f56f73479ebe/fnagi-15-1217765-g003.jpg"
+    },
+    "figure_4": {
+      "figure_number": "Figure 4",
+      "title": "Figure 4.",
+      "caption": "(A,B) Scatter plot of the log of cluster means generated using the DBSCAN algorithm for each participant in BV (A) and MV (B) in horizontal (x-axis) and vertical (y-axis) planes. Marker size is indicative of time spent in that region. Controls (black squares) are very well-controlled in BV with the majority of points within the threshold window in MV (i.e., within or near gray box depicting threshold for well-aligned clusters—3.5° horizontal; 2° vertical) than PD subjects. PDG1 subjects (green diamonds) are comparable to controls in BV but show significant deviation in MV. PDG2 subjects (blue circles) show some increase in eye deviation in BV with a large increase in eye deviation in MV. PDG3 subjects (red triangles) show significantly worse eye alignment with extremely large eye deviation reflected as the majority of red symbols being outside the threshold window, particularly in MV.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/41de4cc60b62/fnagi-15-1217765-g004.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/41de4cc60b62/fnagi-15-1217765-g004.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/41de4cc60b62/fnagi-15-1217765-g004.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/41de4cc60b62/fnagi-15-1217765-g004.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig4",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/41de4cc60b62/fnagi-15-1217765-g004.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10643751/images/figure_4.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/41de4cc60b62/fnagi-15-1217765-g004.jpg"
+    },
+    "figure_5": {
+      "figure_number": "Figure 5",
+      "title": "Figure 5.",
+      "caption": "Examples of vergence initiation strategies and their distribution by group: (A–D) show vergence strategies seen across four groups of participants. Black solid circle denotes peak velocity. Gray lines define the start and end of fusion initiation/gaze shift. Dashed green trace defines the fusion maintenance component. Notice that in the pure vergence strategy (A), the left eye moves to the right and the right eye moves to the left with a net purely disconjugate component (green trace—positive excursion suggestive of convergence response). In the pure saccade strategy (B), the right and left eyes move to the right with a net conjugate movement (cyan trace) and there is a minimal change in the disconjugate component (green trace). For the vergence saccade (VS) strategy (C), there is an initial pure vergence movement that is followed by a saccade whereas in the saccade vergence (SV) strategy (D), there is a saccadic component (arrow) that precedes the pure vergence component. For the strategies incorporating conjugate shift (B–D) notice that the saccades are asymmetric resulting in a net disconjugate component that contributes to the vergence gain (dark green section in Reactual, LEactual, and Vergence traces emphasized with black arrows). The resultant conjugate shift (cyan trace) is emphasized with red arrows.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/6c692692c57e/fnagi-15-1217765-g005.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/6c692692c57e/fnagi-15-1217765-g005.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/6c692692c57e/fnagi-15-1217765-g005.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/6c692692c57e/fnagi-15-1217765-g005.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig5",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/6c692692c57e/fnagi-15-1217765-g005.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10643751/images/figure_5.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/6c692692c57e/fnagi-15-1217765-g005.jpg"
+    },
+    "figure_6": {
+      "figure_number": "Figure 6",
+      "title": "Figure 6.",
+      "caption": "(A–D) depict the distribution of different strategies recruited to perform gaze shift in BV—pure vergence “PV”, vergence-saccade—“VS”, saccade-vergence—“SV”, and pure saccade—“PS”. In (A), control subjects were successful in performing vergence-leading eye movements (PV or VS) 95% of the time whereas, PDG1 subjects (B) were successful in performing vergence-leading eye movements 44% of the time. PDG2 subjects (C) had significant difficulty in executing any appreciable gaze shift (33%) and could only perform vergence-leading eye movements 35% of the time. PDG3 subjects (D) also had significant difficulty in executing any appreciable gaze shift (21%) and executed a much higher percentage of saccade-leading eye movements 14% of the time and divergence (wrong direction) movements 10% of the time. Notice that minimal movement, wrong direction (divergence movement), and pure saccade strategies were seen only in PD subjects with a greater % of patients in PDG2 and PDG3 that exhibited minimal movement strategy.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/4a8e24581f0b/fnagi-15-1217765-g006.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/4a8e24581f0b/fnagi-15-1217765-g006.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/4a8e24581f0b/fnagi-15-1217765-g006.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/4a8e24581f0b/fnagi-15-1217765-g006.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig6",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/4a8e24581f0b/fnagi-15-1217765-g006.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10643751/images/figure_6.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/4a8e24581f0b/fnagi-15-1217765-g006.jpg"
+    },
+    "figure_7": {
+      "figure_number": "Figure 7",
+      "title": "Figure 7.",
+      "caption": "(A) Summary box plot of vergence gaze shift gain with respect to the strategy used. Controls have the highest overall gain compared to the PD groups across all strategies with the ability to initiate movement for all trials. PD Groups had lower overall gains and trials with pure saccades and minimal movement. Gains in conjugate segments of gaze shifts (PS, VS, and SV) are computed from asymmetric saccades giving rise to a net disconjugacy. (B) Logarithmic plot of latencies found during each trial broken down into the latency of vergence (disconjugate) movement (x-axis) and saccade (conjugate) movement (y-axis) across different groups. In the case of pure vergence (missing ordinate) or pure saccade (missing abscissa), a constant but arbitrary value was assigned in place of the missing value to plot against combination strategies (alternate strategies involving both vergence and saccade). Most controls (black squares) utilized vergence-leading strategies (PV or VS) (values are above the equality line). PDG1 (green diamonds), PDG2 (blue circles), and PDG3 (red triangles) subjects had several trials with saccade-leading (SV or PS) strategies.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/2cb17e071cde/fnagi-15-1217765-g007.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/2cb17e071cde/fnagi-15-1217765-g007.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/2cb17e071cde/fnagi-15-1217765-g007.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/2cb17e071cde/fnagi-15-1217765-g007.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig7",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/2cb17e071cde/fnagi-15-1217765-g007.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10643751/images/figure_7.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/281d/10643751/2cb17e071cde/fnagi-15-1217765-g007.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "Figure 1 describes the steps undertaken to analyze eye alignment.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 1A,B depicts eye positions for monocular viewing conditions with right eye viewing (Figure 1A—right eye expected eye position data) and left eye viewing (Figure 1B—left eye expected eye position data).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The eye deviation (difference calculated between expected and actual eye positions) was further filtered to remove all rapid movements such as saccadic intrusions, as shown in Figure 2B (inset).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Clusters with horizontal and vertical means within the normative ranges (threshold window) were labeled as “good” or well-aligned and all others were labeled as “bad” clusters, henceforth referred to as “misaligned clusters.”\nFigure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "End result: 1 super-cluster of good binocular alignment and 3 misaligned super-clusters.Figure 2 graphically depicts the application of DBSCAN and the clustering approach in analyzing eye deviation under binocular viewing in a PD subject.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A: horizontal and vertical eye deviation obtained after taking the difference between the expected and actual eye position in horizontal and vertical planes, respectively, as outlined in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "On initial application of DBSCAN, we get 13 clusters (Figure 2B); Out of these, 5 clusters are shown in varying shades of green, when the eyes are well-aligned, and 8 clusters in varying shades of red, when the eyes are misaligned (outside the determined threshold window—3.5° horizontally and 2° vertically).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The well-aligned and misaligned clusters were further merged into super-clusters with the following criteria: 1) all well-aligned clusters combined into one super-cluster and 2) misaligned clusters with both horizontal means <2° and vertical means <1° apart were merged (Figure 2C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Finally, the weighted mean of all the misaligned super-clusters was determined using Eq. (1).\n\n\n(1)\n\n\n\n(2)\n\n\n\n(3)\n\n\n\n(4)\n\nFor example, as shown in Figure 2, the means of misaligned clusters were dark purple cluster [Horizontal: −0.1°; Vertical: 2.51°; Time duration: 0.69 s], pink cluster [Horizontal: −4.55°; Vertical: −0.69°; Time duration: 1.01 s], and red cluster [Horizontal: −6.76°; Vertical: −1.44° Time duration: 11.41 s].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 compares the horizontal and vertical eye alignment in controls and PD Groups 1, 2, and 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 3A–D (top panel): actual and expected eye positions of the non-fixing eye under binocular viewing (BV) and of the non-viewing eye under monocular viewing (MV); (middle panel): horizontal and vertical eye deviation resulting from the angular difference in eye positions (shown in top panel), computed using actual and expected eye positions as outlined above and the histogram of horizontal eye deviation with 95% upper and lower bounds (bottom panel) with the span of eye deviation from a healthy control (Figure 3A), PD subject in Group 1 (Figure 3B), PD subject in Group 2 (Figure 3C), and PD subject in Group 3 (Figure 3D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "PD subject from Group 1 (Figure 3B) had an eye alignment comparable to the healthy subject in BV (left), but with the right eye deviating out in MV (right—exophoria by ~8°).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Histogram representation in Figure 3B shows comparable eye deviation upper and lower bounds and span to control subject under BV and increased horizontal eye deviation under MV.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3C shows an example of a PD patient in Group 2 with an initially normal eye alignment that gradually deteriorates with the right eye drifting to the right by 8°, suggestive of exotropia, during BV (left).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3D shows an example of a PD patient in Group 3 with increased eye misalignment of ~7°, suggestive of exotropia, during BV (left), and ~ 18° eye deviation in MV (right).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an obvious deterioration trend in spatial and temporal control of alignment as we go from PD Group 1 (similar to controls) to PD Group 3 (high degree of exodeviation).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 4A,B describes the mean cluster locations as identified after the application of DBSCAN and the time spent in that region for each viewing condition: BV (Figure 4A) and MV (Figure 4B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We identified strategies contributing to a net convergence as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This strategy was highly prevalent in controls; the example is shown in Figure 5A.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5B shows an example where a pure saccadic (PS) or conjugate movement was performed instead of a vergence movement.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the convergence trace (green, Figure 5B) has minimal shift, while each eye is making a large rapid gaze shift (i.e., saccade) in the same direction.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The change in vergence (green) trace between the two vertical gray lines occurs due to an existing asymmetry between the saccades in each eye, resulting in a net disconjugate gaze shift as can be seen by comparing the amplitude of the right (blue) and left eyes (magenta) and the conjugate eye position (cyan) (Figure 5B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5C shows a leading vergence response coupled with a conjugate saccade component at the end, a strategy called vergence-saccade.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel C",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5D shows an initial conjugate saccadic response followed by vergence, i.e., saccade-vergence strategy (referred to as “SV”).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel D",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The resultant conjugate shift (cyan trace) is emphasized with red arrows.Figure 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Notice that minimal movement, wrong direction (divergence movement), and pure saccade strategies were seen only in PD subjects with a greater % of patients in PDG2 and PDG3 that exhibited minimal movement strategy.We then evaluated gain based on the vergence strategy employed across the four groups (Figure 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 7B shows latencies observed across all groups on a log scale.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 describes the steps undertaken to analyze eye alignment.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 1A,B depicts eye positions for monocular viewing conditions with right eye viewing (Figure 1A—right eye expected eye position data) and left eye viewing (Figure 1B—left eye expected eye position data).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The eye deviation (difference calculated between expected and actual eye positions) was further filtered to remove all rapid movements such as saccadic intrusions, as shown in Figure 2B (inset).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Clusters with horizontal and vertical means within the normative ranges (threshold window) were labeled as “good” or well-aligned and all others were labeled as “bad” clusters, henceforth referred to as “misaligned clusters.”\nFigure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "End result: 1 super-cluster of good binocular alignment and 3 misaligned super-clusters.Figure 2 graphically depicts the application of DBSCAN and the clustering approach in analyzing eye deviation under binocular viewing in a PD subject.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A: horizontal and vertical eye deviation obtained after taking the difference between the expected and actual eye position in horizontal and vertical planes, respectively, as outlined in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "On initial application of DBSCAN, we get 13 clusters (Figure 2B); Out of these, 5 clusters are shown in varying shades of green, when the eyes are well-aligned, and 8 clusters in varying shades of red, when the eyes are misaligned (outside the determined threshold window—3.5° horizontally and 2° vertically).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The well-aligned and misaligned clusters were further merged into super-clusters with the following criteria: 1) all well-aligned clusters combined into one super-cluster and 2) misaligned clusters with both horizontal means <2° and vertical means <1° apart were merged (Figure 2C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Finally, the weighted mean of all the misaligned super-clusters was determined using Eq. (1).\n\n\n(1)\n\n\n\n(2)\n\n\n\n(3)\n\n\n\n(4)\n\nFor example, as shown in Figure 2, the means of misaligned clusters were dark purple cluster [Horizontal: −0.1°; Vertical: 2.51°; Time duration: 0.69 s], pink cluster [Horizontal: −4.55°; Vertical: −0.69°; Time duration: 1.01 s], and red cluster [Horizontal: −6.76°; Vertical: −1.44° Time duration: 11.41 s].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 compares the horizontal and vertical eye alignment in controls and PD Groups 1, 2, and 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 3A–D (top panel): actual and expected eye positions of the non-fixing eye under binocular viewing (BV) and of the non-viewing eye under monocular viewing (MV); (middle panel): horizontal and vertical eye deviation resulting from the angular difference in eye positions (shown in top panel), computed using actual and expected eye positions as outlined above and the histogram of horizontal eye deviation with 95% upper and lower bounds (bottom panel) with the span of eye deviation from a healthy control (Figure 3A), PD subject in Group 1 (Figure 3B), PD subject in Group 2 (Figure 3C), and PD subject in Group 3 (Figure 3D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "PD subject from Group 1 (Figure 3B) had an eye alignment comparable to the healthy subject in BV (left), but with the right eye deviating out in MV (right—exophoria by ~8°).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Histogram representation in Figure 3B shows comparable eye deviation upper and lower bounds and span to control subject under BV and increased horizontal eye deviation under MV.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3C shows an example of a PD patient in Group 2 with an initially normal eye alignment that gradually deteriorates with the right eye drifting to the right by 8°, suggestive of exotropia, during BV (left).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3D shows an example of a PD patient in Group 3 with increased eye misalignment of ~7°, suggestive of exotropia, during BV (left), and ~ 18° eye deviation in MV (right).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an obvious deterioration trend in spatial and temporal control of alignment as we go from PD Group 1 (similar to controls) to PD Group 3 (high degree of exodeviation).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 4A,B describes the mean cluster locations as identified after the application of DBSCAN and the time spent in that region for each viewing condition: BV (Figure 4A) and MV (Figure 4B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We identified strategies contributing to a net convergence as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This strategy was highly prevalent in controls; the example is shown in Figure 5A.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5B shows an example where a pure saccadic (PS) or conjugate movement was performed instead of a vergence movement.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the convergence trace (green, Figure 5B) has minimal shift, while each eye is making a large rapid gaze shift (i.e., saccade) in the same direction.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The change in vergence (green) trace between the two vertical gray lines occurs due to an existing asymmetry between the saccades in each eye, resulting in a net disconjugate gaze shift as can be seen by comparing the amplitude of the right (blue) and left eyes (magenta) and the conjugate eye position (cyan) (Figure 5B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5C shows a leading vergence response coupled with a conjugate saccade component at the end, a strategy called vergence-saccade.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel C",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5D shows an initial conjugate saccadic response followed by vergence, i.e., saccade-vergence strategy (referred to as “SV”).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel D",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The resultant conjugate shift (cyan trace) is emphasized with red arrows.Figure 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Notice that minimal movement, wrong direction (divergence movement), and pure saccade strategies were seen only in PD subjects with a greater % of patients in PDG2 and PDG3 that exhibited minimal movement strategy.We then evaluated gain based on the vergence strategy employed across the four groups (Figure 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 7B shows latencies observed across all groups on a log scale.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 describes the steps undertaken to analyze eye alignment.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 1A,B depicts eye positions for monocular viewing conditions with right eye viewing (Figure 1A—right eye expected eye position data) and left eye viewing (Figure 1B—left eye expected eye position data).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The eye deviation (difference calculated between expected and actual eye positions) was further filtered to remove all rapid movements such as saccadic intrusions, as shown in Figure 2B (inset).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Clusters with horizontal and vertical means within the normative ranges (threshold window) were labeled as “good” or well-aligned and all others were labeled as “bad” clusters, henceforth referred to as “misaligned clusters.”\nFigure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "End result: 1 super-cluster of good binocular alignment and 3 misaligned super-clusters.Figure 2 graphically depicts the application of DBSCAN and the clustering approach in analyzing eye deviation under binocular viewing in a PD subject.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A: horizontal and vertical eye deviation obtained after taking the difference between the expected and actual eye position in horizontal and vertical planes, respectively, as outlined in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "On initial application of DBSCAN, we get 13 clusters (Figure 2B); Out of these, 5 clusters are shown in varying shades of green, when the eyes are well-aligned, and 8 clusters in varying shades of red, when the eyes are misaligned (outside the determined threshold window—3.5° horizontally and 2° vertically).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The well-aligned and misaligned clusters were further merged into super-clusters with the following criteria: 1) all well-aligned clusters combined into one super-cluster and 2) misaligned clusters with both horizontal means <2° and vertical means <1° apart were merged (Figure 2C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Finally, the weighted mean of all the misaligned super-clusters was determined using Eq. (1).\n\n\n(1)\n\n\n\n(2)\n\n\n\n(3)\n\n\n\n(4)\n\nFor example, as shown in Figure 2, the means of misaligned clusters were dark purple cluster [Horizontal: −0.1°; Vertical: 2.51°; Time duration: 0.69 s], pink cluster [Horizontal: −4.55°; Vertical: −0.69°; Time duration: 1.01 s], and red cluster [Horizontal: −6.76°; Vertical: −1.44° Time duration: 11.41 s].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 compares the horizontal and vertical eye alignment in controls and PD Groups 1, 2, and 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 3A–D (top panel): actual and expected eye positions of the non-fixing eye under binocular viewing (BV) and of the non-viewing eye under monocular viewing (MV); (middle panel): horizontal and vertical eye deviation resulting from the angular difference in eye positions (shown in top panel), computed using actual and expected eye positions as outlined above and the histogram of horizontal eye deviation with 95% upper and lower bounds (bottom panel) with the span of eye deviation from a healthy control (Figure 3A), PD subject in Group 1 (Figure 3B), PD subject in Group 2 (Figure 3C), and PD subject in Group 3 (Figure 3D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "PD subject from Group 1 (Figure 3B) had an eye alignment comparable to the healthy subject in BV (left), but with the right eye deviating out in MV (right—exophoria by ~8°).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Histogram representation in Figure 3B shows comparable eye deviation upper and lower bounds and span to control subject under BV and increased horizontal eye deviation under MV.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3C shows an example of a PD patient in Group 2 with an initially normal eye alignment that gradually deteriorates with the right eye drifting to the right by 8°, suggestive of exotropia, during BV (left).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3D shows an example of a PD patient in Group 3 with increased eye misalignment of ~7°, suggestive of exotropia, during BV (left), and ~ 18° eye deviation in MV (right).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an obvious deterioration trend in spatial and temporal control of alignment as we go from PD Group 1 (similar to controls) to PD Group 3 (high degree of exodeviation).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 4A,B describes the mean cluster locations as identified after the application of DBSCAN and the time spent in that region for each viewing condition: BV (Figure 4A) and MV (Figure 4B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We identified strategies contributing to a net convergence as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This strategy was highly prevalent in controls; the example is shown in Figure 5A.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5B shows an example where a pure saccadic (PS) or conjugate movement was performed instead of a vergence movement.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the convergence trace (green, Figure 5B) has minimal shift, while each eye is making a large rapid gaze shift (i.e., saccade) in the same direction.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The change in vergence (green) trace between the two vertical gray lines occurs due to an existing asymmetry between the saccades in each eye, resulting in a net disconjugate gaze shift as can be seen by comparing the amplitude of the right (blue) and left eyes (magenta) and the conjugate eye position (cyan) (Figure 5B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5C shows a leading vergence response coupled with a conjugate saccade component at the end, a strategy called vergence-saccade.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel C",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5D shows an initial conjugate saccadic response followed by vergence, i.e., saccade-vergence strategy (referred to as “SV”).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel D",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The resultant conjugate shift (cyan trace) is emphasized with red arrows.Figure 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Notice that minimal movement, wrong direction (divergence movement), and pure saccade strategies were seen only in PD subjects with a greater % of patients in PDG2 and PDG3 that exhibited minimal movement strategy.We then evaluated gain based on the vergence strategy employed across the four groups (Figure 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 7B shows latencies observed across all groups on a log scale.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 describes the steps undertaken to analyze eye alignment.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 1A,B depicts eye positions for monocular viewing conditions with right eye viewing (Figure 1A—right eye expected eye position data) and left eye viewing (Figure 1B—left eye expected eye position data).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The eye deviation (difference calculated between expected and actual eye positions) was further filtered to remove all rapid movements such as saccadic intrusions, as shown in Figure 2B (inset).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Clusters with horizontal and vertical means within the normative ranges (threshold window) were labeled as “good” or well-aligned and all others were labeled as “bad” clusters, henceforth referred to as “misaligned clusters.”\nFigure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "End result: 1 super-cluster of good binocular alignment and 3 misaligned super-clusters.Figure 2 graphically depicts the application of DBSCAN and the clustering approach in analyzing eye deviation under binocular viewing in a PD subject.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A: horizontal and vertical eye deviation obtained after taking the difference between the expected and actual eye position in horizontal and vertical planes, respectively, as outlined in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "On initial application of DBSCAN, we get 13 clusters (Figure 2B); Out of these, 5 clusters are shown in varying shades of green, when the eyes are well-aligned, and 8 clusters in varying shades of red, when the eyes are misaligned (outside the determined threshold window—3.5° horizontally and 2° vertically).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The well-aligned and misaligned clusters were further merged into super-clusters with the following criteria: 1) all well-aligned clusters combined into one super-cluster and 2) misaligned clusters with both horizontal means <2° and vertical means <1° apart were merged (Figure 2C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Finally, the weighted mean of all the misaligned super-clusters was determined using Eq. (1).\n\n\n(1)\n\n\n\n(2)\n\n\n\n(3)\n\n\n\n(4)\n\nFor example, as shown in Figure 2, the means of misaligned clusters were dark purple cluster [Horizontal: −0.1°; Vertical: 2.51°; Time duration: 0.69 s], pink cluster [Horizontal: −4.55°; Vertical: −0.69°; Time duration: 1.01 s], and red cluster [Horizontal: −6.76°; Vertical: −1.44° Time duration: 11.41 s].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 compares the horizontal and vertical eye alignment in controls and PD Groups 1, 2, and 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 3A–D (top panel): actual and expected eye positions of the non-fixing eye under binocular viewing (BV) and of the non-viewing eye under monocular viewing (MV); (middle panel): horizontal and vertical eye deviation resulting from the angular difference in eye positions (shown in top panel), computed using actual and expected eye positions as outlined above and the histogram of horizontal eye deviation with 95% upper and lower bounds (bottom panel) with the span of eye deviation from a healthy control (Figure 3A), PD subject in Group 1 (Figure 3B), PD subject in Group 2 (Figure 3C), and PD subject in Group 3 (Figure 3D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "PD subject from Group 1 (Figure 3B) had an eye alignment comparable to the healthy subject in BV (left), but with the right eye deviating out in MV (right—exophoria by ~8°).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Histogram representation in Figure 3B shows comparable eye deviation upper and lower bounds and span to control subject under BV and increased horizontal eye deviation under MV.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3C shows an example of a PD patient in Group 2 with an initially normal eye alignment that gradually deteriorates with the right eye drifting to the right by 8°, suggestive of exotropia, during BV (left).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3D shows an example of a PD patient in Group 3 with increased eye misalignment of ~7°, suggestive of exotropia, during BV (left), and ~ 18° eye deviation in MV (right).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an obvious deterioration trend in spatial and temporal control of alignment as we go from PD Group 1 (similar to controls) to PD Group 3 (high degree of exodeviation).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 4A,B describes the mean cluster locations as identified after the application of DBSCAN and the time spent in that region for each viewing condition: BV (Figure 4A) and MV (Figure 4B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We identified strategies contributing to a net convergence as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This strategy was highly prevalent in controls; the example is shown in Figure 5A.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5B shows an example where a pure saccadic (PS) or conjugate movement was performed instead of a vergence movement.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the convergence trace (green, Figure 5B) has minimal shift, while each eye is making a large rapid gaze shift (i.e., saccade) in the same direction.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The change in vergence (green) trace between the two vertical gray lines occurs due to an existing asymmetry between the saccades in each eye, resulting in a net disconjugate gaze shift as can be seen by comparing the amplitude of the right (blue) and left eyes (magenta) and the conjugate eye position (cyan) (Figure 5B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5C shows a leading vergence response coupled with a conjugate saccade component at the end, a strategy called vergence-saccade.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel C",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5D shows an initial conjugate saccadic response followed by vergence, i.e., saccade-vergence strategy (referred to as “SV”).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel D",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The resultant conjugate shift (cyan trace) is emphasized with red arrows.Figure 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Notice that minimal movement, wrong direction (divergence movement), and pure saccade strategies were seen only in PD subjects with a greater % of patients in PDG2 and PDG3 that exhibited minimal movement strategy.We then evaluated gain based on the vergence strategy employed across the four groups (Figure 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 7B shows latencies observed across all groups on a log scale.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 describes the steps undertaken to analyze eye alignment.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 1A,B depicts eye positions for monocular viewing conditions with right eye viewing (Figure 1A—right eye expected eye position data) and left eye viewing (Figure 1B—left eye expected eye position data).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The eye deviation (difference calculated between expected and actual eye positions) was further filtered to remove all rapid movements such as saccadic intrusions, as shown in Figure 2B (inset).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Clusters with horizontal and vertical means within the normative ranges (threshold window) were labeled as “good” or well-aligned and all others were labeled as “bad” clusters, henceforth referred to as “misaligned clusters.”\nFigure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "End result: 1 super-cluster of good binocular alignment and 3 misaligned super-clusters.Figure 2 graphically depicts the application of DBSCAN and the clustering approach in analyzing eye deviation under binocular viewing in a PD subject.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A: horizontal and vertical eye deviation obtained after taking the difference between the expected and actual eye position in horizontal and vertical planes, respectively, as outlined in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "On initial application of DBSCAN, we get 13 clusters (Figure 2B); Out of these, 5 clusters are shown in varying shades of green, when the eyes are well-aligned, and 8 clusters in varying shades of red, when the eyes are misaligned (outside the determined threshold window—3.5° horizontally and 2° vertically).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The well-aligned and misaligned clusters were further merged into super-clusters with the following criteria: 1) all well-aligned clusters combined into one super-cluster and 2) misaligned clusters with both horizontal means <2° and vertical means <1° apart were merged (Figure 2C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Finally, the weighted mean of all the misaligned super-clusters was determined using Eq. (1).\n\n\n(1)\n\n\n\n(2)\n\n\n\n(3)\n\n\n\n(4)\n\nFor example, as shown in Figure 2, the means of misaligned clusters were dark purple cluster [Horizontal: −0.1°; Vertical: 2.51°; Time duration: 0.69 s], pink cluster [Horizontal: −4.55°; Vertical: −0.69°; Time duration: 1.01 s], and red cluster [Horizontal: −6.76°; Vertical: −1.44° Time duration: 11.41 s].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 compares the horizontal and vertical eye alignment in controls and PD Groups 1, 2, and 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 3A–D (top panel): actual and expected eye positions of the non-fixing eye under binocular viewing (BV) and of the non-viewing eye under monocular viewing (MV); (middle panel): horizontal and vertical eye deviation resulting from the angular difference in eye positions (shown in top panel), computed using actual and expected eye positions as outlined above and the histogram of horizontal eye deviation with 95% upper and lower bounds (bottom panel) with the span of eye deviation from a healthy control (Figure 3A), PD subject in Group 1 (Figure 3B), PD subject in Group 2 (Figure 3C), and PD subject in Group 3 (Figure 3D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "PD subject from Group 1 (Figure 3B) had an eye alignment comparable to the healthy subject in BV (left), but with the right eye deviating out in MV (right—exophoria by ~8°).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Histogram representation in Figure 3B shows comparable eye deviation upper and lower bounds and span to control subject under BV and increased horizontal eye deviation under MV.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3C shows an example of a PD patient in Group 2 with an initially normal eye alignment that gradually deteriorates with the right eye drifting to the right by 8°, suggestive of exotropia, during BV (left).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3D shows an example of a PD patient in Group 3 with increased eye misalignment of ~7°, suggestive of exotropia, during BV (left), and ~ 18° eye deviation in MV (right).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an obvious deterioration trend in spatial and temporal control of alignment as we go from PD Group 1 (similar to controls) to PD Group 3 (high degree of exodeviation).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 4A,B describes the mean cluster locations as identified after the application of DBSCAN and the time spent in that region for each viewing condition: BV (Figure 4A) and MV (Figure 4B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We identified strategies contributing to a net convergence as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This strategy was highly prevalent in controls; the example is shown in Figure 5A.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5B shows an example where a pure saccadic (PS) or conjugate movement was performed instead of a vergence movement.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the convergence trace (green, Figure 5B) has minimal shift, while each eye is making a large rapid gaze shift (i.e., saccade) in the same direction.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The change in vergence (green) trace between the two vertical gray lines occurs due to an existing asymmetry between the saccades in each eye, resulting in a net disconjugate gaze shift as can be seen by comparing the amplitude of the right (blue) and left eyes (magenta) and the conjugate eye position (cyan) (Figure 5B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5C shows a leading vergence response coupled with a conjugate saccade component at the end, a strategy called vergence-saccade.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel C",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5D shows an initial conjugate saccadic response followed by vergence, i.e., saccade-vergence strategy (referred to as “SV”).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel D",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The resultant conjugate shift (cyan trace) is emphasized with red arrows.Figure 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Notice that minimal movement, wrong direction (divergence movement), and pure saccade strategies were seen only in PD subjects with a greater % of patients in PDG2 and PDG3 that exhibited minimal movement strategy.We then evaluated gain based on the vergence strategy employed across the four groups (Figure 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 7B shows latencies observed across all groups on a log scale.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 describes the steps undertaken to analyze eye alignment.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 1A,B depicts eye positions for monocular viewing conditions with right eye viewing (Figure 1A—right eye expected eye position data) and left eye viewing (Figure 1B—left eye expected eye position data).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The eye deviation (difference calculated between expected and actual eye positions) was further filtered to remove all rapid movements such as saccadic intrusions, as shown in Figure 2B (inset).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Clusters with horizontal and vertical means within the normative ranges (threshold window) were labeled as “good” or well-aligned and all others were labeled as “bad” clusters, henceforth referred to as “misaligned clusters.”\nFigure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "End result: 1 super-cluster of good binocular alignment and 3 misaligned super-clusters.Figure 2 graphically depicts the application of DBSCAN and the clustering approach in analyzing eye deviation under binocular viewing in a PD subject.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A: horizontal and vertical eye deviation obtained after taking the difference between the expected and actual eye position in horizontal and vertical planes, respectively, as outlined in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "On initial application of DBSCAN, we get 13 clusters (Figure 2B); Out of these, 5 clusters are shown in varying shades of green, when the eyes are well-aligned, and 8 clusters in varying shades of red, when the eyes are misaligned (outside the determined threshold window—3.5° horizontally and 2° vertically).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The well-aligned and misaligned clusters were further merged into super-clusters with the following criteria: 1) all well-aligned clusters combined into one super-cluster and 2) misaligned clusters with both horizontal means <2° and vertical means <1° apart were merged (Figure 2C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Finally, the weighted mean of all the misaligned super-clusters was determined using Eq. (1).\n\n\n(1)\n\n\n\n(2)\n\n\n\n(3)\n\n\n\n(4)\n\nFor example, as shown in Figure 2, the means of misaligned clusters were dark purple cluster [Horizontal: −0.1°; Vertical: 2.51°; Time duration: 0.69 s], pink cluster [Horizontal: −4.55°; Vertical: −0.69°; Time duration: 1.01 s], and red cluster [Horizontal: −6.76°; Vertical: −1.44° Time duration: 11.41 s].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 compares the horizontal and vertical eye alignment in controls and PD Groups 1, 2, and 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 3A–D (top panel): actual and expected eye positions of the non-fixing eye under binocular viewing (BV) and of the non-viewing eye under monocular viewing (MV); (middle panel): horizontal and vertical eye deviation resulting from the angular difference in eye positions (shown in top panel), computed using actual and expected eye positions as outlined above and the histogram of horizontal eye deviation with 95% upper and lower bounds (bottom panel) with the span of eye deviation from a healthy control (Figure 3A), PD subject in Group 1 (Figure 3B), PD subject in Group 2 (Figure 3C), and PD subject in Group 3 (Figure 3D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "PD subject from Group 1 (Figure 3B) had an eye alignment comparable to the healthy subject in BV (left), but with the right eye deviating out in MV (right—exophoria by ~8°).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Histogram representation in Figure 3B shows comparable eye deviation upper and lower bounds and span to control subject under BV and increased horizontal eye deviation under MV.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3C shows an example of a PD patient in Group 2 with an initially normal eye alignment that gradually deteriorates with the right eye drifting to the right by 8°, suggestive of exotropia, during BV (left).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3D shows an example of a PD patient in Group 3 with increased eye misalignment of ~7°, suggestive of exotropia, during BV (left), and ~ 18° eye deviation in MV (right).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an obvious deterioration trend in spatial and temporal control of alignment as we go from PD Group 1 (similar to controls) to PD Group 3 (high degree of exodeviation).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 4A,B describes the mean cluster locations as identified after the application of DBSCAN and the time spent in that region for each viewing condition: BV (Figure 4A) and MV (Figure 4B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We identified strategies contributing to a net convergence as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This strategy was highly prevalent in controls; the example is shown in Figure 5A.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5B shows an example where a pure saccadic (PS) or conjugate movement was performed instead of a vergence movement.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the convergence trace (green, Figure 5B) has minimal shift, while each eye is making a large rapid gaze shift (i.e., saccade) in the same direction.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The change in vergence (green) trace between the two vertical gray lines occurs due to an existing asymmetry between the saccades in each eye, resulting in a net disconjugate gaze shift as can be seen by comparing the amplitude of the right (blue) and left eyes (magenta) and the conjugate eye position (cyan) (Figure 5B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5C shows a leading vergence response coupled with a conjugate saccade component at the end, a strategy called vergence-saccade.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel C",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5D shows an initial conjugate saccadic response followed by vergence, i.e., saccade-vergence strategy (referred to as “SV”).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel D",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The resultant conjugate shift (cyan trace) is emphasized with red arrows.Figure 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Notice that minimal movement, wrong direction (divergence movement), and pure saccade strategies were seen only in PD subjects with a greater % of patients in PDG2 and PDG3 that exhibited minimal movement strategy.We then evaluated gain based on the vergence strategy employed across the four groups (Figure 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 7B shows latencies observed across all groups on a log scale.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 describes the steps undertaken to analyze eye alignment.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 1A,B depicts eye positions for monocular viewing conditions with right eye viewing (Figure 1A—right eye expected eye position data) and left eye viewing (Figure 1B—left eye expected eye position data).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The eye deviation (difference calculated between expected and actual eye positions) was further filtered to remove all rapid movements such as saccadic intrusions, as shown in Figure 2B (inset).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Clusters with horizontal and vertical means within the normative ranges (threshold window) were labeled as “good” or well-aligned and all others were labeled as “bad” clusters, henceforth referred to as “misaligned clusters.”\nFigure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "End result: 1 super-cluster of good binocular alignment and 3 misaligned super-clusters.Figure 2 graphically depicts the application of DBSCAN and the clustering approach in analyzing eye deviation under binocular viewing in a PD subject.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A: horizontal and vertical eye deviation obtained after taking the difference between the expected and actual eye position in horizontal and vertical planes, respectively, as outlined in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "On initial application of DBSCAN, we get 13 clusters (Figure 2B); Out of these, 5 clusters are shown in varying shades of green, when the eyes are well-aligned, and 8 clusters in varying shades of red, when the eyes are misaligned (outside the determined threshold window—3.5° horizontally and 2° vertically).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The well-aligned and misaligned clusters were further merged into super-clusters with the following criteria: 1) all well-aligned clusters combined into one super-cluster and 2) misaligned clusters with both horizontal means <2° and vertical means <1° apart were merged (Figure 2C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Finally, the weighted mean of all the misaligned super-clusters was determined using Eq. (1).\n\n\n(1)\n\n\n\n(2)\n\n\n\n(3)\n\n\n\n(4)\n\nFor example, as shown in Figure 2, the means of misaligned clusters were dark purple cluster [Horizontal: −0.1°; Vertical: 2.51°; Time duration: 0.69 s], pink cluster [Horizontal: −4.55°; Vertical: −0.69°; Time duration: 1.01 s], and red cluster [Horizontal: −6.76°; Vertical: −1.44° Time duration: 11.41 s].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 compares the horizontal and vertical eye alignment in controls and PD Groups 1, 2, and 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 3A–D (top panel): actual and expected eye positions of the non-fixing eye under binocular viewing (BV) and of the non-viewing eye under monocular viewing (MV); (middle panel): horizontal and vertical eye deviation resulting from the angular difference in eye positions (shown in top panel), computed using actual and expected eye positions as outlined above and the histogram of horizontal eye deviation with 95% upper and lower bounds (bottom panel) with the span of eye deviation from a healthy control (Figure 3A), PD subject in Group 1 (Figure 3B), PD subject in Group 2 (Figure 3C), and PD subject in Group 3 (Figure 3D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "PD subject from Group 1 (Figure 3B) had an eye alignment comparable to the healthy subject in BV (left), but with the right eye deviating out in MV (right—exophoria by ~8°).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Histogram representation in Figure 3B shows comparable eye deviation upper and lower bounds and span to control subject under BV and increased horizontal eye deviation under MV.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3C shows an example of a PD patient in Group 2 with an initially normal eye alignment that gradually deteriorates with the right eye drifting to the right by 8°, suggestive of exotropia, during BV (left).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3D shows an example of a PD patient in Group 3 with increased eye misalignment of ~7°, suggestive of exotropia, during BV (left), and ~ 18° eye deviation in MV (right).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an obvious deterioration trend in spatial and temporal control of alignment as we go from PD Group 1 (similar to controls) to PD Group 3 (high degree of exodeviation).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 4A,B describes the mean cluster locations as identified after the application of DBSCAN and the time spent in that region for each viewing condition: BV (Figure 4A) and MV (Figure 4B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We identified strategies contributing to a net convergence as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This strategy was highly prevalent in controls; the example is shown in Figure 5A.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5B shows an example where a pure saccadic (PS) or conjugate movement was performed instead of a vergence movement.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the convergence trace (green, Figure 5B) has minimal shift, while each eye is making a large rapid gaze shift (i.e., saccade) in the same direction.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The change in vergence (green) trace between the two vertical gray lines occurs due to an existing asymmetry between the saccades in each eye, resulting in a net disconjugate gaze shift as can be seen by comparing the amplitude of the right (blue) and left eyes (magenta) and the conjugate eye position (cyan) (Figure 5B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5C shows a leading vergence response coupled with a conjugate saccade component at the end, a strategy called vergence-saccade.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel C",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5D shows an initial conjugate saccadic response followed by vergence, i.e., saccade-vergence strategy (referred to as “SV”).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel D",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The resultant conjugate shift (cyan trace) is emphasized with red arrows.Figure 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Notice that minimal movement, wrong direction (divergence movement), and pure saccade strategies were seen only in PD subjects with a greater % of patients in PDG2 and PDG3 that exhibited minimal movement strategy.We then evaluated gain based on the vergence strategy employed across the four groups (Figure 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 7B shows latencies observed across all groups on a log scale.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 describes the steps undertaken to analyze eye alignment.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 1A,B depicts eye positions for monocular viewing conditions with right eye viewing (Figure 1A—right eye expected eye position data) and left eye viewing (Figure 1B—left eye expected eye position data).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The eye deviation (difference calculated between expected and actual eye positions) was further filtered to remove all rapid movements such as saccadic intrusions, as shown in Figure 2B (inset).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Clusters with horizontal and vertical means within the normative ranges (threshold window) were labeled as “good” or well-aligned and all others were labeled as “bad” clusters, henceforth referred to as “misaligned clusters.”\nFigure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "End result: 1 super-cluster of good binocular alignment and 3 misaligned super-clusters.Figure 2 graphically depicts the application of DBSCAN and the clustering approach in analyzing eye deviation under binocular viewing in a PD subject.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A: horizontal and vertical eye deviation obtained after taking the difference between the expected and actual eye position in horizontal and vertical planes, respectively, as outlined in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "On initial application of DBSCAN, we get 13 clusters (Figure 2B); Out of these, 5 clusters are shown in varying shades of green, when the eyes are well-aligned, and 8 clusters in varying shades of red, when the eyes are misaligned (outside the determined threshold window—3.5° horizontally and 2° vertically).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The well-aligned and misaligned clusters were further merged into super-clusters with the following criteria: 1) all well-aligned clusters combined into one super-cluster and 2) misaligned clusters with both horizontal means <2° and vertical means <1° apart were merged (Figure 2C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Finally, the weighted mean of all the misaligned super-clusters was determined using Eq. (1).\n\n\n(1)\n\n\n\n(2)\n\n\n\n(3)\n\n\n\n(4)\n\nFor example, as shown in Figure 2, the means of misaligned clusters were dark purple cluster [Horizontal: −0.1°; Vertical: 2.51°; Time duration: 0.69 s], pink cluster [Horizontal: −4.55°; Vertical: −0.69°; Time duration: 1.01 s], and red cluster [Horizontal: −6.76°; Vertical: −1.44° Time duration: 11.41 s].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 compares the horizontal and vertical eye alignment in controls and PD Groups 1, 2, and 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 3A–D (top panel): actual and expected eye positions of the non-fixing eye under binocular viewing (BV) and of the non-viewing eye under monocular viewing (MV); (middle panel): horizontal and vertical eye deviation resulting from the angular difference in eye positions (shown in top panel), computed using actual and expected eye positions as outlined above and the histogram of horizontal eye deviation with 95% upper and lower bounds (bottom panel) with the span of eye deviation from a healthy control (Figure 3A), PD subject in Group 1 (Figure 3B), PD subject in Group 2 (Figure 3C), and PD subject in Group 3 (Figure 3D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "PD subject from Group 1 (Figure 3B) had an eye alignment comparable to the healthy subject in BV (left), but with the right eye deviating out in MV (right—exophoria by ~8°).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Histogram representation in Figure 3B shows comparable eye deviation upper and lower bounds and span to control subject under BV and increased horizontal eye deviation under MV.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3C shows an example of a PD patient in Group 2 with an initially normal eye alignment that gradually deteriorates with the right eye drifting to the right by 8°, suggestive of exotropia, during BV (left).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3D shows an example of a PD patient in Group 3 with increased eye misalignment of ~7°, suggestive of exotropia, during BV (left), and ~ 18° eye deviation in MV (right).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an obvious deterioration trend in spatial and temporal control of alignment as we go from PD Group 1 (similar to controls) to PD Group 3 (high degree of exodeviation).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 4A,B describes the mean cluster locations as identified after the application of DBSCAN and the time spent in that region for each viewing condition: BV (Figure 4A) and MV (Figure 4B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We identified strategies contributing to a net convergence as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This strategy was highly prevalent in controls; the example is shown in Figure 5A.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5B shows an example where a pure saccadic (PS) or conjugate movement was performed instead of a vergence movement.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the convergence trace (green, Figure 5B) has minimal shift, while each eye is making a large rapid gaze shift (i.e., saccade) in the same direction.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The change in vergence (green) trace between the two vertical gray lines occurs due to an existing asymmetry between the saccades in each eye, resulting in a net disconjugate gaze shift as can be seen by comparing the amplitude of the right (blue) and left eyes (magenta) and the conjugate eye position (cyan) (Figure 5B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5C shows a leading vergence response coupled with a conjugate saccade component at the end, a strategy called vergence-saccade.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel C",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5D shows an initial conjugate saccadic response followed by vergence, i.e., saccade-vergence strategy (referred to as “SV”).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel D",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The resultant conjugate shift (cyan trace) is emphasized with red arrows.Figure 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Notice that minimal movement, wrong direction (divergence movement), and pure saccade strategies were seen only in PD subjects with a greater % of patients in PDG2 and PDG3 that exhibited minimal movement strategy.We then evaluated gain based on the vergence strategy employed across the four groups (Figure 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 7B shows latencies observed across all groups on a log scale.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 describes the steps undertaken to analyze eye alignment.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 1A,B depicts eye positions for monocular viewing conditions with right eye viewing (Figure 1A—right eye expected eye position data) and left eye viewing (Figure 1B—left eye expected eye position data).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The eye deviation (difference calculated between expected and actual eye positions) was further filtered to remove all rapid movements such as saccadic intrusions, as shown in Figure 2B (inset).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Clusters with horizontal and vertical means within the normative ranges (threshold window) were labeled as “good” or well-aligned and all others were labeled as “bad” clusters, henceforth referred to as “misaligned clusters.”\nFigure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "End result: 1 super-cluster of good binocular alignment and 3 misaligned super-clusters.Figure 2 graphically depicts the application of DBSCAN and the clustering approach in analyzing eye deviation under binocular viewing in a PD subject.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A: horizontal and vertical eye deviation obtained after taking the difference between the expected and actual eye position in horizontal and vertical planes, respectively, as outlined in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "On initial application of DBSCAN, we get 13 clusters (Figure 2B); Out of these, 5 clusters are shown in varying shades of green, when the eyes are well-aligned, and 8 clusters in varying shades of red, when the eyes are misaligned (outside the determined threshold window—3.5° horizontally and 2° vertically).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The well-aligned and misaligned clusters were further merged into super-clusters with the following criteria: 1) all well-aligned clusters combined into one super-cluster and 2) misaligned clusters with both horizontal means <2° and vertical means <1° apart were merged (Figure 2C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Finally, the weighted mean of all the misaligned super-clusters was determined using Eq. (1).\n\n\n(1)\n\n\n\n(2)\n\n\n\n(3)\n\n\n\n(4)\n\nFor example, as shown in Figure 2, the means of misaligned clusters were dark purple cluster [Horizontal: −0.1°; Vertical: 2.51°; Time duration: 0.69 s], pink cluster [Horizontal: −4.55°; Vertical: −0.69°; Time duration: 1.01 s], and red cluster [Horizontal: −6.76°; Vertical: −1.44° Time duration: 11.41 s].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 describes the steps undertaken to analyze eye alignment.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 1A,B depicts eye positions for monocular viewing conditions with right eye viewing (Figure 1A—right eye expected eye position data) and left eye viewing (Figure 1B—left eye expected eye position data).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The eye deviation (difference calculated between expected and actual eye positions) was further filtered to remove all rapid movements such as saccadic intrusions, as shown in Figure 2B (inset).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Clusters with horizontal and vertical means within the normative ranges (threshold window) were labeled as “good” or well-aligned and all others were labeled as “bad” clusters, henceforth referred to as “misaligned clusters.”\nFigure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "End result: 1 super-cluster of good binocular alignment and 3 misaligned super-clusters.Figure 2 graphically depicts the application of DBSCAN and the clustering approach in analyzing eye deviation under binocular viewing in a PD subject.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A: horizontal and vertical eye deviation obtained after taking the difference between the expected and actual eye position in horizontal and vertical planes, respectively, as outlined in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "On initial application of DBSCAN, we get 13 clusters (Figure 2B); Out of these, 5 clusters are shown in varying shades of green, when the eyes are well-aligned, and 8 clusters in varying shades of red, when the eyes are misaligned (outside the determined threshold window—3.5° horizontally and 2° vertically).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The well-aligned and misaligned clusters were further merged into super-clusters with the following criteria: 1) all well-aligned clusters combined into one super-cluster and 2) misaligned clusters with both horizontal means <2° and vertical means <1° apart were merged (Figure 2C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Finally, the weighted mean of all the misaligned super-clusters was determined using Eq. (1).\n\n\n(1)\n\n\n\n(2)\n\n\n\n(3)\n\n\n\n(4)\n\nFor example, as shown in Figure 2, the means of misaligned clusters were dark purple cluster [Horizontal: −0.1°; Vertical: 2.51°; Time duration: 0.69 s], pink cluster [Horizontal: −4.55°; Vertical: −0.69°; Time duration: 1.01 s], and red cluster [Horizontal: −6.76°; Vertical: −1.44° Time duration: 11.41 s].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 describes the steps undertaken to analyze eye alignment.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 1A,B depicts eye positions for monocular viewing conditions with right eye viewing (Figure 1A—right eye expected eye position data) and left eye viewing (Figure 1B—left eye expected eye position data).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The eye deviation (difference calculated between expected and actual eye positions) was further filtered to remove all rapid movements such as saccadic intrusions, as shown in Figure 2B (inset).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Clusters with horizontal and vertical means within the normative ranges (threshold window) were labeled as “good” or well-aligned and all others were labeled as “bad” clusters, henceforth referred to as “misaligned clusters.”\nFigure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "End result: 1 super-cluster of good binocular alignment and 3 misaligned super-clusters.Figure 2 graphically depicts the application of DBSCAN and the clustering approach in analyzing eye deviation under binocular viewing in a PD subject.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A: horizontal and vertical eye deviation obtained after taking the difference between the expected and actual eye position in horizontal and vertical planes, respectively, as outlined in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "On initial application of DBSCAN, we get 13 clusters (Figure 2B); Out of these, 5 clusters are shown in varying shades of green, when the eyes are well-aligned, and 8 clusters in varying shades of red, when the eyes are misaligned (outside the determined threshold window—3.5° horizontally and 2° vertically).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The well-aligned and misaligned clusters were further merged into super-clusters with the following criteria: 1) all well-aligned clusters combined into one super-cluster and 2) misaligned clusters with both horizontal means <2° and vertical means <1° apart were merged (Figure 2C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Finally, the weighted mean of all the misaligned super-clusters was determined using Eq. (1).\n\n\n(1)\n\n\n\n(2)\n\n\n\n(3)\n\n\n\n(4)\n\nFor example, as shown in Figure 2, the means of misaligned clusters were dark purple cluster [Horizontal: −0.1°; Vertical: 2.51°; Time duration: 0.69 s], pink cluster [Horizontal: −4.55°; Vertical: −0.69°; Time duration: 1.01 s], and red cluster [Horizontal: −6.76°; Vertical: −1.44° Time duration: 11.41 s].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 describes the steps undertaken to analyze eye alignment.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 1A,B depicts eye positions for monocular viewing conditions with right eye viewing (Figure 1A—right eye expected eye position data) and left eye viewing (Figure 1B—left eye expected eye position data).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The eye deviation (difference calculated between expected and actual eye positions) was further filtered to remove all rapid movements such as saccadic intrusions, as shown in Figure 2B (inset).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 graphically depicts the application of DBSCAN and the clustering approach in analyzing eye deviation under binocular viewing in a PD subject.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A: horizontal and vertical eye deviation obtained after taking the difference between the expected and actual eye position in horizontal and vertical planes, respectively, as outlined in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "On initial application of DBSCAN, we get 13 clusters (Figure 2B); Out of these, 5 clusters are shown in varying shades of green, when the eyes are well-aligned, and 8 clusters in varying shades of red, when the eyes are misaligned (outside the determined threshold window—3.5° horizontally and 2° vertically).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The well-aligned and misaligned clusters were further merged into super-clusters with the following criteria: 1) all well-aligned clusters combined into one super-cluster and 2) misaligned clusters with both horizontal means <2° and vertical means <1° apart were merged (Figure 2C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel C",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, as shown in Figure 2, the means of misaligned clusters were dark purple cluster [Horizontal: −0.1°; Vertical: 2.51°; Time duration: 0.69 s], pink cluster [Horizontal: −4.55°; Vertical: −0.69°; Time duration: 1.01 s], and red cluster [Horizontal: −6.76°; Vertical: −1.44° Time duration: 11.41 s].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 compares the horizontal and vertical eye alignment in controls and PD Groups 1, 2, and 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 3A–D (top panel): actual and expected eye positions of the non-fixing eye under binocular viewing (BV) and of the non-viewing eye under monocular viewing (MV); (middle panel): horizontal and vertical eye deviation resulting from the angular difference in eye positions (shown in top panel), computed using actual and expected eye positions as outlined above and the histogram of horizontal eye deviation with 95% upper and lower bounds (bottom panel) with the span of eye deviation from a healthy control (Figure 3A), PD subject in Group 1 (Figure 3B), PD subject in Group 2 (Figure 3C), and PD subject in Group 3 (Figure 3D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "PD subject from Group 1 (Figure 3B) had an eye alignment comparable to the healthy subject in BV (left), but with the right eye deviating out in MV (right—exophoria by ~8°).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Histogram representation in Figure 3B shows comparable eye deviation upper and lower bounds and span to control subject under BV and increased horizontal eye deviation under MV.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3C shows an example of a PD patient in Group 2 with an initially normal eye alignment that gradually deteriorates with the right eye drifting to the right by 8°, suggestive of exotropia, during BV (left).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3D shows an example of a PD patient in Group 3 with increased eye misalignment of ~7°, suggestive of exotropia, during BV (left), and ~ 18° eye deviation in MV (right).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an obvious deterioration trend in spatial and temporal control of alignment as we go from PD Group 1 (similar to controls) to PD Group 3 (high degree of exodeviation).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 4A,B describes the mean cluster locations as identified after the application of DBSCAN and the time spent in that region for each viewing condition: BV (Figure 4A) and MV (Figure 4B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We identified strategies contributing to a net convergence as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This strategy was highly prevalent in controls; the example is shown in Figure 5A.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5B shows an example where a pure saccadic (PS) or conjugate movement was performed instead of a vergence movement.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the convergence trace (green, Figure 5B) has minimal shift, while each eye is making a large rapid gaze shift (i.e., saccade) in the same direction.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The change in vergence (green) trace between the two vertical gray lines occurs due to an existing asymmetry between the saccades in each eye, resulting in a net disconjugate gaze shift as can be seen by comparing the amplitude of the right (blue) and left eyes (magenta) and the conjugate eye position (cyan) (Figure 5B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5C shows a leading vergence response coupled with a conjugate saccade component at the end, a strategy called vergence-saccade.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel C",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5D shows an initial conjugate saccadic response followed by vergence, i.e., saccade-vergence strategy (referred to as “SV”).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel D",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The resultant conjugate shift (cyan trace) is emphasized with red arrows.Figure 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Notice that minimal movement, wrong direction (divergence movement), and pure saccade strategies were seen only in PD subjects with a greater % of patients in PDG2 and PDG3 that exhibited minimal movement strategy.We then evaluated gain based on the vergence strategy employed across the four groups (Figure 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 7B shows latencies observed across all groups on a log scale.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 compares the horizontal and vertical eye alignment in controls and PD Groups 1, 2, and 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 3A–D (top panel): actual and expected eye positions of the non-fixing eye under binocular viewing (BV) and of the non-viewing eye under monocular viewing (MV); (middle panel): horizontal and vertical eye deviation resulting from the angular difference in eye positions (shown in top panel), computed using actual and expected eye positions as outlined above and the histogram of horizontal eye deviation with 95% upper and lower bounds (bottom panel) with the span of eye deviation from a healthy control (Figure 3A), PD subject in Group 1 (Figure 3B), PD subject in Group 2 (Figure 3C), and PD subject in Group 3 (Figure 3D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "PD subject from Group 1 (Figure 3B) had an eye alignment comparable to the healthy subject in BV (left), but with the right eye deviating out in MV (right—exophoria by ~8°).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Histogram representation in Figure 3B shows comparable eye deviation upper and lower bounds and span to control subject under BV and increased horizontal eye deviation under MV.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3C shows an example of a PD patient in Group 2 with an initially normal eye alignment that gradually deteriorates with the right eye drifting to the right by 8°, suggestive of exotropia, during BV (left).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3D shows an example of a PD patient in Group 3 with increased eye misalignment of ~7°, suggestive of exotropia, during BV (left), and ~ 18° eye deviation in MV (right).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an obvious deterioration trend in spatial and temporal control of alignment as we go from PD Group 1 (similar to controls) to PD Group 3 (high degree of exodeviation).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 4A,B describes the mean cluster locations as identified after the application of DBSCAN and the time spent in that region for each viewing condition: BV (Figure 4A) and MV (Figure 4B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 compares the horizontal and vertical eye alignment in controls and PD Groups 1, 2, and 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 3A–D (top panel): actual and expected eye positions of the non-fixing eye under binocular viewing (BV) and of the non-viewing eye under monocular viewing (MV); (middle panel): horizontal and vertical eye deviation resulting from the angular difference in eye positions (shown in top panel), computed using actual and expected eye positions as outlined above and the histogram of horizontal eye deviation with 95% upper and lower bounds (bottom panel) with the span of eye deviation from a healthy control (Figure 3A), PD subject in Group 1 (Figure 3B), PD subject in Group 2 (Figure 3C), and PD subject in Group 3 (Figure 3D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "PD subject from Group 1 (Figure 3B) had an eye alignment comparable to the healthy subject in BV (left), but with the right eye deviating out in MV (right—exophoria by ~8°).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Histogram representation in Figure 3B shows comparable eye deviation upper and lower bounds and span to control subject under BV and increased horizontal eye deviation under MV.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3C shows an example of a PD patient in Group 2 with an initially normal eye alignment that gradually deteriorates with the right eye drifting to the right by 8°, suggestive of exotropia, during BV (left).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3D shows an example of a PD patient in Group 3 with increased eye misalignment of ~7°, suggestive of exotropia, during BV (left), and ~ 18° eye deviation in MV (right).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel D",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows an obvious deterioration trend in spatial and temporal control of alignment as we go from PD Group 1 (similar to controls) to PD Group 3 (high degree of exodeviation).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figures 4A,B describes the mean cluster locations as identified after the application of DBSCAN and the time spent in that region for each viewing condition: BV (Figure 4A) and MV (Figure 4B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel A",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel B",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We identified strategies contributing to a net convergence as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This strategy was highly prevalent in controls; the example is shown in Figure 5A.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5B shows an example where a pure saccadic (PS) or conjugate movement was performed instead of a vergence movement.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the convergence trace (green, Figure 5B) has minimal shift, while each eye is making a large rapid gaze shift (i.e., saccade) in the same direction.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The change in vergence (green) trace between the two vertical gray lines occurs due to an existing asymmetry between the saccades in each eye, resulting in a net disconjugate gaze shift as can be seen by comparing the amplitude of the right (blue) and left eyes (magenta) and the conjugate eye position (cyan) (Figure 5B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5C shows a leading vergence response coupled with a conjugate saccade component at the end, a strategy called vergence-saccade.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel C",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5D shows an initial conjugate saccadic response followed by vergence, i.e., saccade-vergence strategy (referred to as “SV”).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel D",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The resultant conjugate shift (cyan trace) is emphasized with red arrows.Figure 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Notice that minimal movement, wrong direction (divergence movement), and pure saccade strategies were seen only in PD subjects with a greater % of patients in PDG2 and PDG3 that exhibited minimal movement strategy.We then evaluated gain based on the vergence strategy employed across the four groups (Figure 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 7B shows latencies observed across all groups on a log scale.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "We identified strategies contributing to a net convergence as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This strategy was highly prevalent in controls; the example is shown in Figure 5A.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5B shows an example where a pure saccadic (PS) or conjugate movement was performed instead of a vergence movement.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the convergence trace (green, Figure 5B) has minimal shift, while each eye is making a large rapid gaze shift (i.e., saccade) in the same direction.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The change in vergence (green) trace between the two vertical gray lines occurs due to an existing asymmetry between the saccades in each eye, resulting in a net disconjugate gaze shift as can be seen by comparing the amplitude of the right (blue) and left eyes (magenta) and the conjugate eye position (cyan) (Figure 5B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5C shows a leading vergence response coupled with a conjugate saccade component at the end, a strategy called vergence-saccade.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel C",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 5D shows an initial conjugate saccadic response followed by vergence, i.e., saccade-vergence strategy (referred to as “SV”).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel D",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "We then evaluated gain based on the vergence strategy employed across the four groups (Figure 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 7B shows latencies observed across all groups on a log scale.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 7,
+    "claims_count": 304,
+    "images_downloaded": 7,
+    "tables_filtered": 66
+  }
+}

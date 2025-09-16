@@ -1,0 +1,780 @@
+{
+  "paper_id": "PMC10490676",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10490676/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Figure 1.",
+      "caption": "The proposed method for explainable brain cancer detection and localisation.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/b085b5ab6104/sensors-23-07614-g001.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/b085b5ab6104/sensors-23-07614-g001.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/b085b5ab6104/sensors-23-07614-g001.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/b085b5ab6104/sensors-23-07614-g001.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "sensors-23-07614-f001",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/b085b5ab6104/sensors-23-07614-g001.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10490676/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/b085b5ab6104/sensors-23-07614-g001.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Figure 2.",
+      "caption": "Examples of images belonging to the analysed dataset.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/03c6d978665b/sensors-23-07614-g002.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/03c6d978665b/sensors-23-07614-g002.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/03c6d978665b/sensors-23-07614-g002.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/03c6d978665b/sensors-23-07614-g002.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "sensors-23-07614-f002",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/03c6d978665b/sensors-23-07614-g002.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10490676/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/03c6d978665b/sensors-23-07614-g002.jpg"
+    },
+    "figure_3": {
+      "figure_number": "Figure 3",
+      "title": "Figure 3.",
+      "caption": "The confusion matrix for the ResNet50 model.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/deee7c97e005/sensors-23-07614-g003.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/deee7c97e005/sensors-23-07614-g003.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/deee7c97e005/sensors-23-07614-g003.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/deee7c97e005/sensors-23-07614-g003.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "sensors-23-07614-f003",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/deee7c97e005/sensors-23-07614-g003.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10490676/images/figure_3.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/deee7c97e005/sensors-23-07614-g003.jpg"
+    },
+    "figure_4": {
+      "figure_number": "Figure 4",
+      "title": "Figure 4.",
+      "caption": "An example of prediction performed using the proposed method with the detail of tumor localisation from the ResNet50 model’s point of view.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/41a007d9f132/sensors-23-07614-g004.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/41a007d9f132/sensors-23-07614-g004.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/41a007d9f132/sensors-23-07614-g004.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/41a007d9f132/sensors-23-07614-g004.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "sensors-23-07614-f004",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/41a007d9f132/sensors-23-07614-g004.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10490676/images/figure_4.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b57d/10490676/41a007d9f132/sensors-23-07614-g004.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "The workflow of the proposed method is shown in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows a set of images belonging to the analysed dataset; we can note that the images have a single angle (i.e., the one transversal to the height of the cortex).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows the confusion matrix for the model that obtained the best performances, i.e., the ResNet50 one.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nThe confusion matrix for the ResNet50 model.In the confusion matrix shown in Figure 3, the yes label is related to brain cancer images, while no is related to healthy patients.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "We can see that 600 patients were considered in the testing phase, 300 belonging to the healthy class and 300 to the sick class; all 300 sick patients were correctly classified in the correct class (i.e., with the yes label in the confusion matrix in Figure 3), while 298 healthy patients were correctly classified as healthy (i.e., with the no label in the confusion matrix in Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In relation to explainability, in Figure 4 we show an example of localisation performed by the proposed method, in particular, there are areas (in yellow) where, from the proposed ResNet50 model’s point of view, there is disease localisation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The workflow of the proposed method is shown in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows a set of images belonging to the analysed dataset; we can note that the images have a single angle (i.e., the one transversal to the height of the cortex).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows the confusion matrix for the model that obtained the best performances, i.e., the ResNet50 one.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nThe confusion matrix for the ResNet50 model.In the confusion matrix shown in Figure 3, the yes label is related to brain cancer images, while no is related to healthy patients.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "We can see that 600 patients were considered in the testing phase, 300 belonging to the healthy class and 300 to the sick class; all 300 sick patients were correctly classified in the correct class (i.e., with the yes label in the confusion matrix in Figure 3), while 298 healthy patients were correctly classified as healthy (i.e., with the no label in the confusion matrix in Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In relation to explainability, in Figure 4 we show an example of localisation performed by the proposed method, in particular, there are areas (in yellow) where, from the proposed ResNet50 model’s point of view, there is disease localisation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The workflow of the proposed method is shown in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows a set of images belonging to the analysed dataset; we can note that the images have a single angle (i.e., the one transversal to the height of the cortex).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows the confusion matrix for the model that obtained the best performances, i.e., the ResNet50 one.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nThe confusion matrix for the ResNet50 model.In the confusion matrix shown in Figure 3, the yes label is related to brain cancer images, while no is related to healthy patients.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "We can see that 600 patients were considered in the testing phase, 300 belonging to the healthy class and 300 to the sick class; all 300 sick patients were correctly classified in the correct class (i.e., with the yes label in the confusion matrix in Figure 3), while 298 healthy patients were correctly classified as healthy (i.e., with the no label in the confusion matrix in Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In relation to explainability, in Figure 4 we show an example of localisation performed by the proposed method, in particular, there are areas (in yellow) where, from the proposed ResNet50 model’s point of view, there is disease localisation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The workflow of the proposed method is shown in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows a set of images belonging to the analysed dataset; we can note that the images have a single angle (i.e., the one transversal to the height of the cortex).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows the confusion matrix for the model that obtained the best performances, i.e., the ResNet50 one.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nThe confusion matrix for the ResNet50 model.In the confusion matrix shown in Figure 3, the yes label is related to brain cancer images, while no is related to healthy patients.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "We can see that 600 patients were considered in the testing phase, 300 belonging to the healthy class and 300 to the sick class; all 300 sick patients were correctly classified in the correct class (i.e., with the yes label in the confusion matrix in Figure 3), while 298 healthy patients were correctly classified as healthy (i.e., with the no label in the confusion matrix in Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In relation to explainability, in Figure 4 we show an example of localisation performed by the proposed method, in particular, there are areas (in yellow) where, from the proposed ResNet50 model’s point of view, there is disease localisation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The workflow of the proposed method is shown in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows a set of images belonging to the analysed dataset; we can note that the images have a single angle (i.e., the one transversal to the height of the cortex).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows the confusion matrix for the model that obtained the best performances, i.e., the ResNet50 one.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nThe confusion matrix for the ResNet50 model.In the confusion matrix shown in Figure 3, the yes label is related to brain cancer images, while no is related to healthy patients.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "We can see that 600 patients were considered in the testing phase, 300 belonging to the healthy class and 300 to the sick class; all 300 sick patients were correctly classified in the correct class (i.e., with the yes label in the confusion matrix in Figure 3), while 298 healthy patients were correctly classified as healthy (i.e., with the no label in the confusion matrix in Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In relation to explainability, in Figure 4 we show an example of localisation performed by the proposed method, in particular, there are areas (in yellow) where, from the proposed ResNet50 model’s point of view, there is disease localisation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The workflow of the proposed method is shown in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows a set of images belonging to the analysed dataset; we can note that the images have a single angle (i.e., the one transversal to the height of the cortex).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows the confusion matrix for the model that obtained the best performances, i.e., the ResNet50 one.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nThe confusion matrix for the ResNet50 model.In the confusion matrix shown in Figure 3, the yes label is related to brain cancer images, while no is related to healthy patients.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "We can see that 600 patients were considered in the testing phase, 300 belonging to the healthy class and 300 to the sick class; all 300 sick patients were correctly classified in the correct class (i.e., with the yes label in the confusion matrix in Figure 3), while 298 healthy patients were correctly classified as healthy (i.e., with the no label in the confusion matrix in Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In relation to explainability, in Figure 4 we show an example of localisation performed by the proposed method, in particular, there are areas (in yellow) where, from the proposed ResNet50 model’s point of view, there is disease localisation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The workflow of the proposed method is shown in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows a set of images belonging to the analysed dataset; we can note that the images have a single angle (i.e., the one transversal to the height of the cortex).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows the confusion matrix for the model that obtained the best performances, i.e., the ResNet50 one.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nThe confusion matrix for the ResNet50 model.In the confusion matrix shown in Figure 3, the yes label is related to brain cancer images, while no is related to healthy patients.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "We can see that 600 patients were considered in the testing phase, 300 belonging to the healthy class and 300 to the sick class; all 300 sick patients were correctly classified in the correct class (i.e., with the yes label in the confusion matrix in Figure 3), while 298 healthy patients were correctly classified as healthy (i.e., with the no label in the confusion matrix in Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In relation to explainability, in Figure 4 we show an example of localisation performed by the proposed method, in particular, there are areas (in yellow) where, from the proposed ResNet50 model’s point of view, there is disease localisation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The workflow of the proposed method is shown in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows a set of images belonging to the analysed dataset; we can note that the images have a single angle (i.e., the one transversal to the height of the cortex).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows the confusion matrix for the model that obtained the best performances, i.e., the ResNet50 one.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nThe confusion matrix for the ResNet50 model.In the confusion matrix shown in Figure 3, the yes label is related to brain cancer images, while no is related to healthy patients.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "We can see that 600 patients were considered in the testing phase, 300 belonging to the healthy class and 300 to the sick class; all 300 sick patients were correctly classified in the correct class (i.e., with the yes label in the confusion matrix in Figure 3), while 298 healthy patients were correctly classified as healthy (i.e., with the no label in the confusion matrix in Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In relation to explainability, in Figure 4 we show an example of localisation performed by the proposed method, in particular, there are areas (in yellow) where, from the proposed ResNet50 model’s point of view, there is disease localisation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The workflow of the proposed method is shown in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The workflow of the proposed method is shown in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows a set of images belonging to the analysed dataset; we can note that the images have a single angle (i.e., the one transversal to the height of the cortex).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows the confusion matrix for the model that obtained the best performances, i.e., the ResNet50 one.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nThe confusion matrix for the ResNet50 model.In the confusion matrix shown in Figure 3, the yes label is related to brain cancer images, while no is related to healthy patients.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "We can see that 600 patients were considered in the testing phase, 300 belonging to the healthy class and 300 to the sick class; all 300 sick patients were correctly classified in the correct class (i.e., with the yes label in the confusion matrix in Figure 3), while 298 healthy patients were correctly classified as healthy (i.e., with the no label in the confusion matrix in Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In relation to explainability, in Figure 4 we show an example of localisation performed by the proposed method, in particular, there are areas (in yellow) where, from the proposed ResNet50 model’s point of view, there is disease localisation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows a set of images belonging to the analysed dataset; we can note that the images have a single angle (i.e., the one transversal to the height of the cortex).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 shows the confusion matrix for the model that obtained the best performances, i.e., the ResNet50 one.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In the confusion matrix shown in Figure 3, the yes label is related to brain cancer images, while no is related to healthy patients.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "We can see that 600 patients were considered in the testing phase, 300 belonging to the healthy class and 300 to the sick class; all 300 sick patients were correctly classified in the correct class (i.e., with the yes label in the confusion matrix in Figure 3), while 298 healthy patients were correctly classified as healthy (i.e., with the no label in the confusion matrix in Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In relation to explainability, in Figure 4 we show an example of localisation performed by the proposed method, in particular, there are areas (in yellow) where, from the proposed ResNet50 model’s point of view, there is disease localisation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 4,
+    "claims_count": 60,
+    "images_downloaded": 4,
+    "tables_filtered": 9
+  }
+}

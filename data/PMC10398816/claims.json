@@ -1,0 +1,2412 @@
+[
+  {
+    "sentence": "Collection, processing, and analysis of the samples are depicted in Figure 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The cohort included 7 medulloblastomas, 3 ependymomas, 1 ETMR, and 1 CNS neuroblastoma patient (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For 7 patients, CSF was collected up to 1 week postsurgery and for 5 patients, we obtained these samples at later time points (Figure 1B and Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Electropherograms showed distinct sharp (Supplementary Figure 1A) or rounded (Supplementary Figure 1B) peaks, with a median fragment size of 175.3 bp (Supplementary Figure 1C), corresponding to ctDNA based on previous studies.13,19,20 Sharp peaks were found in 11, rounded peaks in 15, and no peaks were detected in 48 CSF-derived samples (Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The method yielded a median of 45.64 ng of DNA (Supplementary Figure 1D).Molecular Profiling of Tumors and ctDNA by NGS\nWe characterized the tumors at the molecular level by performing WGS to a targeted read depth of 30× for germline and 60× coverage for matching tumor DNA samples.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We looked for mutations in common driver genes of respective brain tumor types and their subgroups where relevant, including but not limited to MYCN, PTCH1, GLI2, CDK6, and SUFU for medulloblastoma, EZHIP, CDKN2A, NOTCH1,21 and ADGRL322 for ependymoma, C19MC, miR-17–92, and DICER1 in ETMR.23 WGS revealed that most of these genes were not mutated in the tumors (Figure 2, Supplementary Table 2 and Supplementary Table 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Summary of ddPCR Assays Used for ctDNA Screening\n\n\n\nGene\nProtein Change\nMAF (WGS; %)\nMAF (ddPCR; %)\nLoB (Copies/Reaction)\nLoD (%)\n\n\n\nPatient 2\nC1orf216\nPro134Leu\n12.987\n10.1987\n0\n1\n\n\nPatient 2\nZNF318\nArg204GIn\n23.6842\n23.0624\n0\n1\n\n\nPatient 3\nRAD54L2\nAla304Thr\n46.1538\n43.567\n0\n1\n\n\nPatient 3\nPOU5F2\nArg93*\n84.375\n86.1118\n1.4396\n1\n\n\nPatient 3\nKRT18\nIleGlu275*\n50\n44.106\n0\n0.1\n\n\nPatient 4\nTBC1D8\nArg268GIn\n45.8823\n48.1692\n0\n1\n\n\nPatient 4\nCXXC1\nAla149Asp\n24.359\n18.1548\n0\n1\n\n\nPatient 4\nZNF202\nHis583His\n16.25\n18.9598\n1.3755\n1\n\n\nPatient 5\nMMP14\nGlu523Lys\n43.2432\n47.1163\n0\n1\n\n\nPatient 5\nD2HGDH\nHis476His\n49.3671\n43.9051\n0\n1\n\n\nPatient 5\nPIK3IP1\nArg140Trp\n45.7627\n46.7018\n0\n1\n\n\nPatient 6\nEPPK1\nArg2218His\n9.7345\n32.0931\n1.5397\n0.1\n\n\nPatient 6\nPTPRO\nAsp975His\n19.0476\n19.1226\n0\n1\n\n\nPatient 7\nMROH2B\nSer586Asn\n13.2075\n13.324\n0\n1\n\n\nPatient 7\nNIPAL1\nSer77Asn\n17.7419\n13.9595\n0\n1\n\n\nPatient 8\nGPC3\nAla439Val\n45.7627\n44.3425\n0\n1\n\n\nPatient 9\nGMNN\nArg133His\n45.4545\n44.5348\n0\n0.1\n\n\nPatient 9\nSUV420H2\nArg312Leu\n49.0909\n42.9508\n0\n1\n\n\nPatient 10\nSLC10A5\nGIn134GIn\n31.25\n38.8493\n0\n1\n\n\nPatient 10\nCLIP2\nGly698Arg\n17.7083\n20.7934\n1.9397\n1\n\n\nPatient 11\nUBR4\nThr4287Met\n12.3457\n10.7519\n0\n0.1\n\n\nPatient 11\nC5orf42\nArg2660*\n13.3333\n7.8052\n1.4191\n1\n\n\nPatient 12\nSYNP02\nLeu475Gln\n43.0556\n33.5115\n0\n1\n\n\nPatient 12\nHNRNPR\nAla188Val\n50\n36.3401\n0\n1\n\n\n\nOpen in a new tab\nAbbreviations: ctDNA, circulating tumor DNA; ddPCR, droplet digital PCR; LoB, limit of blank; LoD, limit of detection; MAF, mutant allele frequency; WGS, whole-genome sequencing; *, deletion.To validate the performance of the ddPCR against WGS, we used the ddPCR assays to determine the mutant allele frequency (MAF) of the targeted mutations (Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "MAF values obtained by ddPCR were highly consistent with those obtained by WGS (R2 = 0.8684; Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Bland-Altman analysis revealed relatively high levels of agreement between the two methods with the limits of agreement from −12.44% to 14.22% (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "All ddPCR assays performed well with a good droplet separation between the mutant and wild-type allele fluorescent labels (Supplementary Figure 2) and LoD in a range from 0.1% to 1% (Table 1).Dynamic Monitoring of ctDNA Levels in CSF Correlates with Clinical Outcomes\nWe explored the correlation of ctDNA concentrations in serially collected CSF samples to tumor progression and clinical outcomes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In all 5 patients who had CSF samples collected at or immediately after surgery (Figure 4A–E), we were able to detect significant levels of ctDNA in the CSF.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This was in accordance with the MRI data obtained throughout and posttreatment course for all patients (Figure 4A–E) with the exception of Patient 12 (Figure 4E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The first available CSF samples for Patients 10 and 2 were obtained 23 and 31 days postsurgery respectively (Figure 4F and G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel F",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Although MRI imaging and clinical assessment pointed to the cancer progression in Patients 3 (ependymoma) and 4 (ETMR), we did not detect tumor DNA in their biopsies by ddPCR (Figure 5A and B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, substantial amounts of ctDNA were found across multiple CSF samples collected throughout the course of disease in two medulloblastoma patients (Patients 5 and 8) with tumor relapse confirmed by MRI (Figure 5C and D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Patient 5 (non-WNT, non-SHH MycN+) underwent near-total resection and had a high amount of ctDNA at the time of surgery, and although the amount decreased postresection, the ctDNA remained detectable suggesting residual disease (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Significantly high ctDNA levels were found in Patient 8 (non-WNT, non-SHH MycN+) upon gross-total resection which dropped after surgery but remained detectable (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1A was created with BioRender.com.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Collection, processing, and analysis of the samples are depicted in Figure 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The cohort included 7 medulloblastomas, 3 ependymomas, 1 ETMR, and 1 CNS neuroblastoma patient (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For 7 patients, CSF was collected up to 1 week postsurgery and for 5 patients, we obtained these samples at later time points (Figure 1B and Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Electropherograms showed distinct sharp (Supplementary Figure 1A) or rounded (Supplementary Figure 1B) peaks, with a median fragment size of 175.3 bp (Supplementary Figure 1C), corresponding to ctDNA based on previous studies.13,19,20 Sharp peaks were found in 11, rounded peaks in 15, and no peaks were detected in 48 CSF-derived samples (Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The method yielded a median of 45.64 ng of DNA (Supplementary Figure 1D).Molecular Profiling of Tumors and ctDNA by NGS\nWe characterized the tumors at the molecular level by performing WGS to a targeted read depth of 30× for germline and 60× coverage for matching tumor DNA samples.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We looked for mutations in common driver genes of respective brain tumor types and their subgroups where relevant, including but not limited to MYCN, PTCH1, GLI2, CDK6, and SUFU for medulloblastoma, EZHIP, CDKN2A, NOTCH1,21 and ADGRL322 for ependymoma, C19MC, miR-17–92, and DICER1 in ETMR.23 WGS revealed that most of these genes were not mutated in the tumors (Figure 2, Supplementary Table 2 and Supplementary Table 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Summary of ddPCR Assays Used for ctDNA Screening\n\n\n\nGene\nProtein Change\nMAF (WGS; %)\nMAF (ddPCR; %)\nLoB (Copies/Reaction)\nLoD (%)\n\n\n\nPatient 2\nC1orf216\nPro134Leu\n12.987\n10.1987\n0\n1\n\n\nPatient 2\nZNF318\nArg204GIn\n23.6842\n23.0624\n0\n1\n\n\nPatient 3\nRAD54L2\nAla304Thr\n46.1538\n43.567\n0\n1\n\n\nPatient 3\nPOU5F2\nArg93*\n84.375\n86.1118\n1.4396\n1\n\n\nPatient 3\nKRT18\nIleGlu275*\n50\n44.106\n0\n0.1\n\n\nPatient 4\nTBC1D8\nArg268GIn\n45.8823\n48.1692\n0\n1\n\n\nPatient 4\nCXXC1\nAla149Asp\n24.359\n18.1548\n0\n1\n\n\nPatient 4\nZNF202\nHis583His\n16.25\n18.9598\n1.3755\n1\n\n\nPatient 5\nMMP14\nGlu523Lys\n43.2432\n47.1163\n0\n1\n\n\nPatient 5\nD2HGDH\nHis476His\n49.3671\n43.9051\n0\n1\n\n\nPatient 5\nPIK3IP1\nArg140Trp\n45.7627\n46.7018\n0\n1\n\n\nPatient 6\nEPPK1\nArg2218His\n9.7345\n32.0931\n1.5397\n0.1\n\n\nPatient 6\nPTPRO\nAsp975His\n19.0476\n19.1226\n0\n1\n\n\nPatient 7\nMROH2B\nSer586Asn\n13.2075\n13.324\n0\n1\n\n\nPatient 7\nNIPAL1\nSer77Asn\n17.7419\n13.9595\n0\n1\n\n\nPatient 8\nGPC3\nAla439Val\n45.7627\n44.3425\n0\n1\n\n\nPatient 9\nGMNN\nArg133His\n45.4545\n44.5348\n0\n0.1\n\n\nPatient 9\nSUV420H2\nArg312Leu\n49.0909\n42.9508\n0\n1\n\n\nPatient 10\nSLC10A5\nGIn134GIn\n31.25\n38.8493\n0\n1\n\n\nPatient 10\nCLIP2\nGly698Arg\n17.7083\n20.7934\n1.9397\n1\n\n\nPatient 11\nUBR4\nThr4287Met\n12.3457\n10.7519\n0\n0.1\n\n\nPatient 11\nC5orf42\nArg2660*\n13.3333\n7.8052\n1.4191\n1\n\n\nPatient 12\nSYNP02\nLeu475Gln\n43.0556\n33.5115\n0\n1\n\n\nPatient 12\nHNRNPR\nAla188Val\n50\n36.3401\n0\n1\n\n\n\nOpen in a new tab\nAbbreviations: ctDNA, circulating tumor DNA; ddPCR, droplet digital PCR; LoB, limit of blank; LoD, limit of detection; MAF, mutant allele frequency; WGS, whole-genome sequencing; *, deletion.To validate the performance of the ddPCR against WGS, we used the ddPCR assays to determine the mutant allele frequency (MAF) of the targeted mutations (Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "MAF values obtained by ddPCR were highly consistent with those obtained by WGS (R2 = 0.8684; Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Bland-Altman analysis revealed relatively high levels of agreement between the two methods with the limits of agreement from −12.44% to 14.22% (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "All ddPCR assays performed well with a good droplet separation between the mutant and wild-type allele fluorescent labels (Supplementary Figure 2) and LoD in a range from 0.1% to 1% (Table 1).Dynamic Monitoring of ctDNA Levels in CSF Correlates with Clinical Outcomes\nWe explored the correlation of ctDNA concentrations in serially collected CSF samples to tumor progression and clinical outcomes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In all 5 patients who had CSF samples collected at or immediately after surgery (Figure 4A–E), we were able to detect significant levels of ctDNA in the CSF.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This was in accordance with the MRI data obtained throughout and posttreatment course for all patients (Figure 4A–E) with the exception of Patient 12 (Figure 4E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The first available CSF samples for Patients 10 and 2 were obtained 23 and 31 days postsurgery respectively (Figure 4F and G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel F",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Although MRI imaging and clinical assessment pointed to the cancer progression in Patients 3 (ependymoma) and 4 (ETMR), we did not detect tumor DNA in their biopsies by ddPCR (Figure 5A and B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, substantial amounts of ctDNA were found across multiple CSF samples collected throughout the course of disease in two medulloblastoma patients (Patients 5 and 8) with tumor relapse confirmed by MRI (Figure 5C and D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Patient 5 (non-WNT, non-SHH MycN+) underwent near-total resection and had a high amount of ctDNA at the time of surgery, and although the amount decreased postresection, the ctDNA remained detectable suggesting residual disease (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Significantly high ctDNA levels were found in Patient 8 (non-WNT, non-SHH MycN+) upon gross-total resection which dropped after surgery but remained detectable (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1A was created with BioRender.com.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Collection, processing, and analysis of the samples are depicted in Figure 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The cohort included 7 medulloblastomas, 3 ependymomas, 1 ETMR, and 1 CNS neuroblastoma patient (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For 7 patients, CSF was collected up to 1 week postsurgery and for 5 patients, we obtained these samples at later time points (Figure 1B and Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Electropherograms showed distinct sharp (Supplementary Figure 1A) or rounded (Supplementary Figure 1B) peaks, with a median fragment size of 175.3 bp (Supplementary Figure 1C), corresponding to ctDNA based on previous studies.13,19,20 Sharp peaks were found in 11, rounded peaks in 15, and no peaks were detected in 48 CSF-derived samples (Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The method yielded a median of 45.64 ng of DNA (Supplementary Figure 1D).Molecular Profiling of Tumors and ctDNA by NGS\nWe characterized the tumors at the molecular level by performing WGS to a targeted read depth of 30× for germline and 60× coverage for matching tumor DNA samples.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We looked for mutations in common driver genes of respective brain tumor types and their subgroups where relevant, including but not limited to MYCN, PTCH1, GLI2, CDK6, and SUFU for medulloblastoma, EZHIP, CDKN2A, NOTCH1,21 and ADGRL322 for ependymoma, C19MC, miR-17–92, and DICER1 in ETMR.23 WGS revealed that most of these genes were not mutated in the tumors (Figure 2, Supplementary Table 2 and Supplementary Table 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Summary of ddPCR Assays Used for ctDNA Screening\n\n\n\nGene\nProtein Change\nMAF (WGS; %)\nMAF (ddPCR; %)\nLoB (Copies/Reaction)\nLoD (%)\n\n\n\nPatient 2\nC1orf216\nPro134Leu\n12.987\n10.1987\n0\n1\n\n\nPatient 2\nZNF318\nArg204GIn\n23.6842\n23.0624\n0\n1\n\n\nPatient 3\nRAD54L2\nAla304Thr\n46.1538\n43.567\n0\n1\n\n\nPatient 3\nPOU5F2\nArg93*\n84.375\n86.1118\n1.4396\n1\n\n\nPatient 3\nKRT18\nIleGlu275*\n50\n44.106\n0\n0.1\n\n\nPatient 4\nTBC1D8\nArg268GIn\n45.8823\n48.1692\n0\n1\n\n\nPatient 4\nCXXC1\nAla149Asp\n24.359\n18.1548\n0\n1\n\n\nPatient 4\nZNF202\nHis583His\n16.25\n18.9598\n1.3755\n1\n\n\nPatient 5\nMMP14\nGlu523Lys\n43.2432\n47.1163\n0\n1\n\n\nPatient 5\nD2HGDH\nHis476His\n49.3671\n43.9051\n0\n1\n\n\nPatient 5\nPIK3IP1\nArg140Trp\n45.7627\n46.7018\n0\n1\n\n\nPatient 6\nEPPK1\nArg2218His\n9.7345\n32.0931\n1.5397\n0.1\n\n\nPatient 6\nPTPRO\nAsp975His\n19.0476\n19.1226\n0\n1\n\n\nPatient 7\nMROH2B\nSer586Asn\n13.2075\n13.324\n0\n1\n\n\nPatient 7\nNIPAL1\nSer77Asn\n17.7419\n13.9595\n0\n1\n\n\nPatient 8\nGPC3\nAla439Val\n45.7627\n44.3425\n0\n1\n\n\nPatient 9\nGMNN\nArg133His\n45.4545\n44.5348\n0\n0.1\n\n\nPatient 9\nSUV420H2\nArg312Leu\n49.0909\n42.9508\n0\n1\n\n\nPatient 10\nSLC10A5\nGIn134GIn\n31.25\n38.8493\n0\n1\n\n\nPatient 10\nCLIP2\nGly698Arg\n17.7083\n20.7934\n1.9397\n1\n\n\nPatient 11\nUBR4\nThr4287Met\n12.3457\n10.7519\n0\n0.1\n\n\nPatient 11\nC5orf42\nArg2660*\n13.3333\n7.8052\n1.4191\n1\n\n\nPatient 12\nSYNP02\nLeu475Gln\n43.0556\n33.5115\n0\n1\n\n\nPatient 12\nHNRNPR\nAla188Val\n50\n36.3401\n0\n1\n\n\n\nOpen in a new tab\nAbbreviations: ctDNA, circulating tumor DNA; ddPCR, droplet digital PCR; LoB, limit of blank; LoD, limit of detection; MAF, mutant allele frequency; WGS, whole-genome sequencing; *, deletion.To validate the performance of the ddPCR against WGS, we used the ddPCR assays to determine the mutant allele frequency (MAF) of the targeted mutations (Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "MAF values obtained by ddPCR were highly consistent with those obtained by WGS (R2 = 0.8684; Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Bland-Altman analysis revealed relatively high levels of agreement between the two methods with the limits of agreement from −12.44% to 14.22% (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "All ddPCR assays performed well with a good droplet separation between the mutant and wild-type allele fluorescent labels (Supplementary Figure 2) and LoD in a range from 0.1% to 1% (Table 1).Dynamic Monitoring of ctDNA Levels in CSF Correlates with Clinical Outcomes\nWe explored the correlation of ctDNA concentrations in serially collected CSF samples to tumor progression and clinical outcomes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In all 5 patients who had CSF samples collected at or immediately after surgery (Figure 4A–E), we were able to detect significant levels of ctDNA in the CSF.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This was in accordance with the MRI data obtained throughout and posttreatment course for all patients (Figure 4A–E) with the exception of Patient 12 (Figure 4E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The first available CSF samples for Patients 10 and 2 were obtained 23 and 31 days postsurgery respectively (Figure 4F and G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel F",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Although MRI imaging and clinical assessment pointed to the cancer progression in Patients 3 (ependymoma) and 4 (ETMR), we did not detect tumor DNA in their biopsies by ddPCR (Figure 5A and B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, substantial amounts of ctDNA were found across multiple CSF samples collected throughout the course of disease in two medulloblastoma patients (Patients 5 and 8) with tumor relapse confirmed by MRI (Figure 5C and D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Patient 5 (non-WNT, non-SHH MycN+) underwent near-total resection and had a high amount of ctDNA at the time of surgery, and although the amount decreased postresection, the ctDNA remained detectable suggesting residual disease (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Significantly high ctDNA levels were found in Patient 8 (non-WNT, non-SHH MycN+) upon gross-total resection which dropped after surgery but remained detectable (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1A was created with BioRender.com.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Collection, processing, and analysis of the samples are depicted in Figure 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The cohort included 7 medulloblastomas, 3 ependymomas, 1 ETMR, and 1 CNS neuroblastoma patient (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For 7 patients, CSF was collected up to 1 week postsurgery and for 5 patients, we obtained these samples at later time points (Figure 1B and Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Electropherograms showed distinct sharp (Supplementary Figure 1A) or rounded (Supplementary Figure 1B) peaks, with a median fragment size of 175.3 bp (Supplementary Figure 1C), corresponding to ctDNA based on previous studies.13,19,20 Sharp peaks were found in 11, rounded peaks in 15, and no peaks were detected in 48 CSF-derived samples (Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The method yielded a median of 45.64 ng of DNA (Supplementary Figure 1D).Molecular Profiling of Tumors and ctDNA by NGS\nWe characterized the tumors at the molecular level by performing WGS to a targeted read depth of 30× for germline and 60× coverage for matching tumor DNA samples.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We looked for mutations in common driver genes of respective brain tumor types and their subgroups where relevant, including but not limited to MYCN, PTCH1, GLI2, CDK6, and SUFU for medulloblastoma, EZHIP, CDKN2A, NOTCH1,21 and ADGRL322 for ependymoma, C19MC, miR-17–92, and DICER1 in ETMR.23 WGS revealed that most of these genes were not mutated in the tumors (Figure 2, Supplementary Table 2 and Supplementary Table 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Summary of ddPCR Assays Used for ctDNA Screening\n\n\n\nGene\nProtein Change\nMAF (WGS; %)\nMAF (ddPCR; %)\nLoB (Copies/Reaction)\nLoD (%)\n\n\n\nPatient 2\nC1orf216\nPro134Leu\n12.987\n10.1987\n0\n1\n\n\nPatient 2\nZNF318\nArg204GIn\n23.6842\n23.0624\n0\n1\n\n\nPatient 3\nRAD54L2\nAla304Thr\n46.1538\n43.567\n0\n1\n\n\nPatient 3\nPOU5F2\nArg93*\n84.375\n86.1118\n1.4396\n1\n\n\nPatient 3\nKRT18\nIleGlu275*\n50\n44.106\n0\n0.1\n\n\nPatient 4\nTBC1D8\nArg268GIn\n45.8823\n48.1692\n0\n1\n\n\nPatient 4\nCXXC1\nAla149Asp\n24.359\n18.1548\n0\n1\n\n\nPatient 4\nZNF202\nHis583His\n16.25\n18.9598\n1.3755\n1\n\n\nPatient 5\nMMP14\nGlu523Lys\n43.2432\n47.1163\n0\n1\n\n\nPatient 5\nD2HGDH\nHis476His\n49.3671\n43.9051\n0\n1\n\n\nPatient 5\nPIK3IP1\nArg140Trp\n45.7627\n46.7018\n0\n1\n\n\nPatient 6\nEPPK1\nArg2218His\n9.7345\n32.0931\n1.5397\n0.1\n\n\nPatient 6\nPTPRO\nAsp975His\n19.0476\n19.1226\n0\n1\n\n\nPatient 7\nMROH2B\nSer586Asn\n13.2075\n13.324\n0\n1\n\n\nPatient 7\nNIPAL1\nSer77Asn\n17.7419\n13.9595\n0\n1\n\n\nPatient 8\nGPC3\nAla439Val\n45.7627\n44.3425\n0\n1\n\n\nPatient 9\nGMNN\nArg133His\n45.4545\n44.5348\n0\n0.1\n\n\nPatient 9\nSUV420H2\nArg312Leu\n49.0909\n42.9508\n0\n1\n\n\nPatient 10\nSLC10A5\nGIn134GIn\n31.25\n38.8493\n0\n1\n\n\nPatient 10\nCLIP2\nGly698Arg\n17.7083\n20.7934\n1.9397\n1\n\n\nPatient 11\nUBR4\nThr4287Met\n12.3457\n10.7519\n0\n0.1\n\n\nPatient 11\nC5orf42\nArg2660*\n13.3333\n7.8052\n1.4191\n1\n\n\nPatient 12\nSYNP02\nLeu475Gln\n43.0556\n33.5115\n0\n1\n\n\nPatient 12\nHNRNPR\nAla188Val\n50\n36.3401\n0\n1\n\n\n\nOpen in a new tab\nAbbreviations: ctDNA, circulating tumor DNA; ddPCR, droplet digital PCR; LoB, limit of blank; LoD, limit of detection; MAF, mutant allele frequency; WGS, whole-genome sequencing; *, deletion.To validate the performance of the ddPCR against WGS, we used the ddPCR assays to determine the mutant allele frequency (MAF) of the targeted mutations (Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "MAF values obtained by ddPCR were highly consistent with those obtained by WGS (R2 = 0.8684; Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Bland-Altman analysis revealed relatively high levels of agreement between the two methods with the limits of agreement from −12.44% to 14.22% (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "All ddPCR assays performed well with a good droplet separation between the mutant and wild-type allele fluorescent labels (Supplementary Figure 2) and LoD in a range from 0.1% to 1% (Table 1).Dynamic Monitoring of ctDNA Levels in CSF Correlates with Clinical Outcomes\nWe explored the correlation of ctDNA concentrations in serially collected CSF samples to tumor progression and clinical outcomes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In all 5 patients who had CSF samples collected at or immediately after surgery (Figure 4A–E), we were able to detect significant levels of ctDNA in the CSF.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This was in accordance with the MRI data obtained throughout and posttreatment course for all patients (Figure 4A–E) with the exception of Patient 12 (Figure 4E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The first available CSF samples for Patients 10 and 2 were obtained 23 and 31 days postsurgery respectively (Figure 4F and G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel F",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Although MRI imaging and clinical assessment pointed to the cancer progression in Patients 3 (ependymoma) and 4 (ETMR), we did not detect tumor DNA in their biopsies by ddPCR (Figure 5A and B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, substantial amounts of ctDNA were found across multiple CSF samples collected throughout the course of disease in two medulloblastoma patients (Patients 5 and 8) with tumor relapse confirmed by MRI (Figure 5C and D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Patient 5 (non-WNT, non-SHH MycN+) underwent near-total resection and had a high amount of ctDNA at the time of surgery, and although the amount decreased postresection, the ctDNA remained detectable suggesting residual disease (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Significantly high ctDNA levels were found in Patient 8 (non-WNT, non-SHH MycN+) upon gross-total resection which dropped after surgery but remained detectable (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1A was created with BioRender.com.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Collection, processing, and analysis of the samples are depicted in Figure 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The cohort included 7 medulloblastomas, 3 ependymomas, 1 ETMR, and 1 CNS neuroblastoma patient (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For 7 patients, CSF was collected up to 1 week postsurgery and for 5 patients, we obtained these samples at later time points (Figure 1B and Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Electropherograms showed distinct sharp (Supplementary Figure 1A) or rounded (Supplementary Figure 1B) peaks, with a median fragment size of 175.3 bp (Supplementary Figure 1C), corresponding to ctDNA based on previous studies.13,19,20 Sharp peaks were found in 11, rounded peaks in 15, and no peaks were detected in 48 CSF-derived samples (Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The method yielded a median of 45.64 ng of DNA (Supplementary Figure 1D).Molecular Profiling of Tumors and ctDNA by NGS\nWe characterized the tumors at the molecular level by performing WGS to a targeted read depth of 30× for germline and 60× coverage for matching tumor DNA samples.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We looked for mutations in common driver genes of respective brain tumor types and their subgroups where relevant, including but not limited to MYCN, PTCH1, GLI2, CDK6, and SUFU for medulloblastoma, EZHIP, CDKN2A, NOTCH1,21 and ADGRL322 for ependymoma, C19MC, miR-17–92, and DICER1 in ETMR.23 WGS revealed that most of these genes were not mutated in the tumors (Figure 2, Supplementary Table 2 and Supplementary Table 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Summary of ddPCR Assays Used for ctDNA Screening\n\n\n\nGene\nProtein Change\nMAF (WGS; %)\nMAF (ddPCR; %)\nLoB (Copies/Reaction)\nLoD (%)\n\n\n\nPatient 2\nC1orf216\nPro134Leu\n12.987\n10.1987\n0\n1\n\n\nPatient 2\nZNF318\nArg204GIn\n23.6842\n23.0624\n0\n1\n\n\nPatient 3\nRAD54L2\nAla304Thr\n46.1538\n43.567\n0\n1\n\n\nPatient 3\nPOU5F2\nArg93*\n84.375\n86.1118\n1.4396\n1\n\n\nPatient 3\nKRT18\nIleGlu275*\n50\n44.106\n0\n0.1\n\n\nPatient 4\nTBC1D8\nArg268GIn\n45.8823\n48.1692\n0\n1\n\n\nPatient 4\nCXXC1\nAla149Asp\n24.359\n18.1548\n0\n1\n\n\nPatient 4\nZNF202\nHis583His\n16.25\n18.9598\n1.3755\n1\n\n\nPatient 5\nMMP14\nGlu523Lys\n43.2432\n47.1163\n0\n1\n\n\nPatient 5\nD2HGDH\nHis476His\n49.3671\n43.9051\n0\n1\n\n\nPatient 5\nPIK3IP1\nArg140Trp\n45.7627\n46.7018\n0\n1\n\n\nPatient 6\nEPPK1\nArg2218His\n9.7345\n32.0931\n1.5397\n0.1\n\n\nPatient 6\nPTPRO\nAsp975His\n19.0476\n19.1226\n0\n1\n\n\nPatient 7\nMROH2B\nSer586Asn\n13.2075\n13.324\n0\n1\n\n\nPatient 7\nNIPAL1\nSer77Asn\n17.7419\n13.9595\n0\n1\n\n\nPatient 8\nGPC3\nAla439Val\n45.7627\n44.3425\n0\n1\n\n\nPatient 9\nGMNN\nArg133His\n45.4545\n44.5348\n0\n0.1\n\n\nPatient 9\nSUV420H2\nArg312Leu\n49.0909\n42.9508\n0\n1\n\n\nPatient 10\nSLC10A5\nGIn134GIn\n31.25\n38.8493\n0\n1\n\n\nPatient 10\nCLIP2\nGly698Arg\n17.7083\n20.7934\n1.9397\n1\n\n\nPatient 11\nUBR4\nThr4287Met\n12.3457\n10.7519\n0\n0.1\n\n\nPatient 11\nC5orf42\nArg2660*\n13.3333\n7.8052\n1.4191\n1\n\n\nPatient 12\nSYNP02\nLeu475Gln\n43.0556\n33.5115\n0\n1\n\n\nPatient 12\nHNRNPR\nAla188Val\n50\n36.3401\n0\n1\n\n\n\nOpen in a new tab\nAbbreviations: ctDNA, circulating tumor DNA; ddPCR, droplet digital PCR; LoB, limit of blank; LoD, limit of detection; MAF, mutant allele frequency; WGS, whole-genome sequencing; *, deletion.To validate the performance of the ddPCR against WGS, we used the ddPCR assays to determine the mutant allele frequency (MAF) of the targeted mutations (Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "MAF values obtained by ddPCR were highly consistent with those obtained by WGS (R2 = 0.8684; Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Bland-Altman analysis revealed relatively high levels of agreement between the two methods with the limits of agreement from −12.44% to 14.22% (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "All ddPCR assays performed well with a good droplet separation between the mutant and wild-type allele fluorescent labels (Supplementary Figure 2) and LoD in a range from 0.1% to 1% (Table 1).Dynamic Monitoring of ctDNA Levels in CSF Correlates with Clinical Outcomes\nWe explored the correlation of ctDNA concentrations in serially collected CSF samples to tumor progression and clinical outcomes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In all 5 patients who had CSF samples collected at or immediately after surgery (Figure 4A–E), we were able to detect significant levels of ctDNA in the CSF.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This was in accordance with the MRI data obtained throughout and posttreatment course for all patients (Figure 4A–E) with the exception of Patient 12 (Figure 4E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The first available CSF samples for Patients 10 and 2 were obtained 23 and 31 days postsurgery respectively (Figure 4F and G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel F",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Although MRI imaging and clinical assessment pointed to the cancer progression in Patients 3 (ependymoma) and 4 (ETMR), we did not detect tumor DNA in their biopsies by ddPCR (Figure 5A and B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, substantial amounts of ctDNA were found across multiple CSF samples collected throughout the course of disease in two medulloblastoma patients (Patients 5 and 8) with tumor relapse confirmed by MRI (Figure 5C and D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Patient 5 (non-WNT, non-SHH MycN+) underwent near-total resection and had a high amount of ctDNA at the time of surgery, and although the amount decreased postresection, the ctDNA remained detectable suggesting residual disease (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Significantly high ctDNA levels were found in Patient 8 (non-WNT, non-SHH MycN+) upon gross-total resection which dropped after surgery but remained detectable (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1A was created with BioRender.com.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Collection, processing, and analysis of the samples are depicted in Figure 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The cohort included 7 medulloblastomas, 3 ependymomas, 1 ETMR, and 1 CNS neuroblastoma patient (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For 7 patients, CSF was collected up to 1 week postsurgery and for 5 patients, we obtained these samples at later time points (Figure 1B and Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Electropherograms showed distinct sharp (Supplementary Figure 1A) or rounded (Supplementary Figure 1B) peaks, with a median fragment size of 175.3 bp (Supplementary Figure 1C), corresponding to ctDNA based on previous studies.13,19,20 Sharp peaks were found in 11, rounded peaks in 15, and no peaks were detected in 48 CSF-derived samples (Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The method yielded a median of 45.64 ng of DNA (Supplementary Figure 1D).Molecular Profiling of Tumors and ctDNA by NGS\nWe characterized the tumors at the molecular level by performing WGS to a targeted read depth of 30× for germline and 60× coverage for matching tumor DNA samples.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We looked for mutations in common driver genes of respective brain tumor types and their subgroups where relevant, including but not limited to MYCN, PTCH1, GLI2, CDK6, and SUFU for medulloblastoma, EZHIP, CDKN2A, NOTCH1,21 and ADGRL322 for ependymoma, C19MC, miR-17–92, and DICER1 in ETMR.23 WGS revealed that most of these genes were not mutated in the tumors (Figure 2, Supplementary Table 2 and Supplementary Table 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Summary of ddPCR Assays Used for ctDNA Screening\n\n\n\nGene\nProtein Change\nMAF (WGS; %)\nMAF (ddPCR; %)\nLoB (Copies/Reaction)\nLoD (%)\n\n\n\nPatient 2\nC1orf216\nPro134Leu\n12.987\n10.1987\n0\n1\n\n\nPatient 2\nZNF318\nArg204GIn\n23.6842\n23.0624\n0\n1\n\n\nPatient 3\nRAD54L2\nAla304Thr\n46.1538\n43.567\n0\n1\n\n\nPatient 3\nPOU5F2\nArg93*\n84.375\n86.1118\n1.4396\n1\n\n\nPatient 3\nKRT18\nIleGlu275*\n50\n44.106\n0\n0.1\n\n\nPatient 4\nTBC1D8\nArg268GIn\n45.8823\n48.1692\n0\n1\n\n\nPatient 4\nCXXC1\nAla149Asp\n24.359\n18.1548\n0\n1\n\n\nPatient 4\nZNF202\nHis583His\n16.25\n18.9598\n1.3755\n1\n\n\nPatient 5\nMMP14\nGlu523Lys\n43.2432\n47.1163\n0\n1\n\n\nPatient 5\nD2HGDH\nHis476His\n49.3671\n43.9051\n0\n1\n\n\nPatient 5\nPIK3IP1\nArg140Trp\n45.7627\n46.7018\n0\n1\n\n\nPatient 6\nEPPK1\nArg2218His\n9.7345\n32.0931\n1.5397\n0.1\n\n\nPatient 6\nPTPRO\nAsp975His\n19.0476\n19.1226\n0\n1\n\n\nPatient 7\nMROH2B\nSer586Asn\n13.2075\n13.324\n0\n1\n\n\nPatient 7\nNIPAL1\nSer77Asn\n17.7419\n13.9595\n0\n1\n\n\nPatient 8\nGPC3\nAla439Val\n45.7627\n44.3425\n0\n1\n\n\nPatient 9\nGMNN\nArg133His\n45.4545\n44.5348\n0\n0.1\n\n\nPatient 9\nSUV420H2\nArg312Leu\n49.0909\n42.9508\n0\n1\n\n\nPatient 10\nSLC10A5\nGIn134GIn\n31.25\n38.8493\n0\n1\n\n\nPatient 10\nCLIP2\nGly698Arg\n17.7083\n20.7934\n1.9397\n1\n\n\nPatient 11\nUBR4\nThr4287Met\n12.3457\n10.7519\n0\n0.1\n\n\nPatient 11\nC5orf42\nArg2660*\n13.3333\n7.8052\n1.4191\n1\n\n\nPatient 12\nSYNP02\nLeu475Gln\n43.0556\n33.5115\n0\n1\n\n\nPatient 12\nHNRNPR\nAla188Val\n50\n36.3401\n0\n1\n\n\n\nOpen in a new tab\nAbbreviations: ctDNA, circulating tumor DNA; ddPCR, droplet digital PCR; LoB, limit of blank; LoD, limit of detection; MAF, mutant allele frequency; WGS, whole-genome sequencing; *, deletion.To validate the performance of the ddPCR against WGS, we used the ddPCR assays to determine the mutant allele frequency (MAF) of the targeted mutations (Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "MAF values obtained by ddPCR were highly consistent with those obtained by WGS (R2 = 0.8684; Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Bland-Altman analysis revealed relatively high levels of agreement between the two methods with the limits of agreement from −12.44% to 14.22% (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "All ddPCR assays performed well with a good droplet separation between the mutant and wild-type allele fluorescent labels (Supplementary Figure 2) and LoD in a range from 0.1% to 1% (Table 1).Dynamic Monitoring of ctDNA Levels in CSF Correlates with Clinical Outcomes\nWe explored the correlation of ctDNA concentrations in serially collected CSF samples to tumor progression and clinical outcomes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In all 5 patients who had CSF samples collected at or immediately after surgery (Figure 4A–E), we were able to detect significant levels of ctDNA in the CSF.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This was in accordance with the MRI data obtained throughout and posttreatment course for all patients (Figure 4A–E) with the exception of Patient 12 (Figure 4E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The first available CSF samples for Patients 10 and 2 were obtained 23 and 31 days postsurgery respectively (Figure 4F and G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel F",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Although MRI imaging and clinical assessment pointed to the cancer progression in Patients 3 (ependymoma) and 4 (ETMR), we did not detect tumor DNA in their biopsies by ddPCR (Figure 5A and B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, substantial amounts of ctDNA were found across multiple CSF samples collected throughout the course of disease in two medulloblastoma patients (Patients 5 and 8) with tumor relapse confirmed by MRI (Figure 5C and D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Patient 5 (non-WNT, non-SHH MycN+) underwent near-total resection and had a high amount of ctDNA at the time of surgery, and although the amount decreased postresection, the ctDNA remained detectable suggesting residual disease (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Significantly high ctDNA levels were found in Patient 8 (non-WNT, non-SHH MycN+) upon gross-total resection which dropped after surgery but remained detectable (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1A was created with BioRender.com.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Collection, processing, and analysis of the samples are depicted in Figure 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The cohort included 7 medulloblastomas, 3 ependymomas, 1 ETMR, and 1 CNS neuroblastoma patient (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For 7 patients, CSF was collected up to 1 week postsurgery and for 5 patients, we obtained these samples at later time points (Figure 1B and Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Electropherograms showed distinct sharp (Supplementary Figure 1A) or rounded (Supplementary Figure 1B) peaks, with a median fragment size of 175.3 bp (Supplementary Figure 1C), corresponding to ctDNA based on previous studies.13,19,20 Sharp peaks were found in 11, rounded peaks in 15, and no peaks were detected in 48 CSF-derived samples (Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The method yielded a median of 45.64 ng of DNA (Supplementary Figure 1D).Molecular Profiling of Tumors and ctDNA by NGS\nWe characterized the tumors at the molecular level by performing WGS to a targeted read depth of 30× for germline and 60× coverage for matching tumor DNA samples.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We looked for mutations in common driver genes of respective brain tumor types and their subgroups where relevant, including but not limited to MYCN, PTCH1, GLI2, CDK6, and SUFU for medulloblastoma, EZHIP, CDKN2A, NOTCH1,21 and ADGRL322 for ependymoma, C19MC, miR-17–92, and DICER1 in ETMR.23 WGS revealed that most of these genes were not mutated in the tumors (Figure 2, Supplementary Table 2 and Supplementary Table 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Summary of ddPCR Assays Used for ctDNA Screening\n\n\n\nGene\nProtein Change\nMAF (WGS; %)\nMAF (ddPCR; %)\nLoB (Copies/Reaction)\nLoD (%)\n\n\n\nPatient 2\nC1orf216\nPro134Leu\n12.987\n10.1987\n0\n1\n\n\nPatient 2\nZNF318\nArg204GIn\n23.6842\n23.0624\n0\n1\n\n\nPatient 3\nRAD54L2\nAla304Thr\n46.1538\n43.567\n0\n1\n\n\nPatient 3\nPOU5F2\nArg93*\n84.375\n86.1118\n1.4396\n1\n\n\nPatient 3\nKRT18\nIleGlu275*\n50\n44.106\n0\n0.1\n\n\nPatient 4\nTBC1D8\nArg268GIn\n45.8823\n48.1692\n0\n1\n\n\nPatient 4\nCXXC1\nAla149Asp\n24.359\n18.1548\n0\n1\n\n\nPatient 4\nZNF202\nHis583His\n16.25\n18.9598\n1.3755\n1\n\n\nPatient 5\nMMP14\nGlu523Lys\n43.2432\n47.1163\n0\n1\n\n\nPatient 5\nD2HGDH\nHis476His\n49.3671\n43.9051\n0\n1\n\n\nPatient 5\nPIK3IP1\nArg140Trp\n45.7627\n46.7018\n0\n1\n\n\nPatient 6\nEPPK1\nArg2218His\n9.7345\n32.0931\n1.5397\n0.1\n\n\nPatient 6\nPTPRO\nAsp975His\n19.0476\n19.1226\n0\n1\n\n\nPatient 7\nMROH2B\nSer586Asn\n13.2075\n13.324\n0\n1\n\n\nPatient 7\nNIPAL1\nSer77Asn\n17.7419\n13.9595\n0\n1\n\n\nPatient 8\nGPC3\nAla439Val\n45.7627\n44.3425\n0\n1\n\n\nPatient 9\nGMNN\nArg133His\n45.4545\n44.5348\n0\n0.1\n\n\nPatient 9\nSUV420H2\nArg312Leu\n49.0909\n42.9508\n0\n1\n\n\nPatient 10\nSLC10A5\nGIn134GIn\n31.25\n38.8493\n0\n1\n\n\nPatient 10\nCLIP2\nGly698Arg\n17.7083\n20.7934\n1.9397\n1\n\n\nPatient 11\nUBR4\nThr4287Met\n12.3457\n10.7519\n0\n0.1\n\n\nPatient 11\nC5orf42\nArg2660*\n13.3333\n7.8052\n1.4191\n1\n\n\nPatient 12\nSYNP02\nLeu475Gln\n43.0556\n33.5115\n0\n1\n\n\nPatient 12\nHNRNPR\nAla188Val\n50\n36.3401\n0\n1\n\n\n\nOpen in a new tab\nAbbreviations: ctDNA, circulating tumor DNA; ddPCR, droplet digital PCR; LoB, limit of blank; LoD, limit of detection; MAF, mutant allele frequency; WGS, whole-genome sequencing; *, deletion.To validate the performance of the ddPCR against WGS, we used the ddPCR assays to determine the mutant allele frequency (MAF) of the targeted mutations (Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "MAF values obtained by ddPCR were highly consistent with those obtained by WGS (R2 = 0.8684; Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Bland-Altman analysis revealed relatively high levels of agreement between the two methods with the limits of agreement from −12.44% to 14.22% (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "All ddPCR assays performed well with a good droplet separation between the mutant and wild-type allele fluorescent labels (Supplementary Figure 2) and LoD in a range from 0.1% to 1% (Table 1).Dynamic Monitoring of ctDNA Levels in CSF Correlates with Clinical Outcomes\nWe explored the correlation of ctDNA concentrations in serially collected CSF samples to tumor progression and clinical outcomes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In all 5 patients who had CSF samples collected at or immediately after surgery (Figure 4A–E), we were able to detect significant levels of ctDNA in the CSF.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This was in accordance with the MRI data obtained throughout and posttreatment course for all patients (Figure 4A–E) with the exception of Patient 12 (Figure 4E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The first available CSF samples for Patients 10 and 2 were obtained 23 and 31 days postsurgery respectively (Figure 4F and G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel F",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Although MRI imaging and clinical assessment pointed to the cancer progression in Patients 3 (ependymoma) and 4 (ETMR), we did not detect tumor DNA in their biopsies by ddPCR (Figure 5A and B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, substantial amounts of ctDNA were found across multiple CSF samples collected throughout the course of disease in two medulloblastoma patients (Patients 5 and 8) with tumor relapse confirmed by MRI (Figure 5C and D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Patient 5 (non-WNT, non-SHH MycN+) underwent near-total resection and had a high amount of ctDNA at the time of surgery, and although the amount decreased postresection, the ctDNA remained detectable suggesting residual disease (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Significantly high ctDNA levels were found in Patient 8 (non-WNT, non-SHH MycN+) upon gross-total resection which dropped after surgery but remained detectable (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1A was created with BioRender.com.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Collection, processing, and analysis of the samples are depicted in Figure 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The cohort included 7 medulloblastomas, 3 ependymomas, 1 ETMR, and 1 CNS neuroblastoma patient (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For 7 patients, CSF was collected up to 1 week postsurgery and for 5 patients, we obtained these samples at later time points (Figure 1B and Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Electropherograms showed distinct sharp (Supplementary Figure 1A) or rounded (Supplementary Figure 1B) peaks, with a median fragment size of 175.3 bp (Supplementary Figure 1C), corresponding to ctDNA based on previous studies.13,19,20 Sharp peaks were found in 11, rounded peaks in 15, and no peaks were detected in 48 CSF-derived samples (Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The method yielded a median of 45.64 ng of DNA (Supplementary Figure 1D).Molecular Profiling of Tumors and ctDNA by NGS\nWe characterized the tumors at the molecular level by performing WGS to a targeted read depth of 30× for germline and 60× coverage for matching tumor DNA samples.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We looked for mutations in common driver genes of respective brain tumor types and their subgroups where relevant, including but not limited to MYCN, PTCH1, GLI2, CDK6, and SUFU for medulloblastoma, EZHIP, CDKN2A, NOTCH1,21 and ADGRL322 for ependymoma, C19MC, miR-17–92, and DICER1 in ETMR.23 WGS revealed that most of these genes were not mutated in the tumors (Figure 2, Supplementary Table 2 and Supplementary Table 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Summary of ddPCR Assays Used for ctDNA Screening\n\n\n\nGene\nProtein Change\nMAF (WGS; %)\nMAF (ddPCR; %)\nLoB (Copies/Reaction)\nLoD (%)\n\n\n\nPatient 2\nC1orf216\nPro134Leu\n12.987\n10.1987\n0\n1\n\n\nPatient 2\nZNF318\nArg204GIn\n23.6842\n23.0624\n0\n1\n\n\nPatient 3\nRAD54L2\nAla304Thr\n46.1538\n43.567\n0\n1\n\n\nPatient 3\nPOU5F2\nArg93*\n84.375\n86.1118\n1.4396\n1\n\n\nPatient 3\nKRT18\nIleGlu275*\n50\n44.106\n0\n0.1\n\n\nPatient 4\nTBC1D8\nArg268GIn\n45.8823\n48.1692\n0\n1\n\n\nPatient 4\nCXXC1\nAla149Asp\n24.359\n18.1548\n0\n1\n\n\nPatient 4\nZNF202\nHis583His\n16.25\n18.9598\n1.3755\n1\n\n\nPatient 5\nMMP14\nGlu523Lys\n43.2432\n47.1163\n0\n1\n\n\nPatient 5\nD2HGDH\nHis476His\n49.3671\n43.9051\n0\n1\n\n\nPatient 5\nPIK3IP1\nArg140Trp\n45.7627\n46.7018\n0\n1\n\n\nPatient 6\nEPPK1\nArg2218His\n9.7345\n32.0931\n1.5397\n0.1\n\n\nPatient 6\nPTPRO\nAsp975His\n19.0476\n19.1226\n0\n1\n\n\nPatient 7\nMROH2B\nSer586Asn\n13.2075\n13.324\n0\n1\n\n\nPatient 7\nNIPAL1\nSer77Asn\n17.7419\n13.9595\n0\n1\n\n\nPatient 8\nGPC3\nAla439Val\n45.7627\n44.3425\n0\n1\n\n\nPatient 9\nGMNN\nArg133His\n45.4545\n44.5348\n0\n0.1\n\n\nPatient 9\nSUV420H2\nArg312Leu\n49.0909\n42.9508\n0\n1\n\n\nPatient 10\nSLC10A5\nGIn134GIn\n31.25\n38.8493\n0\n1\n\n\nPatient 10\nCLIP2\nGly698Arg\n17.7083\n20.7934\n1.9397\n1\n\n\nPatient 11\nUBR4\nThr4287Met\n12.3457\n10.7519\n0\n0.1\n\n\nPatient 11\nC5orf42\nArg2660*\n13.3333\n7.8052\n1.4191\n1\n\n\nPatient 12\nSYNP02\nLeu475Gln\n43.0556\n33.5115\n0\n1\n\n\nPatient 12\nHNRNPR\nAla188Val\n50\n36.3401\n0\n1\n\n\n\nOpen in a new tab\nAbbreviations: ctDNA, circulating tumor DNA; ddPCR, droplet digital PCR; LoB, limit of blank; LoD, limit of detection; MAF, mutant allele frequency; WGS, whole-genome sequencing; *, deletion.To validate the performance of the ddPCR against WGS, we used the ddPCR assays to determine the mutant allele frequency (MAF) of the targeted mutations (Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "MAF values obtained by ddPCR were highly consistent with those obtained by WGS (R2 = 0.8684; Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Bland-Altman analysis revealed relatively high levels of agreement between the two methods with the limits of agreement from −12.44% to 14.22% (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "All ddPCR assays performed well with a good droplet separation between the mutant and wild-type allele fluorescent labels (Supplementary Figure 2) and LoD in a range from 0.1% to 1% (Table 1).Dynamic Monitoring of ctDNA Levels in CSF Correlates with Clinical Outcomes\nWe explored the correlation of ctDNA concentrations in serially collected CSF samples to tumor progression and clinical outcomes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In all 5 patients who had CSF samples collected at or immediately after surgery (Figure 4A–E), we were able to detect significant levels of ctDNA in the CSF.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This was in accordance with the MRI data obtained throughout and posttreatment course for all patients (Figure 4A–E) with the exception of Patient 12 (Figure 4E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The first available CSF samples for Patients 10 and 2 were obtained 23 and 31 days postsurgery respectively (Figure 4F and G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel F",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Although MRI imaging and clinical assessment pointed to the cancer progression in Patients 3 (ependymoma) and 4 (ETMR), we did not detect tumor DNA in their biopsies by ddPCR (Figure 5A and B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, substantial amounts of ctDNA were found across multiple CSF samples collected throughout the course of disease in two medulloblastoma patients (Patients 5 and 8) with tumor relapse confirmed by MRI (Figure 5C and D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Patient 5 (non-WNT, non-SHH MycN+) underwent near-total resection and had a high amount of ctDNA at the time of surgery, and although the amount decreased postresection, the ctDNA remained detectable suggesting residual disease (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Significantly high ctDNA levels were found in Patient 8 (non-WNT, non-SHH MycN+) upon gross-total resection which dropped after surgery but remained detectable (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1A was created with BioRender.com.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Collection, processing, and analysis of the samples are depicted in Figure 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The cohort included 7 medulloblastomas, 3 ependymomas, 1 ETMR, and 1 CNS neuroblastoma patient (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For 7 patients, CSF was collected up to 1 week postsurgery and for 5 patients, we obtained these samples at later time points (Figure 1B and Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Electropherograms showed distinct sharp (Supplementary Figure 1A) or rounded (Supplementary Figure 1B) peaks, with a median fragment size of 175.3 bp (Supplementary Figure 1C), corresponding to ctDNA based on previous studies.13,19,20 Sharp peaks were found in 11, rounded peaks in 15, and no peaks were detected in 48 CSF-derived samples (Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The method yielded a median of 45.64 ng of DNA (Supplementary Figure 1D).Molecular Profiling of Tumors and ctDNA by NGS\nWe characterized the tumors at the molecular level by performing WGS to a targeted read depth of 30× for germline and 60× coverage for matching tumor DNA samples.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We looked for mutations in common driver genes of respective brain tumor types and their subgroups where relevant, including but not limited to MYCN, PTCH1, GLI2, CDK6, and SUFU for medulloblastoma, EZHIP, CDKN2A, NOTCH1,21 and ADGRL322 for ependymoma, C19MC, miR-17–92, and DICER1 in ETMR.23 WGS revealed that most of these genes were not mutated in the tumors (Figure 2, Supplementary Table 2 and Supplementary Table 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Summary of ddPCR Assays Used for ctDNA Screening\n\n\n\nGene\nProtein Change\nMAF (WGS; %)\nMAF (ddPCR; %)\nLoB (Copies/Reaction)\nLoD (%)\n\n\n\nPatient 2\nC1orf216\nPro134Leu\n12.987\n10.1987\n0\n1\n\n\nPatient 2\nZNF318\nArg204GIn\n23.6842\n23.0624\n0\n1\n\n\nPatient 3\nRAD54L2\nAla304Thr\n46.1538\n43.567\n0\n1\n\n\nPatient 3\nPOU5F2\nArg93*\n84.375\n86.1118\n1.4396\n1\n\n\nPatient 3\nKRT18\nIleGlu275*\n50\n44.106\n0\n0.1\n\n\nPatient 4\nTBC1D8\nArg268GIn\n45.8823\n48.1692\n0\n1\n\n\nPatient 4\nCXXC1\nAla149Asp\n24.359\n18.1548\n0\n1\n\n\nPatient 4\nZNF202\nHis583His\n16.25\n18.9598\n1.3755\n1\n\n\nPatient 5\nMMP14\nGlu523Lys\n43.2432\n47.1163\n0\n1\n\n\nPatient 5\nD2HGDH\nHis476His\n49.3671\n43.9051\n0\n1\n\n\nPatient 5\nPIK3IP1\nArg140Trp\n45.7627\n46.7018\n0\n1\n\n\nPatient 6\nEPPK1\nArg2218His\n9.7345\n32.0931\n1.5397\n0.1\n\n\nPatient 6\nPTPRO\nAsp975His\n19.0476\n19.1226\n0\n1\n\n\nPatient 7\nMROH2B\nSer586Asn\n13.2075\n13.324\n0\n1\n\n\nPatient 7\nNIPAL1\nSer77Asn\n17.7419\n13.9595\n0\n1\n\n\nPatient 8\nGPC3\nAla439Val\n45.7627\n44.3425\n0\n1\n\n\nPatient 9\nGMNN\nArg133His\n45.4545\n44.5348\n0\n0.1\n\n\nPatient 9\nSUV420H2\nArg312Leu\n49.0909\n42.9508\n0\n1\n\n\nPatient 10\nSLC10A5\nGIn134GIn\n31.25\n38.8493\n0\n1\n\n\nPatient 10\nCLIP2\nGly698Arg\n17.7083\n20.7934\n1.9397\n1\n\n\nPatient 11\nUBR4\nThr4287Met\n12.3457\n10.7519\n0\n0.1\n\n\nPatient 11\nC5orf42\nArg2660*\n13.3333\n7.8052\n1.4191\n1\n\n\nPatient 12\nSYNP02\nLeu475Gln\n43.0556\n33.5115\n0\n1\n\n\nPatient 12\nHNRNPR\nAla188Val\n50\n36.3401\n0\n1\n\n\n\nOpen in a new tab\nAbbreviations: ctDNA, circulating tumor DNA; ddPCR, droplet digital PCR; LoB, limit of blank; LoD, limit of detection; MAF, mutant allele frequency; WGS, whole-genome sequencing; *, deletion.To validate the performance of the ddPCR against WGS, we used the ddPCR assays to determine the mutant allele frequency (MAF) of the targeted mutations (Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "MAF values obtained by ddPCR were highly consistent with those obtained by WGS (R2 = 0.8684; Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Bland-Altman analysis revealed relatively high levels of agreement between the two methods with the limits of agreement from −12.44% to 14.22% (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "All ddPCR assays performed well with a good droplet separation between the mutant and wild-type allele fluorescent labels (Supplementary Figure 2) and LoD in a range from 0.1% to 1% (Table 1).Dynamic Monitoring of ctDNA Levels in CSF Correlates with Clinical Outcomes\nWe explored the correlation of ctDNA concentrations in serially collected CSF samples to tumor progression and clinical outcomes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In all 5 patients who had CSF samples collected at or immediately after surgery (Figure 4A–E), we were able to detect significant levels of ctDNA in the CSF.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This was in accordance with the MRI data obtained throughout and posttreatment course for all patients (Figure 4A–E) with the exception of Patient 12 (Figure 4E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The first available CSF samples for Patients 10 and 2 were obtained 23 and 31 days postsurgery respectively (Figure 4F and G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel F",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Although MRI imaging and clinical assessment pointed to the cancer progression in Patients 3 (ependymoma) and 4 (ETMR), we did not detect tumor DNA in their biopsies by ddPCR (Figure 5A and B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, substantial amounts of ctDNA were found across multiple CSF samples collected throughout the course of disease in two medulloblastoma patients (Patients 5 and 8) with tumor relapse confirmed by MRI (Figure 5C and D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Patient 5 (non-WNT, non-SHH MycN+) underwent near-total resection and had a high amount of ctDNA at the time of surgery, and although the amount decreased postresection, the ctDNA remained detectable suggesting residual disease (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Significantly high ctDNA levels were found in Patient 8 (non-WNT, non-SHH MycN+) upon gross-total resection which dropped after surgery but remained detectable (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Collection, processing, and analysis of the samples are depicted in Figure 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The cohort included 7 medulloblastomas, 3 ependymomas, 1 ETMR, and 1 CNS neuroblastoma patient (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For 7 patients, CSF was collected up to 1 week postsurgery and for 5 patients, we obtained these samples at later time points (Figure 1B and Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Electropherograms showed distinct sharp (Supplementary Figure 1A) or rounded (Supplementary Figure 1B) peaks, with a median fragment size of 175.3 bp (Supplementary Figure 1C), corresponding to ctDNA based on previous studies.13,19,20 Sharp peaks were found in 11, rounded peaks in 15, and no peaks were detected in 48 CSF-derived samples (Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The method yielded a median of 45.64 ng of DNA (Supplementary Figure 1D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Collection, processing, and analysis of the samples are depicted in Figure 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The cohort included 7 medulloblastomas, 3 ependymomas, 1 ETMR, and 1 CNS neuroblastoma patient (Figure 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For 7 patients, CSF was collected up to 1 week postsurgery and for 5 patients, we obtained these samples at later time points (Figure 1B and Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Electropherograms showed distinct sharp (Supplementary Figure 1A) or rounded (Supplementary Figure 1B) peaks, with a median fragment size of 175.3 bp (Supplementary Figure 1C), corresponding to ctDNA based on previous studies.13,19,20 Sharp peaks were found in 11, rounded peaks in 15, and no peaks were detected in 48 CSF-derived samples (Supplementary Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The method yielded a median of 45.64 ng of DNA (Supplementary Figure 1D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We looked for mutations in common driver genes of respective brain tumor types and their subgroups where relevant, including but not limited to MYCN, PTCH1, GLI2, CDK6, and SUFU for medulloblastoma, EZHIP, CDKN2A, NOTCH1,21 and ADGRL322 for ependymoma, C19MC, miR-17–92, and DICER1 in ETMR.23 WGS revealed that most of these genes were not mutated in the tumors (Figure 2, Supplementary Table 2 and Supplementary Table 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We looked for mutations in common driver genes of respective brain tumor types and their subgroups where relevant, including but not limited to MYCN, PTCH1, GLI2, CDK6, and SUFU for medulloblastoma, EZHIP, CDKN2A, NOTCH1,21 and ADGRL322 for ependymoma, C19MC, miR-17–92, and DICER1 in ETMR.23 WGS revealed that most of these genes were not mutated in the tumors (Figure 2, Supplementary Table 2 and Supplementary Table 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Summary of ddPCR Assays Used for ctDNA Screening\n\n\n\nGene\nProtein Change\nMAF (WGS; %)\nMAF (ddPCR; %)\nLoB (Copies/Reaction)\nLoD (%)\n\n\n\nPatient 2\nC1orf216\nPro134Leu\n12.987\n10.1987\n0\n1\n\n\nPatient 2\nZNF318\nArg204GIn\n23.6842\n23.0624\n0\n1\n\n\nPatient 3\nRAD54L2\nAla304Thr\n46.1538\n43.567\n0\n1\n\n\nPatient 3\nPOU5F2\nArg93*\n84.375\n86.1118\n1.4396\n1\n\n\nPatient 3\nKRT18\nIleGlu275*\n50\n44.106\n0\n0.1\n\n\nPatient 4\nTBC1D8\nArg268GIn\n45.8823\n48.1692\n0\n1\n\n\nPatient 4\nCXXC1\nAla149Asp\n24.359\n18.1548\n0\n1\n\n\nPatient 4\nZNF202\nHis583His\n16.25\n18.9598\n1.3755\n1\n\n\nPatient 5\nMMP14\nGlu523Lys\n43.2432\n47.1163\n0\n1\n\n\nPatient 5\nD2HGDH\nHis476His\n49.3671\n43.9051\n0\n1\n\n\nPatient 5\nPIK3IP1\nArg140Trp\n45.7627\n46.7018\n0\n1\n\n\nPatient 6\nEPPK1\nArg2218His\n9.7345\n32.0931\n1.5397\n0.1\n\n\nPatient 6\nPTPRO\nAsp975His\n19.0476\n19.1226\n0\n1\n\n\nPatient 7\nMROH2B\nSer586Asn\n13.2075\n13.324\n0\n1\n\n\nPatient 7\nNIPAL1\nSer77Asn\n17.7419\n13.9595\n0\n1\n\n\nPatient 8\nGPC3\nAla439Val\n45.7627\n44.3425\n0\n1\n\n\nPatient 9\nGMNN\nArg133His\n45.4545\n44.5348\n0\n0.1\n\n\nPatient 9\nSUV420H2\nArg312Leu\n49.0909\n42.9508\n0\n1\n\n\nPatient 10\nSLC10A5\nGIn134GIn\n31.25\n38.8493\n0\n1\n\n\nPatient 10\nCLIP2\nGly698Arg\n17.7083\n20.7934\n1.9397\n1\n\n\nPatient 11\nUBR4\nThr4287Met\n12.3457\n10.7519\n0\n0.1\n\n\nPatient 11\nC5orf42\nArg2660*\n13.3333\n7.8052\n1.4191\n1\n\n\nPatient 12\nSYNP02\nLeu475Gln\n43.0556\n33.5115\n0\n1\n\n\nPatient 12\nHNRNPR\nAla188Val\n50\n36.3401\n0\n1\n\n\n\nOpen in a new tab\nAbbreviations: ctDNA, circulating tumor DNA; ddPCR, droplet digital PCR; LoB, limit of blank; LoD, limit of detection; MAF, mutant allele frequency; WGS, whole-genome sequencing; *, deletion.To validate the performance of the ddPCR against WGS, we used the ddPCR assays to determine the mutant allele frequency (MAF) of the targeted mutations (Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "MAF values obtained by ddPCR were highly consistent with those obtained by WGS (R2 = 0.8684; Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Bland-Altman analysis revealed relatively high levels of agreement between the two methods with the limits of agreement from −12.44% to 14.22% (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "All ddPCR assays performed well with a good droplet separation between the mutant and wild-type allele fluorescent labels (Supplementary Figure 2) and LoD in a range from 0.1% to 1% (Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To validate the performance of the ddPCR against WGS, we used the ddPCR assays to determine the mutant allele frequency (MAF) of the targeted mutations (Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "MAF values obtained by ddPCR were highly consistent with those obtained by WGS (R2 = 0.8684; Table 1 and Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Bland-Altman analysis revealed relatively high levels of agreement between the two methods with the limits of agreement from −12.44% to 14.22% (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "All ddPCR assays performed well with a good droplet separation between the mutant and wild-type allele fluorescent labels (Supplementary Figure 2) and LoD in a range from 0.1% to 1% (Table 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In all 5 patients who had CSF samples collected at or immediately after surgery (Figure 4A–E), we were able to detect significant levels of ctDNA in the CSF.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This was in accordance with the MRI data obtained throughout and posttreatment course for all patients (Figure 4A–E) with the exception of Patient 12 (Figure 4E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The first available CSF samples for Patients 10 and 2 were obtained 23 and 31 days postsurgery respectively (Figure 4F and G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel F",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Although MRI imaging and clinical assessment pointed to the cancer progression in Patients 3 (ependymoma) and 4 (ETMR), we did not detect tumor DNA in their biopsies by ddPCR (Figure 5A and B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, substantial amounts of ctDNA were found across multiple CSF samples collected throughout the course of disease in two medulloblastoma patients (Patients 5 and 8) with tumor relapse confirmed by MRI (Figure 5C and D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Patient 5 (non-WNT, non-SHH MycN+) underwent near-total resection and had a high amount of ctDNA at the time of surgery, and although the amount decreased postresection, the ctDNA remained detectable suggesting residual disease (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Significantly high ctDNA levels were found in Patient 8 (non-WNT, non-SHH MycN+) upon gross-total resection which dropped after surgery but remained detectable (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In all 5 patients who had CSF samples collected at or immediately after surgery (Figure 4A–E), we were able to detect significant levels of ctDNA in the CSF.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This was in accordance with the MRI data obtained throughout and posttreatment course for all patients (Figure 4A–E) with the exception of Patient 12 (Figure 4E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel E",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The first available CSF samples for Patients 10 and 2 were obtained 23 and 31 days postsurgery respectively (Figure 4F and G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel F",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Although MRI imaging and clinical assessment pointed to the cancer progression in Patients 3 (ependymoma) and 4 (ETMR), we did not detect tumor DNA in their biopsies by ddPCR (Figure 5A and B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, substantial amounts of ctDNA were found across multiple CSF samples collected throughout the course of disease in two medulloblastoma patients (Patients 5 and 8) with tumor relapse confirmed by MRI (Figure 5C and D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Patient 5 (non-WNT, non-SHH MycN+) underwent near-total resection and had a high amount of ctDNA at the time of surgery, and although the amount decreased postresection, the ctDNA remained detectable suggesting residual disease (Figure 5C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel C",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Significantly high ctDNA levels were found in Patient 8 (non-WNT, non-SHH MycN+) upon gross-total resection which dropped after surgery but remained detectable (Figure 5D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel D",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1A was created with BioRender.com.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1A was created with BioRender.com.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  }
+]

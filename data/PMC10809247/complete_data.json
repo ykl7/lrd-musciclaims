@@ -1,0 +1,100 @@
+{
+  "paper_id": "PMC10809247",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10809247/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Figure 1.",
+      "caption": "Representative 10 s PIRL-MS\nspectra of major pediatric brain cancer\ntypes. The PIRL-MS spectra for ependymoma (EPN) (PF-EPN-A, ST-EPN-RELA),\npilocytic astrocytoma (PA), and medulloblastoma (MB, e.g., Group 4\nsubgroup) are shown to possess unique mass spectral differentiators.\nThe mass-to-charge (m/z) values\nresponsible for 10 s classification of these cancer types whose molecular\nidentities are determined in this work (see Table 1) are labeled in the black font. The m/z values in the red font represent the\nabundant ions over the mass range examined. We have also included\nthe total ion count for each mass spectrum, suggesting good-quality\nmass spectra from these specimens could be obtained under the proposed\nexperimental conditions. The MB data is previously published6 and is reproduced here for the clarity of discussion\nand to ensure that no misclassification of newly analyzed EPN and\nPA specimens as MB is taking place.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e8ae/10809247/4d20871998a2/ac3c03156_0001.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e8ae/10809247/4d20871998a2/ac3c03156_0001.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e8ae/10809247/4d20871998a2/ac3c03156_0001.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e8ae/10809247/4d20871998a2/ac3c03156_0001.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e8ae/10809247/4d20871998a2/ac3c03156_0001.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10809247/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e8ae/10809247/4d20871998a2/ac3c03156_0001.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Figure 2.",
+      "caption": "Sparse Figure S2 PCA-LDA model based\non 18 identified metabolites listed in Table 1. This model is based on a sparse (or low\ncomplexity) PCA-LDA modeling using AMX6,19 that instead\nof using the entire m/z 100–1000\nrange worth of m/z features as done\nin Figure S2, only utilizes the fully characterized\nmetabolite array of Table 1. Here, the multivariate model is built only based on simultaneous\ndimensionality reduction across only 18 features whose molecular identities\nare determined and reported in Table 1. We show two views of the model (rotated around the\nLD3, blue axis). LD1 and LD2 axes are shown in red and green, respectively.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e8ae/10809247/18b973a77c4a/ac3c03156_0002.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e8ae/10809247/18b973a77c4a/ac3c03156_0002.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e8ae/10809247/18b973a77c4a/ac3c03156_0002.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e8ae/10809247/18b973a77c4a/ac3c03156_0002.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e8ae/10809247/18b973a77c4a/ac3c03156_0002.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10809247/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e8ae/10809247/18b973a77c4a/ac3c03156_0002.jpg"
+    },
+    "figure_3": {
+      "figure_number": "Figure 3",
+      "title": "Figure 3.",
+      "caption": "Protocol\nfor supervised two-step classification of major pediatric\nbrain cancers using PIRL-MS. Through combining findings of this manuscript\nwith our previous work,6 we propose a two-step\nsupervised protocol for 10 s classification of 7 types of pediatric\nbrain cancers. The method uses two 4-component PCA-LDA models deployed\nover the cited mass ranges to provide higher than 94% sensitivity\nand specificity for pediatric brain-cancer-type classifications. The\nfirst model utilizes well-characterized feature list of only 18 metabolites,\nand the second model that takes a deeper dive into molecular subgroups\nof medulloblastomas will use a considerably larger number of m/z features some of which currently remain\nuncharacterized.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e8ae/10809247/a53ee4dc8001/ac3c03156_0003.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e8ae/10809247/a53ee4dc8001/ac3c03156_0003.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e8ae/10809247/a53ee4dc8001/ac3c03156_0003.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e8ae/10809247/a53ee4dc8001/ac3c03156_0003.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig3",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e8ae/10809247/a53ee4dc8001/ac3c03156_0003.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10809247/images/figure_3.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e8ae/10809247/a53ee4dc8001/ac3c03156_0003.jpg"
+    }
+  },
+  "claims": [],
+  "extraction_stats": {
+    "figures_count": 3,
+    "claims_count": 0,
+    "images_downloaded": 3,
+    "tables_filtered": 33
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "figure_1": "Workflow for construction, training and testing of DeepSurvNet using H&E-stained histopathological images of brain tumours available at TCGA (https://portal.gdc.cancer.gov/projects). The accuracy of all the classifier models is dependent on the image preprocessing steps b to d on this",
+  "figure_2": "Simple CNN structure with fully connected layers",
+  "figure_3": "a Accuracy curves and b loss curves for five classifiers in training phase. Left, patches 256 × 256; middle, patches 512 × 512; and right, patches 1024 × 1024",
+  "figure_4": "Five classifiers output on patches 256 × 256, confusion matrix in the left side and the area under ROC in right side for a VGG19, b MobileNet V2, c ResNet50, d) Inception V3 and e GoogleNet",
+  "figure_6": "a Confusion matrix for total patches, b the area under ROC curve for all patches in four classes and c DeepSurvNet outputs summary for all patches",
+  "figure_7": "Brain cancer–mutated genes expression analysis in the four survival classes. a 20 most effective mutated genes in brain cancer, b number of patients related to each mutated genes in each class, c recognition of the most important gene in each class based on Z-score analysis and d differences in frequency of mutations of each class with respect the frequency of mutations in class IV"
+}

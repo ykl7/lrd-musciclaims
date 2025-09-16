@@ -1,0 +1,5017 @@
+[
+  {
+    "sentence": "To confidently identify somatic mutations in hematologic tumor cells, we used either saliva or nail clippings12 as a source of germline DNA, since genomic material from whole blood may contain high levels of contaminating tumor cells and would not be suitable as a comparator (Fig. 1a, see Methods for details).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "During the analytical validation, mutation detection demonstrated 100% sensitivity and 100% specificity for 278 known mutations in 113 samples across a range of allele frequencies (range: 0.02–0.97) (Supplementary Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Following approval from New York State Department of Health (NYS-DOH), between December 2016 and August 2019, we sequenced 2383 tumor samples, from 1937 patients, representing 85 different hematological malignancies (Fig. 1b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For the 67 (3%) samples, from 48 patients, that were sequenced following allogeneic stem cell transplantation, both host and donor DNA derived from non-neoplastic were sequenced as a comparator (Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Source data are provided as a Source Data file.We observed somatic tumor mutations in both saliva and nail at different levels based on disease modality (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While nail DNA was most often purely germline, contaminating tumor DNA was observed with a VAF > 2% in 117 of 1295 (9%) patients and was enriched in chronic myeloid neoplasms, such as a myeloproliferative neoplasms (MPN, PMF, ET, and PV, 43 out of 170 patients, 25.3%), MDS (25 out of 132 patients, 19%), CMML (5 of 21 patients, 24%), and AML (16 out of 170 patients, 9%) (Fig. 1f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "These alterations were still easily identified as somatic variants owing to the retention of high tumor:nail VAF ratios (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While only a negligible number of patients with myeloid malignancies (n = 6/1,026) were sequenced with a saliva normal comparator, these saliva controls contained high levels of contaminating tumor DNA, up to 38% VAF (Fig. 1e–g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This finding is consistent with other studies13, which suggest a limited role for saliva as a germline control in myeloid neoplasms. (Fig. 1e, g).Definitive identification of somatic variants\nTo highlight the importance of sequencing a matched germline comparator, we analyzed variant calls made in all targeted exonic regions of the MSK-IMPACT Heme panel resulting from ‘unmatched’ variant calling of these tumor samples against a pooled control sample composed of ten diploid blood samples (Supplementary Fig. 2, Supplementary Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Engraftment assessment by short tandem repeat analysis (STR) showed a chimeric status with 56% host component (Supplementary Fig. 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This approach allowed us to accurately distinguish all host and donor polymorphisms from somatic mutations in this chimeric patient where the range in VAF of host and donor-derived polymorphisms overlapped that of the true somatic mutations (range = 0.13–0.22) (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To deal with these challenges, we adapted the FACETS21 algorithm to use the intersection of heterozygous SNPs between baseline host and donor(s) samples to calculate variant allele log odds ratios with the post-transplant sample and determine regions of allelic imbalance genome wide (Supplementary Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "FLT3 ITD mutations, such as the 60 bp FLT3-ITD detected in this bone marrow (See Methods), are recurrent somatic alterations in AML and typically detected using PCR and capillary electrophoresis assays. (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using DNA derived from patient nails and donor blood as baseline sample comparators to the post-transplant bone marrow biopsy, we were able to detect CN-LOH of chromosome 13q (Fig. 2b), indicating loss of the wildtype (WT) FLT3 allele.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Abnormal T cells and plasma cells were therefore sorted by flow cytometry (Supplementary Fig. 5) and submitted for mutational analysis at the direction of the hematopathologist reviewing the case to compare the mutation profiles among these compartments.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Independent molecular profiling confirmed the two populations had distinct mutational profiles with the T cell population harboring IDH2, RHOA, DNMT3A, and TET2 mutations24,25, typical of AITL, while the plasma cells harbored BRCA2, BTG, EPHA5, KMT2D, and SETD5 mutations (Fig. 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, the two samples harbored unique copy number alteration profiles supporting the diagnosis of 2 separate neoplasms (Fig. 3b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The most commonly identified SNVs were in KMT2D (n = 291, 15%), TP53 (n = 288, 15%), TET2 (n = 254, 13%) and CREBBP (n = 216, 11%). (Fig. 4a) We observed broad, tumor purity corrected chromosome level alterations more commonly in lymphoid malignancies (69%, n = 932/1357) compared to myeloid neoplasms (37%, n = 377/1026; p < 0.001, Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "For myeloid neoplasms, trisomy 8 (n = 63, 6%), +21q (n = 27, 3%) and +1q (n = 18, 2%) were the most prevalent broad gains, while del 7q (n = 59, 6%), del 17p (n = 42, 4%), del 5q (n = 40, 4%), and del9p (n = 40, 4%) were the most common broad chromosomal losses (Fig. 4c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "TP53 harbored multiple mutations across lymphoid and myeloid malignancies (n = 82) (Fig. 4b).Mutational signatures\nThe application of DNA sequencing in conjunction with advances in mathematical models have aided the discovery and understanding of the mutational processes that underlie the acquired somatic variants of cancer genomes38–40.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "In the MSK-IMPACT Heme cohort, we calculated the tumor mutation burden (TMB, see Methods) for all samples (range 0–192.9, median 3.7 mut/Mb) (Fig. 5a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Source data are provided as a Source Data file.We identified tumors with mutational processes attributable to activation-induced cytidine deaminase (AID) activity, DNA polymerase eta, mismatch repair (MMR) deficiency, exposure to ultraviolet light (UV), chemotherapy treatment, apolipoprotein B editing complex (APOBEC), and clock-like mutational processes (Fig. 5b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "By classifying patient samples by the highest level of evidence assigned to detected variants in that sample, we found that 10.6% of patients profiled had at least one potential clinically actionable alteration, defined as carrying ≥1 alterations assigned an OncoKB level of evidence 1-3B55. and 71.5% had an oncogenic alteration (Fig. 6a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "After application of this algorithm, 32.3% (n = 33) of cases were classified with a risk category of Very High, 15.8% (n = 16) as High, 10.9% (n = 11) as Low, and 6.9% (n = 7) as Very Low. (Fig. 6b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We also demonstrate the ability of IMPACT-Heme to distinguish between subgroups of SF3B1 altered patients, with a single patient identified with mutated SF3B1 and isolated del5q versus 14 patients identified with SF3B1 alpha (lacking co-mutations in BCOR, BCORL1, NRAS, RUNX1, SRSF2, or STAG2) and associated with favorable outcomes57 (Fig. 6c).Discussion\nWe, herein, report the experience of a large institution-wide, prospective clinical sequencing effort to guide the diagnosis, prognosis, therapy selection and future monitoring of patients across the spectrum of hematologic malignancies.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "These samples comprised 11 tumor types from blood, bone marrow, and FFPE tissues (Supplementary Fig. 1A) and had been previously genotyped or sequenced in our clinical laboratory and were confirmed to be positive for mutations by multiple methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "All 278 variants, from 52 exons of 20 genes, were successfully detected with the IMPACT-Heme assay (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples positive for SNVs and indels were tested in triplicate in the same sequencing run and on different days in two additional sequencing pools (Supplementary Fig. 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The detection limit for low-frequency variants was approximately 2% (Supplementary Fig. 3D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To confidently identify somatic mutations in hematologic tumor cells, we used either saliva or nail clippings12 as a source of germline DNA, since genomic material from whole blood may contain high levels of contaminating tumor cells and would not be suitable as a comparator (Fig. 1a, see Methods for details).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "During the analytical validation, mutation detection demonstrated 100% sensitivity and 100% specificity for 278 known mutations in 113 samples across a range of allele frequencies (range: 0.02–0.97) (Supplementary Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Following approval from New York State Department of Health (NYS-DOH), between December 2016 and August 2019, we sequenced 2383 tumor samples, from 1937 patients, representing 85 different hematological malignancies (Fig. 1b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For the 67 (3%) samples, from 48 patients, that were sequenced following allogeneic stem cell transplantation, both host and donor DNA derived from non-neoplastic were sequenced as a comparator (Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Source data are provided as a Source Data file.We observed somatic tumor mutations in both saliva and nail at different levels based on disease modality (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While nail DNA was most often purely germline, contaminating tumor DNA was observed with a VAF > 2% in 117 of 1295 (9%) patients and was enriched in chronic myeloid neoplasms, such as a myeloproliferative neoplasms (MPN, PMF, ET, and PV, 43 out of 170 patients, 25.3%), MDS (25 out of 132 patients, 19%), CMML (5 of 21 patients, 24%), and AML (16 out of 170 patients, 9%) (Fig. 1f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "These alterations were still easily identified as somatic variants owing to the retention of high tumor:nail VAF ratios (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While only a negligible number of patients with myeloid malignancies (n = 6/1,026) were sequenced with a saliva normal comparator, these saliva controls contained high levels of contaminating tumor DNA, up to 38% VAF (Fig. 1e–g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This finding is consistent with other studies13, which suggest a limited role for saliva as a germline control in myeloid neoplasms. (Fig. 1e, g).Definitive identification of somatic variants\nTo highlight the importance of sequencing a matched germline comparator, we analyzed variant calls made in all targeted exonic regions of the MSK-IMPACT Heme panel resulting from ‘unmatched’ variant calling of these tumor samples against a pooled control sample composed of ten diploid blood samples (Supplementary Fig. 2, Supplementary Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Engraftment assessment by short tandem repeat analysis (STR) showed a chimeric status with 56% host component (Supplementary Fig. 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This approach allowed us to accurately distinguish all host and donor polymorphisms from somatic mutations in this chimeric patient where the range in VAF of host and donor-derived polymorphisms overlapped that of the true somatic mutations (range = 0.13–0.22) (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To deal with these challenges, we adapted the FACETS21 algorithm to use the intersection of heterozygous SNPs between baseline host and donor(s) samples to calculate variant allele log odds ratios with the post-transplant sample and determine regions of allelic imbalance genome wide (Supplementary Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "FLT3 ITD mutations, such as the 60 bp FLT3-ITD detected in this bone marrow (See Methods), are recurrent somatic alterations in AML and typically detected using PCR and capillary electrophoresis assays. (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using DNA derived from patient nails and donor blood as baseline sample comparators to the post-transplant bone marrow biopsy, we were able to detect CN-LOH of chromosome 13q (Fig. 2b), indicating loss of the wildtype (WT) FLT3 allele.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Abnormal T cells and plasma cells were therefore sorted by flow cytometry (Supplementary Fig. 5) and submitted for mutational analysis at the direction of the hematopathologist reviewing the case to compare the mutation profiles among these compartments.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Independent molecular profiling confirmed the two populations had distinct mutational profiles with the T cell population harboring IDH2, RHOA, DNMT3A, and TET2 mutations24,25, typical of AITL, while the plasma cells harbored BRCA2, BTG, EPHA5, KMT2D, and SETD5 mutations (Fig. 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, the two samples harbored unique copy number alteration profiles supporting the diagnosis of 2 separate neoplasms (Fig. 3b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The most commonly identified SNVs were in KMT2D (n = 291, 15%), TP53 (n = 288, 15%), TET2 (n = 254, 13%) and CREBBP (n = 216, 11%). (Fig. 4a) We observed broad, tumor purity corrected chromosome level alterations more commonly in lymphoid malignancies (69%, n = 932/1357) compared to myeloid neoplasms (37%, n = 377/1026; p < 0.001, Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "For myeloid neoplasms, trisomy 8 (n = 63, 6%), +21q (n = 27, 3%) and +1q (n = 18, 2%) were the most prevalent broad gains, while del 7q (n = 59, 6%), del 17p (n = 42, 4%), del 5q (n = 40, 4%), and del9p (n = 40, 4%) were the most common broad chromosomal losses (Fig. 4c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "TP53 harbored multiple mutations across lymphoid and myeloid malignancies (n = 82) (Fig. 4b).Mutational signatures\nThe application of DNA sequencing in conjunction with advances in mathematical models have aided the discovery and understanding of the mutational processes that underlie the acquired somatic variants of cancer genomes38–40.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "In the MSK-IMPACT Heme cohort, we calculated the tumor mutation burden (TMB, see Methods) for all samples (range 0–192.9, median 3.7 mut/Mb) (Fig. 5a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Source data are provided as a Source Data file.We identified tumors with mutational processes attributable to activation-induced cytidine deaminase (AID) activity, DNA polymerase eta, mismatch repair (MMR) deficiency, exposure to ultraviolet light (UV), chemotherapy treatment, apolipoprotein B editing complex (APOBEC), and clock-like mutational processes (Fig. 5b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "By classifying patient samples by the highest level of evidence assigned to detected variants in that sample, we found that 10.6% of patients profiled had at least one potential clinically actionable alteration, defined as carrying ≥1 alterations assigned an OncoKB level of evidence 1-3B55. and 71.5% had an oncogenic alteration (Fig. 6a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "After application of this algorithm, 32.3% (n = 33) of cases were classified with a risk category of Very High, 15.8% (n = 16) as High, 10.9% (n = 11) as Low, and 6.9% (n = 7) as Very Low. (Fig. 6b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We also demonstrate the ability of IMPACT-Heme to distinguish between subgroups of SF3B1 altered patients, with a single patient identified with mutated SF3B1 and isolated del5q versus 14 patients identified with SF3B1 alpha (lacking co-mutations in BCOR, BCORL1, NRAS, RUNX1, SRSF2, or STAG2) and associated with favorable outcomes57 (Fig. 6c).Discussion\nWe, herein, report the experience of a large institution-wide, prospective clinical sequencing effort to guide the diagnosis, prognosis, therapy selection and future monitoring of patients across the spectrum of hematologic malignancies.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "These samples comprised 11 tumor types from blood, bone marrow, and FFPE tissues (Supplementary Fig. 1A) and had been previously genotyped or sequenced in our clinical laboratory and were confirmed to be positive for mutations by multiple methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "All 278 variants, from 52 exons of 20 genes, were successfully detected with the IMPACT-Heme assay (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples positive for SNVs and indels were tested in triplicate in the same sequencing run and on different days in two additional sequencing pools (Supplementary Fig. 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The detection limit for low-frequency variants was approximately 2% (Supplementary Fig. 3D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To confidently identify somatic mutations in hematologic tumor cells, we used either saliva or nail clippings12 as a source of germline DNA, since genomic material from whole blood may contain high levels of contaminating tumor cells and would not be suitable as a comparator (Fig. 1a, see Methods for details).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "During the analytical validation, mutation detection demonstrated 100% sensitivity and 100% specificity for 278 known mutations in 113 samples across a range of allele frequencies (range: 0.02–0.97) (Supplementary Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Following approval from New York State Department of Health (NYS-DOH), between December 2016 and August 2019, we sequenced 2383 tumor samples, from 1937 patients, representing 85 different hematological malignancies (Fig. 1b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For the 67 (3%) samples, from 48 patients, that were sequenced following allogeneic stem cell transplantation, both host and donor DNA derived from non-neoplastic were sequenced as a comparator (Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Source data are provided as a Source Data file.We observed somatic tumor mutations in both saliva and nail at different levels based on disease modality (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While nail DNA was most often purely germline, contaminating tumor DNA was observed with a VAF > 2% in 117 of 1295 (9%) patients and was enriched in chronic myeloid neoplasms, such as a myeloproliferative neoplasms (MPN, PMF, ET, and PV, 43 out of 170 patients, 25.3%), MDS (25 out of 132 patients, 19%), CMML (5 of 21 patients, 24%), and AML (16 out of 170 patients, 9%) (Fig. 1f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "These alterations were still easily identified as somatic variants owing to the retention of high tumor:nail VAF ratios (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While only a negligible number of patients with myeloid malignancies (n = 6/1,026) were sequenced with a saliva normal comparator, these saliva controls contained high levels of contaminating tumor DNA, up to 38% VAF (Fig. 1e–g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This finding is consistent with other studies13, which suggest a limited role for saliva as a germline control in myeloid neoplasms. (Fig. 1e, g).Definitive identification of somatic variants\nTo highlight the importance of sequencing a matched germline comparator, we analyzed variant calls made in all targeted exonic regions of the MSK-IMPACT Heme panel resulting from ‘unmatched’ variant calling of these tumor samples against a pooled control sample composed of ten diploid blood samples (Supplementary Fig. 2, Supplementary Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Engraftment assessment by short tandem repeat analysis (STR) showed a chimeric status with 56% host component (Supplementary Fig. 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This approach allowed us to accurately distinguish all host and donor polymorphisms from somatic mutations in this chimeric patient where the range in VAF of host and donor-derived polymorphisms overlapped that of the true somatic mutations (range = 0.13–0.22) (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To deal with these challenges, we adapted the FACETS21 algorithm to use the intersection of heterozygous SNPs between baseline host and donor(s) samples to calculate variant allele log odds ratios with the post-transplant sample and determine regions of allelic imbalance genome wide (Supplementary Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "FLT3 ITD mutations, such as the 60 bp FLT3-ITD detected in this bone marrow (See Methods), are recurrent somatic alterations in AML and typically detected using PCR and capillary electrophoresis assays. (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using DNA derived from patient nails and donor blood as baseline sample comparators to the post-transplant bone marrow biopsy, we were able to detect CN-LOH of chromosome 13q (Fig. 2b), indicating loss of the wildtype (WT) FLT3 allele.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Abnormal T cells and plasma cells were therefore sorted by flow cytometry (Supplementary Fig. 5) and submitted for mutational analysis at the direction of the hematopathologist reviewing the case to compare the mutation profiles among these compartments.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Independent molecular profiling confirmed the two populations had distinct mutational profiles with the T cell population harboring IDH2, RHOA, DNMT3A, and TET2 mutations24,25, typical of AITL, while the plasma cells harbored BRCA2, BTG, EPHA5, KMT2D, and SETD5 mutations (Fig. 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, the two samples harbored unique copy number alteration profiles supporting the diagnosis of 2 separate neoplasms (Fig. 3b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The most commonly identified SNVs were in KMT2D (n = 291, 15%), TP53 (n = 288, 15%), TET2 (n = 254, 13%) and CREBBP (n = 216, 11%). (Fig. 4a) We observed broad, tumor purity corrected chromosome level alterations more commonly in lymphoid malignancies (69%, n = 932/1357) compared to myeloid neoplasms (37%, n = 377/1026; p < 0.001, Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "For myeloid neoplasms, trisomy 8 (n = 63, 6%), +21q (n = 27, 3%) and +1q (n = 18, 2%) were the most prevalent broad gains, while del 7q (n = 59, 6%), del 17p (n = 42, 4%), del 5q (n = 40, 4%), and del9p (n = 40, 4%) were the most common broad chromosomal losses (Fig. 4c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "TP53 harbored multiple mutations across lymphoid and myeloid malignancies (n = 82) (Fig. 4b).Mutational signatures\nThe application of DNA sequencing in conjunction with advances in mathematical models have aided the discovery and understanding of the mutational processes that underlie the acquired somatic variants of cancer genomes38–40.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "In the MSK-IMPACT Heme cohort, we calculated the tumor mutation burden (TMB, see Methods) for all samples (range 0–192.9, median 3.7 mut/Mb) (Fig. 5a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Source data are provided as a Source Data file.We identified tumors with mutational processes attributable to activation-induced cytidine deaminase (AID) activity, DNA polymerase eta, mismatch repair (MMR) deficiency, exposure to ultraviolet light (UV), chemotherapy treatment, apolipoprotein B editing complex (APOBEC), and clock-like mutational processes (Fig. 5b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "By classifying patient samples by the highest level of evidence assigned to detected variants in that sample, we found that 10.6% of patients profiled had at least one potential clinically actionable alteration, defined as carrying ≥1 alterations assigned an OncoKB level of evidence 1-3B55. and 71.5% had an oncogenic alteration (Fig. 6a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "After application of this algorithm, 32.3% (n = 33) of cases were classified with a risk category of Very High, 15.8% (n = 16) as High, 10.9% (n = 11) as Low, and 6.9% (n = 7) as Very Low. (Fig. 6b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We also demonstrate the ability of IMPACT-Heme to distinguish between subgroups of SF3B1 altered patients, with a single patient identified with mutated SF3B1 and isolated del5q versus 14 patients identified with SF3B1 alpha (lacking co-mutations in BCOR, BCORL1, NRAS, RUNX1, SRSF2, or STAG2) and associated with favorable outcomes57 (Fig. 6c).Discussion\nWe, herein, report the experience of a large institution-wide, prospective clinical sequencing effort to guide the diagnosis, prognosis, therapy selection and future monitoring of patients across the spectrum of hematologic malignancies.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "These samples comprised 11 tumor types from blood, bone marrow, and FFPE tissues (Supplementary Fig. 1A) and had been previously genotyped or sequenced in our clinical laboratory and were confirmed to be positive for mutations by multiple methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "All 278 variants, from 52 exons of 20 genes, were successfully detected with the IMPACT-Heme assay (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples positive for SNVs and indels were tested in triplicate in the same sequencing run and on different days in two additional sequencing pools (Supplementary Fig. 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The detection limit for low-frequency variants was approximately 2% (Supplementary Fig. 3D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To confidently identify somatic mutations in hematologic tumor cells, we used either saliva or nail clippings12 as a source of germline DNA, since genomic material from whole blood may contain high levels of contaminating tumor cells and would not be suitable as a comparator (Fig. 1a, see Methods for details).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "During the analytical validation, mutation detection demonstrated 100% sensitivity and 100% specificity for 278 known mutations in 113 samples across a range of allele frequencies (range: 0.02–0.97) (Supplementary Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Following approval from New York State Department of Health (NYS-DOH), between December 2016 and August 2019, we sequenced 2383 tumor samples, from 1937 patients, representing 85 different hematological malignancies (Fig. 1b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For the 67 (3%) samples, from 48 patients, that were sequenced following allogeneic stem cell transplantation, both host and donor DNA derived from non-neoplastic were sequenced as a comparator (Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Source data are provided as a Source Data file.We observed somatic tumor mutations in both saliva and nail at different levels based on disease modality (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While nail DNA was most often purely germline, contaminating tumor DNA was observed with a VAF > 2% in 117 of 1295 (9%) patients and was enriched in chronic myeloid neoplasms, such as a myeloproliferative neoplasms (MPN, PMF, ET, and PV, 43 out of 170 patients, 25.3%), MDS (25 out of 132 patients, 19%), CMML (5 of 21 patients, 24%), and AML (16 out of 170 patients, 9%) (Fig. 1f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "These alterations were still easily identified as somatic variants owing to the retention of high tumor:nail VAF ratios (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While only a negligible number of patients with myeloid malignancies (n = 6/1,026) were sequenced with a saliva normal comparator, these saliva controls contained high levels of contaminating tumor DNA, up to 38% VAF (Fig. 1e–g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This finding is consistent with other studies13, which suggest a limited role for saliva as a germline control in myeloid neoplasms. (Fig. 1e, g).Definitive identification of somatic variants\nTo highlight the importance of sequencing a matched germline comparator, we analyzed variant calls made in all targeted exonic regions of the MSK-IMPACT Heme panel resulting from ‘unmatched’ variant calling of these tumor samples against a pooled control sample composed of ten diploid blood samples (Supplementary Fig. 2, Supplementary Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Engraftment assessment by short tandem repeat analysis (STR) showed a chimeric status with 56% host component (Supplementary Fig. 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This approach allowed us to accurately distinguish all host and donor polymorphisms from somatic mutations in this chimeric patient where the range in VAF of host and donor-derived polymorphisms overlapped that of the true somatic mutations (range = 0.13–0.22) (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To deal with these challenges, we adapted the FACETS21 algorithm to use the intersection of heterozygous SNPs between baseline host and donor(s) samples to calculate variant allele log odds ratios with the post-transplant sample and determine regions of allelic imbalance genome wide (Supplementary Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "FLT3 ITD mutations, such as the 60 bp FLT3-ITD detected in this bone marrow (See Methods), are recurrent somatic alterations in AML and typically detected using PCR and capillary electrophoresis assays. (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using DNA derived from patient nails and donor blood as baseline sample comparators to the post-transplant bone marrow biopsy, we were able to detect CN-LOH of chromosome 13q (Fig. 2b), indicating loss of the wildtype (WT) FLT3 allele.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Abnormal T cells and plasma cells were therefore sorted by flow cytometry (Supplementary Fig. 5) and submitted for mutational analysis at the direction of the hematopathologist reviewing the case to compare the mutation profiles among these compartments.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Independent molecular profiling confirmed the two populations had distinct mutational profiles with the T cell population harboring IDH2, RHOA, DNMT3A, and TET2 mutations24,25, typical of AITL, while the plasma cells harbored BRCA2, BTG, EPHA5, KMT2D, and SETD5 mutations (Fig. 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, the two samples harbored unique copy number alteration profiles supporting the diagnosis of 2 separate neoplasms (Fig. 3b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The most commonly identified SNVs were in KMT2D (n = 291, 15%), TP53 (n = 288, 15%), TET2 (n = 254, 13%) and CREBBP (n = 216, 11%). (Fig. 4a) We observed broad, tumor purity corrected chromosome level alterations more commonly in lymphoid malignancies (69%, n = 932/1357) compared to myeloid neoplasms (37%, n = 377/1026; p < 0.001, Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "For myeloid neoplasms, trisomy 8 (n = 63, 6%), +21q (n = 27, 3%) and +1q (n = 18, 2%) were the most prevalent broad gains, while del 7q (n = 59, 6%), del 17p (n = 42, 4%), del 5q (n = 40, 4%), and del9p (n = 40, 4%) were the most common broad chromosomal losses (Fig. 4c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "TP53 harbored multiple mutations across lymphoid and myeloid malignancies (n = 82) (Fig. 4b).Mutational signatures\nThe application of DNA sequencing in conjunction with advances in mathematical models have aided the discovery and understanding of the mutational processes that underlie the acquired somatic variants of cancer genomes38–40.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "In the MSK-IMPACT Heme cohort, we calculated the tumor mutation burden (TMB, see Methods) for all samples (range 0–192.9, median 3.7 mut/Mb) (Fig. 5a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Source data are provided as a Source Data file.We identified tumors with mutational processes attributable to activation-induced cytidine deaminase (AID) activity, DNA polymerase eta, mismatch repair (MMR) deficiency, exposure to ultraviolet light (UV), chemotherapy treatment, apolipoprotein B editing complex (APOBEC), and clock-like mutational processes (Fig. 5b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "By classifying patient samples by the highest level of evidence assigned to detected variants in that sample, we found that 10.6% of patients profiled had at least one potential clinically actionable alteration, defined as carrying ≥1 alterations assigned an OncoKB level of evidence 1-3B55. and 71.5% had an oncogenic alteration (Fig. 6a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "After application of this algorithm, 32.3% (n = 33) of cases were classified with a risk category of Very High, 15.8% (n = 16) as High, 10.9% (n = 11) as Low, and 6.9% (n = 7) as Very Low. (Fig. 6b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We also demonstrate the ability of IMPACT-Heme to distinguish between subgroups of SF3B1 altered patients, with a single patient identified with mutated SF3B1 and isolated del5q versus 14 patients identified with SF3B1 alpha (lacking co-mutations in BCOR, BCORL1, NRAS, RUNX1, SRSF2, or STAG2) and associated with favorable outcomes57 (Fig. 6c).Discussion\nWe, herein, report the experience of a large institution-wide, prospective clinical sequencing effort to guide the diagnosis, prognosis, therapy selection and future monitoring of patients across the spectrum of hematologic malignancies.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "These samples comprised 11 tumor types from blood, bone marrow, and FFPE tissues (Supplementary Fig. 1A) and had been previously genotyped or sequenced in our clinical laboratory and were confirmed to be positive for mutations by multiple methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "All 278 variants, from 52 exons of 20 genes, were successfully detected with the IMPACT-Heme assay (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples positive for SNVs and indels were tested in triplicate in the same sequencing run and on different days in two additional sequencing pools (Supplementary Fig. 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The detection limit for low-frequency variants was approximately 2% (Supplementary Fig. 3D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To confidently identify somatic mutations in hematologic tumor cells, we used either saliva or nail clippings12 as a source of germline DNA, since genomic material from whole blood may contain high levels of contaminating tumor cells and would not be suitable as a comparator (Fig. 1a, see Methods for details).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "During the analytical validation, mutation detection demonstrated 100% sensitivity and 100% specificity for 278 known mutations in 113 samples across a range of allele frequencies (range: 0.02–0.97) (Supplementary Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Following approval from New York State Department of Health (NYS-DOH), between December 2016 and August 2019, we sequenced 2383 tumor samples, from 1937 patients, representing 85 different hematological malignancies (Fig. 1b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For the 67 (3%) samples, from 48 patients, that were sequenced following allogeneic stem cell transplantation, both host and donor DNA derived from non-neoplastic were sequenced as a comparator (Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Source data are provided as a Source Data file.We observed somatic tumor mutations in both saliva and nail at different levels based on disease modality (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While nail DNA was most often purely germline, contaminating tumor DNA was observed with a VAF > 2% in 117 of 1295 (9%) patients and was enriched in chronic myeloid neoplasms, such as a myeloproliferative neoplasms (MPN, PMF, ET, and PV, 43 out of 170 patients, 25.3%), MDS (25 out of 132 patients, 19%), CMML (5 of 21 patients, 24%), and AML (16 out of 170 patients, 9%) (Fig. 1f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "These alterations were still easily identified as somatic variants owing to the retention of high tumor:nail VAF ratios (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While only a negligible number of patients with myeloid malignancies (n = 6/1,026) were sequenced with a saliva normal comparator, these saliva controls contained high levels of contaminating tumor DNA, up to 38% VAF (Fig. 1e–g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This finding is consistent with other studies13, which suggest a limited role for saliva as a germline control in myeloid neoplasms. (Fig. 1e, g).Definitive identification of somatic variants\nTo highlight the importance of sequencing a matched germline comparator, we analyzed variant calls made in all targeted exonic regions of the MSK-IMPACT Heme panel resulting from ‘unmatched’ variant calling of these tumor samples against a pooled control sample composed of ten diploid blood samples (Supplementary Fig. 2, Supplementary Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Engraftment assessment by short tandem repeat analysis (STR) showed a chimeric status with 56% host component (Supplementary Fig. 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This approach allowed us to accurately distinguish all host and donor polymorphisms from somatic mutations in this chimeric patient where the range in VAF of host and donor-derived polymorphisms overlapped that of the true somatic mutations (range = 0.13–0.22) (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To deal with these challenges, we adapted the FACETS21 algorithm to use the intersection of heterozygous SNPs between baseline host and donor(s) samples to calculate variant allele log odds ratios with the post-transplant sample and determine regions of allelic imbalance genome wide (Supplementary Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "FLT3 ITD mutations, such as the 60 bp FLT3-ITD detected in this bone marrow (See Methods), are recurrent somatic alterations in AML and typically detected using PCR and capillary electrophoresis assays. (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using DNA derived from patient nails and donor blood as baseline sample comparators to the post-transplant bone marrow biopsy, we were able to detect CN-LOH of chromosome 13q (Fig. 2b), indicating loss of the wildtype (WT) FLT3 allele.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Abnormal T cells and plasma cells were therefore sorted by flow cytometry (Supplementary Fig. 5) and submitted for mutational analysis at the direction of the hematopathologist reviewing the case to compare the mutation profiles among these compartments.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Independent molecular profiling confirmed the two populations had distinct mutational profiles with the T cell population harboring IDH2, RHOA, DNMT3A, and TET2 mutations24,25, typical of AITL, while the plasma cells harbored BRCA2, BTG, EPHA5, KMT2D, and SETD5 mutations (Fig. 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, the two samples harbored unique copy number alteration profiles supporting the diagnosis of 2 separate neoplasms (Fig. 3b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The most commonly identified SNVs were in KMT2D (n = 291, 15%), TP53 (n = 288, 15%), TET2 (n = 254, 13%) and CREBBP (n = 216, 11%). (Fig. 4a) We observed broad, tumor purity corrected chromosome level alterations more commonly in lymphoid malignancies (69%, n = 932/1357) compared to myeloid neoplasms (37%, n = 377/1026; p < 0.001, Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "For myeloid neoplasms, trisomy 8 (n = 63, 6%), +21q (n = 27, 3%) and +1q (n = 18, 2%) were the most prevalent broad gains, while del 7q (n = 59, 6%), del 17p (n = 42, 4%), del 5q (n = 40, 4%), and del9p (n = 40, 4%) were the most common broad chromosomal losses (Fig. 4c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "TP53 harbored multiple mutations across lymphoid and myeloid malignancies (n = 82) (Fig. 4b).Mutational signatures\nThe application of DNA sequencing in conjunction with advances in mathematical models have aided the discovery and understanding of the mutational processes that underlie the acquired somatic variants of cancer genomes38–40.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "In the MSK-IMPACT Heme cohort, we calculated the tumor mutation burden (TMB, see Methods) for all samples (range 0–192.9, median 3.7 mut/Mb) (Fig. 5a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Source data are provided as a Source Data file.We identified tumors with mutational processes attributable to activation-induced cytidine deaminase (AID) activity, DNA polymerase eta, mismatch repair (MMR) deficiency, exposure to ultraviolet light (UV), chemotherapy treatment, apolipoprotein B editing complex (APOBEC), and clock-like mutational processes (Fig. 5b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "By classifying patient samples by the highest level of evidence assigned to detected variants in that sample, we found that 10.6% of patients profiled had at least one potential clinically actionable alteration, defined as carrying ≥1 alterations assigned an OncoKB level of evidence 1-3B55. and 71.5% had an oncogenic alteration (Fig. 6a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "After application of this algorithm, 32.3% (n = 33) of cases were classified with a risk category of Very High, 15.8% (n = 16) as High, 10.9% (n = 11) as Low, and 6.9% (n = 7) as Very Low. (Fig. 6b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We also demonstrate the ability of IMPACT-Heme to distinguish between subgroups of SF3B1 altered patients, with a single patient identified with mutated SF3B1 and isolated del5q versus 14 patients identified with SF3B1 alpha (lacking co-mutations in BCOR, BCORL1, NRAS, RUNX1, SRSF2, or STAG2) and associated with favorable outcomes57 (Fig. 6c).Discussion\nWe, herein, report the experience of a large institution-wide, prospective clinical sequencing effort to guide the diagnosis, prognosis, therapy selection and future monitoring of patients across the spectrum of hematologic malignancies.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "These samples comprised 11 tumor types from blood, bone marrow, and FFPE tissues (Supplementary Fig. 1A) and had been previously genotyped or sequenced in our clinical laboratory and were confirmed to be positive for mutations by multiple methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "All 278 variants, from 52 exons of 20 genes, were successfully detected with the IMPACT-Heme assay (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples positive for SNVs and indels were tested in triplicate in the same sequencing run and on different days in two additional sequencing pools (Supplementary Fig. 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The detection limit for low-frequency variants was approximately 2% (Supplementary Fig. 3D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To confidently identify somatic mutations in hematologic tumor cells, we used either saliva or nail clippings12 as a source of germline DNA, since genomic material from whole blood may contain high levels of contaminating tumor cells and would not be suitable as a comparator (Fig. 1a, see Methods for details).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "During the analytical validation, mutation detection demonstrated 100% sensitivity and 100% specificity for 278 known mutations in 113 samples across a range of allele frequencies (range: 0.02–0.97) (Supplementary Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Following approval from New York State Department of Health (NYS-DOH), between December 2016 and August 2019, we sequenced 2383 tumor samples, from 1937 patients, representing 85 different hematological malignancies (Fig. 1b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For the 67 (3%) samples, from 48 patients, that were sequenced following allogeneic stem cell transplantation, both host and donor DNA derived from non-neoplastic were sequenced as a comparator (Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Source data are provided as a Source Data file.We observed somatic tumor mutations in both saliva and nail at different levels based on disease modality (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While nail DNA was most often purely germline, contaminating tumor DNA was observed with a VAF > 2% in 117 of 1295 (9%) patients and was enriched in chronic myeloid neoplasms, such as a myeloproliferative neoplasms (MPN, PMF, ET, and PV, 43 out of 170 patients, 25.3%), MDS (25 out of 132 patients, 19%), CMML (5 of 21 patients, 24%), and AML (16 out of 170 patients, 9%) (Fig. 1f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "These alterations were still easily identified as somatic variants owing to the retention of high tumor:nail VAF ratios (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While only a negligible number of patients with myeloid malignancies (n = 6/1,026) were sequenced with a saliva normal comparator, these saliva controls contained high levels of contaminating tumor DNA, up to 38% VAF (Fig. 1e–g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This finding is consistent with other studies13, which suggest a limited role for saliva as a germline control in myeloid neoplasms. (Fig. 1e, g).Definitive identification of somatic variants\nTo highlight the importance of sequencing a matched germline comparator, we analyzed variant calls made in all targeted exonic regions of the MSK-IMPACT Heme panel resulting from ‘unmatched’ variant calling of these tumor samples against a pooled control sample composed of ten diploid blood samples (Supplementary Fig. 2, Supplementary Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Engraftment assessment by short tandem repeat analysis (STR) showed a chimeric status with 56% host component (Supplementary Fig. 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This approach allowed us to accurately distinguish all host and donor polymorphisms from somatic mutations in this chimeric patient where the range in VAF of host and donor-derived polymorphisms overlapped that of the true somatic mutations (range = 0.13–0.22) (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To deal with these challenges, we adapted the FACETS21 algorithm to use the intersection of heterozygous SNPs between baseline host and donor(s) samples to calculate variant allele log odds ratios with the post-transplant sample and determine regions of allelic imbalance genome wide (Supplementary Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "FLT3 ITD mutations, such as the 60 bp FLT3-ITD detected in this bone marrow (See Methods), are recurrent somatic alterations in AML and typically detected using PCR and capillary electrophoresis assays. (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using DNA derived from patient nails and donor blood as baseline sample comparators to the post-transplant bone marrow biopsy, we were able to detect CN-LOH of chromosome 13q (Fig. 2b), indicating loss of the wildtype (WT) FLT3 allele.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Abnormal T cells and plasma cells were therefore sorted by flow cytometry (Supplementary Fig. 5) and submitted for mutational analysis at the direction of the hematopathologist reviewing the case to compare the mutation profiles among these compartments.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Independent molecular profiling confirmed the two populations had distinct mutational profiles with the T cell population harboring IDH2, RHOA, DNMT3A, and TET2 mutations24,25, typical of AITL, while the plasma cells harbored BRCA2, BTG, EPHA5, KMT2D, and SETD5 mutations (Fig. 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, the two samples harbored unique copy number alteration profiles supporting the diagnosis of 2 separate neoplasms (Fig. 3b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The most commonly identified SNVs were in KMT2D (n = 291, 15%), TP53 (n = 288, 15%), TET2 (n = 254, 13%) and CREBBP (n = 216, 11%). (Fig. 4a) We observed broad, tumor purity corrected chromosome level alterations more commonly in lymphoid malignancies (69%, n = 932/1357) compared to myeloid neoplasms (37%, n = 377/1026; p < 0.001, Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "For myeloid neoplasms, trisomy 8 (n = 63, 6%), +21q (n = 27, 3%) and +1q (n = 18, 2%) were the most prevalent broad gains, while del 7q (n = 59, 6%), del 17p (n = 42, 4%), del 5q (n = 40, 4%), and del9p (n = 40, 4%) were the most common broad chromosomal losses (Fig. 4c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "TP53 harbored multiple mutations across lymphoid and myeloid malignancies (n = 82) (Fig. 4b).Mutational signatures\nThe application of DNA sequencing in conjunction with advances in mathematical models have aided the discovery and understanding of the mutational processes that underlie the acquired somatic variants of cancer genomes38–40.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "In the MSK-IMPACT Heme cohort, we calculated the tumor mutation burden (TMB, see Methods) for all samples (range 0–192.9, median 3.7 mut/Mb) (Fig. 5a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Source data are provided as a Source Data file.We identified tumors with mutational processes attributable to activation-induced cytidine deaminase (AID) activity, DNA polymerase eta, mismatch repair (MMR) deficiency, exposure to ultraviolet light (UV), chemotherapy treatment, apolipoprotein B editing complex (APOBEC), and clock-like mutational processes (Fig. 5b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "By classifying patient samples by the highest level of evidence assigned to detected variants in that sample, we found that 10.6% of patients profiled had at least one potential clinically actionable alteration, defined as carrying ≥1 alterations assigned an OncoKB level of evidence 1-3B55. and 71.5% had an oncogenic alteration (Fig. 6a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "After application of this algorithm, 32.3% (n = 33) of cases were classified with a risk category of Very High, 15.8% (n = 16) as High, 10.9% (n = 11) as Low, and 6.9% (n = 7) as Very Low. (Fig. 6b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We also demonstrate the ability of IMPACT-Heme to distinguish between subgroups of SF3B1 altered patients, with a single patient identified with mutated SF3B1 and isolated del5q versus 14 patients identified with SF3B1 alpha (lacking co-mutations in BCOR, BCORL1, NRAS, RUNX1, SRSF2, or STAG2) and associated with favorable outcomes57 (Fig. 6c).Discussion\nWe, herein, report the experience of a large institution-wide, prospective clinical sequencing effort to guide the diagnosis, prognosis, therapy selection and future monitoring of patients across the spectrum of hematologic malignancies.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "These samples comprised 11 tumor types from blood, bone marrow, and FFPE tissues (Supplementary Fig. 1A) and had been previously genotyped or sequenced in our clinical laboratory and were confirmed to be positive for mutations by multiple methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "All 278 variants, from 52 exons of 20 genes, were successfully detected with the IMPACT-Heme assay (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples positive for SNVs and indels were tested in triplicate in the same sequencing run and on different days in two additional sequencing pools (Supplementary Fig. 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The detection limit for low-frequency variants was approximately 2% (Supplementary Fig. 3D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To confidently identify somatic mutations in hematologic tumor cells, we used either saliva or nail clippings12 as a source of germline DNA, since genomic material from whole blood may contain high levels of contaminating tumor cells and would not be suitable as a comparator (Fig. 1a, see Methods for details).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "During the analytical validation, mutation detection demonstrated 100% sensitivity and 100% specificity for 278 known mutations in 113 samples across a range of allele frequencies (range: 0.02–0.97) (Supplementary Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Following approval from New York State Department of Health (NYS-DOH), between December 2016 and August 2019, we sequenced 2383 tumor samples, from 1937 patients, representing 85 different hematological malignancies (Fig. 1b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For the 67 (3%) samples, from 48 patients, that were sequenced following allogeneic stem cell transplantation, both host and donor DNA derived from non-neoplastic were sequenced as a comparator (Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Source data are provided as a Source Data file.We observed somatic tumor mutations in both saliva and nail at different levels based on disease modality (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While nail DNA was most often purely germline, contaminating tumor DNA was observed with a VAF > 2% in 117 of 1295 (9%) patients and was enriched in chronic myeloid neoplasms, such as a myeloproliferative neoplasms (MPN, PMF, ET, and PV, 43 out of 170 patients, 25.3%), MDS (25 out of 132 patients, 19%), CMML (5 of 21 patients, 24%), and AML (16 out of 170 patients, 9%) (Fig. 1f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "These alterations were still easily identified as somatic variants owing to the retention of high tumor:nail VAF ratios (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While only a negligible number of patients with myeloid malignancies (n = 6/1,026) were sequenced with a saliva normal comparator, these saliva controls contained high levels of contaminating tumor DNA, up to 38% VAF (Fig. 1e–g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This finding is consistent with other studies13, which suggest a limited role for saliva as a germline control in myeloid neoplasms. (Fig. 1e, g).Definitive identification of somatic variants\nTo highlight the importance of sequencing a matched germline comparator, we analyzed variant calls made in all targeted exonic regions of the MSK-IMPACT Heme panel resulting from ‘unmatched’ variant calling of these tumor samples against a pooled control sample composed of ten diploid blood samples (Supplementary Fig. 2, Supplementary Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Engraftment assessment by short tandem repeat analysis (STR) showed a chimeric status with 56% host component (Supplementary Fig. 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This approach allowed us to accurately distinguish all host and donor polymorphisms from somatic mutations in this chimeric patient where the range in VAF of host and donor-derived polymorphisms overlapped that of the true somatic mutations (range = 0.13–0.22) (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To deal with these challenges, we adapted the FACETS21 algorithm to use the intersection of heterozygous SNPs between baseline host and donor(s) samples to calculate variant allele log odds ratios with the post-transplant sample and determine regions of allelic imbalance genome wide (Supplementary Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "FLT3 ITD mutations, such as the 60 bp FLT3-ITD detected in this bone marrow (See Methods), are recurrent somatic alterations in AML and typically detected using PCR and capillary electrophoresis assays. (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using DNA derived from patient nails and donor blood as baseline sample comparators to the post-transplant bone marrow biopsy, we were able to detect CN-LOH of chromosome 13q (Fig. 2b), indicating loss of the wildtype (WT) FLT3 allele.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Abnormal T cells and plasma cells were therefore sorted by flow cytometry (Supplementary Fig. 5) and submitted for mutational analysis at the direction of the hematopathologist reviewing the case to compare the mutation profiles among these compartments.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Independent molecular profiling confirmed the two populations had distinct mutational profiles with the T cell population harboring IDH2, RHOA, DNMT3A, and TET2 mutations24,25, typical of AITL, while the plasma cells harbored BRCA2, BTG, EPHA5, KMT2D, and SETD5 mutations (Fig. 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, the two samples harbored unique copy number alteration profiles supporting the diagnosis of 2 separate neoplasms (Fig. 3b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The most commonly identified SNVs were in KMT2D (n = 291, 15%), TP53 (n = 288, 15%), TET2 (n = 254, 13%) and CREBBP (n = 216, 11%). (Fig. 4a) We observed broad, tumor purity corrected chromosome level alterations more commonly in lymphoid malignancies (69%, n = 932/1357) compared to myeloid neoplasms (37%, n = 377/1026; p < 0.001, Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "For myeloid neoplasms, trisomy 8 (n = 63, 6%), +21q (n = 27, 3%) and +1q (n = 18, 2%) were the most prevalent broad gains, while del 7q (n = 59, 6%), del 17p (n = 42, 4%), del 5q (n = 40, 4%), and del9p (n = 40, 4%) were the most common broad chromosomal losses (Fig. 4c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "TP53 harbored multiple mutations across lymphoid and myeloid malignancies (n = 82) (Fig. 4b).Mutational signatures\nThe application of DNA sequencing in conjunction with advances in mathematical models have aided the discovery and understanding of the mutational processes that underlie the acquired somatic variants of cancer genomes38–40.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "In the MSK-IMPACT Heme cohort, we calculated the tumor mutation burden (TMB, see Methods) for all samples (range 0–192.9, median 3.7 mut/Mb) (Fig. 5a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Source data are provided as a Source Data file.We identified tumors with mutational processes attributable to activation-induced cytidine deaminase (AID) activity, DNA polymerase eta, mismatch repair (MMR) deficiency, exposure to ultraviolet light (UV), chemotherapy treatment, apolipoprotein B editing complex (APOBEC), and clock-like mutational processes (Fig. 5b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "By classifying patient samples by the highest level of evidence assigned to detected variants in that sample, we found that 10.6% of patients profiled had at least one potential clinically actionable alteration, defined as carrying ≥1 alterations assigned an OncoKB level of evidence 1-3B55. and 71.5% had an oncogenic alteration (Fig. 6a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "After application of this algorithm, 32.3% (n = 33) of cases were classified with a risk category of Very High, 15.8% (n = 16) as High, 10.9% (n = 11) as Low, and 6.9% (n = 7) as Very Low. (Fig. 6b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We also demonstrate the ability of IMPACT-Heme to distinguish between subgroups of SF3B1 altered patients, with a single patient identified with mutated SF3B1 and isolated del5q versus 14 patients identified with SF3B1 alpha (lacking co-mutations in BCOR, BCORL1, NRAS, RUNX1, SRSF2, or STAG2) and associated with favorable outcomes57 (Fig. 6c).Discussion\nWe, herein, report the experience of a large institution-wide, prospective clinical sequencing effort to guide the diagnosis, prognosis, therapy selection and future monitoring of patients across the spectrum of hematologic malignancies.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "These samples comprised 11 tumor types from blood, bone marrow, and FFPE tissues (Supplementary Fig. 1A) and had been previously genotyped or sequenced in our clinical laboratory and were confirmed to be positive for mutations by multiple methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "All 278 variants, from 52 exons of 20 genes, were successfully detected with the IMPACT-Heme assay (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples positive for SNVs and indels were tested in triplicate in the same sequencing run and on different days in two additional sequencing pools (Supplementary Fig. 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The detection limit for low-frequency variants was approximately 2% (Supplementary Fig. 3D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To confidently identify somatic mutations in hematologic tumor cells, we used either saliva or nail clippings12 as a source of germline DNA, since genomic material from whole blood may contain high levels of contaminating tumor cells and would not be suitable as a comparator (Fig. 1a, see Methods for details).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "During the analytical validation, mutation detection demonstrated 100% sensitivity and 100% specificity for 278 known mutations in 113 samples across a range of allele frequencies (range: 0.02–0.97) (Supplementary Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Following approval from New York State Department of Health (NYS-DOH), between December 2016 and August 2019, we sequenced 2383 tumor samples, from 1937 patients, representing 85 different hematological malignancies (Fig. 1b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For the 67 (3%) samples, from 48 patients, that were sequenced following allogeneic stem cell transplantation, both host and donor DNA derived from non-neoplastic were sequenced as a comparator (Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Source data are provided as a Source Data file.We observed somatic tumor mutations in both saliva and nail at different levels based on disease modality (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While nail DNA was most often purely germline, contaminating tumor DNA was observed with a VAF > 2% in 117 of 1295 (9%) patients and was enriched in chronic myeloid neoplasms, such as a myeloproliferative neoplasms (MPN, PMF, ET, and PV, 43 out of 170 patients, 25.3%), MDS (25 out of 132 patients, 19%), CMML (5 of 21 patients, 24%), and AML (16 out of 170 patients, 9%) (Fig. 1f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "These alterations were still easily identified as somatic variants owing to the retention of high tumor:nail VAF ratios (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While only a negligible number of patients with myeloid malignancies (n = 6/1,026) were sequenced with a saliva normal comparator, these saliva controls contained high levels of contaminating tumor DNA, up to 38% VAF (Fig. 1e–g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This finding is consistent with other studies13, which suggest a limited role for saliva as a germline control in myeloid neoplasms. (Fig. 1e, g).Definitive identification of somatic variants\nTo highlight the importance of sequencing a matched germline comparator, we analyzed variant calls made in all targeted exonic regions of the MSK-IMPACT Heme panel resulting from ‘unmatched’ variant calling of these tumor samples against a pooled control sample composed of ten diploid blood samples (Supplementary Fig. 2, Supplementary Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Engraftment assessment by short tandem repeat analysis (STR) showed a chimeric status with 56% host component (Supplementary Fig. 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This approach allowed us to accurately distinguish all host and donor polymorphisms from somatic mutations in this chimeric patient where the range in VAF of host and donor-derived polymorphisms overlapped that of the true somatic mutations (range = 0.13–0.22) (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To deal with these challenges, we adapted the FACETS21 algorithm to use the intersection of heterozygous SNPs between baseline host and donor(s) samples to calculate variant allele log odds ratios with the post-transplant sample and determine regions of allelic imbalance genome wide (Supplementary Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "FLT3 ITD mutations, such as the 60 bp FLT3-ITD detected in this bone marrow (See Methods), are recurrent somatic alterations in AML and typically detected using PCR and capillary electrophoresis assays. (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using DNA derived from patient nails and donor blood as baseline sample comparators to the post-transplant bone marrow biopsy, we were able to detect CN-LOH of chromosome 13q (Fig. 2b), indicating loss of the wildtype (WT) FLT3 allele.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Abnormal T cells and plasma cells were therefore sorted by flow cytometry (Supplementary Fig. 5) and submitted for mutational analysis at the direction of the hematopathologist reviewing the case to compare the mutation profiles among these compartments.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Independent molecular profiling confirmed the two populations had distinct mutational profiles with the T cell population harboring IDH2, RHOA, DNMT3A, and TET2 mutations24,25, typical of AITL, while the plasma cells harbored BRCA2, BTG, EPHA5, KMT2D, and SETD5 mutations (Fig. 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, the two samples harbored unique copy number alteration profiles supporting the diagnosis of 2 separate neoplasms (Fig. 3b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The most commonly identified SNVs were in KMT2D (n = 291, 15%), TP53 (n = 288, 15%), TET2 (n = 254, 13%) and CREBBP (n = 216, 11%). (Fig. 4a) We observed broad, tumor purity corrected chromosome level alterations more commonly in lymphoid malignancies (69%, n = 932/1357) compared to myeloid neoplasms (37%, n = 377/1026; p < 0.001, Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "For myeloid neoplasms, trisomy 8 (n = 63, 6%), +21q (n = 27, 3%) and +1q (n = 18, 2%) were the most prevalent broad gains, while del 7q (n = 59, 6%), del 17p (n = 42, 4%), del 5q (n = 40, 4%), and del9p (n = 40, 4%) were the most common broad chromosomal losses (Fig. 4c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "TP53 harbored multiple mutations across lymphoid and myeloid malignancies (n = 82) (Fig. 4b).Mutational signatures\nThe application of DNA sequencing in conjunction with advances in mathematical models have aided the discovery and understanding of the mutational processes that underlie the acquired somatic variants of cancer genomes38–40.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "In the MSK-IMPACT Heme cohort, we calculated the tumor mutation burden (TMB, see Methods) for all samples (range 0–192.9, median 3.7 mut/Mb) (Fig. 5a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Source data are provided as a Source Data file.We identified tumors with mutational processes attributable to activation-induced cytidine deaminase (AID) activity, DNA polymerase eta, mismatch repair (MMR) deficiency, exposure to ultraviolet light (UV), chemotherapy treatment, apolipoprotein B editing complex (APOBEC), and clock-like mutational processes (Fig. 5b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "By classifying patient samples by the highest level of evidence assigned to detected variants in that sample, we found that 10.6% of patients profiled had at least one potential clinically actionable alteration, defined as carrying ≥1 alterations assigned an OncoKB level of evidence 1-3B55. and 71.5% had an oncogenic alteration (Fig. 6a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "After application of this algorithm, 32.3% (n = 33) of cases were classified with a risk category of Very High, 15.8% (n = 16) as High, 10.9% (n = 11) as Low, and 6.9% (n = 7) as Very Low. (Fig. 6b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We also demonstrate the ability of IMPACT-Heme to distinguish between subgroups of SF3B1 altered patients, with a single patient identified with mutated SF3B1 and isolated del5q versus 14 patients identified with SF3B1 alpha (lacking co-mutations in BCOR, BCORL1, NRAS, RUNX1, SRSF2, or STAG2) and associated with favorable outcomes57 (Fig. 6c).Discussion\nWe, herein, report the experience of a large institution-wide, prospective clinical sequencing effort to guide the diagnosis, prognosis, therapy selection and future monitoring of patients across the spectrum of hematologic malignancies.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "These samples comprised 11 tumor types from blood, bone marrow, and FFPE tissues (Supplementary Fig. 1A) and had been previously genotyped or sequenced in our clinical laboratory and were confirmed to be positive for mutations by multiple methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "All 278 variants, from 52 exons of 20 genes, were successfully detected with the IMPACT-Heme assay (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples positive for SNVs and indels were tested in triplicate in the same sequencing run and on different days in two additional sequencing pools (Supplementary Fig. 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The detection limit for low-frequency variants was approximately 2% (Supplementary Fig. 3D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To confidently identify somatic mutations in hematologic tumor cells, we used either saliva or nail clippings12 as a source of germline DNA, since genomic material from whole blood may contain high levels of contaminating tumor cells and would not be suitable as a comparator (Fig. 1a, see Methods for details).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "During the analytical validation, mutation detection demonstrated 100% sensitivity and 100% specificity for 278 known mutations in 113 samples across a range of allele frequencies (range: 0.02–0.97) (Supplementary Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Following approval from New York State Department of Health (NYS-DOH), between December 2016 and August 2019, we sequenced 2383 tumor samples, from 1937 patients, representing 85 different hematological malignancies (Fig. 1b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For the 67 (3%) samples, from 48 patients, that were sequenced following allogeneic stem cell transplantation, both host and donor DNA derived from non-neoplastic were sequenced as a comparator (Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Source data are provided as a Source Data file.We observed somatic tumor mutations in both saliva and nail at different levels based on disease modality (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While nail DNA was most often purely germline, contaminating tumor DNA was observed with a VAF > 2% in 117 of 1295 (9%) patients and was enriched in chronic myeloid neoplasms, such as a myeloproliferative neoplasms (MPN, PMF, ET, and PV, 43 out of 170 patients, 25.3%), MDS (25 out of 132 patients, 19%), CMML (5 of 21 patients, 24%), and AML (16 out of 170 patients, 9%) (Fig. 1f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "These alterations were still easily identified as somatic variants owing to the retention of high tumor:nail VAF ratios (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While only a negligible number of patients with myeloid malignancies (n = 6/1,026) were sequenced with a saliva normal comparator, these saliva controls contained high levels of contaminating tumor DNA, up to 38% VAF (Fig. 1e–g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This finding is consistent with other studies13, which suggest a limited role for saliva as a germline control in myeloid neoplasms. (Fig. 1e, g).Definitive identification of somatic variants\nTo highlight the importance of sequencing a matched germline comparator, we analyzed variant calls made in all targeted exonic regions of the MSK-IMPACT Heme panel resulting from ‘unmatched’ variant calling of these tumor samples against a pooled control sample composed of ten diploid blood samples (Supplementary Fig. 2, Supplementary Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Engraftment assessment by short tandem repeat analysis (STR) showed a chimeric status with 56% host component (Supplementary Fig. 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This approach allowed us to accurately distinguish all host and donor polymorphisms from somatic mutations in this chimeric patient where the range in VAF of host and donor-derived polymorphisms overlapped that of the true somatic mutations (range = 0.13–0.22) (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To deal with these challenges, we adapted the FACETS21 algorithm to use the intersection of heterozygous SNPs between baseline host and donor(s) samples to calculate variant allele log odds ratios with the post-transplant sample and determine regions of allelic imbalance genome wide (Supplementary Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "FLT3 ITD mutations, such as the 60 bp FLT3-ITD detected in this bone marrow (See Methods), are recurrent somatic alterations in AML and typically detected using PCR and capillary electrophoresis assays. (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using DNA derived from patient nails and donor blood as baseline sample comparators to the post-transplant bone marrow biopsy, we were able to detect CN-LOH of chromosome 13q (Fig. 2b), indicating loss of the wildtype (WT) FLT3 allele.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Abnormal T cells and plasma cells were therefore sorted by flow cytometry (Supplementary Fig. 5) and submitted for mutational analysis at the direction of the hematopathologist reviewing the case to compare the mutation profiles among these compartments.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Independent molecular profiling confirmed the two populations had distinct mutational profiles with the T cell population harboring IDH2, RHOA, DNMT3A, and TET2 mutations24,25, typical of AITL, while the plasma cells harbored BRCA2, BTG, EPHA5, KMT2D, and SETD5 mutations (Fig. 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, the two samples harbored unique copy number alteration profiles supporting the diagnosis of 2 separate neoplasms (Fig. 3b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The most commonly identified SNVs were in KMT2D (n = 291, 15%), TP53 (n = 288, 15%), TET2 (n = 254, 13%) and CREBBP (n = 216, 11%). (Fig. 4a) We observed broad, tumor purity corrected chromosome level alterations more commonly in lymphoid malignancies (69%, n = 932/1357) compared to myeloid neoplasms (37%, n = 377/1026; p < 0.001, Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "For myeloid neoplasms, trisomy 8 (n = 63, 6%), +21q (n = 27, 3%) and +1q (n = 18, 2%) were the most prevalent broad gains, while del 7q (n = 59, 6%), del 17p (n = 42, 4%), del 5q (n = 40, 4%), and del9p (n = 40, 4%) were the most common broad chromosomal losses (Fig. 4c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "TP53 harbored multiple mutations across lymphoid and myeloid malignancies (n = 82) (Fig. 4b).Mutational signatures\nThe application of DNA sequencing in conjunction with advances in mathematical models have aided the discovery and understanding of the mutational processes that underlie the acquired somatic variants of cancer genomes38–40.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "In the MSK-IMPACT Heme cohort, we calculated the tumor mutation burden (TMB, see Methods) for all samples (range 0–192.9, median 3.7 mut/Mb) (Fig. 5a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Source data are provided as a Source Data file.We identified tumors with mutational processes attributable to activation-induced cytidine deaminase (AID) activity, DNA polymerase eta, mismatch repair (MMR) deficiency, exposure to ultraviolet light (UV), chemotherapy treatment, apolipoprotein B editing complex (APOBEC), and clock-like mutational processes (Fig. 5b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "By classifying patient samples by the highest level of evidence assigned to detected variants in that sample, we found that 10.6% of patients profiled had at least one potential clinically actionable alteration, defined as carrying ≥1 alterations assigned an OncoKB level of evidence 1-3B55. and 71.5% had an oncogenic alteration (Fig. 6a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "After application of this algorithm, 32.3% (n = 33) of cases were classified with a risk category of Very High, 15.8% (n = 16) as High, 10.9% (n = 11) as Low, and 6.9% (n = 7) as Very Low. (Fig. 6b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We also demonstrate the ability of IMPACT-Heme to distinguish between subgroups of SF3B1 altered patients, with a single patient identified with mutated SF3B1 and isolated del5q versus 14 patients identified with SF3B1 alpha (lacking co-mutations in BCOR, BCORL1, NRAS, RUNX1, SRSF2, or STAG2) and associated with favorable outcomes57 (Fig. 6c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "To confidently identify somatic mutations in hematologic tumor cells, we used either saliva or nail clippings12 as a source of germline DNA, since genomic material from whole blood may contain high levels of contaminating tumor cells and would not be suitable as a comparator (Fig. 1a, see Methods for details).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "During the analytical validation, mutation detection demonstrated 100% sensitivity and 100% specificity for 278 known mutations in 113 samples across a range of allele frequencies (range: 0.02–0.97) (Supplementary Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Following approval from New York State Department of Health (NYS-DOH), between December 2016 and August 2019, we sequenced 2383 tumor samples, from 1937 patients, representing 85 different hematological malignancies (Fig. 1b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For the 67 (3%) samples, from 48 patients, that were sequenced following allogeneic stem cell transplantation, both host and donor DNA derived from non-neoplastic were sequenced as a comparator (Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Source data are provided as a Source Data file.We observed somatic tumor mutations in both saliva and nail at different levels based on disease modality (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While nail DNA was most often purely germline, contaminating tumor DNA was observed with a VAF > 2% in 117 of 1295 (9%) patients and was enriched in chronic myeloid neoplasms, such as a myeloproliferative neoplasms (MPN, PMF, ET, and PV, 43 out of 170 patients, 25.3%), MDS (25 out of 132 patients, 19%), CMML (5 of 21 patients, 24%), and AML (16 out of 170 patients, 9%) (Fig. 1f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "These alterations were still easily identified as somatic variants owing to the retention of high tumor:nail VAF ratios (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While only a negligible number of patients with myeloid malignancies (n = 6/1,026) were sequenced with a saliva normal comparator, these saliva controls contained high levels of contaminating tumor DNA, up to 38% VAF (Fig. 1e–g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This finding is consistent with other studies13, which suggest a limited role for saliva as a germline control in myeloid neoplasms. (Fig. 1e, g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "To confidently identify somatic mutations in hematologic tumor cells, we used either saliva or nail clippings12 as a source of germline DNA, since genomic material from whole blood may contain high levels of contaminating tumor cells and would not be suitable as a comparator (Fig. 1a, see Methods for details).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "During the analytical validation, mutation detection demonstrated 100% sensitivity and 100% specificity for 278 known mutations in 113 samples across a range of allele frequencies (range: 0.02–0.97) (Supplementary Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Following approval from New York State Department of Health (NYS-DOH), between December 2016 and August 2019, we sequenced 2383 tumor samples, from 1937 patients, representing 85 different hematological malignancies (Fig. 1b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For the 67 (3%) samples, from 48 patients, that were sequenced following allogeneic stem cell transplantation, both host and donor DNA derived from non-neoplastic were sequenced as a comparator (Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We observed somatic tumor mutations in both saliva and nail at different levels based on disease modality (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While nail DNA was most often purely germline, contaminating tumor DNA was observed with a VAF > 2% in 117 of 1295 (9%) patients and was enriched in chronic myeloid neoplasms, such as a myeloproliferative neoplasms (MPN, PMF, ET, and PV, 43 out of 170 patients, 25.3%), MDS (25 out of 132 patients, 19%), CMML (5 of 21 patients, 24%), and AML (16 out of 170 patients, 9%) (Fig. 1f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "These alterations were still easily identified as somatic variants owing to the retention of high tumor:nail VAF ratios (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "While only a negligible number of patients with myeloid malignancies (n = 6/1,026) were sequenced with a saliva normal comparator, these saliva controls contained high levels of contaminating tumor DNA, up to 38% VAF (Fig. 1e–g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This finding is consistent with other studies13, which suggest a limited role for saliva as a germline control in myeloid neoplasms. (Fig. 1e, g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Definitive identification of somatic variants\nTo highlight the importance of sequencing a matched germline comparator, we analyzed variant calls made in all targeted exonic regions of the MSK-IMPACT Heme panel resulting from ‘unmatched’ variant calling of these tumor samples against a pooled control sample composed of ten diploid blood samples (Supplementary Fig. 2, Supplementary Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To highlight the importance of sequencing a matched germline comparator, we analyzed variant calls made in all targeted exonic regions of the MSK-IMPACT Heme panel resulting from ‘unmatched’ variant calling of these tumor samples against a pooled control sample composed of ten diploid blood samples (Supplementary Fig. 2, Supplementary Table 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Engraftment assessment by short tandem repeat analysis (STR) showed a chimeric status with 56% host component (Supplementary Fig. 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This approach allowed us to accurately distinguish all host and donor polymorphisms from somatic mutations in this chimeric patient where the range in VAF of host and donor-derived polymorphisms overlapped that of the true somatic mutations (range = 0.13–0.22) (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To deal with these challenges, we adapted the FACETS21 algorithm to use the intersection of heterozygous SNPs between baseline host and donor(s) samples to calculate variant allele log odds ratios with the post-transplant sample and determine regions of allelic imbalance genome wide (Supplementary Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "FLT3 ITD mutations, such as the 60 bp FLT3-ITD detected in this bone marrow (See Methods), are recurrent somatic alterations in AML and typically detected using PCR and capillary electrophoresis assays. (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using DNA derived from patient nails and donor blood as baseline sample comparators to the post-transplant bone marrow biopsy, we were able to detect CN-LOH of chromosome 13q (Fig. 2b), indicating loss of the wildtype (WT) FLT3 allele.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Engraftment assessment by short tandem repeat analysis (STR) showed a chimeric status with 56% host component (Supplementary Fig. 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "This approach allowed us to accurately distinguish all host and donor polymorphisms from somatic mutations in this chimeric patient where the range in VAF of host and donor-derived polymorphisms overlapped that of the true somatic mutations (range = 0.13–0.22) (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To deal with these challenges, we adapted the FACETS21 algorithm to use the intersection of heterozygous SNPs between baseline host and donor(s) samples to calculate variant allele log odds ratios with the post-transplant sample and determine regions of allelic imbalance genome wide (Supplementary Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "FLT3 ITD mutations, such as the 60 bp FLT3-ITD detected in this bone marrow (See Methods), are recurrent somatic alterations in AML and typically detected using PCR and capillary electrophoresis assays. (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using DNA derived from patient nails and donor blood as baseline sample comparators to the post-transplant bone marrow biopsy, we were able to detect CN-LOH of chromosome 13q (Fig. 2b), indicating loss of the wildtype (WT) FLT3 allele.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Abnormal T cells and plasma cells were therefore sorted by flow cytometry (Supplementary Fig. 5) and submitted for mutational analysis at the direction of the hematopathologist reviewing the case to compare the mutation profiles among these compartments.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Independent molecular profiling confirmed the two populations had distinct mutational profiles with the T cell population harboring IDH2, RHOA, DNMT3A, and TET2 mutations24,25, typical of AITL, while the plasma cells harbored BRCA2, BTG, EPHA5, KMT2D, and SETD5 mutations (Fig. 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, the two samples harbored unique copy number alteration profiles supporting the diagnosis of 2 separate neoplasms (Fig. 3b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Abnormal T cells and plasma cells were therefore sorted by flow cytometry (Supplementary Fig. 5) and submitted for mutational analysis at the direction of the hematopathologist reviewing the case to compare the mutation profiles among these compartments.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Independent molecular profiling confirmed the two populations had distinct mutational profiles with the T cell population harboring IDH2, RHOA, DNMT3A, and TET2 mutations24,25, typical of AITL, while the plasma cells harbored BRCA2, BTG, EPHA5, KMT2D, and SETD5 mutations (Fig. 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, the two samples harbored unique copy number alteration profiles supporting the diagnosis of 2 separate neoplasms (Fig. 3b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The most commonly identified SNVs were in KMT2D (n = 291, 15%), TP53 (n = 288, 15%), TET2 (n = 254, 13%) and CREBBP (n = 216, 11%). (Fig. 4a) We observed broad, tumor purity corrected chromosome level alterations more commonly in lymphoid malignancies (69%, n = 932/1357) compared to myeloid neoplasms (37%, n = 377/1026; p < 0.001, Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "For myeloid neoplasms, trisomy 8 (n = 63, 6%), +21q (n = 27, 3%) and +1q (n = 18, 2%) were the most prevalent broad gains, while del 7q (n = 59, 6%), del 17p (n = 42, 4%), del 5q (n = 40, 4%), and del9p (n = 40, 4%) were the most common broad chromosomal losses (Fig. 4c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "TP53 harbored multiple mutations across lymphoid and myeloid malignancies (n = 82) (Fig. 4b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The most commonly identified SNVs were in KMT2D (n = 291, 15%), TP53 (n = 288, 15%), TET2 (n = 254, 13%) and CREBBP (n = 216, 11%). (Fig. 4a) We observed broad, tumor purity corrected chromosome level alterations more commonly in lymphoid malignancies (69%, n = 932/1357) compared to myeloid neoplasms (37%, n = 377/1026; p < 0.001, Fisher’s exact test).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "For myeloid neoplasms, trisomy 8 (n = 63, 6%), +21q (n = 27, 3%) and +1q (n = 18, 2%) were the most prevalent broad gains, while del 7q (n = 59, 6%), del 17p (n = 42, 4%), del 5q (n = 40, 4%), and del9p (n = 40, 4%) were the most common broad chromosomal losses (Fig. 4c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "TP53 harbored multiple mutations across lymphoid and myeloid malignancies (n = 82) (Fig. 4b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "In the MSK-IMPACT Heme cohort, we calculated the tumor mutation burden (TMB, see Methods) for all samples (range 0–192.9, median 3.7 mut/Mb) (Fig. 5a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Source data are provided as a Source Data file.We identified tumors with mutational processes attributable to activation-induced cytidine deaminase (AID) activity, DNA polymerase eta, mismatch repair (MMR) deficiency, exposure to ultraviolet light (UV), chemotherapy treatment, apolipoprotein B editing complex (APOBEC), and clock-like mutational processes (Fig. 5b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In the MSK-IMPACT Heme cohort, we calculated the tumor mutation burden (TMB, see Methods) for all samples (range 0–192.9, median 3.7 mut/Mb) (Fig. 5a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We identified tumors with mutational processes attributable to activation-induced cytidine deaminase (AID) activity, DNA polymerase eta, mismatch repair (MMR) deficiency, exposure to ultraviolet light (UV), chemotherapy treatment, apolipoprotein B editing complex (APOBEC), and clock-like mutational processes (Fig. 5b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "By classifying patient samples by the highest level of evidence assigned to detected variants in that sample, we found that 10.6% of patients profiled had at least one potential clinically actionable alteration, defined as carrying ≥1 alterations assigned an OncoKB level of evidence 1-3B55. and 71.5% had an oncogenic alteration (Fig. 6a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "After application of this algorithm, 32.3% (n = 33) of cases were classified with a risk category of Very High, 15.8% (n = 16) as High, 10.9% (n = 11) as Low, and 6.9% (n = 7) as Very Low. (Fig. 6b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We also demonstrate the ability of IMPACT-Heme to distinguish between subgroups of SF3B1 altered patients, with a single patient identified with mutated SF3B1 and isolated del5q versus 14 patients identified with SF3B1 alpha (lacking co-mutations in BCOR, BCORL1, NRAS, RUNX1, SRSF2, or STAG2) and associated with favorable outcomes57 (Fig. 6c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "By classifying patient samples by the highest level of evidence assigned to detected variants in that sample, we found that 10.6% of patients profiled had at least one potential clinically actionable alteration, defined as carrying ≥1 alterations assigned an OncoKB level of evidence 1-3B55. and 71.5% had an oncogenic alteration (Fig. 6a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "After application of this algorithm, 32.3% (n = 33) of cases were classified with a risk category of Very High, 15.8% (n = 16) as High, 10.9% (n = 11) as Low, and 6.9% (n = 7) as Very Low. (Fig. 6b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We also demonstrate the ability of IMPACT-Heme to distinguish between subgroups of SF3B1 altered patients, with a single patient identified with mutated SF3B1 and isolated del5q versus 14 patients identified with SF3B1 alpha (lacking co-mutations in BCOR, BCORL1, NRAS, RUNX1, SRSF2, or STAG2) and associated with favorable outcomes57 (Fig. 6c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "These samples comprised 11 tumor types from blood, bone marrow, and FFPE tissues (Supplementary Fig. 1A) and had been previously genotyped or sequenced in our clinical laboratory and were confirmed to be positive for mutations by multiple methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "All 278 variants, from 52 exons of 20 genes, were successfully detected with the IMPACT-Heme assay (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples positive for SNVs and indels were tested in triplicate in the same sequencing run and on different days in two additional sequencing pools (Supplementary Fig. 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The detection limit for low-frequency variants was approximately 2% (Supplementary Fig. 3D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These samples comprised 11 tumor types from blood, bone marrow, and FFPE tissues (Supplementary Fig. 1A) and had been previously genotyped or sequenced in our clinical laboratory and were confirmed to be positive for mutations by multiple methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "All 278 variants, from 52 exons of 20 genes, were successfully detected with the IMPACT-Heme assay (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples positive for SNVs and indels were tested in triplicate in the same sequencing run and on different days in two additional sequencing pools (Supplementary Fig. 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The detection limit for low-frequency variants was approximately 2% (Supplementary Fig. 3D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These samples comprised 11 tumor types from blood, bone marrow, and FFPE tissues (Supplementary Fig. 1A) and had been previously genotyped or sequenced in our clinical laboratory and were confirmed to be positive for mutations by multiple methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "All 278 variants, from 52 exons of 20 genes, were successfully detected with the IMPACT-Heme assay (Supplementary Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples positive for SNVs and indels were tested in triplicate in the same sequencing run and on different days in two additional sequencing pools (Supplementary Fig. 3C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The detection limit for low-frequency variants was approximately 2% (Supplementary Fig. 3D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      }
+    ]
+  }
+]

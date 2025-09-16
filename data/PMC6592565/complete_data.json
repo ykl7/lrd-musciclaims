@@ -1,0 +1,842 @@
+{
+  "paper_id": "PMC6592565",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6592565/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Fig 1. PRS-PheWAS in MGI and UKB phenomes.",
+      "caption": "The horizontal line indicates phenome-wide significance. Phenome-wide significant traits are indicated by PheCodes with their description listed below. Directional triangles indicate whether a phenome-wide significant trait was positively (pointing up) or negatively (pointing down) associated with the PRS.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9d53/6592565/9a37272c988f/pgen.1008202.g001.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9d53/6592565/9a37272c988f/pgen.1008202.g001.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9d53/6592565/9a37272c988f/pgen.1008202.g001.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9d53/6592565/9a37272c988f/pgen.1008202.g001.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "pgen.1008202.g001",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9d53/6592565/9a37272c988f/pgen.1008202.g001.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC6592565/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9d53/6592565/9a37272c988f/pgen.1008202.g001.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Fig 2. Overlap between the three skin cancer trait loci.",
+      "caption": "Reported risk SNPs within 1 Mb were merged into the same locus. Loci that were also reported to be associated with skin tanning ability are highlighted in bold. Loci were named according to the closest RefSeq genes (except M1CR a 385 kb locus with 16 RefSeq genes and HV745896 named after a nearby, uncurated mRNA sequence).",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9d53/6592565/b0f594fd0162/pgen.1008202.g002.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9d53/6592565/b0f594fd0162/pgen.1008202.g002.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9d53/6592565/b0f594fd0162/pgen.1008202.g002.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9d53/6592565/b0f594fd0162/pgen.1008202.g002.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "pgen.1008202.g002",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9d53/6592565/b0f594fd0162/pgen.1008202.g002.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC6592565/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9d53/6592565/b0f594fd0162/pgen.1008202.g002.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "In addition, secondary dermatologic traits such as actinic keratosis (with parent category “degenerative skin conditions and other dermatoses”), chronic dermatitis due to solar radiation (with parent category “dermatitis due to solar radiation”), and seborrheic keratosis were found to be associated with all three PRS (Fig 1 and Table K in\nS1 File). “Diseases of sebaceous glands”, “sebaceous cyst”, and “scar conditions and fibrosis of skin” were associated with bPRS. mPRS was most strongly associated with the melanoma phenotype (OR 1.48, 95% CI [1.41, 1.56]), while bPRS was most strongly associated with basal cell carcinoma (OR 1.65, 95% CI [1.56, 1.75]) followed closely by “other non-epithelial cancer of the skin” (OR 1.39, 95% CI [1.34, 1.44]). sPRS was most strongly associated with overall skin cancer (OR 1.34, 95% CI [1.3, 1.38]).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Directional triangles indicate whether a phenome-wide significant trait was positively (pointing up) or negatively (pointing down) associated with the PRS.Validation of PRS-PheWAS in UK Biobank\nTo substantiate the detected dermatologic associations, we reiterated the association screen of the three PRS in the matched phenome of the population-based UK Biobank data set (Fig 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig 2 shows the number of risk loci shared by different PRS.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These six underlying loci (HERC2 [MIM 605837] /OCA2 [MIM 611409], IRF4 [MIM 601900], MC1R [MIM 155555], RALY [MIM 614663], SLC45A2 [MIM 606202] and TYR [MIM 606933]) were previously found to be associated not only with skin cancer traits, but also with pigmentation traits of skin, eyes and hair (Fig 2; MIM 266300) [31, 49–68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "PRSweb shows PRS-PheWAS plots with various choices of PRS in the drop-down menu (example screenshot in Fig 3) and offers downloadable PRS constructs (list of independent risk variants with corresponding weights).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Mouse-over boxes offer detailed information about top results if needed, without impeding the overall user experience (grey box in Fig 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, secondary dermatologic traits such as actinic keratosis (with parent category “degenerative skin conditions and other dermatoses”), chronic dermatitis due to solar radiation (with parent category “dermatitis due to solar radiation”), and seborrheic keratosis were found to be associated with all three PRS (Fig 1 and Table K in\nS1 File). “Diseases of sebaceous glands”, “sebaceous cyst”, and “scar conditions and fibrosis of skin” were associated with bPRS. mPRS was most strongly associated with the melanoma phenotype (OR 1.48, 95% CI [1.41, 1.56]), while bPRS was most strongly associated with basal cell carcinoma (OR 1.65, 95% CI [1.56, 1.75]) followed closely by “other non-epithelial cancer of the skin” (OR 1.39, 95% CI [1.34, 1.44]). sPRS was most strongly associated with overall skin cancer (OR 1.34, 95% CI [1.3, 1.38]).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Directional triangles indicate whether a phenome-wide significant trait was positively (pointing up) or negatively (pointing down) associated with the PRS.Validation of PRS-PheWAS in UK Biobank\nTo substantiate the detected dermatologic associations, we reiterated the association screen of the three PRS in the matched phenome of the population-based UK Biobank data set (Fig 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig 2 shows the number of risk loci shared by different PRS.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These six underlying loci (HERC2 [MIM 605837] /OCA2 [MIM 611409], IRF4 [MIM 601900], MC1R [MIM 155555], RALY [MIM 614663], SLC45A2 [MIM 606202] and TYR [MIM 606933]) were previously found to be associated not only with skin cancer traits, but also with pigmentation traits of skin, eyes and hair (Fig 2; MIM 266300) [31, 49–68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "PRSweb shows PRS-PheWAS plots with various choices of PRS in the drop-down menu (example screenshot in Fig 3) and offers downloadable PRS constructs (list of independent risk variants with corresponding weights).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Mouse-over boxes offer detailed information about top results if needed, without impeding the overall user experience (grey box in Fig 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, secondary dermatologic traits such as actinic keratosis (with parent category “degenerative skin conditions and other dermatoses”), chronic dermatitis due to solar radiation (with parent category “dermatitis due to solar radiation”), and seborrheic keratosis were found to be associated with all three PRS (Fig 1 and Table K in\nS1 File). “Diseases of sebaceous glands”, “sebaceous cyst”, and “scar conditions and fibrosis of skin” were associated with bPRS. mPRS was most strongly associated with the melanoma phenotype (OR 1.48, 95% CI [1.41, 1.56]), while bPRS was most strongly associated with basal cell carcinoma (OR 1.65, 95% CI [1.56, 1.75]) followed closely by “other non-epithelial cancer of the skin” (OR 1.39, 95% CI [1.34, 1.44]). sPRS was most strongly associated with overall skin cancer (OR 1.34, 95% CI [1.3, 1.38]).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Directional triangles indicate whether a phenome-wide significant trait was positively (pointing up) or negatively (pointing down) associated with the PRS.Validation of PRS-PheWAS in UK Biobank\nTo substantiate the detected dermatologic associations, we reiterated the association screen of the three PRS in the matched phenome of the population-based UK Biobank data set (Fig 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig 2 shows the number of risk loci shared by different PRS.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These six underlying loci (HERC2 [MIM 605837] /OCA2 [MIM 611409], IRF4 [MIM 601900], MC1R [MIM 155555], RALY [MIM 614663], SLC45A2 [MIM 606202] and TYR [MIM 606933]) were previously found to be associated not only with skin cancer traits, but also with pigmentation traits of skin, eyes and hair (Fig 2; MIM 266300) [31, 49–68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "PRSweb shows PRS-PheWAS plots with various choices of PRS in the drop-down menu (example screenshot in Fig 3) and offers downloadable PRS constructs (list of independent risk variants with corresponding weights).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Mouse-over boxes offer detailed information about top results if needed, without impeding the overall user experience (grey box in Fig 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, secondary dermatologic traits such as actinic keratosis (with parent category “degenerative skin conditions and other dermatoses”), chronic dermatitis due to solar radiation (with parent category “dermatitis due to solar radiation”), and seborrheic keratosis were found to be associated with all three PRS (Fig 1 and Table K in\nS1 File). “Diseases of sebaceous glands”, “sebaceous cyst”, and “scar conditions and fibrosis of skin” were associated with bPRS. mPRS was most strongly associated with the melanoma phenotype (OR 1.48, 95% CI [1.41, 1.56]), while bPRS was most strongly associated with basal cell carcinoma (OR 1.65, 95% CI [1.56, 1.75]) followed closely by “other non-epithelial cancer of the skin” (OR 1.39, 95% CI [1.34, 1.44]). sPRS was most strongly associated with overall skin cancer (OR 1.34, 95% CI [1.3, 1.38]).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Directional triangles indicate whether a phenome-wide significant trait was positively (pointing up) or negatively (pointing down) associated with the PRS.Validation of PRS-PheWAS in UK Biobank\nTo substantiate the detected dermatologic associations, we reiterated the association screen of the three PRS in the matched phenome of the population-based UK Biobank data set (Fig 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig 2 shows the number of risk loci shared by different PRS.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These six underlying loci (HERC2 [MIM 605837] /OCA2 [MIM 611409], IRF4 [MIM 601900], MC1R [MIM 155555], RALY [MIM 614663], SLC45A2 [MIM 606202] and TYR [MIM 606933]) were previously found to be associated not only with skin cancer traits, but also with pigmentation traits of skin, eyes and hair (Fig 2; MIM 266300) [31, 49–68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "PRSweb shows PRS-PheWAS plots with various choices of PRS in the drop-down menu (example screenshot in Fig 3) and offers downloadable PRS constructs (list of independent risk variants with corresponding weights).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Mouse-over boxes offer detailed information about top results if needed, without impeding the overall user experience (grey box in Fig 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, secondary dermatologic traits such as actinic keratosis (with parent category “degenerative skin conditions and other dermatoses”), chronic dermatitis due to solar radiation (with parent category “dermatitis due to solar radiation”), and seborrheic keratosis were found to be associated with all three PRS (Fig 1 and Table K in\nS1 File). “Diseases of sebaceous glands”, “sebaceous cyst”, and “scar conditions and fibrosis of skin” were associated with bPRS. mPRS was most strongly associated with the melanoma phenotype (OR 1.48, 95% CI [1.41, 1.56]), while bPRS was most strongly associated with basal cell carcinoma (OR 1.65, 95% CI [1.56, 1.75]) followed closely by “other non-epithelial cancer of the skin” (OR 1.39, 95% CI [1.34, 1.44]). sPRS was most strongly associated with overall skin cancer (OR 1.34, 95% CI [1.3, 1.38]).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Directional triangles indicate whether a phenome-wide significant trait was positively (pointing up) or negatively (pointing down) associated with the PRS.Validation of PRS-PheWAS in UK Biobank\nTo substantiate the detected dermatologic associations, we reiterated the association screen of the three PRS in the matched phenome of the population-based UK Biobank data set (Fig 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig 2 shows the number of risk loci shared by different PRS.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These six underlying loci (HERC2 [MIM 605837] /OCA2 [MIM 611409], IRF4 [MIM 601900], MC1R [MIM 155555], RALY [MIM 614663], SLC45A2 [MIM 606202] and TYR [MIM 606933]) were previously found to be associated not only with skin cancer traits, but also with pigmentation traits of skin, eyes and hair (Fig 2; MIM 266300) [31, 49–68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "PRSweb shows PRS-PheWAS plots with various choices of PRS in the drop-down menu (example screenshot in Fig 3) and offers downloadable PRS constructs (list of independent risk variants with corresponding weights).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Mouse-over boxes offer detailed information about top results if needed, without impeding the overall user experience (grey box in Fig 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, secondary dermatologic traits such as actinic keratosis (with parent category “degenerative skin conditions and other dermatoses”), chronic dermatitis due to solar radiation (with parent category “dermatitis due to solar radiation”), and seborrheic keratosis were found to be associated with all three PRS (Fig 1 and Table K in\nS1 File). “Diseases of sebaceous glands”, “sebaceous cyst”, and “scar conditions and fibrosis of skin” were associated with bPRS. mPRS was most strongly associated with the melanoma phenotype (OR 1.48, 95% CI [1.41, 1.56]), while bPRS was most strongly associated with basal cell carcinoma (OR 1.65, 95% CI [1.56, 1.75]) followed closely by “other non-epithelial cancer of the skin” (OR 1.39, 95% CI [1.34, 1.44]). sPRS was most strongly associated with overall skin cancer (OR 1.34, 95% CI [1.3, 1.38]).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Directional triangles indicate whether a phenome-wide significant trait was positively (pointing up) or negatively (pointing down) associated with the PRS.Validation of PRS-PheWAS in UK Biobank\nTo substantiate the detected dermatologic associations, we reiterated the association screen of the three PRS in the matched phenome of the population-based UK Biobank data set (Fig 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig 2 shows the number of risk loci shared by different PRS.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These six underlying loci (HERC2 [MIM 605837] /OCA2 [MIM 611409], IRF4 [MIM 601900], MC1R [MIM 155555], RALY [MIM 614663], SLC45A2 [MIM 606202] and TYR [MIM 606933]) were previously found to be associated not only with skin cancer traits, but also with pigmentation traits of skin, eyes and hair (Fig 2; MIM 266300) [31, 49–68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "PRSweb shows PRS-PheWAS plots with various choices of PRS in the drop-down menu (example screenshot in Fig 3) and offers downloadable PRS constructs (list of independent risk variants with corresponding weights).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Mouse-over boxes offer detailed information about top results if needed, without impeding the overall user experience (grey box in Fig 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, secondary dermatologic traits such as actinic keratosis (with parent category “degenerative skin conditions and other dermatoses”), chronic dermatitis due to solar radiation (with parent category “dermatitis due to solar radiation”), and seborrheic keratosis were found to be associated with all three PRS (Fig 1 and Table K in\nS1 File). “Diseases of sebaceous glands”, “sebaceous cyst”, and “scar conditions and fibrosis of skin” were associated with bPRS. mPRS was most strongly associated with the melanoma phenotype (OR 1.48, 95% CI [1.41, 1.56]), while bPRS was most strongly associated with basal cell carcinoma (OR 1.65, 95% CI [1.56, 1.75]) followed closely by “other non-epithelial cancer of the skin” (OR 1.39, 95% CI [1.34, 1.44]). sPRS was most strongly associated with overall skin cancer (OR 1.34, 95% CI [1.3, 1.38]).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Directional triangles indicate whether a phenome-wide significant trait was positively (pointing up) or negatively (pointing down) associated with the PRS.Validation of PRS-PheWAS in UK Biobank\nTo substantiate the detected dermatologic associations, we reiterated the association screen of the three PRS in the matched phenome of the population-based UK Biobank data set (Fig 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig 2 shows the number of risk loci shared by different PRS.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These six underlying loci (HERC2 [MIM 605837] /OCA2 [MIM 611409], IRF4 [MIM 601900], MC1R [MIM 155555], RALY [MIM 614663], SLC45A2 [MIM 606202] and TYR [MIM 606933]) were previously found to be associated not only with skin cancer traits, but also with pigmentation traits of skin, eyes and hair (Fig 2; MIM 266300) [31, 49–68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "PRSweb shows PRS-PheWAS plots with various choices of PRS in the drop-down menu (example screenshot in Fig 3) and offers downloadable PRS constructs (list of independent risk variants with corresponding weights).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Mouse-over boxes offer detailed information about top results if needed, without impeding the overall user experience (grey box in Fig 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, secondary dermatologic traits such as actinic keratosis (with parent category “degenerative skin conditions and other dermatoses”), chronic dermatitis due to solar radiation (with parent category “dermatitis due to solar radiation”), and seborrheic keratosis were found to be associated with all three PRS (Fig 1 and Table K in\nS1 File). “Diseases of sebaceous glands”, “sebaceous cyst”, and “scar conditions and fibrosis of skin” were associated with bPRS. mPRS was most strongly associated with the melanoma phenotype (OR 1.48, 95% CI [1.41, 1.56]), while bPRS was most strongly associated with basal cell carcinoma (OR 1.65, 95% CI [1.56, 1.75]) followed closely by “other non-epithelial cancer of the skin” (OR 1.39, 95% CI [1.34, 1.44]). sPRS was most strongly associated with overall skin cancer (OR 1.34, 95% CI [1.3, 1.38]).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Directional triangles indicate whether a phenome-wide significant trait was positively (pointing up) or negatively (pointing down) associated with the PRS.Validation of PRS-PheWAS in UK Biobank\nTo substantiate the detected dermatologic associations, we reiterated the association screen of the three PRS in the matched phenome of the population-based UK Biobank data set (Fig 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig 2 shows the number of risk loci shared by different PRS.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These six underlying loci (HERC2 [MIM 605837] /OCA2 [MIM 611409], IRF4 [MIM 601900], MC1R [MIM 155555], RALY [MIM 614663], SLC45A2 [MIM 606202] and TYR [MIM 606933]) were previously found to be associated not only with skin cancer traits, but also with pigmentation traits of skin, eyes and hair (Fig 2; MIM 266300) [31, 49–68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "PRSweb shows PRS-PheWAS plots with various choices of PRS in the drop-down menu (example screenshot in Fig 3) and offers downloadable PRS constructs (list of independent risk variants with corresponding weights).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Mouse-over boxes offer detailed information about top results if needed, without impeding the overall user experience (grey box in Fig 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, secondary dermatologic traits such as actinic keratosis (with parent category “degenerative skin conditions and other dermatoses”), chronic dermatitis due to solar radiation (with parent category “dermatitis due to solar radiation”), and seborrheic keratosis were found to be associated with all three PRS (Fig 1 and Table K in\nS1 File). “Diseases of sebaceous glands”, “sebaceous cyst”, and “scar conditions and fibrosis of skin” were associated with bPRS. mPRS was most strongly associated with the melanoma phenotype (OR 1.48, 95% CI [1.41, 1.56]), while bPRS was most strongly associated with basal cell carcinoma (OR 1.65, 95% CI [1.56, 1.75]) followed closely by “other non-epithelial cancer of the skin” (OR 1.39, 95% CI [1.34, 1.44]). sPRS was most strongly associated with overall skin cancer (OR 1.34, 95% CI [1.3, 1.38]).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Directional triangles indicate whether a phenome-wide significant trait was positively (pointing up) or negatively (pointing down) associated with the PRS.Validation of PRS-PheWAS in UK Biobank\nTo substantiate the detected dermatologic associations, we reiterated the association screen of the three PRS in the matched phenome of the population-based UK Biobank data set (Fig 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig 2 shows the number of risk loci shared by different PRS.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These six underlying loci (HERC2 [MIM 605837] /OCA2 [MIM 611409], IRF4 [MIM 601900], MC1R [MIM 155555], RALY [MIM 614663], SLC45A2 [MIM 606202] and TYR [MIM 606933]) were previously found to be associated not only with skin cancer traits, but also with pigmentation traits of skin, eyes and hair (Fig 2; MIM 266300) [31, 49–68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "PRSweb shows PRS-PheWAS plots with various choices of PRS in the drop-down menu (example screenshot in Fig 3) and offers downloadable PRS constructs (list of independent risk variants with corresponding weights).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Mouse-over boxes offer detailed information about top results if needed, without impeding the overall user experience (grey box in Fig 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, secondary dermatologic traits such as actinic keratosis (with parent category “degenerative skin conditions and other dermatoses”), chronic dermatitis due to solar radiation (with parent category “dermatitis due to solar radiation”), and seborrheic keratosis were found to be associated with all three PRS (Fig 1 and Table K in\nS1 File). “Diseases of sebaceous glands”, “sebaceous cyst”, and “scar conditions and fibrosis of skin” were associated with bPRS. mPRS was most strongly associated with the melanoma phenotype (OR 1.48, 95% CI [1.41, 1.56]), while bPRS was most strongly associated with basal cell carcinoma (OR 1.65, 95% CI [1.56, 1.75]) followed closely by “other non-epithelial cancer of the skin” (OR 1.39, 95% CI [1.34, 1.44]). sPRS was most strongly associated with overall skin cancer (OR 1.34, 95% CI [1.3, 1.38]).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, secondary dermatologic traits such as actinic keratosis (with parent category “degenerative skin conditions and other dermatoses”), chronic dermatitis due to solar radiation (with parent category “dermatitis due to solar radiation”), and seborrheic keratosis were found to be associated with all three PRS (Fig 1 and Table K in\nS1 File). “Diseases of sebaceous glands”, “sebaceous cyst”, and “scar conditions and fibrosis of skin” were associated with bPRS. mPRS was most strongly associated with the melanoma phenotype (OR 1.48, 95% CI [1.41, 1.56]), while bPRS was most strongly associated with basal cell carcinoma (OR 1.65, 95% CI [1.56, 1.75]) followed closely by “other non-epithelial cancer of the skin” (OR 1.39, 95% CI [1.34, 1.44]). sPRS was most strongly associated with overall skin cancer (OR 1.34, 95% CI [1.3, 1.38]).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Validation of PRS-PheWAS in UK Biobank\nTo substantiate the detected dermatologic associations, we reiterated the association screen of the three PRS in the matched phenome of the population-based UK Biobank data set (Fig 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "To substantiate the detected dermatologic associations, we reiterated the association screen of the three PRS in the matched phenome of the population-based UK Biobank data set (Fig 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig 2 shows the number of risk loci shared by different PRS.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These six underlying loci (HERC2 [MIM 605837] /OCA2 [MIM 611409], IRF4 [MIM 601900], MC1R [MIM 155555], RALY [MIM 614663], SLC45A2 [MIM 606202] and TYR [MIM 606933]) were previously found to be associated not only with skin cancer traits, but also with pigmentation traits of skin, eyes and hair (Fig 2; MIM 266300) [31, 49–68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig 2 shows the number of risk loci shared by different PRS.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These six underlying loci (HERC2 [MIM 605837] /OCA2 [MIM 611409], IRF4 [MIM 601900], MC1R [MIM 155555], RALY [MIM 614663], SLC45A2 [MIM 606202] and TYR [MIM 606933]) were previously found to be associated not only with skin cancer traits, but also with pigmentation traits of skin, eyes and hair (Fig 2; MIM 266300) [31, 49–68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "PRSweb shows PRS-PheWAS plots with various choices of PRS in the drop-down menu (example screenshot in Fig 3) and offers downloadable PRS constructs (list of independent risk variants with corresponding weights).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Mouse-over boxes offer detailed information about top results if needed, without impeding the overall user experience (grey box in Fig 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "PRSweb shows PRS-PheWAS plots with various choices of PRS in the drop-down menu (example screenshot in Fig 3) and offers downloadable PRS constructs (list of independent risk variants with corresponding weights).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Mouse-over boxes offer detailed information about top results if needed, without impeding the overall user experience (grey box in Fig 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 2,
+    "claims_count": 66,
+    "images_downloaded": 2,
+    "tables_filtered": 42
+  }
+}

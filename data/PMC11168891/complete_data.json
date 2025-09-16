@@ -1,0 +1,1360 @@
+{
+  "paper_id": "PMC11168891",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11168891/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Figure 1. Principle of the optical imaging techniques.",
+      "caption": "(a) PAI principle, adapted from [91]. (b) Resolution versus depth of penetration for various biomedical imaging modalities; PET: positron emission tomography, SPECT: single-photon emission computed tomography, MRI: magnetic resonance imaging, CT: computed tomography, US: ultrasound, PAT: photoacoustic tomography, OCT: optical coherence tomography, LOT: laminar optical tomography, CM: confocal microscopy, and MPM: multiphoton microscopy. Adapted from [92]. (c) Principle of Raman Imaging. Vibrational contrast (intrinsic) of different bonds. The gray line represents the Raman spectrum of a HeLa cell, spanning wavenumbers from 900 cm−1 to 3000 cm−1. (d) summary of biological applications of Raman imaging. Adapted from [93].",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/b59f4b9ac2ed/nihms-1979315-f0001.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/b59f4b9ac2ed/nihms-1979315-f0001.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/b59f4b9ac2ed/nihms-1979315-f0001.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/b59f4b9ac2ed/nihms-1979315-f0001.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/b59f4b9ac2ed/nihms-1979315-f0001.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11168891/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/b59f4b9ac2ed/nihms-1979315-f0001.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Figure 2. CARS imaging of brain tumors.",
+      "caption": "A: This CARS image shows a whole mouse brain section harboring an experimental human U87MG glioblastoma. Notably, the white matter tracts appear brighter, while the tumor (indicated by an arrow) appears darker than the surrounding normal brain tissue. Key areas are labeled: # for hippocampus, + for corpus callosum, ** for mesencephalon, and * for cerebellum. B: A magnified view of the region from image A. The difference in the CARS signal intensity between the neoplastic tissue and the surrounding white matter clearly delineates the tumor border. C: A CARS image depicting a breast cancer metastasis (induced by MCF-7 cells) in a mouse brain. D: A CARS image showing a melanoma metastasis (induced by A375 cells) in the hippocampal region of a mouse brain. E–H: Hematoxylin and Eosin (H&E) staining of consecutive sections corresponding to the areas shown in Images A–D. The arrowheads in these images point to the nuclei rich layers in the gray matter of the hippocampus. This imaging series, adapted from [60], demonstrates the utility of CARS imaging in distinguishing tumor boundaries and contrasting tissue types. (I–J) CARS images of astrocytoma in a mouse model. (I) A low resolution, large field of view mosaic CARS image providing chemically selective anatomical information. This overview captures the broad layout of the tumor and surrounding tissue. (J) A higher resolution CARS image of the area enclosed by the rectangle in (I). This detailed 175 x 175 μm image, taken at 80X magnification, reveals microscopic infiltration at the tumor-normal tissue interface. The level of precision is comparable to that of conventional fixed tissue with Hematoxylin and Eosin (H&E) histology images. Adapted from [58].",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/b4b0c3e84f7f/nihms-1979315-f0002.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/b4b0c3e84f7f/nihms-1979315-f0002.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/b4b0c3e84f7f/nihms-1979315-f0002.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/b4b0c3e84f7f/nihms-1979315-f0002.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/b4b0c3e84f7f/nihms-1979315-f0002.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11168891/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/b4b0c3e84f7f/nihms-1979315-f0002.jpg"
+    },
+    "figure_3": {
+      "figure_number": "Figure 3",
+      "title": "Figure 3. Comparative analysis of SRS and traditional microscopy imaging of brain tumors.",
+      "caption": "A. SRS imaging of a GBM (indicated by an arrowhead) shows ring enhancement on MRI. B. The hypercellularity and nuclear atypia of viable tumor tissue are apparent on both SRS (left) and H&E (right) microscopy. C. Tortuous vascular complexes, a result of microvascular proliferation, are clearly discernible in SRS microscopy (left, arrowheads) and are accentuated with periodic acid Schiff staining (right, arrowhead). D. Mitotic figures, indicative of active cell division, are visible in both SRS microscopy (left, arrowheads) and H&E staining (right, arrowheads). E-F. Imaging of a non-enhancing, low-grade oligodendroglioma (arrowhead in E) shows hypercellular tissue with nests of “fried-egg” morphology (arrowheads in F), This is minimally disruptive to axons as seen on SRS imaging (left in E and F) and confirmed with neurofilament immunostaining (right in E and F). G-H. The distinctive “chicken wire” pattern of blood vessels (arrowheads in G) is captured in both SRS (left) and H&E (right) microscopy. Perineuronal satellitosis is also clearly visible in both SRS (left in H) and H&E (right in H) microscopy. Images are adapted from [68].",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/654867b555ac/nihms-1979315-f0003.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/654867b555ac/nihms-1979315-f0003.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/654867b555ac/nihms-1979315-f0003.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/654867b555ac/nihms-1979315-f0003.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F3",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/654867b555ac/nihms-1979315-f0003.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11168891/images/figure_3.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/654867b555ac/nihms-1979315-f0003.jpg"
+    },
+    "figure_4": {
+      "figure_number": "Figure 4",
+      "title": "Figure 4. Creation of virtual histopathology images from SRS images.",
+      "caption": "SRS images of (a) CH2, and (b) CH3, (c) figure (a) and (b) subtracted, (d) CH2 image is assigned to the green channel and the subtracted image is assigned to the blue channel and overlapped to create a two-color blue-green image. (e) SRH image comparable to (f) H&E image of similar section of tumor. (g) Mosaic SRH image of different FOVs. Asterisk (*) depicts microvascular proliferation, dashed circle depicts calcification, and the dotted square is the FOV depicted in (e). Adapted from [70].",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/e9fec2330557/nihms-1979315-f0004.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/e9fec2330557/nihms-1979315-f0004.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/e9fec2330557/nihms-1979315-f0004.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/e9fec2330557/nihms-1979315-f0004.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F4",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/e9fec2330557/nihms-1979315-f0004.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11168891/images/figure_4.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ff00/11168891/e9fec2330557/nihms-1979315-f0004.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "This causes thermal expansion in the sample which generates acoustic waves detected by ultrasound (Figure 1A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "OCT perfectly bridges the gap between the high-resolution detail provided by microscopy techniques and the deeper penetration but lower resolution of clinical techniques like MRI and CT, balancing spatial resolution and penetration depth (Figure 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Raman microscopy\nSpontaneous Raman (SR) microscopy, based on the Raman effect, offers chemical and biomolecular insights by measuring the frequency shift of inelastically scattered light, corresponding to molecular vibrations (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Major CRS modalities include coherent anti-Stokes Raman scattering microscopy (CARS) and stimulated Raman scattering microscopy (SRS) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Due to its high resolution, CARS was able to detect microscopic infiltrations of normal white matter by invasive glioma (Figure 2 I-J).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "CARS has also been used to differentiate between various types of brain tumors such as glioblastoma (GBM), and brain metastases of melanoma and breast cancer in mouse models [60] (Figure 2 A-H).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "SRS has also been used to image human brain tumor infiltration in surgical specimens (Figure 3), identifying features of GBM and low-grade oligodendroglioma [68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The first clinical application of SRS used a fiber-based SRS microscope on unprocessed patient specimens and introduced SRH for virtual histological imaging [70] (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "This causes thermal expansion in the sample which generates acoustic waves detected by ultrasound (Figure 1A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "OCT perfectly bridges the gap between the high-resolution detail provided by microscopy techniques and the deeper penetration but lower resolution of clinical techniques like MRI and CT, balancing spatial resolution and penetration depth (Figure 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Raman microscopy\nSpontaneous Raman (SR) microscopy, based on the Raman effect, offers chemical and biomolecular insights by measuring the frequency shift of inelastically scattered light, corresponding to molecular vibrations (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Major CRS modalities include coherent anti-Stokes Raman scattering microscopy (CARS) and stimulated Raman scattering microscopy (SRS) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Due to its high resolution, CARS was able to detect microscopic infiltrations of normal white matter by invasive glioma (Figure 2 I-J).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "CARS has also been used to differentiate between various types of brain tumors such as glioblastoma (GBM), and brain metastases of melanoma and breast cancer in mouse models [60] (Figure 2 A-H).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "SRS has also been used to image human brain tumor infiltration in surgical specimens (Figure 3), identifying features of GBM and low-grade oligodendroglioma [68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The first clinical application of SRS used a fiber-based SRS microscope on unprocessed patient specimens and introduced SRH for virtual histological imaging [70] (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "This causes thermal expansion in the sample which generates acoustic waves detected by ultrasound (Figure 1A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "OCT perfectly bridges the gap between the high-resolution detail provided by microscopy techniques and the deeper penetration but lower resolution of clinical techniques like MRI and CT, balancing spatial resolution and penetration depth (Figure 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Raman microscopy\nSpontaneous Raman (SR) microscopy, based on the Raman effect, offers chemical and biomolecular insights by measuring the frequency shift of inelastically scattered light, corresponding to molecular vibrations (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Major CRS modalities include coherent anti-Stokes Raman scattering microscopy (CARS) and stimulated Raman scattering microscopy (SRS) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Due to its high resolution, CARS was able to detect microscopic infiltrations of normal white matter by invasive glioma (Figure 2 I-J).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "CARS has also been used to differentiate between various types of brain tumors such as glioblastoma (GBM), and brain metastases of melanoma and breast cancer in mouse models [60] (Figure 2 A-H).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "SRS has also been used to image human brain tumor infiltration in surgical specimens (Figure 3), identifying features of GBM and low-grade oligodendroglioma [68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The first clinical application of SRS used a fiber-based SRS microscope on unprocessed patient specimens and introduced SRH for virtual histological imaging [70] (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "This causes thermal expansion in the sample which generates acoustic waves detected by ultrasound (Figure 1A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "OCT perfectly bridges the gap between the high-resolution detail provided by microscopy techniques and the deeper penetration but lower resolution of clinical techniques like MRI and CT, balancing spatial resolution and penetration depth (Figure 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Raman microscopy\nSpontaneous Raman (SR) microscopy, based on the Raman effect, offers chemical and biomolecular insights by measuring the frequency shift of inelastically scattered light, corresponding to molecular vibrations (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Major CRS modalities include coherent anti-Stokes Raman scattering microscopy (CARS) and stimulated Raman scattering microscopy (SRS) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Due to its high resolution, CARS was able to detect microscopic infiltrations of normal white matter by invasive glioma (Figure 2 I-J).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "CARS has also been used to differentiate between various types of brain tumors such as glioblastoma (GBM), and brain metastases of melanoma and breast cancer in mouse models [60] (Figure 2 A-H).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "SRS has also been used to image human brain tumor infiltration in surgical specimens (Figure 3), identifying features of GBM and low-grade oligodendroglioma [68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The first clinical application of SRS used a fiber-based SRS microscope on unprocessed patient specimens and introduced SRH for virtual histological imaging [70] (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "This causes thermal expansion in the sample which generates acoustic waves detected by ultrasound (Figure 1A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "OCT perfectly bridges the gap between the high-resolution detail provided by microscopy techniques and the deeper penetration but lower resolution of clinical techniques like MRI and CT, balancing spatial resolution and penetration depth (Figure 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Raman microscopy\nSpontaneous Raman (SR) microscopy, based on the Raman effect, offers chemical and biomolecular insights by measuring the frequency shift of inelastically scattered light, corresponding to molecular vibrations (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Major CRS modalities include coherent anti-Stokes Raman scattering microscopy (CARS) and stimulated Raman scattering microscopy (SRS) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Due to its high resolution, CARS was able to detect microscopic infiltrations of normal white matter by invasive glioma (Figure 2 I-J).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "CARS has also been used to differentiate between various types of brain tumors such as glioblastoma (GBM), and brain metastases of melanoma and breast cancer in mouse models [60] (Figure 2 A-H).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "SRS has also been used to image human brain tumor infiltration in surgical specimens (Figure 3), identifying features of GBM and low-grade oligodendroglioma [68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The first clinical application of SRS used a fiber-based SRS microscope on unprocessed patient specimens and introduced SRH for virtual histological imaging [70] (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "This causes thermal expansion in the sample which generates acoustic waves detected by ultrasound (Figure 1A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "OCT perfectly bridges the gap between the high-resolution detail provided by microscopy techniques and the deeper penetration but lower resolution of clinical techniques like MRI and CT, balancing spatial resolution and penetration depth (Figure 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Raman microscopy\nSpontaneous Raman (SR) microscopy, based on the Raman effect, offers chemical and biomolecular insights by measuring the frequency shift of inelastically scattered light, corresponding to molecular vibrations (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Major CRS modalities include coherent anti-Stokes Raman scattering microscopy (CARS) and stimulated Raman scattering microscopy (SRS) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Due to its high resolution, CARS was able to detect microscopic infiltrations of normal white matter by invasive glioma (Figure 2 I-J).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "CARS has also been used to differentiate between various types of brain tumors such as glioblastoma (GBM), and brain metastases of melanoma and breast cancer in mouse models [60] (Figure 2 A-H).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "SRS has also been used to image human brain tumor infiltration in surgical specimens (Figure 3), identifying features of GBM and low-grade oligodendroglioma [68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The first clinical application of SRS used a fiber-based SRS microscope on unprocessed patient specimens and introduced SRH for virtual histological imaging [70] (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "This causes thermal expansion in the sample which generates acoustic waves detected by ultrasound (Figure 1A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "OCT perfectly bridges the gap between the high-resolution detail provided by microscopy techniques and the deeper penetration but lower resolution of clinical techniques like MRI and CT, balancing spatial resolution and penetration depth (Figure 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Raman microscopy\nSpontaneous Raman (SR) microscopy, based on the Raman effect, offers chemical and biomolecular insights by measuring the frequency shift of inelastically scattered light, corresponding to molecular vibrations (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Major CRS modalities include coherent anti-Stokes Raman scattering microscopy (CARS) and stimulated Raman scattering microscopy (SRS) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Due to its high resolution, CARS was able to detect microscopic infiltrations of normal white matter by invasive glioma (Figure 2 I-J).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "CARS has also been used to differentiate between various types of brain tumors such as glioblastoma (GBM), and brain metastases of melanoma and breast cancer in mouse models [60] (Figure 2 A-H).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "SRS has also been used to image human brain tumor infiltration in surgical specimens (Figure 3), identifying features of GBM and low-grade oligodendroglioma [68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The first clinical application of SRS used a fiber-based SRS microscope on unprocessed patient specimens and introduced SRH for virtual histological imaging [70] (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "This causes thermal expansion in the sample which generates acoustic waves detected by ultrasound (Figure 1A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "OCT perfectly bridges the gap between the high-resolution detail provided by microscopy techniques and the deeper penetration but lower resolution of clinical techniques like MRI and CT, balancing spatial resolution and penetration depth (Figure 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Raman microscopy\nSpontaneous Raman (SR) microscopy, based on the Raman effect, offers chemical and biomolecular insights by measuring the frequency shift of inelastically scattered light, corresponding to molecular vibrations (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Major CRS modalities include coherent anti-Stokes Raman scattering microscopy (CARS) and stimulated Raman scattering microscopy (SRS) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Due to its high resolution, CARS was able to detect microscopic infiltrations of normal white matter by invasive glioma (Figure 2 I-J).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "CARS has also been used to differentiate between various types of brain tumors such as glioblastoma (GBM), and brain metastases of melanoma and breast cancer in mouse models [60] (Figure 2 A-H).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "SRS has also been used to image human brain tumor infiltration in surgical specimens (Figure 3), identifying features of GBM and low-grade oligodendroglioma [68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The first clinical application of SRS used a fiber-based SRS microscope on unprocessed patient specimens and introduced SRH for virtual histological imaging [70] (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "This causes thermal expansion in the sample which generates acoustic waves detected by ultrasound (Figure 1A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "This causes thermal expansion in the sample which generates acoustic waves detected by ultrasound (Figure 1A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "OCT perfectly bridges the gap between the high-resolution detail provided by microscopy techniques and the deeper penetration but lower resolution of clinical techniques like MRI and CT, balancing spatial resolution and penetration depth (Figure 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "OCT perfectly bridges the gap between the high-resolution detail provided by microscopy techniques and the deeper penetration but lower resolution of clinical techniques like MRI and CT, balancing spatial resolution and penetration depth (Figure 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Raman microscopy\nSpontaneous Raman (SR) microscopy, based on the Raman effect, offers chemical and biomolecular insights by measuring the frequency shift of inelastically scattered light, corresponding to molecular vibrations (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Major CRS modalities include coherent anti-Stokes Raman scattering microscopy (CARS) and stimulated Raman scattering microscopy (SRS) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Due to its high resolution, CARS was able to detect microscopic infiltrations of normal white matter by invasive glioma (Figure 2 I-J).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "CARS has also been used to differentiate between various types of brain tumors such as glioblastoma (GBM), and brain metastases of melanoma and breast cancer in mouse models [60] (Figure 2 A-H).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "SRS has also been used to image human brain tumor infiltration in surgical specimens (Figure 3), identifying features of GBM and low-grade oligodendroglioma [68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The first clinical application of SRS used a fiber-based SRS microscope on unprocessed patient specimens and introduced SRH for virtual histological imaging [70] (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Raman microscopy\nSpontaneous Raman (SR) microscopy, based on the Raman effect, offers chemical and biomolecular insights by measuring the frequency shift of inelastically scattered light, corresponding to molecular vibrations (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Spontaneous Raman (SR) microscopy, based on the Raman effect, offers chemical and biomolecular insights by measuring the frequency shift of inelastically scattered light, corresponding to molecular vibrations (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Major CRS modalities include coherent anti-Stokes Raman scattering microscopy (CARS) and stimulated Raman scattering microscopy (SRS) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Due to its high resolution, CARS was able to detect microscopic infiltrations of normal white matter by invasive glioma (Figure 2 I-J).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "CARS has also been used to differentiate between various types of brain tumors such as glioblastoma (GBM), and brain metastases of melanoma and breast cancer in mouse models [60] (Figure 2 A-H).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "SRS has also been used to image human brain tumor infiltration in surgical specimens (Figure 3), identifying features of GBM and low-grade oligodendroglioma [68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The first clinical application of SRS used a fiber-based SRS microscope on unprocessed patient specimens and introduced SRH for virtual histological imaging [70] (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Major CRS modalities include coherent anti-Stokes Raman scattering microscopy (CARS) and stimulated Raman scattering microscopy (SRS) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Due to its high resolution, CARS was able to detect microscopic infiltrations of normal white matter by invasive glioma (Figure 2 I-J).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "CARS has also been used to differentiate between various types of brain tumors such as glioblastoma (GBM), and brain metastases of melanoma and breast cancer in mouse models [60] (Figure 2 A-H).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Due to its high resolution, CARS was able to detect microscopic infiltrations of normal white matter by invasive glioma (Figure 2 I-J).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "CARS has also been used to differentiate between various types of brain tumors such as glioblastoma (GBM), and brain metastases of melanoma and breast cancer in mouse models [60] (Figure 2 A-H).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "SRS has also been used to image human brain tumor infiltration in surgical specimens (Figure 3), identifying features of GBM and low-grade oligodendroglioma [68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The first clinical application of SRS used a fiber-based SRS microscope on unprocessed patient specimens and introduced SRH for virtual histological imaging [70] (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "SRS has also been used to image human brain tumor infiltration in surgical specimens (Figure 3), identifying features of GBM and low-grade oligodendroglioma [68].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The first clinical application of SRS used a fiber-based SRS microscope on unprocessed patient specimens and introduced SRH for virtual histological imaging [70] (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 4,
+    "claims_count": 90,
+    "images_downloaded": 4,
+    "tables_filtered": 16
+  }
+}

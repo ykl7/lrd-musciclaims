@@ -1,0 +1,3587 @@
+[
+  {
+    "sentence": "To address whether a population of PROM1+ cells with quiescent feature exist in human brain cancer, we reanalyzed the single cell dataset15, consisting of the expression profiles of 7930 high-quality cells, 5742 from adult and 2188 from pediatric tumors (Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Among these cells, 6863 were defined as malignant based on the presence of chromosomal copy number aberrations15 (Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "By measuring the expression of PROM1 in malignant cells, we observed higher levels in cells from pediatric glioblastomas (Fig. 1b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Based on the expression levels of known cell-cycle related genes, in particular two modules associated with G1/S and G2/M phases (Supplementary Fig. 1a–c, Methods), malignant cells were further classified into cycling and non-cycling (including quiescent cells), 3671 and 3192 respectively (Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Combining this classification with the expression of PROM1, we identified a population of non-cycling PROM1+ cells, amounting to 11% of adult and 16% (313 cells) of pediatric malignant glioblastoma cells (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pediatric non-cycling PROM1+ cells were further classified according to the expression of other putative glioma stem cells marker such as SOX2 and OLIG2: 54% expressed both markers, 32% only SOX2, 6% only OLIG2, and 8% neither (Fig. 1e, right).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "To further characterize the population of 313 malignant non-cycling PROM1+ cells from pediatric glioblastomas, we compared their expression levels with 548 non-cycling PROM1- cells (Fig. 1f, upper panel, Supplementary Data 1), and with 523 cycling PROM1+ cells (Fig. 1f lower panel, Supplementary Data 2) and we identified specific sets of marker genes (Fig. 1g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel g",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel g",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel g",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Cycling PROM1+ cells, when compared to non-cycling cells, displayed higher expression of genes related with cell cycle programs (Fig. 1h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel h",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel h",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel h",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Importantly, non-cycling PROM1+ cells, compared to PROM1- cells, were characterized by high expression of genes associated with cell adhesion and spreading programs (Fig. 1i).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel i",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel i",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel i",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We first validated the system in neural stem cells (NSCs) of normal mouse brain where mVenus-p27K− (Venus-p27) expression was controlled by the promoters of two genes expressed in quiescent stem cells: mouse Prom1 promoter14 (Prom1-Venus-p27) or human SOX2 promoter20 (Sox2-Venus-p27) (Supplementary Fig. 2a, b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Afterwards, we confirmed the specificity of mouse Prom1 promoter by electroporating the cells in the subventricular zone (SVZ) of newborn Prom1-CreERT2 knock-in mice with two vectors expressing mVenus under the control of CreERT2 activity and mCherry expression under the control of Prom1 promoter, respectively (Supplementary Fig. 2c–e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel c",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We also confirmed the specificity of the human SOX2 minimal promoter in targeting SOX2+ cells (Supplementary Fig. 2f, g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel f",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We next checked whether the mVenus-p27K− biosensor labels quiescent Prom1+ or Sox2+ cells in the SVZ of mouse brain (Supplementary Fig. 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "First, we found the absence of the proliferation marker Ki67 in 98.2% and 98.7% of Prom1-Venus-p27+ (qProm1) or Sox2-Venus-p27+(qSox2) cells (Supplementary Fig. 3b, c), respectively.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Because cells in early G1 might not express high level of Ki67, we confirmed that qProm1 or qSox2 cells respectively did not incorporate 5-ethynyl-2′-deoxyuridine (EdU) when injected 24 h (Supplementary Fig. 3d-f) or 7 days (Supplementary Fig. 3g-i) prior to sacrifice.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel d",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel g",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To do so, brain cancer was induced by overexpression of a ligand-independent form of human MET (TPR-MET) and mutant TP5321,22 (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We found that the combination of both TPR-MET and p53R273C (TP-Cherry) led to the formation of highly aggressive and lethal tumors (Fig. 2b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "This was confirmed by RNA-seq analysis, showing high similarity to the transcriptomes of published mouse brain tumors23 (Supplementary Fig. 4a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The co-expression of Prom1-Venus-p27 revealed the presence of qProm1 cells across the whole tumor as in tumor core and infiltrating edge (Fig. 2c, d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel c",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Firstly, we found that the marker of proliferation Ki67 was not detected in 98.3% of qProm1 (Fig. 2d, e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel d",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Similarly, 99.8% of qSox2 cells were negative for Ki67 (Supplementary Fig. 4b–d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, we confirmed that only 0.7% of qProm1 cells incorporated EdU within 24 h pulse period (Fig. 2f, g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel f",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Afterwards, we confirmed that qProm1 (Fig. 2h–k) and also qSox2 (Supplementary Fig. 4e–h) cells expressed two non-specific glioma stem cell (GSC) markers such as SOX224 and OLIG225,26.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel h",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel e",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We observed that about half of qProm1 cells express also SOX2, suggesting the possible co-existence of two different quiescent populations, Prom1+/SOX2+ and Prom1+/SOX2- (Fig. 2h, i), as also observed in human brain tumor samples (Fig. 1e). qProm1 (Fig. 2j, k) cells rarely expressed OLIG2 in the infiltrating edge.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel h",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel j",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The analysis of N-Cadherin expression together with the observation of cell shape suggests a mesenchymal-like morphology of qProm1 cells located in the infiltrating edge (Fig. 2l, Supplementary Movie 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel l",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Indeed, qProm1 cells showed a typical epithelial cobblestone morphology in the core, while they adopted an elongated shape with a strong accumulation of N-cadherin at the cell-cell contact in the infiltrating edge (Fig. 2l).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel l",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel l",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel l",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The specificity of the approach was confirmed by EdU incorporation demonstrating that our system labels cell progeny of quiescent cells (Supplementary Fig. 5a–c); moreover following lineage tracing 96.5% of qProm1-derived cells were positive for SOX2 in normal mouse SVZ (Supplementary Fig. 5d–f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Mice were treated with Temozolomide (TMZ) for 5 days followed by 7 days labeling of qProm1 cells with Tamoxifen (Tam) (Fig. 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Firstly, we confirmed lack of mVenus+ cells in absence of Tamoxifen (Supplementary Fig. 6a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "To obtain an unbiased characterization, we analyzed the whole brain section, measuring the areas of brain (DAPI+) and tumor (mCherry+) (Fig. 3b and Supplementary Fig. 6b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "As expected, we confirmed the efficacy of TMZ treatment on reducing tumor size, as well as the consequent fast relapse after chemotherapy administration (Fig. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In TMZ-treated mice, we did not observe significant differences with respect to the DMSO control group (Fig. 3c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, we did not observe any significant difference between DMSO or TMZ treatments (Fig. 3d, e and Supplementary Fig. 6c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel d",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We rarely observed Venus+/NeuN+ and, as expected, they were mainly Ki67- (Supplementary Fig. 6d, e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, when we analyzed the proliferation rate of Venus+/Sox2+ cells, we observed they were mostly Ki67- with no difference with respect to both DMSO or TMZ groups (Supplementary Fig. 6f, g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel f",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We then analyzed the distribution of the glioma stem cell marker OLIG2 (Fig. 3f) observing a statistically significant increase only in the core of TMZ-treated mice over time (Fig. 3g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel f",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel g",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel f",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel g",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel f",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel g",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The efficiency of ablation was verified in newborn SVZ with DTA-p27 (Supplementary Fig. 7a), revealing the absence of qProm1 cells (Supplementary Fig. 7b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel a",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "We also validated DTA-mediated ablation in qSox2 cells (Supplementary Fig. 7d-f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel d",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Afterwards we checked the presence of qProm1 cells in TP-induced tumors in absence or presence of DTA-p27 (Fig. 4a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Mice were sacrificed at P45 and brain sections were histologically analyzed (Fig. 4b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Compared to control mice, the co-injection of DTA-p27 led to an overall increased survival (median survival days: 56 for control vs 78 for +Prom1-DTA-p27 group) (Fig. 4c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, a reduced number of qProm1 cells (Fig. 4d) was accompanied with a smaller tumor size (Fig. 4e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel d",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel e",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel d",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel e",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel d",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel e",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, we also observed a strong reduction of tumor infiltrated cells (Fig. 4f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel f",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel f",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel f",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "To investigate the effect of the depletion of qProm1 cells when the tumor is already formed, we electroporated newborn mice with TP-Cherry and with plasmids expressing DTA under the control of Prom1-CreERT2-p27K− (Fig. 4g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel g",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel g",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel g",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This enabled to control the DTA-mediated ablation of qProm1 cells by injection of Tamoxifen from P17 to P45 (Fig. 4g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel g",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel g",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel g",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The analysis of brain sections confirmed a reduction of qProm1 population (Fig. 4h, i), but the tumor size was surprisingly increased (Fig. 4j) upon tamoxifen injection.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel h",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel j",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel j",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel j",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, the ablation of qProm1 cells led to a reduction of infiltrating cells (Fig. 4k).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel k",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel k",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel k",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "TP-Cherry was electroporated in dorsal forebrain organoids differentiated from human induced pluripotent stem cells (hiPSCs) (Fig. 5a)27.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Live imaging of 30 days-post electroporation (30 dpe) organoids showed a more diffuse mCherry+ fluorescence compared with the control (Fig. 5b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Histological characterization of the organoids confirmed that electroporation with TP-Cherry led to an increase in proliferating cells (Fig. 5c, d) as well as stem cell marker SOX2 (Supplementary Fig. 8a, b) and a reduction in neuronal marker NeuN (Supplementary Fig. 8c, d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "To perform live imaging of the quiescent cells, we decided to drive Venus-p27expression under the control of a strong and ubiquitous promoter, such as CAG (Fig. 5e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel e",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel e",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel e",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We found that 89.2% of the quiescent mCherry+/mVenus+ cells co-expressed SOX2 (Supplementary Fig. 8e, f) and that 95.2% of mCherry+/mVenus+ cells were negative for proliferation marker Ki67 (Fig. 5f, g) confirming the visualization of slow-cycling/quiescent cells in brain cancer organoids.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel e",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel f",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Since we used an ubiquitous promoter, we showed that mVenus labels mainly SOX2+ or S100B+ progenitor cells (Supplementary Fig. 8e–h) and a few NeuN+ neuronal cells (Supplementary Fig. 8i, j).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel e",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel i",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "We further characterized the infiltrative potential of those cells in vivo after grafting of TP-mCherry/mVenus-p27 electroporated organoids in the brain of nude mice (Fig. 5h–k, Supplementary Movie 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel h",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, we confirmed in grafted organoids that Venus labels mainly S100B+ progenitor cells (Supplementary Fig. 8k, l) rather than NeuN+ neuronal cells (Supplementary Fig. 8m, n).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel k",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel m",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, we also compared the transcriptome profiles of TP organoid-derived tumors and TP-induced mouse tumors (Fig. 2) with human adult and pediatric low- and high-grade brain cancers (Fig. 5l).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel l",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel l",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel l",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, both types of TP-induced tumors (organoid and mouse) clustered with pediatric high-grade glioma, with respect to other types of brain cancers (Fig. 5l).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel l",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel l",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel l",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Afterwards, we performed live imaging of TP-Cherry/Venus-p27 co-cultured with non-electroporated brain organoids (Host) (Supplementary Fig. 8o, p), which revealed the infiltration of mCherry+/mVenus+ cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel o",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "We also confirmed the infiltration of mCherry+/mVenus+/Ki67- cells in the cryosections of the co-cultured organoids (Supplementary Fig. 8q, r).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel q",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Finally, we grafted TP-organoids co-electroporated with DTA-p27 to assay the effect of ablating quiescent cells in the infiltration of TP-Cherry-derived cells (Fig. 5m).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel m",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel m",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel m",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The co-expression of DTA-p27 in TP-organoids led to a reduction in the infiltration of tumor cells (Fig. 5n, o).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel n",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We treated TP-mCherry (+ Venus-p27) organoids with two DYRK1A/B inhibitors (AZ191 and Harmine) and other drugs previously used to ablate cell quiescence or to inhibit EMT30 (Fig. 6a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Analysis of mCherry and mVenus positive area and intensity showed that Harmine and Simvastatin led to a reduction of mVenus signal compared with controls (Fig. 6b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We next tested the effects of the compounds on GB7 cancer stem cells (Fig. 6d, e and Supplementary Fig. 9a, b) and COMI cell lines (Supplementary Fig. 8c–g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel a",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "To do so, we electroporated both lines with the same pPB plasmids described in the manuscript encoding for mCherry and Venus-p27 to allow imaging and analysis of the change in cell number and impact of the drugs on quiescent cells (Fig. 6d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We observed that Harmine consistently reduces quiescent cells when tested on both GB7 (Fig. 6e, f) and COMI (Supplementary Fig. 9c-g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel e",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel c",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "We next sought to test whether the treatment with Harmine, along with reducing quiescent cells, affects the invasiveness of GBM lines cancer stem cells (Fig. 6g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel g",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel g",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel g",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Here, we show that Harmine treatment is indeed able to reduce the degree of invasion of GB7 spheroids (Fig. 6h, i).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel h",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "To address whether a population of PROM1+ cells with quiescent feature exist in human brain cancer, we reanalyzed the single cell dataset15, consisting of the expression profiles of 7930 high-quality cells, 5742 from adult and 2188 from pediatric tumors (Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Among these cells, 6863 were defined as malignant based on the presence of chromosomal copy number aberrations15 (Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "By measuring the expression of PROM1 in malignant cells, we observed higher levels in cells from pediatric glioblastomas (Fig. 1b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Based on the expression levels of known cell-cycle related genes, in particular two modules associated with G1/S and G2/M phases (Supplementary Fig. 1a–c, Methods), malignant cells were further classified into cycling and non-cycling (including quiescent cells), 3671 and 3192 respectively (Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Combining this classification with the expression of PROM1, we identified a population of non-cycling PROM1+ cells, amounting to 11% of adult and 16% (313 cells) of pediatric malignant glioblastoma cells (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pediatric non-cycling PROM1+ cells were further classified according to the expression of other putative glioma stem cells marker such as SOX2 and OLIG2: 54% expressed both markers, 32% only SOX2, 6% only OLIG2, and 8% neither (Fig. 1e, right).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "To further characterize the population of 313 malignant non-cycling PROM1+ cells from pediatric glioblastomas, we compared their expression levels with 548 non-cycling PROM1- cells (Fig. 1f, upper panel, Supplementary Data 1), and with 523 cycling PROM1+ cells (Fig. 1f lower panel, Supplementary Data 2) and we identified specific sets of marker genes (Fig. 1g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel g",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel g",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel g",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Cycling PROM1+ cells, when compared to non-cycling cells, displayed higher expression of genes related with cell cycle programs (Fig. 1h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel h",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel h",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel h",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Importantly, non-cycling PROM1+ cells, compared to PROM1- cells, were characterized by high expression of genes associated with cell adhesion and spreading programs (Fig. 1i).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel i",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel i",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel i",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "To address whether a population of PROM1+ cells with quiescent feature exist in human brain cancer, we reanalyzed the single cell dataset15, consisting of the expression profiles of 7930 high-quality cells, 5742 from adult and 2188 from pediatric tumors (Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Among these cells, 6863 were defined as malignant based on the presence of chromosomal copy number aberrations15 (Fig. 1a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "By measuring the expression of PROM1 in malignant cells, we observed higher levels in cells from pediatric glioblastomas (Fig. 1b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Based on the expression levels of known cell-cycle related genes, in particular two modules associated with G1/S and G2/M phases (Supplementary Fig. 1a–c, Methods), malignant cells were further classified into cycling and non-cycling (including quiescent cells), 3671 and 3192 respectively (Fig. 1d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel d",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Combining this classification with the expression of PROM1, we identified a population of non-cycling PROM1+ cells, amounting to 11% of adult and 16% (313 cells) of pediatric malignant glioblastoma cells (Fig. 1e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pediatric non-cycling PROM1+ cells were further classified according to the expression of other putative glioma stem cells marker such as SOX2 and OLIG2: 54% expressed both markers, 32% only SOX2, 6% only OLIG2, and 8% neither (Fig. 1e, right).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "To further characterize the population of 313 malignant non-cycling PROM1+ cells from pediatric glioblastomas, we compared their expression levels with 548 non-cycling PROM1- cells (Fig. 1f, upper panel, Supplementary Data 1), and with 523 cycling PROM1+ cells (Fig. 1f lower panel, Supplementary Data 2) and we identified specific sets of marker genes (Fig. 1g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel f",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel g",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel g",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel g",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Cycling PROM1+ cells, when compared to non-cycling cells, displayed higher expression of genes related with cell cycle programs (Fig. 1h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel h",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel h",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel h",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Importantly, non-cycling PROM1+ cells, compared to PROM1- cells, were characterized by high expression of genes associated with cell adhesion and spreading programs (Fig. 1i).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel i",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel i",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel i",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We first validated the system in neural stem cells (NSCs) of normal mouse brain where mVenus-p27K− (Venus-p27) expression was controlled by the promoters of two genes expressed in quiescent stem cells: mouse Prom1 promoter14 (Prom1-Venus-p27) or human SOX2 promoter20 (Sox2-Venus-p27) (Supplementary Fig. 2a, b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Afterwards, we confirmed the specificity of mouse Prom1 promoter by electroporating the cells in the subventricular zone (SVZ) of newborn Prom1-CreERT2 knock-in mice with two vectors expressing mVenus under the control of CreERT2 activity and mCherry expression under the control of Prom1 promoter, respectively (Supplementary Fig. 2c–e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel c",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We also confirmed the specificity of the human SOX2 minimal promoter in targeting SOX2+ cells (Supplementary Fig. 2f, g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel f",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We next checked whether the mVenus-p27K− biosensor labels quiescent Prom1+ or Sox2+ cells in the SVZ of mouse brain (Supplementary Fig. 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "First, we found the absence of the proliferation marker Ki67 in 98.2% and 98.7% of Prom1-Venus-p27+ (qProm1) or Sox2-Venus-p27+(qSox2) cells (Supplementary Fig. 3b, c), respectively.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Because cells in early G1 might not express high level of Ki67, we confirmed that qProm1 or qSox2 cells respectively did not incorporate 5-ethynyl-2′-deoxyuridine (EdU) when injected 24 h (Supplementary Fig. 3d-f) or 7 days (Supplementary Fig. 3g-i) prior to sacrifice.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel d",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel g",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To do so, brain cancer was induced by overexpression of a ligand-independent form of human MET (TPR-MET) and mutant TP5321,22 (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We found that the combination of both TPR-MET and p53R273C (TP-Cherry) led to the formation of highly aggressive and lethal tumors (Fig. 2b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "This was confirmed by RNA-seq analysis, showing high similarity to the transcriptomes of published mouse brain tumors23 (Supplementary Fig. 4a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The co-expression of Prom1-Venus-p27 revealed the presence of qProm1 cells across the whole tumor as in tumor core and infiltrating edge (Fig. 2c, d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel c",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Firstly, we found that the marker of proliferation Ki67 was not detected in 98.3% of qProm1 (Fig. 2d, e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel d",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Similarly, 99.8% of qSox2 cells were negative for Ki67 (Supplementary Fig. 4b–d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, we confirmed that only 0.7% of qProm1 cells incorporated EdU within 24 h pulse period (Fig. 2f, g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel f",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Afterwards, we confirmed that qProm1 (Fig. 2h–k) and also qSox2 (Supplementary Fig. 4e–h) cells expressed two non-specific glioma stem cell (GSC) markers such as SOX224 and OLIG225,26.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel h",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel e",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We observed that about half of qProm1 cells express also SOX2, suggesting the possible co-existence of two different quiescent populations, Prom1+/SOX2+ and Prom1+/SOX2- (Fig. 2h, i), as also observed in human brain tumor samples (Fig. 1e). qProm1 (Fig. 2j, k) cells rarely expressed OLIG2 in the infiltrating edge.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel h",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel j",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The analysis of N-Cadherin expression together with the observation of cell shape suggests a mesenchymal-like morphology of qProm1 cells located in the infiltrating edge (Fig. 2l, Supplementary Movie 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel l",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Indeed, qProm1 cells showed a typical epithelial cobblestone morphology in the core, while they adopted an elongated shape with a strong accumulation of N-cadherin at the cell-cell contact in the infiltrating edge (Fig. 2l).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel l",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel l",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel l",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We first validated the system in neural stem cells (NSCs) of normal mouse brain where mVenus-p27K− (Venus-p27) expression was controlled by the promoters of two genes expressed in quiescent stem cells: mouse Prom1 promoter14 (Prom1-Venus-p27) or human SOX2 promoter20 (Sox2-Venus-p27) (Supplementary Fig. 2a, b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Afterwards, we confirmed the specificity of mouse Prom1 promoter by electroporating the cells in the subventricular zone (SVZ) of newborn Prom1-CreERT2 knock-in mice with two vectors expressing mVenus under the control of CreERT2 activity and mCherry expression under the control of Prom1 promoter, respectively (Supplementary Fig. 2c–e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel c",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We also confirmed the specificity of the human SOX2 minimal promoter in targeting SOX2+ cells (Supplementary Fig. 2f, g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel f",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We next checked whether the mVenus-p27K− biosensor labels quiescent Prom1+ or Sox2+ cells in the SVZ of mouse brain (Supplementary Fig. 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "First, we found the absence of the proliferation marker Ki67 in 98.2% and 98.7% of Prom1-Venus-p27+ (qProm1) or Sox2-Venus-p27+(qSox2) cells (Supplementary Fig. 3b, c), respectively.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Because cells in early G1 might not express high level of Ki67, we confirmed that qProm1 or qSox2 cells respectively did not incorporate 5-ethynyl-2′-deoxyuridine (EdU) when injected 24 h (Supplementary Fig. 3d-f) or 7 days (Supplementary Fig. 3g-i) prior to sacrifice.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel d",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel g",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To do so, brain cancer was induced by overexpression of a ligand-independent form of human MET (TPR-MET) and mutant TP5321,22 (Fig. 2a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We found that the combination of both TPR-MET and p53R273C (TP-Cherry) led to the formation of highly aggressive and lethal tumors (Fig. 2b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel b",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "This was confirmed by RNA-seq analysis, showing high similarity to the transcriptomes of published mouse brain tumors23 (Supplementary Fig. 4a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The co-expression of Prom1-Venus-p27 revealed the presence of qProm1 cells across the whole tumor as in tumor core and infiltrating edge (Fig. 2c, d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel c",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Firstly, we found that the marker of proliferation Ki67 was not detected in 98.3% of qProm1 (Fig. 2d, e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel d",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Similarly, 99.8% of qSox2 cells were negative for Ki67 (Supplementary Fig. 4b–d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, we confirmed that only 0.7% of qProm1 cells incorporated EdU within 24 h pulse period (Fig. 2f, g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel f",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Afterwards, we confirmed that qProm1 (Fig. 2h–k) and also qSox2 (Supplementary Fig. 4e–h) cells expressed two non-specific glioma stem cell (GSC) markers such as SOX224 and OLIG225,26.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel h",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel e",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We observed that about half of qProm1 cells express also SOX2, suggesting the possible co-existence of two different quiescent populations, Prom1+/SOX2+ and Prom1+/SOX2- (Fig. 2h, i), as also observed in human brain tumor samples (Fig. 1e). qProm1 (Fig. 2j, k) cells rarely expressed OLIG2 in the infiltrating edge.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel h",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel j",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel e",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The analysis of N-Cadherin expression together with the observation of cell shape suggests a mesenchymal-like morphology of qProm1 cells located in the infiltrating edge (Fig. 2l, Supplementary Movie 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel l",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Indeed, qProm1 cells showed a typical epithelial cobblestone morphology in the core, while they adopted an elongated shape with a strong accumulation of N-cadherin at the cell-cell contact in the infiltrating edge (Fig. 2l).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel l",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel l",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel l",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The specificity of the approach was confirmed by EdU incorporation demonstrating that our system labels cell progeny of quiescent cells (Supplementary Fig. 5a–c); moreover following lineage tracing 96.5% of qProm1-derived cells were positive for SOX2 in normal mouse SVZ (Supplementary Fig. 5d–f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Mice were treated with Temozolomide (TMZ) for 5 days followed by 7 days labeling of qProm1 cells with Tamoxifen (Tam) (Fig. 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Firstly, we confirmed lack of mVenus+ cells in absence of Tamoxifen (Supplementary Fig. 6a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "To obtain an unbiased characterization, we analyzed the whole brain section, measuring the areas of brain (DAPI+) and tumor (mCherry+) (Fig. 3b and Supplementary Fig. 6b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "As expected, we confirmed the efficacy of TMZ treatment on reducing tumor size, as well as the consequent fast relapse after chemotherapy administration (Fig. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In TMZ-treated mice, we did not observe significant differences with respect to the DMSO control group (Fig. 3c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, we did not observe any significant difference between DMSO or TMZ treatments (Fig. 3d, e and Supplementary Fig. 6c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel d",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We rarely observed Venus+/NeuN+ and, as expected, they were mainly Ki67- (Supplementary Fig. 6d, e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, when we analyzed the proliferation rate of Venus+/Sox2+ cells, we observed they were mostly Ki67- with no difference with respect to both DMSO or TMZ groups (Supplementary Fig. 6f, g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel f",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We then analyzed the distribution of the glioma stem cell marker OLIG2 (Fig. 3f) observing a statistically significant increase only in the core of TMZ-treated mice over time (Fig. 3g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel f",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel g",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel f",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel g",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel f",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel g",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The specificity of the approach was confirmed by EdU incorporation demonstrating that our system labels cell progeny of quiescent cells (Supplementary Fig. 5a–c); moreover following lineage tracing 96.5% of qProm1-derived cells were positive for SOX2 in normal mouse SVZ (Supplementary Fig. 5d–f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Mice were treated with Temozolomide (TMZ) for 5 days followed by 7 days labeling of qProm1 cells with Tamoxifen (Tam) (Fig. 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Firstly, we confirmed lack of mVenus+ cells in absence of Tamoxifen (Supplementary Fig. 6a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "To obtain an unbiased characterization, we analyzed the whole brain section, measuring the areas of brain (DAPI+) and tumor (mCherry+) (Fig. 3b and Supplementary Fig. 6b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "As expected, we confirmed the efficacy of TMZ treatment on reducing tumor size, as well as the consequent fast relapse after chemotherapy administration (Fig. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In TMZ-treated mice, we did not observe significant differences with respect to the DMSO control group (Fig. 3c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel c",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, we did not observe any significant difference between DMSO or TMZ treatments (Fig. 3d, e and Supplementary Fig. 6c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel d",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel c",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We rarely observed Venus+/NeuN+ and, as expected, they were mainly Ki67- (Supplementary Fig. 6d, e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, when we analyzed the proliferation rate of Venus+/Sox2+ cells, we observed they were mostly Ki67- with no difference with respect to both DMSO or TMZ groups (Supplementary Fig. 6f, g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel f",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We then analyzed the distribution of the glioma stem cell marker OLIG2 (Fig. 3f) observing a statistically significant increase only in the core of TMZ-treated mice over time (Fig. 3g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel f",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel g",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel f",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel g",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel f",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel g",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The efficiency of ablation was verified in newborn SVZ with DTA-p27 (Supplementary Fig. 7a), revealing the absence of qProm1 cells (Supplementary Fig. 7b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel a",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "We also validated DTA-mediated ablation in qSox2 cells (Supplementary Fig. 7d-f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel d",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Afterwards we checked the presence of qProm1 cells in TP-induced tumors in absence or presence of DTA-p27 (Fig. 4a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Mice were sacrificed at P45 and brain sections were histologically analyzed (Fig. 4b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Compared to control mice, the co-injection of DTA-p27 led to an overall increased survival (median survival days: 56 for control vs 78 for +Prom1-DTA-p27 group) (Fig. 4c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, a reduced number of qProm1 cells (Fig. 4d) was accompanied with a smaller tumor size (Fig. 4e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel d",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel e",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel d",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel e",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel d",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel e",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, we also observed a strong reduction of tumor infiltrated cells (Fig. 4f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel f",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel f",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel f",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "To investigate the effect of the depletion of qProm1 cells when the tumor is already formed, we electroporated newborn mice with TP-Cherry and with plasmids expressing DTA under the control of Prom1-CreERT2-p27K− (Fig. 4g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel g",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel g",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel g",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This enabled to control the DTA-mediated ablation of qProm1 cells by injection of Tamoxifen from P17 to P45 (Fig. 4g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel g",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel g",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel g",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The analysis of brain sections confirmed a reduction of qProm1 population (Fig. 4h, i), but the tumor size was surprisingly increased (Fig. 4j) upon tamoxifen injection.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel h",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel j",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel j",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel j",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, the ablation of qProm1 cells led to a reduction of infiltrating cells (Fig. 4k).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel k",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel k",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel k",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The efficiency of ablation was verified in newborn SVZ with DTA-p27 (Supplementary Fig. 7a), revealing the absence of qProm1 cells (Supplementary Fig. 7b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel a",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "We also validated DTA-mediated ablation in qSox2 cells (Supplementary Fig. 7d-f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel d",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Afterwards we checked the presence of qProm1 cells in TP-induced tumors in absence or presence of DTA-p27 (Fig. 4a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Mice were sacrificed at P45 and brain sections were histologically analyzed (Fig. 4b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel b",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Compared to control mice, the co-injection of DTA-p27 led to an overall increased survival (median survival days: 56 for control vs 78 for +Prom1-DTA-p27 group) (Fig. 4c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel c",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, a reduced number of qProm1 cells (Fig. 4d) was accompanied with a smaller tumor size (Fig. 4e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel d",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel e",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel d",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel e",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel d",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel e",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, we also observed a strong reduction of tumor infiltrated cells (Fig. 4f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel f",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel f",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel f",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "To investigate the effect of the depletion of qProm1 cells when the tumor is already formed, we electroporated newborn mice with TP-Cherry and with plasmids expressing DTA under the control of Prom1-CreERT2-p27K− (Fig. 4g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel g",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel g",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel g",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This enabled to control the DTA-mediated ablation of qProm1 cells by injection of Tamoxifen from P17 to P45 (Fig. 4g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel g",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel g",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel g",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The analysis of brain sections confirmed a reduction of qProm1 population (Fig. 4h, i), but the tumor size was surprisingly increased (Fig. 4j) upon tamoxifen injection.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel h",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel j",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel j",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel j",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Interestingly, the ablation of qProm1 cells led to a reduction of infiltrating cells (Fig. 4k).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel k",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel k",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel k",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "TP-Cherry was electroporated in dorsal forebrain organoids differentiated from human induced pluripotent stem cells (hiPSCs) (Fig. 5a)27.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Live imaging of 30 days-post electroporation (30 dpe) organoids showed a more diffuse mCherry+ fluorescence compared with the control (Fig. 5b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Histological characterization of the organoids confirmed that electroporation with TP-Cherry led to an increase in proliferating cells (Fig. 5c, d) as well as stem cell marker SOX2 (Supplementary Fig. 8a, b) and a reduction in neuronal marker NeuN (Supplementary Fig. 8c, d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "To perform live imaging of the quiescent cells, we decided to drive Venus-p27expression under the control of a strong and ubiquitous promoter, such as CAG (Fig. 5e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel e",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel e",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel e",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We found that 89.2% of the quiescent mCherry+/mVenus+ cells co-expressed SOX2 (Supplementary Fig. 8e, f) and that 95.2% of mCherry+/mVenus+ cells were negative for proliferation marker Ki67 (Fig. 5f, g) confirming the visualization of slow-cycling/quiescent cells in brain cancer organoids.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel e",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel f",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Since we used an ubiquitous promoter, we showed that mVenus labels mainly SOX2+ or S100B+ progenitor cells (Supplementary Fig. 8e–h) and a few NeuN+ neuronal cells (Supplementary Fig. 8i, j).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel e",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel i",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "We further characterized the infiltrative potential of those cells in vivo after grafting of TP-mCherry/mVenus-p27 electroporated organoids in the brain of nude mice (Fig. 5h–k, Supplementary Movie 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel h",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, we confirmed in grafted organoids that Venus labels mainly S100B+ progenitor cells (Supplementary Fig. 8k, l) rather than NeuN+ neuronal cells (Supplementary Fig. 8m, n).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel k",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel m",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, we also compared the transcriptome profiles of TP organoid-derived tumors and TP-induced mouse tumors (Fig. 2) with human adult and pediatric low- and high-grade brain cancers (Fig. 5l).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel l",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel l",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel l",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, both types of TP-induced tumors (organoid and mouse) clustered with pediatric high-grade glioma, with respect to other types of brain cancers (Fig. 5l).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel l",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel l",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel l",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Afterwards, we performed live imaging of TP-Cherry/Venus-p27 co-cultured with non-electroporated brain organoids (Host) (Supplementary Fig. 8o, p), which revealed the infiltration of mCherry+/mVenus+ cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel o",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "We also confirmed the infiltration of mCherry+/mVenus+/Ki67- cells in the cryosections of the co-cultured organoids (Supplementary Fig. 8q, r).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel q",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Finally, we grafted TP-organoids co-electroporated with DTA-p27 to assay the effect of ablating quiescent cells in the infiltration of TP-Cherry-derived cells (Fig. 5m).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel m",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel m",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel m",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The co-expression of DTA-p27 in TP-organoids led to a reduction in the infiltration of tumor cells (Fig. 5n, o).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel n",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "TP-Cherry was electroporated in dorsal forebrain organoids differentiated from human induced pluripotent stem cells (hiPSCs) (Fig. 5a)27.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Live imaging of 30 days-post electroporation (30 dpe) organoids showed a more diffuse mCherry+ fluorescence compared with the control (Fig. 5b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Histological characterization of the organoids confirmed that electroporation with TP-Cherry led to an increase in proliferating cells (Fig. 5c, d) as well as stem cell marker SOX2 (Supplementary Fig. 8a, b) and a reduction in neuronal marker NeuN (Supplementary Fig. 8c, d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel c",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "To perform live imaging of the quiescent cells, we decided to drive Venus-p27expression under the control of a strong and ubiquitous promoter, such as CAG (Fig. 5e).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel e",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel e",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel e",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We found that 89.2% of the quiescent mCherry+/mVenus+ cells co-expressed SOX2 (Supplementary Fig. 8e, f) and that 95.2% of mCherry+/mVenus+ cells were negative for proliferation marker Ki67 (Fig. 5f, g) confirming the visualization of slow-cycling/quiescent cells in brain cancer organoids.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel e",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel f",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Since we used an ubiquitous promoter, we showed that mVenus labels mainly SOX2+ or S100B+ progenitor cells (Supplementary Fig. 8e–h) and a few NeuN+ neuronal cells (Supplementary Fig. 8i, j).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel e",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel i",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "We further characterized the infiltrative potential of those cells in vivo after grafting of TP-mCherry/mVenus-p27 electroporated organoids in the brain of nude mice (Fig. 5h–k, Supplementary Movie 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel h",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, we confirmed in grafted organoids that Venus labels mainly S100B+ progenitor cells (Supplementary Fig. 8k, l) rather than NeuN+ neuronal cells (Supplementary Fig. 8m, n).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel k",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel m",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Furthermore, we also compared the transcriptome profiles of TP organoid-derived tumors and TP-induced mouse tumors (Fig. 2) with human adult and pediatric low- and high-grade brain cancers (Fig. 5l).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel l",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel l",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel l",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, both types of TP-induced tumors (organoid and mouse) clustered with pediatric high-grade glioma, with respect to other types of brain cancers (Fig. 5l).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel l",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel l",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel l",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Afterwards, we performed live imaging of TP-Cherry/Venus-p27 co-cultured with non-electroporated brain organoids (Host) (Supplementary Fig. 8o, p), which revealed the infiltration of mCherry+/mVenus+ cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel o",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "We also confirmed the infiltration of mCherry+/mVenus+/Ki67- cells in the cryosections of the co-cultured organoids (Supplementary Fig. 8q, r).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel q",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Finally, we grafted TP-organoids co-electroporated with DTA-p27 to assay the effect of ablating quiescent cells in the infiltration of TP-Cherry-derived cells (Fig. 5m).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel m",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel m",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel m",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The co-expression of DTA-p27 in TP-organoids led to a reduction in the infiltration of tumor cells (Fig. 5n, o).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel n",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We treated TP-mCherry (+ Venus-p27) organoids with two DYRK1A/B inhibitors (AZ191 and Harmine) and other drugs previously used to ablate cell quiescence or to inhibit EMT30 (Fig. 6a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Analysis of mCherry and mVenus positive area and intensity showed that Harmine and Simvastatin led to a reduction of mVenus signal compared with controls (Fig. 6b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We next tested the effects of the compounds on GB7 cancer stem cells (Fig. 6d, e and Supplementary Fig. 9a, b) and COMI cell lines (Supplementary Fig. 8c–g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel a",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "To do so, we electroporated both lines with the same pPB plasmids described in the manuscript encoding for mCherry and Venus-p27 to allow imaging and analysis of the change in cell number and impact of the drugs on quiescent cells (Fig. 6d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We observed that Harmine consistently reduces quiescent cells when tested on both GB7 (Fig. 6e, f) and COMI (Supplementary Fig. 9c-g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel e",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel c",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "We next sought to test whether the treatment with Harmine, along with reducing quiescent cells, affects the invasiveness of GBM lines cancer stem cells (Fig. 6g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel g",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel g",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel g",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Here, we show that Harmine treatment is indeed able to reduce the degree of invasion of GB7 spheroids (Fig. 6h, i).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel h",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We treated TP-mCherry (+ Venus-p27) organoids with two DYRK1A/B inhibitors (AZ191 and Harmine) and other drugs previously used to ablate cell quiescence or to inhibit EMT30 (Fig. 6a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Analysis of mCherry and mVenus positive area and intensity showed that Harmine and Simvastatin led to a reduction of mVenus signal compared with controls (Fig. 6b, c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We next tested the effects of the compounds on GB7 cancer stem cells (Fig. 6d, e and Supplementary Fig. 9a, b) and COMI cell lines (Supplementary Fig. 8c–g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel a",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "To do so, we electroporated both lines with the same pPB plasmids described in the manuscript encoding for mCherry and Venus-p27 to allow imaging and analysis of the change in cell number and impact of the drugs on quiescent cells (Fig. 6d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We observed that Harmine consistently reduces quiescent cells when tested on both GB7 (Fig. 6e, f) and COMI (Supplementary Fig. 9c-g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel e",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel c",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "We next sought to test whether the treatment with Harmine, along with reducing quiescent cells, affects the invasiveness of GBM lines cancer stem cells (Fig. 6g).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel g",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel g",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel g",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Here, we show that Harmine treatment is indeed able to reduce the degree of invasion of GB7 spheroids (Fig. 6h, i).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel h",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The system we conceived to specifically perform a CEll cycle-based Lineage Tracing and Ablation (CELTA) (Supplementary Fig. 10a, b) allowed us to reveal how qProm1+ cells contribute to the tumor infiltration (Supplementary Fig. 10c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "Panel a",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "Panel c",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "The system we conceived to specifically perform a CEll cycle-based Lineage Tracing and Ablation (CELTA) (Supplementary Fig. 10a, b) allowed us to reveal how qProm1+ cells contribute to the tumor infiltration (Supplementary Fig. 10c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "Panel a",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "Panel c",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "The concentrations used in the experiments are stated in Fig. 6a.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "On day 0, medium supplemented with the aforementioned drugs (Fig. 6d) was replaced to each well and changed every 48 h.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The concentrations used in the experiments are stated in Fig. 6a.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel a",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "On day 0, medium supplemented with the aforementioned drugs (Fig. 6d) was replaced to each well and changed every 48 h.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel d",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "L.T. created Fig. 1h (brain drawing), Fig. 2a, Fig. 3a, Fig. 4a, Fig. 5h, m.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel h",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel h",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "L.T. created Fig. 1h (brain drawing), Fig. 2a, Fig. 3a, Fig. 4a, Fig. 5h, m.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel h",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel a",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel h",
+        "figure_key": "figure_5"
+      }
+    ]
+  }
+]

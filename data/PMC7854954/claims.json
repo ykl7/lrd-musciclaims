@@ -1,0 +1,422 @@
+[
+  {
+    "sentence": "Details for in vitro experiments are provided in Supplementary Material\ns.PBPK modeling and simulation\nPBPK model development\nA whole‐body PBPK model integrated with a 4Brain model (Figure\n\n1\n) was developed for predicting the system and CNS pharmacokinetics of each CDK4/6 inhibitor, using the Simcyp Simulator V18 (Simcyp Ltd., Sheffield, UK).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "PBPK modeling and simulation\nPBPK model development\nA whole‐body PBPK model integrated with a 4Brain model (Figure\n\n1\n) was developed for predicting the system and CNS pharmacokinetics of each CDK4/6 inhibitor, using the Simcyp Simulator V18 (Simcyp Ltd., Sheffield, UK).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "PBPK model development\nA whole‐body PBPK model integrated with a 4Brain model (Figure\n\n1\n) was developed for predicting the system and CNS pharmacokinetics of each CDK4/6 inhibitor, using the Simcyp Simulator V18 (Simcyp Ltd., Sheffield, UK).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "A whole‐body PBPK model integrated with a 4Brain model (Figure\n\n1\n) was developed for predicting the system and CNS pharmacokinetics of each CDK4/6 inhibitor, using the Simcyp Simulator V18 (Simcyp Ltd., Sheffield, UK).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Similar to AZD1775 (a weak base drug),\n19\n the three CDK4/6 inhibitors exhibited pH‐dependent apparent permeability across the MDCKII, MDCKII‐ABCB1, and MDCKII‐ABCG2 cell monolayers (Figure\n\n2\n).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "As the pH decreased (7.4, 7.0, 6.5, and 6.0) in the basolateral chamber (mimicking brain/brain tumor interstitium) whereas remaining the same (7.4) in the apical chamber (mimicking blood circulation), the apparent permeability increased in the apical‐to‐basolateral direction while decreasing in the basolateral‐to‐apical direction, overall resulting in reduced efflux ratios (Figure\n\n2\n).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Similar to AZD1775 (a weak base drug),\n19\n the three CDK4/6 inhibitors exhibited pH‐dependent apparent permeability across the MDCKII, MDCKII‐ABCB1, and MDCKII‐ABCG2 cell monolayers (Figure\n\n2\n).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "As the pH decreased (7.4, 7.0, 6.5, and 6.0) in the basolateral chamber (mimicking brain/brain tumor interstitium) whereas remaining the same (7.4) in the apical chamber (mimicking blood circulation), the apparent permeability increased in the apical‐to‐basolateral direction while decreasing in the basolateral‐to‐apical direction, overall resulting in reduced efflux ratios (Figure\n\n2\n).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "PBPK modeling and simulations\nModel verification for prediction of plasma pharmacokinetics\nFollowing the dosing regimen (900 mg q.d. for 5 days) as used in the clinical trial, the PBPK model well‐predicted ribociclib mean plasma concentration time profiles and interindividual variabilities, as demonstrated by > 98% of observed plasma concentration data falling within the 5th and 95th percentiles of the simulated population mean profile (Figure\n\n3\n\na).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The simulated ribociclib CSF concentrations were in line with observed CSF data in patients with glioblastoma, with all except for one observed data falling within the 5th and 95th percentiles of the simulated population mean profile (Figure\n\n3\n\nb).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "23\n, \n24\n, \n25\n As demonstrated by the in vitro pH‐dependent apparent permeability data (Figure\n\n2\n), the relative acidic tumor environment would be favorable to the tumor penetration and trap of weak base drugs, regardless whether they are the substrates of ABCB1/ABCG2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Therefore, to predict ribociclib concentrations in the human normal brain as well as in contrast non‐enhancing and enhancing tumor regions of glioblastoma, different ABCB1/ABCG2 protein abundances at the BBB and varying brain pH were applied in the simulations following the dosing regimen used in the clinical trial (900 mg q.d. for 5 days; Figure\n\n3\n\nc‐f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In the normal brain with an intact BBB (i.e., brain pH 7.12, ABCB1 abundance 3.38 pmol/mg), the simulated population mean steady‐state average concentration (C\nss,ave) of unbound ribociclib was 0.036 µmol/L and unbound brain‐to‐plasma ratio (K\np,uu) was 0.14 (Figure\n\n3\n\nc).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In brain tumors with increasing BBB disruption, specifically in brain tumors with (i) pH 6.8 and ABCB1 abundance 0.14 pmol/mg (Figure\n\n3\n\nd), (ii) pH 6.8 and loss of ABCB1 expression (Figure\n\n3\n\ne), and (iii) pH 6.5 and loss of ABCB1 expression (Figure\n\n3\n\nf), the simulated population mean C\nss,ave of unbound ribociclib was 0.453, 2.608, 5.096 µmol/L, respectively, and the respective K\np,uu was 1.84, 10.6, and 20.8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Therefore, it was not surprising that the CNS pharmacokinetics of abemaciclib was different from the other two CDK4/6 inhibitors, which was characterized by a slower brain penetration but to a larger extent (Figure\n\n4\n\na‐c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Also noted was that the CSF pharmacokinetics of abemaciclib was different from the other two CDK4/6 inhibitors (Figure\n\n4\n\na‐c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Additional simulations were performed to refine dosing regimens (Figure\n\n4\n).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Model verification for prediction of plasma pharmacokinetics\nFollowing the dosing regimen (900 mg q.d. for 5 days) as used in the clinical trial, the PBPK model well‐predicted ribociclib mean plasma concentration time profiles and interindividual variabilities, as demonstrated by > 98% of observed plasma concentration data falling within the 5th and 95th percentiles of the simulated population mean profile (Figure\n\n3\n\na).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Following the dosing regimen (900 mg q.d. for 5 days) as used in the clinical trial, the PBPK model well‐predicted ribociclib mean plasma concentration time profiles and interindividual variabilities, as demonstrated by > 98% of observed plasma concentration data falling within the 5th and 95th percentiles of the simulated population mean profile (Figure\n\n3\n\na).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The simulated ribociclib CSF concentrations were in line with observed CSF data in patients with glioblastoma, with all except for one observed data falling within the 5th and 95th percentiles of the simulated population mean profile (Figure\n\n3\n\nb).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "23\n, \n24\n, \n25\n As demonstrated by the in vitro pH‐dependent apparent permeability data (Figure\n\n2\n), the relative acidic tumor environment would be favorable to the tumor penetration and trap of weak base drugs, regardless whether they are the substrates of ABCB1/ABCG2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Therefore, to predict ribociclib concentrations in the human normal brain as well as in contrast non‐enhancing and enhancing tumor regions of glioblastoma, different ABCB1/ABCG2 protein abundances at the BBB and varying brain pH were applied in the simulations following the dosing regimen used in the clinical trial (900 mg q.d. for 5 days; Figure\n\n3\n\nc‐f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In the normal brain with an intact BBB (i.e., brain pH 7.12, ABCB1 abundance 3.38 pmol/mg), the simulated population mean steady‐state average concentration (C\nss,ave) of unbound ribociclib was 0.036 µmol/L and unbound brain‐to‐plasma ratio (K\np,uu) was 0.14 (Figure\n\n3\n\nc).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In brain tumors with increasing BBB disruption, specifically in brain tumors with (i) pH 6.8 and ABCB1 abundance 0.14 pmol/mg (Figure\n\n3\n\nd), (ii) pH 6.8 and loss of ABCB1 expression (Figure\n\n3\n\ne), and (iii) pH 6.5 and loss of ABCB1 expression (Figure\n\n3\n\nf), the simulated population mean C\nss,ave of unbound ribociclib was 0.453, 2.608, 5.096 µmol/L, respectively, and the respective K\np,uu was 1.84, 10.6, and 20.8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The simulated ribociclib CSF concentrations were in line with observed CSF data in patients with glioblastoma, with all except for one observed data falling within the 5th and 95th percentiles of the simulated population mean profile (Figure\n\n3\n\nb).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "23\n, \n24\n, \n25\n As demonstrated by the in vitro pH‐dependent apparent permeability data (Figure\n\n2\n), the relative acidic tumor environment would be favorable to the tumor penetration and trap of weak base drugs, regardless whether they are the substrates of ABCB1/ABCG2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Therefore, to predict ribociclib concentrations in the human normal brain as well as in contrast non‐enhancing and enhancing tumor regions of glioblastoma, different ABCB1/ABCG2 protein abundances at the BBB and varying brain pH were applied in the simulations following the dosing regimen used in the clinical trial (900 mg q.d. for 5 days; Figure\n\n3\n\nc‐f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In the normal brain with an intact BBB (i.e., brain pH 7.12, ABCB1 abundance 3.38 pmol/mg), the simulated population mean steady‐state average concentration (C\nss,ave) of unbound ribociclib was 0.036 µmol/L and unbound brain‐to‐plasma ratio (K\np,uu) was 0.14 (Figure\n\n3\n\nc).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In brain tumors with increasing BBB disruption, specifically in brain tumors with (i) pH 6.8 and ABCB1 abundance 0.14 pmol/mg (Figure\n\n3\n\nd), (ii) pH 6.8 and loss of ABCB1 expression (Figure\n\n3\n\ne), and (iii) pH 6.5 and loss of ABCB1 expression (Figure\n\n3\n\nf), the simulated population mean C\nss,ave of unbound ribociclib was 0.453, 2.608, 5.096 µmol/L, respectively, and the respective K\np,uu was 1.84, 10.6, and 20.8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Therefore, it was not surprising that the CNS pharmacokinetics of abemaciclib was different from the other two CDK4/6 inhibitors, which was characterized by a slower brain penetration but to a larger extent (Figure\n\n4\n\na‐c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Also noted was that the CSF pharmacokinetics of abemaciclib was different from the other two CDK4/6 inhibitors (Figure\n\n4\n\na‐c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Therefore, it was not surprising that the CNS pharmacokinetics of abemaciclib was different from the other two CDK4/6 inhibitors, which was characterized by a slower brain penetration but to a larger extent (Figure\n\n4\n\na‐c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Also noted was that the CSF pharmacokinetics of abemaciclib was different from the other two CDK4/6 inhibitors (Figure\n\n4\n\na‐c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Additional simulations were performed to refine dosing regimens (Figure\n\n4\n).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Additional simulations were performed to refine dosing regimens (Figure\n\n4\n).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "PBPK simulations suggest that 150 mg b.i.d. and 300 mg q.d. dosing result in comparable plasma or brain exposure to unbound abemaciclib in terms of the maximum, trough, or average steady‐state concentrations (Table\n\n3\n and Figure\n\n4\n).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, similar to slow‐released formulations, the slow BBB penetration, and sustained brain retention of abemaciclib result in a small fluctuation between the peak and trough steady‐state brain concentrations following either twice‐daily or once‐daily dosing (Figure\n\n4\n).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "PBPK simulations suggest that 150 mg b.i.d. and 300 mg q.d. dosing result in comparable plasma or brain exposure to unbound abemaciclib in terms of the maximum, trough, or average steady‐state concentrations (Table\n\n3\n and Figure\n\n4\n).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, similar to slow‐released formulations, the slow BBB penetration, and sustained brain retention of abemaciclib result in a small fluctuation between the peak and trough steady‐state brain concentrations following either twice‐daily or once‐daily dosing (Figure\n\n4\n).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  }
+]
