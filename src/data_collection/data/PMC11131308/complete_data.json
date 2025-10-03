@@ -1,0 +1,3771 @@
+{
+  "paper_id": "PMC11131308",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11131308/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Fig. 1.",
+      "caption": "Semantic units introduce additional layers atop the RDF/OWL layer of triples within a knowledge graph. The figure illustrates a partitioning of the triple layer into statement units, wherein each triple aligns with exactly one statement unit, and each statement unit contains one or more triples. Statement units can be organized into diverse types of semantically meaningful collections, denoted as compound units. Compound units serve as the basis for defining several layers that contribute to the enhanced structuring and organization of the knowledge graph in semantically meaningful ways",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/4b37e633b19b/13326_2024_310_Fig1_HTML.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/4b37e633b19b/13326_2024_310_Fig1_HTML.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/4b37e633b19b/13326_2024_310_Fig1_HTML.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/4b37e633b19b/13326_2024_310_Fig1_HTML.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "Fig1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/4b37e633b19b/13326_2024_310_Fig1_HTML.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11131308/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/4b37e633b19b/13326_2024_310_Fig1_HTML.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Fig. 2.",
+      "caption": "Comparison of a human-readable statement with its machine-actionable representation as a semantic graph following the RDF syntax. Top: A human-readable statement concerning the observation that a specific apple (X) weighs 204.56 grams. Bottom: The corresponding representation of the same statement as a semantic graph, adhering to RDF syntax and following the established pattern for measurement data from the Ontology for Biomedical Investigations (OBI) [35] of the Open Biological and Biomedical Ontology Foundry (OBO)",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/f042991d77b9/13326_2024_310_Fig2_HTML.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/f042991d77b9/13326_2024_310_Fig2_HTML.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/f042991d77b9/13326_2024_310_Fig2_HTML.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/f042991d77b9/13326_2024_310_Fig2_HTML.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "Fig2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/f042991d77b9/13326_2024_310_Fig2_HTML.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11131308/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/f042991d77b9/13326_2024_310_Fig2_HTML.jpg"
+    },
+    "figure_3": {
+      "figure_number": "Figure 3",
+      "title": "Fig. 3.",
+      "caption": "Alternative machine-actionable representation of the data statement from Fig. 2. This graph represents the same data statement as shown in Fig. 2 Top, but applies a semantic graph model that is based on the Extensible Observation Ontology (OBOE) [36], an ontology frequently used in the ecology community",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/6fd99e40ba2e/13326_2024_310_Fig3_HTML.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/6fd99e40ba2e/13326_2024_310_Fig3_HTML.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/6fd99e40ba2e/13326_2024_310_Fig3_HTML.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/6fd99e40ba2e/13326_2024_310_Fig3_HTML.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "Fig3",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/6fd99e40ba2e/13326_2024_310_Fig3_HTML.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11131308/images/figure_3.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/6fd99e40ba2e/13326_2024_310_Fig3_HTML.jpg"
+    },
+    "figure_4": {
+      "figure_number": "Figure 4",
+      "title": "Fig. 4.",
+      "caption": "A detailed machine-actionable representation of the metadata relating to a weight measurement datum. This detailed illustration presents a machine-actionable representation of a mass measurement process employing a balance. It documents metadata associated with a weight measurement datum, articulated as an RDF graph. The graph establishes connections between an instance of mass measurement assay (OBI:0000445) and instances of various other classes from diverse ontologies. Noteworthy details include the identification of the measurement conductor, the location and timing of the measurement, the protocol followed, and the specific device utilized (i.e., a balance). Additionally, the graph outlines the material entity serving as the subject and input for the measurement process (i.e., ‘apple X’), along with specifying the resultant data encapsulated in a particular weight measurement assertion",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/791cbe5aae8b/13326_2024_310_Fig4_HTML.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/791cbe5aae8b/13326_2024_310_Fig4_HTML.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/791cbe5aae8b/13326_2024_310_Fig4_HTML.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/791cbe5aae8b/13326_2024_310_Fig4_HTML.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "Fig4",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/791cbe5aae8b/13326_2024_310_Fig4_HTML.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11131308/images/figure_4.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/791cbe5aae8b/13326_2024_310_Fig4_HTML.jpg"
+    },
+    "figure_6": {
+      "figure_number": "Figure 6",
+      "title": "Fig. 6.",
+      "caption": "Example of a statement unit. The illustration displays a statement unit exemplifying a has-weight relation. The data graph, denoted within the blue box at the bottom, articulates the statement with ‘apple X’ as the subject and ‘gram X’ alongside the numerical value 204.56 as the objects. The peach-colored box encompasses the semantic-units graph, housing triples that encapsulate the semantic unit’s representation. It explicitly denotes the resource embodying the statement unit (bordered blue box), an instance of the *SEMUNIT:weight statement unit* class, with ‘apple X’ identified as the subject. Notably, the UPRI of *’weight statement unit’* is also the UPRI of the semantic unit’s data graph (the unbordered subgraph in the blue box)",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/5a19c1547417/13326_2024_310_Fig6_HTML.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/5a19c1547417/13326_2024_310_Fig6_HTML.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/5a19c1547417/13326_2024_310_Fig6_HTML.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/5a19c1547417/13326_2024_310_Fig6_HTML.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "Fig6",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/5a19c1547417/13326_2024_310_Fig6_HTML.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11131308/images/figure_6.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/5a19c1547417/13326_2024_310_Fig6_HTML.jpg"
+    },
+    "figure_5": {
+      "figure_number": "Figure 5",
+      "title": "Fig. 5.",
+      "caption": "Classification of different categories of semantic units",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/a5ffdacadfbc/13326_2024_310_Fig5_HTML.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/a5ffdacadfbc/13326_2024_310_Fig5_HTML.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/a5ffdacadfbc/13326_2024_310_Fig5_HTML.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/a5ffdacadfbc/13326_2024_310_Fig5_HTML.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "Fig5",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/a5ffdacadfbc/13326_2024_310_Fig5_HTML.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11131308/images/figure_5.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/a5ffdacadfbc/13326_2024_310_Fig5_HTML.jpg"
+    },
+    "figure_7": {
+      "figure_number": "Figure 7",
+      "title": "Fig. 7.",
+      "caption": "Examples for two different types of identification units. A\nNamed-individual identification unit. The data graph within the unbordered box delineates the class-affiliation of the ‘apple X’ (NCIT:C71985) instance. The subject, ‘apple X’, is connected to its class through the property type (RDF:type), while its label ‘apple X’ is conveyed via the property  label (RDFS:label). The unbordered blue box designates the data graph associated with this named-individual identification unit. B\nClass identification unit. This data graph of this unit, represented by the unbordered blue box, captures the label and identifier of the class ‘apple’ (NCIT:C71985), the unit’s designated subject. Optionally, it includes the URI details of the ontology and the ontology version from which the class is derived. The bordered blue box designates the resource of this class identification unit",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/d9b99f3f138e/13326_2024_310_Fig7_HTML.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/d9b99f3f138e/13326_2024_310_Fig7_HTML.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/d9b99f3f138e/13326_2024_310_Fig7_HTML.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/d9b99f3f138e/13326_2024_310_Fig7_HTML.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "Fig7",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/d9b99f3f138e/13326_2024_310_Fig7_HTML.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11131308/images/figure_7.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/d9b99f3f138e/13326_2024_310_Fig7_HTML.jpg"
+    },
+    "figure_8": {
+      "figure_number": "Figure 8",
+      "title": "Fig. 8.",
+      "caption": "Example of a compound unit, denoted as *‘apple X item unit’*, that encompasses multiple statement units. Compound units, by virtue of merging the data graphs of their associated statement units, indirectly manifest a data graph (here, highlighted by the blue arrow). Notably, the compound unit possesses a semantic-units graph (depicted in the peach-colored box) delineating the associated semantic units",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/d962d16ccbd9/13326_2024_310_Fig8_HTML.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/d962d16ccbd9/13326_2024_310_Fig8_HTML.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/d962d16ccbd9/13326_2024_310_Fig8_HTML.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/d962d16ccbd9/13326_2024_310_Fig8_HTML.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "Fig8",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/d962d16ccbd9/13326_2024_310_Fig8_HTML.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11131308/images/figure_8.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/d962d16ccbd9/13326_2024_310_Fig8_HTML.jpg"
+    },
+    "figure_9": {
+      "figure_number": "Figure 9",
+      "title": "Fig. 9.",
+      "caption": "Typed statement unit with dynamic label and dynamic mind-map pattern. A\nTyped statement unit exemplified for a weight statement. This typed statement unit consolidates the data graphs of six statement units, including the *’weight statement unit’* from Figure 6, serving as the reference statement unit for this *‘typed statement unit’*, and five instances of *SEMUNIT:named-individual identification unit*. B\nDynamic label: Illustrated is an example of the dynamic label associated with the reference statement unit class (*SEMUNIT:weight statement unit*). This dynamic label template is utilized for textual displays of information from the reference statement unit. C\nDynamic mind-map pattern: Depicted is an example of the dynamic mind-map pattern associated with the reference statement unit class (*SEMUNIT:weight statement unit*). This pattern template is employed for graphical displays of information from the reference statement unit",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/41b906b46ae4/13326_2024_310_Fig9_HTML.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/41b906b46ae4/13326_2024_310_Fig9_HTML.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/41b906b46ae4/13326_2024_310_Fig9_HTML.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/41b906b46ae4/13326_2024_310_Fig9_HTML.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "Fig9",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/41b906b46ae4/13326_2024_310_Fig9_HTML.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11131308/images/figure_9.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/41b906b46ae4/13326_2024_310_Fig9_HTML.jpg"
+    },
+    "figure_12": {
+      "figure_number": "Figure 12",
+      "title": "Fig. 12.",
+      "caption": "Detail from the RDF graph illustrating the contents of a scholarly publication. The data schema employed aligns with the schema shown in Figure 11, tailored to accommodate semantic units. The publication’s content is encapsulated within a dedicated publication item group unit instance through various interconnected semantic units. The publication itself is denoted as an instance of journal article (IAO:0000013). The publication item group unit encompasses multiple item units related to the research activity, interconnected through the *SEMUNIT:hasLinkedSemanticUnit* property. The interconnected hierarchy extends to an investigation (OBI:0000066) instance, resulting in a data set (IAO:0000100) instance with a description (SIO:000136) instance as its part. This description, in turn, has the multicellular organism item unit describing the organism as its part, which has an instance of multicellular organism (UBERON:0000468) as its subject. The blue arrow signifies the representation of the data graph (dark blue box with shadow) by this specific item unit (bordered box in the same color). The ontological layer is constituted by the data graphs of the semantic units, while their semantic-units graphs collectively form the discursive layer. Distinct context units demarcate the reference frames of the publication, research-activity, and research-subject, delineated by is-about statements. For reasons of clarity of presentation, the associated statement units are not shown in the discursive layer",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/e90e35248016/13326_2024_310_Fig12_HTML.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/e90e35248016/13326_2024_310_Fig12_HTML.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/e90e35248016/13326_2024_310_Fig12_HTML.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/e90e35248016/13326_2024_310_Fig12_HTML.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "Fig12",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/e90e35248016/13326_2024_310_Fig12_HTML.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11131308/images/figure_12.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/e90e35248016/13326_2024_310_Fig12_HTML.jpg"
+    },
+    "figure_10": {
+      "figure_number": "Figure 10",
+      "title": "Fig. 10.",
+      "caption": "Five levels of representational granularity. The integration of semantic units into a knowledge graph introduces a semantic-units graph layer, enriching the existing data graph layer. This augmentation includes distinct levels, namely triples, statement units, item units, and item group units, providing a nuanced hierarchy of representational granularity within a knowledge graph",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/f36eee1a0768/13326_2024_310_Fig10_HTML.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/f36eee1a0768/13326_2024_310_Fig10_HTML.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/f36eee1a0768/13326_2024_310_Fig10_HTML.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/f36eee1a0768/13326_2024_310_Fig10_HTML.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "Fig10",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/f36eee1a0768/13326_2024_310_Fig10_HTML.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11131308/images/figure_10.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/f36eee1a0768/13326_2024_310_Fig10_HTML.jpg"
+    },
+    "figure_11": {
+      "figure_number": "Figure 11",
+      "title": "Fig. 11.",
+      "caption": "A semantic schema for modelling the contents of scholarly publications. The depicted semantic schema outlines the modelling structure for encapsulating the components of scholarly publications. It delineates the relationship between a research activity, its associated input and output, and the underlying specification of its process plan, manifested in the form of a research method and research objective. The model draws inspiration from [61]",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/b048bd87b77c/13326_2024_310_Fig11_HTML.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/b048bd87b77c/13326_2024_310_Fig11_HTML.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/b048bd87b77c/13326_2024_310_Fig11_HTML.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/b048bd87b77c/13326_2024_310_Fig11_HTML.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "Fig11",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/b048bd87b77c/13326_2024_310_Fig11_HTML.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11131308/images/figure_11.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/b048bd87b77c/13326_2024_310_Fig11_HTML.jpg"
+    },
+    "figure_13": {
+      "figure_number": "Figure 13",
+      "title": "Fig. 13.",
+      "caption": "User interface of a prototype web application that implements semantic units. On the left is a navigation tree that leverages the organization of the underlying Neo4j knowledge graph into different item group, item, and statement units. Currently selected is the infectious agent population item group. On the right, all statements belonging to the selected item group are displayed",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/f5783ba69a04/13326_2024_310_Fig13_HTML.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/f5783ba69a04/13326_2024_310_Fig13_HTML.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/f5783ba69a04/13326_2024_310_Fig13_HTML.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/f5783ba69a04/13326_2024_310_Fig13_HTML.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "Fig13",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/f5783ba69a04/13326_2024_310_Fig13_HTML.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11131308/images/figure_13.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8555/11131308/f5783ba69a04/13326_2024_310_Fig13_HTML.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "The introduction of semantic units adds further layers of triples to the well-established RDF and OWL layer for knowledge graphs (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Bottom: The corresponding representation of the same statement as a semantic graph, adhering to RDF syntax and following the established pattern for measurement data from the Ontology for Biomedical Investigations (OBI) [35] of the Open Biological and Biomedical Ontology Foundry (OBO)Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nAlternative machine-actionable representation of the data statement from Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "This graph represents the same data statement as shown in Fig. 2 Top, but applies a semantic graph model that is based on the Extensible Observation Ontology (OBOE) [36], an ontology frequently used in the ecology communityTherefore, to maintain interoperability in the representation of empirical data statements within an RDF graph, it can be beneficial to restrict the graph patterns employed for their semantic modelling.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, metadata for a measurement may relate two distinct subgraphs: one representing the measurement itself (as seen in Fig. 2) and another documenting the underlying measuring process (as seen in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the graph in Fig. 2 exemplifies a subgraph that can be organized in a semantic unit that instantiates the class *SEMUNIT:weight statement unit* as it is illustrated in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For a detailed classification of semantic units, refer to Fig. 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This interconnectedness empowers users to make statements about the content encapsulated within the semantic unit’s data graph, as shown in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the weight measurement statement for apple X illustrated in Fig. 6 represents a statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Conversely, a weight measurement statement unit consists of a subject and two objects—the weight value and the weight unit (refer to Fig. 6).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Examples encompass the weight measurement statement in Fig. 6 and statements like ‘This right hand has part this right thumb on January 29th 2022’, ‘Anna gives Bob a book’, and ‘Carla travels by train from Paris to Berlin on the 29th of June 2022’, each necessitating more than one triple.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "In these cases, the statement’s verb or predicate is often represented not by a property within a single triple but instead by an instance resource, as exemplified by ‘weight X’ (PATO:0000128) in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A named individual identification unit is a statement unit that serves to identify a resource to be a named individual, adding information such as the resource’s label, type, and its class membership (refer to Fig. 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "A class identification unit2 is a statement unit that serves to identify a resource to be a class and provides details including its label, identifier, and optionally, the URIs of both the ontology and the specific version from which the class term has been imported (refer to Fig. 7B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "The connection between the resource representing the compound unit and those representing its associated semantic units is detailed through the property *SEMUNIT:hasAssociatedSemanticUnit* (see Fig. 8).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "A typed statement unit is a compound unit comprising the following statement units (see Fig. 9A):\n\nA statement unit that is not an instance of a named-individual or a class identification unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel A",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "This typed statement unit consolidates the data graphs of six statement units, including the *’weight statement unit’* from Figure 6, serving as the reference statement unit for this *‘typed statement unit’*, and five instances of *SEMUNIT:named-individual identification unit*.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A display pattern acts as a template that takes as input the labels provided by the identification units associated with a typed statement unit and generates a human-readable dynamic label for the textual (see Fig. 9B) or a dynamic mind-map pattern for the graphical representation (see Fig. 9C) of the statement of its reference statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel B",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel C",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, in documenting a research activity that results in the creation of a dataset describing the anatomy of a multicellular organism, the statement *‘description item unit’* isAbout\n‘multicellular organism’ (UBERON:0000468) marks a transition in the frame of reference from the research activity’s outcome to the multicellular organism being described (see also Fig. 12 further below).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "The data schema employed aligns with the schema shown in Figure 11, tailored to accommodate semantic units.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "By identifying statement units containing sensitive information by class, access restrictions can be dynamically enforced based on specific criteria.Semantic units: A framework for nested and overlapping knowledge graph modules\nSemantic units identify five levels of representational granularity\nSemantic units introduce a structured framework encompassing five levels of representational granularity within a knowledge graph: triples, statement units, item units, item group units, and the knowledge graph as a whole (refer to Fig. 10).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        }
+      ]
+    },
+    {
+      "sentence": "Intersections between context units are discerned through is-about statements (see also Fig. 12), facilitating traversal across diverse frames of reference.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, an item group unit focusing on the contents of a scholarly publication, can encapsulate information about the associated research activity, its inputs, outputs, research methods, and objectives (see Fig. 11).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the representation in Fig. 12 combines the discursive and the ontological layers and represents the connections between different frames of reference.Implementation\nImplementing semantic units in RDF/OWL-based knowledge graphs using Nanopublications\nTo initiate the structuring of a knowledge graph into semantic units, first, a layer of abstraction beyond the triple level must be created.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Triples in the provenance Named Graph can potentially link to other semantic units and thus other nanopublications that contain detailed metadata descriptions (e.g., a metadata graph as shown in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The application employs the organization of the graph into semantic units within a navigation tree, facilitating exploration of a given item group unit through its associated item units (see Fig. 13).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The introduction of semantic units adds further layers of triples to the well-established RDF and OWL layer for knowledge graphs (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Bottom: The corresponding representation of the same statement as a semantic graph, adhering to RDF syntax and following the established pattern for measurement data from the Ontology for Biomedical Investigations (OBI) [35] of the Open Biological and Biomedical Ontology Foundry (OBO)Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nAlternative machine-actionable representation of the data statement from Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "This graph represents the same data statement as shown in Fig. 2 Top, but applies a semantic graph model that is based on the Extensible Observation Ontology (OBOE) [36], an ontology frequently used in the ecology communityTherefore, to maintain interoperability in the representation of empirical data statements within an RDF graph, it can be beneficial to restrict the graph patterns employed for their semantic modelling.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, metadata for a measurement may relate two distinct subgraphs: one representing the measurement itself (as seen in Fig. 2) and another documenting the underlying measuring process (as seen in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the graph in Fig. 2 exemplifies a subgraph that can be organized in a semantic unit that instantiates the class *SEMUNIT:weight statement unit* as it is illustrated in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For a detailed classification of semantic units, refer to Fig. 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This interconnectedness empowers users to make statements about the content encapsulated within the semantic unit’s data graph, as shown in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the weight measurement statement for apple X illustrated in Fig. 6 represents a statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Conversely, a weight measurement statement unit consists of a subject and two objects—the weight value and the weight unit (refer to Fig. 6).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Examples encompass the weight measurement statement in Fig. 6 and statements like ‘This right hand has part this right thumb on January 29th 2022’, ‘Anna gives Bob a book’, and ‘Carla travels by train from Paris to Berlin on the 29th of June 2022’, each necessitating more than one triple.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "In these cases, the statement’s verb or predicate is often represented not by a property within a single triple but instead by an instance resource, as exemplified by ‘weight X’ (PATO:0000128) in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A named individual identification unit is a statement unit that serves to identify a resource to be a named individual, adding information such as the resource’s label, type, and its class membership (refer to Fig. 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "A class identification unit2 is a statement unit that serves to identify a resource to be a class and provides details including its label, identifier, and optionally, the URIs of both the ontology and the specific version from which the class term has been imported (refer to Fig. 7B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "The connection between the resource representing the compound unit and those representing its associated semantic units is detailed through the property *SEMUNIT:hasAssociatedSemanticUnit* (see Fig. 8).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "A typed statement unit is a compound unit comprising the following statement units (see Fig. 9A):\n\nA statement unit that is not an instance of a named-individual or a class identification unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel A",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "This typed statement unit consolidates the data graphs of six statement units, including the *’weight statement unit’* from Figure 6, serving as the reference statement unit for this *‘typed statement unit’*, and five instances of *SEMUNIT:named-individual identification unit*.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A display pattern acts as a template that takes as input the labels provided by the identification units associated with a typed statement unit and generates a human-readable dynamic label for the textual (see Fig. 9B) or a dynamic mind-map pattern for the graphical representation (see Fig. 9C) of the statement of its reference statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel B",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel C",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, in documenting a research activity that results in the creation of a dataset describing the anatomy of a multicellular organism, the statement *‘description item unit’* isAbout\n‘multicellular organism’ (UBERON:0000468) marks a transition in the frame of reference from the research activity’s outcome to the multicellular organism being described (see also Fig. 12 further below).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "The data schema employed aligns with the schema shown in Figure 11, tailored to accommodate semantic units.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "By identifying statement units containing sensitive information by class, access restrictions can be dynamically enforced based on specific criteria.Semantic units: A framework for nested and overlapping knowledge graph modules\nSemantic units identify five levels of representational granularity\nSemantic units introduce a structured framework encompassing five levels of representational granularity within a knowledge graph: triples, statement units, item units, item group units, and the knowledge graph as a whole (refer to Fig. 10).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        }
+      ]
+    },
+    {
+      "sentence": "Intersections between context units are discerned through is-about statements (see also Fig. 12), facilitating traversal across diverse frames of reference.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, an item group unit focusing on the contents of a scholarly publication, can encapsulate information about the associated research activity, its inputs, outputs, research methods, and objectives (see Fig. 11).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the representation in Fig. 12 combines the discursive and the ontological layers and represents the connections between different frames of reference.Implementation\nImplementing semantic units in RDF/OWL-based knowledge graphs using Nanopublications\nTo initiate the structuring of a knowledge graph into semantic units, first, a layer of abstraction beyond the triple level must be created.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Triples in the provenance Named Graph can potentially link to other semantic units and thus other nanopublications that contain detailed metadata descriptions (e.g., a metadata graph as shown in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The application employs the organization of the graph into semantic units within a navigation tree, facilitating exploration of a given item group unit through its associated item units (see Fig. 13).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The introduction of semantic units adds further layers of triples to the well-established RDF and OWL layer for knowledge graphs (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Bottom: The corresponding representation of the same statement as a semantic graph, adhering to RDF syntax and following the established pattern for measurement data from the Ontology for Biomedical Investigations (OBI) [35] of the Open Biological and Biomedical Ontology Foundry (OBO)Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nAlternative machine-actionable representation of the data statement from Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "This graph represents the same data statement as shown in Fig. 2 Top, but applies a semantic graph model that is based on the Extensible Observation Ontology (OBOE) [36], an ontology frequently used in the ecology communityTherefore, to maintain interoperability in the representation of empirical data statements within an RDF graph, it can be beneficial to restrict the graph patterns employed for their semantic modelling.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, metadata for a measurement may relate two distinct subgraphs: one representing the measurement itself (as seen in Fig. 2) and another documenting the underlying measuring process (as seen in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the graph in Fig. 2 exemplifies a subgraph that can be organized in a semantic unit that instantiates the class *SEMUNIT:weight statement unit* as it is illustrated in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For a detailed classification of semantic units, refer to Fig. 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This interconnectedness empowers users to make statements about the content encapsulated within the semantic unit’s data graph, as shown in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the weight measurement statement for apple X illustrated in Fig. 6 represents a statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Conversely, a weight measurement statement unit consists of a subject and two objects—the weight value and the weight unit (refer to Fig. 6).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Examples encompass the weight measurement statement in Fig. 6 and statements like ‘This right hand has part this right thumb on January 29th 2022’, ‘Anna gives Bob a book’, and ‘Carla travels by train from Paris to Berlin on the 29th of June 2022’, each necessitating more than one triple.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "In these cases, the statement’s verb or predicate is often represented not by a property within a single triple but instead by an instance resource, as exemplified by ‘weight X’ (PATO:0000128) in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A named individual identification unit is a statement unit that serves to identify a resource to be a named individual, adding information such as the resource’s label, type, and its class membership (refer to Fig. 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "A class identification unit2 is a statement unit that serves to identify a resource to be a class and provides details including its label, identifier, and optionally, the URIs of both the ontology and the specific version from which the class term has been imported (refer to Fig. 7B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "The connection between the resource representing the compound unit and those representing its associated semantic units is detailed through the property *SEMUNIT:hasAssociatedSemanticUnit* (see Fig. 8).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "A typed statement unit is a compound unit comprising the following statement units (see Fig. 9A):\n\nA statement unit that is not an instance of a named-individual or a class identification unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel A",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "This typed statement unit consolidates the data graphs of six statement units, including the *’weight statement unit’* from Figure 6, serving as the reference statement unit for this *‘typed statement unit’*, and five instances of *SEMUNIT:named-individual identification unit*.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A display pattern acts as a template that takes as input the labels provided by the identification units associated with a typed statement unit and generates a human-readable dynamic label for the textual (see Fig. 9B) or a dynamic mind-map pattern for the graphical representation (see Fig. 9C) of the statement of its reference statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel B",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel C",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, in documenting a research activity that results in the creation of a dataset describing the anatomy of a multicellular organism, the statement *‘description item unit’* isAbout\n‘multicellular organism’ (UBERON:0000468) marks a transition in the frame of reference from the research activity’s outcome to the multicellular organism being described (see also Fig. 12 further below).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "The data schema employed aligns with the schema shown in Figure 11, tailored to accommodate semantic units.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "By identifying statement units containing sensitive information by class, access restrictions can be dynamically enforced based on specific criteria.Semantic units: A framework for nested and overlapping knowledge graph modules\nSemantic units identify five levels of representational granularity\nSemantic units introduce a structured framework encompassing five levels of representational granularity within a knowledge graph: triples, statement units, item units, item group units, and the knowledge graph as a whole (refer to Fig. 10).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        }
+      ]
+    },
+    {
+      "sentence": "Intersections between context units are discerned through is-about statements (see also Fig. 12), facilitating traversal across diverse frames of reference.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, an item group unit focusing on the contents of a scholarly publication, can encapsulate information about the associated research activity, its inputs, outputs, research methods, and objectives (see Fig. 11).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the representation in Fig. 12 combines the discursive and the ontological layers and represents the connections between different frames of reference.Implementation\nImplementing semantic units in RDF/OWL-based knowledge graphs using Nanopublications\nTo initiate the structuring of a knowledge graph into semantic units, first, a layer of abstraction beyond the triple level must be created.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Triples in the provenance Named Graph can potentially link to other semantic units and thus other nanopublications that contain detailed metadata descriptions (e.g., a metadata graph as shown in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The application employs the organization of the graph into semantic units within a navigation tree, facilitating exploration of a given item group unit through its associated item units (see Fig. 13).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The introduction of semantic units adds further layers of triples to the well-established RDF and OWL layer for knowledge graphs (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Bottom: The corresponding representation of the same statement as a semantic graph, adhering to RDF syntax and following the established pattern for measurement data from the Ontology for Biomedical Investigations (OBI) [35] of the Open Biological and Biomedical Ontology Foundry (OBO)Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nAlternative machine-actionable representation of the data statement from Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "This graph represents the same data statement as shown in Fig. 2 Top, but applies a semantic graph model that is based on the Extensible Observation Ontology (OBOE) [36], an ontology frequently used in the ecology communityTherefore, to maintain interoperability in the representation of empirical data statements within an RDF graph, it can be beneficial to restrict the graph patterns employed for their semantic modelling.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, metadata for a measurement may relate two distinct subgraphs: one representing the measurement itself (as seen in Fig. 2) and another documenting the underlying measuring process (as seen in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the graph in Fig. 2 exemplifies a subgraph that can be organized in a semantic unit that instantiates the class *SEMUNIT:weight statement unit* as it is illustrated in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For a detailed classification of semantic units, refer to Fig. 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This interconnectedness empowers users to make statements about the content encapsulated within the semantic unit’s data graph, as shown in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the weight measurement statement for apple X illustrated in Fig. 6 represents a statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Conversely, a weight measurement statement unit consists of a subject and two objects—the weight value and the weight unit (refer to Fig. 6).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Examples encompass the weight measurement statement in Fig. 6 and statements like ‘This right hand has part this right thumb on January 29th 2022’, ‘Anna gives Bob a book’, and ‘Carla travels by train from Paris to Berlin on the 29th of June 2022’, each necessitating more than one triple.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "In these cases, the statement’s verb or predicate is often represented not by a property within a single triple but instead by an instance resource, as exemplified by ‘weight X’ (PATO:0000128) in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A named individual identification unit is a statement unit that serves to identify a resource to be a named individual, adding information such as the resource’s label, type, and its class membership (refer to Fig. 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "A class identification unit2 is a statement unit that serves to identify a resource to be a class and provides details including its label, identifier, and optionally, the URIs of both the ontology and the specific version from which the class term has been imported (refer to Fig. 7B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "The connection between the resource representing the compound unit and those representing its associated semantic units is detailed through the property *SEMUNIT:hasAssociatedSemanticUnit* (see Fig. 8).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "A typed statement unit is a compound unit comprising the following statement units (see Fig. 9A):\n\nA statement unit that is not an instance of a named-individual or a class identification unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel A",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "This typed statement unit consolidates the data graphs of six statement units, including the *’weight statement unit’* from Figure 6, serving as the reference statement unit for this *‘typed statement unit’*, and five instances of *SEMUNIT:named-individual identification unit*.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A display pattern acts as a template that takes as input the labels provided by the identification units associated with a typed statement unit and generates a human-readable dynamic label for the textual (see Fig. 9B) or a dynamic mind-map pattern for the graphical representation (see Fig. 9C) of the statement of its reference statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel B",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel C",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, in documenting a research activity that results in the creation of a dataset describing the anatomy of a multicellular organism, the statement *‘description item unit’* isAbout\n‘multicellular organism’ (UBERON:0000468) marks a transition in the frame of reference from the research activity’s outcome to the multicellular organism being described (see also Fig. 12 further below).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "The data schema employed aligns with the schema shown in Figure 11, tailored to accommodate semantic units.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "By identifying statement units containing sensitive information by class, access restrictions can be dynamically enforced based on specific criteria.Semantic units: A framework for nested and overlapping knowledge graph modules\nSemantic units identify five levels of representational granularity\nSemantic units introduce a structured framework encompassing five levels of representational granularity within a knowledge graph: triples, statement units, item units, item group units, and the knowledge graph as a whole (refer to Fig. 10).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        }
+      ]
+    },
+    {
+      "sentence": "Intersections between context units are discerned through is-about statements (see also Fig. 12), facilitating traversal across diverse frames of reference.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, an item group unit focusing on the contents of a scholarly publication, can encapsulate information about the associated research activity, its inputs, outputs, research methods, and objectives (see Fig. 11).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the representation in Fig. 12 combines the discursive and the ontological layers and represents the connections between different frames of reference.Implementation\nImplementing semantic units in RDF/OWL-based knowledge graphs using Nanopublications\nTo initiate the structuring of a knowledge graph into semantic units, first, a layer of abstraction beyond the triple level must be created.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Triples in the provenance Named Graph can potentially link to other semantic units and thus other nanopublications that contain detailed metadata descriptions (e.g., a metadata graph as shown in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The application employs the organization of the graph into semantic units within a navigation tree, facilitating exploration of a given item group unit through its associated item units (see Fig. 13).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The introduction of semantic units adds further layers of triples to the well-established RDF and OWL layer for knowledge graphs (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Bottom: The corresponding representation of the same statement as a semantic graph, adhering to RDF syntax and following the established pattern for measurement data from the Ontology for Biomedical Investigations (OBI) [35] of the Open Biological and Biomedical Ontology Foundry (OBO)Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nAlternative machine-actionable representation of the data statement from Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "This graph represents the same data statement as shown in Fig. 2 Top, but applies a semantic graph model that is based on the Extensible Observation Ontology (OBOE) [36], an ontology frequently used in the ecology communityTherefore, to maintain interoperability in the representation of empirical data statements within an RDF graph, it can be beneficial to restrict the graph patterns employed for their semantic modelling.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, metadata for a measurement may relate two distinct subgraphs: one representing the measurement itself (as seen in Fig. 2) and another documenting the underlying measuring process (as seen in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the graph in Fig. 2 exemplifies a subgraph that can be organized in a semantic unit that instantiates the class *SEMUNIT:weight statement unit* as it is illustrated in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For a detailed classification of semantic units, refer to Fig. 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This interconnectedness empowers users to make statements about the content encapsulated within the semantic unit’s data graph, as shown in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the weight measurement statement for apple X illustrated in Fig. 6 represents a statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Conversely, a weight measurement statement unit consists of a subject and two objects—the weight value and the weight unit (refer to Fig. 6).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Examples encompass the weight measurement statement in Fig. 6 and statements like ‘This right hand has part this right thumb on January 29th 2022’, ‘Anna gives Bob a book’, and ‘Carla travels by train from Paris to Berlin on the 29th of June 2022’, each necessitating more than one triple.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "In these cases, the statement’s verb or predicate is often represented not by a property within a single triple but instead by an instance resource, as exemplified by ‘weight X’ (PATO:0000128) in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A named individual identification unit is a statement unit that serves to identify a resource to be a named individual, adding information such as the resource’s label, type, and its class membership (refer to Fig. 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "A class identification unit2 is a statement unit that serves to identify a resource to be a class and provides details including its label, identifier, and optionally, the URIs of both the ontology and the specific version from which the class term has been imported (refer to Fig. 7B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "The connection between the resource representing the compound unit and those representing its associated semantic units is detailed through the property *SEMUNIT:hasAssociatedSemanticUnit* (see Fig. 8).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "A typed statement unit is a compound unit comprising the following statement units (see Fig. 9A):\n\nA statement unit that is not an instance of a named-individual or a class identification unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel A",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "This typed statement unit consolidates the data graphs of six statement units, including the *’weight statement unit’* from Figure 6, serving as the reference statement unit for this *‘typed statement unit’*, and five instances of *SEMUNIT:named-individual identification unit*.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A display pattern acts as a template that takes as input the labels provided by the identification units associated with a typed statement unit and generates a human-readable dynamic label for the textual (see Fig. 9B) or a dynamic mind-map pattern for the graphical representation (see Fig. 9C) of the statement of its reference statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel B",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel C",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, in documenting a research activity that results in the creation of a dataset describing the anatomy of a multicellular organism, the statement *‘description item unit’* isAbout\n‘multicellular organism’ (UBERON:0000468) marks a transition in the frame of reference from the research activity’s outcome to the multicellular organism being described (see also Fig. 12 further below).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "The data schema employed aligns with the schema shown in Figure 11, tailored to accommodate semantic units.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "By identifying statement units containing sensitive information by class, access restrictions can be dynamically enforced based on specific criteria.Semantic units: A framework for nested and overlapping knowledge graph modules\nSemantic units identify five levels of representational granularity\nSemantic units introduce a structured framework encompassing five levels of representational granularity within a knowledge graph: triples, statement units, item units, item group units, and the knowledge graph as a whole (refer to Fig. 10).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        }
+      ]
+    },
+    {
+      "sentence": "Intersections between context units are discerned through is-about statements (see also Fig. 12), facilitating traversal across diverse frames of reference.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, an item group unit focusing on the contents of a scholarly publication, can encapsulate information about the associated research activity, its inputs, outputs, research methods, and objectives (see Fig. 11).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the representation in Fig. 12 combines the discursive and the ontological layers and represents the connections between different frames of reference.Implementation\nImplementing semantic units in RDF/OWL-based knowledge graphs using Nanopublications\nTo initiate the structuring of a knowledge graph into semantic units, first, a layer of abstraction beyond the triple level must be created.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Triples in the provenance Named Graph can potentially link to other semantic units and thus other nanopublications that contain detailed metadata descriptions (e.g., a metadata graph as shown in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The application employs the organization of the graph into semantic units within a navigation tree, facilitating exploration of a given item group unit through its associated item units (see Fig. 13).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The introduction of semantic units adds further layers of triples to the well-established RDF and OWL layer for knowledge graphs (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Bottom: The corresponding representation of the same statement as a semantic graph, adhering to RDF syntax and following the established pattern for measurement data from the Ontology for Biomedical Investigations (OBI) [35] of the Open Biological and Biomedical Ontology Foundry (OBO)Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nAlternative machine-actionable representation of the data statement from Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "This graph represents the same data statement as shown in Fig. 2 Top, but applies a semantic graph model that is based on the Extensible Observation Ontology (OBOE) [36], an ontology frequently used in the ecology communityTherefore, to maintain interoperability in the representation of empirical data statements within an RDF graph, it can be beneficial to restrict the graph patterns employed for their semantic modelling.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, metadata for a measurement may relate two distinct subgraphs: one representing the measurement itself (as seen in Fig. 2) and another documenting the underlying measuring process (as seen in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the graph in Fig. 2 exemplifies a subgraph that can be organized in a semantic unit that instantiates the class *SEMUNIT:weight statement unit* as it is illustrated in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For a detailed classification of semantic units, refer to Fig. 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This interconnectedness empowers users to make statements about the content encapsulated within the semantic unit’s data graph, as shown in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the weight measurement statement for apple X illustrated in Fig. 6 represents a statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Conversely, a weight measurement statement unit consists of a subject and two objects—the weight value and the weight unit (refer to Fig. 6).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Examples encompass the weight measurement statement in Fig. 6 and statements like ‘This right hand has part this right thumb on January 29th 2022’, ‘Anna gives Bob a book’, and ‘Carla travels by train from Paris to Berlin on the 29th of June 2022’, each necessitating more than one triple.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "In these cases, the statement’s verb or predicate is often represented not by a property within a single triple but instead by an instance resource, as exemplified by ‘weight X’ (PATO:0000128) in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A named individual identification unit is a statement unit that serves to identify a resource to be a named individual, adding information such as the resource’s label, type, and its class membership (refer to Fig. 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "A class identification unit2 is a statement unit that serves to identify a resource to be a class and provides details including its label, identifier, and optionally, the URIs of both the ontology and the specific version from which the class term has been imported (refer to Fig. 7B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "The connection between the resource representing the compound unit and those representing its associated semantic units is detailed through the property *SEMUNIT:hasAssociatedSemanticUnit* (see Fig. 8).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "A typed statement unit is a compound unit comprising the following statement units (see Fig. 9A):\n\nA statement unit that is not an instance of a named-individual or a class identification unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel A",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "This typed statement unit consolidates the data graphs of six statement units, including the *’weight statement unit’* from Figure 6, serving as the reference statement unit for this *‘typed statement unit’*, and five instances of *SEMUNIT:named-individual identification unit*.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A display pattern acts as a template that takes as input the labels provided by the identification units associated with a typed statement unit and generates a human-readable dynamic label for the textual (see Fig. 9B) or a dynamic mind-map pattern for the graphical representation (see Fig. 9C) of the statement of its reference statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel B",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel C",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, in documenting a research activity that results in the creation of a dataset describing the anatomy of a multicellular organism, the statement *‘description item unit’* isAbout\n‘multicellular organism’ (UBERON:0000468) marks a transition in the frame of reference from the research activity’s outcome to the multicellular organism being described (see also Fig. 12 further below).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "The data schema employed aligns with the schema shown in Figure 11, tailored to accommodate semantic units.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "By identifying statement units containing sensitive information by class, access restrictions can be dynamically enforced based on specific criteria.Semantic units: A framework for nested and overlapping knowledge graph modules\nSemantic units identify five levels of representational granularity\nSemantic units introduce a structured framework encompassing five levels of representational granularity within a knowledge graph: triples, statement units, item units, item group units, and the knowledge graph as a whole (refer to Fig. 10).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        }
+      ]
+    },
+    {
+      "sentence": "Intersections between context units are discerned through is-about statements (see also Fig. 12), facilitating traversal across diverse frames of reference.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, an item group unit focusing on the contents of a scholarly publication, can encapsulate information about the associated research activity, its inputs, outputs, research methods, and objectives (see Fig. 11).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the representation in Fig. 12 combines the discursive and the ontological layers and represents the connections between different frames of reference.Implementation\nImplementing semantic units in RDF/OWL-based knowledge graphs using Nanopublications\nTo initiate the structuring of a knowledge graph into semantic units, first, a layer of abstraction beyond the triple level must be created.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Triples in the provenance Named Graph can potentially link to other semantic units and thus other nanopublications that contain detailed metadata descriptions (e.g., a metadata graph as shown in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The application employs the organization of the graph into semantic units within a navigation tree, facilitating exploration of a given item group unit through its associated item units (see Fig. 13).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The introduction of semantic units adds further layers of triples to the well-established RDF and OWL layer for knowledge graphs (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Bottom: The corresponding representation of the same statement as a semantic graph, adhering to RDF syntax and following the established pattern for measurement data from the Ontology for Biomedical Investigations (OBI) [35] of the Open Biological and Biomedical Ontology Foundry (OBO)Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nAlternative machine-actionable representation of the data statement from Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "This graph represents the same data statement as shown in Fig. 2 Top, but applies a semantic graph model that is based on the Extensible Observation Ontology (OBOE) [36], an ontology frequently used in the ecology communityTherefore, to maintain interoperability in the representation of empirical data statements within an RDF graph, it can be beneficial to restrict the graph patterns employed for their semantic modelling.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, metadata for a measurement may relate two distinct subgraphs: one representing the measurement itself (as seen in Fig. 2) and another documenting the underlying measuring process (as seen in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the graph in Fig. 2 exemplifies a subgraph that can be organized in a semantic unit that instantiates the class *SEMUNIT:weight statement unit* as it is illustrated in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For a detailed classification of semantic units, refer to Fig. 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This interconnectedness empowers users to make statements about the content encapsulated within the semantic unit’s data graph, as shown in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the weight measurement statement for apple X illustrated in Fig. 6 represents a statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Conversely, a weight measurement statement unit consists of a subject and two objects—the weight value and the weight unit (refer to Fig. 6).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Examples encompass the weight measurement statement in Fig. 6 and statements like ‘This right hand has part this right thumb on January 29th 2022’, ‘Anna gives Bob a book’, and ‘Carla travels by train from Paris to Berlin on the 29th of June 2022’, each necessitating more than one triple.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "In these cases, the statement’s verb or predicate is often represented not by a property within a single triple but instead by an instance resource, as exemplified by ‘weight X’ (PATO:0000128) in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A named individual identification unit is a statement unit that serves to identify a resource to be a named individual, adding information such as the resource’s label, type, and its class membership (refer to Fig. 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "A class identification unit2 is a statement unit that serves to identify a resource to be a class and provides details including its label, identifier, and optionally, the URIs of both the ontology and the specific version from which the class term has been imported (refer to Fig. 7B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "The connection between the resource representing the compound unit and those representing its associated semantic units is detailed through the property *SEMUNIT:hasAssociatedSemanticUnit* (see Fig. 8).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "A typed statement unit is a compound unit comprising the following statement units (see Fig. 9A):\n\nA statement unit that is not an instance of a named-individual or a class identification unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel A",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "This typed statement unit consolidates the data graphs of six statement units, including the *’weight statement unit’* from Figure 6, serving as the reference statement unit for this *‘typed statement unit’*, and five instances of *SEMUNIT:named-individual identification unit*.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A display pattern acts as a template that takes as input the labels provided by the identification units associated with a typed statement unit and generates a human-readable dynamic label for the textual (see Fig. 9B) or a dynamic mind-map pattern for the graphical representation (see Fig. 9C) of the statement of its reference statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel B",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel C",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, in documenting a research activity that results in the creation of a dataset describing the anatomy of a multicellular organism, the statement *‘description item unit’* isAbout\n‘multicellular organism’ (UBERON:0000468) marks a transition in the frame of reference from the research activity’s outcome to the multicellular organism being described (see also Fig. 12 further below).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "The data schema employed aligns with the schema shown in Figure 11, tailored to accommodate semantic units.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "By identifying statement units containing sensitive information by class, access restrictions can be dynamically enforced based on specific criteria.Semantic units: A framework for nested and overlapping knowledge graph modules\nSemantic units identify five levels of representational granularity\nSemantic units introduce a structured framework encompassing five levels of representational granularity within a knowledge graph: triples, statement units, item units, item group units, and the knowledge graph as a whole (refer to Fig. 10).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        }
+      ]
+    },
+    {
+      "sentence": "Intersections between context units are discerned through is-about statements (see also Fig. 12), facilitating traversal across diverse frames of reference.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, an item group unit focusing on the contents of a scholarly publication, can encapsulate information about the associated research activity, its inputs, outputs, research methods, and objectives (see Fig. 11).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the representation in Fig. 12 combines the discursive and the ontological layers and represents the connections between different frames of reference.Implementation\nImplementing semantic units in RDF/OWL-based knowledge graphs using Nanopublications\nTo initiate the structuring of a knowledge graph into semantic units, first, a layer of abstraction beyond the triple level must be created.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Triples in the provenance Named Graph can potentially link to other semantic units and thus other nanopublications that contain detailed metadata descriptions (e.g., a metadata graph as shown in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The application employs the organization of the graph into semantic units within a navigation tree, facilitating exploration of a given item group unit through its associated item units (see Fig. 13).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The introduction of semantic units adds further layers of triples to the well-established RDF and OWL layer for knowledge graphs (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Bottom: The corresponding representation of the same statement as a semantic graph, adhering to RDF syntax and following the established pattern for measurement data from the Ontology for Biomedical Investigations (OBI) [35] of the Open Biological and Biomedical Ontology Foundry (OBO)Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nAlternative machine-actionable representation of the data statement from Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "This graph represents the same data statement as shown in Fig. 2 Top, but applies a semantic graph model that is based on the Extensible Observation Ontology (OBOE) [36], an ontology frequently used in the ecology communityTherefore, to maintain interoperability in the representation of empirical data statements within an RDF graph, it can be beneficial to restrict the graph patterns employed for their semantic modelling.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, metadata for a measurement may relate two distinct subgraphs: one representing the measurement itself (as seen in Fig. 2) and another documenting the underlying measuring process (as seen in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the graph in Fig. 2 exemplifies a subgraph that can be organized in a semantic unit that instantiates the class *SEMUNIT:weight statement unit* as it is illustrated in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For a detailed classification of semantic units, refer to Fig. 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This interconnectedness empowers users to make statements about the content encapsulated within the semantic unit’s data graph, as shown in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the weight measurement statement for apple X illustrated in Fig. 6 represents a statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Conversely, a weight measurement statement unit consists of a subject and two objects—the weight value and the weight unit (refer to Fig. 6).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Examples encompass the weight measurement statement in Fig. 6 and statements like ‘This right hand has part this right thumb on January 29th 2022’, ‘Anna gives Bob a book’, and ‘Carla travels by train from Paris to Berlin on the 29th of June 2022’, each necessitating more than one triple.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "In these cases, the statement’s verb or predicate is often represented not by a property within a single triple but instead by an instance resource, as exemplified by ‘weight X’ (PATO:0000128) in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A named individual identification unit is a statement unit that serves to identify a resource to be a named individual, adding information such as the resource’s label, type, and its class membership (refer to Fig. 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "A class identification unit2 is a statement unit that serves to identify a resource to be a class and provides details including its label, identifier, and optionally, the URIs of both the ontology and the specific version from which the class term has been imported (refer to Fig. 7B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "The connection between the resource representing the compound unit and those representing its associated semantic units is detailed through the property *SEMUNIT:hasAssociatedSemanticUnit* (see Fig. 8).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "A typed statement unit is a compound unit comprising the following statement units (see Fig. 9A):\n\nA statement unit that is not an instance of a named-individual or a class identification unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel A",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "This typed statement unit consolidates the data graphs of six statement units, including the *’weight statement unit’* from Figure 6, serving as the reference statement unit for this *‘typed statement unit’*, and five instances of *SEMUNIT:named-individual identification unit*.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A display pattern acts as a template that takes as input the labels provided by the identification units associated with a typed statement unit and generates a human-readable dynamic label for the textual (see Fig. 9B) or a dynamic mind-map pattern for the graphical representation (see Fig. 9C) of the statement of its reference statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel B",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel C",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, in documenting a research activity that results in the creation of a dataset describing the anatomy of a multicellular organism, the statement *‘description item unit’* isAbout\n‘multicellular organism’ (UBERON:0000468) marks a transition in the frame of reference from the research activity’s outcome to the multicellular organism being described (see also Fig. 12 further below).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "The data schema employed aligns with the schema shown in Figure 11, tailored to accommodate semantic units.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "By identifying statement units containing sensitive information by class, access restrictions can be dynamically enforced based on specific criteria.Semantic units: A framework for nested and overlapping knowledge graph modules\nSemantic units identify five levels of representational granularity\nSemantic units introduce a structured framework encompassing five levels of representational granularity within a knowledge graph: triples, statement units, item units, item group units, and the knowledge graph as a whole (refer to Fig. 10).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        }
+      ]
+    },
+    {
+      "sentence": "Intersections between context units are discerned through is-about statements (see also Fig. 12), facilitating traversal across diverse frames of reference.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, an item group unit focusing on the contents of a scholarly publication, can encapsulate information about the associated research activity, its inputs, outputs, research methods, and objectives (see Fig. 11).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the representation in Fig. 12 combines the discursive and the ontological layers and represents the connections between different frames of reference.Implementation\nImplementing semantic units in RDF/OWL-based knowledge graphs using Nanopublications\nTo initiate the structuring of a knowledge graph into semantic units, first, a layer of abstraction beyond the triple level must be created.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Triples in the provenance Named Graph can potentially link to other semantic units and thus other nanopublications that contain detailed metadata descriptions (e.g., a metadata graph as shown in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The application employs the organization of the graph into semantic units within a navigation tree, facilitating exploration of a given item group unit through its associated item units (see Fig. 13).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The introduction of semantic units adds further layers of triples to the well-established RDF and OWL layer for knowledge graphs (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The introduction of semantic units adds further layers of triples to the well-established RDF and OWL layer for knowledge graphs (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Bottom: The corresponding representation of the same statement as a semantic graph, adhering to RDF syntax and following the established pattern for measurement data from the Ontology for Biomedical Investigations (OBI) [35] of the Open Biological and Biomedical Ontology Foundry (OBO)Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nAlternative machine-actionable representation of the data statement from Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "This graph represents the same data statement as shown in Fig. 2 Top, but applies a semantic graph model that is based on the Extensible Observation Ontology (OBOE) [36], an ontology frequently used in the ecology communityTherefore, to maintain interoperability in the representation of empirical data statements within an RDF graph, it can be beneficial to restrict the graph patterns employed for their semantic modelling.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, metadata for a measurement may relate two distinct subgraphs: one representing the measurement itself (as seen in Fig. 2) and another documenting the underlying measuring process (as seen in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Bottom: The corresponding representation of the same statement as a semantic graph, adhering to RDF syntax and following the established pattern for measurement data from the Ontology for Biomedical Investigations (OBI) [35] of the Open Biological and Biomedical Ontology Foundry (OBO)Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nAlternative machine-actionable representation of the data statement from Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "This graph represents the same data statement as shown in Fig. 2 Top, but applies a semantic graph model that is based on the Extensible Observation Ontology (OBOE) [36], an ontology frequently used in the ecology communityTherefore, to maintain interoperability in the representation of empirical data statements within an RDF graph, it can be beneficial to restrict the graph patterns employed for their semantic modelling.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, metadata for a measurement may relate two distinct subgraphs: one representing the measurement itself (as seen in Fig. 2) and another documenting the underlying measuring process (as seen in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Bottom: The corresponding representation of the same statement as a semantic graph, adhering to RDF syntax and following the established pattern for measurement data from the Ontology for Biomedical Investigations (OBI) [35] of the Open Biological and Biomedical Ontology Foundry (OBO)Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nAlternative machine-actionable representation of the data statement from Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "This graph represents the same data statement as shown in Fig. 2 Top, but applies a semantic graph model that is based on the Extensible Observation Ontology (OBOE) [36], an ontology frequently used in the ecology communityTherefore, to maintain interoperability in the representation of empirical data statements within an RDF graph, it can be beneficial to restrict the graph patterns employed for their semantic modelling.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Alternative machine-actionable representation of the data statement from Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "This graph represents the same data statement as shown in Fig. 2 Top, but applies a semantic graph model that is based on the Extensible Observation Ontology (OBOE) [36], an ontology frequently used in the ecology community.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, metadata for a measurement may relate two distinct subgraphs: one representing the measurement itself (as seen in Fig. 2) and another documenting the underlying measuring process (as seen in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, metadata for a measurement may relate two distinct subgraphs: one representing the measurement itself (as seen in Fig. 2) and another documenting the underlying measuring process (as seen in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the graph in Fig. 2 exemplifies a subgraph that can be organized in a semantic unit that instantiates the class *SEMUNIT:weight statement unit* as it is illustrated in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For a detailed classification of semantic units, refer to Fig. 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This interconnectedness empowers users to make statements about the content encapsulated within the semantic unit’s data graph, as shown in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the weight measurement statement for apple X illustrated in Fig. 6 represents a statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Conversely, a weight measurement statement unit consists of a subject and two objects—the weight value and the weight unit (refer to Fig. 6).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Examples encompass the weight measurement statement in Fig. 6 and statements like ‘This right hand has part this right thumb on January 29th 2022’, ‘Anna gives Bob a book’, and ‘Carla travels by train from Paris to Berlin on the 29th of June 2022’, each necessitating more than one triple.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "In these cases, the statement’s verb or predicate is often represented not by a property within a single triple but instead by an instance resource, as exemplified by ‘weight X’ (PATO:0000128) in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A named individual identification unit is a statement unit that serves to identify a resource to be a named individual, adding information such as the resource’s label, type, and its class membership (refer to Fig. 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "A class identification unit2 is a statement unit that serves to identify a resource to be a class and provides details including its label, identifier, and optionally, the URIs of both the ontology and the specific version from which the class term has been imported (refer to Fig. 7B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "The connection between the resource representing the compound unit and those representing its associated semantic units is detailed through the property *SEMUNIT:hasAssociatedSemanticUnit* (see Fig. 8).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "A typed statement unit is a compound unit comprising the following statement units (see Fig. 9A):\n\nA statement unit that is not an instance of a named-individual or a class identification unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel A",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "This typed statement unit consolidates the data graphs of six statement units, including the *’weight statement unit’* from Figure 6, serving as the reference statement unit for this *‘typed statement unit’*, and five instances of *SEMUNIT:named-individual identification unit*.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A display pattern acts as a template that takes as input the labels provided by the identification units associated with a typed statement unit and generates a human-readable dynamic label for the textual (see Fig. 9B) or a dynamic mind-map pattern for the graphical representation (see Fig. 9C) of the statement of its reference statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel B",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel C",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, in documenting a research activity that results in the creation of a dataset describing the anatomy of a multicellular organism, the statement *‘description item unit’* isAbout\n‘multicellular organism’ (UBERON:0000468) marks a transition in the frame of reference from the research activity’s outcome to the multicellular organism being described (see also Fig. 12 further below).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "The data schema employed aligns with the schema shown in Figure 11, tailored to accommodate semantic units.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the graph in Fig. 2 exemplifies a subgraph that can be organized in a semantic unit that instantiates the class *SEMUNIT:weight statement unit* as it is illustrated in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For a detailed classification of semantic units, refer to Fig. 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This interconnectedness empowers users to make statements about the content encapsulated within the semantic unit’s data graph, as shown in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the weight measurement statement for apple X illustrated in Fig. 6 represents a statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Conversely, a weight measurement statement unit consists of a subject and two objects—the weight value and the weight unit (refer to Fig. 6).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Examples encompass the weight measurement statement in Fig. 6 and statements like ‘This right hand has part this right thumb on January 29th 2022’, ‘Anna gives Bob a book’, and ‘Carla travels by train from Paris to Berlin on the 29th of June 2022’, each necessitating more than one triple.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "In these cases, the statement’s verb or predicate is often represented not by a property within a single triple but instead by an instance resource, as exemplified by ‘weight X’ (PATO:0000128) in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A named individual identification unit is a statement unit that serves to identify a resource to be a named individual, adding information such as the resource’s label, type, and its class membership (refer to Fig. 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "A class identification unit2 is a statement unit that serves to identify a resource to be a class and provides details including its label, identifier, and optionally, the URIs of both the ontology and the specific version from which the class term has been imported (refer to Fig. 7B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "The connection between the resource representing the compound unit and those representing its associated semantic units is detailed through the property *SEMUNIT:hasAssociatedSemanticUnit* (see Fig. 8).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "A typed statement unit is a compound unit comprising the following statement units (see Fig. 9A):\n\nA statement unit that is not an instance of a named-individual or a class identification unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel A",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "This typed statement unit consolidates the data graphs of six statement units, including the *’weight statement unit’* from Figure 6, serving as the reference statement unit for this *‘typed statement unit’*, and five instances of *SEMUNIT:named-individual identification unit*.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A display pattern acts as a template that takes as input the labels provided by the identification units associated with a typed statement unit and generates a human-readable dynamic label for the textual (see Fig. 9B) or a dynamic mind-map pattern for the graphical representation (see Fig. 9C) of the statement of its reference statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel B",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel C",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, in documenting a research activity that results in the creation of a dataset describing the anatomy of a multicellular organism, the statement *‘description item unit’* isAbout\n‘multicellular organism’ (UBERON:0000468) marks a transition in the frame of reference from the research activity’s outcome to the multicellular organism being described (see also Fig. 12 further below).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "The data schema employed aligns with the schema shown in Figure 11, tailored to accommodate semantic units.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the graph in Fig. 2 exemplifies a subgraph that can be organized in a semantic unit that instantiates the class *SEMUNIT:weight statement unit* as it is illustrated in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For a detailed classification of semantic units, refer to Fig. 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This interconnectedness empowers users to make statements about the content encapsulated within the semantic unit’s data graph, as shown in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the weight measurement statement for apple X illustrated in Fig. 6 represents a statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Conversely, a weight measurement statement unit consists of a subject and two objects—the weight value and the weight unit (refer to Fig. 6).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Examples encompass the weight measurement statement in Fig. 6 and statements like ‘This right hand has part this right thumb on January 29th 2022’, ‘Anna gives Bob a book’, and ‘Carla travels by train from Paris to Berlin on the 29th of June 2022’, each necessitating more than one triple.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "In these cases, the statement’s verb or predicate is often represented not by a property within a single triple but instead by an instance resource, as exemplified by ‘weight X’ (PATO:0000128) in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A named individual identification unit is a statement unit that serves to identify a resource to be a named individual, adding information such as the resource’s label, type, and its class membership (refer to Fig. 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "A class identification unit2 is a statement unit that serves to identify a resource to be a class and provides details including its label, identifier, and optionally, the URIs of both the ontology and the specific version from which the class term has been imported (refer to Fig. 7B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, the weight measurement statement for apple X illustrated in Fig. 6 represents a statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Conversely, a weight measurement statement unit consists of a subject and two objects—the weight value and the weight unit (refer to Fig. 6).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Examples encompass the weight measurement statement in Fig. 6 and statements like ‘This right hand has part this right thumb on January 29th 2022’, ‘Anna gives Bob a book’, and ‘Carla travels by train from Paris to Berlin on the 29th of June 2022’, each necessitating more than one triple.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "In these cases, the statement’s verb or predicate is often represented not by a property within a single triple but instead by an instance resource, as exemplified by ‘weight X’ (PATO:0000128) in Fig. 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A named individual identification unit is a statement unit that serves to identify a resource to be a named individual, adding information such as the resource’s label, type, and its class membership (refer to Fig. 7A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel A",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "A class identification unit2 is a statement unit that serves to identify a resource to be a class and provides details including its label, identifier, and optionally, the URIs of both the ontology and the specific version from which the class term has been imported (refer to Fig. 7B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel B",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "The connection between the resource representing the compound unit and those representing its associated semantic units is detailed through the property *SEMUNIT:hasAssociatedSemanticUnit* (see Fig. 8).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "A typed statement unit is a compound unit comprising the following statement units (see Fig. 9A):\n\nA statement unit that is not an instance of a named-individual or a class identification unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel A",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "This typed statement unit consolidates the data graphs of six statement units, including the *’weight statement unit’* from Figure 6, serving as the reference statement unit for this *‘typed statement unit’*, and five instances of *SEMUNIT:named-individual identification unit*.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A display pattern acts as a template that takes as input the labels provided by the identification units associated with a typed statement unit and generates a human-readable dynamic label for the textual (see Fig. 9B) or a dynamic mind-map pattern for the graphical representation (see Fig. 9C) of the statement of its reference statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel B",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel C",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, in documenting a research activity that results in the creation of a dataset describing the anatomy of a multicellular organism, the statement *‘description item unit’* isAbout\n‘multicellular organism’ (UBERON:0000468) marks a transition in the frame of reference from the research activity’s outcome to the multicellular organism being described (see also Fig. 12 further below).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "The data schema employed aligns with the schema shown in Figure 11, tailored to accommodate semantic units.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "The connection between the resource representing the compound unit and those representing its associated semantic units is detailed through the property *SEMUNIT:hasAssociatedSemanticUnit* (see Fig. 8).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "A typed statement unit is a compound unit comprising the following statement units (see Fig. 9A):\n\nA statement unit that is not an instance of a named-individual or a class identification unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel A",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "This typed statement unit consolidates the data graphs of six statement units, including the *’weight statement unit’* from Figure 6, serving as the reference statement unit for this *‘typed statement unit’*, and five instances of *SEMUNIT:named-individual identification unit*.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A display pattern acts as a template that takes as input the labels provided by the identification units associated with a typed statement unit and generates a human-readable dynamic label for the textual (see Fig. 9B) or a dynamic mind-map pattern for the graphical representation (see Fig. 9C) of the statement of its reference statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel B",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel C",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "A typed statement unit is a compound unit comprising the following statement units (see Fig. 9A):.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel A",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "This typed statement unit consolidates the data graphs of six statement units, including the *’weight statement unit’* from Figure 6, serving as the reference statement unit for this *‘typed statement unit’*, and five instances of *SEMUNIT:named-individual identification unit*.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "A display pattern acts as a template that takes as input the labels provided by the identification units associated with a typed statement unit and generates a human-readable dynamic label for the textual (see Fig. 9B) or a dynamic mind-map pattern for the graphical representation (see Fig. 9C) of the statement of its reference statement unit.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel B",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel C",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, in documenting a research activity that results in the creation of a dataset describing the anatomy of a multicellular organism, the statement *‘description item unit’* isAbout\n‘multicellular organism’ (UBERON:0000468) marks a transition in the frame of reference from the research activity’s outcome to the multicellular organism being described (see also Fig. 12 further below).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "The data schema employed aligns with the schema shown in Figure 11, tailored to accommodate semantic units.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, in documenting a research activity that results in the creation of a dataset describing the anatomy of a multicellular organism, the statement *‘description item unit’* isAbout\n‘multicellular organism’ (UBERON:0000468) marks a transition in the frame of reference from the research activity’s outcome to the multicellular organism being described (see also Fig. 12 further below).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "The data schema employed aligns with the schema shown in Figure 11, tailored to accommodate semantic units.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "By identifying statement units containing sensitive information by class, access restrictions can be dynamically enforced based on specific criteria.Semantic units: A framework for nested and overlapping knowledge graph modules\nSemantic units identify five levels of representational granularity\nSemantic units introduce a structured framework encompassing five levels of representational granularity within a knowledge graph: triples, statement units, item units, item group units, and the knowledge graph as a whole (refer to Fig. 10).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        }
+      ]
+    },
+    {
+      "sentence": "Intersections between context units are discerned through is-about statements (see also Fig. 12), facilitating traversal across diverse frames of reference.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, an item group unit focusing on the contents of a scholarly publication, can encapsulate information about the associated research activity, its inputs, outputs, research methods, and objectives (see Fig. 11).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the representation in Fig. 12 combines the discursive and the ontological layers and represents the connections between different frames of reference.Implementation\nImplementing semantic units in RDF/OWL-based knowledge graphs using Nanopublications\nTo initiate the structuring of a knowledge graph into semantic units, first, a layer of abstraction beyond the triple level must be created.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Triples in the provenance Named Graph can potentially link to other semantic units and thus other nanopublications that contain detailed metadata descriptions (e.g., a metadata graph as shown in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The application employs the organization of the graph into semantic units within a navigation tree, facilitating exploration of a given item group unit through its associated item units (see Fig. 13).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "Semantic units: A framework for nested and overlapping knowledge graph modules\nSemantic units identify five levels of representational granularity\nSemantic units introduce a structured framework encompassing five levels of representational granularity within a knowledge graph: triples, statement units, item units, item group units, and the knowledge graph as a whole (refer to Fig. 10).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        }
+      ]
+    },
+    {
+      "sentence": "Semantic units identify five levels of representational granularity\nSemantic units introduce a structured framework encompassing five levels of representational granularity within a knowledge graph: triples, statement units, item units, item group units, and the knowledge graph as a whole (refer to Fig. 10).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        }
+      ]
+    },
+    {
+      "sentence": "Semantic units introduce a structured framework encompassing five levels of representational granularity within a knowledge graph: triples, statement units, item units, item group units, and the knowledge graph as a whole (refer to Fig. 10).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        }
+      ]
+    },
+    {
+      "sentence": "Intersections between context units are discerned through is-about statements (see also Fig. 12), facilitating traversal across diverse frames of reference.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, an item group unit focusing on the contents of a scholarly publication, can encapsulate information about the associated research activity, its inputs, outputs, research methods, and objectives (see Fig. 11).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the representation in Fig. 12 combines the discursive and the ontological layers and represents the connections between different frames of reference.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Intersections between context units are discerned through is-about statements (see also Fig. 12), facilitating traversal across diverse frames of reference.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, an item group unit focusing on the contents of a scholarly publication, can encapsulate information about the associated research activity, its inputs, outputs, research methods, and objectives (see Fig. 11).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the representation in Fig. 12 combines the discursive and the ontological layers and represents the connections between different frames of reference.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "For instance, an item group unit focusing on the contents of a scholarly publication, can encapsulate information about the associated research activity, its inputs, outputs, research methods, and objectives (see Fig. 11).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the representation in Fig. 12 combines the discursive and the ontological layers and represents the connections between different frames of reference.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Triples in the provenance Named Graph can potentially link to other semantic units and thus other nanopublications that contain detailed metadata descriptions (e.g., a metadata graph as shown in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The application employs the organization of the graph into semantic units within a navigation tree, facilitating exploration of a given item group unit through its associated item units (see Fig. 13).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "Triples in the provenance Named Graph can potentially link to other semantic units and thus other nanopublications that contain detailed metadata descriptions (e.g., a metadata graph as shown in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Triples in the provenance Named Graph can potentially link to other semantic units and thus other nanopublications that contain detailed metadata descriptions (e.g., a metadata graph as shown in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The application employs the organization of the graph into semantic units within a navigation tree, facilitating exploration of a given item group unit through its associated item units (see Fig. 13).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The application employs the organization of the graph into semantic units within a navigation tree, facilitating exploration of a given item group unit through its associated item units (see Fig. 13).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 13,
+    "claims_count": 310,
+    "images_downloaded": 13,
+    "tables_filtered": 307
+  }
+}

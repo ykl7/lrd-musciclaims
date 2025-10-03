@@ -1,0 +1,1622 @@
+[
+  {
+    "sentence": "Figure 1 shows the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Details of the Scheme\nThe proposed approach includes two essential parts, offline training, and online operation, as seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The flowchart of the detection process is illustrated in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The conceptual organization of the dataset collection scenario is shown in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the average results obtained by applying the proposed scheme during the operational mode.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe effectiveness of the proposed scheme.As shown in Figure 4, the scheme achieved 93.83% detection accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 compares the performance of the comparable SeqNum Based scheme to that of the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nComparison between ED3S, D3S, and SeqNum.Table 1 and Figure 5 show that the proposed scheme ED3S achieved the highest accuracy, 93.14%, compared to 88.10% for the D3S and 55.09% for SeqNum.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 displays the proposed scheme’s strength against different de-authentication and dis-association attacks.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 6, the X-axis represents the test number.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nED3S, D3S, and SeqNum Details Comparison.As shown in thr Figure 6 accuracy section and Table 1, in most tests, ED3S maintained a stable accuracy above 93% for most attack types, compared to D3S whose accuracy dropped below 88%.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the sequence number’s FPR is more stable than the proposed schemes ED3S and D3S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However, the FNR in Figure 6 false-negative rate part of ED3S and D3S is more stable and much lower than that of the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The F-measure part in Figure 6 shows that the overall performance of both ED3S and D3S is stable and around 90%, while it varies below 40% for the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Details of the Scheme\nThe proposed approach includes two essential parts, offline training, and online operation, as seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The flowchart of the detection process is illustrated in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The conceptual organization of the dataset collection scenario is shown in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the average results obtained by applying the proposed scheme during the operational mode.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe effectiveness of the proposed scheme.As shown in Figure 4, the scheme achieved 93.83% detection accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 compares the performance of the comparable SeqNum Based scheme to that of the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nComparison between ED3S, D3S, and SeqNum.Table 1 and Figure 5 show that the proposed scheme ED3S achieved the highest accuracy, 93.14%, compared to 88.10% for the D3S and 55.09% for SeqNum.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 displays the proposed scheme’s strength against different de-authentication and dis-association attacks.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 6, the X-axis represents the test number.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nED3S, D3S, and SeqNum Details Comparison.As shown in thr Figure 6 accuracy section and Table 1, in most tests, ED3S maintained a stable accuracy above 93% for most attack types, compared to D3S whose accuracy dropped below 88%.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the sequence number’s FPR is more stable than the proposed schemes ED3S and D3S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However, the FNR in Figure 6 false-negative rate part of ED3S and D3S is more stable and much lower than that of the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The F-measure part in Figure 6 shows that the overall performance of both ED3S and D3S is stable and around 90%, while it varies below 40% for the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Details of the Scheme\nThe proposed approach includes two essential parts, offline training, and online operation, as seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The flowchart of the detection process is illustrated in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The conceptual organization of the dataset collection scenario is shown in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the average results obtained by applying the proposed scheme during the operational mode.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe effectiveness of the proposed scheme.As shown in Figure 4, the scheme achieved 93.83% detection accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 compares the performance of the comparable SeqNum Based scheme to that of the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nComparison between ED3S, D3S, and SeqNum.Table 1 and Figure 5 show that the proposed scheme ED3S achieved the highest accuracy, 93.14%, compared to 88.10% for the D3S and 55.09% for SeqNum.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 displays the proposed scheme’s strength against different de-authentication and dis-association attacks.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 6, the X-axis represents the test number.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nED3S, D3S, and SeqNum Details Comparison.As shown in thr Figure 6 accuracy section and Table 1, in most tests, ED3S maintained a stable accuracy above 93% for most attack types, compared to D3S whose accuracy dropped below 88%.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the sequence number’s FPR is more stable than the proposed schemes ED3S and D3S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However, the FNR in Figure 6 false-negative rate part of ED3S and D3S is more stable and much lower than that of the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The F-measure part in Figure 6 shows that the overall performance of both ED3S and D3S is stable and around 90%, while it varies below 40% for the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Details of the Scheme\nThe proposed approach includes two essential parts, offline training, and online operation, as seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The flowchart of the detection process is illustrated in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The conceptual organization of the dataset collection scenario is shown in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the average results obtained by applying the proposed scheme during the operational mode.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe effectiveness of the proposed scheme.As shown in Figure 4, the scheme achieved 93.83% detection accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 compares the performance of the comparable SeqNum Based scheme to that of the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nComparison between ED3S, D3S, and SeqNum.Table 1 and Figure 5 show that the proposed scheme ED3S achieved the highest accuracy, 93.14%, compared to 88.10% for the D3S and 55.09% for SeqNum.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 displays the proposed scheme’s strength against different de-authentication and dis-association attacks.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 6, the X-axis represents the test number.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nED3S, D3S, and SeqNum Details Comparison.As shown in thr Figure 6 accuracy section and Table 1, in most tests, ED3S maintained a stable accuracy above 93% for most attack types, compared to D3S whose accuracy dropped below 88%.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the sequence number’s FPR is more stable than the proposed schemes ED3S and D3S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However, the FNR in Figure 6 false-negative rate part of ED3S and D3S is more stable and much lower than that of the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The F-measure part in Figure 6 shows that the overall performance of both ED3S and D3S is stable and around 90%, while it varies below 40% for the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Details of the Scheme\nThe proposed approach includes two essential parts, offline training, and online operation, as seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The flowchart of the detection process is illustrated in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The conceptual organization of the dataset collection scenario is shown in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the average results obtained by applying the proposed scheme during the operational mode.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe effectiveness of the proposed scheme.As shown in Figure 4, the scheme achieved 93.83% detection accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 compares the performance of the comparable SeqNum Based scheme to that of the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nComparison between ED3S, D3S, and SeqNum.Table 1 and Figure 5 show that the proposed scheme ED3S achieved the highest accuracy, 93.14%, compared to 88.10% for the D3S and 55.09% for SeqNum.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 displays the proposed scheme’s strength against different de-authentication and dis-association attacks.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 6, the X-axis represents the test number.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nED3S, D3S, and SeqNum Details Comparison.As shown in thr Figure 6 accuracy section and Table 1, in most tests, ED3S maintained a stable accuracy above 93% for most attack types, compared to D3S whose accuracy dropped below 88%.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the sequence number’s FPR is more stable than the proposed schemes ED3S and D3S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However, the FNR in Figure 6 false-negative rate part of ED3S and D3S is more stable and much lower than that of the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The F-measure part in Figure 6 shows that the overall performance of both ED3S and D3S is stable and around 90%, while it varies below 40% for the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Details of the Scheme\nThe proposed approach includes two essential parts, offline training, and online operation, as seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The flowchart of the detection process is illustrated in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The conceptual organization of the dataset collection scenario is shown in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the average results obtained by applying the proposed scheme during the operational mode.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe effectiveness of the proposed scheme.As shown in Figure 4, the scheme achieved 93.83% detection accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 compares the performance of the comparable SeqNum Based scheme to that of the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nComparison between ED3S, D3S, and SeqNum.Table 1 and Figure 5 show that the proposed scheme ED3S achieved the highest accuracy, 93.14%, compared to 88.10% for the D3S and 55.09% for SeqNum.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 displays the proposed scheme’s strength against different de-authentication and dis-association attacks.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 6, the X-axis represents the test number.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nED3S, D3S, and SeqNum Details Comparison.As shown in thr Figure 6 accuracy section and Table 1, in most tests, ED3S maintained a stable accuracy above 93% for most attack types, compared to D3S whose accuracy dropped below 88%.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the sequence number’s FPR is more stable than the proposed schemes ED3S and D3S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However, the FNR in Figure 6 false-negative rate part of ED3S and D3S is more stable and much lower than that of the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The F-measure part in Figure 6 shows that the overall performance of both ED3S and D3S is stable and around 90%, while it varies below 40% for the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Details of the Scheme\nThe proposed approach includes two essential parts, offline training, and online operation, as seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The flowchart of the detection process is illustrated in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The conceptual organization of the dataset collection scenario is shown in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the average results obtained by applying the proposed scheme during the operational mode.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe effectiveness of the proposed scheme.As shown in Figure 4, the scheme achieved 93.83% detection accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 compares the performance of the comparable SeqNum Based scheme to that of the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nComparison between ED3S, D3S, and SeqNum.Table 1 and Figure 5 show that the proposed scheme ED3S achieved the highest accuracy, 93.14%, compared to 88.10% for the D3S and 55.09% for SeqNum.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 displays the proposed scheme’s strength against different de-authentication and dis-association attacks.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 6, the X-axis represents the test number.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nED3S, D3S, and SeqNum Details Comparison.As shown in thr Figure 6 accuracy section and Table 1, in most tests, ED3S maintained a stable accuracy above 93% for most attack types, compared to D3S whose accuracy dropped below 88%.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the sequence number’s FPR is more stable than the proposed schemes ED3S and D3S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However, the FNR in Figure 6 false-negative rate part of ED3S and D3S is more stable and much lower than that of the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The F-measure part in Figure 6 shows that the overall performance of both ED3S and D3S is stable and around 90%, while it varies below 40% for the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Details of the Scheme\nThe proposed approach includes two essential parts, offline training, and online operation, as seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The flowchart of the detection process is illustrated in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The conceptual organization of the dataset collection scenario is shown in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the average results obtained by applying the proposed scheme during the operational mode.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe effectiveness of the proposed scheme.As shown in Figure 4, the scheme achieved 93.83% detection accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 compares the performance of the comparable SeqNum Based scheme to that of the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nComparison between ED3S, D3S, and SeqNum.Table 1 and Figure 5 show that the proposed scheme ED3S achieved the highest accuracy, 93.14%, compared to 88.10% for the D3S and 55.09% for SeqNum.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 displays the proposed scheme’s strength against different de-authentication and dis-association attacks.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 6, the X-axis represents the test number.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nED3S, D3S, and SeqNum Details Comparison.As shown in thr Figure 6 accuracy section and Table 1, in most tests, ED3S maintained a stable accuracy above 93% for most attack types, compared to D3S whose accuracy dropped below 88%.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the sequence number’s FPR is more stable than the proposed schemes ED3S and D3S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However, the FNR in Figure 6 false-negative rate part of ED3S and D3S is more stable and much lower than that of the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The F-measure part in Figure 6 shows that the overall performance of both ED3S and D3S is stable and around 90%, while it varies below 40% for the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Details of the Scheme\nThe proposed approach includes two essential parts, offline training, and online operation, as seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The flowchart of the detection process is illustrated in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The proposed approach includes two essential parts, offline training, and online operation, as seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The flowchart of the detection process is illustrated in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The flowchart of the detection process is illustrated in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The conceptual organization of the dataset collection scenario is shown in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the average results obtained by applying the proposed scheme during the operational mode.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe effectiveness of the proposed scheme.As shown in Figure 4, the scheme achieved 93.83% detection accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 compares the performance of the comparable SeqNum Based scheme to that of the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nComparison between ED3S, D3S, and SeqNum.Table 1 and Figure 5 show that the proposed scheme ED3S achieved the highest accuracy, 93.14%, compared to 88.10% for the D3S and 55.09% for SeqNum.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 displays the proposed scheme’s strength against different de-authentication and dis-association attacks.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 6, the X-axis represents the test number.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nED3S, D3S, and SeqNum Details Comparison.As shown in thr Figure 6 accuracy section and Table 1, in most tests, ED3S maintained a stable accuracy above 93% for most attack types, compared to D3S whose accuracy dropped below 88%.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the sequence number’s FPR is more stable than the proposed schemes ED3S and D3S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However, the FNR in Figure 6 false-negative rate part of ED3S and D3S is more stable and much lower than that of the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The F-measure part in Figure 6 shows that the overall performance of both ED3S and D3S is stable and around 90%, while it varies below 40% for the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The conceptual organization of the dataset collection scenario is shown in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The conceptual organization of the dataset collection scenario is shown in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the average results obtained by applying the proposed scheme during the operational mode.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe effectiveness of the proposed scheme.As shown in Figure 4, the scheme achieved 93.83% detection accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 compares the performance of the comparable SeqNum Based scheme to that of the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nComparison between ED3S, D3S, and SeqNum.Table 1 and Figure 5 show that the proposed scheme ED3S achieved the highest accuracy, 93.14%, compared to 88.10% for the D3S and 55.09% for SeqNum.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 displays the proposed scheme’s strength against different de-authentication and dis-association attacks.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 6, the X-axis represents the test number.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nED3S, D3S, and SeqNum Details Comparison.As shown in thr Figure 6 accuracy section and Table 1, in most tests, ED3S maintained a stable accuracy above 93% for most attack types, compared to D3S whose accuracy dropped below 88%.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the sequence number’s FPR is more stable than the proposed schemes ED3S and D3S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However, the FNR in Figure 6 false-negative rate part of ED3S and D3S is more stable and much lower than that of the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The F-measure part in Figure 6 shows that the overall performance of both ED3S and D3S is stable and around 90%, while it varies below 40% for the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the average results obtained by applying the proposed scheme during the operational mode.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe effectiveness of the proposed scheme.As shown in Figure 4, the scheme achieved 93.83% detection accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the average results obtained by applying the proposed scheme during the operational mode.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Figure 4, the scheme achieved 93.83% detection accuracy.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 compares the performance of the comparable SeqNum Based scheme to that of the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nComparison between ED3S, D3S, and SeqNum.Table 1 and Figure 5 show that the proposed scheme ED3S achieved the highest accuracy, 93.14%, compared to 88.10% for the D3S and 55.09% for SeqNum.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 displays the proposed scheme’s strength against different de-authentication and dis-association attacks.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 6, the X-axis represents the test number.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nED3S, D3S, and SeqNum Details Comparison.As shown in thr Figure 6 accuracy section and Table 1, in most tests, ED3S maintained a stable accuracy above 93% for most attack types, compared to D3S whose accuracy dropped below 88%.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the sequence number’s FPR is more stable than the proposed schemes ED3S and D3S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However, the FNR in Figure 6 false-negative rate part of ED3S and D3S is more stable and much lower than that of the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The F-measure part in Figure 6 shows that the overall performance of both ED3S and D3S is stable and around 90%, while it varies below 40% for the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 compares the performance of the comparable SeqNum Based scheme to that of the proposed scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Table 1 and Figure 5 show that the proposed scheme ED3S achieved the highest accuracy, 93.14%, compared to 88.10% for the D3S and 55.09% for SeqNum.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 displays the proposed scheme’s strength against different de-authentication and dis-association attacks.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 6, the X-axis represents the test number.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in thr Figure 6 accuracy section and Table 1, in most tests, ED3S maintained a stable accuracy above 93% for most attack types, compared to D3S whose accuracy dropped below 88%.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the sequence number’s FPR is more stable than the proposed schemes ED3S and D3S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However, the FNR in Figure 6 false-negative rate part of ED3S and D3S is more stable and much lower than that of the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The F-measure part in Figure 6 shows that the overall performance of both ED3S and D3S is stable and around 90%, while it varies below 40% for the SeqNum scheme.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  }
+]

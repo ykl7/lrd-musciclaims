@@ -76,7 +76,7 @@ def extract_pmc_data(source_profile, target_profile):
 def create_pmc_firefox_browser():
     """Create PMC-optimized Firefox browser"""
     try:
-        snap_firefox = os.path.expanduser("~/snap/firefox/common/.mozilla/firefox")
+        snap_firefox = os.path.expanduser("~/.mozilla/firefox")
         profiles = glob.glob(os.path.join(snap_firefox, "*.default*"))
         
         if not profiles:
@@ -112,39 +112,65 @@ def create_pmc_firefox_browser():
         logger.error("❌ Failed to create PMC Firefox: %s", e)
         raise
 
-def search_pmc_for_article(search_term, max_results=50):
-    """Search PMC for articles using NCBI API"""
+
+def search_accepted_articles_pmc(start_year=2015, max_results=50):
+    """
+    Searches PMC for peer-reviewed articles accepted and published on or after a given year.
+    This version is built to EXACTLY match the user's proven working URL structure.
+    """
     try:
-        logger.info("🔍 Searching PMC for: %s", search_term)
+        # This search term is built by adding the keyword to your working query.
+        # Your working query: "journal article"[pt] AND 2015:3000[pdat]
+        # We are adding:     {keyword}[Title/Abstract] AND ...
+        # This creates a simple, flat query that the API understands.
         
+        search_term = (
+            f'"journal article"[pt] AND '
+            f'{start_year}:3000[pdat]'
+        )
+
+        logger.info("🔍 Searching PMC with constructed term: %s", search_term)
+
+        # The rest of the function uses this corrected search term
         search_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
         params = {
             'db': 'pmc',
             'term': search_term,
             'retmode': 'json',
-            'retmax': max_results,
+            'retmax': max_results, # Your URL used 1000, the code defaults to 100
             'sort': 'relevance'
         }
-        
-        response = requests.get(search_url, params=params, timeout=15)
+
+        response = requests.get(search_url, params=params, timeout=20)
         response.raise_for_status()
         data = response.json()
-        
-        if 'esearchresult' in data and data['esearchresult']['idlist']:
+
+        if 'esearchresult' in data and data['esearchresult'].get('idlist'):
             results = []
-            for pmc_id in data['esearchresult']['idlist']:
-                pmc_url = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC%s/" % pmc_id
+            id_list = data['esearchresult']['idlist']
+            for pmc_id in id_list:
+                pmc_url = f"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC{pmc_id}/"
                 results.append({'pmc_id': pmc_id, 'url': pmc_url})
             
-            logger.info("📄 Found %d articles", len(results))
+            logger.info("📄 Found %d accepted and published articles", len(results))
             return results
         else:
-            logger.warning("❌ No PMC articles found")
+            logger.warning("❌ No matching PMC articles found for the specified criteria.")
+            debug_url = response.url
+            logger.info("💡 Debug URL: %s", debug_url)
+            logger.debug("Raw API Response: %s", response.text)
             return []
-            
-    except Exception as e:
-        logger.error("❌ PMC search error: %s", e)
+
+    except requests.exceptions.RequestException as e:
+        logger.error("❌ PMC search network error: %s", e)
         return []
+    except Exception as e:
+        logger.error("❌ An unexpected error occurred during search: %s", e)
+        if 'response' in locals() and response:
+            logger.info("💡 Debug URL: %s", response.url)
+            logger.debug("Raw API Response: %s", response.text)
+        return []
+
 
 class BatchPMCArticleScraper:
     def __init__(self):
@@ -776,10 +802,11 @@ class BatchPMCArticleScraper:
             self.batch_stats['failed_urls'].append(url)
             return None
 
-    def batch_scrape_articles(self, search_term="Brain", max_papers=50, output_dir="./data"):
+    def batch_scrape_articles(self, start_year=2015, max_papers=50, output_dir="./data"):
         """Batch scrape multiple articles"""
         try:
-            logger.info("🚀 Starting batch scraping for: '%s'", search_term)
+            logger.info("🚀 Starting batch scraping:")
+            logger.info("📅 Filtering for articles accepted on or after: %d", start_year) # Added log for clarity
             logger.info("📊 Target: %d papers", max_papers)
             logger.info("📁 Output directory: %s", output_dir)
             logger.info("⚠️ Note: Only papers with valid figures will be processed")
@@ -787,12 +814,12 @@ class BatchPMCArticleScraper:
             # Create output directory
             os.makedirs(output_dir, exist_ok=True)
             
-            # Search for articles
-            logger.info("🔍 Searching PMC...")
-            results = search_pmc_for_article(search_term, max_results=max_papers)
+            # Search for articles using the new, more precise function
+            logger.info("🔍 Searching PMC for accepted articles...")
+            results = search_accepted_articles_pmc(start_year=start_year, max_results=max_papers)
             
             if not results:
-                logger.warning("❌ No articles found")
+                logger.warning("❌ No articles found with the specified criteria.")
                 return
             
             # Limit to requested number
@@ -801,7 +828,6 @@ class BatchPMCArticleScraper:
             
             logger.info("📚 Found %d articles to process", len(results))
             logger.info("=" * 60)
-            
             # Process each article
             start_time = time.time()
             
@@ -908,12 +934,12 @@ def main():
     logger.info("=" * 60)
     
     # Hardcoded parameters
-    search_term = "eyes" # brain cancer, breast cancer, skin cancer, blood cancer
-    max_papers = 100
+    start_year = 2015    # <<< Add this parameter
+    max_papers = 1000
     output_dir = "./data"
     
     logger.info("🎯 Configuration:")
-    logger.info("   • Search term: '%s' (hardcoded)", search_term)
+    logger.info("   • Start Year: %d", start_year) # <<< Add this log
     logger.info("   • Max papers: %d (default)", max_papers)
     logger.info("   • Output directory: %s", output_dir)
     logger.info("   • Requirement: At least 1 valid figure per paper")
@@ -923,7 +949,8 @@ def main():
     
     try:
         scraper.start_browser()
-        scraper.batch_scrape_articles(search_term, max_papers, output_dir)
+        # Update the call to include start_year
+        scraper.batch_scrape_articles(start_year=start_year, max_papers=max_papers, output_dir=output_dir)
         
     except Exception as e:
         logger.error("❌ Error: %s", e)

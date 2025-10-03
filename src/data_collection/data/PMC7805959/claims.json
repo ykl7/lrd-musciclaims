@@ -1,0 +1,2872 @@
+[
+  {
+    "sentence": "Such a heterogeneous multi-robot team of a UAS and a USV is illustrated in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This distance causes the spatial resolution of the USV to be very low as illustrated in Figure 2 implicating that fiducial markers encoding full pose (e.g., AprilTag) would not be visible.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The physical configuration of the problem is depicted in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of the relative pose influence on the brightness is when the object that faces the UAS with its non-illuminated side changes its pose in a way that it now faces the UAS with its sun illuminated side as shown in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Another example is when the sun is in the field of view of the UAS's camera causing the white balance distortion in the video frames as can be seen in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nObject's blob brightness may vary significantly in the video frames F(t) with varying t because of the outdoor environmental conditions.Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "If the object moves away from the UAS, its size will decrease and vice versa as can be seen in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Taking a cylindrical object such as a USV as an example, if such object is facing toward the UAS, its blob will be circular (inertia ratio will be high), however, If it is turned sideways, its blob will be elliptical (inertia ratio will be low) as shown in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In the extreme case, the object's blob might be featureless due to the large distance between the object and the UAS causing the spatial resolution might be very low as illustrated in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Second, the UAS motion causes the background to move as well as shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "This problem can be alleviated by using Gaussian blur convolution filter to diffuse the color of the smaller color blobs into the bigger color blobs as illustrated in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "The Gaussian filter can be applied by convolving the original image with a Gaussian kernel as follows:\nFigure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the left flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map can be seen on the left side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The binary threshold map is created as follows:\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map after the application of erosion and dilation can be seen on the right side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the right flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "The result is a greyscale map of the same dimensions as F(t), where each pixel's value signifies how much this pixel's hue is represented in the histogram as shown in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The algorithm eventually converges to a local maximum density area and tracks it as can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of the fitted ellipse and the estimated orientation can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "EMILY can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "DJI Inspire 1 can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The trial in progress can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The view from the UAS looking at the USV during this trial can be seen in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "This is illustrated in Figure 2 where a USV's blob is circular making it hard to estimate the orientation by shape analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the camera may face the sun distorting white balance in the entire view as can be seen in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Another example is presented in Figure 4 illustrating how significantly can illumination conditions change during a single run.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Such a heterogeneous multi-robot team of a UAS and a USV is illustrated in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This distance causes the spatial resolution of the USV to be very low as illustrated in Figure 2 implicating that fiducial markers encoding full pose (e.g., AprilTag) would not be visible.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The physical configuration of the problem is depicted in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of the relative pose influence on the brightness is when the object that faces the UAS with its non-illuminated side changes its pose in a way that it now faces the UAS with its sun illuminated side as shown in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Another example is when the sun is in the field of view of the UAS's camera causing the white balance distortion in the video frames as can be seen in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nObject's blob brightness may vary significantly in the video frames F(t) with varying t because of the outdoor environmental conditions.Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "If the object moves away from the UAS, its size will decrease and vice versa as can be seen in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Taking a cylindrical object such as a USV as an example, if such object is facing toward the UAS, its blob will be circular (inertia ratio will be high), however, If it is turned sideways, its blob will be elliptical (inertia ratio will be low) as shown in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In the extreme case, the object's blob might be featureless due to the large distance between the object and the UAS causing the spatial resolution might be very low as illustrated in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Second, the UAS motion causes the background to move as well as shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "This problem can be alleviated by using Gaussian blur convolution filter to diffuse the color of the smaller color blobs into the bigger color blobs as illustrated in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "The Gaussian filter can be applied by convolving the original image with a Gaussian kernel as follows:\nFigure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the left flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map can be seen on the left side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The binary threshold map is created as follows:\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map after the application of erosion and dilation can be seen on the right side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the right flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "The result is a greyscale map of the same dimensions as F(t), where each pixel's value signifies how much this pixel's hue is represented in the histogram as shown in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The algorithm eventually converges to a local maximum density area and tracks it as can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of the fitted ellipse and the estimated orientation can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "EMILY can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "DJI Inspire 1 can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The trial in progress can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The view from the UAS looking at the USV during this trial can be seen in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "This is illustrated in Figure 2 where a USV's blob is circular making it hard to estimate the orientation by shape analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the camera may face the sun distorting white balance in the entire view as can be seen in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Another example is presented in Figure 4 illustrating how significantly can illumination conditions change during a single run.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Such a heterogeneous multi-robot team of a UAS and a USV is illustrated in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This distance causes the spatial resolution of the USV to be very low as illustrated in Figure 2 implicating that fiducial markers encoding full pose (e.g., AprilTag) would not be visible.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The physical configuration of the problem is depicted in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of the relative pose influence on the brightness is when the object that faces the UAS with its non-illuminated side changes its pose in a way that it now faces the UAS with its sun illuminated side as shown in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Another example is when the sun is in the field of view of the UAS's camera causing the white balance distortion in the video frames as can be seen in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nObject's blob brightness may vary significantly in the video frames F(t) with varying t because of the outdoor environmental conditions.Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "If the object moves away from the UAS, its size will decrease and vice versa as can be seen in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Taking a cylindrical object such as a USV as an example, if such object is facing toward the UAS, its blob will be circular (inertia ratio will be high), however, If it is turned sideways, its blob will be elliptical (inertia ratio will be low) as shown in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In the extreme case, the object's blob might be featureless due to the large distance between the object and the UAS causing the spatial resolution might be very low as illustrated in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Second, the UAS motion causes the background to move as well as shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "This problem can be alleviated by using Gaussian blur convolution filter to diffuse the color of the smaller color blobs into the bigger color blobs as illustrated in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "The Gaussian filter can be applied by convolving the original image with a Gaussian kernel as follows:\nFigure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the left flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map can be seen on the left side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The binary threshold map is created as follows:\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map after the application of erosion and dilation can be seen on the right side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the right flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "The result is a greyscale map of the same dimensions as F(t), where each pixel's value signifies how much this pixel's hue is represented in the histogram as shown in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The algorithm eventually converges to a local maximum density area and tracks it as can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of the fitted ellipse and the estimated orientation can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "EMILY can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "DJI Inspire 1 can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The trial in progress can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The view from the UAS looking at the USV during this trial can be seen in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "This is illustrated in Figure 2 where a USV's blob is circular making it hard to estimate the orientation by shape analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the camera may face the sun distorting white balance in the entire view as can be seen in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Another example is presented in Figure 4 illustrating how significantly can illumination conditions change during a single run.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Such a heterogeneous multi-robot team of a UAS and a USV is illustrated in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This distance causes the spatial resolution of the USV to be very low as illustrated in Figure 2 implicating that fiducial markers encoding full pose (e.g., AprilTag) would not be visible.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The physical configuration of the problem is depicted in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of the relative pose influence on the brightness is when the object that faces the UAS with its non-illuminated side changes its pose in a way that it now faces the UAS with its sun illuminated side as shown in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Another example is when the sun is in the field of view of the UAS's camera causing the white balance distortion in the video frames as can be seen in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nObject's blob brightness may vary significantly in the video frames F(t) with varying t because of the outdoor environmental conditions.Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "If the object moves away from the UAS, its size will decrease and vice versa as can be seen in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Taking a cylindrical object such as a USV as an example, if such object is facing toward the UAS, its blob will be circular (inertia ratio will be high), however, If it is turned sideways, its blob will be elliptical (inertia ratio will be low) as shown in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In the extreme case, the object's blob might be featureless due to the large distance between the object and the UAS causing the spatial resolution might be very low as illustrated in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Second, the UAS motion causes the background to move as well as shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "This problem can be alleviated by using Gaussian blur convolution filter to diffuse the color of the smaller color blobs into the bigger color blobs as illustrated in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "The Gaussian filter can be applied by convolving the original image with a Gaussian kernel as follows:\nFigure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the left flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map can be seen on the left side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The binary threshold map is created as follows:\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map after the application of erosion and dilation can be seen on the right side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the right flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "The result is a greyscale map of the same dimensions as F(t), where each pixel's value signifies how much this pixel's hue is represented in the histogram as shown in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The algorithm eventually converges to a local maximum density area and tracks it as can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of the fitted ellipse and the estimated orientation can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "EMILY can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "DJI Inspire 1 can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The trial in progress can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The view from the UAS looking at the USV during this trial can be seen in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "This is illustrated in Figure 2 where a USV's blob is circular making it hard to estimate the orientation by shape analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the camera may face the sun distorting white balance in the entire view as can be seen in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Another example is presented in Figure 4 illustrating how significantly can illumination conditions change during a single run.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Such a heterogeneous multi-robot team of a UAS and a USV is illustrated in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This distance causes the spatial resolution of the USV to be very low as illustrated in Figure 2 implicating that fiducial markers encoding full pose (e.g., AprilTag) would not be visible.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The physical configuration of the problem is depicted in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of the relative pose influence on the brightness is when the object that faces the UAS with its non-illuminated side changes its pose in a way that it now faces the UAS with its sun illuminated side as shown in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Another example is when the sun is in the field of view of the UAS's camera causing the white balance distortion in the video frames as can be seen in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nObject's blob brightness may vary significantly in the video frames F(t) with varying t because of the outdoor environmental conditions.Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "If the object moves away from the UAS, its size will decrease and vice versa as can be seen in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Taking a cylindrical object such as a USV as an example, if such object is facing toward the UAS, its blob will be circular (inertia ratio will be high), however, If it is turned sideways, its blob will be elliptical (inertia ratio will be low) as shown in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In the extreme case, the object's blob might be featureless due to the large distance between the object and the UAS causing the spatial resolution might be very low as illustrated in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Second, the UAS motion causes the background to move as well as shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "This problem can be alleviated by using Gaussian blur convolution filter to diffuse the color of the smaller color blobs into the bigger color blobs as illustrated in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "The Gaussian filter can be applied by convolving the original image with a Gaussian kernel as follows:\nFigure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the left flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map can be seen on the left side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The binary threshold map is created as follows:\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map after the application of erosion and dilation can be seen on the right side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the right flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "The result is a greyscale map of the same dimensions as F(t), where each pixel's value signifies how much this pixel's hue is represented in the histogram as shown in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The algorithm eventually converges to a local maximum density area and tracks it as can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of the fitted ellipse and the estimated orientation can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "EMILY can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "DJI Inspire 1 can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The trial in progress can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The view from the UAS looking at the USV during this trial can be seen in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "This is illustrated in Figure 2 where a USV's blob is circular making it hard to estimate the orientation by shape analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the camera may face the sun distorting white balance in the entire view as can be seen in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Another example is presented in Figure 4 illustrating how significantly can illumination conditions change during a single run.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Such a heterogeneous multi-robot team of a UAS and a USV is illustrated in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This distance causes the spatial resolution of the USV to be very low as illustrated in Figure 2 implicating that fiducial markers encoding full pose (e.g., AprilTag) would not be visible.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The physical configuration of the problem is depicted in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of the relative pose influence on the brightness is when the object that faces the UAS with its non-illuminated side changes its pose in a way that it now faces the UAS with its sun illuminated side as shown in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Another example is when the sun is in the field of view of the UAS's camera causing the white balance distortion in the video frames as can be seen in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nObject's blob brightness may vary significantly in the video frames F(t) with varying t because of the outdoor environmental conditions.Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "If the object moves away from the UAS, its size will decrease and vice versa as can be seen in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Taking a cylindrical object such as a USV as an example, if such object is facing toward the UAS, its blob will be circular (inertia ratio will be high), however, If it is turned sideways, its blob will be elliptical (inertia ratio will be low) as shown in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In the extreme case, the object's blob might be featureless due to the large distance between the object and the UAS causing the spatial resolution might be very low as illustrated in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Second, the UAS motion causes the background to move as well as shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "This problem can be alleviated by using Gaussian blur convolution filter to diffuse the color of the smaller color blobs into the bigger color blobs as illustrated in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "The Gaussian filter can be applied by convolving the original image with a Gaussian kernel as follows:\nFigure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the left flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map can be seen on the left side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The binary threshold map is created as follows:\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map after the application of erosion and dilation can be seen on the right side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the right flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "The result is a greyscale map of the same dimensions as F(t), where each pixel's value signifies how much this pixel's hue is represented in the histogram as shown in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The algorithm eventually converges to a local maximum density area and tracks it as can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of the fitted ellipse and the estimated orientation can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "EMILY can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "DJI Inspire 1 can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The trial in progress can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The view from the UAS looking at the USV during this trial can be seen in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "This is illustrated in Figure 2 where a USV's blob is circular making it hard to estimate the orientation by shape analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the camera may face the sun distorting white balance in the entire view as can be seen in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Another example is presented in Figure 4 illustrating how significantly can illumination conditions change during a single run.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Such a heterogeneous multi-robot team of a UAS and a USV is illustrated in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This distance causes the spatial resolution of the USV to be very low as illustrated in Figure 2 implicating that fiducial markers encoding full pose (e.g., AprilTag) would not be visible.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The physical configuration of the problem is depicted in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of the relative pose influence on the brightness is when the object that faces the UAS with its non-illuminated side changes its pose in a way that it now faces the UAS with its sun illuminated side as shown in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Another example is when the sun is in the field of view of the UAS's camera causing the white balance distortion in the video frames as can be seen in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nObject's blob brightness may vary significantly in the video frames F(t) with varying t because of the outdoor environmental conditions.Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "If the object moves away from the UAS, its size will decrease and vice versa as can be seen in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Taking a cylindrical object such as a USV as an example, if such object is facing toward the UAS, its blob will be circular (inertia ratio will be high), however, If it is turned sideways, its blob will be elliptical (inertia ratio will be low) as shown in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In the extreme case, the object's blob might be featureless due to the large distance between the object and the UAS causing the spatial resolution might be very low as illustrated in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Second, the UAS motion causes the background to move as well as shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "This problem can be alleviated by using Gaussian blur convolution filter to diffuse the color of the smaller color blobs into the bigger color blobs as illustrated in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "The Gaussian filter can be applied by convolving the original image with a Gaussian kernel as follows:\nFigure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the left flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map can be seen on the left side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The binary threshold map is created as follows:\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map after the application of erosion and dilation can be seen on the right side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the right flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "The result is a greyscale map of the same dimensions as F(t), where each pixel's value signifies how much this pixel's hue is represented in the histogram as shown in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The algorithm eventually converges to a local maximum density area and tracks it as can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of the fitted ellipse and the estimated orientation can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "EMILY can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "DJI Inspire 1 can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The trial in progress can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The view from the UAS looking at the USV during this trial can be seen in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "This is illustrated in Figure 2 where a USV's blob is circular making it hard to estimate the orientation by shape analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the camera may face the sun distorting white balance in the entire view as can be seen in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Another example is presented in Figure 4 illustrating how significantly can illumination conditions change during a single run.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Such a heterogeneous multi-robot team of a UAS and a USV is illustrated in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This distance causes the spatial resolution of the USV to be very low as illustrated in Figure 2 implicating that fiducial markers encoding full pose (e.g., AprilTag) would not be visible.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The physical configuration of the problem is depicted in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of the relative pose influence on the brightness is when the object that faces the UAS with its non-illuminated side changes its pose in a way that it now faces the UAS with its sun illuminated side as shown in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Another example is when the sun is in the field of view of the UAS's camera causing the white balance distortion in the video frames as can be seen in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nObject's blob brightness may vary significantly in the video frames F(t) with varying t because of the outdoor environmental conditions.Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "If the object moves away from the UAS, its size will decrease and vice versa as can be seen in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Taking a cylindrical object such as a USV as an example, if such object is facing toward the UAS, its blob will be circular (inertia ratio will be high), however, If it is turned sideways, its blob will be elliptical (inertia ratio will be low) as shown in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In the extreme case, the object's blob might be featureless due to the large distance between the object and the UAS causing the spatial resolution might be very low as illustrated in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Second, the UAS motion causes the background to move as well as shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "This problem can be alleviated by using Gaussian blur convolution filter to diffuse the color of the smaller color blobs into the bigger color blobs as illustrated in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "The Gaussian filter can be applied by convolving the original image with a Gaussian kernel as follows:\nFigure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the left flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map can be seen on the left side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The binary threshold map is created as follows:\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map after the application of erosion and dilation can be seen on the right side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the right flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "The result is a greyscale map of the same dimensions as F(t), where each pixel's value signifies how much this pixel's hue is represented in the histogram as shown in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The algorithm eventually converges to a local maximum density area and tracks it as can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of the fitted ellipse and the estimated orientation can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "EMILY can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "DJI Inspire 1 can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The trial in progress can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The view from the UAS looking at the USV during this trial can be seen in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "This is illustrated in Figure 2 where a USV's blob is circular making it hard to estimate the orientation by shape analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the camera may face the sun distorting white balance in the entire view as can be seen in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Another example is presented in Figure 4 illustrating how significantly can illumination conditions change during a single run.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Such a heterogeneous multi-robot team of a UAS and a USV is illustrated in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This distance causes the spatial resolution of the USV to be very low as illustrated in Figure 2 implicating that fiducial markers encoding full pose (e.g., AprilTag) would not be visible.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Such a heterogeneous multi-robot team of a UAS and a USV is illustrated in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This distance causes the spatial resolution of the USV to be very low as illustrated in Figure 2 implicating that fiducial markers encoding full pose (e.g., AprilTag) would not be visible.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The physical configuration of the problem is depicted in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of the relative pose influence on the brightness is when the object that faces the UAS with its non-illuminated side changes its pose in a way that it now faces the UAS with its sun illuminated side as shown in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Another example is when the sun is in the field of view of the UAS's camera causing the white balance distortion in the video frames as can be seen in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nObject's blob brightness may vary significantly in the video frames F(t) with varying t because of the outdoor environmental conditions.Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "If the object moves away from the UAS, its size will decrease and vice versa as can be seen in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Taking a cylindrical object such as a USV as an example, if such object is facing toward the UAS, its blob will be circular (inertia ratio will be high), however, If it is turned sideways, its blob will be elliptical (inertia ratio will be low) as shown in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In the extreme case, the object's blob might be featureless due to the large distance between the object and the UAS causing the spatial resolution might be very low as illustrated in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Second, the UAS motion causes the background to move as well as shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "This problem can be alleviated by using Gaussian blur convolution filter to diffuse the color of the smaller color blobs into the bigger color blobs as illustrated in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "The Gaussian filter can be applied by convolving the original image with a Gaussian kernel as follows:\nFigure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the left flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map can be seen on the left side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The binary threshold map is created as follows:\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map after the application of erosion and dilation can be seen on the right side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the right flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "The result is a greyscale map of the same dimensions as F(t), where each pixel's value signifies how much this pixel's hue is represented in the histogram as shown in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The algorithm eventually converges to a local maximum density area and tracks it as can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of the fitted ellipse and the estimated orientation can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The physical configuration of the problem is depicted in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of the relative pose influence on the brightness is when the object that faces the UAS with its non-illuminated side changes its pose in a way that it now faces the UAS with its sun illuminated side as shown in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Another example is when the sun is in the field of view of the UAS's camera causing the white balance distortion in the video frames as can be seen in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "If the object moves away from the UAS, its size will decrease and vice versa as can be seen in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Taking a cylindrical object such as a USV as an example, if such object is facing toward the UAS, its blob will be circular (inertia ratio will be high), however, If it is turned sideways, its blob will be elliptical (inertia ratio will be low) as shown in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In the extreme case, the object's blob might be featureless due to the large distance between the object and the UAS causing the spatial resolution might be very low as illustrated in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Second, the UAS motion causes the background to move as well as shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "This problem can be alleviated by using Gaussian blur convolution filter to diffuse the color of the smaller color blobs into the bigger color blobs as illustrated in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the left flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map can be seen on the left side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The binary threshold map is created as follows:\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map after the application of erosion and dilation can be seen on the right side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the right flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "The result is a greyscale map of the same dimensions as F(t), where each pixel's value signifies how much this pixel's hue is represented in the histogram as shown in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The algorithm eventually converges to a local maximum density area and tracks it as can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the left flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map can be seen on the left side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The binary threshold map is created as follows:\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map after the application of erosion and dilation can be seen on the right side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the left flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map can be seen on the left side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a binary threshold map after the application of erosion and dilation can be seen on the right side of Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the right flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "The result is a greyscale map of the same dimensions as F(t), where each pixel's value signifies how much this pixel's hue is represented in the histogram as shown in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The algorithm eventually converges to a local maximum density area and tracks it as can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "This processed is schematized in the right flowchart in Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "The result is a greyscale map of the same dimensions as F(t), where each pixel's value signifies how much this pixel's hue is represented in the histogram as shown in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The algorithm eventually converges to a local maximum density area and tracks it as can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of the fitted ellipse and the estimated orientation can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of the fitted ellipse and the estimated orientation can be seen in Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "EMILY can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "DJI Inspire 1 can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "EMILY can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "DJI Inspire 1 can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The trial in progress can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The view from the UAS looking at the USV during this trial can be seen in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The trial in progress can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The view from the UAS looking at the USV during this trial can be seen in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The trial in progress can be seen in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The view from the UAS looking at the USV during this trial can be seen in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "This is illustrated in Figure 2 where a USV's blob is circular making it hard to estimate the orientation by shape analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the camera may face the sun distorting white balance in the entire view as can be seen in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Another example is presented in Figure 4 illustrating how significantly can illumination conditions change during a single run.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This is illustrated in Figure 2 where a USV's blob is circular making it hard to estimate the orientation by shape analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the camera may face the sun distorting white balance in the entire view as can be seen in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Another example is presented in Figure 4 illustrating how significantly can illumination conditions change during a single run.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This is illustrated in Figure 2 where a USV's blob is circular making it hard to estimate the orientation by shape analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the camera may face the sun distorting white balance in the entire view as can be seen in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Another example is presented in Figure 4 illustrating how significantly can illumination conditions change during a single run.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  }
+]

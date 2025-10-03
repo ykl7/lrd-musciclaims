@@ -1,0 +1,592 @@
+{
+  "paper_id": "PMC10582702",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10582702/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Figure 1.",
+      "caption": "Histogram shows the distribution journals by the number of articles indexed by PubMed between 2009 and 2019.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8576/10582702/6c5baf7dd9d1/frma-08-1274793-g0001.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8576/10582702/6c5baf7dd9d1/frma-08-1274793-g0001.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8576/10582702/6c5baf7dd9d1/frma-08-1274793-g0001.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8576/10582702/6c5baf7dd9d1/frma-08-1274793-g0001.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8576/10582702/6c5baf7dd9d1/frma-08-1274793-g0001.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10582702/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8576/10582702/6c5baf7dd9d1/frma-08-1274793-g0001.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Figure 2.",
+      "caption": "Network visualization for the open biomedical map of science (https://cns-iu.github.io/obms/visualizer).",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8576/10582702/b25c7a42fcc7/frma-08-1274793-g0002.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8576/10582702/b25c7a42fcc7/frma-08-1274793-g0002.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8576/10582702/b25c7a42fcc7/frma-08-1274793-g0002.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8576/10582702/b25c7a42fcc7/frma-08-1274793-g0002.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8576/10582702/b25c7a42fcc7/frma-08-1274793-g0002.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10582702/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8576/10582702/b25c7a42fcc7/frma-08-1274793-g0002.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "We then visualized the journal publication frequency distribution (see Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The distribution of journals by the frequency of indexed articles is visualized in a binned bar graph in Figure 1, with the cumulative percentage of journals plotted as a line over the bar graph.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "All resulting OBMS prototype networks are visualized as interactive networks using map4sci infrastructure (see Figure 2 and https://cns-iu.github.io/obms/).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Users can also explore the map by searching for specific journal families and MeSH descriptors, such as “PLoS,” which are marked by blue pins in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Results of the TF-IDF analysis are ranked, filtered, and then processed by the MST Pathfinder Network Scaling algorithm, which determines the final set of edge included in prototype OBMS networks (see Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "We then visualized the journal publication frequency distribution (see Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The distribution of journals by the frequency of indexed articles is visualized in a binned bar graph in Figure 1, with the cumulative percentage of journals plotted as a line over the bar graph.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "All resulting OBMS prototype networks are visualized as interactive networks using map4sci infrastructure (see Figure 2 and https://cns-iu.github.io/obms/).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Users can also explore the map by searching for specific journal families and MeSH descriptors, such as “PLoS,” which are marked by blue pins in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Results of the TF-IDF analysis are ranked, filtered, and then processed by the MST Pathfinder Network Scaling algorithm, which determines the final set of edge included in prototype OBMS networks (see Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "We then visualized the journal publication frequency distribution (see Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The distribution of journals by the frequency of indexed articles is visualized in a binned bar graph in Figure 1, with the cumulative percentage of journals plotted as a line over the bar graph.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "All resulting OBMS prototype networks are visualized as interactive networks using map4sci infrastructure (see Figure 2 and https://cns-iu.github.io/obms/).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Users can also explore the map by searching for specific journal families and MeSH descriptors, such as “PLoS,” which are marked by blue pins in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Results of the TF-IDF analysis are ranked, filtered, and then processed by the MST Pathfinder Network Scaling algorithm, which determines the final set of edge included in prototype OBMS networks (see Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "We then visualized the journal publication frequency distribution (see Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The distribution of journals by the frequency of indexed articles is visualized in a binned bar graph in Figure 1, with the cumulative percentage of journals plotted as a line over the bar graph.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "All resulting OBMS prototype networks are visualized as interactive networks using map4sci infrastructure (see Figure 2 and https://cns-iu.github.io/obms/).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Users can also explore the map by searching for specific journal families and MeSH descriptors, such as “PLoS,” which are marked by blue pins in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Results of the TF-IDF analysis are ranked, filtered, and then processed by the MST Pathfinder Network Scaling algorithm, which determines the final set of edge included in prototype OBMS networks (see Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "We then visualized the journal publication frequency distribution (see Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The distribution of journals by the frequency of indexed articles is visualized in a binned bar graph in Figure 1, with the cumulative percentage of journals plotted as a line over the bar graph.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "All resulting OBMS prototype networks are visualized as interactive networks using map4sci infrastructure (see Figure 2 and https://cns-iu.github.io/obms/).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Users can also explore the map by searching for specific journal families and MeSH descriptors, such as “PLoS,” which are marked by blue pins in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Results of the TF-IDF analysis are ranked, filtered, and then processed by the MST Pathfinder Network Scaling algorithm, which determines the final set of edge included in prototype OBMS networks (see Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "We then visualized the journal publication frequency distribution (see Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The distribution of journals by the frequency of indexed articles is visualized in a binned bar graph in Figure 1, with the cumulative percentage of journals plotted as a line over the bar graph.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "All resulting OBMS prototype networks are visualized as interactive networks using map4sci infrastructure (see Figure 2 and https://cns-iu.github.io/obms/).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Users can also explore the map by searching for specific journal families and MeSH descriptors, such as “PLoS,” which are marked by blue pins in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Results of the TF-IDF analysis are ranked, filtered, and then processed by the MST Pathfinder Network Scaling algorithm, which determines the final set of edge included in prototype OBMS networks (see Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "We then visualized the journal publication frequency distribution (see Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The distribution of journals by the frequency of indexed articles is visualized in a binned bar graph in Figure 1, with the cumulative percentage of journals plotted as a line over the bar graph.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "All resulting OBMS prototype networks are visualized as interactive networks using map4sci infrastructure (see Figure 2 and https://cns-iu.github.io/obms/).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Users can also explore the map by searching for specific journal families and MeSH descriptors, such as “PLoS,” which are marked by blue pins in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Results of the TF-IDF analysis are ranked, filtered, and then processed by the MST Pathfinder Network Scaling algorithm, which determines the final set of edge included in prototype OBMS networks (see Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "We then visualized the journal publication frequency distribution (see Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The distribution of journals by the frequency of indexed articles is visualized in a binned bar graph in Figure 1, with the cumulative percentage of journals plotted as a line over the bar graph.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "All resulting OBMS prototype networks are visualized as interactive networks using map4sci infrastructure (see Figure 2 and https://cns-iu.github.io/obms/).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Users can also explore the map by searching for specific journal families and MeSH descriptors, such as “PLoS,” which are marked by blue pins in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Results of the TF-IDF analysis are ranked, filtered, and then processed by the MST Pathfinder Network Scaling algorithm, which determines the final set of edge included in prototype OBMS networks (see Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "We then visualized the journal publication frequency distribution (see Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "We then visualized the journal publication frequency distribution (see Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The distribution of journals by the frequency of indexed articles is visualized in a binned bar graph in Figure 1, with the cumulative percentage of journals plotted as a line over the bar graph.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "All resulting OBMS prototype networks are visualized as interactive networks using map4sci infrastructure (see Figure 2 and https://cns-iu.github.io/obms/).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The distribution of journals by the frequency of indexed articles is visualized in a binned bar graph in Figure 1, with the cumulative percentage of journals plotted as a line over the bar graph.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The distribution of journals by the frequency of indexed articles is visualized in a binned bar graph in Figure 1, with the cumulative percentage of journals plotted as a line over the bar graph.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "All resulting OBMS prototype networks are visualized as interactive networks using map4sci infrastructure (see Figure 2 and https://cns-iu.github.io/obms/).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "All resulting OBMS prototype networks are visualized as interactive networks using map4sci infrastructure (see Figure 2 and https://cns-iu.github.io/obms/).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Users can also explore the map by searching for specific journal families and MeSH descriptors, such as “PLoS,” which are marked by blue pins in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Results of the TF-IDF analysis are ranked, filtered, and then processed by the MST Pathfinder Network Scaling algorithm, which determines the final set of edge included in prototype OBMS networks (see Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Users can also explore the map by searching for specific journal families and MeSH descriptors, such as “PLoS,” which are marked by blue pins in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Results of the TF-IDF analysis are ranked, filtered, and then processed by the MST Pathfinder Network Scaling algorithm, which determines the final set of edge included in prototype OBMS networks (see Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 2,
+    "claims_count": 52,
+    "images_downloaded": 2,
+    "tables_filtered": 358
+  }
+}

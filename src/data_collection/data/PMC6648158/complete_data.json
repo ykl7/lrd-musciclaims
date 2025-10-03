@@ -1,0 +1,107 @@
+{
+  "paper_id": "PMC6648158",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6648158/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Figure 1.",
+      "caption": "1H NMR spectrum ready for publication.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a327/6648158/d97ab6f45573/ao-2018-03005c_0003.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a327/6648158/d97ab6f45573/ao-2018-03005c_0003.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a327/6648158/d97ab6f45573/ao-2018-03005c_0003.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a327/6648158/d97ab6f45573/ao-2018-03005c_0003.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a327/6648158/d97ab6f45573/ao-2018-03005c_0003.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC6648158/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a327/6648158/d97ab6f45573/ao-2018-03005c_0003.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Figure 2.",
+      "caption": "<subject> element deriving from the DataCite\nV 4.1 schema, populated with InChI metadata.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a327/6648158/d7fd3ba11b38/ao-2018-03005c_0001.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a327/6648158/d7fd3ba11b38/ao-2018-03005c_0001.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a327/6648158/d7fd3ba11b38/ao-2018-03005c_0001.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a327/6648158/d7fd3ba11b38/ao-2018-03005c_0001.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a327/6648158/d7fd3ba11b38/ao-2018-03005c_0001.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC6648158/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a327/6648158/d7fd3ba11b38/ao-2018-03005c_0001.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "individual spectrum figures with\nthe corresponding file\ntitle, acquisition parameters, and peak list (multiplicity, chemical\nshifts) templated to the selected journal (Figure 1),.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "An example\nis shown in Figure 2 where the subjectScheme attribute is included to avoid clashes with\nany other domains, which may accidentally use the same vocabulary.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "To this end, a Data Interest Group in chemistry has been established\nand regular meetings scheduled to promote communal agreement.33 The first proposal includes that shown in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 2,
+    "claims_count": 3,
+    "images_downloaded": 2,
+    "tables_filtered": 0
+  }
+}

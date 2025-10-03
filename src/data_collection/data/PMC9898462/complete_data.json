@@ -1,0 +1,1098 @@
+{
+  "paper_id": "PMC9898462",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9898462/",
+  "figures": {
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Figure 2.",
+      "caption": "Receiver operating characteristic (ROC) curves classifying biomarker status (Tau/AB42 threshold) for 64 cognitively normal participants based on A) function errors, B) content errors, and C) selected neuropsychological tests\nNote. ** p < .01; significant effects are bolded. AUC = Area Under the Curve; CI = confidence interval; CWIT = Color Word Interference Test; CVLT 1-5 = California Verbal Learning Test - Trials 1-5; NP = neuropsychological",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/74b7/9898462/c117eb117203/nihms-1830772-f0004.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/74b7/9898462/c117eb117203/nihms-1830772-f0004.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/74b7/9898462/c117eb117203/nihms-1830772-f0004.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/74b7/9898462/c117eb117203/nihms-1830772-f0004.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F4",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/74b7/9898462/c117eb117203/nihms-1830772-f0004.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC9898462/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/74b7/9898462/c117eb117203/nihms-1830772-f0004.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "The results of our main analysis using a generalized mixed effects logistic regression are shown in Figure 1a with model results in Table 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Paragraphs with autocorrect targets on dominant function words appeared to be especially error prone in individuals with positive Tau/Aβ42 ratios (see Figure 1), but none of the interactions were significant (ps > .16).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fixed effects from the generalized mixed-effects logistic regression model predicting autocorrect errors\n\n\n\n\n\n\n\n\n\n\nWord Type\nTerm\nBeta\nStd error\n χ2\n\n\np value\n\n\n\n\nAll target words collapsed\nIntercept\n−2.477\n0.158\n245.292\n<0.001\n\n\n\nParagraph Type\n\n\n0.587\n\n\n0.17\n\n\n11.902\n\n\n<0.001\n\n\n\n\nPart of Speech\n\n\n1.039\n\n\n0.19\n\n\n30.012\n\n\n<0.001\n\n\n\n\nTau/Aβ42 ratio\n\n\n0.601\n\n\n0.243\n\n\n6.12\n\n\n0.013\n\n\n\nReading Times\n−0.074\n0.092\n0.637\n0.425\n\n\nInterval between Biomarker & Autocorrect Task\n−0.068\n0.085\n0.642\n0.423\n\n\nAge\n0.129\n0.088\n2.128\n0.145\n\n\n\nSex = Male\n\n\n−0.364\n\n\n0.173\n\n\n4.438\n\n\n0.035\n\n\n\nEducation\n−0.168\n0.095\n3.12\n0.077\n\n\nAPOE-4 status = Absent\n−0.195\n0.184\n1.127\n0.288\n\n\n\nEdit Distance\n\n\n−1.047\n\n\n0.107\n\n\n95.072\n\n\n<0.001\n\n\n\n\nWord Length\n\n\n0.205\n\n\n0.086\n\n\n5.731\n\n\n0.017\n\n\n\nParagraph Type x Part of Speech\n−0.443\n0.318\n1.943\n0.163\n\n\nParagraph Type x Tau/Aβ42 ratio\n−0.145\n0.297\n0.239\n0.625\n\n\nPart of Speech x Tau/Aβ42 ratio\n0.176\n0.303\n0.337\n0.562\n\n\nParagraph Type x Part of Speech x Tau/Aβ42 ratio\n0.237\n0.517\n0.21\n0.647\n\n\nDominant Function Words\nIntercept\n−1.845\n0.294\n39.257\n< .001\n\n\n\nTau/Aβ42 ratio\n\n\n0.673\n\n\n0.241\n\n\n7.82\n\n\n0.005\n\n\n\nReading Times\n−0.181\n0.129\n1.974\n0.160\n\n\nInterval between Biomarker & Autocorrect Task\n−0.12\n0.094\n1.621\n0.203\n\n\nAge\n0.189\n0.099\n3.666\n0.056\n\n\n\nSex = Male\n\n\n−0.382\n\n\n0.195\n\n\n3.826\n\n\n0.050\n\n\n\n\nEducation\n\n\n−0.275\n\n\n0.103\n\n\n7.169\n\n\n0.007\n\n\n\nAPOE-4 status = Absent\n−0.147\n0.205\n0.509\n0.476\n\n\n\nEdit Distance\n\n\n−1.407\n\n\n0.232\n\n\n36.733\n\n\n< .001\n\n\n\nWord Length\n0.524\n0.166\n9.937\n\n0.002\n\na\n\n\n\n\nDominant Content words\nIntercept\n−2.579\n0.323\n63.929\n< .001\n\n\nTau/Aβ42 ratio\n0.724\n0.442\n2.684\n0.101\n\n\nReading Times\n0.018\n0.154\n0.014\n0.905\n\n\nInterval between Biomarker & Autocorrect Task\n0.016\n0.139\n0.013\n0.911\n\n\nAge\n−0.002\n0.148\n0\n0.987\n\n\nSex = Male\n−0.313\n0.276\n1.29\n0.256\n\n\nEducation\n0.135\n0.146\n0.856\n0.355\n\n\nAPOE-4 status = Absent\n−0.275\n0.295\n0.874\n0.350\n\n\n\nEdit Distance\n\n\n−0.814\n\n\n0.231\n\n\n12.411\n\n\n< .001\n\n\n\nWord Length\n0.007\n0.171\n0.002\n0.968\n\n\nNondominant Function Words\nIntercept\n−2.214\n0.406\n29.749\n< .001\n\n\nTau/Aβ42 ratio\n0.52\n0.352\n2.187\n0.139\n\n\nReading Times\n0.369\n0.167\n4.891\n0.027\n\n\nInterval between Biomarker & Autocorrect Task\n−0.179\n0.124\n2.082\n0.149\n\n\nAge\n0.215\n0.136\n2.485\n0.115\n\n\nSex = Male\n−0.201\n0.262\n0.59\n0.443\n\n\nEducation\n0.096\n0.14\n0.474\n0.491\n\n\nAPOE-4 status = Absent\n−0.514\n0.276\n3.47\n0.062\n\n\n\nEdit Distance\n\n\n−1.021\n\n\n0.228\n\n\n20.092\n\n\n< .001\n\n\n\nWord Length\n0.16\n0.284\n0.318\n0.573\n\n\nNondominant Content Words\nIntercept\n−3.376\n0.351\n92.736\n< .001\n\n\nTau/Aβ42 ratio\n0.803\n0.505\n2.527\n0.112\n\n\nReading Times\n0.414\n0.215\n3.697\n0.055\n\n\nInterval between Biomarker & Autocorrect Task\n−0.298\n0.194\n2.364\n0.124\n\n\nAge\n0.173\n0.202\n0.726\n0.394\n\n\nSex = Male\n−0.185\n0.411\n0.203\n0.652\n\n\nEducation\n−0.031\n0.21\n0.021\n0.884\n\n\nAPOE-4 status = Absent\n−0.564\n0.427\n1.742\n0.187\n\n\n\nEdit Distance\n\n\n−1.122\n\n\n0.287\n\n\n15.308\n\n\n< .001\n\n\n\nWord Length\n0.132\n0.206\n0.415\n0.520\n\n\n\nOpen in a new tab\n\naThis effect was in the opposite direction as the overall length effect (shown in Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Error bars refer to 95% confidence intervals around the best fitting regression line.Figure 1c.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Similarly, the main effects of gender and word length were also significant only on dominant function words (ps < .05; though the latter effect was in the opposite direction as shown in Figure 1c and appeared to be driven by two relatively long and highly error prone autocorrect/expected target pars i.e., though/through and always/around), but not on all other types of words (ps > .25).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The interaction between age and the biomarker on autocorrect errors was not significant in a model with all target words (b = .07; SE = .07; χ2 =1.05. p = .307), not significant in a model with only dominant function word targets (b = .02; SE = .07; χ2 < 1), and also not significant when using total Tau or the Aβ42/Aβ40 ratio instead of the Tau/Aβ42 ratio (ps ≥ .31).Diagnostic utility of autocorrect errors\nFigure 2 shows ROC curves and areas under the curve (AUC) for autocorrect errors on function (A) or content (B) word targets, and for comparison on standard neuropsychological tests (C) of memory (CVLT learning), executive functions (CWIT inhibition), and a neuropsychological composite score (i.e., mean z-score of all tests listed in Table 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The AUC was significant for autocorrect errors on function word targets in dominant paragraphs (AUC = .76; SE = .07; p = .003), but not for any of the other error types or for neuropsychological measures (ps > .05; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Importantly, autocorrect errors appeared to be as sensitive as other neuropsychological test scores for identifying biomarker positive individuals (e.g., see Table 1; Figure 2), suggesting that the autocorrect task may be a useful addition to a cognitive assessment test battery.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "While AD risk was associated with increased likelihood of autocorrection errors, it is unlikely that this is a consequence of diminished semantic processing since function word targets elicited more autocorrect errors than content word targets (see Figure 1), and function words better discriminated biomarker positive from negative individuals than content words (see Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The results of our main analysis using a generalized mixed effects logistic regression are shown in Figure 1a with model results in Table 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Paragraphs with autocorrect targets on dominant function words appeared to be especially error prone in individuals with positive Tau/Aβ42 ratios (see Figure 1), but none of the interactions were significant (ps > .16).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fixed effects from the generalized mixed-effects logistic regression model predicting autocorrect errors\n\n\n\n\n\n\n\n\n\n\nWord Type\nTerm\nBeta\nStd error\n χ2\n\n\np value\n\n\n\n\nAll target words collapsed\nIntercept\n−2.477\n0.158\n245.292\n<0.001\n\n\n\nParagraph Type\n\n\n0.587\n\n\n0.17\n\n\n11.902\n\n\n<0.001\n\n\n\n\nPart of Speech\n\n\n1.039\n\n\n0.19\n\n\n30.012\n\n\n<0.001\n\n\n\n\nTau/Aβ42 ratio\n\n\n0.601\n\n\n0.243\n\n\n6.12\n\n\n0.013\n\n\n\nReading Times\n−0.074\n0.092\n0.637\n0.425\n\n\nInterval between Biomarker & Autocorrect Task\n−0.068\n0.085\n0.642\n0.423\n\n\nAge\n0.129\n0.088\n2.128\n0.145\n\n\n\nSex = Male\n\n\n−0.364\n\n\n0.173\n\n\n4.438\n\n\n0.035\n\n\n\nEducation\n−0.168\n0.095\n3.12\n0.077\n\n\nAPOE-4 status = Absent\n−0.195\n0.184\n1.127\n0.288\n\n\n\nEdit Distance\n\n\n−1.047\n\n\n0.107\n\n\n95.072\n\n\n<0.001\n\n\n\n\nWord Length\n\n\n0.205\n\n\n0.086\n\n\n5.731\n\n\n0.017\n\n\n\nParagraph Type x Part of Speech\n−0.443\n0.318\n1.943\n0.163\n\n\nParagraph Type x Tau/Aβ42 ratio\n−0.145\n0.297\n0.239\n0.625\n\n\nPart of Speech x Tau/Aβ42 ratio\n0.176\n0.303\n0.337\n0.562\n\n\nParagraph Type x Part of Speech x Tau/Aβ42 ratio\n0.237\n0.517\n0.21\n0.647\n\n\nDominant Function Words\nIntercept\n−1.845\n0.294\n39.257\n< .001\n\n\n\nTau/Aβ42 ratio\n\n\n0.673\n\n\n0.241\n\n\n7.82\n\n\n0.005\n\n\n\nReading Times\n−0.181\n0.129\n1.974\n0.160\n\n\nInterval between Biomarker & Autocorrect Task\n−0.12\n0.094\n1.621\n0.203\n\n\nAge\n0.189\n0.099\n3.666\n0.056\n\n\n\nSex = Male\n\n\n−0.382\n\n\n0.195\n\n\n3.826\n\n\n0.050\n\n\n\n\nEducation\n\n\n−0.275\n\n\n0.103\n\n\n7.169\n\n\n0.007\n\n\n\nAPOE-4 status = Absent\n−0.147\n0.205\n0.509\n0.476\n\n\n\nEdit Distance\n\n\n−1.407\n\n\n0.232\n\n\n36.733\n\n\n< .001\n\n\n\nWord Length\n0.524\n0.166\n9.937\n\n0.002\n\na\n\n\n\n\nDominant Content words\nIntercept\n−2.579\n0.323\n63.929\n< .001\n\n\nTau/Aβ42 ratio\n0.724\n0.442\n2.684\n0.101\n\n\nReading Times\n0.018\n0.154\n0.014\n0.905\n\n\nInterval between Biomarker & Autocorrect Task\n0.016\n0.139\n0.013\n0.911\n\n\nAge\n−0.002\n0.148\n0\n0.987\n\n\nSex = Male\n−0.313\n0.276\n1.29\n0.256\n\n\nEducation\n0.135\n0.146\n0.856\n0.355\n\n\nAPOE-4 status = Absent\n−0.275\n0.295\n0.874\n0.350\n\n\n\nEdit Distance\n\n\n−0.814\n\n\n0.231\n\n\n12.411\n\n\n< .001\n\n\n\nWord Length\n0.007\n0.171\n0.002\n0.968\n\n\nNondominant Function Words\nIntercept\n−2.214\n0.406\n29.749\n< .001\n\n\nTau/Aβ42 ratio\n0.52\n0.352\n2.187\n0.139\n\n\nReading Times\n0.369\n0.167\n4.891\n0.027\n\n\nInterval between Biomarker & Autocorrect Task\n−0.179\n0.124\n2.082\n0.149\n\n\nAge\n0.215\n0.136\n2.485\n0.115\n\n\nSex = Male\n−0.201\n0.262\n0.59\n0.443\n\n\nEducation\n0.096\n0.14\n0.474\n0.491\n\n\nAPOE-4 status = Absent\n−0.514\n0.276\n3.47\n0.062\n\n\n\nEdit Distance\n\n\n−1.021\n\n\n0.228\n\n\n20.092\n\n\n< .001\n\n\n\nWord Length\n0.16\n0.284\n0.318\n0.573\n\n\nNondominant Content Words\nIntercept\n−3.376\n0.351\n92.736\n< .001\n\n\nTau/Aβ42 ratio\n0.803\n0.505\n2.527\n0.112\n\n\nReading Times\n0.414\n0.215\n3.697\n0.055\n\n\nInterval between Biomarker & Autocorrect Task\n−0.298\n0.194\n2.364\n0.124\n\n\nAge\n0.173\n0.202\n0.726\n0.394\n\n\nSex = Male\n−0.185\n0.411\n0.203\n0.652\n\n\nEducation\n−0.031\n0.21\n0.021\n0.884\n\n\nAPOE-4 status = Absent\n−0.564\n0.427\n1.742\n0.187\n\n\n\nEdit Distance\n\n\n−1.122\n\n\n0.287\n\n\n15.308\n\n\n< .001\n\n\n\nWord Length\n0.132\n0.206\n0.415\n0.520\n\n\n\nOpen in a new tab\n\naThis effect was in the opposite direction as the overall length effect (shown in Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Error bars refer to 95% confidence intervals around the best fitting regression line.Figure 1c.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Similarly, the main effects of gender and word length were also significant only on dominant function words (ps < .05; though the latter effect was in the opposite direction as shown in Figure 1c and appeared to be driven by two relatively long and highly error prone autocorrect/expected target pars i.e., though/through and always/around), but not on all other types of words (ps > .25).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The interaction between age and the biomarker on autocorrect errors was not significant in a model with all target words (b = .07; SE = .07; χ2 =1.05. p = .307), not significant in a model with only dominant function word targets (b = .02; SE = .07; χ2 < 1), and also not significant when using total Tau or the Aβ42/Aβ40 ratio instead of the Tau/Aβ42 ratio (ps ≥ .31).Diagnostic utility of autocorrect errors\nFigure 2 shows ROC curves and areas under the curve (AUC) for autocorrect errors on function (A) or content (B) word targets, and for comparison on standard neuropsychological tests (C) of memory (CVLT learning), executive functions (CWIT inhibition), and a neuropsychological composite score (i.e., mean z-score of all tests listed in Table 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The AUC was significant for autocorrect errors on function word targets in dominant paragraphs (AUC = .76; SE = .07; p = .003), but not for any of the other error types or for neuropsychological measures (ps > .05; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Importantly, autocorrect errors appeared to be as sensitive as other neuropsychological test scores for identifying biomarker positive individuals (e.g., see Table 1; Figure 2), suggesting that the autocorrect task may be a useful addition to a cognitive assessment test battery.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "While AD risk was associated with increased likelihood of autocorrection errors, it is unlikely that this is a consequence of diminished semantic processing since function word targets elicited more autocorrect errors than content word targets (see Figure 1), and function words better discriminated biomarker positive from negative individuals than content words (see Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The results of our main analysis using a generalized mixed effects logistic regression are shown in Figure 1a with model results in Table 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Paragraphs with autocorrect targets on dominant function words appeared to be especially error prone in individuals with positive Tau/Aβ42 ratios (see Figure 1), but none of the interactions were significant (ps > .16).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fixed effects from the generalized mixed-effects logistic regression model predicting autocorrect errors\n\n\n\n\n\n\n\n\n\n\nWord Type\nTerm\nBeta\nStd error\n χ2\n\n\np value\n\n\n\n\nAll target words collapsed\nIntercept\n−2.477\n0.158\n245.292\n<0.001\n\n\n\nParagraph Type\n\n\n0.587\n\n\n0.17\n\n\n11.902\n\n\n<0.001\n\n\n\n\nPart of Speech\n\n\n1.039\n\n\n0.19\n\n\n30.012\n\n\n<0.001\n\n\n\n\nTau/Aβ42 ratio\n\n\n0.601\n\n\n0.243\n\n\n6.12\n\n\n0.013\n\n\n\nReading Times\n−0.074\n0.092\n0.637\n0.425\n\n\nInterval between Biomarker & Autocorrect Task\n−0.068\n0.085\n0.642\n0.423\n\n\nAge\n0.129\n0.088\n2.128\n0.145\n\n\n\nSex = Male\n\n\n−0.364\n\n\n0.173\n\n\n4.438\n\n\n0.035\n\n\n\nEducation\n−0.168\n0.095\n3.12\n0.077\n\n\nAPOE-4 status = Absent\n−0.195\n0.184\n1.127\n0.288\n\n\n\nEdit Distance\n\n\n−1.047\n\n\n0.107\n\n\n95.072\n\n\n<0.001\n\n\n\n\nWord Length\n\n\n0.205\n\n\n0.086\n\n\n5.731\n\n\n0.017\n\n\n\nParagraph Type x Part of Speech\n−0.443\n0.318\n1.943\n0.163\n\n\nParagraph Type x Tau/Aβ42 ratio\n−0.145\n0.297\n0.239\n0.625\n\n\nPart of Speech x Tau/Aβ42 ratio\n0.176\n0.303\n0.337\n0.562\n\n\nParagraph Type x Part of Speech x Tau/Aβ42 ratio\n0.237\n0.517\n0.21\n0.647\n\n\nDominant Function Words\nIntercept\n−1.845\n0.294\n39.257\n< .001\n\n\n\nTau/Aβ42 ratio\n\n\n0.673\n\n\n0.241\n\n\n7.82\n\n\n0.005\n\n\n\nReading Times\n−0.181\n0.129\n1.974\n0.160\n\n\nInterval between Biomarker & Autocorrect Task\n−0.12\n0.094\n1.621\n0.203\n\n\nAge\n0.189\n0.099\n3.666\n0.056\n\n\n\nSex = Male\n\n\n−0.382\n\n\n0.195\n\n\n3.826\n\n\n0.050\n\n\n\n\nEducation\n\n\n−0.275\n\n\n0.103\n\n\n7.169\n\n\n0.007\n\n\n\nAPOE-4 status = Absent\n−0.147\n0.205\n0.509\n0.476\n\n\n\nEdit Distance\n\n\n−1.407\n\n\n0.232\n\n\n36.733\n\n\n< .001\n\n\n\nWord Length\n0.524\n0.166\n9.937\n\n0.002\n\na\n\n\n\n\nDominant Content words\nIntercept\n−2.579\n0.323\n63.929\n< .001\n\n\nTau/Aβ42 ratio\n0.724\n0.442\n2.684\n0.101\n\n\nReading Times\n0.018\n0.154\n0.014\n0.905\n\n\nInterval between Biomarker & Autocorrect Task\n0.016\n0.139\n0.013\n0.911\n\n\nAge\n−0.002\n0.148\n0\n0.987\n\n\nSex = Male\n−0.313\n0.276\n1.29\n0.256\n\n\nEducation\n0.135\n0.146\n0.856\n0.355\n\n\nAPOE-4 status = Absent\n−0.275\n0.295\n0.874\n0.350\n\n\n\nEdit Distance\n\n\n−0.814\n\n\n0.231\n\n\n12.411\n\n\n< .001\n\n\n\nWord Length\n0.007\n0.171\n0.002\n0.968\n\n\nNondominant Function Words\nIntercept\n−2.214\n0.406\n29.749\n< .001\n\n\nTau/Aβ42 ratio\n0.52\n0.352\n2.187\n0.139\n\n\nReading Times\n0.369\n0.167\n4.891\n0.027\n\n\nInterval between Biomarker & Autocorrect Task\n−0.179\n0.124\n2.082\n0.149\n\n\nAge\n0.215\n0.136\n2.485\n0.115\n\n\nSex = Male\n−0.201\n0.262\n0.59\n0.443\n\n\nEducation\n0.096\n0.14\n0.474\n0.491\n\n\nAPOE-4 status = Absent\n−0.514\n0.276\n3.47\n0.062\n\n\n\nEdit Distance\n\n\n−1.021\n\n\n0.228\n\n\n20.092\n\n\n< .001\n\n\n\nWord Length\n0.16\n0.284\n0.318\n0.573\n\n\nNondominant Content Words\nIntercept\n−3.376\n0.351\n92.736\n< .001\n\n\nTau/Aβ42 ratio\n0.803\n0.505\n2.527\n0.112\n\n\nReading Times\n0.414\n0.215\n3.697\n0.055\n\n\nInterval between Biomarker & Autocorrect Task\n−0.298\n0.194\n2.364\n0.124\n\n\nAge\n0.173\n0.202\n0.726\n0.394\n\n\nSex = Male\n−0.185\n0.411\n0.203\n0.652\n\n\nEducation\n−0.031\n0.21\n0.021\n0.884\n\n\nAPOE-4 status = Absent\n−0.564\n0.427\n1.742\n0.187\n\n\n\nEdit Distance\n\n\n−1.122\n\n\n0.287\n\n\n15.308\n\n\n< .001\n\n\n\nWord Length\n0.132\n0.206\n0.415\n0.520\n\n\n\nOpen in a new tab\n\naThis effect was in the opposite direction as the overall length effect (shown in Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Error bars refer to 95% confidence intervals around the best fitting regression line.Figure 1c.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Similarly, the main effects of gender and word length were also significant only on dominant function words (ps < .05; though the latter effect was in the opposite direction as shown in Figure 1c and appeared to be driven by two relatively long and highly error prone autocorrect/expected target pars i.e., though/through and always/around), but not on all other types of words (ps > .25).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The interaction between age and the biomarker on autocorrect errors was not significant in a model with all target words (b = .07; SE = .07; χ2 =1.05. p = .307), not significant in a model with only dominant function word targets (b = .02; SE = .07; χ2 < 1), and also not significant when using total Tau or the Aβ42/Aβ40 ratio instead of the Tau/Aβ42 ratio (ps ≥ .31).Diagnostic utility of autocorrect errors\nFigure 2 shows ROC curves and areas under the curve (AUC) for autocorrect errors on function (A) or content (B) word targets, and for comparison on standard neuropsychological tests (C) of memory (CVLT learning), executive functions (CWIT inhibition), and a neuropsychological composite score (i.e., mean z-score of all tests listed in Table 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The AUC was significant for autocorrect errors on function word targets in dominant paragraphs (AUC = .76; SE = .07; p = .003), but not for any of the other error types or for neuropsychological measures (ps > .05; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Importantly, autocorrect errors appeared to be as sensitive as other neuropsychological test scores for identifying biomarker positive individuals (e.g., see Table 1; Figure 2), suggesting that the autocorrect task may be a useful addition to a cognitive assessment test battery.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "While AD risk was associated with increased likelihood of autocorrection errors, it is unlikely that this is a consequence of diminished semantic processing since function word targets elicited more autocorrect errors than content word targets (see Figure 1), and function words better discriminated biomarker positive from negative individuals than content words (see Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The results of our main analysis using a generalized mixed effects logistic regression are shown in Figure 1a with model results in Table 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Paragraphs with autocorrect targets on dominant function words appeared to be especially error prone in individuals with positive Tau/Aβ42 ratios (see Figure 1), but none of the interactions were significant (ps > .16).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fixed effects from the generalized mixed-effects logistic regression model predicting autocorrect errors\n\n\n\n\n\n\n\n\n\n\nWord Type\nTerm\nBeta\nStd error\n χ2\n\n\np value\n\n\n\n\nAll target words collapsed\nIntercept\n−2.477\n0.158\n245.292\n<0.001\n\n\n\nParagraph Type\n\n\n0.587\n\n\n0.17\n\n\n11.902\n\n\n<0.001\n\n\n\n\nPart of Speech\n\n\n1.039\n\n\n0.19\n\n\n30.012\n\n\n<0.001\n\n\n\n\nTau/Aβ42 ratio\n\n\n0.601\n\n\n0.243\n\n\n6.12\n\n\n0.013\n\n\n\nReading Times\n−0.074\n0.092\n0.637\n0.425\n\n\nInterval between Biomarker & Autocorrect Task\n−0.068\n0.085\n0.642\n0.423\n\n\nAge\n0.129\n0.088\n2.128\n0.145\n\n\n\nSex = Male\n\n\n−0.364\n\n\n0.173\n\n\n4.438\n\n\n0.035\n\n\n\nEducation\n−0.168\n0.095\n3.12\n0.077\n\n\nAPOE-4 status = Absent\n−0.195\n0.184\n1.127\n0.288\n\n\n\nEdit Distance\n\n\n−1.047\n\n\n0.107\n\n\n95.072\n\n\n<0.001\n\n\n\n\nWord Length\n\n\n0.205\n\n\n0.086\n\n\n5.731\n\n\n0.017\n\n\n\nParagraph Type x Part of Speech\n−0.443\n0.318\n1.943\n0.163\n\n\nParagraph Type x Tau/Aβ42 ratio\n−0.145\n0.297\n0.239\n0.625\n\n\nPart of Speech x Tau/Aβ42 ratio\n0.176\n0.303\n0.337\n0.562\n\n\nParagraph Type x Part of Speech x Tau/Aβ42 ratio\n0.237\n0.517\n0.21\n0.647\n\n\nDominant Function Words\nIntercept\n−1.845\n0.294\n39.257\n< .001\n\n\n\nTau/Aβ42 ratio\n\n\n0.673\n\n\n0.241\n\n\n7.82\n\n\n0.005\n\n\n\nReading Times\n−0.181\n0.129\n1.974\n0.160\n\n\nInterval between Biomarker & Autocorrect Task\n−0.12\n0.094\n1.621\n0.203\n\n\nAge\n0.189\n0.099\n3.666\n0.056\n\n\n\nSex = Male\n\n\n−0.382\n\n\n0.195\n\n\n3.826\n\n\n0.050\n\n\n\n\nEducation\n\n\n−0.275\n\n\n0.103\n\n\n7.169\n\n\n0.007\n\n\n\nAPOE-4 status = Absent\n−0.147\n0.205\n0.509\n0.476\n\n\n\nEdit Distance\n\n\n−1.407\n\n\n0.232\n\n\n36.733\n\n\n< .001\n\n\n\nWord Length\n0.524\n0.166\n9.937\n\n0.002\n\na\n\n\n\n\nDominant Content words\nIntercept\n−2.579\n0.323\n63.929\n< .001\n\n\nTau/Aβ42 ratio\n0.724\n0.442\n2.684\n0.101\n\n\nReading Times\n0.018\n0.154\n0.014\n0.905\n\n\nInterval between Biomarker & Autocorrect Task\n0.016\n0.139\n0.013\n0.911\n\n\nAge\n−0.002\n0.148\n0\n0.987\n\n\nSex = Male\n−0.313\n0.276\n1.29\n0.256\n\n\nEducation\n0.135\n0.146\n0.856\n0.355\n\n\nAPOE-4 status = Absent\n−0.275\n0.295\n0.874\n0.350\n\n\n\nEdit Distance\n\n\n−0.814\n\n\n0.231\n\n\n12.411\n\n\n< .001\n\n\n\nWord Length\n0.007\n0.171\n0.002\n0.968\n\n\nNondominant Function Words\nIntercept\n−2.214\n0.406\n29.749\n< .001\n\n\nTau/Aβ42 ratio\n0.52\n0.352\n2.187\n0.139\n\n\nReading Times\n0.369\n0.167\n4.891\n0.027\n\n\nInterval between Biomarker & Autocorrect Task\n−0.179\n0.124\n2.082\n0.149\n\n\nAge\n0.215\n0.136\n2.485\n0.115\n\n\nSex = Male\n−0.201\n0.262\n0.59\n0.443\n\n\nEducation\n0.096\n0.14\n0.474\n0.491\n\n\nAPOE-4 status = Absent\n−0.514\n0.276\n3.47\n0.062\n\n\n\nEdit Distance\n\n\n−1.021\n\n\n0.228\n\n\n20.092\n\n\n< .001\n\n\n\nWord Length\n0.16\n0.284\n0.318\n0.573\n\n\nNondominant Content Words\nIntercept\n−3.376\n0.351\n92.736\n< .001\n\n\nTau/Aβ42 ratio\n0.803\n0.505\n2.527\n0.112\n\n\nReading Times\n0.414\n0.215\n3.697\n0.055\n\n\nInterval between Biomarker & Autocorrect Task\n−0.298\n0.194\n2.364\n0.124\n\n\nAge\n0.173\n0.202\n0.726\n0.394\n\n\nSex = Male\n−0.185\n0.411\n0.203\n0.652\n\n\nEducation\n−0.031\n0.21\n0.021\n0.884\n\n\nAPOE-4 status = Absent\n−0.564\n0.427\n1.742\n0.187\n\n\n\nEdit Distance\n\n\n−1.122\n\n\n0.287\n\n\n15.308\n\n\n< .001\n\n\n\nWord Length\n0.132\n0.206\n0.415\n0.520\n\n\n\nOpen in a new tab\n\naThis effect was in the opposite direction as the overall length effect (shown in Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Error bars refer to 95% confidence intervals around the best fitting regression line.Figure 1c.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Similarly, the main effects of gender and word length were also significant only on dominant function words (ps < .05; though the latter effect was in the opposite direction as shown in Figure 1c and appeared to be driven by two relatively long and highly error prone autocorrect/expected target pars i.e., though/through and always/around), but not on all other types of words (ps > .25).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The interaction between age and the biomarker on autocorrect errors was not significant in a model with all target words (b = .07; SE = .07; χ2 =1.05. p = .307), not significant in a model with only dominant function word targets (b = .02; SE = .07; χ2 < 1), and also not significant when using total Tau or the Aβ42/Aβ40 ratio instead of the Tau/Aβ42 ratio (ps ≥ .31).Diagnostic utility of autocorrect errors\nFigure 2 shows ROC curves and areas under the curve (AUC) for autocorrect errors on function (A) or content (B) word targets, and for comparison on standard neuropsychological tests (C) of memory (CVLT learning), executive functions (CWIT inhibition), and a neuropsychological composite score (i.e., mean z-score of all tests listed in Table 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The AUC was significant for autocorrect errors on function word targets in dominant paragraphs (AUC = .76; SE = .07; p = .003), but not for any of the other error types or for neuropsychological measures (ps > .05; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Importantly, autocorrect errors appeared to be as sensitive as other neuropsychological test scores for identifying biomarker positive individuals (e.g., see Table 1; Figure 2), suggesting that the autocorrect task may be a useful addition to a cognitive assessment test battery.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "While AD risk was associated with increased likelihood of autocorrection errors, it is unlikely that this is a consequence of diminished semantic processing since function word targets elicited more autocorrect errors than content word targets (see Figure 1), and function words better discriminated biomarker positive from negative individuals than content words (see Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The results of our main analysis using a generalized mixed effects logistic regression are shown in Figure 1a with model results in Table 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Paragraphs with autocorrect targets on dominant function words appeared to be especially error prone in individuals with positive Tau/Aβ42 ratios (see Figure 1), but none of the interactions were significant (ps > .16).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fixed effects from the generalized mixed-effects logistic regression model predicting autocorrect errors\n\n\n\n\n\n\n\n\n\n\nWord Type\nTerm\nBeta\nStd error\n χ2\n\n\np value\n\n\n\n\nAll target words collapsed\nIntercept\n−2.477\n0.158\n245.292\n<0.001\n\n\n\nParagraph Type\n\n\n0.587\n\n\n0.17\n\n\n11.902\n\n\n<0.001\n\n\n\n\nPart of Speech\n\n\n1.039\n\n\n0.19\n\n\n30.012\n\n\n<0.001\n\n\n\n\nTau/Aβ42 ratio\n\n\n0.601\n\n\n0.243\n\n\n6.12\n\n\n0.013\n\n\n\nReading Times\n−0.074\n0.092\n0.637\n0.425\n\n\nInterval between Biomarker & Autocorrect Task\n−0.068\n0.085\n0.642\n0.423\n\n\nAge\n0.129\n0.088\n2.128\n0.145\n\n\n\nSex = Male\n\n\n−0.364\n\n\n0.173\n\n\n4.438\n\n\n0.035\n\n\n\nEducation\n−0.168\n0.095\n3.12\n0.077\n\n\nAPOE-4 status = Absent\n−0.195\n0.184\n1.127\n0.288\n\n\n\nEdit Distance\n\n\n−1.047\n\n\n0.107\n\n\n95.072\n\n\n<0.001\n\n\n\n\nWord Length\n\n\n0.205\n\n\n0.086\n\n\n5.731\n\n\n0.017\n\n\n\nParagraph Type x Part of Speech\n−0.443\n0.318\n1.943\n0.163\n\n\nParagraph Type x Tau/Aβ42 ratio\n−0.145\n0.297\n0.239\n0.625\n\n\nPart of Speech x Tau/Aβ42 ratio\n0.176\n0.303\n0.337\n0.562\n\n\nParagraph Type x Part of Speech x Tau/Aβ42 ratio\n0.237\n0.517\n0.21\n0.647\n\n\nDominant Function Words\nIntercept\n−1.845\n0.294\n39.257\n< .001\n\n\n\nTau/Aβ42 ratio\n\n\n0.673\n\n\n0.241\n\n\n7.82\n\n\n0.005\n\n\n\nReading Times\n−0.181\n0.129\n1.974\n0.160\n\n\nInterval between Biomarker & Autocorrect Task\n−0.12\n0.094\n1.621\n0.203\n\n\nAge\n0.189\n0.099\n3.666\n0.056\n\n\n\nSex = Male\n\n\n−0.382\n\n\n0.195\n\n\n3.826\n\n\n0.050\n\n\n\n\nEducation\n\n\n−0.275\n\n\n0.103\n\n\n7.169\n\n\n0.007\n\n\n\nAPOE-4 status = Absent\n−0.147\n0.205\n0.509\n0.476\n\n\n\nEdit Distance\n\n\n−1.407\n\n\n0.232\n\n\n36.733\n\n\n< .001\n\n\n\nWord Length\n0.524\n0.166\n9.937\n\n0.002\n\na\n\n\n\n\nDominant Content words\nIntercept\n−2.579\n0.323\n63.929\n< .001\n\n\nTau/Aβ42 ratio\n0.724\n0.442\n2.684\n0.101\n\n\nReading Times\n0.018\n0.154\n0.014\n0.905\n\n\nInterval between Biomarker & Autocorrect Task\n0.016\n0.139\n0.013\n0.911\n\n\nAge\n−0.002\n0.148\n0\n0.987\n\n\nSex = Male\n−0.313\n0.276\n1.29\n0.256\n\n\nEducation\n0.135\n0.146\n0.856\n0.355\n\n\nAPOE-4 status = Absent\n−0.275\n0.295\n0.874\n0.350\n\n\n\nEdit Distance\n\n\n−0.814\n\n\n0.231\n\n\n12.411\n\n\n< .001\n\n\n\nWord Length\n0.007\n0.171\n0.002\n0.968\n\n\nNondominant Function Words\nIntercept\n−2.214\n0.406\n29.749\n< .001\n\n\nTau/Aβ42 ratio\n0.52\n0.352\n2.187\n0.139\n\n\nReading Times\n0.369\n0.167\n4.891\n0.027\n\n\nInterval between Biomarker & Autocorrect Task\n−0.179\n0.124\n2.082\n0.149\n\n\nAge\n0.215\n0.136\n2.485\n0.115\n\n\nSex = Male\n−0.201\n0.262\n0.59\n0.443\n\n\nEducation\n0.096\n0.14\n0.474\n0.491\n\n\nAPOE-4 status = Absent\n−0.514\n0.276\n3.47\n0.062\n\n\n\nEdit Distance\n\n\n−1.021\n\n\n0.228\n\n\n20.092\n\n\n< .001\n\n\n\nWord Length\n0.16\n0.284\n0.318\n0.573\n\n\nNondominant Content Words\nIntercept\n−3.376\n0.351\n92.736\n< .001\n\n\nTau/Aβ42 ratio\n0.803\n0.505\n2.527\n0.112\n\n\nReading Times\n0.414\n0.215\n3.697\n0.055\n\n\nInterval between Biomarker & Autocorrect Task\n−0.298\n0.194\n2.364\n0.124\n\n\nAge\n0.173\n0.202\n0.726\n0.394\n\n\nSex = Male\n−0.185\n0.411\n0.203\n0.652\n\n\nEducation\n−0.031\n0.21\n0.021\n0.884\n\n\nAPOE-4 status = Absent\n−0.564\n0.427\n1.742\n0.187\n\n\n\nEdit Distance\n\n\n−1.122\n\n\n0.287\n\n\n15.308\n\n\n< .001\n\n\n\nWord Length\n0.132\n0.206\n0.415\n0.520\n\n\n\nOpen in a new tab\n\naThis effect was in the opposite direction as the overall length effect (shown in Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Error bars refer to 95% confidence intervals around the best fitting regression line.Figure 1c.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Similarly, the main effects of gender and word length were also significant only on dominant function words (ps < .05; though the latter effect was in the opposite direction as shown in Figure 1c and appeared to be driven by two relatively long and highly error prone autocorrect/expected target pars i.e., though/through and always/around), but not on all other types of words (ps > .25).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The interaction between age and the biomarker on autocorrect errors was not significant in a model with all target words (b = .07; SE = .07; χ2 =1.05. p = .307), not significant in a model with only dominant function word targets (b = .02; SE = .07; χ2 < 1), and also not significant when using total Tau or the Aβ42/Aβ40 ratio instead of the Tau/Aβ42 ratio (ps ≥ .31).Diagnostic utility of autocorrect errors\nFigure 2 shows ROC curves and areas under the curve (AUC) for autocorrect errors on function (A) or content (B) word targets, and for comparison on standard neuropsychological tests (C) of memory (CVLT learning), executive functions (CWIT inhibition), and a neuropsychological composite score (i.e., mean z-score of all tests listed in Table 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The AUC was significant for autocorrect errors on function word targets in dominant paragraphs (AUC = .76; SE = .07; p = .003), but not for any of the other error types or for neuropsychological measures (ps > .05; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Importantly, autocorrect errors appeared to be as sensitive as other neuropsychological test scores for identifying biomarker positive individuals (e.g., see Table 1; Figure 2), suggesting that the autocorrect task may be a useful addition to a cognitive assessment test battery.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "While AD risk was associated with increased likelihood of autocorrection errors, it is unlikely that this is a consequence of diminished semantic processing since function word targets elicited more autocorrect errors than content word targets (see Figure 1), and function words better discriminated biomarker positive from negative individuals than content words (see Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The results of our main analysis using a generalized mixed effects logistic regression are shown in Figure 1a with model results in Table 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Paragraphs with autocorrect targets on dominant function words appeared to be especially error prone in individuals with positive Tau/Aβ42 ratios (see Figure 1), but none of the interactions were significant (ps > .16).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fixed effects from the generalized mixed-effects logistic regression model predicting autocorrect errors\n\n\n\n\n\n\n\n\n\n\nWord Type\nTerm\nBeta\nStd error\n χ2\n\n\np value\n\n\n\n\nAll target words collapsed\nIntercept\n−2.477\n0.158\n245.292\n<0.001\n\n\n\nParagraph Type\n\n\n0.587\n\n\n0.17\n\n\n11.902\n\n\n<0.001\n\n\n\n\nPart of Speech\n\n\n1.039\n\n\n0.19\n\n\n30.012\n\n\n<0.001\n\n\n\n\nTau/Aβ42 ratio\n\n\n0.601\n\n\n0.243\n\n\n6.12\n\n\n0.013\n\n\n\nReading Times\n−0.074\n0.092\n0.637\n0.425\n\n\nInterval between Biomarker & Autocorrect Task\n−0.068\n0.085\n0.642\n0.423\n\n\nAge\n0.129\n0.088\n2.128\n0.145\n\n\n\nSex = Male\n\n\n−0.364\n\n\n0.173\n\n\n4.438\n\n\n0.035\n\n\n\nEducation\n−0.168\n0.095\n3.12\n0.077\n\n\nAPOE-4 status = Absent\n−0.195\n0.184\n1.127\n0.288\n\n\n\nEdit Distance\n\n\n−1.047\n\n\n0.107\n\n\n95.072\n\n\n<0.001\n\n\n\n\nWord Length\n\n\n0.205\n\n\n0.086\n\n\n5.731\n\n\n0.017\n\n\n\nParagraph Type x Part of Speech\n−0.443\n0.318\n1.943\n0.163\n\n\nParagraph Type x Tau/Aβ42 ratio\n−0.145\n0.297\n0.239\n0.625\n\n\nPart of Speech x Tau/Aβ42 ratio\n0.176\n0.303\n0.337\n0.562\n\n\nParagraph Type x Part of Speech x Tau/Aβ42 ratio\n0.237\n0.517\n0.21\n0.647\n\n\nDominant Function Words\nIntercept\n−1.845\n0.294\n39.257\n< .001\n\n\n\nTau/Aβ42 ratio\n\n\n0.673\n\n\n0.241\n\n\n7.82\n\n\n0.005\n\n\n\nReading Times\n−0.181\n0.129\n1.974\n0.160\n\n\nInterval between Biomarker & Autocorrect Task\n−0.12\n0.094\n1.621\n0.203\n\n\nAge\n0.189\n0.099\n3.666\n0.056\n\n\n\nSex = Male\n\n\n−0.382\n\n\n0.195\n\n\n3.826\n\n\n0.050\n\n\n\n\nEducation\n\n\n−0.275\n\n\n0.103\n\n\n7.169\n\n\n0.007\n\n\n\nAPOE-4 status = Absent\n−0.147\n0.205\n0.509\n0.476\n\n\n\nEdit Distance\n\n\n−1.407\n\n\n0.232\n\n\n36.733\n\n\n< .001\n\n\n\nWord Length\n0.524\n0.166\n9.937\n\n0.002\n\na\n\n\n\n\nDominant Content words\nIntercept\n−2.579\n0.323\n63.929\n< .001\n\n\nTau/Aβ42 ratio\n0.724\n0.442\n2.684\n0.101\n\n\nReading Times\n0.018\n0.154\n0.014\n0.905\n\n\nInterval between Biomarker & Autocorrect Task\n0.016\n0.139\n0.013\n0.911\n\n\nAge\n−0.002\n0.148\n0\n0.987\n\n\nSex = Male\n−0.313\n0.276\n1.29\n0.256\n\n\nEducation\n0.135\n0.146\n0.856\n0.355\n\n\nAPOE-4 status = Absent\n−0.275\n0.295\n0.874\n0.350\n\n\n\nEdit Distance\n\n\n−0.814\n\n\n0.231\n\n\n12.411\n\n\n< .001\n\n\n\nWord Length\n0.007\n0.171\n0.002\n0.968\n\n\nNondominant Function Words\nIntercept\n−2.214\n0.406\n29.749\n< .001\n\n\nTau/Aβ42 ratio\n0.52\n0.352\n2.187\n0.139\n\n\nReading Times\n0.369\n0.167\n4.891\n0.027\n\n\nInterval between Biomarker & Autocorrect Task\n−0.179\n0.124\n2.082\n0.149\n\n\nAge\n0.215\n0.136\n2.485\n0.115\n\n\nSex = Male\n−0.201\n0.262\n0.59\n0.443\n\n\nEducation\n0.096\n0.14\n0.474\n0.491\n\n\nAPOE-4 status = Absent\n−0.514\n0.276\n3.47\n0.062\n\n\n\nEdit Distance\n\n\n−1.021\n\n\n0.228\n\n\n20.092\n\n\n< .001\n\n\n\nWord Length\n0.16\n0.284\n0.318\n0.573\n\n\nNondominant Content Words\nIntercept\n−3.376\n0.351\n92.736\n< .001\n\n\nTau/Aβ42 ratio\n0.803\n0.505\n2.527\n0.112\n\n\nReading Times\n0.414\n0.215\n3.697\n0.055\n\n\nInterval between Biomarker & Autocorrect Task\n−0.298\n0.194\n2.364\n0.124\n\n\nAge\n0.173\n0.202\n0.726\n0.394\n\n\nSex = Male\n−0.185\n0.411\n0.203\n0.652\n\n\nEducation\n−0.031\n0.21\n0.021\n0.884\n\n\nAPOE-4 status = Absent\n−0.564\n0.427\n1.742\n0.187\n\n\n\nEdit Distance\n\n\n−1.122\n\n\n0.287\n\n\n15.308\n\n\n< .001\n\n\n\nWord Length\n0.132\n0.206\n0.415\n0.520\n\n\n\nOpen in a new tab\n\naThis effect was in the opposite direction as the overall length effect (shown in Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Error bars refer to 95% confidence intervals around the best fitting regression line.Figure 1c.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Similarly, the main effects of gender and word length were also significant only on dominant function words (ps < .05; though the latter effect was in the opposite direction as shown in Figure 1c and appeared to be driven by two relatively long and highly error prone autocorrect/expected target pars i.e., though/through and always/around), but not on all other types of words (ps > .25).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The interaction between age and the biomarker on autocorrect errors was not significant in a model with all target words (b = .07; SE = .07; χ2 =1.05. p = .307), not significant in a model with only dominant function word targets (b = .02; SE = .07; χ2 < 1), and also not significant when using total Tau or the Aβ42/Aβ40 ratio instead of the Tau/Aβ42 ratio (ps ≥ .31).Diagnostic utility of autocorrect errors\nFigure 2 shows ROC curves and areas under the curve (AUC) for autocorrect errors on function (A) or content (B) word targets, and for comparison on standard neuropsychological tests (C) of memory (CVLT learning), executive functions (CWIT inhibition), and a neuropsychological composite score (i.e., mean z-score of all tests listed in Table 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The AUC was significant for autocorrect errors on function word targets in dominant paragraphs (AUC = .76; SE = .07; p = .003), but not for any of the other error types or for neuropsychological measures (ps > .05; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Importantly, autocorrect errors appeared to be as sensitive as other neuropsychological test scores for identifying biomarker positive individuals (e.g., see Table 1; Figure 2), suggesting that the autocorrect task may be a useful addition to a cognitive assessment test battery.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "While AD risk was associated with increased likelihood of autocorrection errors, it is unlikely that this is a consequence of diminished semantic processing since function word targets elicited more autocorrect errors than content word targets (see Figure 1), and function words better discriminated biomarker positive from negative individuals than content words (see Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The results of our main analysis using a generalized mixed effects logistic regression are shown in Figure 1a with model results in Table 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Paragraphs with autocorrect targets on dominant function words appeared to be especially error prone in individuals with positive Tau/Aβ42 ratios (see Figure 1), but none of the interactions were significant (ps > .16).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fixed effects from the generalized mixed-effects logistic regression model predicting autocorrect errors\n\n\n\n\n\n\n\n\n\n\nWord Type\nTerm\nBeta\nStd error\n χ2\n\n\np value\n\n\n\n\nAll target words collapsed\nIntercept\n−2.477\n0.158\n245.292\n<0.001\n\n\n\nParagraph Type\n\n\n0.587\n\n\n0.17\n\n\n11.902\n\n\n<0.001\n\n\n\n\nPart of Speech\n\n\n1.039\n\n\n0.19\n\n\n30.012\n\n\n<0.001\n\n\n\n\nTau/Aβ42 ratio\n\n\n0.601\n\n\n0.243\n\n\n6.12\n\n\n0.013\n\n\n\nReading Times\n−0.074\n0.092\n0.637\n0.425\n\n\nInterval between Biomarker & Autocorrect Task\n−0.068\n0.085\n0.642\n0.423\n\n\nAge\n0.129\n0.088\n2.128\n0.145\n\n\n\nSex = Male\n\n\n−0.364\n\n\n0.173\n\n\n4.438\n\n\n0.035\n\n\n\nEducation\n−0.168\n0.095\n3.12\n0.077\n\n\nAPOE-4 status = Absent\n−0.195\n0.184\n1.127\n0.288\n\n\n\nEdit Distance\n\n\n−1.047\n\n\n0.107\n\n\n95.072\n\n\n<0.001\n\n\n\n\nWord Length\n\n\n0.205\n\n\n0.086\n\n\n5.731\n\n\n0.017\n\n\n\nParagraph Type x Part of Speech\n−0.443\n0.318\n1.943\n0.163\n\n\nParagraph Type x Tau/Aβ42 ratio\n−0.145\n0.297\n0.239\n0.625\n\n\nPart of Speech x Tau/Aβ42 ratio\n0.176\n0.303\n0.337\n0.562\n\n\nParagraph Type x Part of Speech x Tau/Aβ42 ratio\n0.237\n0.517\n0.21\n0.647\n\n\nDominant Function Words\nIntercept\n−1.845\n0.294\n39.257\n< .001\n\n\n\nTau/Aβ42 ratio\n\n\n0.673\n\n\n0.241\n\n\n7.82\n\n\n0.005\n\n\n\nReading Times\n−0.181\n0.129\n1.974\n0.160\n\n\nInterval between Biomarker & Autocorrect Task\n−0.12\n0.094\n1.621\n0.203\n\n\nAge\n0.189\n0.099\n3.666\n0.056\n\n\n\nSex = Male\n\n\n−0.382\n\n\n0.195\n\n\n3.826\n\n\n0.050\n\n\n\n\nEducation\n\n\n−0.275\n\n\n0.103\n\n\n7.169\n\n\n0.007\n\n\n\nAPOE-4 status = Absent\n−0.147\n0.205\n0.509\n0.476\n\n\n\nEdit Distance\n\n\n−1.407\n\n\n0.232\n\n\n36.733\n\n\n< .001\n\n\n\nWord Length\n0.524\n0.166\n9.937\n\n0.002\n\na\n\n\n\n\nDominant Content words\nIntercept\n−2.579\n0.323\n63.929\n< .001\n\n\nTau/Aβ42 ratio\n0.724\n0.442\n2.684\n0.101\n\n\nReading Times\n0.018\n0.154\n0.014\n0.905\n\n\nInterval between Biomarker & Autocorrect Task\n0.016\n0.139\n0.013\n0.911\n\n\nAge\n−0.002\n0.148\n0\n0.987\n\n\nSex = Male\n−0.313\n0.276\n1.29\n0.256\n\n\nEducation\n0.135\n0.146\n0.856\n0.355\n\n\nAPOE-4 status = Absent\n−0.275\n0.295\n0.874\n0.350\n\n\n\nEdit Distance\n\n\n−0.814\n\n\n0.231\n\n\n12.411\n\n\n< .001\n\n\n\nWord Length\n0.007\n0.171\n0.002\n0.968\n\n\nNondominant Function Words\nIntercept\n−2.214\n0.406\n29.749\n< .001\n\n\nTau/Aβ42 ratio\n0.52\n0.352\n2.187\n0.139\n\n\nReading Times\n0.369\n0.167\n4.891\n0.027\n\n\nInterval between Biomarker & Autocorrect Task\n−0.179\n0.124\n2.082\n0.149\n\n\nAge\n0.215\n0.136\n2.485\n0.115\n\n\nSex = Male\n−0.201\n0.262\n0.59\n0.443\n\n\nEducation\n0.096\n0.14\n0.474\n0.491\n\n\nAPOE-4 status = Absent\n−0.514\n0.276\n3.47\n0.062\n\n\n\nEdit Distance\n\n\n−1.021\n\n\n0.228\n\n\n20.092\n\n\n< .001\n\n\n\nWord Length\n0.16\n0.284\n0.318\n0.573\n\n\nNondominant Content Words\nIntercept\n−3.376\n0.351\n92.736\n< .001\n\n\nTau/Aβ42 ratio\n0.803\n0.505\n2.527\n0.112\n\n\nReading Times\n0.414\n0.215\n3.697\n0.055\n\n\nInterval between Biomarker & Autocorrect Task\n−0.298\n0.194\n2.364\n0.124\n\n\nAge\n0.173\n0.202\n0.726\n0.394\n\n\nSex = Male\n−0.185\n0.411\n0.203\n0.652\n\n\nEducation\n−0.031\n0.21\n0.021\n0.884\n\n\nAPOE-4 status = Absent\n−0.564\n0.427\n1.742\n0.187\n\n\n\nEdit Distance\n\n\n−1.122\n\n\n0.287\n\n\n15.308\n\n\n< .001\n\n\n\nWord Length\n0.132\n0.206\n0.415\n0.520\n\n\n\nOpen in a new tab\n\naThis effect was in the opposite direction as the overall length effect (shown in Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Error bars refer to 95% confidence intervals around the best fitting regression line.Figure 1c.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Similarly, the main effects of gender and word length were also significant only on dominant function words (ps < .05; though the latter effect was in the opposite direction as shown in Figure 1c and appeared to be driven by two relatively long and highly error prone autocorrect/expected target pars i.e., though/through and always/around), but not on all other types of words (ps > .25).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The interaction between age and the biomarker on autocorrect errors was not significant in a model with all target words (b = .07; SE = .07; χ2 =1.05. p = .307), not significant in a model with only dominant function word targets (b = .02; SE = .07; χ2 < 1), and also not significant when using total Tau or the Aβ42/Aβ40 ratio instead of the Tau/Aβ42 ratio (ps ≥ .31).Diagnostic utility of autocorrect errors\nFigure 2 shows ROC curves and areas under the curve (AUC) for autocorrect errors on function (A) or content (B) word targets, and for comparison on standard neuropsychological tests (C) of memory (CVLT learning), executive functions (CWIT inhibition), and a neuropsychological composite score (i.e., mean z-score of all tests listed in Table 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The AUC was significant for autocorrect errors on function word targets in dominant paragraphs (AUC = .76; SE = .07; p = .003), but not for any of the other error types or for neuropsychological measures (ps > .05; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Importantly, autocorrect errors appeared to be as sensitive as other neuropsychological test scores for identifying biomarker positive individuals (e.g., see Table 1; Figure 2), suggesting that the autocorrect task may be a useful addition to a cognitive assessment test battery.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "While AD risk was associated with increased likelihood of autocorrection errors, it is unlikely that this is a consequence of diminished semantic processing since function word targets elicited more autocorrect errors than content word targets (see Figure 1), and function words better discriminated biomarker positive from negative individuals than content words (see Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The results of our main analysis using a generalized mixed effects logistic regression are shown in Figure 1a with model results in Table 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Paragraphs with autocorrect targets on dominant function words appeared to be especially error prone in individuals with positive Tau/Aβ42 ratios (see Figure 1), but none of the interactions were significant (ps > .16).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fixed effects from the generalized mixed-effects logistic regression model predicting autocorrect errors\n\n\n\n\n\n\n\n\n\n\nWord Type\nTerm\nBeta\nStd error\n χ2\n\n\np value\n\n\n\n\nAll target words collapsed\nIntercept\n−2.477\n0.158\n245.292\n<0.001\n\n\n\nParagraph Type\n\n\n0.587\n\n\n0.17\n\n\n11.902\n\n\n<0.001\n\n\n\n\nPart of Speech\n\n\n1.039\n\n\n0.19\n\n\n30.012\n\n\n<0.001\n\n\n\n\nTau/Aβ42 ratio\n\n\n0.601\n\n\n0.243\n\n\n6.12\n\n\n0.013\n\n\n\nReading Times\n−0.074\n0.092\n0.637\n0.425\n\n\nInterval between Biomarker & Autocorrect Task\n−0.068\n0.085\n0.642\n0.423\n\n\nAge\n0.129\n0.088\n2.128\n0.145\n\n\n\nSex = Male\n\n\n−0.364\n\n\n0.173\n\n\n4.438\n\n\n0.035\n\n\n\nEducation\n−0.168\n0.095\n3.12\n0.077\n\n\nAPOE-4 status = Absent\n−0.195\n0.184\n1.127\n0.288\n\n\n\nEdit Distance\n\n\n−1.047\n\n\n0.107\n\n\n95.072\n\n\n<0.001\n\n\n\n\nWord Length\n\n\n0.205\n\n\n0.086\n\n\n5.731\n\n\n0.017\n\n\n\nParagraph Type x Part of Speech\n−0.443\n0.318\n1.943\n0.163\n\n\nParagraph Type x Tau/Aβ42 ratio\n−0.145\n0.297\n0.239\n0.625\n\n\nPart of Speech x Tau/Aβ42 ratio\n0.176\n0.303\n0.337\n0.562\n\n\nParagraph Type x Part of Speech x Tau/Aβ42 ratio\n0.237\n0.517\n0.21\n0.647\n\n\nDominant Function Words\nIntercept\n−1.845\n0.294\n39.257\n< .001\n\n\n\nTau/Aβ42 ratio\n\n\n0.673\n\n\n0.241\n\n\n7.82\n\n\n0.005\n\n\n\nReading Times\n−0.181\n0.129\n1.974\n0.160\n\n\nInterval between Biomarker & Autocorrect Task\n−0.12\n0.094\n1.621\n0.203\n\n\nAge\n0.189\n0.099\n3.666\n0.056\n\n\n\nSex = Male\n\n\n−0.382\n\n\n0.195\n\n\n3.826\n\n\n0.050\n\n\n\n\nEducation\n\n\n−0.275\n\n\n0.103\n\n\n7.169\n\n\n0.007\n\n\n\nAPOE-4 status = Absent\n−0.147\n0.205\n0.509\n0.476\n\n\n\nEdit Distance\n\n\n−1.407\n\n\n0.232\n\n\n36.733\n\n\n< .001\n\n\n\nWord Length\n0.524\n0.166\n9.937\n\n0.002\n\na\n\n\n\n\nDominant Content words\nIntercept\n−2.579\n0.323\n63.929\n< .001\n\n\nTau/Aβ42 ratio\n0.724\n0.442\n2.684\n0.101\n\n\nReading Times\n0.018\n0.154\n0.014\n0.905\n\n\nInterval between Biomarker & Autocorrect Task\n0.016\n0.139\n0.013\n0.911\n\n\nAge\n−0.002\n0.148\n0\n0.987\n\n\nSex = Male\n−0.313\n0.276\n1.29\n0.256\n\n\nEducation\n0.135\n0.146\n0.856\n0.355\n\n\nAPOE-4 status = Absent\n−0.275\n0.295\n0.874\n0.350\n\n\n\nEdit Distance\n\n\n−0.814\n\n\n0.231\n\n\n12.411\n\n\n< .001\n\n\n\nWord Length\n0.007\n0.171\n0.002\n0.968\n\n\nNondominant Function Words\nIntercept\n−2.214\n0.406\n29.749\n< .001\n\n\nTau/Aβ42 ratio\n0.52\n0.352\n2.187\n0.139\n\n\nReading Times\n0.369\n0.167\n4.891\n0.027\n\n\nInterval between Biomarker & Autocorrect Task\n−0.179\n0.124\n2.082\n0.149\n\n\nAge\n0.215\n0.136\n2.485\n0.115\n\n\nSex = Male\n−0.201\n0.262\n0.59\n0.443\n\n\nEducation\n0.096\n0.14\n0.474\n0.491\n\n\nAPOE-4 status = Absent\n−0.514\n0.276\n3.47\n0.062\n\n\n\nEdit Distance\n\n\n−1.021\n\n\n0.228\n\n\n20.092\n\n\n< .001\n\n\n\nWord Length\n0.16\n0.284\n0.318\n0.573\n\n\nNondominant Content Words\nIntercept\n−3.376\n0.351\n92.736\n< .001\n\n\nTau/Aβ42 ratio\n0.803\n0.505\n2.527\n0.112\n\n\nReading Times\n0.414\n0.215\n3.697\n0.055\n\n\nInterval between Biomarker & Autocorrect Task\n−0.298\n0.194\n2.364\n0.124\n\n\nAge\n0.173\n0.202\n0.726\n0.394\n\n\nSex = Male\n−0.185\n0.411\n0.203\n0.652\n\n\nEducation\n−0.031\n0.21\n0.021\n0.884\n\n\nAPOE-4 status = Absent\n−0.564\n0.427\n1.742\n0.187\n\n\n\nEdit Distance\n\n\n−1.122\n\n\n0.287\n\n\n15.308\n\n\n< .001\n\n\n\nWord Length\n0.132\n0.206\n0.415\n0.520\n\n\n\nOpen in a new tab\n\naThis effect was in the opposite direction as the overall length effect (shown in Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Error bars refer to 95% confidence intervals around the best fitting regression line.Figure 1c.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Similarly, the main effects of gender and word length were also significant only on dominant function words (ps < .05; though the latter effect was in the opposite direction as shown in Figure 1c and appeared to be driven by two relatively long and highly error prone autocorrect/expected target pars i.e., though/through and always/around), but not on all other types of words (ps > .25).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The interaction between age and the biomarker on autocorrect errors was not significant in a model with all target words (b = .07; SE = .07; χ2 =1.05. p = .307), not significant in a model with only dominant function word targets (b = .02; SE = .07; χ2 < 1), and also not significant when using total Tau or the Aβ42/Aβ40 ratio instead of the Tau/Aβ42 ratio (ps ≥ .31).Diagnostic utility of autocorrect errors\nFigure 2 shows ROC curves and areas under the curve (AUC) for autocorrect errors on function (A) or content (B) word targets, and for comparison on standard neuropsychological tests (C) of memory (CVLT learning), executive functions (CWIT inhibition), and a neuropsychological composite score (i.e., mean z-score of all tests listed in Table 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The AUC was significant for autocorrect errors on function word targets in dominant paragraphs (AUC = .76; SE = .07; p = .003), but not for any of the other error types or for neuropsychological measures (ps > .05; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Importantly, autocorrect errors appeared to be as sensitive as other neuropsychological test scores for identifying biomarker positive individuals (e.g., see Table 1; Figure 2), suggesting that the autocorrect task may be a useful addition to a cognitive assessment test battery.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "While AD risk was associated with increased likelihood of autocorrection errors, it is unlikely that this is a consequence of diminished semantic processing since function word targets elicited more autocorrect errors than content word targets (see Figure 1), and function words better discriminated biomarker positive from negative individuals than content words (see Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The results of our main analysis using a generalized mixed effects logistic regression are shown in Figure 1a with model results in Table 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Paragraphs with autocorrect targets on dominant function words appeared to be especially error prone in individuals with positive Tau/Aβ42 ratios (see Figure 1), but none of the interactions were significant (ps > .16).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fixed effects from the generalized mixed-effects logistic regression model predicting autocorrect errors\n\n\n\n\n\n\n\n\n\n\nWord Type\nTerm\nBeta\nStd error\n χ2\n\n\np value\n\n\n\n\nAll target words collapsed\nIntercept\n−2.477\n0.158\n245.292\n<0.001\n\n\n\nParagraph Type\n\n\n0.587\n\n\n0.17\n\n\n11.902\n\n\n<0.001\n\n\n\n\nPart of Speech\n\n\n1.039\n\n\n0.19\n\n\n30.012\n\n\n<0.001\n\n\n\n\nTau/Aβ42 ratio\n\n\n0.601\n\n\n0.243\n\n\n6.12\n\n\n0.013\n\n\n\nReading Times\n−0.074\n0.092\n0.637\n0.425\n\n\nInterval between Biomarker & Autocorrect Task\n−0.068\n0.085\n0.642\n0.423\n\n\nAge\n0.129\n0.088\n2.128\n0.145\n\n\n\nSex = Male\n\n\n−0.364\n\n\n0.173\n\n\n4.438\n\n\n0.035\n\n\n\nEducation\n−0.168\n0.095\n3.12\n0.077\n\n\nAPOE-4 status = Absent\n−0.195\n0.184\n1.127\n0.288\n\n\n\nEdit Distance\n\n\n−1.047\n\n\n0.107\n\n\n95.072\n\n\n<0.001\n\n\n\n\nWord Length\n\n\n0.205\n\n\n0.086\n\n\n5.731\n\n\n0.017\n\n\n\nParagraph Type x Part of Speech\n−0.443\n0.318\n1.943\n0.163\n\n\nParagraph Type x Tau/Aβ42 ratio\n−0.145\n0.297\n0.239\n0.625\n\n\nPart of Speech x Tau/Aβ42 ratio\n0.176\n0.303\n0.337\n0.562\n\n\nParagraph Type x Part of Speech x Tau/Aβ42 ratio\n0.237\n0.517\n0.21\n0.647\n\n\nDominant Function Words\nIntercept\n−1.845\n0.294\n39.257\n< .001\n\n\n\nTau/Aβ42 ratio\n\n\n0.673\n\n\n0.241\n\n\n7.82\n\n\n0.005\n\n\n\nReading Times\n−0.181\n0.129\n1.974\n0.160\n\n\nInterval between Biomarker & Autocorrect Task\n−0.12\n0.094\n1.621\n0.203\n\n\nAge\n0.189\n0.099\n3.666\n0.056\n\n\n\nSex = Male\n\n\n−0.382\n\n\n0.195\n\n\n3.826\n\n\n0.050\n\n\n\n\nEducation\n\n\n−0.275\n\n\n0.103\n\n\n7.169\n\n\n0.007\n\n\n\nAPOE-4 status = Absent\n−0.147\n0.205\n0.509\n0.476\n\n\n\nEdit Distance\n\n\n−1.407\n\n\n0.232\n\n\n36.733\n\n\n< .001\n\n\n\nWord Length\n0.524\n0.166\n9.937\n\n0.002\n\na\n\n\n\n\nDominant Content words\nIntercept\n−2.579\n0.323\n63.929\n< .001\n\n\nTau/Aβ42 ratio\n0.724\n0.442\n2.684\n0.101\n\n\nReading Times\n0.018\n0.154\n0.014\n0.905\n\n\nInterval between Biomarker & Autocorrect Task\n0.016\n0.139\n0.013\n0.911\n\n\nAge\n−0.002\n0.148\n0\n0.987\n\n\nSex = Male\n−0.313\n0.276\n1.29\n0.256\n\n\nEducation\n0.135\n0.146\n0.856\n0.355\n\n\nAPOE-4 status = Absent\n−0.275\n0.295\n0.874\n0.350\n\n\n\nEdit Distance\n\n\n−0.814\n\n\n0.231\n\n\n12.411\n\n\n< .001\n\n\n\nWord Length\n0.007\n0.171\n0.002\n0.968\n\n\nNondominant Function Words\nIntercept\n−2.214\n0.406\n29.749\n< .001\n\n\nTau/Aβ42 ratio\n0.52\n0.352\n2.187\n0.139\n\n\nReading Times\n0.369\n0.167\n4.891\n0.027\n\n\nInterval between Biomarker & Autocorrect Task\n−0.179\n0.124\n2.082\n0.149\n\n\nAge\n0.215\n0.136\n2.485\n0.115\n\n\nSex = Male\n−0.201\n0.262\n0.59\n0.443\n\n\nEducation\n0.096\n0.14\n0.474\n0.491\n\n\nAPOE-4 status = Absent\n−0.514\n0.276\n3.47\n0.062\n\n\n\nEdit Distance\n\n\n−1.021\n\n\n0.228\n\n\n20.092\n\n\n< .001\n\n\n\nWord Length\n0.16\n0.284\n0.318\n0.573\n\n\nNondominant Content Words\nIntercept\n−3.376\n0.351\n92.736\n< .001\n\n\nTau/Aβ42 ratio\n0.803\n0.505\n2.527\n0.112\n\n\nReading Times\n0.414\n0.215\n3.697\n0.055\n\n\nInterval between Biomarker & Autocorrect Task\n−0.298\n0.194\n2.364\n0.124\n\n\nAge\n0.173\n0.202\n0.726\n0.394\n\n\nSex = Male\n−0.185\n0.411\n0.203\n0.652\n\n\nEducation\n−0.031\n0.21\n0.021\n0.884\n\n\nAPOE-4 status = Absent\n−0.564\n0.427\n1.742\n0.187\n\n\n\nEdit Distance\n\n\n−1.122\n\n\n0.287\n\n\n15.308\n\n\n< .001\n\n\n\nWord Length\n0.132\n0.206\n0.415\n0.520\n\n\n\nOpen in a new tab\n\naThis effect was in the opposite direction as the overall length effect (shown in Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Error bars refer to 95% confidence intervals around the best fitting regression line.Figure 1c.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Similarly, the main effects of gender and word length were also significant only on dominant function words (ps < .05; though the latter effect was in the opposite direction as shown in Figure 1c and appeared to be driven by two relatively long and highly error prone autocorrect/expected target pars i.e., though/through and always/around), but not on all other types of words (ps > .25).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The interaction between age and the biomarker on autocorrect errors was not significant in a model with all target words (b = .07; SE = .07; χ2 =1.05. p = .307), not significant in a model with only dominant function word targets (b = .02; SE = .07; χ2 < 1), and also not significant when using total Tau or the Aβ42/Aβ40 ratio instead of the Tau/Aβ42 ratio (ps ≥ .31).Diagnostic utility of autocorrect errors\nFigure 2 shows ROC curves and areas under the curve (AUC) for autocorrect errors on function (A) or content (B) word targets, and for comparison on standard neuropsychological tests (C) of memory (CVLT learning), executive functions (CWIT inhibition), and a neuropsychological composite score (i.e., mean z-score of all tests listed in Table 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The AUC was significant for autocorrect errors on function word targets in dominant paragraphs (AUC = .76; SE = .07; p = .003), but not for any of the other error types or for neuropsychological measures (ps > .05; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The results of our main analysis using a generalized mixed effects logistic regression are shown in Figure 1a with model results in Table 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Paragraphs with autocorrect targets on dominant function words appeared to be especially error prone in individuals with positive Tau/Aβ42 ratios (see Figure 1), but none of the interactions were significant (ps > .16).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fixed effects from the generalized mixed-effects logistic regression model predicting autocorrect errors\n\n\n\n\n\n\n\n\n\n\nWord Type\nTerm\nBeta\nStd error\n χ2\n\n\np value\n\n\n\n\nAll target words collapsed\nIntercept\n−2.477\n0.158\n245.292\n<0.001\n\n\n\nParagraph Type\n\n\n0.587\n\n\n0.17\n\n\n11.902\n\n\n<0.001\n\n\n\n\nPart of Speech\n\n\n1.039\n\n\n0.19\n\n\n30.012\n\n\n<0.001\n\n\n\n\nTau/Aβ42 ratio\n\n\n0.601\n\n\n0.243\n\n\n6.12\n\n\n0.013\n\n\n\nReading Times\n−0.074\n0.092\n0.637\n0.425\n\n\nInterval between Biomarker & Autocorrect Task\n−0.068\n0.085\n0.642\n0.423\n\n\nAge\n0.129\n0.088\n2.128\n0.145\n\n\n\nSex = Male\n\n\n−0.364\n\n\n0.173\n\n\n4.438\n\n\n0.035\n\n\n\nEducation\n−0.168\n0.095\n3.12\n0.077\n\n\nAPOE-4 status = Absent\n−0.195\n0.184\n1.127\n0.288\n\n\n\nEdit Distance\n\n\n−1.047\n\n\n0.107\n\n\n95.072\n\n\n<0.001\n\n\n\n\nWord Length\n\n\n0.205\n\n\n0.086\n\n\n5.731\n\n\n0.017\n\n\n\nParagraph Type x Part of Speech\n−0.443\n0.318\n1.943\n0.163\n\n\nParagraph Type x Tau/Aβ42 ratio\n−0.145\n0.297\n0.239\n0.625\n\n\nPart of Speech x Tau/Aβ42 ratio\n0.176\n0.303\n0.337\n0.562\n\n\nParagraph Type x Part of Speech x Tau/Aβ42 ratio\n0.237\n0.517\n0.21\n0.647\n\n\nDominant Function Words\nIntercept\n−1.845\n0.294\n39.257\n< .001\n\n\n\nTau/Aβ42 ratio\n\n\n0.673\n\n\n0.241\n\n\n7.82\n\n\n0.005\n\n\n\nReading Times\n−0.181\n0.129\n1.974\n0.160\n\n\nInterval between Biomarker & Autocorrect Task\n−0.12\n0.094\n1.621\n0.203\n\n\nAge\n0.189\n0.099\n3.666\n0.056\n\n\n\nSex = Male\n\n\n−0.382\n\n\n0.195\n\n\n3.826\n\n\n0.050\n\n\n\n\nEducation\n\n\n−0.275\n\n\n0.103\n\n\n7.169\n\n\n0.007\n\n\n\nAPOE-4 status = Absent\n−0.147\n0.205\n0.509\n0.476\n\n\n\nEdit Distance\n\n\n−1.407\n\n\n0.232\n\n\n36.733\n\n\n< .001\n\n\n\nWord Length\n0.524\n0.166\n9.937\n\n0.002\n\na\n\n\n\n\nDominant Content words\nIntercept\n−2.579\n0.323\n63.929\n< .001\n\n\nTau/Aβ42 ratio\n0.724\n0.442\n2.684\n0.101\n\n\nReading Times\n0.018\n0.154\n0.014\n0.905\n\n\nInterval between Biomarker & Autocorrect Task\n0.016\n0.139\n0.013\n0.911\n\n\nAge\n−0.002\n0.148\n0\n0.987\n\n\nSex = Male\n−0.313\n0.276\n1.29\n0.256\n\n\nEducation\n0.135\n0.146\n0.856\n0.355\n\n\nAPOE-4 status = Absent\n−0.275\n0.295\n0.874\n0.350\n\n\n\nEdit Distance\n\n\n−0.814\n\n\n0.231\n\n\n12.411\n\n\n< .001\n\n\n\nWord Length\n0.007\n0.171\n0.002\n0.968\n\n\nNondominant Function Words\nIntercept\n−2.214\n0.406\n29.749\n< .001\n\n\nTau/Aβ42 ratio\n0.52\n0.352\n2.187\n0.139\n\n\nReading Times\n0.369\n0.167\n4.891\n0.027\n\n\nInterval between Biomarker & Autocorrect Task\n−0.179\n0.124\n2.082\n0.149\n\n\nAge\n0.215\n0.136\n2.485\n0.115\n\n\nSex = Male\n−0.201\n0.262\n0.59\n0.443\n\n\nEducation\n0.096\n0.14\n0.474\n0.491\n\n\nAPOE-4 status = Absent\n−0.514\n0.276\n3.47\n0.062\n\n\n\nEdit Distance\n\n\n−1.021\n\n\n0.228\n\n\n20.092\n\n\n< .001\n\n\n\nWord Length\n0.16\n0.284\n0.318\n0.573\n\n\nNondominant Content Words\nIntercept\n−3.376\n0.351\n92.736\n< .001\n\n\nTau/Aβ42 ratio\n0.803\n0.505\n2.527\n0.112\n\n\nReading Times\n0.414\n0.215\n3.697\n0.055\n\n\nInterval between Biomarker & Autocorrect Task\n−0.298\n0.194\n2.364\n0.124\n\n\nAge\n0.173\n0.202\n0.726\n0.394\n\n\nSex = Male\n−0.185\n0.411\n0.203\n0.652\n\n\nEducation\n−0.031\n0.21\n0.021\n0.884\n\n\nAPOE-4 status = Absent\n−0.564\n0.427\n1.742\n0.187\n\n\n\nEdit Distance\n\n\n−1.122\n\n\n0.287\n\n\n15.308\n\n\n< .001\n\n\n\nWord Length\n0.132\n0.206\n0.415\n0.520\n\n\n\nOpen in a new tab\n\naThis effect was in the opposite direction as the overall length effect (shown in Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Error bars refer to 95% confidence intervals around the best fitting regression line.Figure 1c.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Similarly, the main effects of gender and word length were also significant only on dominant function words (ps < .05; though the latter effect was in the opposite direction as shown in Figure 1c and appeared to be driven by two relatively long and highly error prone autocorrect/expected target pars i.e., though/through and always/around), but not on all other types of words (ps > .25).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The results of our main analysis using a generalized mixed effects logistic regression are shown in Figure 1a with model results in Table 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Paragraphs with autocorrect targets on dominant function words appeared to be especially error prone in individuals with positive Tau/Aβ42 ratios (see Figure 1), but none of the interactions were significant (ps > .16).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fixed effects from the generalized mixed-effects logistic regression model predicting autocorrect errors\n\n\n\n\n\n\n\n\n\n\nWord Type\nTerm\nBeta\nStd error\n χ2\n\n\np value\n\n\n\n\nAll target words collapsed\nIntercept\n−2.477\n0.158\n245.292\n<0.001\n\n\n\nParagraph Type\n\n\n0.587\n\n\n0.17\n\n\n11.902\n\n\n<0.001\n\n\n\n\nPart of Speech\n\n\n1.039\n\n\n0.19\n\n\n30.012\n\n\n<0.001\n\n\n\n\nTau/Aβ42 ratio\n\n\n0.601\n\n\n0.243\n\n\n6.12\n\n\n0.013\n\n\n\nReading Times\n−0.074\n0.092\n0.637\n0.425\n\n\nInterval between Biomarker & Autocorrect Task\n−0.068\n0.085\n0.642\n0.423\n\n\nAge\n0.129\n0.088\n2.128\n0.145\n\n\n\nSex = Male\n\n\n−0.364\n\n\n0.173\n\n\n4.438\n\n\n0.035\n\n\n\nEducation\n−0.168\n0.095\n3.12\n0.077\n\n\nAPOE-4 status = Absent\n−0.195\n0.184\n1.127\n0.288\n\n\n\nEdit Distance\n\n\n−1.047\n\n\n0.107\n\n\n95.072\n\n\n<0.001\n\n\n\n\nWord Length\n\n\n0.205\n\n\n0.086\n\n\n5.731\n\n\n0.017\n\n\n\nParagraph Type x Part of Speech\n−0.443\n0.318\n1.943\n0.163\n\n\nParagraph Type x Tau/Aβ42 ratio\n−0.145\n0.297\n0.239\n0.625\n\n\nPart of Speech x Tau/Aβ42 ratio\n0.176\n0.303\n0.337\n0.562\n\n\nParagraph Type x Part of Speech x Tau/Aβ42 ratio\n0.237\n0.517\n0.21\n0.647\n\n\nDominant Function Words\nIntercept\n−1.845\n0.294\n39.257\n< .001\n\n\n\nTau/Aβ42 ratio\n\n\n0.673\n\n\n0.241\n\n\n7.82\n\n\n0.005\n\n\n\nReading Times\n−0.181\n0.129\n1.974\n0.160\n\n\nInterval between Biomarker & Autocorrect Task\n−0.12\n0.094\n1.621\n0.203\n\n\nAge\n0.189\n0.099\n3.666\n0.056\n\n\n\nSex = Male\n\n\n−0.382\n\n\n0.195\n\n\n3.826\n\n\n0.050\n\n\n\n\nEducation\n\n\n−0.275\n\n\n0.103\n\n\n7.169\n\n\n0.007\n\n\n\nAPOE-4 status = Absent\n−0.147\n0.205\n0.509\n0.476\n\n\n\nEdit Distance\n\n\n−1.407\n\n\n0.232\n\n\n36.733\n\n\n< .001\n\n\n\nWord Length\n0.524\n0.166\n9.937\n\n0.002\n\na\n\n\n\n\nDominant Content words\nIntercept\n−2.579\n0.323\n63.929\n< .001\n\n\nTau/Aβ42 ratio\n0.724\n0.442\n2.684\n0.101\n\n\nReading Times\n0.018\n0.154\n0.014\n0.905\n\n\nInterval between Biomarker & Autocorrect Task\n0.016\n0.139\n0.013\n0.911\n\n\nAge\n−0.002\n0.148\n0\n0.987\n\n\nSex = Male\n−0.313\n0.276\n1.29\n0.256\n\n\nEducation\n0.135\n0.146\n0.856\n0.355\n\n\nAPOE-4 status = Absent\n−0.275\n0.295\n0.874\n0.350\n\n\n\nEdit Distance\n\n\n−0.814\n\n\n0.231\n\n\n12.411\n\n\n< .001\n\n\n\nWord Length\n0.007\n0.171\n0.002\n0.968\n\n\nNondominant Function Words\nIntercept\n−2.214\n0.406\n29.749\n< .001\n\n\nTau/Aβ42 ratio\n0.52\n0.352\n2.187\n0.139\n\n\nReading Times\n0.369\n0.167\n4.891\n0.027\n\n\nInterval between Biomarker & Autocorrect Task\n−0.179\n0.124\n2.082\n0.149\n\n\nAge\n0.215\n0.136\n2.485\n0.115\n\n\nSex = Male\n−0.201\n0.262\n0.59\n0.443\n\n\nEducation\n0.096\n0.14\n0.474\n0.491\n\n\nAPOE-4 status = Absent\n−0.514\n0.276\n3.47\n0.062\n\n\n\nEdit Distance\n\n\n−1.021\n\n\n0.228\n\n\n20.092\n\n\n< .001\n\n\n\nWord Length\n0.16\n0.284\n0.318\n0.573\n\n\nNondominant Content Words\nIntercept\n−3.376\n0.351\n92.736\n< .001\n\n\nTau/Aβ42 ratio\n0.803\n0.505\n2.527\n0.112\n\n\nReading Times\n0.414\n0.215\n3.697\n0.055\n\n\nInterval between Biomarker & Autocorrect Task\n−0.298\n0.194\n2.364\n0.124\n\n\nAge\n0.173\n0.202\n0.726\n0.394\n\n\nSex = Male\n−0.185\n0.411\n0.203\n0.652\n\n\nEducation\n−0.031\n0.21\n0.021\n0.884\n\n\nAPOE-4 status = Absent\n−0.564\n0.427\n1.742\n0.187\n\n\n\nEdit Distance\n\n\n−1.122\n\n\n0.287\n\n\n15.308\n\n\n< .001\n\n\n\nWord Length\n0.132\n0.206\n0.415\n0.520\n\n\n\nOpen in a new tab\n\naThis effect was in the opposite direction as the overall length effect (shown in Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "aThis effect was in the opposite direction as the overall length effect (shown in Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "aThis effect was in the opposite direction as the overall length effect (shown in Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "This effect was in the opposite direction as the overall length effect (shown in Figure 1c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Similarly, the main effects of gender and word length were also significant only on dominant function words (ps < .05; though the latter effect was in the opposite direction as shown in Figure 1c and appeared to be driven by two relatively long and highly error prone autocorrect/expected target pars i.e., though/through and always/around), but not on all other types of words (ps > .25).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel c",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Diagnostic utility of autocorrect errors\nFigure 2 shows ROC curves and areas under the curve (AUC) for autocorrect errors on function (A) or content (B) word targets, and for comparison on standard neuropsychological tests (C) of memory (CVLT learning), executive functions (CWIT inhibition), and a neuropsychological composite score (i.e., mean z-score of all tests listed in Table 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The AUC was significant for autocorrect errors on function word targets in dominant paragraphs (AUC = .76; SE = .07; p = .003), but not for any of the other error types or for neuropsychological measures (ps > .05; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows ROC curves and areas under the curve (AUC) for autocorrect errors on function (A) or content (B) word targets, and for comparison on standard neuropsychological tests (C) of memory (CVLT learning), executive functions (CWIT inhibition), and a neuropsychological composite score (i.e., mean z-score of all tests listed in Table 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The AUC was significant for autocorrect errors on function word targets in dominant paragraphs (AUC = .76; SE = .07; p = .003), but not for any of the other error types or for neuropsychological measures (ps > .05; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Importantly, autocorrect errors appeared to be as sensitive as other neuropsychological test scores for identifying biomarker positive individuals (e.g., see Table 1; Figure 2), suggesting that the autocorrect task may be a useful addition to a cognitive assessment test battery.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "While AD risk was associated with increased likelihood of autocorrection errors, it is unlikely that this is a consequence of diminished semantic processing since function word targets elicited more autocorrect errors than content word targets (see Figure 1), and function words better discriminated biomarker positive from negative individuals than content words (see Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Importantly, autocorrect errors appeared to be as sensitive as other neuropsychological test scores for identifying biomarker positive individuals (e.g., see Table 1; Figure 2), suggesting that the autocorrect task may be a useful addition to a cognitive assessment test battery.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "While AD risk was associated with increased likelihood of autocorrection errors, it is unlikely that this is a consequence of diminished semantic processing since function word targets elicited more autocorrect errors than content word targets (see Figure 1), and function words better discriminated biomarker positive from negative individuals than content words (see Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "While AD risk was associated with increased likelihood of autocorrection errors, it is unlikely that this is a consequence of diminished semantic processing since function word targets elicited more autocorrect errors than content word targets (see Figure 1), and function words better discriminated biomarker positive from negative individuals than content words (see Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 1,
+    "claims_count": 100,
+    "images_downloaded": 1,
+    "tables_filtered": 414
+  }
+}

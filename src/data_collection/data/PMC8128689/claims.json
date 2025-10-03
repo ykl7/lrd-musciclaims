@@ -1,0 +1,2247 @@
+[
+  {
+    "sentence": "Consistent with NHD terminology (Johnston et al. 2009), we use the term catchment to refer to the drainage basin that drains a stream reach, excluding upstream inputs, and watershed to refer to the target catchment and all upstream catchments (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "There are many more catchments than confluences because catchments are defined by hydrographic feature type (Johnston et al. 2009) such that there would be two catchments for a stream if it changed, for example, from intermittent to perennial or perennial to canal (see Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The NHDPlus V2 attribute linking the stream reach (i.e., stream reach ID) and the catchment (i.e., catchment ID) is COMID (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Our confluence dataset includes 383 landscape attributes that were primarily from StreamCat (Hill et al. 2016) organized into 15 different data tables representing 8 different themes: map, hydrology, land cover, land cover change, physical, geology, stressors, and ecology (Figure 1; Table S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Cluster\n# Obs\nICIm\nIWIm\nICWIm\nICWIt\nICId\nIWId\nLabel\n\n\n\n1\n38,355\n0.486\n0.317\n\n0.176\n\n0.000\n\n0.141\n\n−0.015\nContrast\n\n\n2\n27,081\n0.813\n0.380\n\n0.397\n\n0.000\n\n0.390\n\n−0.005\nContrast\n\n\n3\n24,923\n0.352\n0.568\n−0.207\n\n0.000\n−0.013\n\n0.205\n\nContrast\n\n\n4\n256,318\n0.851\n0.856\n0.000\n0.000\n0.000\n0.000\nGood\n\n\n5\n35,417\n0.401\n0.402\n0.000\n0.000\n−0.228\n\n−0.221\n\nContrast\n\n\n6\n52,689\n0.544\n0.536\n0.000\n0.000\n−0.007\n−0.009\nModerate\n\n\n7\n99,352\n0.332\n0.333\n0.000\n0.000\n0.019\n0.015\nPoor\n\n\n8\n26,280\n0.781\n0.446\n\n0.340\n\n0.000\n0.015\n−0.290\n\nContrast\n\n\n9\n29,037\n0.407\n0.684\n−0.265\n\n0.000\n−0.311\n\n−0.013\nContrast\n\n\n10\n24,911\n0.848\n0.456\n\n0.364\n\n\n0.370\n\n0.000\n0.000\nContrast\n\n\n11\n61,005\n0.832\n0.709\n\n0.131\n\n0.000\n0.045\n−0.071\nContrast\n\n\n12\n41,710\n0.695\n0.676\n0.000\n0.000\n\n0.200\n\n\n0.160\n\nContrast\n\n\n13\n119,369\n0.196\n0.192\n0.000\n0.000\n−0.009\n−0.001\nPoor\n\n\n14\n17,708\n0.382\n0.336\n0.033\n\n0.444\n\n−0.402\n\n0.006\nContrast\n\n\n15\n13,270\n0.389\n0.671\n−0.263\n\n−0.325\n\n0.047\n0.000\nContrast\n\n\n16\n74,044\n0.698\n0.743\n−0.030\n0.000\n−0.082\n−0.034\nGood\n\n\n\nOpen in a new tab\n\nThe column, Label, provides a simple, nominal classification to aid interpretation of Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The main geographic pattern was an east‐west contrast in the preponderance of confluences in good ecological condition and concentration of the confluences in the poorest condition in the agriculturally dominated midwest and Mississippi River valley (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In general, watersheds in the western U.S. had relatively uniform distributions of confluences in good condition and therefore relatively few confluences with contrasting conditions (Figure 2a, 2d), whereas watersheds east of the Colorado Front Range had more heterogeneous confluence conditions and were in poorer condition overall.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The HUC 8 highlighted in red in panel a is depicted in Figure 3.The inherent nestedness of the dataset can be used to examine the spatial pattern of confluence conditions across a range of spatial scales, from the spatial pattern for HUC 8 units across the country (Figure 2) to HUC 12 units nested in HUC 8 units (Figure 3b) to individual confluences within HUC 12 units (Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "There was often considerable spatial variability in confluences conditions within the HUC 12 units that comprise a HUC 8 (e.g., Figures 2a vs. 3b) and there was often considerable spatial variability in confluence conditions within the HUC 12 units themselves (e.g., Figure 3a vs. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The scale of individual confluences is often the scale at which restoration occurs because of cost factors (Wickham, Riitters, et al. 2017) and an interesting example of how the data could be used to support local ecological restoration efforts is represented by the confluence encircled in black in Figure 3a.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The HUC 8 in (b) is highlighted in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The Google Earth™ image date is February 2, 2019.Across the conterminous U.S., about 20% (n = 196,818) of the confluences were hydraulically significant, and their distribution across the clusters was uneven (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Consistent with NHD terminology (Johnston et al. 2009), we use the term catchment to refer to the drainage basin that drains a stream reach, excluding upstream inputs, and watershed to refer to the target catchment and all upstream catchments (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "There are many more catchments than confluences because catchments are defined by hydrographic feature type (Johnston et al. 2009) such that there would be two catchments for a stream if it changed, for example, from intermittent to perennial or perennial to canal (see Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The NHDPlus V2 attribute linking the stream reach (i.e., stream reach ID) and the catchment (i.e., catchment ID) is COMID (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Our confluence dataset includes 383 landscape attributes that were primarily from StreamCat (Hill et al. 2016) organized into 15 different data tables representing 8 different themes: map, hydrology, land cover, land cover change, physical, geology, stressors, and ecology (Figure 1; Table S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Cluster\n# Obs\nICIm\nIWIm\nICWIm\nICWIt\nICId\nIWId\nLabel\n\n\n\n1\n38,355\n0.486\n0.317\n\n0.176\n\n0.000\n\n0.141\n\n−0.015\nContrast\n\n\n2\n27,081\n0.813\n0.380\n\n0.397\n\n0.000\n\n0.390\n\n−0.005\nContrast\n\n\n3\n24,923\n0.352\n0.568\n−0.207\n\n0.000\n−0.013\n\n0.205\n\nContrast\n\n\n4\n256,318\n0.851\n0.856\n0.000\n0.000\n0.000\n0.000\nGood\n\n\n5\n35,417\n0.401\n0.402\n0.000\n0.000\n−0.228\n\n−0.221\n\nContrast\n\n\n6\n52,689\n0.544\n0.536\n0.000\n0.000\n−0.007\n−0.009\nModerate\n\n\n7\n99,352\n0.332\n0.333\n0.000\n0.000\n0.019\n0.015\nPoor\n\n\n8\n26,280\n0.781\n0.446\n\n0.340\n\n0.000\n0.015\n−0.290\n\nContrast\n\n\n9\n29,037\n0.407\n0.684\n−0.265\n\n0.000\n−0.311\n\n−0.013\nContrast\n\n\n10\n24,911\n0.848\n0.456\n\n0.364\n\n\n0.370\n\n0.000\n0.000\nContrast\n\n\n11\n61,005\n0.832\n0.709\n\n0.131\n\n0.000\n0.045\n−0.071\nContrast\n\n\n12\n41,710\n0.695\n0.676\n0.000\n0.000\n\n0.200\n\n\n0.160\n\nContrast\n\n\n13\n119,369\n0.196\n0.192\n0.000\n0.000\n−0.009\n−0.001\nPoor\n\n\n14\n17,708\n0.382\n0.336\n0.033\n\n0.444\n\n−0.402\n\n0.006\nContrast\n\n\n15\n13,270\n0.389\n0.671\n−0.263\n\n−0.325\n\n0.047\n0.000\nContrast\n\n\n16\n74,044\n0.698\n0.743\n−0.030\n0.000\n−0.082\n−0.034\nGood\n\n\n\nOpen in a new tab\n\nThe column, Label, provides a simple, nominal classification to aid interpretation of Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The main geographic pattern was an east‐west contrast in the preponderance of confluences in good ecological condition and concentration of the confluences in the poorest condition in the agriculturally dominated midwest and Mississippi River valley (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In general, watersheds in the western U.S. had relatively uniform distributions of confluences in good condition and therefore relatively few confluences with contrasting conditions (Figure 2a, 2d), whereas watersheds east of the Colorado Front Range had more heterogeneous confluence conditions and were in poorer condition overall.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The HUC 8 highlighted in red in panel a is depicted in Figure 3.The inherent nestedness of the dataset can be used to examine the spatial pattern of confluence conditions across a range of spatial scales, from the spatial pattern for HUC 8 units across the country (Figure 2) to HUC 12 units nested in HUC 8 units (Figure 3b) to individual confluences within HUC 12 units (Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "There was often considerable spatial variability in confluences conditions within the HUC 12 units that comprise a HUC 8 (e.g., Figures 2a vs. 3b) and there was often considerable spatial variability in confluence conditions within the HUC 12 units themselves (e.g., Figure 3a vs. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The scale of individual confluences is often the scale at which restoration occurs because of cost factors (Wickham, Riitters, et al. 2017) and an interesting example of how the data could be used to support local ecological restoration efforts is represented by the confluence encircled in black in Figure 3a.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The HUC 8 in (b) is highlighted in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The Google Earth™ image date is February 2, 2019.Across the conterminous U.S., about 20% (n = 196,818) of the confluences were hydraulically significant, and their distribution across the clusters was uneven (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Consistent with NHD terminology (Johnston et al. 2009), we use the term catchment to refer to the drainage basin that drains a stream reach, excluding upstream inputs, and watershed to refer to the target catchment and all upstream catchments (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "There are many more catchments than confluences because catchments are defined by hydrographic feature type (Johnston et al. 2009) such that there would be two catchments for a stream if it changed, for example, from intermittent to perennial or perennial to canal (see Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The NHDPlus V2 attribute linking the stream reach (i.e., stream reach ID) and the catchment (i.e., catchment ID) is COMID (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Our confluence dataset includes 383 landscape attributes that were primarily from StreamCat (Hill et al. 2016) organized into 15 different data tables representing 8 different themes: map, hydrology, land cover, land cover change, physical, geology, stressors, and ecology (Figure 1; Table S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Cluster\n# Obs\nICIm\nIWIm\nICWIm\nICWIt\nICId\nIWId\nLabel\n\n\n\n1\n38,355\n0.486\n0.317\n\n0.176\n\n0.000\n\n0.141\n\n−0.015\nContrast\n\n\n2\n27,081\n0.813\n0.380\n\n0.397\n\n0.000\n\n0.390\n\n−0.005\nContrast\n\n\n3\n24,923\n0.352\n0.568\n−0.207\n\n0.000\n−0.013\n\n0.205\n\nContrast\n\n\n4\n256,318\n0.851\n0.856\n0.000\n0.000\n0.000\n0.000\nGood\n\n\n5\n35,417\n0.401\n0.402\n0.000\n0.000\n−0.228\n\n−0.221\n\nContrast\n\n\n6\n52,689\n0.544\n0.536\n0.000\n0.000\n−0.007\n−0.009\nModerate\n\n\n7\n99,352\n0.332\n0.333\n0.000\n0.000\n0.019\n0.015\nPoor\n\n\n8\n26,280\n0.781\n0.446\n\n0.340\n\n0.000\n0.015\n−0.290\n\nContrast\n\n\n9\n29,037\n0.407\n0.684\n−0.265\n\n0.000\n−0.311\n\n−0.013\nContrast\n\n\n10\n24,911\n0.848\n0.456\n\n0.364\n\n\n0.370\n\n0.000\n0.000\nContrast\n\n\n11\n61,005\n0.832\n0.709\n\n0.131\n\n0.000\n0.045\n−0.071\nContrast\n\n\n12\n41,710\n0.695\n0.676\n0.000\n0.000\n\n0.200\n\n\n0.160\n\nContrast\n\n\n13\n119,369\n0.196\n0.192\n0.000\n0.000\n−0.009\n−0.001\nPoor\n\n\n14\n17,708\n0.382\n0.336\n0.033\n\n0.444\n\n−0.402\n\n0.006\nContrast\n\n\n15\n13,270\n0.389\n0.671\n−0.263\n\n−0.325\n\n0.047\n0.000\nContrast\n\n\n16\n74,044\n0.698\n0.743\n−0.030\n0.000\n−0.082\n−0.034\nGood\n\n\n\nOpen in a new tab\n\nThe column, Label, provides a simple, nominal classification to aid interpretation of Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The main geographic pattern was an east‐west contrast in the preponderance of confluences in good ecological condition and concentration of the confluences in the poorest condition in the agriculturally dominated midwest and Mississippi River valley (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In general, watersheds in the western U.S. had relatively uniform distributions of confluences in good condition and therefore relatively few confluences with contrasting conditions (Figure 2a, 2d), whereas watersheds east of the Colorado Front Range had more heterogeneous confluence conditions and were in poorer condition overall.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The HUC 8 highlighted in red in panel a is depicted in Figure 3.The inherent nestedness of the dataset can be used to examine the spatial pattern of confluence conditions across a range of spatial scales, from the spatial pattern for HUC 8 units across the country (Figure 2) to HUC 12 units nested in HUC 8 units (Figure 3b) to individual confluences within HUC 12 units (Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "There was often considerable spatial variability in confluences conditions within the HUC 12 units that comprise a HUC 8 (e.g., Figures 2a vs. 3b) and there was often considerable spatial variability in confluence conditions within the HUC 12 units themselves (e.g., Figure 3a vs. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The scale of individual confluences is often the scale at which restoration occurs because of cost factors (Wickham, Riitters, et al. 2017) and an interesting example of how the data could be used to support local ecological restoration efforts is represented by the confluence encircled in black in Figure 3a.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The HUC 8 in (b) is highlighted in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The Google Earth™ image date is February 2, 2019.Across the conterminous U.S., about 20% (n = 196,818) of the confluences were hydraulically significant, and their distribution across the clusters was uneven (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Consistent with NHD terminology (Johnston et al. 2009), we use the term catchment to refer to the drainage basin that drains a stream reach, excluding upstream inputs, and watershed to refer to the target catchment and all upstream catchments (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "There are many more catchments than confluences because catchments are defined by hydrographic feature type (Johnston et al. 2009) such that there would be two catchments for a stream if it changed, for example, from intermittent to perennial or perennial to canal (see Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The NHDPlus V2 attribute linking the stream reach (i.e., stream reach ID) and the catchment (i.e., catchment ID) is COMID (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Our confluence dataset includes 383 landscape attributes that were primarily from StreamCat (Hill et al. 2016) organized into 15 different data tables representing 8 different themes: map, hydrology, land cover, land cover change, physical, geology, stressors, and ecology (Figure 1; Table S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Cluster\n# Obs\nICIm\nIWIm\nICWIm\nICWIt\nICId\nIWId\nLabel\n\n\n\n1\n38,355\n0.486\n0.317\n\n0.176\n\n0.000\n\n0.141\n\n−0.015\nContrast\n\n\n2\n27,081\n0.813\n0.380\n\n0.397\n\n0.000\n\n0.390\n\n−0.005\nContrast\n\n\n3\n24,923\n0.352\n0.568\n−0.207\n\n0.000\n−0.013\n\n0.205\n\nContrast\n\n\n4\n256,318\n0.851\n0.856\n0.000\n0.000\n0.000\n0.000\nGood\n\n\n5\n35,417\n0.401\n0.402\n0.000\n0.000\n−0.228\n\n−0.221\n\nContrast\n\n\n6\n52,689\n0.544\n0.536\n0.000\n0.000\n−0.007\n−0.009\nModerate\n\n\n7\n99,352\n0.332\n0.333\n0.000\n0.000\n0.019\n0.015\nPoor\n\n\n8\n26,280\n0.781\n0.446\n\n0.340\n\n0.000\n0.015\n−0.290\n\nContrast\n\n\n9\n29,037\n0.407\n0.684\n−0.265\n\n0.000\n−0.311\n\n−0.013\nContrast\n\n\n10\n24,911\n0.848\n0.456\n\n0.364\n\n\n0.370\n\n0.000\n0.000\nContrast\n\n\n11\n61,005\n0.832\n0.709\n\n0.131\n\n0.000\n0.045\n−0.071\nContrast\n\n\n12\n41,710\n0.695\n0.676\n0.000\n0.000\n\n0.200\n\n\n0.160\n\nContrast\n\n\n13\n119,369\n0.196\n0.192\n0.000\n0.000\n−0.009\n−0.001\nPoor\n\n\n14\n17,708\n0.382\n0.336\n0.033\n\n0.444\n\n−0.402\n\n0.006\nContrast\n\n\n15\n13,270\n0.389\n0.671\n−0.263\n\n−0.325\n\n0.047\n0.000\nContrast\n\n\n16\n74,044\n0.698\n0.743\n−0.030\n0.000\n−0.082\n−0.034\nGood\n\n\n\nOpen in a new tab\n\nThe column, Label, provides a simple, nominal classification to aid interpretation of Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The main geographic pattern was an east‐west contrast in the preponderance of confluences in good ecological condition and concentration of the confluences in the poorest condition in the agriculturally dominated midwest and Mississippi River valley (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In general, watersheds in the western U.S. had relatively uniform distributions of confluences in good condition and therefore relatively few confluences with contrasting conditions (Figure 2a, 2d), whereas watersheds east of the Colorado Front Range had more heterogeneous confluence conditions and were in poorer condition overall.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The HUC 8 highlighted in red in panel a is depicted in Figure 3.The inherent nestedness of the dataset can be used to examine the spatial pattern of confluence conditions across a range of spatial scales, from the spatial pattern for HUC 8 units across the country (Figure 2) to HUC 12 units nested in HUC 8 units (Figure 3b) to individual confluences within HUC 12 units (Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "There was often considerable spatial variability in confluences conditions within the HUC 12 units that comprise a HUC 8 (e.g., Figures 2a vs. 3b) and there was often considerable spatial variability in confluence conditions within the HUC 12 units themselves (e.g., Figure 3a vs. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The scale of individual confluences is often the scale at which restoration occurs because of cost factors (Wickham, Riitters, et al. 2017) and an interesting example of how the data could be used to support local ecological restoration efforts is represented by the confluence encircled in black in Figure 3a.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The HUC 8 in (b) is highlighted in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The Google Earth™ image date is February 2, 2019.Across the conterminous U.S., about 20% (n = 196,818) of the confluences were hydraulically significant, and their distribution across the clusters was uneven (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Consistent with NHD terminology (Johnston et al. 2009), we use the term catchment to refer to the drainage basin that drains a stream reach, excluding upstream inputs, and watershed to refer to the target catchment and all upstream catchments (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "There are many more catchments than confluences because catchments are defined by hydrographic feature type (Johnston et al. 2009) such that there would be two catchments for a stream if it changed, for example, from intermittent to perennial or perennial to canal (see Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The NHDPlus V2 attribute linking the stream reach (i.e., stream reach ID) and the catchment (i.e., catchment ID) is COMID (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Our confluence dataset includes 383 landscape attributes that were primarily from StreamCat (Hill et al. 2016) organized into 15 different data tables representing 8 different themes: map, hydrology, land cover, land cover change, physical, geology, stressors, and ecology (Figure 1; Table S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Cluster\n# Obs\nICIm\nIWIm\nICWIm\nICWIt\nICId\nIWId\nLabel\n\n\n\n1\n38,355\n0.486\n0.317\n\n0.176\n\n0.000\n\n0.141\n\n−0.015\nContrast\n\n\n2\n27,081\n0.813\n0.380\n\n0.397\n\n0.000\n\n0.390\n\n−0.005\nContrast\n\n\n3\n24,923\n0.352\n0.568\n−0.207\n\n0.000\n−0.013\n\n0.205\n\nContrast\n\n\n4\n256,318\n0.851\n0.856\n0.000\n0.000\n0.000\n0.000\nGood\n\n\n5\n35,417\n0.401\n0.402\n0.000\n0.000\n−0.228\n\n−0.221\n\nContrast\n\n\n6\n52,689\n0.544\n0.536\n0.000\n0.000\n−0.007\n−0.009\nModerate\n\n\n7\n99,352\n0.332\n0.333\n0.000\n0.000\n0.019\n0.015\nPoor\n\n\n8\n26,280\n0.781\n0.446\n\n0.340\n\n0.000\n0.015\n−0.290\n\nContrast\n\n\n9\n29,037\n0.407\n0.684\n−0.265\n\n0.000\n−0.311\n\n−0.013\nContrast\n\n\n10\n24,911\n0.848\n0.456\n\n0.364\n\n\n0.370\n\n0.000\n0.000\nContrast\n\n\n11\n61,005\n0.832\n0.709\n\n0.131\n\n0.000\n0.045\n−0.071\nContrast\n\n\n12\n41,710\n0.695\n0.676\n0.000\n0.000\n\n0.200\n\n\n0.160\n\nContrast\n\n\n13\n119,369\n0.196\n0.192\n0.000\n0.000\n−0.009\n−0.001\nPoor\n\n\n14\n17,708\n0.382\n0.336\n0.033\n\n0.444\n\n−0.402\n\n0.006\nContrast\n\n\n15\n13,270\n0.389\n0.671\n−0.263\n\n−0.325\n\n0.047\n0.000\nContrast\n\n\n16\n74,044\n0.698\n0.743\n−0.030\n0.000\n−0.082\n−0.034\nGood\n\n\n\nOpen in a new tab\n\nThe column, Label, provides a simple, nominal classification to aid interpretation of Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The main geographic pattern was an east‐west contrast in the preponderance of confluences in good ecological condition and concentration of the confluences in the poorest condition in the agriculturally dominated midwest and Mississippi River valley (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In general, watersheds in the western U.S. had relatively uniform distributions of confluences in good condition and therefore relatively few confluences with contrasting conditions (Figure 2a, 2d), whereas watersheds east of the Colorado Front Range had more heterogeneous confluence conditions and were in poorer condition overall.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The HUC 8 highlighted in red in panel a is depicted in Figure 3.The inherent nestedness of the dataset can be used to examine the spatial pattern of confluence conditions across a range of spatial scales, from the spatial pattern for HUC 8 units across the country (Figure 2) to HUC 12 units nested in HUC 8 units (Figure 3b) to individual confluences within HUC 12 units (Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "There was often considerable spatial variability in confluences conditions within the HUC 12 units that comprise a HUC 8 (e.g., Figures 2a vs. 3b) and there was often considerable spatial variability in confluence conditions within the HUC 12 units themselves (e.g., Figure 3a vs. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The scale of individual confluences is often the scale at which restoration occurs because of cost factors (Wickham, Riitters, et al. 2017) and an interesting example of how the data could be used to support local ecological restoration efforts is represented by the confluence encircled in black in Figure 3a.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The HUC 8 in (b) is highlighted in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The Google Earth™ image date is February 2, 2019.Across the conterminous U.S., about 20% (n = 196,818) of the confluences were hydraulically significant, and their distribution across the clusters was uneven (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Consistent with NHD terminology (Johnston et al. 2009), we use the term catchment to refer to the drainage basin that drains a stream reach, excluding upstream inputs, and watershed to refer to the target catchment and all upstream catchments (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "There are many more catchments than confluences because catchments are defined by hydrographic feature type (Johnston et al. 2009) such that there would be two catchments for a stream if it changed, for example, from intermittent to perennial or perennial to canal (see Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The NHDPlus V2 attribute linking the stream reach (i.e., stream reach ID) and the catchment (i.e., catchment ID) is COMID (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Our confluence dataset includes 383 landscape attributes that were primarily from StreamCat (Hill et al. 2016) organized into 15 different data tables representing 8 different themes: map, hydrology, land cover, land cover change, physical, geology, stressors, and ecology (Figure 1; Table S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Cluster\n# Obs\nICIm\nIWIm\nICWIm\nICWIt\nICId\nIWId\nLabel\n\n\n\n1\n38,355\n0.486\n0.317\n\n0.176\n\n0.000\n\n0.141\n\n−0.015\nContrast\n\n\n2\n27,081\n0.813\n0.380\n\n0.397\n\n0.000\n\n0.390\n\n−0.005\nContrast\n\n\n3\n24,923\n0.352\n0.568\n−0.207\n\n0.000\n−0.013\n\n0.205\n\nContrast\n\n\n4\n256,318\n0.851\n0.856\n0.000\n0.000\n0.000\n0.000\nGood\n\n\n5\n35,417\n0.401\n0.402\n0.000\n0.000\n−0.228\n\n−0.221\n\nContrast\n\n\n6\n52,689\n0.544\n0.536\n0.000\n0.000\n−0.007\n−0.009\nModerate\n\n\n7\n99,352\n0.332\n0.333\n0.000\n0.000\n0.019\n0.015\nPoor\n\n\n8\n26,280\n0.781\n0.446\n\n0.340\n\n0.000\n0.015\n−0.290\n\nContrast\n\n\n9\n29,037\n0.407\n0.684\n−0.265\n\n0.000\n−0.311\n\n−0.013\nContrast\n\n\n10\n24,911\n0.848\n0.456\n\n0.364\n\n\n0.370\n\n0.000\n0.000\nContrast\n\n\n11\n61,005\n0.832\n0.709\n\n0.131\n\n0.000\n0.045\n−0.071\nContrast\n\n\n12\n41,710\n0.695\n0.676\n0.000\n0.000\n\n0.200\n\n\n0.160\n\nContrast\n\n\n13\n119,369\n0.196\n0.192\n0.000\n0.000\n−0.009\n−0.001\nPoor\n\n\n14\n17,708\n0.382\n0.336\n0.033\n\n0.444\n\n−0.402\n\n0.006\nContrast\n\n\n15\n13,270\n0.389\n0.671\n−0.263\n\n−0.325\n\n0.047\n0.000\nContrast\n\n\n16\n74,044\n0.698\n0.743\n−0.030\n0.000\n−0.082\n−0.034\nGood\n\n\n\nOpen in a new tab\n\nThe column, Label, provides a simple, nominal classification to aid interpretation of Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The main geographic pattern was an east‐west contrast in the preponderance of confluences in good ecological condition and concentration of the confluences in the poorest condition in the agriculturally dominated midwest and Mississippi River valley (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In general, watersheds in the western U.S. had relatively uniform distributions of confluences in good condition and therefore relatively few confluences with contrasting conditions (Figure 2a, 2d), whereas watersheds east of the Colorado Front Range had more heterogeneous confluence conditions and were in poorer condition overall.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The HUC 8 highlighted in red in panel a is depicted in Figure 3.The inherent nestedness of the dataset can be used to examine the spatial pattern of confluence conditions across a range of spatial scales, from the spatial pattern for HUC 8 units across the country (Figure 2) to HUC 12 units nested in HUC 8 units (Figure 3b) to individual confluences within HUC 12 units (Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "There was often considerable spatial variability in confluences conditions within the HUC 12 units that comprise a HUC 8 (e.g., Figures 2a vs. 3b) and there was often considerable spatial variability in confluence conditions within the HUC 12 units themselves (e.g., Figure 3a vs. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The scale of individual confluences is often the scale at which restoration occurs because of cost factors (Wickham, Riitters, et al. 2017) and an interesting example of how the data could be used to support local ecological restoration efforts is represented by the confluence encircled in black in Figure 3a.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The HUC 8 in (b) is highlighted in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The Google Earth™ image date is February 2, 2019.Across the conterminous U.S., about 20% (n = 196,818) of the confluences were hydraulically significant, and their distribution across the clusters was uneven (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Consistent with NHD terminology (Johnston et al. 2009), we use the term catchment to refer to the drainage basin that drains a stream reach, excluding upstream inputs, and watershed to refer to the target catchment and all upstream catchments (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "There are many more catchments than confluences because catchments are defined by hydrographic feature type (Johnston et al. 2009) such that there would be two catchments for a stream if it changed, for example, from intermittent to perennial or perennial to canal (see Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The NHDPlus V2 attribute linking the stream reach (i.e., stream reach ID) and the catchment (i.e., catchment ID) is COMID (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Our confluence dataset includes 383 landscape attributes that were primarily from StreamCat (Hill et al. 2016) organized into 15 different data tables representing 8 different themes: map, hydrology, land cover, land cover change, physical, geology, stressors, and ecology (Figure 1; Table S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Cluster\n# Obs\nICIm\nIWIm\nICWIm\nICWIt\nICId\nIWId\nLabel\n\n\n\n1\n38,355\n0.486\n0.317\n\n0.176\n\n0.000\n\n0.141\n\n−0.015\nContrast\n\n\n2\n27,081\n0.813\n0.380\n\n0.397\n\n0.000\n\n0.390\n\n−0.005\nContrast\n\n\n3\n24,923\n0.352\n0.568\n−0.207\n\n0.000\n−0.013\n\n0.205\n\nContrast\n\n\n4\n256,318\n0.851\n0.856\n0.000\n0.000\n0.000\n0.000\nGood\n\n\n5\n35,417\n0.401\n0.402\n0.000\n0.000\n−0.228\n\n−0.221\n\nContrast\n\n\n6\n52,689\n0.544\n0.536\n0.000\n0.000\n−0.007\n−0.009\nModerate\n\n\n7\n99,352\n0.332\n0.333\n0.000\n0.000\n0.019\n0.015\nPoor\n\n\n8\n26,280\n0.781\n0.446\n\n0.340\n\n0.000\n0.015\n−0.290\n\nContrast\n\n\n9\n29,037\n0.407\n0.684\n−0.265\n\n0.000\n−0.311\n\n−0.013\nContrast\n\n\n10\n24,911\n0.848\n0.456\n\n0.364\n\n\n0.370\n\n0.000\n0.000\nContrast\n\n\n11\n61,005\n0.832\n0.709\n\n0.131\n\n0.000\n0.045\n−0.071\nContrast\n\n\n12\n41,710\n0.695\n0.676\n0.000\n0.000\n\n0.200\n\n\n0.160\n\nContrast\n\n\n13\n119,369\n0.196\n0.192\n0.000\n0.000\n−0.009\n−0.001\nPoor\n\n\n14\n17,708\n0.382\n0.336\n0.033\n\n0.444\n\n−0.402\n\n0.006\nContrast\n\n\n15\n13,270\n0.389\n0.671\n−0.263\n\n−0.325\n\n0.047\n0.000\nContrast\n\n\n16\n74,044\n0.698\n0.743\n−0.030\n0.000\n−0.082\n−0.034\nGood\n\n\n\nOpen in a new tab\n\nThe column, Label, provides a simple, nominal classification to aid interpretation of Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The main geographic pattern was an east‐west contrast in the preponderance of confluences in good ecological condition and concentration of the confluences in the poorest condition in the agriculturally dominated midwest and Mississippi River valley (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In general, watersheds in the western U.S. had relatively uniform distributions of confluences in good condition and therefore relatively few confluences with contrasting conditions (Figure 2a, 2d), whereas watersheds east of the Colorado Front Range had more heterogeneous confluence conditions and were in poorer condition overall.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The HUC 8 highlighted in red in panel a is depicted in Figure 3.The inherent nestedness of the dataset can be used to examine the spatial pattern of confluence conditions across a range of spatial scales, from the spatial pattern for HUC 8 units across the country (Figure 2) to HUC 12 units nested in HUC 8 units (Figure 3b) to individual confluences within HUC 12 units (Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "There was often considerable spatial variability in confluences conditions within the HUC 12 units that comprise a HUC 8 (e.g., Figures 2a vs. 3b) and there was often considerable spatial variability in confluence conditions within the HUC 12 units themselves (e.g., Figure 3a vs. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The scale of individual confluences is often the scale at which restoration occurs because of cost factors (Wickham, Riitters, et al. 2017) and an interesting example of how the data could be used to support local ecological restoration efforts is represented by the confluence encircled in black in Figure 3a.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The HUC 8 in (b) is highlighted in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The Google Earth™ image date is February 2, 2019.Across the conterminous U.S., about 20% (n = 196,818) of the confluences were hydraulically significant, and their distribution across the clusters was uneven (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Consistent with NHD terminology (Johnston et al. 2009), we use the term catchment to refer to the drainage basin that drains a stream reach, excluding upstream inputs, and watershed to refer to the target catchment and all upstream catchments (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "There are many more catchments than confluences because catchments are defined by hydrographic feature type (Johnston et al. 2009) such that there would be two catchments for a stream if it changed, for example, from intermittent to perennial or perennial to canal (see Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The NHDPlus V2 attribute linking the stream reach (i.e., stream reach ID) and the catchment (i.e., catchment ID) is COMID (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Our confluence dataset includes 383 landscape attributes that were primarily from StreamCat (Hill et al. 2016) organized into 15 different data tables representing 8 different themes: map, hydrology, land cover, land cover change, physical, geology, stressors, and ecology (Figure 1; Table S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Cluster\n# Obs\nICIm\nIWIm\nICWIm\nICWIt\nICId\nIWId\nLabel\n\n\n\n1\n38,355\n0.486\n0.317\n\n0.176\n\n0.000\n\n0.141\n\n−0.015\nContrast\n\n\n2\n27,081\n0.813\n0.380\n\n0.397\n\n0.000\n\n0.390\n\n−0.005\nContrast\n\n\n3\n24,923\n0.352\n0.568\n−0.207\n\n0.000\n−0.013\n\n0.205\n\nContrast\n\n\n4\n256,318\n0.851\n0.856\n0.000\n0.000\n0.000\n0.000\nGood\n\n\n5\n35,417\n0.401\n0.402\n0.000\n0.000\n−0.228\n\n−0.221\n\nContrast\n\n\n6\n52,689\n0.544\n0.536\n0.000\n0.000\n−0.007\n−0.009\nModerate\n\n\n7\n99,352\n0.332\n0.333\n0.000\n0.000\n0.019\n0.015\nPoor\n\n\n8\n26,280\n0.781\n0.446\n\n0.340\n\n0.000\n0.015\n−0.290\n\nContrast\n\n\n9\n29,037\n0.407\n0.684\n−0.265\n\n0.000\n−0.311\n\n−0.013\nContrast\n\n\n10\n24,911\n0.848\n0.456\n\n0.364\n\n\n0.370\n\n0.000\n0.000\nContrast\n\n\n11\n61,005\n0.832\n0.709\n\n0.131\n\n0.000\n0.045\n−0.071\nContrast\n\n\n12\n41,710\n0.695\n0.676\n0.000\n0.000\n\n0.200\n\n\n0.160\n\nContrast\n\n\n13\n119,369\n0.196\n0.192\n0.000\n0.000\n−0.009\n−0.001\nPoor\n\n\n14\n17,708\n0.382\n0.336\n0.033\n\n0.444\n\n−0.402\n\n0.006\nContrast\n\n\n15\n13,270\n0.389\n0.671\n−0.263\n\n−0.325\n\n0.047\n0.000\nContrast\n\n\n16\n74,044\n0.698\n0.743\n−0.030\n0.000\n−0.082\n−0.034\nGood\n\n\n\nOpen in a new tab\n\nThe column, Label, provides a simple, nominal classification to aid interpretation of Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The main geographic pattern was an east‐west contrast in the preponderance of confluences in good ecological condition and concentration of the confluences in the poorest condition in the agriculturally dominated midwest and Mississippi River valley (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In general, watersheds in the western U.S. had relatively uniform distributions of confluences in good condition and therefore relatively few confluences with contrasting conditions (Figure 2a, 2d), whereas watersheds east of the Colorado Front Range had more heterogeneous confluence conditions and were in poorer condition overall.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The HUC 8 highlighted in red in panel a is depicted in Figure 3.The inherent nestedness of the dataset can be used to examine the spatial pattern of confluence conditions across a range of spatial scales, from the spatial pattern for HUC 8 units across the country (Figure 2) to HUC 12 units nested in HUC 8 units (Figure 3b) to individual confluences within HUC 12 units (Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "There was often considerable spatial variability in confluences conditions within the HUC 12 units that comprise a HUC 8 (e.g., Figures 2a vs. 3b) and there was often considerable spatial variability in confluence conditions within the HUC 12 units themselves (e.g., Figure 3a vs. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The scale of individual confluences is often the scale at which restoration occurs because of cost factors (Wickham, Riitters, et al. 2017) and an interesting example of how the data could be used to support local ecological restoration efforts is represented by the confluence encircled in black in Figure 3a.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The HUC 8 in (b) is highlighted in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The Google Earth™ image date is February 2, 2019.Across the conterminous U.S., about 20% (n = 196,818) of the confluences were hydraulically significant, and their distribution across the clusters was uneven (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Consistent with NHD terminology (Johnston et al. 2009), we use the term catchment to refer to the drainage basin that drains a stream reach, excluding upstream inputs, and watershed to refer to the target catchment and all upstream catchments (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "There are many more catchments than confluences because catchments are defined by hydrographic feature type (Johnston et al. 2009) such that there would be two catchments for a stream if it changed, for example, from intermittent to perennial or perennial to canal (see Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The NHDPlus V2 attribute linking the stream reach (i.e., stream reach ID) and the catchment (i.e., catchment ID) is COMID (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Our confluence dataset includes 383 landscape attributes that were primarily from StreamCat (Hill et al. 2016) organized into 15 different data tables representing 8 different themes: map, hydrology, land cover, land cover change, physical, geology, stressors, and ecology (Figure 1; Table S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Consistent with NHD terminology (Johnston et al. 2009), we use the term catchment to refer to the drainage basin that drains a stream reach, excluding upstream inputs, and watershed to refer to the target catchment and all upstream catchments (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "There are many more catchments than confluences because catchments are defined by hydrographic feature type (Johnston et al. 2009) such that there would be two catchments for a stream if it changed, for example, from intermittent to perennial or perennial to canal (see Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Consistent with NHD terminology (Johnston et al. 2009), we use the term catchment to refer to the drainage basin that drains a stream reach, excluding upstream inputs, and watershed to refer to the target catchment and all upstream catchments (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "There are many more catchments than confluences because catchments are defined by hydrographic feature type (Johnston et al. 2009) such that there would be two catchments for a stream if it changed, for example, from intermittent to perennial or perennial to canal (see Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The NHDPlus V2 attribute linking the stream reach (i.e., stream reach ID) and the catchment (i.e., catchment ID) is COMID (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Our confluence dataset includes 383 landscape attributes that were primarily from StreamCat (Hill et al. 2016) organized into 15 different data tables representing 8 different themes: map, hydrology, land cover, land cover change, physical, geology, stressors, and ecology (Figure 1; Table S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The NHDPlus V2 attribute linking the stream reach (i.e., stream reach ID) and the catchment (i.e., catchment ID) is COMID (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Our confluence dataset includes 383 landscape attributes that were primarily from StreamCat (Hill et al. 2016) organized into 15 different data tables representing 8 different themes: map, hydrology, land cover, land cover change, physical, geology, stressors, and ecology (Figure 1; Table S1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Cluster\n# Obs\nICIm\nIWIm\nICWIm\nICWIt\nICId\nIWId\nLabel\n\n\n\n1\n38,355\n0.486\n0.317\n\n0.176\n\n0.000\n\n0.141\n\n−0.015\nContrast\n\n\n2\n27,081\n0.813\n0.380\n\n0.397\n\n0.000\n\n0.390\n\n−0.005\nContrast\n\n\n3\n24,923\n0.352\n0.568\n−0.207\n\n0.000\n−0.013\n\n0.205\n\nContrast\n\n\n4\n256,318\n0.851\n0.856\n0.000\n0.000\n0.000\n0.000\nGood\n\n\n5\n35,417\n0.401\n0.402\n0.000\n0.000\n−0.228\n\n−0.221\n\nContrast\n\n\n6\n52,689\n0.544\n0.536\n0.000\n0.000\n−0.007\n−0.009\nModerate\n\n\n7\n99,352\n0.332\n0.333\n0.000\n0.000\n0.019\n0.015\nPoor\n\n\n8\n26,280\n0.781\n0.446\n\n0.340\n\n0.000\n0.015\n−0.290\n\nContrast\n\n\n9\n29,037\n0.407\n0.684\n−0.265\n\n0.000\n−0.311\n\n−0.013\nContrast\n\n\n10\n24,911\n0.848\n0.456\n\n0.364\n\n\n0.370\n\n0.000\n0.000\nContrast\n\n\n11\n61,005\n0.832\n0.709\n\n0.131\n\n0.000\n0.045\n−0.071\nContrast\n\n\n12\n41,710\n0.695\n0.676\n0.000\n0.000\n\n0.200\n\n\n0.160\n\nContrast\n\n\n13\n119,369\n0.196\n0.192\n0.000\n0.000\n−0.009\n−0.001\nPoor\n\n\n14\n17,708\n0.382\n0.336\n0.033\n\n0.444\n\n−0.402\n\n0.006\nContrast\n\n\n15\n13,270\n0.389\n0.671\n−0.263\n\n−0.325\n\n0.047\n0.000\nContrast\n\n\n16\n74,044\n0.698\n0.743\n−0.030\n0.000\n−0.082\n−0.034\nGood\n\n\n\nOpen in a new tab\n\nThe column, Label, provides a simple, nominal classification to aid interpretation of Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The main geographic pattern was an east‐west contrast in the preponderance of confluences in good ecological condition and concentration of the confluences in the poorest condition in the agriculturally dominated midwest and Mississippi River valley (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In general, watersheds in the western U.S. had relatively uniform distributions of confluences in good condition and therefore relatively few confluences with contrasting conditions (Figure 2a, 2d), whereas watersheds east of the Colorado Front Range had more heterogeneous confluence conditions and were in poorer condition overall.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The HUC 8 highlighted in red in panel a is depicted in Figure 3.The inherent nestedness of the dataset can be used to examine the spatial pattern of confluence conditions across a range of spatial scales, from the spatial pattern for HUC 8 units across the country (Figure 2) to HUC 12 units nested in HUC 8 units (Figure 3b) to individual confluences within HUC 12 units (Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "There was often considerable spatial variability in confluences conditions within the HUC 12 units that comprise a HUC 8 (e.g., Figures 2a vs. 3b) and there was often considerable spatial variability in confluence conditions within the HUC 12 units themselves (e.g., Figure 3a vs. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The scale of individual confluences is often the scale at which restoration occurs because of cost factors (Wickham, Riitters, et al. 2017) and an interesting example of how the data could be used to support local ecological restoration efforts is represented by the confluence encircled in black in Figure 3a.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The HUC 8 in (b) is highlighted in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The Google Earth™ image date is February 2, 2019.Across the conterminous U.S., about 20% (n = 196,818) of the confluences were hydraulically significant, and their distribution across the clusters was uneven (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Cluster\n# Obs\nICIm\nIWIm\nICWIm\nICWIt\nICId\nIWId\nLabel\n\n\n\n1\n38,355\n0.486\n0.317\n\n0.176\n\n0.000\n\n0.141\n\n−0.015\nContrast\n\n\n2\n27,081\n0.813\n0.380\n\n0.397\n\n0.000\n\n0.390\n\n−0.005\nContrast\n\n\n3\n24,923\n0.352\n0.568\n−0.207\n\n0.000\n−0.013\n\n0.205\n\nContrast\n\n\n4\n256,318\n0.851\n0.856\n0.000\n0.000\n0.000\n0.000\nGood\n\n\n5\n35,417\n0.401\n0.402\n0.000\n0.000\n−0.228\n\n−0.221\n\nContrast\n\n\n6\n52,689\n0.544\n0.536\n0.000\n0.000\n−0.007\n−0.009\nModerate\n\n\n7\n99,352\n0.332\n0.333\n0.000\n0.000\n0.019\n0.015\nPoor\n\n\n8\n26,280\n0.781\n0.446\n\n0.340\n\n0.000\n0.015\n−0.290\n\nContrast\n\n\n9\n29,037\n0.407\n0.684\n−0.265\n\n0.000\n−0.311\n\n−0.013\nContrast\n\n\n10\n24,911\n0.848\n0.456\n\n0.364\n\n\n0.370\n\n0.000\n0.000\nContrast\n\n\n11\n61,005\n0.832\n0.709\n\n0.131\n\n0.000\n0.045\n−0.071\nContrast\n\n\n12\n41,710\n0.695\n0.676\n0.000\n0.000\n\n0.200\n\n\n0.160\n\nContrast\n\n\n13\n119,369\n0.196\n0.192\n0.000\n0.000\n−0.009\n−0.001\nPoor\n\n\n14\n17,708\n0.382\n0.336\n0.033\n\n0.444\n\n−0.402\n\n0.006\nContrast\n\n\n15\n13,270\n0.389\n0.671\n−0.263\n\n−0.325\n\n0.047\n0.000\nContrast\n\n\n16\n74,044\n0.698\n0.743\n−0.030\n0.000\n−0.082\n−0.034\nGood\n\n\n\nOpen in a new tab\n\nThe column, Label, provides a simple, nominal classification to aid interpretation of Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The column, Label, provides a simple, nominal classification to aid interpretation of Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The column, Label, provides a simple, nominal classification to aid interpretation of Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The column, Label, provides a simple, nominal classification to aid interpretation of Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The main geographic pattern was an east‐west contrast in the preponderance of confluences in good ecological condition and concentration of the confluences in the poorest condition in the agriculturally dominated midwest and Mississippi River valley (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In general, watersheds in the western U.S. had relatively uniform distributions of confluences in good condition and therefore relatively few confluences with contrasting conditions (Figure 2a, 2d), whereas watersheds east of the Colorado Front Range had more heterogeneous confluence conditions and were in poorer condition overall.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel a",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The HUC 8 highlighted in red in panel a is depicted in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The inherent nestedness of the dataset can be used to examine the spatial pattern of confluence conditions across a range of spatial scales, from the spatial pattern for HUC 8 units across the country (Figure 2) to HUC 12 units nested in HUC 8 units (Figure 3b) to individual confluences within HUC 12 units (Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel b",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "There was often considerable spatial variability in confluences conditions within the HUC 12 units that comprise a HUC 8 (e.g., Figures 2a vs. 3b) and there was often considerable spatial variability in confluence conditions within the HUC 12 units themselves (e.g., Figure 3a vs. 3b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The scale of individual confluences is often the scale at which restoration occurs because of cost factors (Wickham, Riitters, et al. 2017) and an interesting example of how the data could be used to support local ecological restoration efforts is represented by the confluence encircled in black in Figure 3a.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The HUC 8 in (b) is highlighted in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Across the conterminous U.S., about 20% (n = 196,818) of the confluences were hydraulically significant, and their distribution across the clusters was uneven (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Depending on the objectives, our emphasis on generality may or may not impact the use of these data at local scales (e.g., Figure 3a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel a",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Our results for hydrologic significance for stream orders greater than one (i.e., Figure 4) could also be affected if the inclusion of headwaters changed the spatial pattern of stream orders.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  }
+]

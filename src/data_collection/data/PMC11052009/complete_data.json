@@ -1,0 +1,1505 @@
+{
+  "paper_id": "PMC11052009",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11052009/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Figure 1.",
+      "caption": "A screenshot of an Integrated Microbial Genomes and Microbiomes (IMG/M) webpage displaying microbial genomes with annotation for a KEGG Orthology (KO) term identifier. The example shown is for nitrous oxide reductase with KO identifier K00376, retrieving 8193 genomes.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/6110792a3843/microorganisms-12-00791-g001.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/6110792a3843/microorganisms-12-00791-g001.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/6110792a3843/microorganisms-12-00791-g001.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/6110792a3843/microorganisms-12-00791-g001.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "microorganisms-12-00791-f001",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/6110792a3843/microorganisms-12-00791-g001.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11052009/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/6110792a3843/microorganisms-12-00791-g001.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Figure 2.",
+      "caption": "A screenshot of the design of a visual analytics resource for constructing a dataset of microbial genomes from the dataset retrieved from the bioinformatics resource (IMG/M). The example shown is for nitrous oxide reductase with KEGG Orthology identifier K00376. The filters in the design allow for the display of a dataset with options for taxonomic domain and genome sequencing status.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/7972cb1d22c4/microorganisms-12-00791-g002.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/7972cb1d22c4/microorganisms-12-00791-g002.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/7972cb1d22c4/microorganisms-12-00791-g002.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/7972cb1d22c4/microorganisms-12-00791-g002.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "microorganisms-12-00791-f002",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/7972cb1d22c4/microorganisms-12-00791-g002.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11052009/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/7972cb1d22c4/microorganisms-12-00791-g002.jpg"
+    },
+    "figure_3": {
+      "figure_number": "Figure 3",
+      "title": "Figure 3.",
+      "caption": "Distribution of denitrification patterns and denitrification traits assigned to a set of 62,624 microbial genomes consisting of 866 archaeal and 61,758 bacterial genomes. “Null” means an absence of annotation.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/921acd33bd32/microorganisms-12-00791-g003.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/921acd33bd32/microorganisms-12-00791-g003.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/921acd33bd32/microorganisms-12-00791-g003.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/921acd33bd32/microorganisms-12-00791-g003.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "microorganisms-12-00791-f003",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/921acd33bd32/microorganisms-12-00791-g003.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11052009/images/figure_3.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/921acd33bd32/microorganisms-12-00791-g003.jpg"
+    },
+    "figure_4": {
+      "figure_number": "Figure 4",
+      "title": "Figure 4.",
+      "caption": "Distribution of denitrification patterns, denitrification traits, and ecosystem types for 179 bacterial genomes annotated with the ecosystem of the host-associated and ecosystem category of Mollusca. The five genomes assigned to the oyster ecosystem type were from four strains of Roseibium album (CECT 5094, CECT 5095, CECT 5096, and CECT 7551) and Ruegeria denitrificans CECT 5091.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/731db2fb8961/microorganisms-12-00791-g004.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/731db2fb8961/microorganisms-12-00791-g004.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/731db2fb8961/microorganisms-12-00791-g004.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/731db2fb8961/microorganisms-12-00791-g004.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "microorganisms-12-00791-f004",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/731db2fb8961/microorganisms-12-00791-g004.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11052009/images/figure_4.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/731db2fb8961/microorganisms-12-00791-g004.jpg"
+    },
+    "figure_5": {
+      "figure_number": "Figure 5",
+      "title": "Figure A3.",
+      "caption": "The categories of denitrification-potential patterns for 866 archaeal genomes. The genomes encode at least 1 of the 12 enzymes in the canonical four-step denitrification pathway according to the MicroTrait rules (Figure A1). The 12-digit binary numbers represent the presence (“1”) or absence (“0”) of the following enzymes: narG, narH, narI, napA, napB, nirK, nirS, norB, norC, norV, norW, and nosZ. A pattern of interest can be used to search the interactive version of Figure 5 available at https://public.tableau.com/app/profile/qeubic/viz/microbial_denitrifiers/abstract/ (accessed on 23 March 2024).",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/4435d3c9d85c/microorganisms-12-00791-g0A3.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/4435d3c9d85c/microorganisms-12-00791-g0A3.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/4435d3c9d85c/microorganisms-12-00791-g0A3.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/4435d3c9d85c/microorganisms-12-00791-g0A3.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "microorganisms-12-00791-f0A3",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/4435d3c9d85c/microorganisms-12-00791-g0A3.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11052009/images/figure_5.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/4435d3c9d85c/microorganisms-12-00791-g0A3.jpg"
+    },
+    "figure_6": {
+      "figure_number": "Figure 6",
+      "title": "Figure 6.",
+      "caption": "A screenshot of a visual analytics resource to support human interaction with the dataset on denitrification potential of archaeal and bacterial genomes with emphasis on filtering by taxonomic options. The interaction worksheet provides options as well as connection to external resources (IMG/M website, Google Search and Google Scholar). The insert image with GTDB-Tk taxonomic assignments was obtained by clicking the sequencing status symbol associated with Roseibium aestuarii SYSU M00256-3, a bacteria isolated from an estuary and known to be unable to reduce nitrate [55]. The webpage link to the interactive version of the visual analytics resource is available in the Supplementary Materials section.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/cbeaf0eb0009/microorganisms-12-00791-g006.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/cbeaf0eb0009/microorganisms-12-00791-g006.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/cbeaf0eb0009/microorganisms-12-00791-g006.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/cbeaf0eb0009/microorganisms-12-00791-g006.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "microorganisms-12-00791-f006",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/cbeaf0eb0009/microorganisms-12-00791-g006.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11052009/images/figure_6.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/cbeaf0eb0009/microorganisms-12-00791-g006.jpg"
+    },
+    "figure_7": {
+      "figure_number": "Figure 7",
+      "title": "Figure 7.",
+      "caption": "Three stages of interactive data investigation for the denitrification potential of bacterial genera associated with the Eastern oyster (Crassostrea virginica). We obtained the list of nine genera from the study of bacteria associated with the gill tissues of the Pacific oyster (Crassostrea gigas) and Eastern oyster [52].",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/2719a3d8b62b/microorganisms-12-00791-g007.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/2719a3d8b62b/microorganisms-12-00791-g007.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/2719a3d8b62b/microorganisms-12-00791-g007.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/2719a3d8b62b/microorganisms-12-00791-g007.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "microorganisms-12-00791-f007",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/2719a3d8b62b/microorganisms-12-00791-g007.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11052009/images/figure_7.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/2719a3d8b62b/microorganisms-12-00791-g007.jpg"
+    },
+    "figure_8": {
+      "figure_number": "Figure 8",
+      "title": "Figure 8.",
+      "caption": "Ecosystem classifications and denitrification potential patterns of 127 Arcobacteraceae genomes. The association of Arcobacteraceae with multi-ecosystem habitats including human, animal, plants, and the environment presents a bacteria family for research on synthetic denitrifying communities.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/362f18e08f28/microorganisms-12-00791-g008.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/362f18e08f28/microorganisms-12-00791-g008.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/362f18e08f28/microorganisms-12-00791-g008.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/362f18e08f28/microorganisms-12-00791-g008.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "microorganisms-12-00791-f008",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/362f18e08f28/microorganisms-12-00791-g008.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11052009/images/figure_8.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/362f18e08f28/microorganisms-12-00791-g008.jpg"
+    },
+    "figure_9": {
+      "figure_number": "Figure 9",
+      "title": "Figure 9.",
+      "caption": "Ecosystem categories assigned to 3280 bacterial genomes with complete denitrification potential. The phyla Campylobacterota and Pseudomonadota have genera associated with Mollusca (shellfish).",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/34a1844c093a/microorganisms-12-00791-g009.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/34a1844c093a/microorganisms-12-00791-g009.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/34a1844c093a/microorganisms-12-00791-g009.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/34a1844c093a/microorganisms-12-00791-g009.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "microorganisms-12-00791-f009",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/34a1844c093a/microorganisms-12-00791-g009.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11052009/images/figure_9.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/34a1844c093a/microorganisms-12-00791-g009.jpg"
+    },
+    "figure_10": {
+      "figure_number": "Figure 10",
+      "title": "Figure 10.",
+      "caption": "Evidence from binary numbering patterns indicating that three Campylobacterota genera (Caminibacter, Lebetimonas, and Nautilia) do not encode the gene for nitrous oxide reductase. The last digit of the “Denitrification Pattern” and “Denitrifying Enzymes Pattern” is “0”.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/58bcd7b09021/microorganisms-12-00791-g010.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/58bcd7b09021/microorganisms-12-00791-g010.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/58bcd7b09021/microorganisms-12-00791-g010.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/58bcd7b09021/microorganisms-12-00791-g010.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "microorganisms-12-00791-f010",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/58bcd7b09021/microorganisms-12-00791-g010.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11052009/images/figure_10.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/58bcd7b09021/microorganisms-12-00791-g010.jpg"
+    },
+    "figure_11": {
+      "figure_number": "Figure 11",
+      "title": "Figure 11.",
+      "caption": "Genomes of the genera in phylum Campylobacterota (Nitratifractor, Nitratiruptor, Sulfurimonas, and Sulfurovum) that have the complete denitrification pattern (“1111”) in the microbial denitrification potential dataset. The nitrous oxide reductase activity of strains from the taxonomic class campylobacteria associated with deep-sea hydrothermal vents was reported by Fukushi et al. [62].",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/dc015f6da810/microorganisms-12-00791-g011.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/dc015f6da810/microorganisms-12-00791-g011.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/dc015f6da810/microorganisms-12-00791-g011.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/dc015f6da810/microorganisms-12-00791-g011.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "microorganisms-12-00791-f011",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/dc015f6da810/microorganisms-12-00791-g011.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11052009/images/figure_11.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/dc015f6da810/microorganisms-12-00791-g011.jpg"
+    },
+    "figure_12": {
+      "figure_number": "Figure 12",
+      "title": "Figure 12.",
+      "caption": "Visual interfaces for selecting and exploring searches for scholarly articles with gene symbols of enzymes for denitrification. (a) The list of functional annotation identifiers and gene symbol for enzymes in the canonical denitrification pathway. Selecting the square for each gene symbol displays the Google Scholar search options. (b) The list of search text for Google Scholar to retrieve up-to-date journal articles and other scholarly literature. (c) An example of part of the retrieved results for the search text “(‘absence of nosZ’ denitrification)”. The selected journal article provides insights into the evolutionary history of the incomplete denitrification pathway of the bacteria genus, Thermus.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/dd05e73bd7ed/microorganisms-12-00791-g012.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/dd05e73bd7ed/microorganisms-12-00791-g012.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/dd05e73bd7ed/microorganisms-12-00791-g012.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/dd05e73bd7ed/microorganisms-12-00791-g012.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "microorganisms-12-00791-f012",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/dd05e73bd7ed/microorganisms-12-00791-g012.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11052009/images/figure_12.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/dd05e73bd7ed/microorganisms-12-00791-g012.jpg"
+    },
+    "figure_13": {
+      "figure_number": "Figure 13",
+      "title": "Figure A1.",
+      "caption": "An example of the denitrification trait inferences according to rules of the end products of reduction reactions of nitrate, nitrite, nitric oxide, and nitrous oxide. The presence or absence of protein families (italicized gene symbols) maps to complete and incomplete denitrification traits. The grey and white colors indicate presence and absence respectively of the gene(s) for the denitrification step. The source of the image is an open-access article by Karaoz and Brodie [10].",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/1b5cddacc13d/microorganisms-12-00791-g0A1.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/1b5cddacc13d/microorganisms-12-00791-g0A1.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/1b5cddacc13d/microorganisms-12-00791-g0A1.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/1b5cddacc13d/microorganisms-12-00791-g0A1.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "microorganisms-12-00791-f0A1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/1b5cddacc13d/microorganisms-12-00791-g0A1.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11052009/images/figure_13.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/1b5cddacc13d/microorganisms-12-00791-g0A1.jpg"
+    },
+    "figure_14": {
+      "figure_number": "Figure 14",
+      "title": "Figure A2.",
+      "caption": "Comparison of the categorizations of Thermus strains in this report (Isokpehi et al., 2024) and those of Jiao et al. (2022) [63]. Among the 23 Thermus strains, eight strains are not included in our microbial denitrification potential dataset because they do not have at least one of the genes for the 12 enzymes for denitrification. In the categorization by Jiao et al. [63], the filled symbols indicate presence of genes for denitrification enzymes. The numbers before the Genome Name in both images is to show agreement of absence of genes for the denitrification enzymes by the categorizations by Isokpehi et al. (2024) and Jiao et al. [63]. In addition, the list of Thermus strains include Type strains (with superscript “T”). The open access image by Jiao et al. is available at https://doi.org/10.1002/mlf2.12009 (accessed on 23 March 2024).",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/ad93414ffb3c/microorganisms-12-00791-g0A2.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/ad93414ffb3c/microorganisms-12-00791-g0A2.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/ad93414ffb3c/microorganisms-12-00791-g0A2.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/ad93414ffb3c/microorganisms-12-00791-g0A2.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "microorganisms-12-00791-f0A2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/ad93414ffb3c/microorganisms-12-00791-g0A2.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC11052009/images/figure_14.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab43/11052009/ad93414ffb3c/microorganisms-12-00791-g0A2.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "Each of the retrieved datasets contained columns for domain (taxonomic domain), status (sequencing status), genome ID (identifier assigned by IMG/M), and genome name (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, we added \"01_narG” and “12_nosZ” to the genome list for narG and nosZ, respectively (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Each of the retrieved datasets contained columns for domain (taxonomic domain), status (sequencing status), genome ID (identifier assigned by IMG/M), and genome name (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, we added \"01_narG” and “12_nosZ” to the genome list for narG and nosZ, respectively (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Each of the retrieved datasets contained columns for domain (taxonomic domain), status (sequencing status), genome ID (identifier assigned by IMG/M), and genome name (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, we added \"01_narG” and “12_nosZ” to the genome list for narG and nosZ, respectively (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "3 Data were retrieved from the Integrated Microbial Genomes and Microbiomes (IMG/M) system in November 2023.The distribution of the 16 denitrification patterns and associated denitrification traits in ecosystems for archaeal and bacterial genomes revealed the potential for complete denitrification by 3280 bacterial genomes (Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The 179 genomes annotated with the Mollusca ecosystem category included 31 genomes with an ecosystem type annotation of oyster (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nDistribution of denitrification patterns and denitrification traits assigned to a set of 62,624 microbial genomes consisting of 866 archaeal and 61,758 bacterial genomes. “Null” means an absence of annotation.Figure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "A visual analytics worksheet (Figure 5) design allows for interaction with the denitrification potential dataset using the columns in the genome, ecosystem, and denitrification potential category (Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Figure 5, 20 genome names were displayed when the interaction filters were (1) environmental ecosystem, (2) a genome name that contained “denitrificans”, and (3) a denitrification pattern for complete denitrification of “1111”.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the digital categorization process assigned pattern “000111011001” to genomes of Nisaea denitrificans DSM 18348 and Shewanella denitrificans OS217 (Figure 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "In Figure 6, the view displayed is for filtering the dataset by Roseibium GTDB-Tk Genus.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "We filtered the dataset by Roseibium as we observed the annotation of Roseibium genomes with oyster host-associated ecosystem (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We determined, in three stages of visual analytics views, the distribution of denitrification potential patterns for 2603 genomes from the nine bacteria genera (Figure 7).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "LA11 genome had the complete denitrification trait (Figure 7) with a denitrifying enzymes pattern of “000110111001” (presence in genome of napA, napB, nirS, norB, norC, and nosZ).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "LA11 (Figure 7c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel c",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel c",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "We obtained the list of nine genera from the study of bacteria associated with the gill tissues of the Pacific oyster (Crassostrea gigas) and Eastern oyster [52].The findings on Arcobacter genomes with complete denitrification traits (Figure 7a) as well as the recommendation for research on Arcobacter strains and their hosts [56] led us to construct a denitrification potential dataset for 127 genomes taxonomically classified to the bacteria family Arcobacteraceae.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel a",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel a",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "The ecosystem classification and counts of genomes according to denitrification potential revealed Arcobacteraceae strains inhabit engineered, environmental, and host-associated ecosystems (Figure 8).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        },
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "We observed seven bacteria phyla: Acidobacteriota (1 genome), Actinomycetota (2 genomes), Bacteroidota (36 genomes), Campylobacterota (63 genomes), Myxococcota (1 genome), Nitrospirota (2 genomes), and Pseudomonadota (3175 genomes) (Figure 9).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "The phyla Campylobacterota and Pseudomonadota have genera associated with Mollusca (shellfish).Since Arcobacteraceae is a member of the Campylobacterota and since denitrifying Arcobacteraceae strains have been isolated from oysters (Figure 9), we conducted a literature search on the other Campylobacterota families with genomes categorized as having complete denitrification potential.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "The last digit for the two patterns was “0” for the Lebtimonas, Nautilia, and Caminibacter genomes (Figure 10).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        },
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        }
+      ]
+    },
+    {
+      "sentence": "Additionally, 33 genomes with the complete denitrification pattern include all one of the Nitratifractor and eight of the Nitratiruptor strains as well as twenty of the Sulfurimonas and four of the Sulfurovum strains (Figure 11).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        },
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "Searches for Scholarly Articles with Gene Symbols of Enzymes for Denitrification\nWe designed a visual analytics worksheet that lists the gene symbols and other identifiers for the 12 denitrifying enzymes (Figure 12a).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel a",
+          "figure_key": "figure_12"
+        },
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel a",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Additionally, the design included uniform resource locator (URL) actions for 16 Google Scholar searches, with the prefix text “denitrification” and the gene symbol (e.g., “narG“ and “nosZ”) of the denitrifying enzymes being part of the design (Figure 12b).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel b",
+          "figure_key": "figure_12"
+        },
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel b",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "A Google Scholar search with search text “(‘absence of nosZ’ denitrification)” retrieved 40 results as of 23 March 2024, including an article on incomplete denitrification trait for 23 Thermus strains associated with terrestrial geothermal environments [63] (Figure 12c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel c",
+          "figure_key": "figure_12"
+        },
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel c",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "3 Data were retrieved from the Integrated Microbial Genomes and Microbiomes (IMG/M) system in November 2023.The distribution of the 16 denitrification patterns and associated denitrification traits in ecosystems for archaeal and bacterial genomes revealed the potential for complete denitrification by 3280 bacterial genomes (Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The 179 genomes annotated with the Mollusca ecosystem category included 31 genomes with an ecosystem type annotation of oyster (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nDistribution of denitrification patterns and denitrification traits assigned to a set of 62,624 microbial genomes consisting of 866 archaeal and 61,758 bacterial genomes. “Null” means an absence of annotation.Figure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The distribution of the 16 denitrification patterns and associated denitrification traits in ecosystems for archaeal and bacterial genomes revealed the potential for complete denitrification by 3280 bacterial genomes (Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The 179 genomes annotated with the Mollusca ecosystem category included 31 genomes with an ecosystem type annotation of oyster (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "A visual analytics worksheet (Figure 5) design allows for interaction with the denitrification potential dataset using the columns in the genome, ecosystem, and denitrification potential category (Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Figure 5, 20 genome names were displayed when the interaction filters were (1) environmental ecosystem, (2) a genome name that contained “denitrificans”, and (3) a denitrification pattern for complete denitrification of “1111”.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the digital categorization process assigned pattern “000111011001” to genomes of Nisaea denitrificans DSM 18348 and Shewanella denitrificans OS217 (Figure 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "In Figure 6, the view displayed is for filtering the dataset by Roseibium GTDB-Tk Genus.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "We filtered the dataset by Roseibium as we observed the annotation of Roseibium genomes with oyster host-associated ecosystem (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "A visual analytics worksheet (Figure 5) design allows for interaction with the denitrification potential dataset using the columns in the genome, ecosystem, and denitrification potential category (Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Figure 5, 20 genome names were displayed when the interaction filters were (1) environmental ecosystem, (2) a genome name that contained “denitrificans”, and (3) a denitrification pattern for complete denitrification of “1111”.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the digital categorization process assigned pattern “000111011001” to genomes of Nisaea denitrificans DSM 18348 and Shewanella denitrificans OS217 (Figure 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "In Figure 6, the view displayed is for filtering the dataset by Roseibium GTDB-Tk Genus.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "We filtered the dataset by Roseibium as we observed the annotation of Roseibium genomes with oyster host-associated ecosystem (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We determined, in three stages of visual analytics views, the distribution of denitrification potential patterns for 2603 genomes from the nine bacteria genera (Figure 7).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "LA11 genome had the complete denitrification trait (Figure 7) with a denitrifying enzymes pattern of “000110111001” (presence in genome of napA, napB, nirS, norB, norC, and nosZ).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "LA11 (Figure 7c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel c",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel c",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "We obtained the list of nine genera from the study of bacteria associated with the gill tissues of the Pacific oyster (Crassostrea gigas) and Eastern oyster [52].The findings on Arcobacter genomes with complete denitrification traits (Figure 7a) as well as the recommendation for research on Arcobacter strains and their hosts [56] led us to construct a denitrification potential dataset for 127 genomes taxonomically classified to the bacteria family Arcobacteraceae.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel a",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel a",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "The ecosystem classification and counts of genomes according to denitrification potential revealed Arcobacteraceae strains inhabit engineered, environmental, and host-associated ecosystems (Figure 8).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        },
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "We determined, in three stages of visual analytics views, the distribution of denitrification potential patterns for 2603 genomes from the nine bacteria genera (Figure 7).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "LA11 genome had the complete denitrification trait (Figure 7) with a denitrifying enzymes pattern of “000110111001” (presence in genome of napA, napB, nirS, norB, norC, and nosZ).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "LA11 (Figure 7c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel c",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel c",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "The findings on Arcobacter genomes with complete denitrification traits (Figure 7a) as well as the recommendation for research on Arcobacter strains and their hosts [56] led us to construct a denitrification potential dataset for 127 genomes taxonomically classified to the bacteria family Arcobacteraceae.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel a",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel a",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "The ecosystem classification and counts of genomes according to denitrification potential revealed Arcobacteraceae strains inhabit engineered, environmental, and host-associated ecosystems (Figure 8).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        },
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "We observed seven bacteria phyla: Acidobacteriota (1 genome), Actinomycetota (2 genomes), Bacteroidota (36 genomes), Campylobacterota (63 genomes), Myxococcota (1 genome), Nitrospirota (2 genomes), and Pseudomonadota (3175 genomes) (Figure 9).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "The phyla Campylobacterota and Pseudomonadota have genera associated with Mollusca (shellfish).Since Arcobacteraceae is a member of the Campylobacterota and since denitrifying Arcobacteraceae strains have been isolated from oysters (Figure 9), we conducted a literature search on the other Campylobacterota families with genomes categorized as having complete denitrification potential.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "The last digit for the two patterns was “0” for the Lebtimonas, Nautilia, and Caminibacter genomes (Figure 10).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        },
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        }
+      ]
+    },
+    {
+      "sentence": "Additionally, 33 genomes with the complete denitrification pattern include all one of the Nitratifractor and eight of the Nitratiruptor strains as well as twenty of the Sulfurimonas and four of the Sulfurovum strains (Figure 11).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        },
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "We observed seven bacteria phyla: Acidobacteriota (1 genome), Actinomycetota (2 genomes), Bacteroidota (36 genomes), Campylobacterota (63 genomes), Myxococcota (1 genome), Nitrospirota (2 genomes), and Pseudomonadota (3175 genomes) (Figure 9).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "Since Arcobacteraceae is a member of the Campylobacterota and since denitrifying Arcobacteraceae strains have been isolated from oysters (Figure 9), we conducted a literature search on the other Campylobacterota families with genomes categorized as having complete denitrification potential.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "The last digit for the two patterns was “0” for the Lebtimonas, Nautilia, and Caminibacter genomes (Figure 10).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        },
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        }
+      ]
+    },
+    {
+      "sentence": "Additionally, 33 genomes with the complete denitrification pattern include all one of the Nitratifractor and eight of the Nitratiruptor strains as well as twenty of the Sulfurimonas and four of the Sulfurovum strains (Figure 11).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        },
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "Searches for Scholarly Articles with Gene Symbols of Enzymes for Denitrification\nWe designed a visual analytics worksheet that lists the gene symbols and other identifiers for the 12 denitrifying enzymes (Figure 12a).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel a",
+          "figure_key": "figure_12"
+        },
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel a",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Additionally, the design included uniform resource locator (URL) actions for 16 Google Scholar searches, with the prefix text “denitrification” and the gene symbol (e.g., “narG“ and “nosZ”) of the denitrifying enzymes being part of the design (Figure 12b).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel b",
+          "figure_key": "figure_12"
+        },
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel b",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "A Google Scholar search with search text “(‘absence of nosZ’ denitrification)” retrieved 40 results as of 23 March 2024, including an article on incomplete denitrification trait for 23 Thermus strains associated with terrestrial geothermal environments [63] (Figure 12c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel c",
+          "figure_key": "figure_12"
+        },
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel c",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "We designed a visual analytics worksheet that lists the gene symbols and other identifiers for the 12 denitrifying enzymes (Figure 12a).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel a",
+          "figure_key": "figure_12"
+        },
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel a",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Additionally, the design included uniform resource locator (URL) actions for 16 Google Scholar searches, with the prefix text “denitrification” and the gene symbol (e.g., “narG“ and “nosZ”) of the denitrifying enzymes being part of the design (Figure 12b).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel b",
+          "figure_key": "figure_12"
+        },
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel b",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "A Google Scholar search with search text “(‘absence of nosZ’ denitrification)” retrieved 40 results as of 23 March 2024, including an article on incomplete denitrification trait for 23 Thermus strains associated with terrestrial geothermal environments [63] (Figure 12c).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel c",
+          "figure_key": "figure_12"
+        },
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel c",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "A query of the dataset with keyword “denitrificans” in the “Genome Name” field combined with environment ecosystem and complete denitrification pattern (“1111”) retrieved 20 genomes (Figure 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The first purpose is to provide evidence for microbial denitrification potential by comparing patterns of presence or absence in microbial genomes of denitrifying enzymes for ecologically relevant denitrification trait standards (Figure 5, Figure 6 and Figure 7).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "The inclusion of hyperlinks in the visual analytics design allows for the 62,624 genome names in the denitrification dataset to be searched with search engines and literature databases that are up to date (Figure 5 and Figure 6).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Several Arcobacteraceae strains are associated with the Mollusca ecosystem category and include strains with complete denitrification potential (Figure 7).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "A query of the dataset with keyword “denitrificans” in the “Genome Name” field combined with environment ecosystem and complete denitrification pattern (“1111”) retrieved 20 genomes (Figure 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "The first purpose is to provide evidence for microbial denitrification potential by comparing patterns of presence or absence in microbial genomes of denitrifying enzymes for ecologically relevant denitrification trait standards (Figure 5, Figure 6 and Figure 7).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "The inclusion of hyperlinks in the visual analytics design allows for the 62,624 genome names in the denitrification dataset to be searched with search engines and literature databases that are up to date (Figure 5 and Figure 6).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Several Arcobacteraceae strains are associated with the Mollusca ecosystem category and include strains with complete denitrification potential (Figure 7).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "A pattern of interest can be used to search the interactive version of Figure 5 available at https://public.tableau.com/app/profile/qeubic/viz/microbial_denitrifiers/abstract/ (accessed on 23 March 2024).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "A pattern of interest can be used to search the interactive version of Figure 5 available at https://public.tableau.com/app/profile/qeubic/viz/microbial_denitrifiers/abstract/ (accessed on 23 March 2024).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 14,
+    "claims_count": 75,
+    "images_downloaded": 14,
+    "tables_filtered": 308
+  }
+}

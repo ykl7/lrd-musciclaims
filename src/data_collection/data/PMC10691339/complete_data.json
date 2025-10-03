@@ -1,0 +1,379 @@
+{
+  "paper_id": "PMC10691339",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10691339/",
+  "figures": {
+    "figure_01": {
+      "figure_number": "Figure 01",
+      "title": "Fig. 1.",
+      "caption": "A schematic of our detection and response framework. The proposed framework captures the impact of disease dynamics on the detection time of an emergent/imported variant, which in turn limits the fastest intervention time against the novel variant. The detection time and, consequently, the response time are dependent on the variants’ competing dynamics, whose dynamics are determined by the relative infectiousness and the cross-infection levels. Finally, the goal-specific best intervention scenario is given by the intervention length, the intervention time, and the intervention strength.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/e0c8b3532560/pnas.2305227120fig01.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/e0c8b3532560/pnas.2305227120fig01.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/e0c8b3532560/pnas.2305227120fig01.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/e0c8b3532560/pnas.2305227120fig01.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig01",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/e0c8b3532560/pnas.2305227120fig01.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10691339/images/figure_01.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/e0c8b3532560/pnas.2305227120fig01.jpg"
+    },
+    "figure_02": {
+      "figure_number": "Figure 02",
+      "title": "Fig. 2.",
+      "caption": "The impact of the importation time on the second variant detection and dominance times. The second variant’s detection and dominance times show a maximum as a function of the importation time (), panel A. Cross-infection (), impacts the second variant’s detection time for intermediate and delayed importation times, but not for early importation times, panel B. We assume  infectiousness advantage for the second variant, one-way cross-immunity ( and ),  sequences per week, and first variant’s basic reproductive number .",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/b54973705723/pnas.2305227120fig02.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/b54973705723/pnas.2305227120fig02.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/b54973705723/pnas.2305227120fig02.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/b54973705723/pnas.2305227120fig02.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig02",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/b54973705723/pnas.2305227120fig02.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10691339/images/figure_02.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/b54973705723/pnas.2305227120fig02.jpg"
+    },
+    "figure_03": {
+      "figure_number": "Figure 03",
+      "title": "Fig. 3.",
+      "caption": "Second variant’s peak size as a function of the response time, the response strength, and the cross-infection level. Early and strong single-period responses increase the second variant peak size; in counterpart, delayed and intermediate response strengths are best (panel A). The biggest reduction of the second variant’s peak size is attained for importation times near the first variant’s peak time (panel B). We assume the second variant’s importation times  and , first variant’s , one-way cross-infection, where  and , and 4 wks’ intervention length.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/f34ac33be85a/pnas.2305227120fig03.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/f34ac33be85a/pnas.2305227120fig03.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/f34ac33be85a/pnas.2305227120fig03.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/f34ac33be85a/pnas.2305227120fig03.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig03",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/f34ac33be85a/pnas.2305227120fig03.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10691339/images/figure_03.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/f34ac33be85a/pnas.2305227120fig03.jpg"
+    },
+    "figure_04": {
+      "figure_number": "Figure 04",
+      "title": "Fig. 4.",
+      "caption": "Total disease prevalence as a function of the response time and response strength. Early importation produces coupled dynamics and, the best response time is delayed until the second variant overcomes the first variant (A). Delayed importation produces decoupled dynamics, and the best response time is delayed until the second variant exponentially grows (B).",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/6375982c98ac/pnas.2305227120fig04.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/6375982c98ac/pnas.2305227120fig04.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/6375982c98ac/pnas.2305227120fig04.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/6375982c98ac/pnas.2305227120fig04.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig04",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/6375982c98ac/pnas.2305227120fig04.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10691339/images/figure_04.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/6375982c98ac/pnas.2305227120fig04.jpg"
+    },
+    "figure_05": {
+      "figure_number": "Figure 05",
+      "title": "Fig. 5.",
+      "caption": "Total cumulative cases as a function of the response time and response strength. For the scenarios of the second variant being imported before the peak time of the first variant, interventions targeting the cumulative cases of the first variant minimize the total number of cases (A). For these scenarios, quick and strong single-period responses are best. In counterpart, for scenarios of the second variant importation during or after the first variant’s peak time, interventions targeting the cumulative cases of the second variant minimize the total number of cases (B). For these scenarios, delayed and strong single-period responses are best.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/73f35bf27e85/pnas.2305227120fig05.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/73f35bf27e85/pnas.2305227120fig05.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/73f35bf27e85/pnas.2305227120fig05.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/73f35bf27e85/pnas.2305227120fig05.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig05",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/73f35bf27e85/pnas.2305227120fig05.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10691339/images/figure_05.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ed4/10691339/73f35bf27e85/pnas.2305227120fig05.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "Moreover, we show that the impact of NPIs is inherently limited by the competing variants’ dynamics, see Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 2A shows the time from importation to detection (Left) and the time from detection to dominance (Right), as a function of.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 2B, Left depicts the detection time () as a function of both the importation time () and the second variant’s cross-infection ().",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 2B, Right shows that, for low values of importation times (when the epidemic is mainly driven by the totally susceptible population), the detection time is unaffected by changes in the cross-infection level.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 2A shows the time from importation to detection (Left) and the time from detection to dominance (Right), as a function of.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 2B, Left depicts the detection time () as a function of both the importation time () and the second variant’s cross-infection ().",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 2B, Right shows that, for low values of importation times (when the epidemic is mainly driven by the totally susceptible population), the detection time is unaffected by changes in the cross-infection level.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 2A shows the time from importation to detection (Left) and the time from detection to dominance (Right), as a function of.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 2B, Left depicts the detection time () as a function of both the importation time () and the second variant’s cross-infection ().",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 2B, Right shows that, for low values of importation times (when the epidemic is mainly driven by the totally susceptible population), the detection time is unaffected by changes in the cross-infection level.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel B",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Our simulations yield the following insights: i) early and strong single-period interventions are not always the best, since these may increase the second variant’s peak size, relative to the no-intervention scenario (Fig. 3A); ii) delayed and intermediate strong interventions minimize the second variant’s peak size (SI Appendix, Figs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "S23 and S25); iii) for intermediate and late importation times (i.e., large  relative to the first variant’s peak time), the best intervention strength depends on the second variant’s cross-infection, while there is not much variation in the second variant’s peak at early importation times as the cross-infection values change (Fig. 3B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 3A, Right shows that for , the best intervention time and strength are approximately ( d and , respectively).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Moreover, Fig. 3B shows that, for any fixed cross-infection value, importation times close to the first variant’s peak time yield the biggest reduction in the second variant’s peak size.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Our simulations yield the following insights: i) early and strong single-period interventions are not always the best, since these may increase the second variant’s peak size, relative to the no-intervention scenario (Fig. 3A); ii) delayed and intermediate strong interventions minimize the second variant’s peak size (SI Appendix, Figs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "S23 and S25); iii) for intermediate and late importation times (i.e., large  relative to the first variant’s peak time), the best intervention strength depends on the second variant’s cross-infection, while there is not much variation in the second variant’s peak at early importation times as the cross-infection values change (Fig. 3B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 3A, Right shows that for , the best intervention time and strength are approximately ( d and , respectively).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel A",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Moreover, Fig. 3B shows that, for any fixed cross-infection value, importation times close to the first variant’s peak time yield the biggest reduction in the second variant’s peak size.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 5,
+    "claims_count": 18,
+    "images_downloaded": 5,
+    "tables_filtered": 379
+  }
+}

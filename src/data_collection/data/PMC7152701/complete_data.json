@@ -1,0 +1,401 @@
+{
+  "paper_id": "PMC7152701",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7152701/",
+  "figures": {
+    "figure_0005": {
+      "figure_number": "Figure 0005",
+      "title": "",
+      "caption": "",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/473e/7152701/7ac3a99e81e7/fx1.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/473e/7152701/7ac3a99e81e7/fx1.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/473e/7152701/7ac3a99e81e7/fx1.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/473e/7152701/7ac3a99e81e7/fx1.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig0005",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/473e/7152701/7ac3a99e81e7/fx1.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC7152701/images/figure_0005.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/473e/7152701/7ac3a99e81e7/fx1.jpg"
+    },
+    "figure_0004": {
+      "figure_number": "Figure 0004",
+      "title": "Listing 1.",
+      "caption": "ABC using rejection sampling. Shown is the case where we need to sample posterior values for a single parameter θ. Each iteration of the algorithm consists of drawing a single random sample from a prior distribution for the parameter (here, Beta(2, 6)), and then generating the predicted mean effect from the model using that sampled parameter value. If the predicted mean effect is near the observed data (in our adapted implementation of the ABC method, if the predicted effect lies within one standard error of the mean effect of interest), then accept the sampled parameter value; otherwise reject that sampled value. This process is repeated until we have sufficient samples from the posterior distribution of the parameter. These samples therefore constitute the posterior distribution of the parameter.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/473e/7152701/38927de92658/gr4.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/473e/7152701/38927de92658/gr4.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/473e/7152701/38927de92658/gr4.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/473e/7152701/38927de92658/gr4.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig0004",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/473e/7152701/38927de92658/gr4.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC7152701/images/figure_0004.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/473e/7152701/38927de92658/gr4.jpg"
+    },
+    "figure_0001": {
+      "figure_number": "Figure 0001",
+      "title": "Fig. 1.",
+      "caption": "A Beta(2,6) prior on the latency factor.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/473e/7152701/26af3c669943/gr1.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/473e/7152701/26af3c669943/gr1.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/473e/7152701/26af3c669943/gr1.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/473e/7152701/26af3c669943/gr1.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig0001",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/473e/7152701/26af3c669943/gr1.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC7152701/images/figure_0001.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/473e/7152701/26af3c669943/gr1.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "As shown in Fig. 1 this is a relatively uninformative prior which downweights very small and very large values of the latency factor parameter.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2: Compute posterior distributions of the latency factor using ABC rejection sampling\nFig. 2 shows the posterior distributions of the latency factor parameter for ungrammatical agreement and reflexive conditions in Dillon et al. [3] and Jäger et al. [1].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These posterior predictive distributions are shown in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Fig. 1 this is a relatively uninformative prior which downweights very small and very large values of the latency factor parameter.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2: Compute posterior distributions of the latency factor using ABC rejection sampling\nFig. 2 shows the posterior distributions of the latency factor parameter for ungrammatical agreement and reflexive conditions in Dillon et al. [3] and Jäger et al. [1].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These posterior predictive distributions are shown in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Fig. 1 this is a relatively uninformative prior which downweights very small and very large values of the latency factor parameter.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2: Compute posterior distributions of the latency factor using ABC rejection sampling\nFig. 2 shows the posterior distributions of the latency factor parameter for ungrammatical agreement and reflexive conditions in Dillon et al. [3] and Jäger et al. [1].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These posterior predictive distributions are shown in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Fig. 1 this is a relatively uninformative prior which downweights very small and very large values of the latency factor parameter.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2: Compute posterior distributions of the latency factor using ABC rejection sampling\nFig. 2 shows the posterior distributions of the latency factor parameter for ungrammatical agreement and reflexive conditions in Dillon et al. [3] and Jäger et al. [1].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These posterior predictive distributions are shown in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Fig. 1 this is a relatively uninformative prior which downweights very small and very large values of the latency factor parameter.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2: Compute posterior distributions of the latency factor using ABC rejection sampling\nFig. 2 shows the posterior distributions of the latency factor parameter for ungrammatical agreement and reflexive conditions in Dillon et al. [3] and Jäger et al. [1].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These posterior predictive distributions are shown in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Fig. 1 this is a relatively uninformative prior which downweights very small and very large values of the latency factor parameter.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2: Compute posterior distributions of the latency factor using ABC rejection sampling\nFig. 2 shows the posterior distributions of the latency factor parameter for ungrammatical agreement and reflexive conditions in Dillon et al. [3] and Jäger et al. [1].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These posterior predictive distributions are shown in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Fig. 1 this is a relatively uninformative prior which downweights very small and very large values of the latency factor parameter.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2: Compute posterior distributions of the latency factor using ABC rejection sampling\nFig. 2 shows the posterior distributions of the latency factor parameter for ungrammatical agreement and reflexive conditions in Dillon et al. [3] and Jäger et al. [1].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These posterior predictive distributions are shown in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Fig. 1 this is a relatively uninformative prior which downweights very small and very large values of the latency factor parameter.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2: Compute posterior distributions of the latency factor using ABC rejection sampling\nFig. 2 shows the posterior distributions of the latency factor parameter for ungrammatical agreement and reflexive conditions in Dillon et al. [3] and Jäger et al. [1].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These posterior predictive distributions are shown in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Fig. 1 this is a relatively uninformative prior which downweights very small and very large values of the latency factor parameter.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2: Compute posterior distributions of the latency factor using ABC rejection sampling\nFig. 2 shows the posterior distributions of the latency factor parameter for ungrammatical agreement and reflexive conditions in Dillon et al. [3] and Jäger et al. [1].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These posterior predictive distributions are shown in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Fig. 1 this is a relatively uninformative prior which downweights very small and very large values of the latency factor parameter.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 2 shows the posterior distributions of the latency factor parameter for ungrammatical agreement and reflexive conditions in Dillon et al. [3] and Jäger et al. [1].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These posterior predictive distributions are shown in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 3,
+    "claims_count": 30,
+    "images_downloaded": 3,
+    "tables_filtered": 260
+  }
+}

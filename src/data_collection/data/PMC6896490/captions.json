@@ -1,0 +1,12 @@
+{
+  "figure_1": "Variety of complex patient paths in an orthopaedic outpatient\nclinic. Blue arrows indicate patient movements inside the clinic and dashed blue\narrows represent providers (i.e., physicians, nurses, and mid-level providers)\nmovements.",
+  "figure_2": "The\ncurrent layout of the existing orthopaedic outpatient clinic. Each of the four units\nwith similar colour defines a pod with three exam rooms and one physician work\narea.",
+  "figure_3": "The\nproposed simulation-optimisation platform to solve the outpatient clinic layout design\nproblem.",
+  "figure_4": "Revised Particle Swarm Optimisation (PSO) pseudo-code for\nlayout optimisation problem.",
+  "figure_5": "Neighbourhood search heuristic example. The layout in (a) is\nnot a feasible layout. A neighbourhood search algorithm explores local solutions\ncreated by moving units in one of the eight possible directions and rotating units\nto create a feasible solution as shown in (b). Note that the red arrows in (a)\nshow the selected movement directions.",
+  "figure_6": "Final candidate layouts for the studied outpatient clinic from\noptimisation model. Note that each of the four units with similar colour defines a pod\nand the smaller room in the pod is the physician work area.",
+  "figure_7": "Box plot of simulated patient walking distances for the three\ncandidate and the current layouts.",
+  "figure_8": "Histograms of aggregate patient walking distances for the\ncandidate layouts (in metres). Candidate Layout 2 outperforms other layouts, with a\nlower mean, median, and maximum walking distance for patients during the visit.",
+  "figure_9": "Example of the two-stage composition/decomposition heuristic\nfor the outpatient clinic layout problem. Note that the units with (*) represent\nphysician work areas.",
+  "figure_10": "Pod decomposition examples. In the top-left corner, the\ninitial pod prior to decomposition is shown. In the decomposition phase, units can\nbe located in any of the 12 adjacent locations in the expanded space (see squares\n5–16 at top-left corner) as long as no units overlap with the main units. In this\nexample, the check-in location prohibits the pod units to be located in positions 5\nand 6."
+}

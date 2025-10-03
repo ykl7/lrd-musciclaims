@@ -1,0 +1,5204 @@
+{
+  "paper_id": "PMC6020677",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6020677/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Fig. 2.",
+      "caption": "A detailed map of a set of on-network lakes in the state of Oregon. Lake polygons are light blue. National Hydrography Dataset (NHD) Plus version 2 catchments are outlined in black. Catchments that intersect with lake waterbodies have black stippling. The watershed of Lake Marion is composed of several, hydrologically linked catchments (pink area). Solid blue lines are NHD rivers and streams, and dashed blue lines are artificial paths used by the NHD to provide connectivity of rivers and streams across lakes. OR = Oregon.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/781c8e791556/nihms971804f2.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/781c8e791556/nihms971804f2.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/781c8e791556/nihms971804f2.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/781c8e791556/nihms971804f2.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/781c8e791556/nihms971804f2.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC6020677/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/781c8e791556/nihms971804f2.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Fig. 4.",
+      "caption": "Diagram of the connection between lakes 6 and 7 from Fig. 3. The connection between lakes 6 and 7, and their associated catchments, is identified through a series of spatial shifts of the underlying rasters and a set of queries (see text). The 3 × 3 window that provides detail in this figure is fixed in space and the catchment raster, Cat, is shifted underneath this fixed position to produce Catʹ. However, this 3 × 3 window does not exist when the process is implemented. Instead, shifting and subsequent queries and mathematical operations are conducted on the entire raster data set at once to improve efficiency and to make implementation easier with existing geographic information system tools.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/312e6d7291d8/nihms971804f4.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/312e6d7291d8/nihms971804f4.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/312e6d7291d8/nihms971804f4.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/312e6d7291d8/nihms971804f4.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F4",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/312e6d7291d8/nihms971804f4.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC6020677/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/312e6d7291d8/nihms971804f4.jpg"
+    },
+    "figure_3": {
+      "figure_number": "Figure 3",
+      "title": "Fig. 5.",
+      "caption": "Plot of LakeCat vs 2007 National Lake Assessment (NLA) estimates of the % lake watersheds consisting of cropland (2006 National Land Cover Dataset).",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/29be12277714/nihms971804f5.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/29be12277714/nihms971804f5.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/29be12277714/nihms971804f5.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/29be12277714/nihms971804f5.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F5",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/29be12277714/nihms971804f5.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC6020677/images/figure_3.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/29be12277714/nihms971804f5.jpg"
+    },
+    "figure_4": {
+      "figure_number": "Figure 4",
+      "title": "Fig. 6.",
+      "caption": "A.—A binary classification of lake samples into eutrophic and noneutrophic conditions based on chlorophyll a concentrations. The USEPA used a criterion of >7 μg/L to designate lakes as eutrophic (USEPA 2017). B.—Predicted probabilities of lake eutrophication [Pr(Eutrophication)] based on a random forest model that used LakeCat metrics as predictor variables. The map represents each lake as a single point. Black points are lakes that were excluded from the National Lakes Assessment sampling frame (see text).",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/0f5e1b523277/nihms971804f6.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/0f5e1b523277/nihms971804f6.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/0f5e1b523277/nihms971804f6.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/0f5e1b523277/nihms971804f6.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F6",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/0f5e1b523277/nihms971804f6.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC6020677/images/figure_4.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/0f5e1b523277/nihms971804f6.jpg"
+    },
+    "figure_5": {
+      "figure_number": "Figure 5",
+      "title": "Fig. 7.",
+      "caption": "Top 10 variables ranked by their importance to the model (mean decrease in model accuracy). PctAg2011Ws = % of the watershed consisting of agriculture (cropland and hay classes of 2011 National Land Cover Dataset); Pestic97Cat and Pestic97Ws = mean 1997 pesticide use (kg/km2) within catchment and watershed, respectively; FertCat and FertWs = mean rate of synthetic N fertilizer application to agricultural land (kg N ha–1 y–1) within catchment and watershed, respectively; AgKffactWs = mean erodibility factor (unitless) of soils on agricultural land within the watershed; BFICat and BFIWs = mean of US Geological Survey base-flow raster within catchment and watershed, respectively; PctConif2011Ws = % of the watershed composed of coniferous forest (2011 NLCD); CBNFWs = mean rate of biological N2 fixation from the cultivation of crops (kg N ha–1 y–1) within the watershed.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/015520925371/nihms971804f7.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/015520925371/nihms971804f7.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/015520925371/nihms971804f7.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/015520925371/nihms971804f7.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F7",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/015520925371/nihms971804f7.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC6020677/images/figure_5.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f300/6020677/015520925371/nihms971804f7.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "Through our process, we were able to calculate and provide metrics for 378,088 lakes (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "About ⅓ of these lakes (125,993) intersect with line features that represent the national stream network of the medium-resolution NHD (on-network lakes; e.g., Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The remaining 252,095 lakes are geographically isolated from NHD stream lines (off-network lakes; Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Red lakes (n = 252,095) are geographically isolated from stream lines and are designated as ‘off-network’ lakes within LakeCat.Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "OR = Oregon.Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Thus, lake 7 is directly and indirectly connected to lakes 1, 4, 5, and 6 and the aggregation of these catchments is its watershed.On-network lakes\nEach on-network lake intersects with ≥1 NHDPlusV2 stream lines (blue lines in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These smaller units are called catchments in the NHDPlusV2 and StreamCat (black polygons in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the red area in Fig. 2 is the aggregation of all upstream catchments of Marion Lake, Oregon.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "On-network lakes can have several catchments that feed directly into a lake, such as Marion Lake in Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, all catchments that overlap with Marion Lake in Fig. 2 are aggregated and reported as the local catchment for this lake (i.e., black stippled area).Off-network lakes\nTo maintain consistency with the terminology used in the NHDPlusV2 and StreamCat, we also called areas that were hydrologically connected to off-network lakes catchments (i.e., colored areas surrounding lakes 1–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, catchments 1, 4, 5, and 6 contribute flow directly and indirectly to lake-catchment 7, and the integration of these catchments represent its full watershed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For off-network lakes, we delineated the local contributing areas for each, excluding nested contributions from upslope lakes (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "We hydrologically linked these catchments to produce watershed metrics for each off-network lake (see Linking off-network lake catchments below).Generating off-network lake catchments\nTo delineate catchments of off-network lakes, we first converted lake polygons to GIS rasters, where the values of lake pixels were their numerical identifiers (unique identifiers [IDs] called COMIDs) in the NHDPlusV2 (numbered polygons in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For lakes with no additional upslope lakes (i.e., a headwater lake), a catchment and watershed are the same geographic unit (e.g., lakes 1–4 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For a series of hydrologically connected lakes, this delineation process results in a series of nested catchments, where the border of the downslope lake’s catchment ends at the initiation of the next upslope lake’s catchment, usually at the edge of the upslope lake itself (e.g., lakes 1, 4–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, catchments 1 to 4 in Fig. 3 are headwater catchments and are listed in rows of the TO column and have FROM-column values of 0, i.e., 0 in the FROM column denotes headwater catchments.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Catchments 2 and 3 in Fig. 3 do not connect hydrologically to any downslope lakes and eventually flow to the nearby stream segment (arrows indicate hydrologic connections in Fig. 3), Thus, catchments 2 and 3 are listed in the TO column but are absent from the FROM column.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, we depict lakes and catchments as sharing unique IDs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "To illustrate our approach, we provide the steps used to determine that catchments 6 and 7 in Fig. 3 have a south-to-north flow connection in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The process to connect these catchments was as follows:\n\n\nShift the catchment raster (Cat) southward by 1 pixel (shifted raster = Catʹ in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the entire raster Cat is shifted southward to produce Catʹ, but only the area under the fixed 3 × 3 window is depicted in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a logical query to identify where Cat ≠ Catʹ and set the output raster (Query1) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a 2nd logical query to identify values in the flow direction raster that indicate northward flow (ESRI flow-direction rasters use value = 64 to represent northward flow), and set output raster (Query2) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nDiagram of the connection between lakes 6 and 7 from Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Instead, shifting and subsequent queries and mathematical operations are conducted on the entire raster data set at once to improve efficiency and to make implementation easier with existing geographic information system tools.The result of step 4 is a raster (ToCat1) (Fig. 4) with pixels at the northern edge of the south-to-north border that meet the criteria of steps 2 and 3, but now have values of Catʹ rather than Cat.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "In the example of Fig. 3, the accumulation list for lake 7 includes lakes 1, 4, 5, and 6 (Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Likewise, the accumulation list for lake 6 includes only lakes 1, 4, and 5 (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Accumulation lists for lake catchments in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, a regression of the % of the watershed composed of cropland from each data set had an r2 = 0.91 and a slope = 0.96 (Fig. 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Next, we used random forests (Breiman 2001) to model eutrophic and noneutrophic sampling sites as a binary response variable (Fig. 6A) with the randomForest package in R (version 3.4.0) (Liaw and Wiener 2002, R Development Core Team 2017).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "The map of predicted probabilities of eutrophication [Pr(Eutrophication)] showed higher probabilities throughout the midwestern and southeastern states, excluding portions of the southern Appalachian Mountains (Fig. 6B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Metrics of agricultural activity constituted 7 of the top 10 variables when ranked by their contribution to model accuracy (Fig. 7), and larger values of each agricultural metric were positively related to higher Pr(Eutrophication), as we had hypothesized.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In general, the watershed version of each metric (i.e., Ws variables in Fig. 7) ranked higher than its local catchment counterpart (Cat in Fig. 7), indicating the importance of understanding the aggregated watershed context in water-quality management.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Through our process, we were able to calculate and provide metrics for 378,088 lakes (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "About ⅓ of these lakes (125,993) intersect with line features that represent the national stream network of the medium-resolution NHD (on-network lakes; e.g., Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The remaining 252,095 lakes are geographically isolated from NHD stream lines (off-network lakes; Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Red lakes (n = 252,095) are geographically isolated from stream lines and are designated as ‘off-network’ lakes within LakeCat.Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "OR = Oregon.Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Thus, lake 7 is directly and indirectly connected to lakes 1, 4, 5, and 6 and the aggregation of these catchments is its watershed.On-network lakes\nEach on-network lake intersects with ≥1 NHDPlusV2 stream lines (blue lines in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These smaller units are called catchments in the NHDPlusV2 and StreamCat (black polygons in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the red area in Fig. 2 is the aggregation of all upstream catchments of Marion Lake, Oregon.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "On-network lakes can have several catchments that feed directly into a lake, such as Marion Lake in Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, all catchments that overlap with Marion Lake in Fig. 2 are aggregated and reported as the local catchment for this lake (i.e., black stippled area).Off-network lakes\nTo maintain consistency with the terminology used in the NHDPlusV2 and StreamCat, we also called areas that were hydrologically connected to off-network lakes catchments (i.e., colored areas surrounding lakes 1–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, catchments 1, 4, 5, and 6 contribute flow directly and indirectly to lake-catchment 7, and the integration of these catchments represent its full watershed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For off-network lakes, we delineated the local contributing areas for each, excluding nested contributions from upslope lakes (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "We hydrologically linked these catchments to produce watershed metrics for each off-network lake (see Linking off-network lake catchments below).Generating off-network lake catchments\nTo delineate catchments of off-network lakes, we first converted lake polygons to GIS rasters, where the values of lake pixels were their numerical identifiers (unique identifiers [IDs] called COMIDs) in the NHDPlusV2 (numbered polygons in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For lakes with no additional upslope lakes (i.e., a headwater lake), a catchment and watershed are the same geographic unit (e.g., lakes 1–4 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For a series of hydrologically connected lakes, this delineation process results in a series of nested catchments, where the border of the downslope lake’s catchment ends at the initiation of the next upslope lake’s catchment, usually at the edge of the upslope lake itself (e.g., lakes 1, 4–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, catchments 1 to 4 in Fig. 3 are headwater catchments and are listed in rows of the TO column and have FROM-column values of 0, i.e., 0 in the FROM column denotes headwater catchments.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Catchments 2 and 3 in Fig. 3 do not connect hydrologically to any downslope lakes and eventually flow to the nearby stream segment (arrows indicate hydrologic connections in Fig. 3), Thus, catchments 2 and 3 are listed in the TO column but are absent from the FROM column.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, we depict lakes and catchments as sharing unique IDs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "To illustrate our approach, we provide the steps used to determine that catchments 6 and 7 in Fig. 3 have a south-to-north flow connection in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The process to connect these catchments was as follows:\n\n\nShift the catchment raster (Cat) southward by 1 pixel (shifted raster = Catʹ in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the entire raster Cat is shifted southward to produce Catʹ, but only the area under the fixed 3 × 3 window is depicted in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a logical query to identify where Cat ≠ Catʹ and set the output raster (Query1) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a 2nd logical query to identify values in the flow direction raster that indicate northward flow (ESRI flow-direction rasters use value = 64 to represent northward flow), and set output raster (Query2) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nDiagram of the connection between lakes 6 and 7 from Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Instead, shifting and subsequent queries and mathematical operations are conducted on the entire raster data set at once to improve efficiency and to make implementation easier with existing geographic information system tools.The result of step 4 is a raster (ToCat1) (Fig. 4) with pixels at the northern edge of the south-to-north border that meet the criteria of steps 2 and 3, but now have values of Catʹ rather than Cat.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "In the example of Fig. 3, the accumulation list for lake 7 includes lakes 1, 4, 5, and 6 (Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Likewise, the accumulation list for lake 6 includes only lakes 1, 4, and 5 (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Accumulation lists for lake catchments in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, a regression of the % of the watershed composed of cropland from each data set had an r2 = 0.91 and a slope = 0.96 (Fig. 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Next, we used random forests (Breiman 2001) to model eutrophic and noneutrophic sampling sites as a binary response variable (Fig. 6A) with the randomForest package in R (version 3.4.0) (Liaw and Wiener 2002, R Development Core Team 2017).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "The map of predicted probabilities of eutrophication [Pr(Eutrophication)] showed higher probabilities throughout the midwestern and southeastern states, excluding portions of the southern Appalachian Mountains (Fig. 6B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Metrics of agricultural activity constituted 7 of the top 10 variables when ranked by their contribution to model accuracy (Fig. 7), and larger values of each agricultural metric were positively related to higher Pr(Eutrophication), as we had hypothesized.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In general, the watershed version of each metric (i.e., Ws variables in Fig. 7) ranked higher than its local catchment counterpart (Cat in Fig. 7), indicating the importance of understanding the aggregated watershed context in water-quality management.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Through our process, we were able to calculate and provide metrics for 378,088 lakes (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "About ⅓ of these lakes (125,993) intersect with line features that represent the national stream network of the medium-resolution NHD (on-network lakes; e.g., Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The remaining 252,095 lakes are geographically isolated from NHD stream lines (off-network lakes; Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Red lakes (n = 252,095) are geographically isolated from stream lines and are designated as ‘off-network’ lakes within LakeCat.Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "OR = Oregon.Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Thus, lake 7 is directly and indirectly connected to lakes 1, 4, 5, and 6 and the aggregation of these catchments is its watershed.On-network lakes\nEach on-network lake intersects with ≥1 NHDPlusV2 stream lines (blue lines in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These smaller units are called catchments in the NHDPlusV2 and StreamCat (black polygons in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the red area in Fig. 2 is the aggregation of all upstream catchments of Marion Lake, Oregon.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "On-network lakes can have several catchments that feed directly into a lake, such as Marion Lake in Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, all catchments that overlap with Marion Lake in Fig. 2 are aggregated and reported as the local catchment for this lake (i.e., black stippled area).Off-network lakes\nTo maintain consistency with the terminology used in the NHDPlusV2 and StreamCat, we also called areas that were hydrologically connected to off-network lakes catchments (i.e., colored areas surrounding lakes 1–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, catchments 1, 4, 5, and 6 contribute flow directly and indirectly to lake-catchment 7, and the integration of these catchments represent its full watershed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For off-network lakes, we delineated the local contributing areas for each, excluding nested contributions from upslope lakes (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "We hydrologically linked these catchments to produce watershed metrics for each off-network lake (see Linking off-network lake catchments below).Generating off-network lake catchments\nTo delineate catchments of off-network lakes, we first converted lake polygons to GIS rasters, where the values of lake pixels were their numerical identifiers (unique identifiers [IDs] called COMIDs) in the NHDPlusV2 (numbered polygons in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For lakes with no additional upslope lakes (i.e., a headwater lake), a catchment and watershed are the same geographic unit (e.g., lakes 1–4 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For a series of hydrologically connected lakes, this delineation process results in a series of nested catchments, where the border of the downslope lake’s catchment ends at the initiation of the next upslope lake’s catchment, usually at the edge of the upslope lake itself (e.g., lakes 1, 4–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, catchments 1 to 4 in Fig. 3 are headwater catchments and are listed in rows of the TO column and have FROM-column values of 0, i.e., 0 in the FROM column denotes headwater catchments.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Catchments 2 and 3 in Fig. 3 do not connect hydrologically to any downslope lakes and eventually flow to the nearby stream segment (arrows indicate hydrologic connections in Fig. 3), Thus, catchments 2 and 3 are listed in the TO column but are absent from the FROM column.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, we depict lakes and catchments as sharing unique IDs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "To illustrate our approach, we provide the steps used to determine that catchments 6 and 7 in Fig. 3 have a south-to-north flow connection in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The process to connect these catchments was as follows:\n\n\nShift the catchment raster (Cat) southward by 1 pixel (shifted raster = Catʹ in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the entire raster Cat is shifted southward to produce Catʹ, but only the area under the fixed 3 × 3 window is depicted in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a logical query to identify where Cat ≠ Catʹ and set the output raster (Query1) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a 2nd logical query to identify values in the flow direction raster that indicate northward flow (ESRI flow-direction rasters use value = 64 to represent northward flow), and set output raster (Query2) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nDiagram of the connection between lakes 6 and 7 from Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Instead, shifting and subsequent queries and mathematical operations are conducted on the entire raster data set at once to improve efficiency and to make implementation easier with existing geographic information system tools.The result of step 4 is a raster (ToCat1) (Fig. 4) with pixels at the northern edge of the south-to-north border that meet the criteria of steps 2 and 3, but now have values of Catʹ rather than Cat.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "In the example of Fig. 3, the accumulation list for lake 7 includes lakes 1, 4, 5, and 6 (Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Likewise, the accumulation list for lake 6 includes only lakes 1, 4, and 5 (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Accumulation lists for lake catchments in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, a regression of the % of the watershed composed of cropland from each data set had an r2 = 0.91 and a slope = 0.96 (Fig. 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Next, we used random forests (Breiman 2001) to model eutrophic and noneutrophic sampling sites as a binary response variable (Fig. 6A) with the randomForest package in R (version 3.4.0) (Liaw and Wiener 2002, R Development Core Team 2017).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "The map of predicted probabilities of eutrophication [Pr(Eutrophication)] showed higher probabilities throughout the midwestern and southeastern states, excluding portions of the southern Appalachian Mountains (Fig. 6B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Metrics of agricultural activity constituted 7 of the top 10 variables when ranked by their contribution to model accuracy (Fig. 7), and larger values of each agricultural metric were positively related to higher Pr(Eutrophication), as we had hypothesized.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In general, the watershed version of each metric (i.e., Ws variables in Fig. 7) ranked higher than its local catchment counterpart (Cat in Fig. 7), indicating the importance of understanding the aggregated watershed context in water-quality management.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Through our process, we were able to calculate and provide metrics for 378,088 lakes (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "About ⅓ of these lakes (125,993) intersect with line features that represent the national stream network of the medium-resolution NHD (on-network lakes; e.g., Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The remaining 252,095 lakes are geographically isolated from NHD stream lines (off-network lakes; Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Red lakes (n = 252,095) are geographically isolated from stream lines and are designated as ‘off-network’ lakes within LakeCat.Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "OR = Oregon.Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Thus, lake 7 is directly and indirectly connected to lakes 1, 4, 5, and 6 and the aggregation of these catchments is its watershed.On-network lakes\nEach on-network lake intersects with ≥1 NHDPlusV2 stream lines (blue lines in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These smaller units are called catchments in the NHDPlusV2 and StreamCat (black polygons in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the red area in Fig. 2 is the aggregation of all upstream catchments of Marion Lake, Oregon.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "On-network lakes can have several catchments that feed directly into a lake, such as Marion Lake in Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, all catchments that overlap with Marion Lake in Fig. 2 are aggregated and reported as the local catchment for this lake (i.e., black stippled area).Off-network lakes\nTo maintain consistency with the terminology used in the NHDPlusV2 and StreamCat, we also called areas that were hydrologically connected to off-network lakes catchments (i.e., colored areas surrounding lakes 1–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, catchments 1, 4, 5, and 6 contribute flow directly and indirectly to lake-catchment 7, and the integration of these catchments represent its full watershed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For off-network lakes, we delineated the local contributing areas for each, excluding nested contributions from upslope lakes (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "We hydrologically linked these catchments to produce watershed metrics for each off-network lake (see Linking off-network lake catchments below).Generating off-network lake catchments\nTo delineate catchments of off-network lakes, we first converted lake polygons to GIS rasters, where the values of lake pixels were their numerical identifiers (unique identifiers [IDs] called COMIDs) in the NHDPlusV2 (numbered polygons in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For lakes with no additional upslope lakes (i.e., a headwater lake), a catchment and watershed are the same geographic unit (e.g., lakes 1–4 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For a series of hydrologically connected lakes, this delineation process results in a series of nested catchments, where the border of the downslope lake’s catchment ends at the initiation of the next upslope lake’s catchment, usually at the edge of the upslope lake itself (e.g., lakes 1, 4–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, catchments 1 to 4 in Fig. 3 are headwater catchments and are listed in rows of the TO column and have FROM-column values of 0, i.e., 0 in the FROM column denotes headwater catchments.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Catchments 2 and 3 in Fig. 3 do not connect hydrologically to any downslope lakes and eventually flow to the nearby stream segment (arrows indicate hydrologic connections in Fig. 3), Thus, catchments 2 and 3 are listed in the TO column but are absent from the FROM column.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, we depict lakes and catchments as sharing unique IDs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "To illustrate our approach, we provide the steps used to determine that catchments 6 and 7 in Fig. 3 have a south-to-north flow connection in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The process to connect these catchments was as follows:\n\n\nShift the catchment raster (Cat) southward by 1 pixel (shifted raster = Catʹ in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the entire raster Cat is shifted southward to produce Catʹ, but only the area under the fixed 3 × 3 window is depicted in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a logical query to identify where Cat ≠ Catʹ and set the output raster (Query1) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a 2nd logical query to identify values in the flow direction raster that indicate northward flow (ESRI flow-direction rasters use value = 64 to represent northward flow), and set output raster (Query2) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nDiagram of the connection between lakes 6 and 7 from Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Instead, shifting and subsequent queries and mathematical operations are conducted on the entire raster data set at once to improve efficiency and to make implementation easier with existing geographic information system tools.The result of step 4 is a raster (ToCat1) (Fig. 4) with pixels at the northern edge of the south-to-north border that meet the criteria of steps 2 and 3, but now have values of Catʹ rather than Cat.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "In the example of Fig. 3, the accumulation list for lake 7 includes lakes 1, 4, 5, and 6 (Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Likewise, the accumulation list for lake 6 includes only lakes 1, 4, and 5 (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Accumulation lists for lake catchments in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, a regression of the % of the watershed composed of cropland from each data set had an r2 = 0.91 and a slope = 0.96 (Fig. 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Next, we used random forests (Breiman 2001) to model eutrophic and noneutrophic sampling sites as a binary response variable (Fig. 6A) with the randomForest package in R (version 3.4.0) (Liaw and Wiener 2002, R Development Core Team 2017).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "The map of predicted probabilities of eutrophication [Pr(Eutrophication)] showed higher probabilities throughout the midwestern and southeastern states, excluding portions of the southern Appalachian Mountains (Fig. 6B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Metrics of agricultural activity constituted 7 of the top 10 variables when ranked by their contribution to model accuracy (Fig. 7), and larger values of each agricultural metric were positively related to higher Pr(Eutrophication), as we had hypothesized.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In general, the watershed version of each metric (i.e., Ws variables in Fig. 7) ranked higher than its local catchment counterpart (Cat in Fig. 7), indicating the importance of understanding the aggregated watershed context in water-quality management.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Through our process, we were able to calculate and provide metrics for 378,088 lakes (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "About ⅓ of these lakes (125,993) intersect with line features that represent the national stream network of the medium-resolution NHD (on-network lakes; e.g., Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The remaining 252,095 lakes are geographically isolated from NHD stream lines (off-network lakes; Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Red lakes (n = 252,095) are geographically isolated from stream lines and are designated as ‘off-network’ lakes within LakeCat.Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "OR = Oregon.Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Thus, lake 7 is directly and indirectly connected to lakes 1, 4, 5, and 6 and the aggregation of these catchments is its watershed.On-network lakes\nEach on-network lake intersects with ≥1 NHDPlusV2 stream lines (blue lines in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These smaller units are called catchments in the NHDPlusV2 and StreamCat (black polygons in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the red area in Fig. 2 is the aggregation of all upstream catchments of Marion Lake, Oregon.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "On-network lakes can have several catchments that feed directly into a lake, such as Marion Lake in Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, all catchments that overlap with Marion Lake in Fig. 2 are aggregated and reported as the local catchment for this lake (i.e., black stippled area).Off-network lakes\nTo maintain consistency with the terminology used in the NHDPlusV2 and StreamCat, we also called areas that were hydrologically connected to off-network lakes catchments (i.e., colored areas surrounding lakes 1–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, catchments 1, 4, 5, and 6 contribute flow directly and indirectly to lake-catchment 7, and the integration of these catchments represent its full watershed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For off-network lakes, we delineated the local contributing areas for each, excluding nested contributions from upslope lakes (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "We hydrologically linked these catchments to produce watershed metrics for each off-network lake (see Linking off-network lake catchments below).Generating off-network lake catchments\nTo delineate catchments of off-network lakes, we first converted lake polygons to GIS rasters, where the values of lake pixels were their numerical identifiers (unique identifiers [IDs] called COMIDs) in the NHDPlusV2 (numbered polygons in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For lakes with no additional upslope lakes (i.e., a headwater lake), a catchment and watershed are the same geographic unit (e.g., lakes 1–4 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For a series of hydrologically connected lakes, this delineation process results in a series of nested catchments, where the border of the downslope lake’s catchment ends at the initiation of the next upslope lake’s catchment, usually at the edge of the upslope lake itself (e.g., lakes 1, 4–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, catchments 1 to 4 in Fig. 3 are headwater catchments and are listed in rows of the TO column and have FROM-column values of 0, i.e., 0 in the FROM column denotes headwater catchments.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Catchments 2 and 3 in Fig. 3 do not connect hydrologically to any downslope lakes and eventually flow to the nearby stream segment (arrows indicate hydrologic connections in Fig. 3), Thus, catchments 2 and 3 are listed in the TO column but are absent from the FROM column.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, we depict lakes and catchments as sharing unique IDs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "To illustrate our approach, we provide the steps used to determine that catchments 6 and 7 in Fig. 3 have a south-to-north flow connection in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The process to connect these catchments was as follows:\n\n\nShift the catchment raster (Cat) southward by 1 pixel (shifted raster = Catʹ in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the entire raster Cat is shifted southward to produce Catʹ, but only the area under the fixed 3 × 3 window is depicted in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a logical query to identify where Cat ≠ Catʹ and set the output raster (Query1) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a 2nd logical query to identify values in the flow direction raster that indicate northward flow (ESRI flow-direction rasters use value = 64 to represent northward flow), and set output raster (Query2) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nDiagram of the connection between lakes 6 and 7 from Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Instead, shifting and subsequent queries and mathematical operations are conducted on the entire raster data set at once to improve efficiency and to make implementation easier with existing geographic information system tools.The result of step 4 is a raster (ToCat1) (Fig. 4) with pixels at the northern edge of the south-to-north border that meet the criteria of steps 2 and 3, but now have values of Catʹ rather than Cat.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "In the example of Fig. 3, the accumulation list for lake 7 includes lakes 1, 4, 5, and 6 (Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Likewise, the accumulation list for lake 6 includes only lakes 1, 4, and 5 (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Accumulation lists for lake catchments in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, a regression of the % of the watershed composed of cropland from each data set had an r2 = 0.91 and a slope = 0.96 (Fig. 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Next, we used random forests (Breiman 2001) to model eutrophic and noneutrophic sampling sites as a binary response variable (Fig. 6A) with the randomForest package in R (version 3.4.0) (Liaw and Wiener 2002, R Development Core Team 2017).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "The map of predicted probabilities of eutrophication [Pr(Eutrophication)] showed higher probabilities throughout the midwestern and southeastern states, excluding portions of the southern Appalachian Mountains (Fig. 6B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Metrics of agricultural activity constituted 7 of the top 10 variables when ranked by their contribution to model accuracy (Fig. 7), and larger values of each agricultural metric were positively related to higher Pr(Eutrophication), as we had hypothesized.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In general, the watershed version of each metric (i.e., Ws variables in Fig. 7) ranked higher than its local catchment counterpart (Cat in Fig. 7), indicating the importance of understanding the aggregated watershed context in water-quality management.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Through our process, we were able to calculate and provide metrics for 378,088 lakes (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "About ⅓ of these lakes (125,993) intersect with line features that represent the national stream network of the medium-resolution NHD (on-network lakes; e.g., Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The remaining 252,095 lakes are geographically isolated from NHD stream lines (off-network lakes; Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Red lakes (n = 252,095) are geographically isolated from stream lines and are designated as ‘off-network’ lakes within LakeCat.Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "OR = Oregon.Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Thus, lake 7 is directly and indirectly connected to lakes 1, 4, 5, and 6 and the aggregation of these catchments is its watershed.On-network lakes\nEach on-network lake intersects with ≥1 NHDPlusV2 stream lines (blue lines in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These smaller units are called catchments in the NHDPlusV2 and StreamCat (black polygons in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the red area in Fig. 2 is the aggregation of all upstream catchments of Marion Lake, Oregon.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "On-network lakes can have several catchments that feed directly into a lake, such as Marion Lake in Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, all catchments that overlap with Marion Lake in Fig. 2 are aggregated and reported as the local catchment for this lake (i.e., black stippled area).Off-network lakes\nTo maintain consistency with the terminology used in the NHDPlusV2 and StreamCat, we also called areas that were hydrologically connected to off-network lakes catchments (i.e., colored areas surrounding lakes 1–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, catchments 1, 4, 5, and 6 contribute flow directly and indirectly to lake-catchment 7, and the integration of these catchments represent its full watershed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For off-network lakes, we delineated the local contributing areas for each, excluding nested contributions from upslope lakes (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "We hydrologically linked these catchments to produce watershed metrics for each off-network lake (see Linking off-network lake catchments below).Generating off-network lake catchments\nTo delineate catchments of off-network lakes, we first converted lake polygons to GIS rasters, where the values of lake pixels were their numerical identifiers (unique identifiers [IDs] called COMIDs) in the NHDPlusV2 (numbered polygons in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For lakes with no additional upslope lakes (i.e., a headwater lake), a catchment and watershed are the same geographic unit (e.g., lakes 1–4 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For a series of hydrologically connected lakes, this delineation process results in a series of nested catchments, where the border of the downslope lake’s catchment ends at the initiation of the next upslope lake’s catchment, usually at the edge of the upslope lake itself (e.g., lakes 1, 4–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, catchments 1 to 4 in Fig. 3 are headwater catchments and are listed in rows of the TO column and have FROM-column values of 0, i.e., 0 in the FROM column denotes headwater catchments.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Catchments 2 and 3 in Fig. 3 do not connect hydrologically to any downslope lakes and eventually flow to the nearby stream segment (arrows indicate hydrologic connections in Fig. 3), Thus, catchments 2 and 3 are listed in the TO column but are absent from the FROM column.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, we depict lakes and catchments as sharing unique IDs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "To illustrate our approach, we provide the steps used to determine that catchments 6 and 7 in Fig. 3 have a south-to-north flow connection in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The process to connect these catchments was as follows:\n\n\nShift the catchment raster (Cat) southward by 1 pixel (shifted raster = Catʹ in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the entire raster Cat is shifted southward to produce Catʹ, but only the area under the fixed 3 × 3 window is depicted in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a logical query to identify where Cat ≠ Catʹ and set the output raster (Query1) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a 2nd logical query to identify values in the flow direction raster that indicate northward flow (ESRI flow-direction rasters use value = 64 to represent northward flow), and set output raster (Query2) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nDiagram of the connection between lakes 6 and 7 from Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Instead, shifting and subsequent queries and mathematical operations are conducted on the entire raster data set at once to improve efficiency and to make implementation easier with existing geographic information system tools.The result of step 4 is a raster (ToCat1) (Fig. 4) with pixels at the northern edge of the south-to-north border that meet the criteria of steps 2 and 3, but now have values of Catʹ rather than Cat.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "In the example of Fig. 3, the accumulation list for lake 7 includes lakes 1, 4, 5, and 6 (Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Likewise, the accumulation list for lake 6 includes only lakes 1, 4, and 5 (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Accumulation lists for lake catchments in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, a regression of the % of the watershed composed of cropland from each data set had an r2 = 0.91 and a slope = 0.96 (Fig. 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Next, we used random forests (Breiman 2001) to model eutrophic and noneutrophic sampling sites as a binary response variable (Fig. 6A) with the randomForest package in R (version 3.4.0) (Liaw and Wiener 2002, R Development Core Team 2017).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "The map of predicted probabilities of eutrophication [Pr(Eutrophication)] showed higher probabilities throughout the midwestern and southeastern states, excluding portions of the southern Appalachian Mountains (Fig. 6B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Metrics of agricultural activity constituted 7 of the top 10 variables when ranked by their contribution to model accuracy (Fig. 7), and larger values of each agricultural metric were positively related to higher Pr(Eutrophication), as we had hypothesized.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In general, the watershed version of each metric (i.e., Ws variables in Fig. 7) ranked higher than its local catchment counterpart (Cat in Fig. 7), indicating the importance of understanding the aggregated watershed context in water-quality management.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Through our process, we were able to calculate and provide metrics for 378,088 lakes (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "About ⅓ of these lakes (125,993) intersect with line features that represent the national stream network of the medium-resolution NHD (on-network lakes; e.g., Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The remaining 252,095 lakes are geographically isolated from NHD stream lines (off-network lakes; Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Red lakes (n = 252,095) are geographically isolated from stream lines and are designated as ‘off-network’ lakes within LakeCat.Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "OR = Oregon.Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Thus, lake 7 is directly and indirectly connected to lakes 1, 4, 5, and 6 and the aggregation of these catchments is its watershed.On-network lakes\nEach on-network lake intersects with ≥1 NHDPlusV2 stream lines (blue lines in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These smaller units are called catchments in the NHDPlusV2 and StreamCat (black polygons in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the red area in Fig. 2 is the aggregation of all upstream catchments of Marion Lake, Oregon.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "On-network lakes can have several catchments that feed directly into a lake, such as Marion Lake in Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, all catchments that overlap with Marion Lake in Fig. 2 are aggregated and reported as the local catchment for this lake (i.e., black stippled area).Off-network lakes\nTo maintain consistency with the terminology used in the NHDPlusV2 and StreamCat, we also called areas that were hydrologically connected to off-network lakes catchments (i.e., colored areas surrounding lakes 1–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, catchments 1, 4, 5, and 6 contribute flow directly and indirectly to lake-catchment 7, and the integration of these catchments represent its full watershed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For off-network lakes, we delineated the local contributing areas for each, excluding nested contributions from upslope lakes (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "We hydrologically linked these catchments to produce watershed metrics for each off-network lake (see Linking off-network lake catchments below).Generating off-network lake catchments\nTo delineate catchments of off-network lakes, we first converted lake polygons to GIS rasters, where the values of lake pixels were their numerical identifiers (unique identifiers [IDs] called COMIDs) in the NHDPlusV2 (numbered polygons in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For lakes with no additional upslope lakes (i.e., a headwater lake), a catchment and watershed are the same geographic unit (e.g., lakes 1–4 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For a series of hydrologically connected lakes, this delineation process results in a series of nested catchments, where the border of the downslope lake’s catchment ends at the initiation of the next upslope lake’s catchment, usually at the edge of the upslope lake itself (e.g., lakes 1, 4–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, catchments 1 to 4 in Fig. 3 are headwater catchments and are listed in rows of the TO column and have FROM-column values of 0, i.e., 0 in the FROM column denotes headwater catchments.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Catchments 2 and 3 in Fig. 3 do not connect hydrologically to any downslope lakes and eventually flow to the nearby stream segment (arrows indicate hydrologic connections in Fig. 3), Thus, catchments 2 and 3 are listed in the TO column but are absent from the FROM column.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, we depict lakes and catchments as sharing unique IDs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "To illustrate our approach, we provide the steps used to determine that catchments 6 and 7 in Fig. 3 have a south-to-north flow connection in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The process to connect these catchments was as follows:\n\n\nShift the catchment raster (Cat) southward by 1 pixel (shifted raster = Catʹ in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the entire raster Cat is shifted southward to produce Catʹ, but only the area under the fixed 3 × 3 window is depicted in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a logical query to identify where Cat ≠ Catʹ and set the output raster (Query1) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a 2nd logical query to identify values in the flow direction raster that indicate northward flow (ESRI flow-direction rasters use value = 64 to represent northward flow), and set output raster (Query2) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nDiagram of the connection between lakes 6 and 7 from Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Instead, shifting and subsequent queries and mathematical operations are conducted on the entire raster data set at once to improve efficiency and to make implementation easier with existing geographic information system tools.The result of step 4 is a raster (ToCat1) (Fig. 4) with pixels at the northern edge of the south-to-north border that meet the criteria of steps 2 and 3, but now have values of Catʹ rather than Cat.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "In the example of Fig. 3, the accumulation list for lake 7 includes lakes 1, 4, 5, and 6 (Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Likewise, the accumulation list for lake 6 includes only lakes 1, 4, and 5 (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Accumulation lists for lake catchments in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, a regression of the % of the watershed composed of cropland from each data set had an r2 = 0.91 and a slope = 0.96 (Fig. 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Next, we used random forests (Breiman 2001) to model eutrophic and noneutrophic sampling sites as a binary response variable (Fig. 6A) with the randomForest package in R (version 3.4.0) (Liaw and Wiener 2002, R Development Core Team 2017).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "The map of predicted probabilities of eutrophication [Pr(Eutrophication)] showed higher probabilities throughout the midwestern and southeastern states, excluding portions of the southern Appalachian Mountains (Fig. 6B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Metrics of agricultural activity constituted 7 of the top 10 variables when ranked by their contribution to model accuracy (Fig. 7), and larger values of each agricultural metric were positively related to higher Pr(Eutrophication), as we had hypothesized.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In general, the watershed version of each metric (i.e., Ws variables in Fig. 7) ranked higher than its local catchment counterpart (Cat in Fig. 7), indicating the importance of understanding the aggregated watershed context in water-quality management.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Through our process, we were able to calculate and provide metrics for 378,088 lakes (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "About ⅓ of these lakes (125,993) intersect with line features that represent the national stream network of the medium-resolution NHD (on-network lakes; e.g., Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The remaining 252,095 lakes are geographically isolated from NHD stream lines (off-network lakes; Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Red lakes (n = 252,095) are geographically isolated from stream lines and are designated as ‘off-network’ lakes within LakeCat.Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "OR = Oregon.Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Thus, lake 7 is directly and indirectly connected to lakes 1, 4, 5, and 6 and the aggregation of these catchments is its watershed.On-network lakes\nEach on-network lake intersects with ≥1 NHDPlusV2 stream lines (blue lines in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These smaller units are called catchments in the NHDPlusV2 and StreamCat (black polygons in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the red area in Fig. 2 is the aggregation of all upstream catchments of Marion Lake, Oregon.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "On-network lakes can have several catchments that feed directly into a lake, such as Marion Lake in Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, all catchments that overlap with Marion Lake in Fig. 2 are aggregated and reported as the local catchment for this lake (i.e., black stippled area).Off-network lakes\nTo maintain consistency with the terminology used in the NHDPlusV2 and StreamCat, we also called areas that were hydrologically connected to off-network lakes catchments (i.e., colored areas surrounding lakes 1–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, catchments 1, 4, 5, and 6 contribute flow directly and indirectly to lake-catchment 7, and the integration of these catchments represent its full watershed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For off-network lakes, we delineated the local contributing areas for each, excluding nested contributions from upslope lakes (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "We hydrologically linked these catchments to produce watershed metrics for each off-network lake (see Linking off-network lake catchments below).Generating off-network lake catchments\nTo delineate catchments of off-network lakes, we first converted lake polygons to GIS rasters, where the values of lake pixels were their numerical identifiers (unique identifiers [IDs] called COMIDs) in the NHDPlusV2 (numbered polygons in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For lakes with no additional upslope lakes (i.e., a headwater lake), a catchment and watershed are the same geographic unit (e.g., lakes 1–4 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For a series of hydrologically connected lakes, this delineation process results in a series of nested catchments, where the border of the downslope lake’s catchment ends at the initiation of the next upslope lake’s catchment, usually at the edge of the upslope lake itself (e.g., lakes 1, 4–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, catchments 1 to 4 in Fig. 3 are headwater catchments and are listed in rows of the TO column and have FROM-column values of 0, i.e., 0 in the FROM column denotes headwater catchments.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Catchments 2 and 3 in Fig. 3 do not connect hydrologically to any downslope lakes and eventually flow to the nearby stream segment (arrows indicate hydrologic connections in Fig. 3), Thus, catchments 2 and 3 are listed in the TO column but are absent from the FROM column.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, we depict lakes and catchments as sharing unique IDs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "To illustrate our approach, we provide the steps used to determine that catchments 6 and 7 in Fig. 3 have a south-to-north flow connection in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The process to connect these catchments was as follows:\n\n\nShift the catchment raster (Cat) southward by 1 pixel (shifted raster = Catʹ in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the entire raster Cat is shifted southward to produce Catʹ, but only the area under the fixed 3 × 3 window is depicted in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a logical query to identify where Cat ≠ Catʹ and set the output raster (Query1) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a 2nd logical query to identify values in the flow direction raster that indicate northward flow (ESRI flow-direction rasters use value = 64 to represent northward flow), and set output raster (Query2) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nDiagram of the connection between lakes 6 and 7 from Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Instead, shifting and subsequent queries and mathematical operations are conducted on the entire raster data set at once to improve efficiency and to make implementation easier with existing geographic information system tools.The result of step 4 is a raster (ToCat1) (Fig. 4) with pixels at the northern edge of the south-to-north border that meet the criteria of steps 2 and 3, but now have values of Catʹ rather than Cat.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "In the example of Fig. 3, the accumulation list for lake 7 includes lakes 1, 4, 5, and 6 (Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Likewise, the accumulation list for lake 6 includes only lakes 1, 4, and 5 (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Accumulation lists for lake catchments in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, a regression of the % of the watershed composed of cropland from each data set had an r2 = 0.91 and a slope = 0.96 (Fig. 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Next, we used random forests (Breiman 2001) to model eutrophic and noneutrophic sampling sites as a binary response variable (Fig. 6A) with the randomForest package in R (version 3.4.0) (Liaw and Wiener 2002, R Development Core Team 2017).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "The map of predicted probabilities of eutrophication [Pr(Eutrophication)] showed higher probabilities throughout the midwestern and southeastern states, excluding portions of the southern Appalachian Mountains (Fig. 6B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Metrics of agricultural activity constituted 7 of the top 10 variables when ranked by their contribution to model accuracy (Fig. 7), and larger values of each agricultural metric were positively related to higher Pr(Eutrophication), as we had hypothesized.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In general, the watershed version of each metric (i.e., Ws variables in Fig. 7) ranked higher than its local catchment counterpart (Cat in Fig. 7), indicating the importance of understanding the aggregated watershed context in water-quality management.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Through our process, we were able to calculate and provide metrics for 378,088 lakes (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "About ⅓ of these lakes (125,993) intersect with line features that represent the national stream network of the medium-resolution NHD (on-network lakes; e.g., Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The remaining 252,095 lakes are geographically isolated from NHD stream lines (off-network lakes; Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Red lakes (n = 252,095) are geographically isolated from stream lines and are designated as ‘off-network’ lakes within LakeCat.Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "OR = Oregon.Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Thus, lake 7 is directly and indirectly connected to lakes 1, 4, 5, and 6 and the aggregation of these catchments is its watershed.On-network lakes\nEach on-network lake intersects with ≥1 NHDPlusV2 stream lines (blue lines in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These smaller units are called catchments in the NHDPlusV2 and StreamCat (black polygons in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the red area in Fig. 2 is the aggregation of all upstream catchments of Marion Lake, Oregon.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "On-network lakes can have several catchments that feed directly into a lake, such as Marion Lake in Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, all catchments that overlap with Marion Lake in Fig. 2 are aggregated and reported as the local catchment for this lake (i.e., black stippled area).Off-network lakes\nTo maintain consistency with the terminology used in the NHDPlusV2 and StreamCat, we also called areas that were hydrologically connected to off-network lakes catchments (i.e., colored areas surrounding lakes 1–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, catchments 1, 4, 5, and 6 contribute flow directly and indirectly to lake-catchment 7, and the integration of these catchments represent its full watershed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For off-network lakes, we delineated the local contributing areas for each, excluding nested contributions from upslope lakes (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "We hydrologically linked these catchments to produce watershed metrics for each off-network lake (see Linking off-network lake catchments below).Generating off-network lake catchments\nTo delineate catchments of off-network lakes, we first converted lake polygons to GIS rasters, where the values of lake pixels were their numerical identifiers (unique identifiers [IDs] called COMIDs) in the NHDPlusV2 (numbered polygons in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For lakes with no additional upslope lakes (i.e., a headwater lake), a catchment and watershed are the same geographic unit (e.g., lakes 1–4 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For a series of hydrologically connected lakes, this delineation process results in a series of nested catchments, where the border of the downslope lake’s catchment ends at the initiation of the next upslope lake’s catchment, usually at the edge of the upslope lake itself (e.g., lakes 1, 4–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, catchments 1 to 4 in Fig. 3 are headwater catchments and are listed in rows of the TO column and have FROM-column values of 0, i.e., 0 in the FROM column denotes headwater catchments.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Catchments 2 and 3 in Fig. 3 do not connect hydrologically to any downslope lakes and eventually flow to the nearby stream segment (arrows indicate hydrologic connections in Fig. 3), Thus, catchments 2 and 3 are listed in the TO column but are absent from the FROM column.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, we depict lakes and catchments as sharing unique IDs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "To illustrate our approach, we provide the steps used to determine that catchments 6 and 7 in Fig. 3 have a south-to-north flow connection in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The process to connect these catchments was as follows:\n\n\nShift the catchment raster (Cat) southward by 1 pixel (shifted raster = Catʹ in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the entire raster Cat is shifted southward to produce Catʹ, but only the area under the fixed 3 × 3 window is depicted in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a logical query to identify where Cat ≠ Catʹ and set the output raster (Query1) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a 2nd logical query to identify values in the flow direction raster that indicate northward flow (ESRI flow-direction rasters use value = 64 to represent northward flow), and set output raster (Query2) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nDiagram of the connection between lakes 6 and 7 from Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Instead, shifting and subsequent queries and mathematical operations are conducted on the entire raster data set at once to improve efficiency and to make implementation easier with existing geographic information system tools.The result of step 4 is a raster (ToCat1) (Fig. 4) with pixels at the northern edge of the south-to-north border that meet the criteria of steps 2 and 3, but now have values of Catʹ rather than Cat.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "In the example of Fig. 3, the accumulation list for lake 7 includes lakes 1, 4, 5, and 6 (Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Likewise, the accumulation list for lake 6 includes only lakes 1, 4, and 5 (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Accumulation lists for lake catchments in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, a regression of the % of the watershed composed of cropland from each data set had an r2 = 0.91 and a slope = 0.96 (Fig. 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Through our process, we were able to calculate and provide metrics for 378,088 lakes (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "About ⅓ of these lakes (125,993) intersect with line features that represent the national stream network of the medium-resolution NHD (on-network lakes; e.g., Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The remaining 252,095 lakes are geographically isolated from NHD stream lines (off-network lakes; Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Red lakes (n = 252,095) are geographically isolated from stream lines and are designated as ‘off-network’ lakes within LakeCat.Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "OR = Oregon.Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Thus, lake 7 is directly and indirectly connected to lakes 1, 4, 5, and 6 and the aggregation of these catchments is its watershed.On-network lakes\nEach on-network lake intersects with ≥1 NHDPlusV2 stream lines (blue lines in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These smaller units are called catchments in the NHDPlusV2 and StreamCat (black polygons in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the red area in Fig. 2 is the aggregation of all upstream catchments of Marion Lake, Oregon.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "On-network lakes can have several catchments that feed directly into a lake, such as Marion Lake in Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, all catchments that overlap with Marion Lake in Fig. 2 are aggregated and reported as the local catchment for this lake (i.e., black stippled area).Off-network lakes\nTo maintain consistency with the terminology used in the NHDPlusV2 and StreamCat, we also called areas that were hydrologically connected to off-network lakes catchments (i.e., colored areas surrounding lakes 1–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, catchments 1, 4, 5, and 6 contribute flow directly and indirectly to lake-catchment 7, and the integration of these catchments represent its full watershed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For off-network lakes, we delineated the local contributing areas for each, excluding nested contributions from upslope lakes (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Through our process, we were able to calculate and provide metrics for 378,088 lakes (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "About ⅓ of these lakes (125,993) intersect with line features that represent the national stream network of the medium-resolution NHD (on-network lakes; e.g., Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The remaining 252,095 lakes are geographically isolated from NHD stream lines (off-network lakes; Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "On-network lakes\nEach on-network lake intersects with ≥1 NHDPlusV2 stream lines (blue lines in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These smaller units are called catchments in the NHDPlusV2 and StreamCat (black polygons in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the red area in Fig. 2 is the aggregation of all upstream catchments of Marion Lake, Oregon.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "On-network lakes can have several catchments that feed directly into a lake, such as Marion Lake in Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, all catchments that overlap with Marion Lake in Fig. 2 are aggregated and reported as the local catchment for this lake (i.e., black stippled area).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Each on-network lake intersects with ≥1 NHDPlusV2 stream lines (blue lines in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "These smaller units are called catchments in the NHDPlusV2 and StreamCat (black polygons in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, the red area in Fig. 2 is the aggregation of all upstream catchments of Marion Lake, Oregon.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "On-network lakes can have several catchments that feed directly into a lake, such as Marion Lake in Fig. 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, all catchments that overlap with Marion Lake in Fig. 2 are aggregated and reported as the local catchment for this lake (i.e., black stippled area).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Off-network lakes\nTo maintain consistency with the terminology used in the NHDPlusV2 and StreamCat, we also called areas that were hydrologically connected to off-network lakes catchments (i.e., colored areas surrounding lakes 1–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, catchments 1, 4, 5, and 6 contribute flow directly and indirectly to lake-catchment 7, and the integration of these catchments represent its full watershed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For off-network lakes, we delineated the local contributing areas for each, excluding nested contributions from upslope lakes (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "To maintain consistency with the terminology used in the NHDPlusV2 and StreamCat, we also called areas that were hydrologically connected to off-network lakes catchments (i.e., colored areas surrounding lakes 1–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, catchments 1, 4, 5, and 6 contribute flow directly and indirectly to lake-catchment 7, and the integration of these catchments represent its full watershed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For off-network lakes, we delineated the local contributing areas for each, excluding nested contributions from upslope lakes (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Generating off-network lake catchments\nTo delineate catchments of off-network lakes, we first converted lake polygons to GIS rasters, where the values of lake pixels were their numerical identifiers (unique identifiers [IDs] called COMIDs) in the NHDPlusV2 (numbered polygons in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For lakes with no additional upslope lakes (i.e., a headwater lake), a catchment and watershed are the same geographic unit (e.g., lakes 1–4 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For a series of hydrologically connected lakes, this delineation process results in a series of nested catchments, where the border of the downslope lake’s catchment ends at the initiation of the next upslope lake’s catchment, usually at the edge of the upslope lake itself (e.g., lakes 1, 4–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "To delineate catchments of off-network lakes, we first converted lake polygons to GIS rasters, where the values of lake pixels were their numerical identifiers (unique identifiers [IDs] called COMIDs) in the NHDPlusV2 (numbered polygons in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For lakes with no additional upslope lakes (i.e., a headwater lake), a catchment and watershed are the same geographic unit (e.g., lakes 1–4 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For a series of hydrologically connected lakes, this delineation process results in a series of nested catchments, where the border of the downslope lake’s catchment ends at the initiation of the next upslope lake’s catchment, usually at the edge of the upslope lake itself (e.g., lakes 1, 4–7 in Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, catchments 1 to 4 in Fig. 3 are headwater catchments and are listed in rows of the TO column and have FROM-column values of 0, i.e., 0 in the FROM column denotes headwater catchments.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Catchments 2 and 3 in Fig. 3 do not connect hydrologically to any downslope lakes and eventually flow to the nearby stream segment (arrows indicate hydrologic connections in Fig. 3), Thus, catchments 2 and 3 are listed in the TO column but are absent from the FROM column.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, we depict lakes and catchments as sharing unique IDs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "To illustrate our approach, we provide the steps used to determine that catchments 6 and 7 in Fig. 3 have a south-to-north flow connection in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The process to connect these catchments was as follows:\n\n\nShift the catchment raster (Cat) southward by 1 pixel (shifted raster = Catʹ in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the entire raster Cat is shifted southward to produce Catʹ, but only the area under the fixed 3 × 3 window is depicted in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a logical query to identify where Cat ≠ Catʹ and set the output raster (Query1) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a 2nd logical query to identify values in the flow direction raster that indicate northward flow (ESRI flow-direction rasters use value = 64 to represent northward flow), and set output raster (Query2) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nDiagram of the connection between lakes 6 and 7 from Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Instead, shifting and subsequent queries and mathematical operations are conducted on the entire raster data set at once to improve efficiency and to make implementation easier with existing geographic information system tools.The result of step 4 is a raster (ToCat1) (Fig. 4) with pixels at the northern edge of the south-to-north border that meet the criteria of steps 2 and 3, but now have values of Catʹ rather than Cat.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, catchments 1 to 4 in Fig. 3 are headwater catchments and are listed in rows of the TO column and have FROM-column values of 0, i.e., 0 in the FROM column denotes headwater catchments.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Catchments 2 and 3 in Fig. 3 do not connect hydrologically to any downslope lakes and eventually flow to the nearby stream segment (arrows indicate hydrologic connections in Fig. 3), Thus, catchments 2 and 3 are listed in the TO column but are absent from the FROM column.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In Fig. 3, we depict lakes and catchments as sharing unique IDs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "To illustrate our approach, we provide the steps used to determine that catchments 6 and 7 in Fig. 3 have a south-to-north flow connection in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Shift the catchment raster (Cat) southward by 1 pixel (shifted raster = Catʹ in Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the entire raster Cat is shifted southward to produce Catʹ, but only the area under the fixed 3 × 3 window is depicted in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a logical query to identify where Cat ≠ Catʹ and set the output raster (Query1) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Apply a 2nd logical query to identify values in the flow direction raster that indicate northward flow (ESRI flow-direction rasters use value = 64 to represent northward flow), and set output raster (Query2) equal to 1 where true (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Diagram of the connection between lakes 6 and 7 from Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The result of step 4 is a raster (ToCat1) (Fig. 4) with pixels at the northern edge of the south-to-north border that meet the criteria of steps 2 and 3, but now have values of Catʹ rather than Cat.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "In the example of Fig. 3, the accumulation list for lake 7 includes lakes 1, 4, 5, and 6 (Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Likewise, the accumulation list for lake 6 includes only lakes 1, 4, and 5 (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Accumulation lists for lake catchments in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In the example of Fig. 3, the accumulation list for lake 7 includes lakes 1, 4, 5, and 6 (Table 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Likewise, the accumulation list for lake 6 includes only lakes 1, 4, and 5 (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Accumulation lists for lake catchments in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Accumulation lists for lake catchments in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Accumulation lists for lake catchments in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, a regression of the % of the watershed composed of cropland from each data set had an r2 = 0.91 and a slope = 0.96 (Fig. 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, a regression of the % of the watershed composed of cropland from each data set had an r2 = 0.91 and a slope = 0.96 (Fig. 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Next, we used random forests (Breiman 2001) to model eutrophic and noneutrophic sampling sites as a binary response variable (Fig. 6A) with the randomForest package in R (version 3.4.0) (Liaw and Wiener 2002, R Development Core Team 2017).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "The map of predicted probabilities of eutrophication [Pr(Eutrophication)] showed higher probabilities throughout the midwestern and southeastern states, excluding portions of the southern Appalachian Mountains (Fig. 6B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Metrics of agricultural activity constituted 7 of the top 10 variables when ranked by their contribution to model accuracy (Fig. 7), and larger values of each agricultural metric were positively related to higher Pr(Eutrophication), as we had hypothesized.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In general, the watershed version of each metric (i.e., Ws variables in Fig. 7) ranked higher than its local catchment counterpart (Cat in Fig. 7), indicating the importance of understanding the aggregated watershed context in water-quality management.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Next, we used random forests (Breiman 2001) to model eutrophic and noneutrophic sampling sites as a binary response variable (Fig. 6A) with the randomForest package in R (version 3.4.0) (Liaw and Wiener 2002, R Development Core Team 2017).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Next, we used random forests (Breiman 2001) to model eutrophic and noneutrophic sampling sites as a binary response variable (Fig. 6A) with the randomForest package in R (version 3.4.0) (Liaw and Wiener 2002, R Development Core Team 2017).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel A",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "The map of predicted probabilities of eutrophication [Pr(Eutrophication)] showed higher probabilities throughout the midwestern and southeastern states, excluding portions of the southern Appalachian Mountains (Fig. 6B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Metrics of agricultural activity constituted 7 of the top 10 variables when ranked by their contribution to model accuracy (Fig. 7), and larger values of each agricultural metric were positively related to higher Pr(Eutrophication), as we had hypothesized.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In general, the watershed version of each metric (i.e., Ws variables in Fig. 7) ranked higher than its local catchment counterpart (Cat in Fig. 7), indicating the importance of understanding the aggregated watershed context in water-quality management.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "The map of predicted probabilities of eutrophication [Pr(Eutrophication)] showed higher probabilities throughout the midwestern and southeastern states, excluding portions of the southern Appalachian Mountains (Fig. 6B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Metrics of agricultural activity constituted 7 of the top 10 variables when ranked by their contribution to model accuracy (Fig. 7), and larger values of each agricultural metric were positively related to higher Pr(Eutrophication), as we had hypothesized.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In general, the watershed version of each metric (i.e., Ws variables in Fig. 7) ranked higher than its local catchment counterpart (Cat in Fig. 7), indicating the importance of understanding the aggregated watershed context in water-quality management.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 5,
+    "claims_count": 372,
+    "images_downloaded": 5,
+    "tables_filtered": 166
+  }
+}

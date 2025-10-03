@@ -1,0 +1,1102 @@
+[
+  {
+    "sentence": "Figure 1 illustrates the Publication Parsing process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The annotation process is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The Biotea RDFized version is linked via owl:sameAs to Bio2RDF, identifiers.org and DOI, all of them providing versions of the corresponding article in PubMed.\n \n \n<bibo:AcademicArticle rdf:about=”http://linkingdata.io/pmcdoc/pmc/3879346”> \n  <owl:sameAs rdf:resource=”http://bio2rdf.org/pubmed:24392157”/> \n  <owl:sameAs rdf:resource=”http://identifiers.org/pubmed/24392157”/> \n  <owl:sameAs rdf:resource=”http://dx.doi.org/10.1371/journal.pone.0084792”/> \n  <rdfs:seeAlso rdf:resource=”http://info.identifiers.org/pubmed/24392157”/> \n  <rdfs:seeAlso rdf:resource=”http://www.ncbi.nlm.nih.gov/pubmed/24392157”/> \n</bibo:AcademicArticle> \n                                Listing 1: RDF Example    \nA general overview of our model is presented in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The graph for sections and paragraphs is illustrated in Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 illustrates an example expressing the annotation in the OADM model; this is the default annotation ontology used in our RDFization process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We are currently supporting only annotations from predefined vocabularies; Fig. 6 illustrates the interface, an online demo with LENS and Hyphothesis is available at Biotea (2017f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 illustrates the resulting cluster.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "SNOMED term\nID\n\n\n\nProbe with target amplification\nsnomedct:702675006\n\n\nPolymerase chain reaction\nsnomedct:258066000\n\n\nDeoxyribonucleic acid extraction technique\nsnomedct:702943006\n\n\n\nOpen in a new tabFrom the cluster presented in Fig. 7 we selected the paper, “The has-miR-526b Binding-Site rs8506G>A Polymorphism in the lincRNA-NR_024015 Exon Identified by GWASs Predispose to Non-Cardia Gastric Cancer Risk” (Fan et al., 2014), see third row, Table 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The entire query is illustrated in Fig. 8 and the SPARQL code is available at Biotea (2017h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The heat-map, see Fig. 9, illustrates the Cosine as a metric for semantic distance/similarity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 illustrates the Publication Parsing process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The annotation process is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The Biotea RDFized version is linked via owl:sameAs to Bio2RDF, identifiers.org and DOI, all of them providing versions of the corresponding article in PubMed.\n \n \n<bibo:AcademicArticle rdf:about=”http://linkingdata.io/pmcdoc/pmc/3879346”> \n  <owl:sameAs rdf:resource=”http://bio2rdf.org/pubmed:24392157”/> \n  <owl:sameAs rdf:resource=”http://identifiers.org/pubmed/24392157”/> \n  <owl:sameAs rdf:resource=”http://dx.doi.org/10.1371/journal.pone.0084792”/> \n  <rdfs:seeAlso rdf:resource=”http://info.identifiers.org/pubmed/24392157”/> \n  <rdfs:seeAlso rdf:resource=”http://www.ncbi.nlm.nih.gov/pubmed/24392157”/> \n</bibo:AcademicArticle> \n                                Listing 1: RDF Example    \nA general overview of our model is presented in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The graph for sections and paragraphs is illustrated in Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 illustrates an example expressing the annotation in the OADM model; this is the default annotation ontology used in our RDFization process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We are currently supporting only annotations from predefined vocabularies; Fig. 6 illustrates the interface, an online demo with LENS and Hyphothesis is available at Biotea (2017f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 illustrates the resulting cluster.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "SNOMED term\nID\n\n\n\nProbe with target amplification\nsnomedct:702675006\n\n\nPolymerase chain reaction\nsnomedct:258066000\n\n\nDeoxyribonucleic acid extraction technique\nsnomedct:702943006\n\n\n\nOpen in a new tabFrom the cluster presented in Fig. 7 we selected the paper, “The has-miR-526b Binding-Site rs8506G>A Polymorphism in the lincRNA-NR_024015 Exon Identified by GWASs Predispose to Non-Cardia Gastric Cancer Risk” (Fan et al., 2014), see third row, Table 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The entire query is illustrated in Fig. 8 and the SPARQL code is available at Biotea (2017h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The heat-map, see Fig. 9, illustrates the Cosine as a metric for semantic distance/similarity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 illustrates the Publication Parsing process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The annotation process is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The Biotea RDFized version is linked via owl:sameAs to Bio2RDF, identifiers.org and DOI, all of them providing versions of the corresponding article in PubMed.\n \n \n<bibo:AcademicArticle rdf:about=”http://linkingdata.io/pmcdoc/pmc/3879346”> \n  <owl:sameAs rdf:resource=”http://bio2rdf.org/pubmed:24392157”/> \n  <owl:sameAs rdf:resource=”http://identifiers.org/pubmed/24392157”/> \n  <owl:sameAs rdf:resource=”http://dx.doi.org/10.1371/journal.pone.0084792”/> \n  <rdfs:seeAlso rdf:resource=”http://info.identifiers.org/pubmed/24392157”/> \n  <rdfs:seeAlso rdf:resource=”http://www.ncbi.nlm.nih.gov/pubmed/24392157”/> \n</bibo:AcademicArticle> \n                                Listing 1: RDF Example    \nA general overview of our model is presented in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The graph for sections and paragraphs is illustrated in Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 illustrates an example expressing the annotation in the OADM model; this is the default annotation ontology used in our RDFization process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We are currently supporting only annotations from predefined vocabularies; Fig. 6 illustrates the interface, an online demo with LENS and Hyphothesis is available at Biotea (2017f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 illustrates the resulting cluster.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "SNOMED term\nID\n\n\n\nProbe with target amplification\nsnomedct:702675006\n\n\nPolymerase chain reaction\nsnomedct:258066000\n\n\nDeoxyribonucleic acid extraction technique\nsnomedct:702943006\n\n\n\nOpen in a new tabFrom the cluster presented in Fig. 7 we selected the paper, “The has-miR-526b Binding-Site rs8506G>A Polymorphism in the lincRNA-NR_024015 Exon Identified by GWASs Predispose to Non-Cardia Gastric Cancer Risk” (Fan et al., 2014), see third row, Table 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The entire query is illustrated in Fig. 8 and the SPARQL code is available at Biotea (2017h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The heat-map, see Fig. 9, illustrates the Cosine as a metric for semantic distance/similarity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 illustrates the Publication Parsing process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The annotation process is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The Biotea RDFized version is linked via owl:sameAs to Bio2RDF, identifiers.org and DOI, all of them providing versions of the corresponding article in PubMed.\n \n \n<bibo:AcademicArticle rdf:about=”http://linkingdata.io/pmcdoc/pmc/3879346”> \n  <owl:sameAs rdf:resource=”http://bio2rdf.org/pubmed:24392157”/> \n  <owl:sameAs rdf:resource=”http://identifiers.org/pubmed/24392157”/> \n  <owl:sameAs rdf:resource=”http://dx.doi.org/10.1371/journal.pone.0084792”/> \n  <rdfs:seeAlso rdf:resource=”http://info.identifiers.org/pubmed/24392157”/> \n  <rdfs:seeAlso rdf:resource=”http://www.ncbi.nlm.nih.gov/pubmed/24392157”/> \n</bibo:AcademicArticle> \n                                Listing 1: RDF Example    \nA general overview of our model is presented in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The graph for sections and paragraphs is illustrated in Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 illustrates an example expressing the annotation in the OADM model; this is the default annotation ontology used in our RDFization process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We are currently supporting only annotations from predefined vocabularies; Fig. 6 illustrates the interface, an online demo with LENS and Hyphothesis is available at Biotea (2017f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 illustrates the resulting cluster.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "SNOMED term\nID\n\n\n\nProbe with target amplification\nsnomedct:702675006\n\n\nPolymerase chain reaction\nsnomedct:258066000\n\n\nDeoxyribonucleic acid extraction technique\nsnomedct:702943006\n\n\n\nOpen in a new tabFrom the cluster presented in Fig. 7 we selected the paper, “The has-miR-526b Binding-Site rs8506G>A Polymorphism in the lincRNA-NR_024015 Exon Identified by GWASs Predispose to Non-Cardia Gastric Cancer Risk” (Fan et al., 2014), see third row, Table 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The entire query is illustrated in Fig. 8 and the SPARQL code is available at Biotea (2017h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The heat-map, see Fig. 9, illustrates the Cosine as a metric for semantic distance/similarity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 illustrates the Publication Parsing process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The annotation process is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The Biotea RDFized version is linked via owl:sameAs to Bio2RDF, identifiers.org and DOI, all of them providing versions of the corresponding article in PubMed.\n \n \n<bibo:AcademicArticle rdf:about=”http://linkingdata.io/pmcdoc/pmc/3879346”> \n  <owl:sameAs rdf:resource=”http://bio2rdf.org/pubmed:24392157”/> \n  <owl:sameAs rdf:resource=”http://identifiers.org/pubmed/24392157”/> \n  <owl:sameAs rdf:resource=”http://dx.doi.org/10.1371/journal.pone.0084792”/> \n  <rdfs:seeAlso rdf:resource=”http://info.identifiers.org/pubmed/24392157”/> \n  <rdfs:seeAlso rdf:resource=”http://www.ncbi.nlm.nih.gov/pubmed/24392157”/> \n</bibo:AcademicArticle> \n                                Listing 1: RDF Example    \nA general overview of our model is presented in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The graph for sections and paragraphs is illustrated in Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 illustrates an example expressing the annotation in the OADM model; this is the default annotation ontology used in our RDFization process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We are currently supporting only annotations from predefined vocabularies; Fig. 6 illustrates the interface, an online demo with LENS and Hyphothesis is available at Biotea (2017f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 illustrates the resulting cluster.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "SNOMED term\nID\n\n\n\nProbe with target amplification\nsnomedct:702675006\n\n\nPolymerase chain reaction\nsnomedct:258066000\n\n\nDeoxyribonucleic acid extraction technique\nsnomedct:702943006\n\n\n\nOpen in a new tabFrom the cluster presented in Fig. 7 we selected the paper, “The has-miR-526b Binding-Site rs8506G>A Polymorphism in the lincRNA-NR_024015 Exon Identified by GWASs Predispose to Non-Cardia Gastric Cancer Risk” (Fan et al., 2014), see third row, Table 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The entire query is illustrated in Fig. 8 and the SPARQL code is available at Biotea (2017h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The heat-map, see Fig. 9, illustrates the Cosine as a metric for semantic distance/similarity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 illustrates the Publication Parsing process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The annotation process is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The Biotea RDFized version is linked via owl:sameAs to Bio2RDF, identifiers.org and DOI, all of them providing versions of the corresponding article in PubMed.\n \n \n<bibo:AcademicArticle rdf:about=”http://linkingdata.io/pmcdoc/pmc/3879346”> \n  <owl:sameAs rdf:resource=”http://bio2rdf.org/pubmed:24392157”/> \n  <owl:sameAs rdf:resource=”http://identifiers.org/pubmed/24392157”/> \n  <owl:sameAs rdf:resource=”http://dx.doi.org/10.1371/journal.pone.0084792”/> \n  <rdfs:seeAlso rdf:resource=”http://info.identifiers.org/pubmed/24392157”/> \n  <rdfs:seeAlso rdf:resource=”http://www.ncbi.nlm.nih.gov/pubmed/24392157”/> \n</bibo:AcademicArticle> \n                                Listing 1: RDF Example    \nA general overview of our model is presented in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The graph for sections and paragraphs is illustrated in Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 illustrates an example expressing the annotation in the OADM model; this is the default annotation ontology used in our RDFization process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We are currently supporting only annotations from predefined vocabularies; Fig. 6 illustrates the interface, an online demo with LENS and Hyphothesis is available at Biotea (2017f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 illustrates the resulting cluster.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "SNOMED term\nID\n\n\n\nProbe with target amplification\nsnomedct:702675006\n\n\nPolymerase chain reaction\nsnomedct:258066000\n\n\nDeoxyribonucleic acid extraction technique\nsnomedct:702943006\n\n\n\nOpen in a new tabFrom the cluster presented in Fig. 7 we selected the paper, “The has-miR-526b Binding-Site rs8506G>A Polymorphism in the lincRNA-NR_024015 Exon Identified by GWASs Predispose to Non-Cardia Gastric Cancer Risk” (Fan et al., 2014), see third row, Table 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The entire query is illustrated in Fig. 8 and the SPARQL code is available at Biotea (2017h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The heat-map, see Fig. 9, illustrates the Cosine as a metric for semantic distance/similarity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 illustrates the Publication Parsing process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The annotation process is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The Biotea RDFized version is linked via owl:sameAs to Bio2RDF, identifiers.org and DOI, all of them providing versions of the corresponding article in PubMed.\n \n \n<bibo:AcademicArticle rdf:about=”http://linkingdata.io/pmcdoc/pmc/3879346”> \n  <owl:sameAs rdf:resource=”http://bio2rdf.org/pubmed:24392157”/> \n  <owl:sameAs rdf:resource=”http://identifiers.org/pubmed/24392157”/> \n  <owl:sameAs rdf:resource=”http://dx.doi.org/10.1371/journal.pone.0084792”/> \n  <rdfs:seeAlso rdf:resource=”http://info.identifiers.org/pubmed/24392157”/> \n  <rdfs:seeAlso rdf:resource=”http://www.ncbi.nlm.nih.gov/pubmed/24392157”/> \n</bibo:AcademicArticle> \n                                Listing 1: RDF Example    \nA general overview of our model is presented in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The graph for sections and paragraphs is illustrated in Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 illustrates an example expressing the annotation in the OADM model; this is the default annotation ontology used in our RDFization process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We are currently supporting only annotations from predefined vocabularies; Fig. 6 illustrates the interface, an online demo with LENS and Hyphothesis is available at Biotea (2017f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 illustrates the resulting cluster.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "SNOMED term\nID\n\n\n\nProbe with target amplification\nsnomedct:702675006\n\n\nPolymerase chain reaction\nsnomedct:258066000\n\n\nDeoxyribonucleic acid extraction technique\nsnomedct:702943006\n\n\n\nOpen in a new tabFrom the cluster presented in Fig. 7 we selected the paper, “The has-miR-526b Binding-Site rs8506G>A Polymorphism in the lincRNA-NR_024015 Exon Identified by GWASs Predispose to Non-Cardia Gastric Cancer Risk” (Fan et al., 2014), see third row, Table 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The entire query is illustrated in Fig. 8 and the SPARQL code is available at Biotea (2017h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The heat-map, see Fig. 9, illustrates the Cosine as a metric for semantic distance/similarity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 illustrates the Publication Parsing process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The annotation process is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The Biotea RDFized version is linked via owl:sameAs to Bio2RDF, identifiers.org and DOI, all of them providing versions of the corresponding article in PubMed.\n \n \n<bibo:AcademicArticle rdf:about=”http://linkingdata.io/pmcdoc/pmc/3879346”> \n  <owl:sameAs rdf:resource=”http://bio2rdf.org/pubmed:24392157”/> \n  <owl:sameAs rdf:resource=”http://identifiers.org/pubmed/24392157”/> \n  <owl:sameAs rdf:resource=”http://dx.doi.org/10.1371/journal.pone.0084792”/> \n  <rdfs:seeAlso rdf:resource=”http://info.identifiers.org/pubmed/24392157”/> \n  <rdfs:seeAlso rdf:resource=”http://www.ncbi.nlm.nih.gov/pubmed/24392157”/> \n</bibo:AcademicArticle> \n                                Listing 1: RDF Example    \nA general overview of our model is presented in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The graph for sections and paragraphs is illustrated in Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 illustrates an example expressing the annotation in the OADM model; this is the default annotation ontology used in our RDFization process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We are currently supporting only annotations from predefined vocabularies; Fig. 6 illustrates the interface, an online demo with LENS and Hyphothesis is available at Biotea (2017f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 illustrates the resulting cluster.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "SNOMED term\nID\n\n\n\nProbe with target amplification\nsnomedct:702675006\n\n\nPolymerase chain reaction\nsnomedct:258066000\n\n\nDeoxyribonucleic acid extraction technique\nsnomedct:702943006\n\n\n\nOpen in a new tabFrom the cluster presented in Fig. 7 we selected the paper, “The has-miR-526b Binding-Site rs8506G>A Polymorphism in the lincRNA-NR_024015 Exon Identified by GWASs Predispose to Non-Cardia Gastric Cancer Risk” (Fan et al., 2014), see third row, Table 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The entire query is illustrated in Fig. 8 and the SPARQL code is available at Biotea (2017h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The heat-map, see Fig. 9, illustrates the Cosine as a metric for semantic distance/similarity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 illustrates the Publication Parsing process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The annotation process is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 illustrates the Publication Parsing process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 illustrates the Publication Parsing process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The annotation process is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The annotation process is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The Biotea RDFized version is linked via owl:sameAs to Bio2RDF, identifiers.org and DOI, all of them providing versions of the corresponding article in PubMed.\n \n \n<bibo:AcademicArticle rdf:about=”http://linkingdata.io/pmcdoc/pmc/3879346”> \n  <owl:sameAs rdf:resource=”http://bio2rdf.org/pubmed:24392157”/> \n  <owl:sameAs rdf:resource=”http://identifiers.org/pubmed/24392157”/> \n  <owl:sameAs rdf:resource=”http://dx.doi.org/10.1371/journal.pone.0084792”/> \n  <rdfs:seeAlso rdf:resource=”http://info.identifiers.org/pubmed/24392157”/> \n  <rdfs:seeAlso rdf:resource=”http://www.ncbi.nlm.nih.gov/pubmed/24392157”/> \n</bibo:AcademicArticle> \n                                Listing 1: RDF Example    \nA general overview of our model is presented in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The graph for sections and paragraphs is illustrated in Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 illustrates an example expressing the annotation in the OADM model; this is the default annotation ontology used in our RDFization process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We are currently supporting only annotations from predefined vocabularies; Fig. 6 illustrates the interface, an online demo with LENS and Hyphothesis is available at Biotea (2017f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 illustrates the resulting cluster.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "SNOMED term\nID\n\n\n\nProbe with target amplification\nsnomedct:702675006\n\n\nPolymerase chain reaction\nsnomedct:258066000\n\n\nDeoxyribonucleic acid extraction technique\nsnomedct:702943006\n\n\n\nOpen in a new tabFrom the cluster presented in Fig. 7 we selected the paper, “The has-miR-526b Binding-Site rs8506G>A Polymorphism in the lincRNA-NR_024015 Exon Identified by GWASs Predispose to Non-Cardia Gastric Cancer Risk” (Fan et al., 2014), see third row, Table 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The entire query is illustrated in Fig. 8 and the SPARQL code is available at Biotea (2017h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The heat-map, see Fig. 9, illustrates the Cosine as a metric for semantic distance/similarity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "A general overview of our model is presented in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The graph for sections and paragraphs is illustrated in Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 illustrates an example expressing the annotation in the OADM model; this is the default annotation ontology used in our RDFization process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 5 illustrates an example expressing the annotation in the OADM model; this is the default annotation ontology used in our RDFization process.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We are currently supporting only annotations from predefined vocabularies; Fig. 6 illustrates the interface, an online demo with LENS and Hyphothesis is available at Biotea (2017f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We are currently supporting only annotations from predefined vocabularies; Fig. 6 illustrates the interface, an online demo with LENS and Hyphothesis is available at Biotea (2017f).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 illustrates the resulting cluster.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "SNOMED term\nID\n\n\n\nProbe with target amplification\nsnomedct:702675006\n\n\nPolymerase chain reaction\nsnomedct:258066000\n\n\nDeoxyribonucleic acid extraction technique\nsnomedct:702943006\n\n\n\nOpen in a new tabFrom the cluster presented in Fig. 7 we selected the paper, “The has-miR-526b Binding-Site rs8506G>A Polymorphism in the lincRNA-NR_024015 Exon Identified by GWASs Predispose to Non-Cardia Gastric Cancer Risk” (Fan et al., 2014), see third row, Table 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The entire query is illustrated in Fig. 8 and the SPARQL code is available at Biotea (2017h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The heat-map, see Fig. 9, illustrates the Cosine as a metric for semantic distance/similarity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 illustrates the resulting cluster.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "From the cluster presented in Fig. 7 we selected the paper, “The has-miR-526b Binding-Site rs8506G>A Polymorphism in the lincRNA-NR_024015 Exon Identified by GWASs Predispose to Non-Cardia Gastric Cancer Risk” (Fan et al., 2014), see third row, Table 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The entire query is illustrated in Fig. 8 and the SPARQL code is available at Biotea (2017h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The entire query is illustrated in Fig. 8 and the SPARQL code is available at Biotea (2017h).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The heat-map, see Fig. 9, illustrates the Cosine as a metric for semantic distance/similarity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "The heat-map, see Fig. 9, illustrates the Cosine as a metric for semantic distance/similarity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  }
+]

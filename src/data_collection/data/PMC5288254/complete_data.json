@@ -1,0 +1,2035 @@
+{
+  "paper_id": "PMC5288254",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5288254/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Figure 1.",
+      "caption": "Schematic of the processing and flow of data in the IRBAS database. For each dataset submitted, completion of a Site and Biota template is mandatory (solid arrows) and completion of an Environment template is optional (broken arrows). A dataset must comprise general metadata (e.g., dataset name, data contributor; Table 1) and data collected on sites, biota, and optionally on habitat (environmental data). The Site template is used to insert the site data, including spatial (geo‐locational) data and other metadata about the sampling locations, for example, river names and flow regimes (Table 1). The Biota template is used to insert the biotic sample data (taxonomical inventories of biota) along with metadata on the associated sampling methods and flow status of sites at the time of sampling (Table 1). The Environment template is used to insert the environment sample data (physical and chemical measures) along with metadata on the associated sampling methods and flow status of sites at the time of sampling (Table 1). The general metadata are entered uniformly across each Site, Biota, and Environment templates that encapsulate a unique dataset. IRBAS logo © IRBAS",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/17e4336d7ae4/ECE3-7-815-g001.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/17e4336d7ae4/ECE3-7-815-g001.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/17e4336d7ae4/ECE3-7-815-g001.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/17e4336d7ae4/ECE3-7-815-g001.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "ece32679-fig-0001",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/17e4336d7ae4/ECE3-7-815-g001.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC5288254/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/17e4336d7ae4/ECE3-7-815-g001.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Figure 2.",
+      "caption": "Steps involved in contributing to and accessing data from the IRBAS database. Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface. Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4). Registered users can explore the database via the interface by zooming in on locations with data presented on a map of the world (Step 3a) and make requests to download data (Step 3b) using a simple check‐box selection procedure that sends specific queries via the interface to the database. IRBAS logo © IRBAS",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/e7f0c4350936/ECE3-7-815-g002.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/e7f0c4350936/ECE3-7-815-g002.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/e7f0c4350936/ECE3-7-815-g002.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/e7f0c4350936/ECE3-7-815-g002.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "ece32679-fig-0002",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/e7f0c4350936/ECE3-7-815-g002.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC5288254/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/e7f0c4350936/ECE3-7-815-g002.jpg"
+    },
+    "figure_4": {
+      "figure_number": "Figure 4",
+      "title": "Figure 4.",
+      "caption": "The IRBAS database uses Encyclopedia of Life (EOL; http://www.eol.org/) as its authoritative resource for taxonomic nomenclature and classification hierarchies. All names of taxa supplied by contributors are parsed via a list of names stored on the database (the IRBAS taxonomic library), recognized by EOL, before datasets are inserted into the IRBAS database",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/d5800b095e03/ECE3-7-815-g004.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/d5800b095e03/ECE3-7-815-g004.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/d5800b095e03/ECE3-7-815-g004.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/d5800b095e03/ECE3-7-815-g004.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "ece32679-fig-0004",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/d5800b095e03/ECE3-7-815-g004.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC5288254/images/figure_4.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/d5800b095e03/ECE3-7-815-g004.jpg"
+    },
+    "figure_3": {
+      "figure_number": "Figure 3",
+      "title": "Figure 3.",
+      "caption": "Geographical coverage and numbers of samples with biodiversity or environmental data collected from intermittent and nearby perennial rivers, stored in the IRBAS database as of August 2016. The IRBAS database allows users to contribute and access data and will thus continue to grow in content and value as a research and networking tool. Map data: ©2016 Google",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/f231f7262895/ECE3-7-815-g003.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/f231f7262895/ECE3-7-815-g003.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/f231f7262895/ECE3-7-815-g003.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/f231f7262895/ECE3-7-815-g003.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "ece32679-fig-0003",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/f231f7262895/ECE3-7-815-g003.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC5288254/images/figure_3.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/f231f7262895/ECE3-7-815-g003.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "Asterisks indicate metadata that are available through the IRBAS interface via a map‐based search (Figure 2)\n\n\n\n\n\nType\nProvision\nDetails\n\n\n\nGeneral metadata\nMandatory\nDataset name*\n\nName(s) of the data owner(s) and contributor(s)*\nContact name(s) and e‐mail(s) for the data provider(s)*\nData availability status*\nDate the file was created (i.e., when the template was filled and entered into the database)*\nName(s) of the coder(s) (person(s) who filled the templates with data)\n\nOptional\nName(s) of the data collector(s)\n\nName(s) of the taxonomic identifier(s)\nName(s) of the research project(s) associated with the dataset\nAny existing citation details (e.g., for the publication(s) associated with the dataset or for the actual dataset itself)*\n\nSite metadata\nMandatory\nName(s) of sampling location(s)\n\nLatitude(s) and longitude(s) of sampling location(s)*\nName(s) of river(s) sampled*\nFlow regime (intermittent or perennial) of the sampled river(s)*\nWater regime (permanent or nonpermanent) of the sampled river(s)*\nName(s) of the catchment(s) and country(ies) in which the sampled river(s) is(are) located*\nClimate (Köppen‐Geiger) classification zone(s) in which the sampled river(s) is(are) located*\nMain land use/land cover category(ies) and level(s) of human modification of the land surrounding the sampling location(s)*\n\nOptional\nName(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)\n\nLatitude(s) and longitude(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)\nSummary information on the long‐term hydrology at the sampling location(s) (e.g., mean annual duration of zero flow)\n\nBiota metadata\nMandatory\nDate(s) of sampling*\n\nFlow state(s) at time of sampling (flowing, not flowing, and dry)*\nWater state(s) at time of sampling (wet and dry)*\nSampling strategy(ies) and method(s)\nZone(s) of sampling (e.g., benthic zone)*\nSampled habitat(s) (e.g., riffle and pool)*\nNumber of samples collected at each location*\nType(s) of biota collected (e.g., aquatic invertebrates)*\nType(s) of abundance data collected (e.g., counts, presence/absence)*\n\nOptional\nAdditional information on sampling methods\n\n\nEnvironment metadata (if an Environment template is completed)\nMandatory\nDate(s) of sampling*\n\nFlow state(s) at time of sampling (flowing, not flowing, and dry)*\nWater state(s) at time of sampling (wet and dry)*\nSampling strategy(ies) and method(s)\nZone(s) of sampling (e.g., benthic zone)*\nSampled habitat(s) (e.g., riffle and pool)*\nNumber of samples collected at each location*\nType(s) of measures collected (e.g., waterbody dimensions and water chemistry)*\n\nOptional\nAdditional information on sampling methods\n\n\n\nOpen in a new tabIn this paper, we describe the IRBAS database, including how users can contribute to it and access data.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Together with general metadata (e.g., data contributor and associated publication information; Table 1), these types of data are each uniquely identified and linked to an individual and uniquely identified dataset, which is entered into the database by a contributor through the use of template files (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "These pages explain how to:\n\n\n1Step 1. contribute data\n\nget started as a registered user\nfill in data entry templates\nsave the completed templates\n\n\n\n\n2Step 2. insert completed templates into the database\n\n\n3Step 3. explore the database and request data\n\nvia a map interface (identifying locations of samples and extracting metadata)\nvia queries (performing more detailed data requests and extraction) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "IRBAS logo © IRBAS\n\n\n\n\n\n\nFigure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 1: Contributing data\nContributing data first requires setting up a username and password to become a registered user of the IRBAS database (Step 1a; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Registered users wishing to contribute data can download empty template spreadsheets (in the form of tab‐delimited .txt files) that are used to standardize the format, units, and terminology of datasets, samples, and measures (Step 1b; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For each dataset submitted, a completed Site and Biota template must be provided (i.e., completion of these two templates is mandatory); completion of the Environment template is optional (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The general metadata must be uniform across each Site, Biota, and Environment templates that encapsulate a unique dataset (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Contributors must save their completed templates (Step 1c; Figure 2) before insertion into the database.3.2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2: Inserting data\nSaved, completed templates are inserted into the database via the interface's file‐selection dialog box (Step 2; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "All names of taxa supplied by contributors are parsed via a list of names stored on the database (the IRBAS taxonomic library), recognized by EOL, before datasets are inserted (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "These data were collected from intermittent rivers (and in some cases also from nearby perennial rivers) in North America (USA, 3 datasets), Europe (France, Spain, and UK; 3, 1 and 1 datasets, respectively), and Oceania (Australia and New Zealand; 1 and 2 datasets, respectively; Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Asterisks indicate metadata that are available through the IRBAS interface via a map‐based search (Figure 2)\n\n\n\n\n\nType\nProvision\nDetails\n\n\n\nGeneral metadata\nMandatory\nDataset name*\n\nName(s) of the data owner(s) and contributor(s)*\nContact name(s) and e‐mail(s) for the data provider(s)*\nData availability status*\nDate the file was created (i.e., when the template was filled and entered into the database)*\nName(s) of the coder(s) (person(s) who filled the templates with data)\n\nOptional\nName(s) of the data collector(s)\n\nName(s) of the taxonomic identifier(s)\nName(s) of the research project(s) associated with the dataset\nAny existing citation details (e.g., for the publication(s) associated with the dataset or for the actual dataset itself)*\n\nSite metadata\nMandatory\nName(s) of sampling location(s)\n\nLatitude(s) and longitude(s) of sampling location(s)*\nName(s) of river(s) sampled*\nFlow regime (intermittent or perennial) of the sampled river(s)*\nWater regime (permanent or nonpermanent) of the sampled river(s)*\nName(s) of the catchment(s) and country(ies) in which the sampled river(s) is(are) located*\nClimate (Köppen‐Geiger) classification zone(s) in which the sampled river(s) is(are) located*\nMain land use/land cover category(ies) and level(s) of human modification of the land surrounding the sampling location(s)*\n\nOptional\nName(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)\n\nLatitude(s) and longitude(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)\nSummary information on the long‐term hydrology at the sampling location(s) (e.g., mean annual duration of zero flow)\n\nBiota metadata\nMandatory\nDate(s) of sampling*\n\nFlow state(s) at time of sampling (flowing, not flowing, and dry)*\nWater state(s) at time of sampling (wet and dry)*\nSampling strategy(ies) and method(s)\nZone(s) of sampling (e.g., benthic zone)*\nSampled habitat(s) (e.g., riffle and pool)*\nNumber of samples collected at each location*\nType(s) of biota collected (e.g., aquatic invertebrates)*\nType(s) of abundance data collected (e.g., counts, presence/absence)*\n\nOptional\nAdditional information on sampling methods\n\n\nEnvironment metadata (if an Environment template is completed)\nMandatory\nDate(s) of sampling*\n\nFlow state(s) at time of sampling (flowing, not flowing, and dry)*\nWater state(s) at time of sampling (wet and dry)*\nSampling strategy(ies) and method(s)\nZone(s) of sampling (e.g., benthic zone)*\nSampled habitat(s) (e.g., riffle and pool)*\nNumber of samples collected at each location*\nType(s) of measures collected (e.g., waterbody dimensions and water chemistry)*\n\nOptional\nAdditional information on sampling methods\n\n\n\nOpen in a new tabIn this paper, we describe the IRBAS database, including how users can contribute to it and access data.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Together with general metadata (e.g., data contributor and associated publication information; Table 1), these types of data are each uniquely identified and linked to an individual and uniquely identified dataset, which is entered into the database by a contributor through the use of template files (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "These pages explain how to:\n\n\n1Step 1. contribute data\n\nget started as a registered user\nfill in data entry templates\nsave the completed templates\n\n\n\n\n2Step 2. insert completed templates into the database\n\n\n3Step 3. explore the database and request data\n\nvia a map interface (identifying locations of samples and extracting metadata)\nvia queries (performing more detailed data requests and extraction) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "IRBAS logo © IRBAS\n\n\n\n\n\n\nFigure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 1: Contributing data\nContributing data first requires setting up a username and password to become a registered user of the IRBAS database (Step 1a; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Registered users wishing to contribute data can download empty template spreadsheets (in the form of tab‐delimited .txt files) that are used to standardize the format, units, and terminology of datasets, samples, and measures (Step 1b; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For each dataset submitted, a completed Site and Biota template must be provided (i.e., completion of these two templates is mandatory); completion of the Environment template is optional (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The general metadata must be uniform across each Site, Biota, and Environment templates that encapsulate a unique dataset (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Contributors must save their completed templates (Step 1c; Figure 2) before insertion into the database.3.2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2: Inserting data\nSaved, completed templates are inserted into the database via the interface's file‐selection dialog box (Step 2; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "All names of taxa supplied by contributors are parsed via a list of names stored on the database (the IRBAS taxonomic library), recognized by EOL, before datasets are inserted (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "These data were collected from intermittent rivers (and in some cases also from nearby perennial rivers) in North America (USA, 3 datasets), Europe (France, Spain, and UK; 3, 1 and 1 datasets, respectively), and Oceania (Australia and New Zealand; 1 and 2 datasets, respectively; Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Asterisks indicate metadata that are available through the IRBAS interface via a map‐based search (Figure 2)\n\n\n\n\n\nType\nProvision\nDetails\n\n\n\nGeneral metadata\nMandatory\nDataset name*\n\nName(s) of the data owner(s) and contributor(s)*\nContact name(s) and e‐mail(s) for the data provider(s)*\nData availability status*\nDate the file was created (i.e., when the template was filled and entered into the database)*\nName(s) of the coder(s) (person(s) who filled the templates with data)\n\nOptional\nName(s) of the data collector(s)\n\nName(s) of the taxonomic identifier(s)\nName(s) of the research project(s) associated with the dataset\nAny existing citation details (e.g., for the publication(s) associated with the dataset or for the actual dataset itself)*\n\nSite metadata\nMandatory\nName(s) of sampling location(s)\n\nLatitude(s) and longitude(s) of sampling location(s)*\nName(s) of river(s) sampled*\nFlow regime (intermittent or perennial) of the sampled river(s)*\nWater regime (permanent or nonpermanent) of the sampled river(s)*\nName(s) of the catchment(s) and country(ies) in which the sampled river(s) is(are) located*\nClimate (Köppen‐Geiger) classification zone(s) in which the sampled river(s) is(are) located*\nMain land use/land cover category(ies) and level(s) of human modification of the land surrounding the sampling location(s)*\n\nOptional\nName(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)\n\nLatitude(s) and longitude(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)\nSummary information on the long‐term hydrology at the sampling location(s) (e.g., mean annual duration of zero flow)\n\nBiota metadata\nMandatory\nDate(s) of sampling*\n\nFlow state(s) at time of sampling (flowing, not flowing, and dry)*\nWater state(s) at time of sampling (wet and dry)*\nSampling strategy(ies) and method(s)\nZone(s) of sampling (e.g., benthic zone)*\nSampled habitat(s) (e.g., riffle and pool)*\nNumber of samples collected at each location*\nType(s) of biota collected (e.g., aquatic invertebrates)*\nType(s) of abundance data collected (e.g., counts, presence/absence)*\n\nOptional\nAdditional information on sampling methods\n\n\nEnvironment metadata (if an Environment template is completed)\nMandatory\nDate(s) of sampling*\n\nFlow state(s) at time of sampling (flowing, not flowing, and dry)*\nWater state(s) at time of sampling (wet and dry)*\nSampling strategy(ies) and method(s)\nZone(s) of sampling (e.g., benthic zone)*\nSampled habitat(s) (e.g., riffle and pool)*\nNumber of samples collected at each location*\nType(s) of measures collected (e.g., waterbody dimensions and water chemistry)*\n\nOptional\nAdditional information on sampling methods\n\n\n\nOpen in a new tabIn this paper, we describe the IRBAS database, including how users can contribute to it and access data.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Together with general metadata (e.g., data contributor and associated publication information; Table 1), these types of data are each uniquely identified and linked to an individual and uniquely identified dataset, which is entered into the database by a contributor through the use of template files (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "These pages explain how to:\n\n\n1Step 1. contribute data\n\nget started as a registered user\nfill in data entry templates\nsave the completed templates\n\n\n\n\n2Step 2. insert completed templates into the database\n\n\n3Step 3. explore the database and request data\n\nvia a map interface (identifying locations of samples and extracting metadata)\nvia queries (performing more detailed data requests and extraction) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "IRBAS logo © IRBAS\n\n\n\n\n\n\nFigure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 1: Contributing data\nContributing data first requires setting up a username and password to become a registered user of the IRBAS database (Step 1a; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Registered users wishing to contribute data can download empty template spreadsheets (in the form of tab‐delimited .txt files) that are used to standardize the format, units, and terminology of datasets, samples, and measures (Step 1b; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For each dataset submitted, a completed Site and Biota template must be provided (i.e., completion of these two templates is mandatory); completion of the Environment template is optional (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The general metadata must be uniform across each Site, Biota, and Environment templates that encapsulate a unique dataset (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Contributors must save their completed templates (Step 1c; Figure 2) before insertion into the database.3.2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2: Inserting data\nSaved, completed templates are inserted into the database via the interface's file‐selection dialog box (Step 2; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "All names of taxa supplied by contributors are parsed via a list of names stored on the database (the IRBAS taxonomic library), recognized by EOL, before datasets are inserted (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "These data were collected from intermittent rivers (and in some cases also from nearby perennial rivers) in North America (USA, 3 datasets), Europe (France, Spain, and UK; 3, 1 and 1 datasets, respectively), and Oceania (Australia and New Zealand; 1 and 2 datasets, respectively; Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Asterisks indicate metadata that are available through the IRBAS interface via a map‐based search (Figure 2)\n\n\n\n\n\nType\nProvision\nDetails\n\n\n\nGeneral metadata\nMandatory\nDataset name*\n\nName(s) of the data owner(s) and contributor(s)*\nContact name(s) and e‐mail(s) for the data provider(s)*\nData availability status*\nDate the file was created (i.e., when the template was filled and entered into the database)*\nName(s) of the coder(s) (person(s) who filled the templates with data)\n\nOptional\nName(s) of the data collector(s)\n\nName(s) of the taxonomic identifier(s)\nName(s) of the research project(s) associated with the dataset\nAny existing citation details (e.g., for the publication(s) associated with the dataset or for the actual dataset itself)*\n\nSite metadata\nMandatory\nName(s) of sampling location(s)\n\nLatitude(s) and longitude(s) of sampling location(s)*\nName(s) of river(s) sampled*\nFlow regime (intermittent or perennial) of the sampled river(s)*\nWater regime (permanent or nonpermanent) of the sampled river(s)*\nName(s) of the catchment(s) and country(ies) in which the sampled river(s) is(are) located*\nClimate (Köppen‐Geiger) classification zone(s) in which the sampled river(s) is(are) located*\nMain land use/land cover category(ies) and level(s) of human modification of the land surrounding the sampling location(s)*\n\nOptional\nName(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)\n\nLatitude(s) and longitude(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)\nSummary information on the long‐term hydrology at the sampling location(s) (e.g., mean annual duration of zero flow)\n\nBiota metadata\nMandatory\nDate(s) of sampling*\n\nFlow state(s) at time of sampling (flowing, not flowing, and dry)*\nWater state(s) at time of sampling (wet and dry)*\nSampling strategy(ies) and method(s)\nZone(s) of sampling (e.g., benthic zone)*\nSampled habitat(s) (e.g., riffle and pool)*\nNumber of samples collected at each location*\nType(s) of biota collected (e.g., aquatic invertebrates)*\nType(s) of abundance data collected (e.g., counts, presence/absence)*\n\nOptional\nAdditional information on sampling methods\n\n\nEnvironment metadata (if an Environment template is completed)\nMandatory\nDate(s) of sampling*\n\nFlow state(s) at time of sampling (flowing, not flowing, and dry)*\nWater state(s) at time of sampling (wet and dry)*\nSampling strategy(ies) and method(s)\nZone(s) of sampling (e.g., benthic zone)*\nSampled habitat(s) (e.g., riffle and pool)*\nNumber of samples collected at each location*\nType(s) of measures collected (e.g., waterbody dimensions and water chemistry)*\n\nOptional\nAdditional information on sampling methods\n\n\n\nOpen in a new tabIn this paper, we describe the IRBAS database, including how users can contribute to it and access data.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Together with general metadata (e.g., data contributor and associated publication information; Table 1), these types of data are each uniquely identified and linked to an individual and uniquely identified dataset, which is entered into the database by a contributor through the use of template files (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "These pages explain how to:\n\n\n1Step 1. contribute data\n\nget started as a registered user\nfill in data entry templates\nsave the completed templates\n\n\n\n\n2Step 2. insert completed templates into the database\n\n\n3Step 3. explore the database and request data\n\nvia a map interface (identifying locations of samples and extracting metadata)\nvia queries (performing more detailed data requests and extraction) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "IRBAS logo © IRBAS\n\n\n\n\n\n\nFigure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 1: Contributing data\nContributing data first requires setting up a username and password to become a registered user of the IRBAS database (Step 1a; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Registered users wishing to contribute data can download empty template spreadsheets (in the form of tab‐delimited .txt files) that are used to standardize the format, units, and terminology of datasets, samples, and measures (Step 1b; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For each dataset submitted, a completed Site and Biota template must be provided (i.e., completion of these two templates is mandatory); completion of the Environment template is optional (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The general metadata must be uniform across each Site, Biota, and Environment templates that encapsulate a unique dataset (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Contributors must save their completed templates (Step 1c; Figure 2) before insertion into the database.3.2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2: Inserting data\nSaved, completed templates are inserted into the database via the interface's file‐selection dialog box (Step 2; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "All names of taxa supplied by contributors are parsed via a list of names stored on the database (the IRBAS taxonomic library), recognized by EOL, before datasets are inserted (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "These data were collected from intermittent rivers (and in some cases also from nearby perennial rivers) in North America (USA, 3 datasets), Europe (France, Spain, and UK; 3, 1 and 1 datasets, respectively), and Oceania (Australia and New Zealand; 1 and 2 datasets, respectively; Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Asterisks indicate metadata that are available through the IRBAS interface via a map‐based search (Figure 2)\n\n\n\n\n\nType\nProvision\nDetails\n\n\n\nGeneral metadata\nMandatory\nDataset name*\n\nName(s) of the data owner(s) and contributor(s)*\nContact name(s) and e‐mail(s) for the data provider(s)*\nData availability status*\nDate the file was created (i.e., when the template was filled and entered into the database)*\nName(s) of the coder(s) (person(s) who filled the templates with data)\n\nOptional\nName(s) of the data collector(s)\n\nName(s) of the taxonomic identifier(s)\nName(s) of the research project(s) associated with the dataset\nAny existing citation details (e.g., for the publication(s) associated with the dataset or for the actual dataset itself)*\n\nSite metadata\nMandatory\nName(s) of sampling location(s)\n\nLatitude(s) and longitude(s) of sampling location(s)*\nName(s) of river(s) sampled*\nFlow regime (intermittent or perennial) of the sampled river(s)*\nWater regime (permanent or nonpermanent) of the sampled river(s)*\nName(s) of the catchment(s) and country(ies) in which the sampled river(s) is(are) located*\nClimate (Köppen‐Geiger) classification zone(s) in which the sampled river(s) is(are) located*\nMain land use/land cover category(ies) and level(s) of human modification of the land surrounding the sampling location(s)*\n\nOptional\nName(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)\n\nLatitude(s) and longitude(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)\nSummary information on the long‐term hydrology at the sampling location(s) (e.g., mean annual duration of zero flow)\n\nBiota metadata\nMandatory\nDate(s) of sampling*\n\nFlow state(s) at time of sampling (flowing, not flowing, and dry)*\nWater state(s) at time of sampling (wet and dry)*\nSampling strategy(ies) and method(s)\nZone(s) of sampling (e.g., benthic zone)*\nSampled habitat(s) (e.g., riffle and pool)*\nNumber of samples collected at each location*\nType(s) of biota collected (e.g., aquatic invertebrates)*\nType(s) of abundance data collected (e.g., counts, presence/absence)*\n\nOptional\nAdditional information on sampling methods\n\n\nEnvironment metadata (if an Environment template is completed)\nMandatory\nDate(s) of sampling*\n\nFlow state(s) at time of sampling (flowing, not flowing, and dry)*\nWater state(s) at time of sampling (wet and dry)*\nSampling strategy(ies) and method(s)\nZone(s) of sampling (e.g., benthic zone)*\nSampled habitat(s) (e.g., riffle and pool)*\nNumber of samples collected at each location*\nType(s) of measures collected (e.g., waterbody dimensions and water chemistry)*\n\nOptional\nAdditional information on sampling methods\n\n\n\nOpen in a new tabIn this paper, we describe the IRBAS database, including how users can contribute to it and access data.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Together with general metadata (e.g., data contributor and associated publication information; Table 1), these types of data are each uniquely identified and linked to an individual and uniquely identified dataset, which is entered into the database by a contributor through the use of template files (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "These pages explain how to:\n\n\n1Step 1. contribute data\n\nget started as a registered user\nfill in data entry templates\nsave the completed templates\n\n\n\n\n2Step 2. insert completed templates into the database\n\n\n3Step 3. explore the database and request data\n\nvia a map interface (identifying locations of samples and extracting metadata)\nvia queries (performing more detailed data requests and extraction) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "IRBAS logo © IRBAS\n\n\n\n\n\n\nFigure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 1: Contributing data\nContributing data first requires setting up a username and password to become a registered user of the IRBAS database (Step 1a; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Registered users wishing to contribute data can download empty template spreadsheets (in the form of tab‐delimited .txt files) that are used to standardize the format, units, and terminology of datasets, samples, and measures (Step 1b; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For each dataset submitted, a completed Site and Biota template must be provided (i.e., completion of these two templates is mandatory); completion of the Environment template is optional (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The general metadata must be uniform across each Site, Biota, and Environment templates that encapsulate a unique dataset (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Contributors must save their completed templates (Step 1c; Figure 2) before insertion into the database.3.2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2: Inserting data\nSaved, completed templates are inserted into the database via the interface's file‐selection dialog box (Step 2; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "All names of taxa supplied by contributors are parsed via a list of names stored on the database (the IRBAS taxonomic library), recognized by EOL, before datasets are inserted (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "These data were collected from intermittent rivers (and in some cases also from nearby perennial rivers) in North America (USA, 3 datasets), Europe (France, Spain, and UK; 3, 1 and 1 datasets, respectively), and Oceania (Australia and New Zealand; 1 and 2 datasets, respectively; Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Asterisks indicate metadata that are available through the IRBAS interface via a map‐based search (Figure 2)\n\n\n\n\n\nType\nProvision\nDetails\n\n\n\nGeneral metadata\nMandatory\nDataset name*\n\nName(s) of the data owner(s) and contributor(s)*\nContact name(s) and e‐mail(s) for the data provider(s)*\nData availability status*\nDate the file was created (i.e., when the template was filled and entered into the database)*\nName(s) of the coder(s) (person(s) who filled the templates with data)\n\nOptional\nName(s) of the data collector(s)\n\nName(s) of the taxonomic identifier(s)\nName(s) of the research project(s) associated with the dataset\nAny existing citation details (e.g., for the publication(s) associated with the dataset or for the actual dataset itself)*\n\nSite metadata\nMandatory\nName(s) of sampling location(s)\n\nLatitude(s) and longitude(s) of sampling location(s)*\nName(s) of river(s) sampled*\nFlow regime (intermittent or perennial) of the sampled river(s)*\nWater regime (permanent or nonpermanent) of the sampled river(s)*\nName(s) of the catchment(s) and country(ies) in which the sampled river(s) is(are) located*\nClimate (Köppen‐Geiger) classification zone(s) in which the sampled river(s) is(are) located*\nMain land use/land cover category(ies) and level(s) of human modification of the land surrounding the sampling location(s)*\n\nOptional\nName(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)\n\nLatitude(s) and longitude(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)\nSummary information on the long‐term hydrology at the sampling location(s) (e.g., mean annual duration of zero flow)\n\nBiota metadata\nMandatory\nDate(s) of sampling*\n\nFlow state(s) at time of sampling (flowing, not flowing, and dry)*\nWater state(s) at time of sampling (wet and dry)*\nSampling strategy(ies) and method(s)\nZone(s) of sampling (e.g., benthic zone)*\nSampled habitat(s) (e.g., riffle and pool)*\nNumber of samples collected at each location*\nType(s) of biota collected (e.g., aquatic invertebrates)*\nType(s) of abundance data collected (e.g., counts, presence/absence)*\n\nOptional\nAdditional information on sampling methods\n\n\nEnvironment metadata (if an Environment template is completed)\nMandatory\nDate(s) of sampling*\n\nFlow state(s) at time of sampling (flowing, not flowing, and dry)*\nWater state(s) at time of sampling (wet and dry)*\nSampling strategy(ies) and method(s)\nZone(s) of sampling (e.g., benthic zone)*\nSampled habitat(s) (e.g., riffle and pool)*\nNumber of samples collected at each location*\nType(s) of measures collected (e.g., waterbody dimensions and water chemistry)*\n\nOptional\nAdditional information on sampling methods\n\n\n\nOpen in a new tabIn this paper, we describe the IRBAS database, including how users can contribute to it and access data.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Together with general metadata (e.g., data contributor and associated publication information; Table 1), these types of data are each uniquely identified and linked to an individual and uniquely identified dataset, which is entered into the database by a contributor through the use of template files (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "These pages explain how to:\n\n\n1Step 1. contribute data\n\nget started as a registered user\nfill in data entry templates\nsave the completed templates\n\n\n\n\n2Step 2. insert completed templates into the database\n\n\n3Step 3. explore the database and request data\n\nvia a map interface (identifying locations of samples and extracting metadata)\nvia queries (performing more detailed data requests and extraction) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "IRBAS logo © IRBAS\n\n\n\n\n\n\nFigure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 1: Contributing data\nContributing data first requires setting up a username and password to become a registered user of the IRBAS database (Step 1a; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Registered users wishing to contribute data can download empty template spreadsheets (in the form of tab‐delimited .txt files) that are used to standardize the format, units, and terminology of datasets, samples, and measures (Step 1b; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For each dataset submitted, a completed Site and Biota template must be provided (i.e., completion of these two templates is mandatory); completion of the Environment template is optional (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The general metadata must be uniform across each Site, Biota, and Environment templates that encapsulate a unique dataset (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Contributors must save their completed templates (Step 1c; Figure 2) before insertion into the database.3.2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2: Inserting data\nSaved, completed templates are inserted into the database via the interface's file‐selection dialog box (Step 2; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "All names of taxa supplied by contributors are parsed via a list of names stored on the database (the IRBAS taxonomic library), recognized by EOL, before datasets are inserted (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "These data were collected from intermittent rivers (and in some cases also from nearby perennial rivers) in North America (USA, 3 datasets), Europe (France, Spain, and UK; 3, 1 and 1 datasets, respectively), and Oceania (Australia and New Zealand; 1 and 2 datasets, respectively; Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Asterisks indicate metadata that are available through the IRBAS interface via a map‐based search (Figure 2)\n\n\n\n\n\nType\nProvision\nDetails\n\n\n\nGeneral metadata\nMandatory\nDataset name*\n\nName(s) of the data owner(s) and contributor(s)*\nContact name(s) and e‐mail(s) for the data provider(s)*\nData availability status*\nDate the file was created (i.e., when the template was filled and entered into the database)*\nName(s) of the coder(s) (person(s) who filled the templates with data)\n\nOptional\nName(s) of the data collector(s)\n\nName(s) of the taxonomic identifier(s)\nName(s) of the research project(s) associated with the dataset\nAny existing citation details (e.g., for the publication(s) associated with the dataset or for the actual dataset itself)*\n\nSite metadata\nMandatory\nName(s) of sampling location(s)\n\nLatitude(s) and longitude(s) of sampling location(s)*\nName(s) of river(s) sampled*\nFlow regime (intermittent or perennial) of the sampled river(s)*\nWater regime (permanent or nonpermanent) of the sampled river(s)*\nName(s) of the catchment(s) and country(ies) in which the sampled river(s) is(are) located*\nClimate (Köppen‐Geiger) classification zone(s) in which the sampled river(s) is(are) located*\nMain land use/land cover category(ies) and level(s) of human modification of the land surrounding the sampling location(s)*\n\nOptional\nName(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)\n\nLatitude(s) and longitude(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)\nSummary information on the long‐term hydrology at the sampling location(s) (e.g., mean annual duration of zero flow)\n\nBiota metadata\nMandatory\nDate(s) of sampling*\n\nFlow state(s) at time of sampling (flowing, not flowing, and dry)*\nWater state(s) at time of sampling (wet and dry)*\nSampling strategy(ies) and method(s)\nZone(s) of sampling (e.g., benthic zone)*\nSampled habitat(s) (e.g., riffle and pool)*\nNumber of samples collected at each location*\nType(s) of biota collected (e.g., aquatic invertebrates)*\nType(s) of abundance data collected (e.g., counts, presence/absence)*\n\nOptional\nAdditional information on sampling methods\n\n\nEnvironment metadata (if an Environment template is completed)\nMandatory\nDate(s) of sampling*\n\nFlow state(s) at time of sampling (flowing, not flowing, and dry)*\nWater state(s) at time of sampling (wet and dry)*\nSampling strategy(ies) and method(s)\nZone(s) of sampling (e.g., benthic zone)*\nSampled habitat(s) (e.g., riffle and pool)*\nNumber of samples collected at each location*\nType(s) of measures collected (e.g., waterbody dimensions and water chemistry)*\n\nOptional\nAdditional information on sampling methods\n\n\n\nOpen in a new tabIn this paper, we describe the IRBAS database, including how users can contribute to it and access data.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Together with general metadata (e.g., data contributor and associated publication information; Table 1), these types of data are each uniquely identified and linked to an individual and uniquely identified dataset, which is entered into the database by a contributor through the use of template files (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "These pages explain how to:\n\n\n1Step 1. contribute data\n\nget started as a registered user\nfill in data entry templates\nsave the completed templates\n\n\n\n\n2Step 2. insert completed templates into the database\n\n\n3Step 3. explore the database and request data\n\nvia a map interface (identifying locations of samples and extracting metadata)\nvia queries (performing more detailed data requests and extraction) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "IRBAS logo © IRBAS\n\n\n\n\n\n\nFigure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 1: Contributing data\nContributing data first requires setting up a username and password to become a registered user of the IRBAS database (Step 1a; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Registered users wishing to contribute data can download empty template spreadsheets (in the form of tab‐delimited .txt files) that are used to standardize the format, units, and terminology of datasets, samples, and measures (Step 1b; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For each dataset submitted, a completed Site and Biota template must be provided (i.e., completion of these two templates is mandatory); completion of the Environment template is optional (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The general metadata must be uniform across each Site, Biota, and Environment templates that encapsulate a unique dataset (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Contributors must save their completed templates (Step 1c; Figure 2) before insertion into the database.3.2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2: Inserting data\nSaved, completed templates are inserted into the database via the interface's file‐selection dialog box (Step 2; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "All names of taxa supplied by contributors are parsed via a list of names stored on the database (the IRBAS taxonomic library), recognized by EOL, before datasets are inserted (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "These data were collected from intermittent rivers (and in some cases also from nearby perennial rivers) in North America (USA, 3 datasets), Europe (France, Spain, and UK; 3, 1 and 1 datasets, respectively), and Oceania (Australia and New Zealand; 1 and 2 datasets, respectively; Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Asterisks indicate metadata that are available through the IRBAS interface via a map‐based search (Figure 2)\n\n\n\n\n\nType\nProvision\nDetails\n\n\n\nGeneral metadata\nMandatory\nDataset name*\n\nName(s) of the data owner(s) and contributor(s)*\nContact name(s) and e‐mail(s) for the data provider(s)*\nData availability status*\nDate the file was created (i.e., when the template was filled and entered into the database)*\nName(s) of the coder(s) (person(s) who filled the templates with data)\n\nOptional\nName(s) of the data collector(s)\n\nName(s) of the taxonomic identifier(s)\nName(s) of the research project(s) associated with the dataset\nAny existing citation details (e.g., for the publication(s) associated with the dataset or for the actual dataset itself)*\n\nSite metadata\nMandatory\nName(s) of sampling location(s)\n\nLatitude(s) and longitude(s) of sampling location(s)*\nName(s) of river(s) sampled*\nFlow regime (intermittent or perennial) of the sampled river(s)*\nWater regime (permanent or nonpermanent) of the sampled river(s)*\nName(s) of the catchment(s) and country(ies) in which the sampled river(s) is(are) located*\nClimate (Köppen‐Geiger) classification zone(s) in which the sampled river(s) is(are) located*\nMain land use/land cover category(ies) and level(s) of human modification of the land surrounding the sampling location(s)*\n\nOptional\nName(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)\n\nLatitude(s) and longitude(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)\nSummary information on the long‐term hydrology at the sampling location(s) (e.g., mean annual duration of zero flow)\n\nBiota metadata\nMandatory\nDate(s) of sampling*\n\nFlow state(s) at time of sampling (flowing, not flowing, and dry)*\nWater state(s) at time of sampling (wet and dry)*\nSampling strategy(ies) and method(s)\nZone(s) of sampling (e.g., benthic zone)*\nSampled habitat(s) (e.g., riffle and pool)*\nNumber of samples collected at each location*\nType(s) of biota collected (e.g., aquatic invertebrates)*\nType(s) of abundance data collected (e.g., counts, presence/absence)*\n\nOptional\nAdditional information on sampling methods\n\n\nEnvironment metadata (if an Environment template is completed)\nMandatory\nDate(s) of sampling*\n\nFlow state(s) at time of sampling (flowing, not flowing, and dry)*\nWater state(s) at time of sampling (wet and dry)*\nSampling strategy(ies) and method(s)\nZone(s) of sampling (e.g., benthic zone)*\nSampled habitat(s) (e.g., riffle and pool)*\nNumber of samples collected at each location*\nType(s) of measures collected (e.g., waterbody dimensions and water chemistry)*\n\nOptional\nAdditional information on sampling methods\n\n\n\nOpen in a new tabIn this paper, we describe the IRBAS database, including how users can contribute to it and access data.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Together with general metadata (e.g., data contributor and associated publication information; Table 1), these types of data are each uniquely identified and linked to an individual and uniquely identified dataset, which is entered into the database by a contributor through the use of template files (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "These pages explain how to:\n\n\n1Step 1. contribute data\n\nget started as a registered user\nfill in data entry templates\nsave the completed templates\n\n\n\n\n2Step 2. insert completed templates into the database\n\n\n3Step 3. explore the database and request data\n\nvia a map interface (identifying locations of samples and extracting metadata)\nvia queries (performing more detailed data requests and extraction) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "IRBAS logo © IRBAS\n\n\n\n\n\n\nFigure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 1: Contributing data\nContributing data first requires setting up a username and password to become a registered user of the IRBAS database (Step 1a; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Registered users wishing to contribute data can download empty template spreadsheets (in the form of tab‐delimited .txt files) that are used to standardize the format, units, and terminology of datasets, samples, and measures (Step 1b; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For each dataset submitted, a completed Site and Biota template must be provided (i.e., completion of these two templates is mandatory); completion of the Environment template is optional (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The general metadata must be uniform across each Site, Biota, and Environment templates that encapsulate a unique dataset (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Contributors must save their completed templates (Step 1c; Figure 2) before insertion into the database.3.2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2: Inserting data\nSaved, completed templates are inserted into the database via the interface's file‐selection dialog box (Step 2; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "All names of taxa supplied by contributors are parsed via a list of names stored on the database (the IRBAS taxonomic library), recognized by EOL, before datasets are inserted (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "These data were collected from intermittent rivers (and in some cases also from nearby perennial rivers) in North America (USA, 3 datasets), Europe (France, Spain, and UK; 3, 1 and 1 datasets, respectively), and Oceania (Australia and New Zealand; 1 and 2 datasets, respectively; Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Asterisks indicate metadata that are available through the IRBAS interface via a map‐based search (Figure 2)\n\n\n\n\n\nType\nProvision\nDetails\n\n\n\nGeneral metadata\nMandatory\nDataset name*\n\nName(s) of the data owner(s) and contributor(s)*\nContact name(s) and e‐mail(s) for the data provider(s)*\nData availability status*\nDate the file was created (i.e., when the template was filled and entered into the database)*\nName(s) of the coder(s) (person(s) who filled the templates with data)\n\nOptional\nName(s) of the data collector(s)\n\nName(s) of the taxonomic identifier(s)\nName(s) of the research project(s) associated with the dataset\nAny existing citation details (e.g., for the publication(s) associated with the dataset or for the actual dataset itself)*\n\nSite metadata\nMandatory\nName(s) of sampling location(s)\n\nLatitude(s) and longitude(s) of sampling location(s)*\nName(s) of river(s) sampled*\nFlow regime (intermittent or perennial) of the sampled river(s)*\nWater regime (permanent or nonpermanent) of the sampled river(s)*\nName(s) of the catchment(s) and country(ies) in which the sampled river(s) is(are) located*\nClimate (Köppen‐Geiger) classification zone(s) in which the sampled river(s) is(are) located*\nMain land use/land cover category(ies) and level(s) of human modification of the land surrounding the sampling location(s)*\n\nOptional\nName(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)\n\nLatitude(s) and longitude(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)\nSummary information on the long‐term hydrology at the sampling location(s) (e.g., mean annual duration of zero flow)\n\nBiota metadata\nMandatory\nDate(s) of sampling*\n\nFlow state(s) at time of sampling (flowing, not flowing, and dry)*\nWater state(s) at time of sampling (wet and dry)*\nSampling strategy(ies) and method(s)\nZone(s) of sampling (e.g., benthic zone)*\nSampled habitat(s) (e.g., riffle and pool)*\nNumber of samples collected at each location*\nType(s) of biota collected (e.g., aquatic invertebrates)*\nType(s) of abundance data collected (e.g., counts, presence/absence)*\n\nOptional\nAdditional information on sampling methods\n\n\nEnvironment metadata (if an Environment template is completed)\nMandatory\nDate(s) of sampling*\n\nFlow state(s) at time of sampling (flowing, not flowing, and dry)*\nWater state(s) at time of sampling (wet and dry)*\nSampling strategy(ies) and method(s)\nZone(s) of sampling (e.g., benthic zone)*\nSampled habitat(s) (e.g., riffle and pool)*\nNumber of samples collected at each location*\nType(s) of measures collected (e.g., waterbody dimensions and water chemistry)*\n\nOptional\nAdditional information on sampling methods\n\n\n\nOpen in a new tabIn this paper, we describe the IRBAS database, including how users can contribute to it and access data.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Asterisks indicate metadata that are available through the IRBAS interface via a map‐based search (Figure 2)\n\n\n\n\n\nType\nProvision\nDetails\n\n\n\nGeneral metadata\nMandatory\nDataset name*\n\nName(s) of the data owner(s) and contributor(s)*\nContact name(s) and e‐mail(s) for the data provider(s)*\nData availability status*\nDate the file was created (i.e., when the template was filled and entered into the database)*\nName(s) of the coder(s) (person(s) who filled the templates with data)\n\nOptional\nName(s) of the data collector(s)\n\nName(s) of the taxonomic identifier(s)\nName(s) of the research project(s) associated with the dataset\nAny existing citation details (e.g., for the publication(s) associated with the dataset or for the actual dataset itself)*\n\nSite metadata\nMandatory\nName(s) of sampling location(s)\n\nLatitude(s) and longitude(s) of sampling location(s)*\nName(s) of river(s) sampled*\nFlow regime (intermittent or perennial) of the sampled river(s)*\nWater regime (permanent or nonpermanent) of the sampled river(s)*\nName(s) of the catchment(s) and country(ies) in which the sampled river(s) is(are) located*\nClimate (Köppen‐Geiger) classification zone(s) in which the sampled river(s) is(are) located*\nMain land use/land cover category(ies) and level(s) of human modification of the land surrounding the sampling location(s)*\n\nOptional\nName(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)\n\nLatitude(s) and longitude(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)\nSummary information on the long‐term hydrology at the sampling location(s) (e.g., mean annual duration of zero flow)\n\nBiota metadata\nMandatory\nDate(s) of sampling*\n\nFlow state(s) at time of sampling (flowing, not flowing, and dry)*\nWater state(s) at time of sampling (wet and dry)*\nSampling strategy(ies) and method(s)\nZone(s) of sampling (e.g., benthic zone)*\nSampled habitat(s) (e.g., riffle and pool)*\nNumber of samples collected at each location*\nType(s) of biota collected (e.g., aquatic invertebrates)*\nType(s) of abundance data collected (e.g., counts, presence/absence)*\n\nOptional\nAdditional information on sampling methods\n\n\nEnvironment metadata (if an Environment template is completed)\nMandatory\nDate(s) of sampling*\n\nFlow state(s) at time of sampling (flowing, not flowing, and dry)*\nWater state(s) at time of sampling (wet and dry)*\nSampling strategy(ies) and method(s)\nZone(s) of sampling (e.g., benthic zone)*\nSampled habitat(s) (e.g., riffle and pool)*\nNumber of samples collected at each location*\nType(s) of measures collected (e.g., waterbody dimensions and water chemistry)*\n\nOptional\nAdditional information on sampling methods\n\n\n\nOpen in a new tab.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Asterisks indicate metadata that are available through the IRBAS interface via a map‐based search (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Asterisks indicate metadata that are available through the IRBAS interface via a map‐based search (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Together with general metadata (e.g., data contributor and associated publication information; Table 1), these types of data are each uniquely identified and linked to an individual and uniquely identified dataset, which is entered into the database by a contributor through the use of template files (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Together with general metadata (e.g., data contributor and associated publication information; Table 1), these types of data are each uniquely identified and linked to an individual and uniquely identified dataset, which is entered into the database by a contributor through the use of template files (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "These pages explain how to:\n\n\n1Step 1. contribute data\n\nget started as a registered user\nfill in data entry templates\nsave the completed templates\n\n\n\n\n2Step 2. insert completed templates into the database\n\n\n3Step 3. explore the database and request data\n\nvia a map interface (identifying locations of samples and extracting metadata)\nvia queries (performing more detailed data requests and extraction) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "IRBAS logo © IRBAS\n\n\n\n\n\n\nFigure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 1: Contributing data\nContributing data first requires setting up a username and password to become a registered user of the IRBAS database (Step 1a; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Registered users wishing to contribute data can download empty template spreadsheets (in the form of tab‐delimited .txt files) that are used to standardize the format, units, and terminology of datasets, samples, and measures (Step 1b; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For each dataset submitted, a completed Site and Biota template must be provided (i.e., completion of these two templates is mandatory); completion of the Environment template is optional (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The general metadata must be uniform across each Site, Biota, and Environment templates that encapsulate a unique dataset (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Contributors must save their completed templates (Step 1c; Figure 2) before insertion into the database.3.2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2: Inserting data\nSaved, completed templates are inserted into the database via the interface's file‐selection dialog box (Step 2; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 3. explore the database and request data\n\nvia a map interface (identifying locations of samples and extracting metadata)\nvia queries (performing more detailed data requests and extraction) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "via queries (performing more detailed data requests and extraction) (Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 1: Contributing data\nContributing data first requires setting up a username and password to become a registered user of the IRBAS database (Step 1a; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Registered users wishing to contribute data can download empty template spreadsheets (in the form of tab‐delimited .txt files) that are used to standardize the format, units, and terminology of datasets, samples, and measures (Step 1b; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For each dataset submitted, a completed Site and Biota template must be provided (i.e., completion of these two templates is mandatory); completion of the Environment template is optional (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The general metadata must be uniform across each Site, Biota, and Environment templates that encapsulate a unique dataset (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Contributors must save their completed templates (Step 1c; Figure 2) before insertion into the database.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Contributing data first requires setting up a username and password to become a registered user of the IRBAS database (Step 1a; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Registered users wishing to contribute data can download empty template spreadsheets (in the form of tab‐delimited .txt files) that are used to standardize the format, units, and terminology of datasets, samples, and measures (Step 1b; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "For each dataset submitted, a completed Site and Biota template must be provided (i.e., completion of these two templates is mandatory); completion of the Environment template is optional (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The general metadata must be uniform across each Site, Biota, and Environment templates that encapsulate a unique dataset (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Contributors must save their completed templates (Step 1c; Figure 2) before insertion into the database.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Step 2: Inserting data\nSaved, completed templates are inserted into the database via the interface's file‐selection dialog box (Step 2; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Saved, completed templates are inserted into the database via the interface's file‐selection dialog box (Step 2; Figure 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "All names of taxa supplied by contributors are parsed via a list of names stored on the database (the IRBAS taxonomic library), recognized by EOL, before datasets are inserted (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "All names of taxa supplied by contributors are parsed via a list of names stored on the database (the IRBAS taxonomic library), recognized by EOL, before datasets are inserted (Figure 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "These data were collected from intermittent rivers (and in some cases also from nearby perennial rivers) in North America (USA, 3 datasets), Europe (France, Spain, and UK; 3, 1 and 1 datasets, respectively), and Oceania (Australia and New Zealand; 1 and 2 datasets, respectively; Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "These data were collected from intermittent rivers (and in some cases also from nearby perennial rivers) in North America (USA, 3 datasets), Europe (France, Spain, and UK; 3, 1 and 1 datasets, respectively), and Oceania (Australia and New Zealand; 1 and 2 datasets, respectively; Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 4,
+    "claims_count": 152,
+    "images_downloaded": 4,
+    "tables_filtered": 120
+  }
+}

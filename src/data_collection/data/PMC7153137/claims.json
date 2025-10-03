@@ -1,0 +1,727 @@
+[
+  {
+    "sentence": "The architecture, seen in Figure 1, consists of four main components: text processing using various processing resources (PRs) operating within the open-source General Architecture for Text Engineering (GATE) [7]; converting the GATE output to a syntactic KB consisting of propositions in a first order logic; aligning terms in the KB with background knowledge and importing relevant data; and mapping syntactic relations to semantic relations using both domain-neutral and domain-specific mapping rules informed by the background knowledge.1\nFigure 1:\n\nOpen in a new tab\nClinical Tractor system architecture.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Shown in Figure 1 are: the ANNIE English Tokenizer and Sentence Splitter that divide the input into linguistic units; the Stanford Dependency Parser, for part-of-speech tagging and parsing (discussed further in Section 3.2.1); the GATE Morphological Analyser for identifying root forms of inflected nouns and verbs; a group of named-entity recognizers – list based, ontology-based, rule based, and MetaMap (discussed further in Section 3.2.2); and a group of PRs that perform co-reference resolution.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The left side of Figure 2 shows a rule that simplifies syntactic representations, transforming phrases in the passive voice to the active voice.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2:\n\nOpen in a new tab\nExample mapping rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The right rules convert syntactic dobj relations to semantic theme and topic relations.The right side of Figure 2 shows two syntax-semantics mapping rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The processing results are shown in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3:\n\nOpen in a new tab\nA small example using a prototype implementation of Clinical Tractor, with some by-hand augmentation.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The architecture, seen in Figure 1, consists of four main components: text processing using various processing resources (PRs) operating within the open-source General Architecture for Text Engineering (GATE) [7]; converting the GATE output to a syntactic KB consisting of propositions in a first order logic; aligning terms in the KB with background knowledge and importing relevant data; and mapping syntactic relations to semantic relations using both domain-neutral and domain-specific mapping rules informed by the background knowledge.1\nFigure 1:\n\nOpen in a new tab\nClinical Tractor system architecture.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Shown in Figure 1 are: the ANNIE English Tokenizer and Sentence Splitter that divide the input into linguistic units; the Stanford Dependency Parser, for part-of-speech tagging and parsing (discussed further in Section 3.2.1); the GATE Morphological Analyser for identifying root forms of inflected nouns and verbs; a group of named-entity recognizers – list based, ontology-based, rule based, and MetaMap (discussed further in Section 3.2.2); and a group of PRs that perform co-reference resolution.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The left side of Figure 2 shows a rule that simplifies syntactic representations, transforming phrases in the passive voice to the active voice.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2:\n\nOpen in a new tab\nExample mapping rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The right rules convert syntactic dobj relations to semantic theme and topic relations.The right side of Figure 2 shows two syntax-semantics mapping rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The processing results are shown in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3:\n\nOpen in a new tab\nA small example using a prototype implementation of Clinical Tractor, with some by-hand augmentation.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The architecture, seen in Figure 1, consists of four main components: text processing using various processing resources (PRs) operating within the open-source General Architecture for Text Engineering (GATE) [7]; converting the GATE output to a syntactic KB consisting of propositions in a first order logic; aligning terms in the KB with background knowledge and importing relevant data; and mapping syntactic relations to semantic relations using both domain-neutral and domain-specific mapping rules informed by the background knowledge.1\nFigure 1:\n\nOpen in a new tab\nClinical Tractor system architecture.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Shown in Figure 1 are: the ANNIE English Tokenizer and Sentence Splitter that divide the input into linguistic units; the Stanford Dependency Parser, for part-of-speech tagging and parsing (discussed further in Section 3.2.1); the GATE Morphological Analyser for identifying root forms of inflected nouns and verbs; a group of named-entity recognizers – list based, ontology-based, rule based, and MetaMap (discussed further in Section 3.2.2); and a group of PRs that perform co-reference resolution.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The left side of Figure 2 shows a rule that simplifies syntactic representations, transforming phrases in the passive voice to the active voice.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2:\n\nOpen in a new tab\nExample mapping rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The right rules convert syntactic dobj relations to semantic theme and topic relations.The right side of Figure 2 shows two syntax-semantics mapping rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The processing results are shown in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3:\n\nOpen in a new tab\nA small example using a prototype implementation of Clinical Tractor, with some by-hand augmentation.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The architecture, seen in Figure 1, consists of four main components: text processing using various processing resources (PRs) operating within the open-source General Architecture for Text Engineering (GATE) [7]; converting the GATE output to a syntactic KB consisting of propositions in a first order logic; aligning terms in the KB with background knowledge and importing relevant data; and mapping syntactic relations to semantic relations using both domain-neutral and domain-specific mapping rules informed by the background knowledge.1\nFigure 1:\n\nOpen in a new tab\nClinical Tractor system architecture.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Shown in Figure 1 are: the ANNIE English Tokenizer and Sentence Splitter that divide the input into linguistic units; the Stanford Dependency Parser, for part-of-speech tagging and parsing (discussed further in Section 3.2.1); the GATE Morphological Analyser for identifying root forms of inflected nouns and verbs; a group of named-entity recognizers – list based, ontology-based, rule based, and MetaMap (discussed further in Section 3.2.2); and a group of PRs that perform co-reference resolution.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The left side of Figure 2 shows a rule that simplifies syntactic representations, transforming phrases in the passive voice to the active voice.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2:\n\nOpen in a new tab\nExample mapping rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The right rules convert syntactic dobj relations to semantic theme and topic relations.The right side of Figure 2 shows two syntax-semantics mapping rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The processing results are shown in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3:\n\nOpen in a new tab\nA small example using a prototype implementation of Clinical Tractor, with some by-hand augmentation.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The architecture, seen in Figure 1, consists of four main components: text processing using various processing resources (PRs) operating within the open-source General Architecture for Text Engineering (GATE) [7]; converting the GATE output to a syntactic KB consisting of propositions in a first order logic; aligning terms in the KB with background knowledge and importing relevant data; and mapping syntactic relations to semantic relations using both domain-neutral and domain-specific mapping rules informed by the background knowledge.1\nFigure 1:\n\nOpen in a new tab\nClinical Tractor system architecture.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Shown in Figure 1 are: the ANNIE English Tokenizer and Sentence Splitter that divide the input into linguistic units; the Stanford Dependency Parser, for part-of-speech tagging and parsing (discussed further in Section 3.2.1); the GATE Morphological Analyser for identifying root forms of inflected nouns and verbs; a group of named-entity recognizers – list based, ontology-based, rule based, and MetaMap (discussed further in Section 3.2.2); and a group of PRs that perform co-reference resolution.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The left side of Figure 2 shows a rule that simplifies syntactic representations, transforming phrases in the passive voice to the active voice.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2:\n\nOpen in a new tab\nExample mapping rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The right rules convert syntactic dobj relations to semantic theme and topic relations.The right side of Figure 2 shows two syntax-semantics mapping rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The processing results are shown in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3:\n\nOpen in a new tab\nA small example using a prototype implementation of Clinical Tractor, with some by-hand augmentation.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The architecture, seen in Figure 1, consists of four main components: text processing using various processing resources (PRs) operating within the open-source General Architecture for Text Engineering (GATE) [7]; converting the GATE output to a syntactic KB consisting of propositions in a first order logic; aligning terms in the KB with background knowledge and importing relevant data; and mapping syntactic relations to semantic relations using both domain-neutral and domain-specific mapping rules informed by the background knowledge.1\nFigure 1:\n\nOpen in a new tab\nClinical Tractor system architecture.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Shown in Figure 1 are: the ANNIE English Tokenizer and Sentence Splitter that divide the input into linguistic units; the Stanford Dependency Parser, for part-of-speech tagging and parsing (discussed further in Section 3.2.1); the GATE Morphological Analyser for identifying root forms of inflected nouns and verbs; a group of named-entity recognizers – list based, ontology-based, rule based, and MetaMap (discussed further in Section 3.2.2); and a group of PRs that perform co-reference resolution.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The left side of Figure 2 shows a rule that simplifies syntactic representations, transforming phrases in the passive voice to the active voice.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2:\n\nOpen in a new tab\nExample mapping rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The right rules convert syntactic dobj relations to semantic theme and topic relations.The right side of Figure 2 shows two syntax-semantics mapping rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The processing results are shown in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3:\n\nOpen in a new tab\nA small example using a prototype implementation of Clinical Tractor, with some by-hand augmentation.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The architecture, seen in Figure 1, consists of four main components: text processing using various processing resources (PRs) operating within the open-source General Architecture for Text Engineering (GATE) [7]; converting the GATE output to a syntactic KB consisting of propositions in a first order logic; aligning terms in the KB with background knowledge and importing relevant data; and mapping syntactic relations to semantic relations using both domain-neutral and domain-specific mapping rules informed by the background knowledge.1\nFigure 1:\n\nOpen in a new tab\nClinical Tractor system architecture.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Shown in Figure 1 are: the ANNIE English Tokenizer and Sentence Splitter that divide the input into linguistic units; the Stanford Dependency Parser, for part-of-speech tagging and parsing (discussed further in Section 3.2.1); the GATE Morphological Analyser for identifying root forms of inflected nouns and verbs; a group of named-entity recognizers – list based, ontology-based, rule based, and MetaMap (discussed further in Section 3.2.2); and a group of PRs that perform co-reference resolution.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The left side of Figure 2 shows a rule that simplifies syntactic representations, transforming phrases in the passive voice to the active voice.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2:\n\nOpen in a new tab\nExample mapping rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The right rules convert syntactic dobj relations to semantic theme and topic relations.The right side of Figure 2 shows two syntax-semantics mapping rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The processing results are shown in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3:\n\nOpen in a new tab\nA small example using a prototype implementation of Clinical Tractor, with some by-hand augmentation.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The architecture, seen in Figure 1, consists of four main components: text processing using various processing resources (PRs) operating within the open-source General Architecture for Text Engineering (GATE) [7]; converting the GATE output to a syntactic KB consisting of propositions in a first order logic; aligning terms in the KB with background knowledge and importing relevant data; and mapping syntactic relations to semantic relations using both domain-neutral and domain-specific mapping rules informed by the background knowledge.1\nFigure 1:\n\nOpen in a new tab\nClinical Tractor system architecture.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Shown in Figure 1 are: the ANNIE English Tokenizer and Sentence Splitter that divide the input into linguistic units; the Stanford Dependency Parser, for part-of-speech tagging and parsing (discussed further in Section 3.2.1); the GATE Morphological Analyser for identifying root forms of inflected nouns and verbs; a group of named-entity recognizers – list based, ontology-based, rule based, and MetaMap (discussed further in Section 3.2.2); and a group of PRs that perform co-reference resolution.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The left side of Figure 2 shows a rule that simplifies syntactic representations, transforming phrases in the passive voice to the active voice.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2:\n\nOpen in a new tab\nExample mapping rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The right rules convert syntactic dobj relations to semantic theme and topic relations.The right side of Figure 2 shows two syntax-semantics mapping rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The processing results are shown in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3:\n\nOpen in a new tab\nA small example using a prototype implementation of Clinical Tractor, with some by-hand augmentation.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The architecture, seen in Figure 1, consists of four main components: text processing using various processing resources (PRs) operating within the open-source General Architecture for Text Engineering (GATE) [7]; converting the GATE output to a syntactic KB consisting of propositions in a first order logic; aligning terms in the KB with background knowledge and importing relevant data; and mapping syntactic relations to semantic relations using both domain-neutral and domain-specific mapping rules informed by the background knowledge.1\nFigure 1:\n\nOpen in a new tab\nClinical Tractor system architecture.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The architecture, seen in Figure 1, consists of four main components: text processing using various processing resources (PRs) operating within the open-source General Architecture for Text Engineering (GATE) [7]; converting the GATE output to a syntactic KB consisting of propositions in a first order logic; aligning terms in the KB with background knowledge and importing relevant data; and mapping syntactic relations to semantic relations using both domain-neutral and domain-specific mapping rules informed by the background knowledge.1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Shown in Figure 1 are: the ANNIE English Tokenizer and Sentence Splitter that divide the input into linguistic units; the Stanford Dependency Parser, for part-of-speech tagging and parsing (discussed further in Section 3.2.1); the GATE Morphological Analyser for identifying root forms of inflected nouns and verbs; a group of named-entity recognizers – list based, ontology-based, rule based, and MetaMap (discussed further in Section 3.2.2); and a group of PRs that perform co-reference resolution.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Shown in Figure 1 are: the ANNIE English Tokenizer and Sentence Splitter that divide the input into linguistic units; the Stanford Dependency Parser, for part-of-speech tagging and parsing (discussed further in Section 3.2.1); the GATE Morphological Analyser for identifying root forms of inflected nouns and verbs; a group of named-entity recognizers – list based, ontology-based, rule based, and MetaMap (discussed further in Section 3.2.2); and a group of PRs that perform co-reference resolution.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The left side of Figure 2 shows a rule that simplifies syntactic representations, transforming phrases in the passive voice to the active voice.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2:\n\nOpen in a new tab\nExample mapping rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The right rules convert syntactic dobj relations to semantic theme and topic relations.The right side of Figure 2 shows two syntax-semantics mapping rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The left side of Figure 2 shows a rule that simplifies syntactic representations, transforming phrases in the passive voice to the active voice.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The right side of Figure 2 shows two syntax-semantics mapping rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The processing results are shown in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3:\n\nOpen in a new tab\nA small example using a prototype implementation of Clinical Tractor, with some by-hand augmentation.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The processing results are shown in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  }
+]

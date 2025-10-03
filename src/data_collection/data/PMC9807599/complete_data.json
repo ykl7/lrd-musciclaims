@@ -1,0 +1,1962 @@
+{
+  "paper_id": "PMC9807599",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9807599/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "FIGURE 1.",
+      "caption": "Schematic diagram of study design. (A) BCI tasks. Left-right (LR) and up-down (UD), the dashed lines are for illustrative purposes only and were not visible in the actual experiment. Scalp topographies show regions of mu power increase (yellow) and decrease (blue) during each trial type (i.e., left vs right and up vs down). The colors represent the distribution of mu rhythm power calculated for each electrode during the different trial types. (B) Each trial: 2 s of intertrial interval, 2 s of target presentation, and up to 6 s of cursor control with visual feedback. (C) Session design: Each session consists of part 1, intervention, and part 2. Part 1 contains 3 runs of LR and 3 runs of UD, where one run consists of 25 trials of BCI control. Intervention is either a 20-min meditation or control task, and part 2 contains 3 runs of LR and 3 runs of UD tasks each (practice runs for the LR and UD tasks in session 1 are not included in the figure). (D) Group assignment: Group MM (N = 10) performed brief meditation with audial guidance in both sessions; group MC (N = 12) performed meditation with audial guidance in session 1 and listened to control recording in session 2; group CM (N = 15) listened to control recording in session 1 and performed brief meditation with audial guidance in session 2.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/96c6/9807599/f0a21c8ac84b/fnhum-16-1019279-g001.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/96c6/9807599/f0a21c8ac84b/fnhum-16-1019279-g001.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/96c6/9807599/f0a21c8ac84b/fnhum-16-1019279-g001.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/96c6/9807599/f0a21c8ac84b/fnhum-16-1019279-g001.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/96c6/9807599/f0a21c8ac84b/fnhum-16-1019279-g001.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC9807599/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/96c6/9807599/f0a21c8ac84b/fnhum-16-1019279-g001.jpg"
+    },
+    "figure_4": {
+      "figure_number": "Figure 4",
+      "title": "FIGURE 4.",
+      "caption": "Scatter plots of difference in change in BCI performance with respect to the interval between sessions in number of days. (A) Difference in the change in LR PVC across the two sessions with respect to the interval between sessions. (B) Difference in the change in UD PVC across the two sessions with respect to the interval between sessions.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/96c6/9807599/846d57a78682/fnhum-16-1019279-g004.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/96c6/9807599/846d57a78682/fnhum-16-1019279-g004.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/96c6/9807599/846d57a78682/fnhum-16-1019279-g004.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/96c6/9807599/846d57a78682/fnhum-16-1019279-g004.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F4",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/96c6/9807599/846d57a78682/fnhum-16-1019279-g004.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC9807599/images/figure_4.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/96c6/9807599/846d57a78682/fnhum-16-1019279-g004.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "In the EEG neurophysiological analysis, a total of 6 subjects were excluded: from group MC, 1 subject was excluded due to equipment issues and 1 other subject for not completing the study (the same subject as before); and from group CM, 1 subject was excluded due to equipment issues, 1 subject due to experimental error, and 2 subjects due to their EEG data containing too many artifacts to perform the offline analysis.Experimental design\nThe experimental design is illustrated in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Each session consists of part 1, followed by a 20-min intervention, and then part 2 (Figure 1D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Session 1 part 1 contains 8 runs: 4 runs of a one-dimensional (1D) left-right (LR) cursor control task and 4 runs of a 1D up-down (UD) cursor control task (Figure 1A), of which the first run in both tasks were practice runs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Afterward, in session 1 part 2, subjects repeated the same 6 runs of the BCI tasks as before the intervention—3 runs of LR followed by 3 runs of UD (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "2 s after this “target” appeared, a pink circle, or the “cursor,” appeared at the center of the monitor (Figure 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows the overall group average of EEG power and EEG power bandpassed to four frequency bands: delta (1–4 Hz), theta (4–7 Hz), alpha (8–12 Hz), and beta (13–30 Hz).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A shows the average EEG power of each electrode, calculated by taking the average of the squared difference between the raw EEG value at each time point and the mean EEG of that electrode.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nScalp topographic maps of group (n = 21) average Electroencephalography (EEG) power of different frequency bands during meditation and control interventions. (A) Pre-processed average EEG power not filtered to any specific frequency band (1–100 Hz). (B) Average delta band (1–4 Hz) EEG power. (C) Average theta band (4–7 Hz) EEG power. (D) Average alpha band (8–12 Hz) EEG power. (E) Average beta band (13–30 Hz) EEG power.Comparing the change in brain–computer interface performance following each intervention\nTo investigate the effect of the two types of intervention on BCI performance, we compared the change in Percent Valid Correct (PVC)—the ratio between the number of “hits” and the sum of “hits” and “misses”—between the group of subjects that participated in the meditation exercise and those that participated in the control exercise (Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The plots (Figure 4) seem to show a general increase in performance improvement as the interval between sessions increases, with the Spearman correlation coefficients being 0.634 for the LR (p = 0.049) and 0.276 for the UD task (p = 0.440), respectively.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We indeed observed a strong and positive correlation between the PVC and the trial-averaged △control signal for LR and UD tasks (p <0.001), as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 6 summarizes the results.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Figure 2, we see strong alpha band activities in the occipital region of the brain during meditation and control, likely because the subjects were asked to keep their eyes closed throughout the interventions (Teplan, 2002; Bazanova and Vernon, 2014).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Interestingly, Figure 4 shows a somewhat increasing trend between the change in BCI performance (PVC, %) and the interval between the two sessions (days).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Lastly, the △control signal between the left and right trials of the LR and up and down trials of the UD tasks calculated using the EEG data during MI was shown to be significantly correlated to BCI performance (Figure 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "In the EEG neurophysiological analysis, a total of 6 subjects were excluded: from group MC, 1 subject was excluded due to equipment issues and 1 other subject for not completing the study (the same subject as before); and from group CM, 1 subject was excluded due to equipment issues, 1 subject due to experimental error, and 2 subjects due to their EEG data containing too many artifacts to perform the offline analysis.Experimental design\nThe experimental design is illustrated in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Each session consists of part 1, followed by a 20-min intervention, and then part 2 (Figure 1D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Session 1 part 1 contains 8 runs: 4 runs of a one-dimensional (1D) left-right (LR) cursor control task and 4 runs of a 1D up-down (UD) cursor control task (Figure 1A), of which the first run in both tasks were practice runs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Afterward, in session 1 part 2, subjects repeated the same 6 runs of the BCI tasks as before the intervention—3 runs of LR followed by 3 runs of UD (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "2 s after this “target” appeared, a pink circle, or the “cursor,” appeared at the center of the monitor (Figure 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows the overall group average of EEG power and EEG power bandpassed to four frequency bands: delta (1–4 Hz), theta (4–7 Hz), alpha (8–12 Hz), and beta (13–30 Hz).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A shows the average EEG power of each electrode, calculated by taking the average of the squared difference between the raw EEG value at each time point and the mean EEG of that electrode.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nScalp topographic maps of group (n = 21) average Electroencephalography (EEG) power of different frequency bands during meditation and control interventions. (A) Pre-processed average EEG power not filtered to any specific frequency band (1–100 Hz). (B) Average delta band (1–4 Hz) EEG power. (C) Average theta band (4–7 Hz) EEG power. (D) Average alpha band (8–12 Hz) EEG power. (E) Average beta band (13–30 Hz) EEG power.Comparing the change in brain–computer interface performance following each intervention\nTo investigate the effect of the two types of intervention on BCI performance, we compared the change in Percent Valid Correct (PVC)—the ratio between the number of “hits” and the sum of “hits” and “misses”—between the group of subjects that participated in the meditation exercise and those that participated in the control exercise (Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The plots (Figure 4) seem to show a general increase in performance improvement as the interval between sessions increases, with the Spearman correlation coefficients being 0.634 for the LR (p = 0.049) and 0.276 for the UD task (p = 0.440), respectively.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We indeed observed a strong and positive correlation between the PVC and the trial-averaged △control signal for LR and UD tasks (p <0.001), as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 6 summarizes the results.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Figure 2, we see strong alpha band activities in the occipital region of the brain during meditation and control, likely because the subjects were asked to keep their eyes closed throughout the interventions (Teplan, 2002; Bazanova and Vernon, 2014).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Interestingly, Figure 4 shows a somewhat increasing trend between the change in BCI performance (PVC, %) and the interval between the two sessions (days).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Lastly, the △control signal between the left and right trials of the LR and up and down trials of the UD tasks calculated using the EEG data during MI was shown to be significantly correlated to BCI performance (Figure 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "In the EEG neurophysiological analysis, a total of 6 subjects were excluded: from group MC, 1 subject was excluded due to equipment issues and 1 other subject for not completing the study (the same subject as before); and from group CM, 1 subject was excluded due to equipment issues, 1 subject due to experimental error, and 2 subjects due to their EEG data containing too many artifacts to perform the offline analysis.Experimental design\nThe experimental design is illustrated in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Each session consists of part 1, followed by a 20-min intervention, and then part 2 (Figure 1D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Session 1 part 1 contains 8 runs: 4 runs of a one-dimensional (1D) left-right (LR) cursor control task and 4 runs of a 1D up-down (UD) cursor control task (Figure 1A), of which the first run in both tasks were practice runs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Afterward, in session 1 part 2, subjects repeated the same 6 runs of the BCI tasks as before the intervention—3 runs of LR followed by 3 runs of UD (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "2 s after this “target” appeared, a pink circle, or the “cursor,” appeared at the center of the monitor (Figure 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows the overall group average of EEG power and EEG power bandpassed to four frequency bands: delta (1–4 Hz), theta (4–7 Hz), alpha (8–12 Hz), and beta (13–30 Hz).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A shows the average EEG power of each electrode, calculated by taking the average of the squared difference between the raw EEG value at each time point and the mean EEG of that electrode.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nScalp topographic maps of group (n = 21) average Electroencephalography (EEG) power of different frequency bands during meditation and control interventions. (A) Pre-processed average EEG power not filtered to any specific frequency band (1–100 Hz). (B) Average delta band (1–4 Hz) EEG power. (C) Average theta band (4–7 Hz) EEG power. (D) Average alpha band (8–12 Hz) EEG power. (E) Average beta band (13–30 Hz) EEG power.Comparing the change in brain–computer interface performance following each intervention\nTo investigate the effect of the two types of intervention on BCI performance, we compared the change in Percent Valid Correct (PVC)—the ratio between the number of “hits” and the sum of “hits” and “misses”—between the group of subjects that participated in the meditation exercise and those that participated in the control exercise (Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The plots (Figure 4) seem to show a general increase in performance improvement as the interval between sessions increases, with the Spearman correlation coefficients being 0.634 for the LR (p = 0.049) and 0.276 for the UD task (p = 0.440), respectively.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We indeed observed a strong and positive correlation between the PVC and the trial-averaged △control signal for LR and UD tasks (p <0.001), as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 6 summarizes the results.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Figure 2, we see strong alpha band activities in the occipital region of the brain during meditation and control, likely because the subjects were asked to keep their eyes closed throughout the interventions (Teplan, 2002; Bazanova and Vernon, 2014).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Interestingly, Figure 4 shows a somewhat increasing trend between the change in BCI performance (PVC, %) and the interval between the two sessions (days).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Lastly, the △control signal between the left and right trials of the LR and up and down trials of the UD tasks calculated using the EEG data during MI was shown to be significantly correlated to BCI performance (Figure 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "In the EEG neurophysiological analysis, a total of 6 subjects were excluded: from group MC, 1 subject was excluded due to equipment issues and 1 other subject for not completing the study (the same subject as before); and from group CM, 1 subject was excluded due to equipment issues, 1 subject due to experimental error, and 2 subjects due to their EEG data containing too many artifacts to perform the offline analysis.Experimental design\nThe experimental design is illustrated in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Each session consists of part 1, followed by a 20-min intervention, and then part 2 (Figure 1D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Session 1 part 1 contains 8 runs: 4 runs of a one-dimensional (1D) left-right (LR) cursor control task and 4 runs of a 1D up-down (UD) cursor control task (Figure 1A), of which the first run in both tasks were practice runs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Afterward, in session 1 part 2, subjects repeated the same 6 runs of the BCI tasks as before the intervention—3 runs of LR followed by 3 runs of UD (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "2 s after this “target” appeared, a pink circle, or the “cursor,” appeared at the center of the monitor (Figure 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows the overall group average of EEG power and EEG power bandpassed to four frequency bands: delta (1–4 Hz), theta (4–7 Hz), alpha (8–12 Hz), and beta (13–30 Hz).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A shows the average EEG power of each electrode, calculated by taking the average of the squared difference between the raw EEG value at each time point and the mean EEG of that electrode.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nScalp topographic maps of group (n = 21) average Electroencephalography (EEG) power of different frequency bands during meditation and control interventions. (A) Pre-processed average EEG power not filtered to any specific frequency band (1–100 Hz). (B) Average delta band (1–4 Hz) EEG power. (C) Average theta band (4–7 Hz) EEG power. (D) Average alpha band (8–12 Hz) EEG power. (E) Average beta band (13–30 Hz) EEG power.Comparing the change in brain–computer interface performance following each intervention\nTo investigate the effect of the two types of intervention on BCI performance, we compared the change in Percent Valid Correct (PVC)—the ratio between the number of “hits” and the sum of “hits” and “misses”—between the group of subjects that participated in the meditation exercise and those that participated in the control exercise (Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The plots (Figure 4) seem to show a general increase in performance improvement as the interval between sessions increases, with the Spearman correlation coefficients being 0.634 for the LR (p = 0.049) and 0.276 for the UD task (p = 0.440), respectively.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We indeed observed a strong and positive correlation between the PVC and the trial-averaged △control signal for LR and UD tasks (p <0.001), as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 6 summarizes the results.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Figure 2, we see strong alpha band activities in the occipital region of the brain during meditation and control, likely because the subjects were asked to keep their eyes closed throughout the interventions (Teplan, 2002; Bazanova and Vernon, 2014).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Interestingly, Figure 4 shows a somewhat increasing trend between the change in BCI performance (PVC, %) and the interval between the two sessions (days).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Lastly, the △control signal between the left and right trials of the LR and up and down trials of the UD tasks calculated using the EEG data during MI was shown to be significantly correlated to BCI performance (Figure 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "In the EEG neurophysiological analysis, a total of 6 subjects were excluded: from group MC, 1 subject was excluded due to equipment issues and 1 other subject for not completing the study (the same subject as before); and from group CM, 1 subject was excluded due to equipment issues, 1 subject due to experimental error, and 2 subjects due to their EEG data containing too many artifacts to perform the offline analysis.Experimental design\nThe experimental design is illustrated in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Each session consists of part 1, followed by a 20-min intervention, and then part 2 (Figure 1D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Session 1 part 1 contains 8 runs: 4 runs of a one-dimensional (1D) left-right (LR) cursor control task and 4 runs of a 1D up-down (UD) cursor control task (Figure 1A), of which the first run in both tasks were practice runs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Afterward, in session 1 part 2, subjects repeated the same 6 runs of the BCI tasks as before the intervention—3 runs of LR followed by 3 runs of UD (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "2 s after this “target” appeared, a pink circle, or the “cursor,” appeared at the center of the monitor (Figure 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows the overall group average of EEG power and EEG power bandpassed to four frequency bands: delta (1–4 Hz), theta (4–7 Hz), alpha (8–12 Hz), and beta (13–30 Hz).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A shows the average EEG power of each electrode, calculated by taking the average of the squared difference between the raw EEG value at each time point and the mean EEG of that electrode.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nScalp topographic maps of group (n = 21) average Electroencephalography (EEG) power of different frequency bands during meditation and control interventions. (A) Pre-processed average EEG power not filtered to any specific frequency band (1–100 Hz). (B) Average delta band (1–4 Hz) EEG power. (C) Average theta band (4–7 Hz) EEG power. (D) Average alpha band (8–12 Hz) EEG power. (E) Average beta band (13–30 Hz) EEG power.Comparing the change in brain–computer interface performance following each intervention\nTo investigate the effect of the two types of intervention on BCI performance, we compared the change in Percent Valid Correct (PVC)—the ratio between the number of “hits” and the sum of “hits” and “misses”—between the group of subjects that participated in the meditation exercise and those that participated in the control exercise (Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The plots (Figure 4) seem to show a general increase in performance improvement as the interval between sessions increases, with the Spearman correlation coefficients being 0.634 for the LR (p = 0.049) and 0.276 for the UD task (p = 0.440), respectively.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We indeed observed a strong and positive correlation between the PVC and the trial-averaged △control signal for LR and UD tasks (p <0.001), as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 6 summarizes the results.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Figure 2, we see strong alpha band activities in the occipital region of the brain during meditation and control, likely because the subjects were asked to keep their eyes closed throughout the interventions (Teplan, 2002; Bazanova and Vernon, 2014).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Interestingly, Figure 4 shows a somewhat increasing trend between the change in BCI performance (PVC, %) and the interval between the two sessions (days).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Lastly, the △control signal between the left and right trials of the LR and up and down trials of the UD tasks calculated using the EEG data during MI was shown to be significantly correlated to BCI performance (Figure 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "In the EEG neurophysiological analysis, a total of 6 subjects were excluded: from group MC, 1 subject was excluded due to equipment issues and 1 other subject for not completing the study (the same subject as before); and from group CM, 1 subject was excluded due to equipment issues, 1 subject due to experimental error, and 2 subjects due to their EEG data containing too many artifacts to perform the offline analysis.Experimental design\nThe experimental design is illustrated in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Each session consists of part 1, followed by a 20-min intervention, and then part 2 (Figure 1D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Session 1 part 1 contains 8 runs: 4 runs of a one-dimensional (1D) left-right (LR) cursor control task and 4 runs of a 1D up-down (UD) cursor control task (Figure 1A), of which the first run in both tasks were practice runs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Afterward, in session 1 part 2, subjects repeated the same 6 runs of the BCI tasks as before the intervention—3 runs of LR followed by 3 runs of UD (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "2 s after this “target” appeared, a pink circle, or the “cursor,” appeared at the center of the monitor (Figure 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows the overall group average of EEG power and EEG power bandpassed to four frequency bands: delta (1–4 Hz), theta (4–7 Hz), alpha (8–12 Hz), and beta (13–30 Hz).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A shows the average EEG power of each electrode, calculated by taking the average of the squared difference between the raw EEG value at each time point and the mean EEG of that electrode.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nScalp topographic maps of group (n = 21) average Electroencephalography (EEG) power of different frequency bands during meditation and control interventions. (A) Pre-processed average EEG power not filtered to any specific frequency band (1–100 Hz). (B) Average delta band (1–4 Hz) EEG power. (C) Average theta band (4–7 Hz) EEG power. (D) Average alpha band (8–12 Hz) EEG power. (E) Average beta band (13–30 Hz) EEG power.Comparing the change in brain–computer interface performance following each intervention\nTo investigate the effect of the two types of intervention on BCI performance, we compared the change in Percent Valid Correct (PVC)—the ratio between the number of “hits” and the sum of “hits” and “misses”—between the group of subjects that participated in the meditation exercise and those that participated in the control exercise (Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The plots (Figure 4) seem to show a general increase in performance improvement as the interval between sessions increases, with the Spearman correlation coefficients being 0.634 for the LR (p = 0.049) and 0.276 for the UD task (p = 0.440), respectively.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We indeed observed a strong and positive correlation between the PVC and the trial-averaged △control signal for LR and UD tasks (p <0.001), as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 6 summarizes the results.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Figure 2, we see strong alpha band activities in the occipital region of the brain during meditation and control, likely because the subjects were asked to keep their eyes closed throughout the interventions (Teplan, 2002; Bazanova and Vernon, 2014).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Interestingly, Figure 4 shows a somewhat increasing trend between the change in BCI performance (PVC, %) and the interval between the two sessions (days).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Lastly, the △control signal between the left and right trials of the LR and up and down trials of the UD tasks calculated using the EEG data during MI was shown to be significantly correlated to BCI performance (Figure 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "In the EEG neurophysiological analysis, a total of 6 subjects were excluded: from group MC, 1 subject was excluded due to equipment issues and 1 other subject for not completing the study (the same subject as before); and from group CM, 1 subject was excluded due to equipment issues, 1 subject due to experimental error, and 2 subjects due to their EEG data containing too many artifacts to perform the offline analysis.Experimental design\nThe experimental design is illustrated in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Each session consists of part 1, followed by a 20-min intervention, and then part 2 (Figure 1D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Session 1 part 1 contains 8 runs: 4 runs of a one-dimensional (1D) left-right (LR) cursor control task and 4 runs of a 1D up-down (UD) cursor control task (Figure 1A), of which the first run in both tasks were practice runs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Afterward, in session 1 part 2, subjects repeated the same 6 runs of the BCI tasks as before the intervention—3 runs of LR followed by 3 runs of UD (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "2 s after this “target” appeared, a pink circle, or the “cursor,” appeared at the center of the monitor (Figure 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows the overall group average of EEG power and EEG power bandpassed to four frequency bands: delta (1–4 Hz), theta (4–7 Hz), alpha (8–12 Hz), and beta (13–30 Hz).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A shows the average EEG power of each electrode, calculated by taking the average of the squared difference between the raw EEG value at each time point and the mean EEG of that electrode.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nScalp topographic maps of group (n = 21) average Electroencephalography (EEG) power of different frequency bands during meditation and control interventions. (A) Pre-processed average EEG power not filtered to any specific frequency band (1–100 Hz). (B) Average delta band (1–4 Hz) EEG power. (C) Average theta band (4–7 Hz) EEG power. (D) Average alpha band (8–12 Hz) EEG power. (E) Average beta band (13–30 Hz) EEG power.Comparing the change in brain–computer interface performance following each intervention\nTo investigate the effect of the two types of intervention on BCI performance, we compared the change in Percent Valid Correct (PVC)—the ratio between the number of “hits” and the sum of “hits” and “misses”—between the group of subjects that participated in the meditation exercise and those that participated in the control exercise (Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The plots (Figure 4) seem to show a general increase in performance improvement as the interval between sessions increases, with the Spearman correlation coefficients being 0.634 for the LR (p = 0.049) and 0.276 for the UD task (p = 0.440), respectively.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We indeed observed a strong and positive correlation between the PVC and the trial-averaged △control signal for LR and UD tasks (p <0.001), as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 6 summarizes the results.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Figure 2, we see strong alpha band activities in the occipital region of the brain during meditation and control, likely because the subjects were asked to keep their eyes closed throughout the interventions (Teplan, 2002; Bazanova and Vernon, 2014).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Interestingly, Figure 4 shows a somewhat increasing trend between the change in BCI performance (PVC, %) and the interval between the two sessions (days).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Lastly, the △control signal between the left and right trials of the LR and up and down trials of the UD tasks calculated using the EEG data during MI was shown to be significantly correlated to BCI performance (Figure 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "In the EEG neurophysiological analysis, a total of 6 subjects were excluded: from group MC, 1 subject was excluded due to equipment issues and 1 other subject for not completing the study (the same subject as before); and from group CM, 1 subject was excluded due to equipment issues, 1 subject due to experimental error, and 2 subjects due to their EEG data containing too many artifacts to perform the offline analysis.Experimental design\nThe experimental design is illustrated in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Each session consists of part 1, followed by a 20-min intervention, and then part 2 (Figure 1D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Session 1 part 1 contains 8 runs: 4 runs of a one-dimensional (1D) left-right (LR) cursor control task and 4 runs of a 1D up-down (UD) cursor control task (Figure 1A), of which the first run in both tasks were practice runs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Afterward, in session 1 part 2, subjects repeated the same 6 runs of the BCI tasks as before the intervention—3 runs of LR followed by 3 runs of UD (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "2 s after this “target” appeared, a pink circle, or the “cursor,” appeared at the center of the monitor (Figure 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows the overall group average of EEG power and EEG power bandpassed to four frequency bands: delta (1–4 Hz), theta (4–7 Hz), alpha (8–12 Hz), and beta (13–30 Hz).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A shows the average EEG power of each electrode, calculated by taking the average of the squared difference between the raw EEG value at each time point and the mean EEG of that electrode.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nScalp topographic maps of group (n = 21) average Electroencephalography (EEG) power of different frequency bands during meditation and control interventions. (A) Pre-processed average EEG power not filtered to any specific frequency band (1–100 Hz). (B) Average delta band (1–4 Hz) EEG power. (C) Average theta band (4–7 Hz) EEG power. (D) Average alpha band (8–12 Hz) EEG power. (E) Average beta band (13–30 Hz) EEG power.Comparing the change in brain–computer interface performance following each intervention\nTo investigate the effect of the two types of intervention on BCI performance, we compared the change in Percent Valid Correct (PVC)—the ratio between the number of “hits” and the sum of “hits” and “misses”—between the group of subjects that participated in the meditation exercise and those that participated in the control exercise (Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The plots (Figure 4) seem to show a general increase in performance improvement as the interval between sessions increases, with the Spearman correlation coefficients being 0.634 for the LR (p = 0.049) and 0.276 for the UD task (p = 0.440), respectively.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We indeed observed a strong and positive correlation between the PVC and the trial-averaged △control signal for LR and UD tasks (p <0.001), as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 6 summarizes the results.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Figure 2, we see strong alpha band activities in the occipital region of the brain during meditation and control, likely because the subjects were asked to keep their eyes closed throughout the interventions (Teplan, 2002; Bazanova and Vernon, 2014).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Interestingly, Figure 4 shows a somewhat increasing trend between the change in BCI performance (PVC, %) and the interval between the two sessions (days).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Lastly, the △control signal between the left and right trials of the LR and up and down trials of the UD tasks calculated using the EEG data during MI was shown to be significantly correlated to BCI performance (Figure 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "In the EEG neurophysiological analysis, a total of 6 subjects were excluded: from group MC, 1 subject was excluded due to equipment issues and 1 other subject for not completing the study (the same subject as before); and from group CM, 1 subject was excluded due to equipment issues, 1 subject due to experimental error, and 2 subjects due to their EEG data containing too many artifacts to perform the offline analysis.Experimental design\nThe experimental design is illustrated in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Each session consists of part 1, followed by a 20-min intervention, and then part 2 (Figure 1D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Session 1 part 1 contains 8 runs: 4 runs of a one-dimensional (1D) left-right (LR) cursor control task and 4 runs of a 1D up-down (UD) cursor control task (Figure 1A), of which the first run in both tasks were practice runs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Afterward, in session 1 part 2, subjects repeated the same 6 runs of the BCI tasks as before the intervention—3 runs of LR followed by 3 runs of UD (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "2 s after this “target” appeared, a pink circle, or the “cursor,” appeared at the center of the monitor (Figure 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Experimental design\nThe experimental design is illustrated in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Each session consists of part 1, followed by a 20-min intervention, and then part 2 (Figure 1D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Session 1 part 1 contains 8 runs: 4 runs of a one-dimensional (1D) left-right (LR) cursor control task and 4 runs of a 1D up-down (UD) cursor control task (Figure 1A), of which the first run in both tasks were practice runs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Afterward, in session 1 part 2, subjects repeated the same 6 runs of the BCI tasks as before the intervention—3 runs of LR followed by 3 runs of UD (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The experimental design is illustrated in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Each session consists of part 1, followed by a 20-min intervention, and then part 2 (Figure 1D).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel D",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Session 1 part 1 contains 8 runs: 4 runs of a one-dimensional (1D) left-right (LR) cursor control task and 4 runs of a 1D up-down (UD) cursor control task (Figure 1A), of which the first run in both tasks were practice runs.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Afterward, in session 1 part 2, subjects repeated the same 6 runs of the BCI tasks as before the intervention—3 runs of LR followed by 3 runs of UD (Figure 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "2 s after this “target” appeared, a pink circle, or the “cursor,” appeared at the center of the monitor (Figure 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "2 s after this “target” appeared, a pink circle, or the “cursor,” appeared at the center of the monitor (Figure 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows the overall group average of EEG power and EEG power bandpassed to four frequency bands: delta (1–4 Hz), theta (4–7 Hz), alpha (8–12 Hz), and beta (13–30 Hz).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A shows the average EEG power of each electrode, calculated by taking the average of the squared difference between the raw EEG value at each time point and the mean EEG of that electrode.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nScalp topographic maps of group (n = 21) average Electroencephalography (EEG) power of different frequency bands during meditation and control interventions. (A) Pre-processed average EEG power not filtered to any specific frequency band (1–100 Hz). (B) Average delta band (1–4 Hz) EEG power. (C) Average theta band (4–7 Hz) EEG power. (D) Average alpha band (8–12 Hz) EEG power. (E) Average beta band (13–30 Hz) EEG power.Comparing the change in brain–computer interface performance following each intervention\nTo investigate the effect of the two types of intervention on BCI performance, we compared the change in Percent Valid Correct (PVC)—the ratio between the number of “hits” and the sum of “hits” and “misses”—between the group of subjects that participated in the meditation exercise and those that participated in the control exercise (Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The plots (Figure 4) seem to show a general increase in performance improvement as the interval between sessions increases, with the Spearman correlation coefficients being 0.634 for the LR (p = 0.049) and 0.276 for the UD task (p = 0.440), respectively.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We indeed observed a strong and positive correlation between the PVC and the trial-averaged △control signal for LR and UD tasks (p <0.001), as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 6 summarizes the results.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows the overall group average of EEG power and EEG power bandpassed to four frequency bands: delta (1–4 Hz), theta (4–7 Hz), alpha (8–12 Hz), and beta (13–30 Hz).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A shows the average EEG power of each electrode, calculated by taking the average of the squared difference between the raw EEG value at each time point and the mean EEG of that electrode.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 shows the overall group average of EEG power and EEG power bandpassed to four frequency bands: delta (1–4 Hz), theta (4–7 Hz), alpha (8–12 Hz), and beta (13–30 Hz).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2A shows the average EEG power of each electrode, calculated by taking the average of the squared difference between the raw EEG value at each time point and the mean EEG of that electrode.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Comparing the change in brain–computer interface performance following each intervention\nTo investigate the effect of the two types of intervention on BCI performance, we compared the change in Percent Valid Correct (PVC)—the ratio between the number of “hits” and the sum of “hits” and “misses”—between the group of subjects that participated in the meditation exercise and those that participated in the control exercise (Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "To investigate the effect of the two types of intervention on BCI performance, we compared the change in Percent Valid Correct (PVC)—the ratio between the number of “hits” and the sum of “hits” and “misses”—between the group of subjects that participated in the meditation exercise and those that participated in the control exercise (Figure 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The plots (Figure 4) seem to show a general increase in performance improvement as the interval between sessions increases, with the Spearman correlation coefficients being 0.634 for the LR (p = 0.049) and 0.276 for the UD task (p = 0.440), respectively.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The plots (Figure 4) seem to show a general increase in performance improvement as the interval between sessions increases, with the Spearman correlation coefficients being 0.634 for the LR (p = 0.049) and 0.276 for the UD task (p = 0.440), respectively.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "We indeed observed a strong and positive correlation between the PVC and the trial-averaged △control signal for LR and UD tasks (p <0.001), as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 6 summarizes the results.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "We indeed observed a strong and positive correlation between the PVC and the trial-averaged △control signal for LR and UD tasks (p <0.001), as shown in Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 6 summarizes the results.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Figure 2, we see strong alpha band activities in the occipital region of the brain during meditation and control, likely because the subjects were asked to keep their eyes closed throughout the interventions (Teplan, 2002; Bazanova and Vernon, 2014).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Interestingly, Figure 4 shows a somewhat increasing trend between the change in BCI performance (PVC, %) and the interval between the two sessions (days).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Lastly, the △control signal between the left and right trials of the LR and up and down trials of the UD tasks calculated using the EEG data during MI was shown to be significantly correlated to BCI performance (Figure 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Figure 2, we see strong alpha band activities in the occipital region of the brain during meditation and control, likely because the subjects were asked to keep their eyes closed throughout the interventions (Teplan, 2002; Bazanova and Vernon, 2014).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Interestingly, Figure 4 shows a somewhat increasing trend between the change in BCI performance (PVC, %) and the interval between the two sessions (days).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Lastly, the △control signal between the left and right trials of the LR and up and down trials of the UD tasks calculated using the EEG data during MI was shown to be significantly correlated to BCI performance (Figure 5).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 2,
+    "claims_count": 151,
+    "images_downloaded": 2,
+    "tables_filtered": 90
+  }
+}

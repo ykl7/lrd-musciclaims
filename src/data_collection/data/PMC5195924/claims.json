@@ -1,0 +1,1272 @@
+[
+  {
+    "sentence": "In the Fig. 1, only the enclosed text in the rectangular box is correctly recognized using patterns by ChemEngine, the rest of the unstructured text is ignored.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The computational steps employed in the Java based ChemEngine application are highlighted in the flowchart (Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo code\n(Co-ordinate Text).matches (“Regular Expression Pattern with Delimiter Definition”);\nFor Example: Delimiter: Comma\nString_Data.matches(“^[A-Za-z0-9]{1,2}\\\\,[0]{0,1}[\\\\,]{0,1}-{0,1}.{1,2}[0-9]{1,10}\\\\,-{0,1}.{1,2}[0-9]{1,10}.{1,}”)\nDelimiter: Space\nString_Data.matches(“^[A-Za-z0-9]{1,2}\\\\s+[0]{0,1}[\\\\s +]{0,1}-{0,1}.{1,2}[0-9]{0,10}\\\\s+-{0,1}.{1,2}[0-9]{0,10}.{1,}”)\nThe details of the derivation of the regular expression patterns from the coordinate data format can be viewed in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "A user friendly GUI has been developed for easy processing of PDF files, navigation and 3D structure generation (Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The third case was even more challenging as the molecular coordinates were published in a comma delimiter form (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The logic implemented in ChemEngine for creating a bond matrix between two atoms A1 and A2 in a molecule is schematically represented in Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Bond matrix conformation of a representative molecule from this set is shown in Fig. 7 (Bond matrix of few more molecules is shown in Additional file 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Both the energies were in close agreement (R2 = 0.998) despite the choice of different methods (Fig. 8).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In the Fig. 1, only the enclosed text in the rectangular box is correctly recognized using patterns by ChemEngine, the rest of the unstructured text is ignored.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The computational steps employed in the Java based ChemEngine application are highlighted in the flowchart (Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo code\n(Co-ordinate Text).matches (“Regular Expression Pattern with Delimiter Definition”);\nFor Example: Delimiter: Comma\nString_Data.matches(“^[A-Za-z0-9]{1,2}\\\\,[0]{0,1}[\\\\,]{0,1}-{0,1}.{1,2}[0-9]{1,10}\\\\,-{0,1}.{1,2}[0-9]{1,10}.{1,}”)\nDelimiter: Space\nString_Data.matches(“^[A-Za-z0-9]{1,2}\\\\s+[0]{0,1}[\\\\s +]{0,1}-{0,1}.{1,2}[0-9]{0,10}\\\\s+-{0,1}.{1,2}[0-9]{0,10}.{1,}”)\nThe details of the derivation of the regular expression patterns from the coordinate data format can be viewed in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "A user friendly GUI has been developed for easy processing of PDF files, navigation and 3D structure generation (Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The third case was even more challenging as the molecular coordinates were published in a comma delimiter form (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The logic implemented in ChemEngine for creating a bond matrix between two atoms A1 and A2 in a molecule is schematically represented in Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Bond matrix conformation of a representative molecule from this set is shown in Fig. 7 (Bond matrix of few more molecules is shown in Additional file 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Both the energies were in close agreement (R2 = 0.998) despite the choice of different methods (Fig. 8).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In the Fig. 1, only the enclosed text in the rectangular box is correctly recognized using patterns by ChemEngine, the rest of the unstructured text is ignored.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The computational steps employed in the Java based ChemEngine application are highlighted in the flowchart (Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo code\n(Co-ordinate Text).matches (“Regular Expression Pattern with Delimiter Definition”);\nFor Example: Delimiter: Comma\nString_Data.matches(“^[A-Za-z0-9]{1,2}\\\\,[0]{0,1}[\\\\,]{0,1}-{0,1}.{1,2}[0-9]{1,10}\\\\,-{0,1}.{1,2}[0-9]{1,10}.{1,}”)\nDelimiter: Space\nString_Data.matches(“^[A-Za-z0-9]{1,2}\\\\s+[0]{0,1}[\\\\s +]{0,1}-{0,1}.{1,2}[0-9]{0,10}\\\\s+-{0,1}.{1,2}[0-9]{0,10}.{1,}”)\nThe details of the derivation of the regular expression patterns from the coordinate data format can be viewed in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "A user friendly GUI has been developed for easy processing of PDF files, navigation and 3D structure generation (Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The third case was even more challenging as the molecular coordinates were published in a comma delimiter form (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The logic implemented in ChemEngine for creating a bond matrix between two atoms A1 and A2 in a molecule is schematically represented in Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Bond matrix conformation of a representative molecule from this set is shown in Fig. 7 (Bond matrix of few more molecules is shown in Additional file 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Both the energies were in close agreement (R2 = 0.998) despite the choice of different methods (Fig. 8).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In the Fig. 1, only the enclosed text in the rectangular box is correctly recognized using patterns by ChemEngine, the rest of the unstructured text is ignored.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The computational steps employed in the Java based ChemEngine application are highlighted in the flowchart (Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo code\n(Co-ordinate Text).matches (“Regular Expression Pattern with Delimiter Definition”);\nFor Example: Delimiter: Comma\nString_Data.matches(“^[A-Za-z0-9]{1,2}\\\\,[0]{0,1}[\\\\,]{0,1}-{0,1}.{1,2}[0-9]{1,10}\\\\,-{0,1}.{1,2}[0-9]{1,10}.{1,}”)\nDelimiter: Space\nString_Data.matches(“^[A-Za-z0-9]{1,2}\\\\s+[0]{0,1}[\\\\s +]{0,1}-{0,1}.{1,2}[0-9]{0,10}\\\\s+-{0,1}.{1,2}[0-9]{0,10}.{1,}”)\nThe details of the derivation of the regular expression patterns from the coordinate data format can be viewed in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "A user friendly GUI has been developed for easy processing of PDF files, navigation and 3D structure generation (Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The third case was even more challenging as the molecular coordinates were published in a comma delimiter form (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The logic implemented in ChemEngine for creating a bond matrix between two atoms A1 and A2 in a molecule is schematically represented in Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Bond matrix conformation of a representative molecule from this set is shown in Fig. 7 (Bond matrix of few more molecules is shown in Additional file 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Both the energies were in close agreement (R2 = 0.998) despite the choice of different methods (Fig. 8).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In the Fig. 1, only the enclosed text in the rectangular box is correctly recognized using patterns by ChemEngine, the rest of the unstructured text is ignored.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The computational steps employed in the Java based ChemEngine application are highlighted in the flowchart (Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo code\n(Co-ordinate Text).matches (“Regular Expression Pattern with Delimiter Definition”);\nFor Example: Delimiter: Comma\nString_Data.matches(“^[A-Za-z0-9]{1,2}\\\\,[0]{0,1}[\\\\,]{0,1}-{0,1}.{1,2}[0-9]{1,10}\\\\,-{0,1}.{1,2}[0-9]{1,10}.{1,}”)\nDelimiter: Space\nString_Data.matches(“^[A-Za-z0-9]{1,2}\\\\s+[0]{0,1}[\\\\s +]{0,1}-{0,1}.{1,2}[0-9]{0,10}\\\\s+-{0,1}.{1,2}[0-9]{0,10}.{1,}”)\nThe details of the derivation of the regular expression patterns from the coordinate data format can be viewed in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "A user friendly GUI has been developed for easy processing of PDF files, navigation and 3D structure generation (Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The third case was even more challenging as the molecular coordinates were published in a comma delimiter form (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The logic implemented in ChemEngine for creating a bond matrix between two atoms A1 and A2 in a molecule is schematically represented in Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Bond matrix conformation of a representative molecule from this set is shown in Fig. 7 (Bond matrix of few more molecules is shown in Additional file 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Both the energies were in close agreement (R2 = 0.998) despite the choice of different methods (Fig. 8).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In the Fig. 1, only the enclosed text in the rectangular box is correctly recognized using patterns by ChemEngine, the rest of the unstructured text is ignored.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The computational steps employed in the Java based ChemEngine application are highlighted in the flowchart (Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo code\n(Co-ordinate Text).matches (“Regular Expression Pattern with Delimiter Definition”);\nFor Example: Delimiter: Comma\nString_Data.matches(“^[A-Za-z0-9]{1,2}\\\\,[0]{0,1}[\\\\,]{0,1}-{0,1}.{1,2}[0-9]{1,10}\\\\,-{0,1}.{1,2}[0-9]{1,10}.{1,}”)\nDelimiter: Space\nString_Data.matches(“^[A-Za-z0-9]{1,2}\\\\s+[0]{0,1}[\\\\s +]{0,1}-{0,1}.{1,2}[0-9]{0,10}\\\\s+-{0,1}.{1,2}[0-9]{0,10}.{1,}”)\nThe details of the derivation of the regular expression patterns from the coordinate data format can be viewed in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "A user friendly GUI has been developed for easy processing of PDF files, navigation and 3D structure generation (Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The third case was even more challenging as the molecular coordinates were published in a comma delimiter form (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The logic implemented in ChemEngine for creating a bond matrix between two atoms A1 and A2 in a molecule is schematically represented in Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Bond matrix conformation of a representative molecule from this set is shown in Fig. 7 (Bond matrix of few more molecules is shown in Additional file 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Both the energies were in close agreement (R2 = 0.998) despite the choice of different methods (Fig. 8).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In the Fig. 1, only the enclosed text in the rectangular box is correctly recognized using patterns by ChemEngine, the rest of the unstructured text is ignored.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The computational steps employed in the Java based ChemEngine application are highlighted in the flowchart (Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo code\n(Co-ordinate Text).matches (“Regular Expression Pattern with Delimiter Definition”);\nFor Example: Delimiter: Comma\nString_Data.matches(“^[A-Za-z0-9]{1,2}\\\\,[0]{0,1}[\\\\,]{0,1}-{0,1}.{1,2}[0-9]{1,10}\\\\,-{0,1}.{1,2}[0-9]{1,10}.{1,}”)\nDelimiter: Space\nString_Data.matches(“^[A-Za-z0-9]{1,2}\\\\s+[0]{0,1}[\\\\s +]{0,1}-{0,1}.{1,2}[0-9]{0,10}\\\\s+-{0,1}.{1,2}[0-9]{0,10}.{1,}”)\nThe details of the derivation of the regular expression patterns from the coordinate data format can be viewed in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "A user friendly GUI has been developed for easy processing of PDF files, navigation and 3D structure generation (Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The third case was even more challenging as the molecular coordinates were published in a comma delimiter form (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The logic implemented in ChemEngine for creating a bond matrix between two atoms A1 and A2 in a molecule is schematically represented in Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Bond matrix conformation of a representative molecule from this set is shown in Fig. 7 (Bond matrix of few more molecules is shown in Additional file 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Both the energies were in close agreement (R2 = 0.998) despite the choice of different methods (Fig. 8).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In the Fig. 1, only the enclosed text in the rectangular box is correctly recognized using patterns by ChemEngine, the rest of the unstructured text is ignored.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The computational steps employed in the Java based ChemEngine application are highlighted in the flowchart (Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo code\n(Co-ordinate Text).matches (“Regular Expression Pattern with Delimiter Definition”);\nFor Example: Delimiter: Comma\nString_Data.matches(“^[A-Za-z0-9]{1,2}\\\\,[0]{0,1}[\\\\,]{0,1}-{0,1}.{1,2}[0-9]{1,10}\\\\,-{0,1}.{1,2}[0-9]{1,10}.{1,}”)\nDelimiter: Space\nString_Data.matches(“^[A-Za-z0-9]{1,2}\\\\s+[0]{0,1}[\\\\s +]{0,1}-{0,1}.{1,2}[0-9]{0,10}\\\\s+-{0,1}.{1,2}[0-9]{0,10}.{1,}”)\nThe details of the derivation of the regular expression patterns from the coordinate data format can be viewed in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "A user friendly GUI has been developed for easy processing of PDF files, navigation and 3D structure generation (Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The third case was even more challenging as the molecular coordinates were published in a comma delimiter form (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The logic implemented in ChemEngine for creating a bond matrix between two atoms A1 and A2 in a molecule is schematically represented in Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Bond matrix conformation of a representative molecule from this set is shown in Fig. 7 (Bond matrix of few more molecules is shown in Additional file 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Both the energies were in close agreement (R2 = 0.998) despite the choice of different methods (Fig. 8).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In the Fig. 1, only the enclosed text in the rectangular box is correctly recognized using patterns by ChemEngine, the rest of the unstructured text is ignored.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "In the Fig. 1, only the enclosed text in the rectangular box is correctly recognized using patterns by ChemEngine, the rest of the unstructured text is ignored.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The computational steps employed in the Java based ChemEngine application are highlighted in the flowchart (Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo code\n(Co-ordinate Text).matches (“Regular Expression Pattern with Delimiter Definition”);\nFor Example: Delimiter: Comma\nString_Data.matches(“^[A-Za-z0-9]{1,2}\\\\,[0]{0,1}[\\\\,]{0,1}-{0,1}.{1,2}[0-9]{1,10}\\\\,-{0,1}.{1,2}[0-9]{1,10}.{1,}”)\nDelimiter: Space\nString_Data.matches(“^[A-Za-z0-9]{1,2}\\\\s+[0]{0,1}[\\\\s +]{0,1}-{0,1}.{1,2}[0-9]{0,10}\\\\s+-{0,1}.{1,2}[0-9]{0,10}.{1,}”)\nThe details of the derivation of the regular expression patterns from the coordinate data format can be viewed in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "A user friendly GUI has been developed for easy processing of PDF files, navigation and 3D structure generation (Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The computational steps employed in the Java based ChemEngine application are highlighted in the flowchart (Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo code\n(Co-ordinate Text).matches (“Regular Expression Pattern with Delimiter Definition”);\nFor Example: Delimiter: Comma\nString_Data.matches(“^[A-Za-z0-9]{1,2}\\\\,[0]{0,1}[\\\\,]{0,1}-{0,1}.{1,2}[0-9]{1,10}\\\\,-{0,1}.{1,2}[0-9]{1,10}.{1,}”)\nDelimiter: Space\nString_Data.matches(“^[A-Za-z0-9]{1,2}\\\\s+[0]{0,1}[\\\\s +]{0,1}-{0,1}.{1,2}[0-9]{0,10}\\\\s+-{0,1}.{1,2}[0-9]{0,10}.{1,}”)\nThe details of the derivation of the regular expression patterns from the coordinate data format can be viewed in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "A user friendly GUI has been developed for easy processing of PDF files, navigation and 3D structure generation (Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The details of the derivation of the regular expression patterns from the coordinate data format can be viewed in Fig. 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "A user friendly GUI has been developed for easy processing of PDF files, navigation and 3D structure generation (Fig. 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The third case was even more challenging as the molecular coordinates were published in a comma delimiter form (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The logic implemented in ChemEngine for creating a bond matrix between two atoms A1 and A2 in a molecule is schematically represented in Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Bond matrix conformation of a representative molecule from this set is shown in Fig. 7 (Bond matrix of few more molecules is shown in Additional file 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Both the energies were in close agreement (R2 = 0.998) despite the choice of different methods (Fig. 8).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The third case was even more challenging as the molecular coordinates were published in a comma delimiter form (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The logic implemented in ChemEngine for creating a bond matrix between two atoms A1 and A2 in a molecule is schematically represented in Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Bond matrix conformation of a representative molecule from this set is shown in Fig. 7 (Bond matrix of few more molecules is shown in Additional file 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The logic implemented in ChemEngine for creating a bond matrix between two atoms A1 and A2 in a molecule is schematically represented in Fig. 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Bond matrix conformation of a representative molecule from this set is shown in Fig. 7 (Bond matrix of few more molecules is shown in Additional file 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Both the energies were in close agreement (R2 = 0.998) despite the choice of different methods (Fig. 8).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Both the energies were in close agreement (R2 = 0.998) despite the choice of different methods (Fig. 8).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  }
+]

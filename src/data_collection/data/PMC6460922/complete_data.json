@@ -1,0 +1,472 @@
+{
+  "paper_id": "PMC6460922",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6460922/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Figure 1.",
+      "caption": "Data sources have various metadata specifications, which undergo ingestion into the common DATS model, whose metadata elements are used for indexing and DataMed searches. A terminology server is used to expand, transform and standardize concepts used in metadata descriptions and in user queries. The user is only responsible for submitting a query in natural language to the DataMed search engine, such as “astrocytoma and IDH1.” (The figure uses illustrations from PresenterMedia.com.)",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1ec9/6460922/19a0a2191496/nihms-942353-f0001.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1ec9/6460922/19a0a2191496/nihms-942353-f0001.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1ec9/6460922/19a0a2191496/nihms-942353-f0001.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1ec9/6460922/19a0a2191496/nihms-942353-f0001.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1ec9/6460922/19a0a2191496/nihms-942353-f0001.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC6460922/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1ec9/6460922/19a0a2191496/nihms-942353-f0001.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Figure 2.",
+      "caption": "Community input to the Data Discovery Index Consortium. Working groups involved over 86 people from multiple institutions to scope the project via use cases, develop core metadata specifications, recommend identifier strategies, develop and test the search engine prototype, and discuss issues in data citation. Additionally, bioCADDIE funded external pilot projects for development of software that will be incorporated into the DataMed prototype.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1ec9/6460922/175003086980/nihms-942353-f0002.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1ec9/6460922/175003086980/nihms-942353-f0002.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1ec9/6460922/175003086980/nihms-942353-f0002.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1ec9/6460922/175003086980/nihms-942353-f0002.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1ec9/6460922/175003086980/nihms-942353-f0002.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC6460922/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1ec9/6460922/175003086980/nihms-942353-f0002.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "The DATS model, which is a model inspired by the Journal Article Tag Suite (JATS) used in PubMed (NISO JATS Draft Version 1.1d3, April 2015 (see URLs))9, enables submission of data for ‘ingestion’ by DataMed (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Looking more broadly at the ecosystem for data discoverability, a large community is participating in various aspects of bioCADDIE (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The DATS model, which is a model inspired by the Journal Article Tag Suite (JATS) used in PubMed (NISO JATS Draft Version 1.1d3, April 2015 (see URLs))9, enables submission of data for ‘ingestion’ by DataMed (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Looking more broadly at the ecosystem for data discoverability, a large community is participating in various aspects of bioCADDIE (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The DATS model, which is a model inspired by the Journal Article Tag Suite (JATS) used in PubMed (NISO JATS Draft Version 1.1d3, April 2015 (see URLs))9, enables submission of data for ‘ingestion’ by DataMed (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Looking more broadly at the ecosystem for data discoverability, a large community is participating in various aspects of bioCADDIE (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The DATS model, which is a model inspired by the Journal Article Tag Suite (JATS) used in PubMed (NISO JATS Draft Version 1.1d3, April 2015 (see URLs))9, enables submission of data for ‘ingestion’ by DataMed (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Looking more broadly at the ecosystem for data discoverability, a large community is participating in various aspects of bioCADDIE (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The DATS model, which is a model inspired by the Journal Article Tag Suite (JATS) used in PubMed (NISO JATS Draft Version 1.1d3, April 2015 (see URLs))9, enables submission of data for ‘ingestion’ by DataMed (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Looking more broadly at the ecosystem for data discoverability, a large community is participating in various aspects of bioCADDIE (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The DATS model, which is a model inspired by the Journal Article Tag Suite (JATS) used in PubMed (NISO JATS Draft Version 1.1d3, April 2015 (see URLs))9, enables submission of data for ‘ingestion’ by DataMed (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Looking more broadly at the ecosystem for data discoverability, a large community is participating in various aspects of bioCADDIE (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The DATS model, which is a model inspired by the Journal Article Tag Suite (JATS) used in PubMed (NISO JATS Draft Version 1.1d3, April 2015 (see URLs))9, enables submission of data for ‘ingestion’ by DataMed (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Looking more broadly at the ecosystem for data discoverability, a large community is participating in various aspects of bioCADDIE (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The DATS model, which is a model inspired by the Journal Article Tag Suite (JATS) used in PubMed (NISO JATS Draft Version 1.1d3, April 2015 (see URLs))9, enables submission of data for ‘ingestion’ by DataMed (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Looking more broadly at the ecosystem for data discoverability, a large community is participating in various aspects of bioCADDIE (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The DATS model, which is a model inspired by the Journal Article Tag Suite (JATS) used in PubMed (NISO JATS Draft Version 1.1d3, April 2015 (see URLs))9, enables submission of data for ‘ingestion’ by DataMed (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The DATS model, which is a model inspired by the Journal Article Tag Suite (JATS) used in PubMed (NISO JATS Draft Version 1.1d3, April 2015 (see URLs))9, enables submission of data for ‘ingestion’ by DataMed (Fig. 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Looking more broadly at the ecosystem for data discoverability, a large community is participating in various aspects of bioCADDIE (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Looking more broadly at the ecosystem for data discoverability, a large community is participating in various aspects of bioCADDIE (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 2,
+    "claims_count": 20,
+    "images_downloaded": 2,
+    "tables_filtered": 115
+  }
+}

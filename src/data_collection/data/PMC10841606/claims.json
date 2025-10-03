@@ -1,0 +1,1352 @@
+[
+  {
+    "sentence": "First, we excluded trial registrations, posters, and reports that did not examine the efficacy and effectiveness of the BAIs (e.g., protocols and cost-effective analysis reports) and reports with no count outcome variables (e.g., those reporting only binary or truly continuous outcomes), resulting in 64 reports from 54 trials with 119 count outcome variables (see Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "In the context of BAIs, it is common for a sizable number of participants to report consuming zero drinks, zero drinking days, or zero alcohol-related problems, which may indicate zero inflation (see Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The red shaded area in the left tail in Figure 2A depicts negative values that would be expected under the normal distribution.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 offers typical examples of count distribution visualizations commonly seen in BAI studies, including normal, Poisson, NB, zero-inflated Poisson, and zero-inflated NB distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The actual data distribution may differ from the examples in Figure 2 if descriptive statistics (e.g., means, standard deviations, and zero proportions) differ from those we used.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Thus, we have summarized some guiding principles to help determine an appropriate choice in a flowchart presented in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2A depicts how a normal distribution of drinks per week data would typically look with an average of five drinks per week and a standard deviation of three.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2B depicts drinks per week data simulated from a Poisson distribution with a λ parameter (for both mean and variance) of five drinks per week.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2C depicts a distribution of drinks per week data simulated under the NB distribution with a λ mean parameter of five and an overdispersion parameter of three.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Compared to the Poisson distribution in Figure 2B, the NB distribution has more observations at or near zero, as well as more observations reporting many more drinks per week than average, creating a distribution with notable positive skewness.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Panels D and E of Figure 2 depict prototypical distributions of ZIP and ZINB count data simulated under assumptions of an average of five drinks per week in the non-zero submodel and 15% zero observations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In the ZIP distribution in Figure 2D, the zeros are the second most frequent response, and in the ZINB of Figure 2E, zeros are by far the most frequent response.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A decision tree shown in Figure 3 should help navigate analytical decisions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "First, we excluded trial registrations, posters, and reports that did not examine the efficacy and effectiveness of the BAIs (e.g., protocols and cost-effective analysis reports) and reports with no count outcome variables (e.g., those reporting only binary or truly continuous outcomes), resulting in 64 reports from 54 trials with 119 count outcome variables (see Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "In the context of BAIs, it is common for a sizable number of participants to report consuming zero drinks, zero drinking days, or zero alcohol-related problems, which may indicate zero inflation (see Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The red shaded area in the left tail in Figure 2A depicts negative values that would be expected under the normal distribution.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 offers typical examples of count distribution visualizations commonly seen in BAI studies, including normal, Poisson, NB, zero-inflated Poisson, and zero-inflated NB distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The actual data distribution may differ from the examples in Figure 2 if descriptive statistics (e.g., means, standard deviations, and zero proportions) differ from those we used.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Thus, we have summarized some guiding principles to help determine an appropriate choice in a flowchart presented in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2A depicts how a normal distribution of drinks per week data would typically look with an average of five drinks per week and a standard deviation of three.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2B depicts drinks per week data simulated from a Poisson distribution with a λ parameter (for both mean and variance) of five drinks per week.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2C depicts a distribution of drinks per week data simulated under the NB distribution with a λ mean parameter of five and an overdispersion parameter of three.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Compared to the Poisson distribution in Figure 2B, the NB distribution has more observations at or near zero, as well as more observations reporting many more drinks per week than average, creating a distribution with notable positive skewness.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Panels D and E of Figure 2 depict prototypical distributions of ZIP and ZINB count data simulated under assumptions of an average of five drinks per week in the non-zero submodel and 15% zero observations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In the ZIP distribution in Figure 2D, the zeros are the second most frequent response, and in the ZINB of Figure 2E, zeros are by far the most frequent response.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A decision tree shown in Figure 3 should help navigate analytical decisions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "First, we excluded trial registrations, posters, and reports that did not examine the efficacy and effectiveness of the BAIs (e.g., protocols and cost-effective analysis reports) and reports with no count outcome variables (e.g., those reporting only binary or truly continuous outcomes), resulting in 64 reports from 54 trials with 119 count outcome variables (see Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "In the context of BAIs, it is common for a sizable number of participants to report consuming zero drinks, zero drinking days, or zero alcohol-related problems, which may indicate zero inflation (see Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The red shaded area in the left tail in Figure 2A depicts negative values that would be expected under the normal distribution.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 offers typical examples of count distribution visualizations commonly seen in BAI studies, including normal, Poisson, NB, zero-inflated Poisson, and zero-inflated NB distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The actual data distribution may differ from the examples in Figure 2 if descriptive statistics (e.g., means, standard deviations, and zero proportions) differ from those we used.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Thus, we have summarized some guiding principles to help determine an appropriate choice in a flowchart presented in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2A depicts how a normal distribution of drinks per week data would typically look with an average of five drinks per week and a standard deviation of three.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2B depicts drinks per week data simulated from a Poisson distribution with a λ parameter (for both mean and variance) of five drinks per week.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2C depicts a distribution of drinks per week data simulated under the NB distribution with a λ mean parameter of five and an overdispersion parameter of three.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Compared to the Poisson distribution in Figure 2B, the NB distribution has more observations at or near zero, as well as more observations reporting many more drinks per week than average, creating a distribution with notable positive skewness.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Panels D and E of Figure 2 depict prototypical distributions of ZIP and ZINB count data simulated under assumptions of an average of five drinks per week in the non-zero submodel and 15% zero observations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In the ZIP distribution in Figure 2D, the zeros are the second most frequent response, and in the ZINB of Figure 2E, zeros are by far the most frequent response.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A decision tree shown in Figure 3 should help navigate analytical decisions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "First, we excluded trial registrations, posters, and reports that did not examine the efficacy and effectiveness of the BAIs (e.g., protocols and cost-effective analysis reports) and reports with no count outcome variables (e.g., those reporting only binary or truly continuous outcomes), resulting in 64 reports from 54 trials with 119 count outcome variables (see Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "In the context of BAIs, it is common for a sizable number of participants to report consuming zero drinks, zero drinking days, or zero alcohol-related problems, which may indicate zero inflation (see Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The red shaded area in the left tail in Figure 2A depicts negative values that would be expected under the normal distribution.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 offers typical examples of count distribution visualizations commonly seen in BAI studies, including normal, Poisson, NB, zero-inflated Poisson, and zero-inflated NB distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The actual data distribution may differ from the examples in Figure 2 if descriptive statistics (e.g., means, standard deviations, and zero proportions) differ from those we used.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Thus, we have summarized some guiding principles to help determine an appropriate choice in a flowchart presented in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2A depicts how a normal distribution of drinks per week data would typically look with an average of five drinks per week and a standard deviation of three.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2B depicts drinks per week data simulated from a Poisson distribution with a λ parameter (for both mean and variance) of five drinks per week.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2C depicts a distribution of drinks per week data simulated under the NB distribution with a λ mean parameter of five and an overdispersion parameter of three.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Compared to the Poisson distribution in Figure 2B, the NB distribution has more observations at or near zero, as well as more observations reporting many more drinks per week than average, creating a distribution with notable positive skewness.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Panels D and E of Figure 2 depict prototypical distributions of ZIP and ZINB count data simulated under assumptions of an average of five drinks per week in the non-zero submodel and 15% zero observations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In the ZIP distribution in Figure 2D, the zeros are the second most frequent response, and in the ZINB of Figure 2E, zeros are by far the most frequent response.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A decision tree shown in Figure 3 should help navigate analytical decisions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "First, we excluded trial registrations, posters, and reports that did not examine the efficacy and effectiveness of the BAIs (e.g., protocols and cost-effective analysis reports) and reports with no count outcome variables (e.g., those reporting only binary or truly continuous outcomes), resulting in 64 reports from 54 trials with 119 count outcome variables (see Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "In the context of BAIs, it is common for a sizable number of participants to report consuming zero drinks, zero drinking days, or zero alcohol-related problems, which may indicate zero inflation (see Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The red shaded area in the left tail in Figure 2A depicts negative values that would be expected under the normal distribution.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 offers typical examples of count distribution visualizations commonly seen in BAI studies, including normal, Poisson, NB, zero-inflated Poisson, and zero-inflated NB distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The actual data distribution may differ from the examples in Figure 2 if descriptive statistics (e.g., means, standard deviations, and zero proportions) differ from those we used.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Thus, we have summarized some guiding principles to help determine an appropriate choice in a flowchart presented in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2A depicts how a normal distribution of drinks per week data would typically look with an average of five drinks per week and a standard deviation of three.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2B depicts drinks per week data simulated from a Poisson distribution with a λ parameter (for both mean and variance) of five drinks per week.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2C depicts a distribution of drinks per week data simulated under the NB distribution with a λ mean parameter of five and an overdispersion parameter of three.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Compared to the Poisson distribution in Figure 2B, the NB distribution has more observations at or near zero, as well as more observations reporting many more drinks per week than average, creating a distribution with notable positive skewness.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Panels D and E of Figure 2 depict prototypical distributions of ZIP and ZINB count data simulated under assumptions of an average of five drinks per week in the non-zero submodel and 15% zero observations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In the ZIP distribution in Figure 2D, the zeros are the second most frequent response, and in the ZINB of Figure 2E, zeros are by far the most frequent response.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A decision tree shown in Figure 3 should help navigate analytical decisions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "First, we excluded trial registrations, posters, and reports that did not examine the efficacy and effectiveness of the BAIs (e.g., protocols and cost-effective analysis reports) and reports with no count outcome variables (e.g., those reporting only binary or truly continuous outcomes), resulting in 64 reports from 54 trials with 119 count outcome variables (see Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "In the context of BAIs, it is common for a sizable number of participants to report consuming zero drinks, zero drinking days, or zero alcohol-related problems, which may indicate zero inflation (see Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The red shaded area in the left tail in Figure 2A depicts negative values that would be expected under the normal distribution.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 offers typical examples of count distribution visualizations commonly seen in BAI studies, including normal, Poisson, NB, zero-inflated Poisson, and zero-inflated NB distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The actual data distribution may differ from the examples in Figure 2 if descriptive statistics (e.g., means, standard deviations, and zero proportions) differ from those we used.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Thus, we have summarized some guiding principles to help determine an appropriate choice in a flowchart presented in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2A depicts how a normal distribution of drinks per week data would typically look with an average of five drinks per week and a standard deviation of three.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2B depicts drinks per week data simulated from a Poisson distribution with a λ parameter (for both mean and variance) of five drinks per week.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2C depicts a distribution of drinks per week data simulated under the NB distribution with a λ mean parameter of five and an overdispersion parameter of three.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Compared to the Poisson distribution in Figure 2B, the NB distribution has more observations at or near zero, as well as more observations reporting many more drinks per week than average, creating a distribution with notable positive skewness.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Panels D and E of Figure 2 depict prototypical distributions of ZIP and ZINB count data simulated under assumptions of an average of five drinks per week in the non-zero submodel and 15% zero observations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In the ZIP distribution in Figure 2D, the zeros are the second most frequent response, and in the ZINB of Figure 2E, zeros are by far the most frequent response.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A decision tree shown in Figure 3 should help navigate analytical decisions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "First, we excluded trial registrations, posters, and reports that did not examine the efficacy and effectiveness of the BAIs (e.g., protocols and cost-effective analysis reports) and reports with no count outcome variables (e.g., those reporting only binary or truly continuous outcomes), resulting in 64 reports from 54 trials with 119 count outcome variables (see Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "In the context of BAIs, it is common for a sizable number of participants to report consuming zero drinks, zero drinking days, or zero alcohol-related problems, which may indicate zero inflation (see Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The red shaded area in the left tail in Figure 2A depicts negative values that would be expected under the normal distribution.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 offers typical examples of count distribution visualizations commonly seen in BAI studies, including normal, Poisson, NB, zero-inflated Poisson, and zero-inflated NB distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The actual data distribution may differ from the examples in Figure 2 if descriptive statistics (e.g., means, standard deviations, and zero proportions) differ from those we used.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Thus, we have summarized some guiding principles to help determine an appropriate choice in a flowchart presented in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2A depicts how a normal distribution of drinks per week data would typically look with an average of five drinks per week and a standard deviation of three.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2B depicts drinks per week data simulated from a Poisson distribution with a λ parameter (for both mean and variance) of five drinks per week.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2C depicts a distribution of drinks per week data simulated under the NB distribution with a λ mean parameter of five and an overdispersion parameter of three.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Compared to the Poisson distribution in Figure 2B, the NB distribution has more observations at or near zero, as well as more observations reporting many more drinks per week than average, creating a distribution with notable positive skewness.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Panels D and E of Figure 2 depict prototypical distributions of ZIP and ZINB count data simulated under assumptions of an average of five drinks per week in the non-zero submodel and 15% zero observations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In the ZIP distribution in Figure 2D, the zeros are the second most frequent response, and in the ZINB of Figure 2E, zeros are by far the most frequent response.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A decision tree shown in Figure 3 should help navigate analytical decisions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "First, we excluded trial registrations, posters, and reports that did not examine the efficacy and effectiveness of the BAIs (e.g., protocols and cost-effective analysis reports) and reports with no count outcome variables (e.g., those reporting only binary or truly continuous outcomes), resulting in 64 reports from 54 trials with 119 count outcome variables (see Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "In the context of BAIs, it is common for a sizable number of participants to report consuming zero drinks, zero drinking days, or zero alcohol-related problems, which may indicate zero inflation (see Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The red shaded area in the left tail in Figure 2A depicts negative values that would be expected under the normal distribution.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 offers typical examples of count distribution visualizations commonly seen in BAI studies, including normal, Poisson, NB, zero-inflated Poisson, and zero-inflated NB distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The actual data distribution may differ from the examples in Figure 2 if descriptive statistics (e.g., means, standard deviations, and zero proportions) differ from those we used.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Thus, we have summarized some guiding principles to help determine an appropriate choice in a flowchart presented in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2A depicts how a normal distribution of drinks per week data would typically look with an average of five drinks per week and a standard deviation of three.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2B depicts drinks per week data simulated from a Poisson distribution with a λ parameter (for both mean and variance) of five drinks per week.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2C depicts a distribution of drinks per week data simulated under the NB distribution with a λ mean parameter of five and an overdispersion parameter of three.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Compared to the Poisson distribution in Figure 2B, the NB distribution has more observations at or near zero, as well as more observations reporting many more drinks per week than average, creating a distribution with notable positive skewness.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Panels D and E of Figure 2 depict prototypical distributions of ZIP and ZINB count data simulated under assumptions of an average of five drinks per week in the non-zero submodel and 15% zero observations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In the ZIP distribution in Figure 2D, the zeros are the second most frequent response, and in the ZINB of Figure 2E, zeros are by far the most frequent response.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A decision tree shown in Figure 3 should help navigate analytical decisions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "First, we excluded trial registrations, posters, and reports that did not examine the efficacy and effectiveness of the BAIs (e.g., protocols and cost-effective analysis reports) and reports with no count outcome variables (e.g., those reporting only binary or truly continuous outcomes), resulting in 64 reports from 54 trials with 119 count outcome variables (see Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "First, we excluded trial registrations, posters, and reports that did not examine the efficacy and effectiveness of the BAIs (e.g., protocols and cost-effective analysis reports) and reports with no count outcome variables (e.g., those reporting only binary or truly continuous outcomes), resulting in 64 reports from 54 trials with 119 count outcome variables (see Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "In the context of BAIs, it is common for a sizable number of participants to report consuming zero drinks, zero drinking days, or zero alcohol-related problems, which may indicate zero inflation (see Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The red shaded area in the left tail in Figure 2A depicts negative values that would be expected under the normal distribution.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 offers typical examples of count distribution visualizations commonly seen in BAI studies, including normal, Poisson, NB, zero-inflated Poisson, and zero-inflated NB distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The actual data distribution may differ from the examples in Figure 2 if descriptive statistics (e.g., means, standard deviations, and zero proportions) differ from those we used.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In the context of BAIs, it is common for a sizable number of participants to report consuming zero drinks, zero drinking days, or zero alcohol-related problems, which may indicate zero inflation (see Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The red shaded area in the left tail in Figure 2A depicts negative values that would be expected under the normal distribution.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 offers typical examples of count distribution visualizations commonly seen in BAI studies, including normal, Poisson, NB, zero-inflated Poisson, and zero-inflated NB distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The actual data distribution may differ from the examples in Figure 2 if descriptive statistics (e.g., means, standard deviations, and zero proportions) differ from those we used.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Thus, we have summarized some guiding principles to help determine an appropriate choice in a flowchart presented in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2A depicts how a normal distribution of drinks per week data would typically look with an average of five drinks per week and a standard deviation of three.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2B depicts drinks per week data simulated from a Poisson distribution with a λ parameter (for both mean and variance) of five drinks per week.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2C depicts a distribution of drinks per week data simulated under the NB distribution with a λ mean parameter of five and an overdispersion parameter of three.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Compared to the Poisson distribution in Figure 2B, the NB distribution has more observations at or near zero, as well as more observations reporting many more drinks per week than average, creating a distribution with notable positive skewness.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Panels D and E of Figure 2 depict prototypical distributions of ZIP and ZINB count data simulated under assumptions of an average of five drinks per week in the non-zero submodel and 15% zero observations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In the ZIP distribution in Figure 2D, the zeros are the second most frequent response, and in the ZINB of Figure 2E, zeros are by far the most frequent response.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A decision tree shown in Figure 3 should help navigate analytical decisions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Thus, we have summarized some guiding principles to help determine an appropriate choice in a flowchart presented in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2A depicts how a normal distribution of drinks per week data would typically look with an average of five drinks per week and a standard deviation of three.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2B depicts drinks per week data simulated from a Poisson distribution with a λ parameter (for both mean and variance) of five drinks per week.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2C depicts a distribution of drinks per week data simulated under the NB distribution with a λ mean parameter of five and an overdispersion parameter of three.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Compared to the Poisson distribution in Figure 2B, the NB distribution has more observations at or near zero, as well as more observations reporting many more drinks per week than average, creating a distribution with notable positive skewness.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Panels D and E of Figure 2 depict prototypical distributions of ZIP and ZINB count data simulated under assumptions of an average of five drinks per week in the non-zero submodel and 15% zero observations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In the ZIP distribution in Figure 2D, the zeros are the second most frequent response, and in the ZINB of Figure 2E, zeros are by far the most frequent response.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A decision tree shown in Figure 3 should help navigate analytical decisions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  }
+]

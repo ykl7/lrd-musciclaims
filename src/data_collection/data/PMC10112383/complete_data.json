@@ -1,0 +1,1384 @@
+{
+  "paper_id": "PMC10112383",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10112383/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "FIGURE 1.",
+      "caption": "Expression of VDR and responses to 1α,25(OH)2D3 in AA and EA cell lines. A, Western immunoblot measurements of VDR levels after 1α,25(OH)2D3 treatment (100 nmol/L, 24 hours) or vehicle control. B, RIME analyses of VDR in the indicated cells (in quadriplicates) and significantly different proteins were identified using an edgeR workflow. Volcano plots depicting enrichment levels, compared with IgG controls, between the indicated cells in basal or 1α,25(OH)2D3-stimulated conditions (100 nmol/L, 4 hours). Significant (Padj < 0.1) differentially and uniquely enriched proteins in each cell and treatment condition were classified either as a CoA, CoR, Mixed, or TF. C, The most altered components of the VDR complex were established in RC43T compared with LNCaP, and RC43N with HPr1AR, and then the delta between these comparisons were identified and ranked.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/efa4c1e0d84c/crc-22-0389_fig1.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/efa4c1e0d84c/crc-22-0389_fig1.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/efa4c1e0d84c/crc-22-0389_fig1.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/efa4c1e0d84c/crc-22-0389_fig1.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/efa4c1e0d84c/crc-22-0389_fig1.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10112383/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/efa4c1e0d84c/crc-22-0389_fig1.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "FIGURE 2.",
+      "caption": "VDR ATAC-seq in AA and EA cell lines. A, ATAC-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T following 1α,25(OH)2D3 treatment (100 nmol/L, 4 hours) or vehicle control. FASTQ files were QC processed, aligned to hg38 (Rsubread), sorted and duplicates removed before further processing with ATACseqQC to generate nucleosome free and mononucleosome regions. Differential enrichment of regions was measured with csaw and the significantly different regions (Padj < 0.1) were then intersected to generate the Venn diagrams of overlapping regions by a minimum of 1 bp (ChIPpeakAnno). B, Motif enrichment in NF regions was undertaken with Homer and ranked by significance to visualize in descending significance. C, Frequency of enriched motifs by TF families’ class. D, Enrichment of circadian rhythm TFs.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/c41adce460c5/crc-22-0389_fig2.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/c41adce460c5/crc-22-0389_fig2.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/c41adce460c5/crc-22-0389_fig2.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/c41adce460c5/crc-22-0389_fig2.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/c41adce460c5/crc-22-0389_fig2.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10112383/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/c41adce460c5/crc-22-0389_fig2.jpg"
+    },
+    "figure_3": {
+      "figure_number": "Figure 3",
+      "title": "FIGURE 3.",
+      "caption": "VDR ChIP-seq in AA and EA cell lines. A, Basal and 1α,25(OH)2D3-stimulated (100 nmol/L, 6 hours) VDR ChIP-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T. FASTQ files were QC processed, aligned to hg38 (Rsubread), sorted and duplicates removed before differential enrichment of regions was measured with csaw and the significantly different regions compared with IgG controls (Padj < 0.1) were then intersected to generate the Venn diagrams of overlapping regions by a minimum of 1 bp (ChIPpeakAnno). B, Significantly differentially enriched motifs were identified by Homer and nuclear receptors are illustrated. C, Changes in motif enrichment were calculated (delta) and ranked by significance for visualization.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/d9a81bad5ca0/crc-22-0389_fig3.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/d9a81bad5ca0/crc-22-0389_fig3.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/d9a81bad5ca0/crc-22-0389_fig3.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/d9a81bad5ca0/crc-22-0389_fig3.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig3",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/d9a81bad5ca0/crc-22-0389_fig3.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10112383/images/figure_3.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/d9a81bad5ca0/crc-22-0389_fig3.jpg"
+    },
+    "figure_4": {
+      "figure_number": "Figure 4",
+      "title": "FIGURE 4.",
+      "caption": "1α,25(OH)2D3-dependent RNA- and small RNA-Seq in AA and EA cell lines. A and B, Basal and 1α,25(OH)2D3-stimulated (100 nmol/L, 8 hours) RNA-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T. FASTQ files were QC processed, aligned to hg38 (Rsubread), and processed with limma-voom and edgeR workflow to identify significant DEGs (logPV > 1 and absFC > 0.37) are illustrated on Volcano plots with top DEGs illustrated. C, GSEAs (Chemical Perturbations in GSEA) was undertaken and the terms identified and visualized where the NES was in the opposite direction are visualized in RC43N and RC43T.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/679f860fed65/crc-22-0389_fig4.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/679f860fed65/crc-22-0389_fig4.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/679f860fed65/crc-22-0389_fig4.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/679f860fed65/crc-22-0389_fig4.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig4",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/679f860fed65/crc-22-0389_fig4.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10112383/images/figure_4.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/679f860fed65/crc-22-0389_fig4.jpg"
+    },
+    "figure_5": {
+      "figure_number": "Figure 5",
+      "title": "FIGURE 5.",
+      "caption": "The impact of BAZ1A on expression of VDR-dependent gene networks. A, Altered BAZ1A and SMARCA5 expression in AA prostate cancer was identified in TCGA prostate cancer cohort by comparing EA and AA tumors and considering status of TMPRSS2 translocations. B, The blot used for Fig. 1A (cells treated with 1α,25(OH)2D3 (100 nmol/L, 24 hours) or vehicle control and total protein isolated) was stripped and reprobed with antibodies toward BAZ1A and SMARCA5. C, Unique DEGs in cells with restored expression of BAZ1A. D, BAZ1A-dependent DEGs enhanced inflammatory responses and repressed MYC networks. E, Comparable and divergent GSEA enrichment in BAZ1A-dependent DEGS in RC43N and RC43T that were different from the direction of enrichment in the parental cells.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/0e5ebcdbe8b0/crc-22-0389_fig5.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/0e5ebcdbe8b0/crc-22-0389_fig5.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/0e5ebcdbe8b0/crc-22-0389_fig5.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/0e5ebcdbe8b0/crc-22-0389_fig5.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig5",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/0e5ebcdbe8b0/crc-22-0389_fig5.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10112383/images/figure_5.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/0e5ebcdbe8b0/crc-22-0389_fig5.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "VDR protein levels were detected in all cells, and generally were elevated following 1α,25(OH)2D3 treatment, which was most pronounced in nonmalignant AA RC43N cells; RC77T cells did not change VDR expression in response to 1α,25(OH)2D3 (Fig. 1A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "In RC43T compared with LNCaP, the basal VDR was enriched for the TF, SAFB2 and following 1α,25(OH)2D3 treatment there was a gain of the NFκB CoR PPP1R13L, TRIM29 and TGFB1, and loss of PARP1 (Fig. 1B; Supplementary Table S2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Next, we identified those differentially enriched proteins that were altered the most depending on genomic ancestry and oncogenic transformation (Fig. 1C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The greatest 1α,25(OH)2D3-dependent impact on NF and mononucleosome (mono) regions was in RC43N and RC43T (Fig. 2A, left, right).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel A",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Others nuclear receptor motifs such as NR4A1/NUR77 and PGR were common (Fig. 3B; Supplementary Table S6).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel B",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Again, delta enrichment values (Fig. 3C) revealed that 1α,25(OH)2D3 treatment reduced motif enrichment in LNCaP, RC43N, and RC43T cells suggesting that VDR binding sites became more exclusive.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel C",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "For example, RIME data (Fig. 1) were related to VDR cistromes (Fig. 2 and 3) within each cell.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The 1α,25(OH)2D3-dependent NF regions in RC43T annotated to multiple proteins that were enriched in the basal VDR complex (logPV = 26.8) including VDR and XRCC5 and given that these represent loss of NF regions it may reflect why the number of proteins in the 1α,25(OH)2D3-regulated VDR complex in RC43T is much reduced compared with the basal state (Fig. 1B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel B",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "This identified 27 altered coregulators in AA patients, and from these, five were uniquely or more significantly altered in AA compared with EA TMPRSS2 fusion negative prostate cancer (Fig. 5A).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel A",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Expression responses were broadly the same for SMARCA5 (Fig. 5B).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel B",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "B, The blot used for Fig. 1A (cells treated with 1α,25(OH)2D3 (100 nmol/L, 24 hours) or vehicle control and total protein isolated) was stripped and reprobed with antibodies toward BAZ1A and SMARCA5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel A",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "In both cases, these DEGs were enriched for VDR ChIP-seq or 1α,25(OH)2D3-stimulated NF ATAC-seq genes (Fig. 6B; Table 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel B",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Finally, we used partial correlation analyses to define how genomic ancestry and oncogenic transformation enriched components of the VDR complex (Fig. 1C) impacted the strength of the correlations between VDR and AA VDR ChIP-seq annotated genes in AA tumors, or EA VDR ChIP-seq annotated genes in EA tumors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel C",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "This demonstrated that several of these coregulators, including SAFB, PARP1, HDAC2, NONO, BAZ1A, and SMARCA5 significantly and positively impacted the strength of the correlations between VDR and AA VDR ChIP-seq genes but not the corollary relationships of the strength between VDR and EA VDR ChIP-seq genes in EA tumors (Fig. 6C).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel C",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel C",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel C",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Material\n\nSupplementary Table 1Supplementary Table_1 RIME\n\n\ncrc-22-0389-s01.docx (16.2KB, docx) \n\nSupplementary Table 2Supplementary Table _2 - RIME II\n\n\ncrc-22-0389-s02.docx (15.8KB, docx) \n\nSupplementary Table 3ST_3 ATAC-Seq\n\n\ncrc-22-0389-s03.docx (17.1KB, docx) \n\nSupplementary Table 4ST_4 ChIP-Seq\n\n\ncrc-22-0389-s04.docx (13.8KB, docx) \n\nSupplementary Table 5ST_5 ChromHMM\n\n\ncrc-22-0389-s05.docx (14.5KB, docx) \n\nSupplementary Table 6ST_6 ChIP-Seq Motif\n\n\ncrc-22-0389-s06.docx (16.5KB, docx) \n\nSupplementary Table 7ST_7 ATAC-Seq to RIME\n\n\ncrc-22-0389-s07.docx (17KB, docx) \n\nSupplementary Table 8ST_8 ATAC/ChIP-Seq to splicing\n\n\ncrc-22-0389-s08.docx (15.2KB, docx) \n\nSupplementary Table 9ST_9 LISA analyses of RNA-Seq\n\n\ncrc-22-0389-s09.docx (17.9KB, docx) \n\nSupplementary Table 10ST_10 ATAC overlap ChIP\n\n\ncrc-22-0389-s10.docx (13.7KB, docx) \n\nSupplementary Table 11ST_11 ATAC- to RNA-Seq\n\n\ncrc-22-0389-s11.docx (22.9KB, docx) \n\nSupplementary Table 12ST_12 ChIP-Seq to RNA-Seq\n\n\ncrc-22-0389-s12.docx (19.1KB, docx) \n\nSupplementary Table 13ST_13 BAZ1A and lineage plasticity\n\n\ncrc-22-0389-s13.docx (14.9KB, docx) \n\nSupplementary Table 14ST_14 Serum miRNA and PCa\n\n\ncrc-22-0389-s14.docx (15.8KB, docx) \n\nSupplementary Table 15ST_15 Cistrome and miRNA expression\n\n\ncrc-22-0389-s15.docx (14.2KB, docx) \n\nSupplementary Table 16ST_16 Cistrome and RNA-Seq in tumors\n\n\ncrc-22-0389-s16.docx (15.8KB, docx) \n\nSupplementary Figure 1SF_1 workflow\n\n\ncrc-22-0389-s17.pptx (67.7KB, pptx) \n\nSupplementary Figure 2SF_2 Ancestry cell lines\n\n\ncrc-22-0389-s18.pptx (658.4KB, pptx) \n\nSupplementary Figure 3SF_3 motifs in ATAC-Seq\n\n\ncrc-22-0389-s19.pptx (597.7KB, pptx) \n\nSupplementary Figure 4SF_4 VDR cistrome\n\n\ncrc-22-0389-s20.pptx (337.6KB, pptx) \n\nSupplementary Figure 5SF_5 ChIP-Seq motif\n\n\ncrc-22-0389-s21.pptx (704.3KB, pptx) \n\nSupplementary Figure 6SF_6 RNA-Seq PCA\n\n\ncrc-22-0389-s22.pptx (208.6KB, pptx) \n\nSupplementary Figure 7SF_7 RNA-Seq volcanos\n\n\ncrc-22-0389-s23.pptx (1.1MB, pptx) \n\nSupplementary Figure 8SF_8 RNA-Seq GSEA\n\n\ncrc-22-0389-s24.pptx (795.3KB, pptx) \n\nSupplementary Figure 9SF_9 overlap miRNA\n\n\ncrc-22-0389-s25.pptx (391.9KB, pptx) \n\nSupplementary Figure 10SF_10 cistrome-transcriptome\n\n\ncrc-22-0389-s26.pptx (8.6MB, pptx) \n\nSupplementary Figure 11SF_11 BAZ containing complexes expression\n\n\ncrc-22-0389-s27.pptx (930.6KB, pptx) \n\nSupplementary Figure 12SF_12 BAZ1A-GSEA\n\n\ncrc-22-0389-s28.pptx (644.4KB, pptx) \n\nSupplementary Figure 13SF_13 GSEA tumors\n\n\ncrc-22-0389-s29.pptx (571.2KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel SF",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel SF",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel SF",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel SF",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel SF",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel SF",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel SF",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 8",
+          "panel": "Panel SF",
+          "figure_key": "figure_8"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel SF",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 10",
+          "panel": "Panel SF",
+          "figure_key": "figure_10"
+        },
+        {
+          "figure_number": "Figure 11",
+          "panel": "Panel SF",
+          "figure_key": "figure_11"
+        },
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel SF",
+          "figure_key": "figure_12"
+        },
+        {
+          "figure_number": "Figure 13",
+          "panel": "Panel SF",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 1SF_1 workflow\n\n\ncrc-22-0389-s17.pptx (67.7KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel SF",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 1SF_1 workflow.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel SF",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 2SF_2 Ancestry cell lines\n\n\ncrc-22-0389-s18.pptx (658.4KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel SF",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 2SF_2 Ancestry cell lines.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel SF",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 3SF_3 motifs in ATAC-Seq\n\n\ncrc-22-0389-s19.pptx (597.7KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel SF",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 3SF_3 motifs in ATAC-Seq.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel SF",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 4SF_4 VDR cistrome\n\n\ncrc-22-0389-s20.pptx (337.6KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel SF",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 4SF_4 VDR cistrome.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel SF",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 5SF_5 ChIP-Seq motif\n\n\ncrc-22-0389-s21.pptx (704.3KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel SF",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 5SF_5 ChIP-Seq motif.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel SF",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 6SF_6 RNA-Seq PCA\n\n\ncrc-22-0389-s22.pptx (208.6KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel SF",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 6SF_6 RNA-Seq PCA.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel SF",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 7SF_7 RNA-Seq volcanos\n\n\ncrc-22-0389-s23.pptx (1.1MB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel SF",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 7SF_7 RNA-Seq volcanos.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel SF",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 7.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 8SF_8 RNA-Seq GSEA\n\n\ncrc-22-0389-s24.pptx (795.3KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "Panel SF",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 8SF_8 RNA-Seq GSEA.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "Panel SF",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 9SF_9 overlap miRNA\n\n\ncrc-22-0389-s25.pptx (391.9KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel SF",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 9SF_9 overlap miRNA.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel SF",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 9.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 10SF_10 cistrome-transcriptome\n\n\ncrc-22-0389-s26.pptx (8.6MB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "Panel SF",
+          "figure_key": "figure_10"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 10SF_10 cistrome-transcriptome.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "Panel SF",
+          "figure_key": "figure_10"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 10.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 11SF_11 BAZ containing complexes expression\n\n\ncrc-22-0389-s27.pptx (930.6KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "Panel SF",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 11SF_11 BAZ containing complexes expression.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "Panel SF",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 11.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 12SF_12 BAZ1A-GSEA\n\n\ncrc-22-0389-s28.pptx (644.4KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel SF",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 12SF_12 BAZ1A-GSEA.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel SF",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 13SF_13 GSEA tumors\n\n\ncrc-22-0389-s29.pptx (571.2KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "Panel SF",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 13SF_13 GSEA tumors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "Panel SF",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Materials\n\nSupplementary Table 1Supplementary Table_1 RIME\n\n\ncrc-22-0389-s01.docx (16.2KB, docx) \n\nSupplementary Table 2Supplementary Table _2 - RIME II\n\n\ncrc-22-0389-s02.docx (15.8KB, docx) \n\nSupplementary Table 3ST_3 ATAC-Seq\n\n\ncrc-22-0389-s03.docx (17.1KB, docx) \n\nSupplementary Table 4ST_4 ChIP-Seq\n\n\ncrc-22-0389-s04.docx (13.8KB, docx) \n\nSupplementary Table 5ST_5 ChromHMM\n\n\ncrc-22-0389-s05.docx (14.5KB, docx) \n\nSupplementary Table 6ST_6 ChIP-Seq Motif\n\n\ncrc-22-0389-s06.docx (16.5KB, docx) \n\nSupplementary Table 7ST_7 ATAC-Seq to RIME\n\n\ncrc-22-0389-s07.docx (17KB, docx) \n\nSupplementary Table 8ST_8 ATAC/ChIP-Seq to splicing\n\n\ncrc-22-0389-s08.docx (15.2KB, docx) \n\nSupplementary Table 9ST_9 LISA analyses of RNA-Seq\n\n\ncrc-22-0389-s09.docx (17.9KB, docx) \n\nSupplementary Table 10ST_10 ATAC overlap ChIP\n\n\ncrc-22-0389-s10.docx (13.7KB, docx) \n\nSupplementary Table 11ST_11 ATAC- to RNA-Seq\n\n\ncrc-22-0389-s11.docx (22.9KB, docx) \n\nSupplementary Table 12ST_12 ChIP-Seq to RNA-Seq\n\n\ncrc-22-0389-s12.docx (19.1KB, docx) \n\nSupplementary Table 13ST_13 BAZ1A and lineage plasticity\n\n\ncrc-22-0389-s13.docx (14.9KB, docx) \n\nSupplementary Table 14ST_14 Serum miRNA and PCa\n\n\ncrc-22-0389-s14.docx (15.8KB, docx) \n\nSupplementary Table 15ST_15 Cistrome and miRNA expression\n\n\ncrc-22-0389-s15.docx (14.2KB, docx) \n\nSupplementary Table 16ST_16 Cistrome and RNA-Seq in tumors\n\n\ncrc-22-0389-s16.docx (15.8KB, docx) \n\nSupplementary Figure 1SF_1 workflow\n\n\ncrc-22-0389-s17.pptx (67.7KB, pptx) \n\nSupplementary Figure 2SF_2 Ancestry cell lines\n\n\ncrc-22-0389-s18.pptx (658.4KB, pptx) \n\nSupplementary Figure 3SF_3 motifs in ATAC-Seq\n\n\ncrc-22-0389-s19.pptx (597.7KB, pptx) \n\nSupplementary Figure 4SF_4 VDR cistrome\n\n\ncrc-22-0389-s20.pptx (337.6KB, pptx) \n\nSupplementary Figure 5SF_5 ChIP-Seq motif\n\n\ncrc-22-0389-s21.pptx (704.3KB, pptx) \n\nSupplementary Figure 6SF_6 RNA-Seq PCA\n\n\ncrc-22-0389-s22.pptx (208.6KB, pptx) \n\nSupplementary Figure 7SF_7 RNA-Seq volcanos\n\n\ncrc-22-0389-s23.pptx (1.1MB, pptx) \n\nSupplementary Figure 8SF_8 RNA-Seq GSEA\n\n\ncrc-22-0389-s24.pptx (795.3KB, pptx) \n\nSupplementary Figure 9SF_9 overlap miRNA\n\n\ncrc-22-0389-s25.pptx (391.9KB, pptx) \n\nSupplementary Figure 10SF_10 cistrome-transcriptome\n\n\ncrc-22-0389-s26.pptx (8.6MB, pptx) \n\nSupplementary Figure 11SF_11 BAZ containing complexes expression\n\n\ncrc-22-0389-s27.pptx (930.6KB, pptx) \n\nSupplementary Figure 12SF_12 BAZ1A-GSEA\n\n\ncrc-22-0389-s28.pptx (644.4KB, pptx) \n\nSupplementary Figure 13SF_13 GSEA tumors\n\n\ncrc-22-0389-s29.pptx (571.2KB, pptx) \nData Availability Statement\nRNA-, ChIP- and ATAC-seq data are available (GSE223406).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel SF",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel SF",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel SF",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel SF",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel SF",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel SF",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel SF",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 8",
+          "panel": "Panel SF",
+          "figure_key": "figure_8"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel SF",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 10",
+          "panel": "Panel SF",
+          "figure_key": "figure_10"
+        },
+        {
+          "figure_number": "Figure 11",
+          "panel": "Panel SF",
+          "figure_key": "figure_11"
+        },
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel SF",
+          "figure_key": "figure_12"
+        },
+        {
+          "figure_number": "Figure 13",
+          "panel": "Panel SF",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Materials\n\nSupplementary Table 1Supplementary Table_1 RIME\n\n\ncrc-22-0389-s01.docx (16.2KB, docx) \n\nSupplementary Table 2Supplementary Table _2 - RIME II\n\n\ncrc-22-0389-s02.docx (15.8KB, docx) \n\nSupplementary Table 3ST_3 ATAC-Seq\n\n\ncrc-22-0389-s03.docx (17.1KB, docx) \n\nSupplementary Table 4ST_4 ChIP-Seq\n\n\ncrc-22-0389-s04.docx (13.8KB, docx) \n\nSupplementary Table 5ST_5 ChromHMM\n\n\ncrc-22-0389-s05.docx (14.5KB, docx) \n\nSupplementary Table 6ST_6 ChIP-Seq Motif\n\n\ncrc-22-0389-s06.docx (16.5KB, docx) \n\nSupplementary Table 7ST_7 ATAC-Seq to RIME\n\n\ncrc-22-0389-s07.docx (17KB, docx) \n\nSupplementary Table 8ST_8 ATAC/ChIP-Seq to splicing\n\n\ncrc-22-0389-s08.docx (15.2KB, docx) \n\nSupplementary Table 9ST_9 LISA analyses of RNA-Seq\n\n\ncrc-22-0389-s09.docx (17.9KB, docx) \n\nSupplementary Table 10ST_10 ATAC overlap ChIP\n\n\ncrc-22-0389-s10.docx (13.7KB, docx) \n\nSupplementary Table 11ST_11 ATAC- to RNA-Seq\n\n\ncrc-22-0389-s11.docx (22.9KB, docx) \n\nSupplementary Table 12ST_12 ChIP-Seq to RNA-Seq\n\n\ncrc-22-0389-s12.docx (19.1KB, docx) \n\nSupplementary Table 13ST_13 BAZ1A and lineage plasticity\n\n\ncrc-22-0389-s13.docx (14.9KB, docx) \n\nSupplementary Table 14ST_14 Serum miRNA and PCa\n\n\ncrc-22-0389-s14.docx (15.8KB, docx) \n\nSupplementary Table 15ST_15 Cistrome and miRNA expression\n\n\ncrc-22-0389-s15.docx (14.2KB, docx) \n\nSupplementary Table 16ST_16 Cistrome and RNA-Seq in tumors\n\n\ncrc-22-0389-s16.docx (15.8KB, docx) \n\nSupplementary Figure 1SF_1 workflow\n\n\ncrc-22-0389-s17.pptx (67.7KB, pptx) \n\nSupplementary Figure 2SF_2 Ancestry cell lines\n\n\ncrc-22-0389-s18.pptx (658.4KB, pptx) \n\nSupplementary Figure 3SF_3 motifs in ATAC-Seq\n\n\ncrc-22-0389-s19.pptx (597.7KB, pptx) \n\nSupplementary Figure 4SF_4 VDR cistrome\n\n\ncrc-22-0389-s20.pptx (337.6KB, pptx) \n\nSupplementary Figure 5SF_5 ChIP-Seq motif\n\n\ncrc-22-0389-s21.pptx (704.3KB, pptx) \n\nSupplementary Figure 6SF_6 RNA-Seq PCA\n\n\ncrc-22-0389-s22.pptx (208.6KB, pptx) \n\nSupplementary Figure 7SF_7 RNA-Seq volcanos\n\n\ncrc-22-0389-s23.pptx (1.1MB, pptx) \n\nSupplementary Figure 8SF_8 RNA-Seq GSEA\n\n\ncrc-22-0389-s24.pptx (795.3KB, pptx) \n\nSupplementary Figure 9SF_9 overlap miRNA\n\n\ncrc-22-0389-s25.pptx (391.9KB, pptx) \n\nSupplementary Figure 10SF_10 cistrome-transcriptome\n\n\ncrc-22-0389-s26.pptx (8.6MB, pptx) \n\nSupplementary Figure 11SF_11 BAZ containing complexes expression\n\n\ncrc-22-0389-s27.pptx (930.6KB, pptx) \n\nSupplementary Figure 12SF_12 BAZ1A-GSEA\n\n\ncrc-22-0389-s28.pptx (644.4KB, pptx) \n\nSupplementary Figure 13SF_13 GSEA tumors\n\n\ncrc-22-0389-s29.pptx (571.2KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel SF",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel SF",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel SF",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel SF",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel SF",
+          "figure_key": "figure_5"
+        },
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel SF",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel SF",
+          "figure_key": "figure_7"
+        },
+        {
+          "figure_number": "Figure 8",
+          "panel": "Panel SF",
+          "figure_key": "figure_8"
+        },
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel SF",
+          "figure_key": "figure_9"
+        },
+        {
+          "figure_number": "Figure 10",
+          "panel": "Panel SF",
+          "figure_key": "figure_10"
+        },
+        {
+          "figure_number": "Figure 11",
+          "panel": "Panel SF",
+          "figure_key": "figure_11"
+        },
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel SF",
+          "figure_key": "figure_12"
+        },
+        {
+          "figure_number": "Figure 13",
+          "panel": "Panel SF",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 1SF_1 workflow\n\n\ncrc-22-0389-s17.pptx (67.7KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel SF",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 1SF_1 workflow.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel SF",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 2SF_2 Ancestry cell lines\n\n\ncrc-22-0389-s18.pptx (658.4KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel SF",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 2SF_2 Ancestry cell lines.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "Panel SF",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 3SF_3 motifs in ATAC-Seq\n\n\ncrc-22-0389-s19.pptx (597.7KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel SF",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 3SF_3 motifs in ATAC-Seq.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel SF",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 4SF_4 VDR cistrome\n\n\ncrc-22-0389-s20.pptx (337.6KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel SF",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 4SF_4 VDR cistrome.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "Panel SF",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 5SF_5 ChIP-Seq motif\n\n\ncrc-22-0389-s21.pptx (704.3KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel SF",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 5SF_5 ChIP-Seq motif.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "Panel SF",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 5.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 6SF_6 RNA-Seq PCA\n\n\ncrc-22-0389-s22.pptx (208.6KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel SF",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 6SF_6 RNA-Seq PCA.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "Panel SF",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 6.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 7SF_7 RNA-Seq volcanos\n\n\ncrc-22-0389-s23.pptx (1.1MB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel SF",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 7SF_7 RNA-Seq volcanos.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "Panel SF",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 7.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 8SF_8 RNA-Seq GSEA\n\n\ncrc-22-0389-s24.pptx (795.3KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "Panel SF",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 8SF_8 RNA-Seq GSEA.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "Panel SF",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 9SF_9 overlap miRNA\n\n\ncrc-22-0389-s25.pptx (391.9KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel SF",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 9SF_9 overlap miRNA.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "Panel SF",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 9.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 9",
+          "panel": "",
+          "figure_key": "figure_9"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 10SF_10 cistrome-transcriptome\n\n\ncrc-22-0389-s26.pptx (8.6MB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "Panel SF",
+          "figure_key": "figure_10"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 10SF_10 cistrome-transcriptome.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "Panel SF",
+          "figure_key": "figure_10"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 10.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 11SF_11 BAZ containing complexes expression\n\n\ncrc-22-0389-s27.pptx (930.6KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "Panel SF",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 11SF_11 BAZ containing complexes expression.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "Panel SF",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 11.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 12SF_12 BAZ1A-GSEA\n\n\ncrc-22-0389-s28.pptx (644.4KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel SF",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 12SF_12 BAZ1A-GSEA.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "Panel SF",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 13SF_13 GSEA tumors\n\n\ncrc-22-0389-s29.pptx (571.2KB, pptx).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "Panel SF",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 13SF_13 GSEA tumors.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "Panel SF",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "Supplementary Figure 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 5,
+    "claims_count": 95,
+    "images_downloaded": 5,
+    "tables_filtered": 378
+  }
+}

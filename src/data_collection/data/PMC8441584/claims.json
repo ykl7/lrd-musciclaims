@@ -1,0 +1,1477 @@
+[
+  {
+    "sentence": "Whitaker9 described an analysis as \"reproducible\" in the narrow sense that a user can produce identical results provided the data and code from the original, and \"generalizable\" if it produces similar results when both data are swapped out for similar data (\"replicability\"), and if underlying code is swapped out with comparable replacements (\"robustness\") (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We contend that metadata have an undervalued role to play in addressing all of these issues and to shift the narrative from a crisis to opportunities.19\nIn the wake of this newfound interest in reproducibility, both the variety and volume of related case studies increased after 2015 (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Likert-style surveys and high-level publication-based censuses (see Figure 3) in which authors tabulate data or code availability are most prevalent.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An independent discussion uses a secondary independent author to interpret the results of a study as a means to improve inferential reproducibility.Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The standard enables documentation of important information about who collected the research data, when, and how, describing the methodology down to specific details and providing detailed taxonomic information about the scientific specimen being studied (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "So far, the closest attempt to decompose statistics in this manner is the STATO statistical ontology (http://stato-ontology.org/), which can be used to semantically, rather than programmatically or mathematically, define all aspects of a statistical model and its results, including assumptions, variables, covariates, and parameters (Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "CWL manages the exacting specification of file inputs, outputs, parameters that are \"operational metadata\" used by the workflow machinery to communicate with the shell and executable software (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Application profiles follow along the Singapore Framework (Figure 7), and guidelines supported by the Dublin Core Metadata Initiative (DCMI).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "A good example is the tximeta Bioconductor package (Figure 8), which implements reference transcriptome provenance for RNA-sequencing experiments, extending a number of popular transcript quantification tools with checksum-based tracking and identification.219 While this is an elegant solution, tximeta is focused on one analysis pattern.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Whitaker9 described an analysis as \"reproducible\" in the narrow sense that a user can produce identical results provided the data and code from the original, and \"generalizable\" if it produces similar results when both data are swapped out for similar data (\"replicability\"), and if underlying code is swapped out with comparable replacements (\"robustness\") (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We contend that metadata have an undervalued role to play in addressing all of these issues and to shift the narrative from a crisis to opportunities.19\nIn the wake of this newfound interest in reproducibility, both the variety and volume of related case studies increased after 2015 (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Likert-style surveys and high-level publication-based censuses (see Figure 3) in which authors tabulate data or code availability are most prevalent.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An independent discussion uses a secondary independent author to interpret the results of a study as a means to improve inferential reproducibility.Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The standard enables documentation of important information about who collected the research data, when, and how, describing the methodology down to specific details and providing detailed taxonomic information about the scientific specimen being studied (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "So far, the closest attempt to decompose statistics in this manner is the STATO statistical ontology (http://stato-ontology.org/), which can be used to semantically, rather than programmatically or mathematically, define all aspects of a statistical model and its results, including assumptions, variables, covariates, and parameters (Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "CWL manages the exacting specification of file inputs, outputs, parameters that are \"operational metadata\" used by the workflow machinery to communicate with the shell and executable software (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Application profiles follow along the Singapore Framework (Figure 7), and guidelines supported by the Dublin Core Metadata Initiative (DCMI).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "A good example is the tximeta Bioconductor package (Figure 8), which implements reference transcriptome provenance for RNA-sequencing experiments, extending a number of popular transcript quantification tools with checksum-based tracking and identification.219 While this is an elegant solution, tximeta is focused on one analysis pattern.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Whitaker9 described an analysis as \"reproducible\" in the narrow sense that a user can produce identical results provided the data and code from the original, and \"generalizable\" if it produces similar results when both data are swapped out for similar data (\"replicability\"), and if underlying code is swapped out with comparable replacements (\"robustness\") (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We contend that metadata have an undervalued role to play in addressing all of these issues and to shift the narrative from a crisis to opportunities.19\nIn the wake of this newfound interest in reproducibility, both the variety and volume of related case studies increased after 2015 (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Likert-style surveys and high-level publication-based censuses (see Figure 3) in which authors tabulate data or code availability are most prevalent.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An independent discussion uses a secondary independent author to interpret the results of a study as a means to improve inferential reproducibility.Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The standard enables documentation of important information about who collected the research data, when, and how, describing the methodology down to specific details and providing detailed taxonomic information about the scientific specimen being studied (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "So far, the closest attempt to decompose statistics in this manner is the STATO statistical ontology (http://stato-ontology.org/), which can be used to semantically, rather than programmatically or mathematically, define all aspects of a statistical model and its results, including assumptions, variables, covariates, and parameters (Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "CWL manages the exacting specification of file inputs, outputs, parameters that are \"operational metadata\" used by the workflow machinery to communicate with the shell and executable software (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Application profiles follow along the Singapore Framework (Figure 7), and guidelines supported by the Dublin Core Metadata Initiative (DCMI).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "A good example is the tximeta Bioconductor package (Figure 8), which implements reference transcriptome provenance for RNA-sequencing experiments, extending a number of popular transcript quantification tools with checksum-based tracking and identification.219 While this is an elegant solution, tximeta is focused on one analysis pattern.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Whitaker9 described an analysis as \"reproducible\" in the narrow sense that a user can produce identical results provided the data and code from the original, and \"generalizable\" if it produces similar results when both data are swapped out for similar data (\"replicability\"), and if underlying code is swapped out with comparable replacements (\"robustness\") (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We contend that metadata have an undervalued role to play in addressing all of these issues and to shift the narrative from a crisis to opportunities.19\nIn the wake of this newfound interest in reproducibility, both the variety and volume of related case studies increased after 2015 (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Likert-style surveys and high-level publication-based censuses (see Figure 3) in which authors tabulate data or code availability are most prevalent.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An independent discussion uses a secondary independent author to interpret the results of a study as a means to improve inferential reproducibility.Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The standard enables documentation of important information about who collected the research data, when, and how, describing the methodology down to specific details and providing detailed taxonomic information about the scientific specimen being studied (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "So far, the closest attempt to decompose statistics in this manner is the STATO statistical ontology (http://stato-ontology.org/), which can be used to semantically, rather than programmatically or mathematically, define all aspects of a statistical model and its results, including assumptions, variables, covariates, and parameters (Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "CWL manages the exacting specification of file inputs, outputs, parameters that are \"operational metadata\" used by the workflow machinery to communicate with the shell and executable software (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Application profiles follow along the Singapore Framework (Figure 7), and guidelines supported by the Dublin Core Metadata Initiative (DCMI).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "A good example is the tximeta Bioconductor package (Figure 8), which implements reference transcriptome provenance for RNA-sequencing experiments, extending a number of popular transcript quantification tools with checksum-based tracking and identification.219 While this is an elegant solution, tximeta is focused on one analysis pattern.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Whitaker9 described an analysis as \"reproducible\" in the narrow sense that a user can produce identical results provided the data and code from the original, and \"generalizable\" if it produces similar results when both data are swapped out for similar data (\"replicability\"), and if underlying code is swapped out with comparable replacements (\"robustness\") (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We contend that metadata have an undervalued role to play in addressing all of these issues and to shift the narrative from a crisis to opportunities.19\nIn the wake of this newfound interest in reproducibility, both the variety and volume of related case studies increased after 2015 (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Likert-style surveys and high-level publication-based censuses (see Figure 3) in which authors tabulate data or code availability are most prevalent.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An independent discussion uses a secondary independent author to interpret the results of a study as a means to improve inferential reproducibility.Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The standard enables documentation of important information about who collected the research data, when, and how, describing the methodology down to specific details and providing detailed taxonomic information about the scientific specimen being studied (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "So far, the closest attempt to decompose statistics in this manner is the STATO statistical ontology (http://stato-ontology.org/), which can be used to semantically, rather than programmatically or mathematically, define all aspects of a statistical model and its results, including assumptions, variables, covariates, and parameters (Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "CWL manages the exacting specification of file inputs, outputs, parameters that are \"operational metadata\" used by the workflow machinery to communicate with the shell and executable software (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Application profiles follow along the Singapore Framework (Figure 7), and guidelines supported by the Dublin Core Metadata Initiative (DCMI).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "A good example is the tximeta Bioconductor package (Figure 8), which implements reference transcriptome provenance for RNA-sequencing experiments, extending a number of popular transcript quantification tools with checksum-based tracking and identification.219 While this is an elegant solution, tximeta is focused on one analysis pattern.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Whitaker9 described an analysis as \"reproducible\" in the narrow sense that a user can produce identical results provided the data and code from the original, and \"generalizable\" if it produces similar results when both data are swapped out for similar data (\"replicability\"), and if underlying code is swapped out with comparable replacements (\"robustness\") (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We contend that metadata have an undervalued role to play in addressing all of these issues and to shift the narrative from a crisis to opportunities.19\nIn the wake of this newfound interest in reproducibility, both the variety and volume of related case studies increased after 2015 (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Likert-style surveys and high-level publication-based censuses (see Figure 3) in which authors tabulate data or code availability are most prevalent.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An independent discussion uses a secondary independent author to interpret the results of a study as a means to improve inferential reproducibility.Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The standard enables documentation of important information about who collected the research data, when, and how, describing the methodology down to specific details and providing detailed taxonomic information about the scientific specimen being studied (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "So far, the closest attempt to decompose statistics in this manner is the STATO statistical ontology (http://stato-ontology.org/), which can be used to semantically, rather than programmatically or mathematically, define all aspects of a statistical model and its results, including assumptions, variables, covariates, and parameters (Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "CWL manages the exacting specification of file inputs, outputs, parameters that are \"operational metadata\" used by the workflow machinery to communicate with the shell and executable software (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Application profiles follow along the Singapore Framework (Figure 7), and guidelines supported by the Dublin Core Metadata Initiative (DCMI).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "A good example is the tximeta Bioconductor package (Figure 8), which implements reference transcriptome provenance for RNA-sequencing experiments, extending a number of popular transcript quantification tools with checksum-based tracking and identification.219 While this is an elegant solution, tximeta is focused on one analysis pattern.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Whitaker9 described an analysis as \"reproducible\" in the narrow sense that a user can produce identical results provided the data and code from the original, and \"generalizable\" if it produces similar results when both data are swapped out for similar data (\"replicability\"), and if underlying code is swapped out with comparable replacements (\"robustness\") (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We contend that metadata have an undervalued role to play in addressing all of these issues and to shift the narrative from a crisis to opportunities.19\nIn the wake of this newfound interest in reproducibility, both the variety and volume of related case studies increased after 2015 (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Likert-style surveys and high-level publication-based censuses (see Figure 3) in which authors tabulate data or code availability are most prevalent.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An independent discussion uses a secondary independent author to interpret the results of a study as a means to improve inferential reproducibility.Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The standard enables documentation of important information about who collected the research data, when, and how, describing the methodology down to specific details and providing detailed taxonomic information about the scientific specimen being studied (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "So far, the closest attempt to decompose statistics in this manner is the STATO statistical ontology (http://stato-ontology.org/), which can be used to semantically, rather than programmatically or mathematically, define all aspects of a statistical model and its results, including assumptions, variables, covariates, and parameters (Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "CWL manages the exacting specification of file inputs, outputs, parameters that are \"operational metadata\" used by the workflow machinery to communicate with the shell and executable software (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Application profiles follow along the Singapore Framework (Figure 7), and guidelines supported by the Dublin Core Metadata Initiative (DCMI).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "A good example is the tximeta Bioconductor package (Figure 8), which implements reference transcriptome provenance for RNA-sequencing experiments, extending a number of popular transcript quantification tools with checksum-based tracking and identification.219 While this is an elegant solution, tximeta is focused on one analysis pattern.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Whitaker9 described an analysis as \"reproducible\" in the narrow sense that a user can produce identical results provided the data and code from the original, and \"generalizable\" if it produces similar results when both data are swapped out for similar data (\"replicability\"), and if underlying code is swapped out with comparable replacements (\"robustness\") (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We contend that metadata have an undervalued role to play in addressing all of these issues and to shift the narrative from a crisis to opportunities.19\nIn the wake of this newfound interest in reproducibility, both the variety and volume of related case studies increased after 2015 (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Likert-style surveys and high-level publication-based censuses (see Figure 3) in which authors tabulate data or code availability are most prevalent.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An independent discussion uses a secondary independent author to interpret the results of a study as a means to improve inferential reproducibility.Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The standard enables documentation of important information about who collected the research data, when, and how, describing the methodology down to specific details and providing detailed taxonomic information about the scientific specimen being studied (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "So far, the closest attempt to decompose statistics in this manner is the STATO statistical ontology (http://stato-ontology.org/), which can be used to semantically, rather than programmatically or mathematically, define all aspects of a statistical model and its results, including assumptions, variables, covariates, and parameters (Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "CWL manages the exacting specification of file inputs, outputs, parameters that are \"operational metadata\" used by the workflow machinery to communicate with the shell and executable software (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Application profiles follow along the Singapore Framework (Figure 7), and guidelines supported by the Dublin Core Metadata Initiative (DCMI).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "A good example is the tximeta Bioconductor package (Figure 8), which implements reference transcriptome provenance for RNA-sequencing experiments, extending a number of popular transcript quantification tools with checksum-based tracking and identification.219 While this is an elegant solution, tximeta is focused on one analysis pattern.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Whitaker9 described an analysis as \"reproducible\" in the narrow sense that a user can produce identical results provided the data and code from the original, and \"generalizable\" if it produces similar results when both data are swapped out for similar data (\"replicability\"), and if underlying code is swapped out with comparable replacements (\"robustness\") (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We contend that metadata have an undervalued role to play in addressing all of these issues and to shift the narrative from a crisis to opportunities.19\nIn the wake of this newfound interest in reproducibility, both the variety and volume of related case studies increased after 2015 (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Likert-style surveys and high-level publication-based censuses (see Figure 3) in which authors tabulate data or code availability are most prevalent.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An independent discussion uses a secondary independent author to interpret the results of a study as a means to improve inferential reproducibility.Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Whitaker9 described an analysis as \"reproducible\" in the narrow sense that a user can produce identical results provided the data and code from the original, and \"generalizable\" if it produces similar results when both data are swapped out for similar data (\"replicability\"), and if underlying code is swapped out with comparable replacements (\"robustness\") (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We contend that metadata have an undervalued role to play in addressing all of these issues and to shift the narrative from a crisis to opportunities.19\nIn the wake of this newfound interest in reproducibility, both the variety and volume of related case studies increased after 2015 (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Likert-style surveys and high-level publication-based censuses (see Figure 3) in which authors tabulate data or code availability are most prevalent.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An independent discussion uses a secondary independent author to interpret the results of a study as a means to improve inferential reproducibility.Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Whitaker9 described an analysis as \"reproducible\" in the narrow sense that a user can produce identical results provided the data and code from the original, and \"generalizable\" if it produces similar results when both data are swapped out for similar data (\"replicability\"), and if underlying code is swapped out with comparable replacements (\"robustness\") (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We contend that metadata have an undervalued role to play in addressing all of these issues and to shift the narrative from a crisis to opportunities.19\nIn the wake of this newfound interest in reproducibility, both the variety and volume of related case studies increased after 2015 (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Likert-style surveys and high-level publication-based censuses (see Figure 3) in which authors tabulate data or code availability are most prevalent.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An independent discussion uses a secondary independent author to interpret the results of a study as a means to improve inferential reproducibility.Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "In the wake of this newfound interest in reproducibility, both the variety and volume of related case studies increased after 2015 (Figure 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Likert-style surveys and high-level publication-based censuses (see Figure 3) in which authors tabulate data or code availability are most prevalent.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The standard enables documentation of important information about who collected the research data, when, and how, describing the methodology down to specific details and providing detailed taxonomic information about the scientific specimen being studied (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "So far, the closest attempt to decompose statistics in this manner is the STATO statistical ontology (http://stato-ontology.org/), which can be used to semantically, rather than programmatically or mathematically, define all aspects of a statistical model and its results, including assumptions, variables, covariates, and parameters (Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "CWL manages the exacting specification of file inputs, outputs, parameters that are \"operational metadata\" used by the workflow machinery to communicate with the shell and executable software (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Application profiles follow along the Singapore Framework (Figure 7), and guidelines supported by the Dublin Core Metadata Initiative (DCMI).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The standard enables documentation of important information about who collected the research data, when, and how, describing the methodology down to specific details and providing detailed taxonomic information about the scientific specimen being studied (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The standard enables documentation of important information about who collected the research data, when, and how, describing the methodology down to specific details and providing detailed taxonomic information about the scientific specimen being studied (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The standard enables documentation of important information about who collected the research data, when, and how, describing the methodology down to specific details and providing detailed taxonomic information about the scientific specimen being studied (Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "So far, the closest attempt to decompose statistics in this manner is the STATO statistical ontology (http://stato-ontology.org/), which can be used to semantically, rather than programmatically or mathematically, define all aspects of a statistical model and its results, including assumptions, variables, covariates, and parameters (Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "So far, the closest attempt to decompose statistics in this manner is the STATO statistical ontology (http://stato-ontology.org/), which can be used to semantically, rather than programmatically or mathematically, define all aspects of a statistical model and its results, including assumptions, variables, covariates, and parameters (Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "So far, the closest attempt to decompose statistics in this manner is the STATO statistical ontology (http://stato-ontology.org/), which can be used to semantically, rather than programmatically or mathematically, define all aspects of a statistical model and its results, including assumptions, variables, covariates, and parameters (Figure 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "CWL manages the exacting specification of file inputs, outputs, parameters that are \"operational metadata\" used by the workflow machinery to communicate with the shell and executable software (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Application profiles follow along the Singapore Framework (Figure 7), and guidelines supported by the Dublin Core Metadata Initiative (DCMI).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "CWL manages the exacting specification of file inputs, outputs, parameters that are \"operational metadata\" used by the workflow machinery to communicate with the shell and executable software (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "CWL manages the exacting specification of file inputs, outputs, parameters that are \"operational metadata\" used by the workflow machinery to communicate with the shell and executable software (Figure 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Application profiles follow along the Singapore Framework (Figure 7), and guidelines supported by the Dublin Core Metadata Initiative (DCMI).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Application profiles follow along the Singapore Framework (Figure 7), and guidelines supported by the Dublin Core Metadata Initiative (DCMI).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "A good example is the tximeta Bioconductor package (Figure 8), which implements reference transcriptome provenance for RNA-sequencing experiments, extending a number of popular transcript quantification tools with checksum-based tracking and identification.219 While this is an elegant solution, tximeta is focused on one analysis pattern.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A good example is the tximeta Bioconductor package (Figure 8), which implements reference transcriptome provenance for RNA-sequencing experiments, extending a number of popular transcript quantification tools with checksum-based tracking and identification.219 While this is an elegant solution, tximeta is focused on one analysis pattern.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A good example is the tximeta Bioconductor package (Figure 8), which implements reference transcriptome provenance for RNA-sequencing experiments, extending a number of popular transcript quantification tools with checksum-based tracking and identification.219 While this is an elegant solution, tximeta is focused on one analysis pattern.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A good example is the tximeta Bioconductor package (Figure 8), which implements reference transcriptome provenance for RNA-sequencing experiments, extending a number of popular transcript quantification tools with checksum-based tracking and identification.219 While this is an elegant solution, tximeta is focused on one analysis pattern.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  }
+]

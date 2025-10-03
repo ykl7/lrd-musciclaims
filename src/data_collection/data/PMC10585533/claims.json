@@ -1,0 +1,2152 @@
+[
+  {
+    "sentence": "Figure 1 shows the workflow of M-UITA.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 presents the design of the diaphragm phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The ultrasonic probe was fixed by a fixture and set on a still surface where was no relative displacement with ground as shown in Figure 3A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3B shows the setting of the ultrasound probe.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the complete experimental setup.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe diaphragm phantom. (A) Side view of the diaphragm phantom. (B) Top view of the diaphragm phantom.Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "RMSS, respiratory motion simulation system; RMCS, respiratory motion compensation system.Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Examples of diaphragm images from the dataset are shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The errors were calculated as following:\nFigure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the loss curves of the model all have a downward trend, and the errors of the training and validation datasets converge to 0.236 and 0.438.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 displays the screenshots of M-UITA in action.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The waveforms are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The respiratory signals are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 9A, the sine wave tracking signals of M-UITA almost overlapped with the actual displacement, while some defects and jitters existed at the turning point.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel A",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9B, there was a slight translation between the M-UITA and the CT trajectories in Pattern A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel B",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Although there were also defects and jitters like sine wave and Pattern A at the turning point, the M-UITA and the CT trajectories were almost overlap as can be seen in Figure 9C.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel C",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Pattern\nSin\nA\nB\n\n\nDFD (mm)\n3.12\n3.85\n3.71\n\n\nOpen in a new tab\nDFDs, discrete Fréchet distances.Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9D shows the CRs of the three waveforms, and the error bars were drawn with twice the standard deviation.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel D",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 illustrates the tracking trajectories of each input signal.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 10B, it can be observed that in Pattern C, after 70 seconds, the tracking waveform of UITA exhibits a highly unstable state.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "Panel B",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the workflow of M-UITA.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 presents the design of the diaphragm phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The ultrasonic probe was fixed by a fixture and set on a still surface where was no relative displacement with ground as shown in Figure 3A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3B shows the setting of the ultrasound probe.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the complete experimental setup.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe diaphragm phantom. (A) Side view of the diaphragm phantom. (B) Top view of the diaphragm phantom.Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "RMSS, respiratory motion simulation system; RMCS, respiratory motion compensation system.Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Examples of diaphragm images from the dataset are shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The errors were calculated as following:\nFigure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the loss curves of the model all have a downward trend, and the errors of the training and validation datasets converge to 0.236 and 0.438.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 displays the screenshots of M-UITA in action.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The waveforms are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The respiratory signals are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 9A, the sine wave tracking signals of M-UITA almost overlapped with the actual displacement, while some defects and jitters existed at the turning point.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel A",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9B, there was a slight translation between the M-UITA and the CT trajectories in Pattern A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel B",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Although there were also defects and jitters like sine wave and Pattern A at the turning point, the M-UITA and the CT trajectories were almost overlap as can be seen in Figure 9C.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel C",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Pattern\nSin\nA\nB\n\n\nDFD (mm)\n3.12\n3.85\n3.71\n\n\nOpen in a new tab\nDFDs, discrete Fréchet distances.Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9D shows the CRs of the three waveforms, and the error bars were drawn with twice the standard deviation.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel D",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 illustrates the tracking trajectories of each input signal.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 10B, it can be observed that in Pattern C, after 70 seconds, the tracking waveform of UITA exhibits a highly unstable state.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "Panel B",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the workflow of M-UITA.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 presents the design of the diaphragm phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The ultrasonic probe was fixed by a fixture and set on a still surface where was no relative displacement with ground as shown in Figure 3A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3B shows the setting of the ultrasound probe.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the complete experimental setup.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe diaphragm phantom. (A) Side view of the diaphragm phantom. (B) Top view of the diaphragm phantom.Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "RMSS, respiratory motion simulation system; RMCS, respiratory motion compensation system.Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Examples of diaphragm images from the dataset are shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The errors were calculated as following:\nFigure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the loss curves of the model all have a downward trend, and the errors of the training and validation datasets converge to 0.236 and 0.438.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 displays the screenshots of M-UITA in action.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The waveforms are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The respiratory signals are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 9A, the sine wave tracking signals of M-UITA almost overlapped with the actual displacement, while some defects and jitters existed at the turning point.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel A",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9B, there was a slight translation between the M-UITA and the CT trajectories in Pattern A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel B",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Although there were also defects and jitters like sine wave and Pattern A at the turning point, the M-UITA and the CT trajectories were almost overlap as can be seen in Figure 9C.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel C",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Pattern\nSin\nA\nB\n\n\nDFD (mm)\n3.12\n3.85\n3.71\n\n\nOpen in a new tab\nDFDs, discrete Fréchet distances.Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9D shows the CRs of the three waveforms, and the error bars were drawn with twice the standard deviation.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel D",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 illustrates the tracking trajectories of each input signal.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 10B, it can be observed that in Pattern C, after 70 seconds, the tracking waveform of UITA exhibits a highly unstable state.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "Panel B",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the workflow of M-UITA.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 presents the design of the diaphragm phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The ultrasonic probe was fixed by a fixture and set on a still surface where was no relative displacement with ground as shown in Figure 3A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3B shows the setting of the ultrasound probe.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the complete experimental setup.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe diaphragm phantom. (A) Side view of the diaphragm phantom. (B) Top view of the diaphragm phantom.Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "RMSS, respiratory motion simulation system; RMCS, respiratory motion compensation system.Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Examples of diaphragm images from the dataset are shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The errors were calculated as following:\nFigure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the loss curves of the model all have a downward trend, and the errors of the training and validation datasets converge to 0.236 and 0.438.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 displays the screenshots of M-UITA in action.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The waveforms are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The respiratory signals are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 9A, the sine wave tracking signals of M-UITA almost overlapped with the actual displacement, while some defects and jitters existed at the turning point.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel A",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9B, there was a slight translation between the M-UITA and the CT trajectories in Pattern A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel B",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Although there were also defects and jitters like sine wave and Pattern A at the turning point, the M-UITA and the CT trajectories were almost overlap as can be seen in Figure 9C.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel C",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Pattern\nSin\nA\nB\n\n\nDFD (mm)\n3.12\n3.85\n3.71\n\n\nOpen in a new tab\nDFDs, discrete Fréchet distances.Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9D shows the CRs of the three waveforms, and the error bars were drawn with twice the standard deviation.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel D",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 illustrates the tracking trajectories of each input signal.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 10B, it can be observed that in Pattern C, after 70 seconds, the tracking waveform of UITA exhibits a highly unstable state.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "Panel B",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the workflow of M-UITA.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 presents the design of the diaphragm phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The ultrasonic probe was fixed by a fixture and set on a still surface where was no relative displacement with ground as shown in Figure 3A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3B shows the setting of the ultrasound probe.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the complete experimental setup.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe diaphragm phantom. (A) Side view of the diaphragm phantom. (B) Top view of the diaphragm phantom.Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "RMSS, respiratory motion simulation system; RMCS, respiratory motion compensation system.Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Examples of diaphragm images from the dataset are shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The errors were calculated as following:\nFigure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the loss curves of the model all have a downward trend, and the errors of the training and validation datasets converge to 0.236 and 0.438.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 displays the screenshots of M-UITA in action.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The waveforms are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The respiratory signals are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 9A, the sine wave tracking signals of M-UITA almost overlapped with the actual displacement, while some defects and jitters existed at the turning point.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel A",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9B, there was a slight translation between the M-UITA and the CT trajectories in Pattern A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel B",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Although there were also defects and jitters like sine wave and Pattern A at the turning point, the M-UITA and the CT trajectories were almost overlap as can be seen in Figure 9C.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel C",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Pattern\nSin\nA\nB\n\n\nDFD (mm)\n3.12\n3.85\n3.71\n\n\nOpen in a new tab\nDFDs, discrete Fréchet distances.Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9D shows the CRs of the three waveforms, and the error bars were drawn with twice the standard deviation.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel D",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 illustrates the tracking trajectories of each input signal.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 10B, it can be observed that in Pattern C, after 70 seconds, the tracking waveform of UITA exhibits a highly unstable state.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "Panel B",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the workflow of M-UITA.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 presents the design of the diaphragm phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The ultrasonic probe was fixed by a fixture and set on a still surface where was no relative displacement with ground as shown in Figure 3A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3B shows the setting of the ultrasound probe.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the complete experimental setup.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe diaphragm phantom. (A) Side view of the diaphragm phantom. (B) Top view of the diaphragm phantom.Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "RMSS, respiratory motion simulation system; RMCS, respiratory motion compensation system.Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Examples of diaphragm images from the dataset are shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The errors were calculated as following:\nFigure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the loss curves of the model all have a downward trend, and the errors of the training and validation datasets converge to 0.236 and 0.438.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 displays the screenshots of M-UITA in action.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The waveforms are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The respiratory signals are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 9A, the sine wave tracking signals of M-UITA almost overlapped with the actual displacement, while some defects and jitters existed at the turning point.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel A",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9B, there was a slight translation between the M-UITA and the CT trajectories in Pattern A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel B",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Although there were also defects and jitters like sine wave and Pattern A at the turning point, the M-UITA and the CT trajectories were almost overlap as can be seen in Figure 9C.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel C",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Pattern\nSin\nA\nB\n\n\nDFD (mm)\n3.12\n3.85\n3.71\n\n\nOpen in a new tab\nDFDs, discrete Fréchet distances.Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9D shows the CRs of the three waveforms, and the error bars were drawn with twice the standard deviation.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel D",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 illustrates the tracking trajectories of each input signal.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 10B, it can be observed that in Pattern C, after 70 seconds, the tracking waveform of UITA exhibits a highly unstable state.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "Panel B",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the workflow of M-UITA.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 presents the design of the diaphragm phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The ultrasonic probe was fixed by a fixture and set on a still surface where was no relative displacement with ground as shown in Figure 3A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3B shows the setting of the ultrasound probe.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the complete experimental setup.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe diaphragm phantom. (A) Side view of the diaphragm phantom. (B) Top view of the diaphragm phantom.Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "RMSS, respiratory motion simulation system; RMCS, respiratory motion compensation system.Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Examples of diaphragm images from the dataset are shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The errors were calculated as following:\nFigure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the loss curves of the model all have a downward trend, and the errors of the training and validation datasets converge to 0.236 and 0.438.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 displays the screenshots of M-UITA in action.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The waveforms are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The respiratory signals are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 9A, the sine wave tracking signals of M-UITA almost overlapped with the actual displacement, while some defects and jitters existed at the turning point.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel A",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9B, there was a slight translation between the M-UITA and the CT trajectories in Pattern A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel B",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Although there were also defects and jitters like sine wave and Pattern A at the turning point, the M-UITA and the CT trajectories were almost overlap as can be seen in Figure 9C.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel C",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Pattern\nSin\nA\nB\n\n\nDFD (mm)\n3.12\n3.85\n3.71\n\n\nOpen in a new tab\nDFDs, discrete Fréchet distances.Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9D shows the CRs of the three waveforms, and the error bars were drawn with twice the standard deviation.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel D",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 illustrates the tracking trajectories of each input signal.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 10B, it can be observed that in Pattern C, after 70 seconds, the tracking waveform of UITA exhibits a highly unstable state.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "Panel B",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the workflow of M-UITA.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 presents the design of the diaphragm phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The ultrasonic probe was fixed by a fixture and set on a still surface where was no relative displacement with ground as shown in Figure 3A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3B shows the setting of the ultrasound probe.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the complete experimental setup.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe diaphragm phantom. (A) Side view of the diaphragm phantom. (B) Top view of the diaphragm phantom.Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "RMSS, respiratory motion simulation system; RMCS, respiratory motion compensation system.Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Examples of diaphragm images from the dataset are shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The errors were calculated as following:\nFigure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the loss curves of the model all have a downward trend, and the errors of the training and validation datasets converge to 0.236 and 0.438.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 displays the screenshots of M-UITA in action.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The waveforms are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The respiratory signals are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 9A, the sine wave tracking signals of M-UITA almost overlapped with the actual displacement, while some defects and jitters existed at the turning point.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel A",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9B, there was a slight translation between the M-UITA and the CT trajectories in Pattern A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel B",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Although there were also defects and jitters like sine wave and Pattern A at the turning point, the M-UITA and the CT trajectories were almost overlap as can be seen in Figure 9C.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel C",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Pattern\nSin\nA\nB\n\n\nDFD (mm)\n3.12\n3.85\n3.71\n\n\nOpen in a new tab\nDFDs, discrete Fréchet distances.Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9D shows the CRs of the three waveforms, and the error bars were drawn with twice the standard deviation.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel D",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 illustrates the tracking trajectories of each input signal.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 10B, it can be observed that in Pattern C, after 70 seconds, the tracking waveform of UITA exhibits a highly unstable state.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "Panel B",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the workflow of M-UITA.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 presents the design of the diaphragm phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The ultrasonic probe was fixed by a fixture and set on a still surface where was no relative displacement with ground as shown in Figure 3A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3B shows the setting of the ultrasound probe.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the complete experimental setup.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe diaphragm phantom. (A) Side view of the diaphragm phantom. (B) Top view of the diaphragm phantom.Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "RMSS, respiratory motion simulation system; RMCS, respiratory motion compensation system.Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Examples of diaphragm images from the dataset are shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The errors were calculated as following:\nFigure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the loss curves of the model all have a downward trend, and the errors of the training and validation datasets converge to 0.236 and 0.438.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 displays the screenshots of M-UITA in action.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The waveforms are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The respiratory signals are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the workflow of M-UITA.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 presents the design of the diaphragm phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The ultrasonic probe was fixed by a fixture and set on a still surface where was no relative displacement with ground as shown in Figure 3A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3B shows the setting of the ultrasound probe.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the complete experimental setup.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe diaphragm phantom. (A) Side view of the diaphragm phantom. (B) Top view of the diaphragm phantom.Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "RMSS, respiratory motion simulation system; RMCS, respiratory motion compensation system.Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 presents the design of the diaphragm phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The ultrasonic probe was fixed by a fixture and set on a still surface where was no relative displacement with ground as shown in Figure 3A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3B shows the setting of the ultrasound probe.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the complete experimental setup.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Examples of diaphragm images from the dataset are shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The errors were calculated as following:\nFigure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the loss curves of the model all have a downward trend, and the errors of the training and validation datasets converge to 0.236 and 0.438.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Examples of diaphragm images from the dataset are shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows that the loss curves of the model all have a downward trend, and the errors of the training and validation datasets converge to 0.236 and 0.438.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 displays the screenshots of M-UITA in action.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7 displays the screenshots of M-UITA in action.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The waveforms are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The waveforms are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The respiratory signals are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The respiratory signals are shown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 9A, the sine wave tracking signals of M-UITA almost overlapped with the actual displacement, while some defects and jitters existed at the turning point.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel A",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9B, there was a slight translation between the M-UITA and the CT trajectories in Pattern A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel B",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Although there were also defects and jitters like sine wave and Pattern A at the turning point, the M-UITA and the CT trajectories were almost overlap as can be seen in Figure 9C.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel C",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Pattern\nSin\nA\nB\n\n\nDFD (mm)\n3.12\n3.85\n3.71\n\n\nOpen in a new tab\nDFDs, discrete Fréchet distances.Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9D shows the CRs of the three waveforms, and the error bars were drawn with twice the standard deviation.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel D",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 illustrates the tracking trajectories of each input signal.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 10B, it can be observed that in Pattern C, after 70 seconds, the tracking waveform of UITA exhibits a highly unstable state.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "Panel B",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 9A, the sine wave tracking signals of M-UITA almost overlapped with the actual displacement, while some defects and jitters existed at the turning point.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel A",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9B, there was a slight translation between the M-UITA and the CT trajectories in Pattern A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel B",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Although there were also defects and jitters like sine wave and Pattern A at the turning point, the M-UITA and the CT trajectories were almost overlap as can be seen in Figure 9C.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel C",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Pattern\nSin\nA\nB\n\n\nDFD (mm)\n3.12\n3.85\n3.71\n\n\nOpen in a new tab\nDFDs, discrete Fréchet distances.Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 9A, the sine wave tracking signals of M-UITA almost overlapped with the actual displacement, while some defects and jitters existed at the turning point.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel A",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9B, there was a slight translation between the M-UITA and the CT trajectories in Pattern A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel B",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Although there were also defects and jitters like sine wave and Pattern A at the turning point, the M-UITA and the CT trajectories were almost overlap as can be seen in Figure 9C.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel C",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9D shows the CRs of the three waveforms, and the error bars were drawn with twice the standard deviation.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel D",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 illustrates the tracking trajectories of each input signal.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 10B, it can be observed that in Pattern C, after 70 seconds, the tracking waveform of UITA exhibits a highly unstable state.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "Panel B",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9D shows the CRs of the three waveforms, and the error bars were drawn with twice the standard deviation.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel D",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 illustrates the tracking trajectories of each input signal.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 10B, it can be observed that in Pattern C, after 70 seconds, the tracking waveform of UITA exhibits a highly unstable state.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "Panel B",
+        "figure_key": "figure_10"
+      }
+    ]
+  }
+]

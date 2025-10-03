@@ -1,0 +1,3978 @@
+{
+  "paper_id": "PMC8532145",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8532145/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Fig. 1.",
+      "caption": "Overview of ADMIRE. (A) Obtain the time-delayed channel data and calculate the short-time Fourier transform (STFT) along the depth dimension for each channel. (B) Obtain the corresponding model matrix for each set of aperture domain frequency data that will be reconstructed in each STFT window in each beam, fit each model matrix to its corresponding set of aperture domain frequency data (sizes of red points correspond to how much each scattering location contributes to the aperture domain frequency data), and reconstruct each set of aperture domain frequency data by only using the predictors that correspond to scattering locations that are within a region of interest (ROI). (C) Calculate the inverse short-time Fourier transform (ISTFT) of the reconstructed aperture domain frequency data in order to obtain the decluttered channel data. Note that the scattering locations are not restricted to the depth range of the STFT window. The grid of scattering locations illustrated in (B) corresponds to the first STFT window. For STFT windows that correspond to deeper depths, the scattering locations can also be located in shallower depths because these locations can contribute to off-axis scattering and multipath scattering that affect the aperture domain frequency data for the STFT window. Essentially, as the depths become deeper for subsequent STFT windows, the depth range for possible scattering locations also increases.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/cd93d02e2894/nihms-1708458-f0001.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/cd93d02e2894/nihms-1708458-f0001.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/cd93d02e2894/nihms-1708458-f0001.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/cd93d02e2894/nihms-1708458-f0001.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/cd93d02e2894/nihms-1708458-f0001.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC8532145/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/cd93d02e2894/nihms-1708458-f0001.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Fig. 2.",
+      "caption": "Diagram of the processing pipeline for the GPU implementation of ADMIRE. Peach colored boxes represent stages that are only performed once. Yellow colored boxes represent stages that are performed for every image frame.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/e4fbee76ff98/nihms-1708458-f0002.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/e4fbee76ff98/nihms-1708458-f0002.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/e4fbee76ff98/nihms-1708458-f0002.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/e4fbee76ff98/nihms-1708458-f0002.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/e4fbee76ff98/nihms-1708458-f0002.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC8532145/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/e4fbee76ff98/nihms-1708458-f0002.jpg"
+    },
+    "figure_3": {
+      "figure_number": "Figure 3",
+      "title": "Fig. 3.",
+      "caption": "Example of the cyclic coordinate descent optimization method. Each red point represents the objective function value at the end of a single iteration. The solid red lines represent minimizing the objective function with respect to one model coefficient at a time.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/e3306847bbd5/nihms-1708458-f0003.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/e3306847bbd5/nihms-1708458-f0003.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/e3306847bbd5/nihms-1708458-f0003.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/e3306847bbd5/nihms-1708458-f0003.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F3",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/e3306847bbd5/nihms-1708458-f0003.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC8532145/images/figure_3.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/e3306847bbd5/nihms-1708458-f0003.jpg"
+    },
+    "figure_4": {
+      "figure_number": "Figure 4",
+      "title": "Fig. 5.",
+      "caption": "(A) Example of an L1 cache memory access pattern where all of the threads within one warp require data that is located in one sector of memory, which means that only one memory transaction is required. In particular, the threads require the same memory address within the memory sector, which results in a broadcast operation. (B) Example of an L1 cache memory access pattern where the threads within one warp require data that is located in memory addresses that are not contiguous, which means that multiple memory transactions are required. Each cache line consists of 4 memory sectors that are each 32 bytes for a total of 128 bytes.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/fd5e73c76b91/nihms-1708458-f0005.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/fd5e73c76b91/nihms-1708458-f0005.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/fd5e73c76b91/nihms-1708458-f0005.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/fd5e73c76b91/nihms-1708458-f0005.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F5",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/fd5e73c76b91/nihms-1708458-f0005.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC8532145/images/figure_4.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/fd5e73c76b91/nihms-1708458-f0005.jpg"
+    },
+    "figure_5": {
+      "figure_number": "Figure 5",
+      "title": "Fig. 6.",
+      "caption": "Field II cyst simulation dataset with added white Gaussian noise processed with DAS using different GPU cases (left), ADMIRE using different GPU cases (center), and ADMIRE using a CPU (right). The power of the noise was scaled to be 0 dB relative to the power of the channel data. The average run times in seconds (N = 10 for CPU and N = 100 for GPU) are displayed at the top of the images along with the standard deviations, and the contrast ratio values in dB are displayed at the bottom. The cyst and background masks that were used for calculating the contrast ratio values are displayed as well.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/ed920c778a72/nihms-1708458-f0006.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/ed920c778a72/nihms-1708458-f0006.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/ed920c778a72/nihms-1708458-f0006.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/ed920c778a72/nihms-1708458-f0006.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F6",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/ed920c778a72/nihms-1708458-f0006.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC8532145/images/figure_5.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/ed920c778a72/nihms-1708458-f0006.jpg"
+    },
+    "figure_6": {
+      "figure_number": "Figure 6",
+      "title": "Fig. 8.",
+      "caption": "2080 Ti GPU processing times for individual stages of the GPU processing pipeline as a function of (A) the number of depth samples, (B) the number of elements per beam, and (C) the number of beams. When varying one parameter, the other parameters were held constant at their default values listed in Table I. Each stage has a corresponding subsection in the Methods section, and the CUDA kernels that are performed for a particular stage are the ones that are listed in its subsection. The color scheme for this figure was selected using [33].",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/fde324a21a10/nihms-1708458-f0008.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/fde324a21a10/nihms-1708458-f0008.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/fde324a21a10/nihms-1708458-f0008.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/fde324a21a10/nihms-1708458-f0008.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F8",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/fde324a21a10/nihms-1708458-f0008.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC8532145/images/figure_6.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/fde324a21a10/nihms-1708458-f0008.jpg"
+    },
+    "figure_7": {
+      "figure_number": "Figure 7",
+      "title": "Fig. 9.",
+      "caption": "Screen capture during simultaneous DAS (left) and ADMIRE (right) imaging with the L7–4 probe sequence. The images are of the carotid artery, and they are displayed with a dynamic range of 60 dB.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/54a9b221dcdc/nihms-1708458-f0009.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/54a9b221dcdc/nihms-1708458-f0009.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/54a9b221dcdc/nihms-1708458-f0009.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/54a9b221dcdc/nihms-1708458-f0009.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F9",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/54a9b221dcdc/nihms-1708458-f0009.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC8532145/images/figure_7.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/54a9b221dcdc/nihms-1708458-f0009.jpg"
+    },
+    "figure_8": {
+      "figure_number": "Figure 8",
+      "title": "Fig. 11.",
+      "caption": "Screen capture during simultaneous DAS (left) and ADMIRE (right) imaging with the C5–2 probe sequence. The images are of the liver, and they are displayed with a dynamic range of 60 dB.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/cdf45b13c725/nihms-1708458-f0011.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/cdf45b13c725/nihms-1708458-f0011.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/cdf45b13c725/nihms-1708458-f0011.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/cdf45b13c725/nihms-1708458-f0011.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F11",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/cdf45b13c725/nihms-1708458-f0011.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC8532145/images/figure_8.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/cdf45b13c725/nihms-1708458-f0011.jpg"
+    },
+    "figure_9": {
+      "figure_number": "Figure 9",
+      "title": "Fig. 12.",
+      "caption": "Screen capture during simultaneous DAS (left), ADMIRE (center), and SLSC (right) imaging with the L7–4 probe sequence. The images are of a CIRS quality assurance phantom. The DAS and ADMIRE images are displayed with a dynamic range of 60 dB, and the SLSC image is displayed using a range from 0 to 1. Note that the SLSC lag was updated to 20 during imaging.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/d888605669b0/nihms-1708458-f0012.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/d888605669b0/nihms-1708458-f0012.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/d888605669b0/nihms-1708458-f0012.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/d888605669b0/nihms-1708458-f0012.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F12",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/d888605669b0/nihms-1708458-f0012.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC8532145/images/figure_9.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/d888605669b0/nihms-1708458-f0012.jpg"
+    },
+    "figure_10": {
+      "figure_number": "Figure 10",
+      "title": "Fig. 13.",
+      "caption": "Screen capture during simultaneous DAS (left), ADMIRE (center), and SLSC (right) imaging with the L7–4 probe sequence. The images are of the carotid artery. The DAS and ADMIRE images are displayed with a dynamic range of 60 dB, and the SLSC image is displayed using a range from 0 to 1.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/564a85317ae7/nihms-1708458-f0013.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/564a85317ae7/nihms-1708458-f0013.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/564a85317ae7/nihms-1708458-f0013.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/564a85317ae7/nihms-1708458-f0013.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F13",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/564a85317ae7/nihms-1708458-f0013.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC8532145/images/figure_10.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/564a85317ae7/nihms-1708458-f0013.jpg"
+    },
+    "figure_11": {
+      "figure_number": "Figure 11",
+      "title": "Fig. 10.",
+      "caption": "Screen capture during simultaneous DAS (left) and ADMIRE (right) imaging with the C5–2 probe sequence. The images are of the liver and one kidney, and they are displayed with a dynamic range of 60 dB.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/bce94d316c83/nihms-1708458-f0010.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/bce94d316c83/nihms-1708458-f0010.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/bce94d316c83/nihms-1708458-f0010.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/bce94d316c83/nihms-1708458-f0010.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F10",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/bce94d316c83/nihms-1708458-f0010.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC8532145/images/figure_11.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b24f/8532145/bce94d316c83/nihms-1708458-f0010.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "An overview of ADMIRE is provided in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The entire processing pipeline is shown in Fig. 2 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "After doing this, each window contains the aperture domain data for multiple frequencies, and the completion of this step corresponds to the completion of (A) in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Once these steps are complete, (B) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "This process is illustrated in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In this case, 115,200 total model fits must be performed, so each one of these model fits will be assigned to one thread as shown in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The solid red lines represent minimizing the objective function with respect to one model coefficient at a time.Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "This memory access pattern is illustrated by (A) in Fig. 5 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "After the data is stored, (C) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that in Fig. 2, image display is listed under CPU due to the fact that MATLAB is used to display the processed image.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "CPU ADMIRE vs. GPU ADMIRE Benchmarks\nFig. 6 shows the simulated cyst dataset processed with DAS using different GPU cases, ADMIRE using different GPU cases, and ADMIRE using a CPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Nevertheless, as a test, the channel data for the dataset that was used to create Fig. 6 was time-delayed on the GPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Effect of Imaging and Processing Parameters on Run Time\nIn regard to the effect of imaging and processing parameters on the GPU implementation of ADMIRE, Fig. 7 demonstrates that there is a linear relationship between processing time and three of the parameters that were studied (number of depth samples, number of elements per beam, and number of beams).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 7 shows that the processing time decreases as each of these parameters are increased until it eventually levels out.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Based off of the timings where the original data was processed (Fig. 6 and Fig. 7), the average processing time using the multi-GPU implementation ranged from approximately 0.168s to 0.173s.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, Fig. 8 shows that the majority of the processing time for ADMIRE is spent in the model fitting and reconstruction stage.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 12 shows an example of DAS, ADMIRE, and SLSC being computed on the GPU and simultaneously displayed during imaging.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 13 shows an example when using the L7–4 probe sequence to scan the carotid artery.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The images are of the carotid artery, and they are displayed with a dynamic range of 60 dB.Fig. 11.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "The images are of the liver, and they are displayed with a dynamic range of 60 dB.Fig. 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the SLSC lag was updated to 20 during imaging.Fig. 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The case in Fig. 10 and the case in Fig. 11 were the slowest due to the fact that scan conversion was performed, and a finely sampled cartesian grid was used.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        },
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For the case presented in Fig. 13, the frame rate was approximately 23–24 frames per second.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "These times are for a multi-purpose, multi-tissue phantom imaging case similar to the one shown in Fig. 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, the time for image display is for the particular window sizes that are shown in Fig. 12 and its corresponding video.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Fig. 6, when compared to the CPU implementation of ADMIRE, the GPU implementation for both of the single GPU cases and the multi-GPU implementation all provide a speedup of two orders of magnitude.B.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Now, besides the effects of these parameters on the computational aspects of ADMIRE, the number of depths, the number of elements per beam, and the number of beams can also affect the time taken for memory operations to occur as shown in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "As previously stated, these operations are included in the processing times in Fig. 7, so reducing them also decreases the processing times.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, for varying the number of beams, the processing time appears to change by a larger amount when the number of beams changes by a multiple of 32, as shown in Fig. 7.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "This is why the processing time for the model fitting and reconstruction stage is similar for these two cases in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Effect of GPU Hardware on Run Time\nIn regard to the effect of the type of GPU on processing time, Fig. 6 and Fig. 7 show that when compared to the 1080 Ti GPU, running ADMIRE on the 2080 Ti GPU is approximately 2.2 times faster.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "9–12, and the frame rate was approximately 23–24 frames per second for the case presented in Fig. 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "An overview of ADMIRE is provided in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The entire processing pipeline is shown in Fig. 2 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "After doing this, each window contains the aperture domain data for multiple frequencies, and the completion of this step corresponds to the completion of (A) in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Once these steps are complete, (B) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "This process is illustrated in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In this case, 115,200 total model fits must be performed, so each one of these model fits will be assigned to one thread as shown in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The solid red lines represent minimizing the objective function with respect to one model coefficient at a time.Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "This memory access pattern is illustrated by (A) in Fig. 5 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "After the data is stored, (C) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that in Fig. 2, image display is listed under CPU due to the fact that MATLAB is used to display the processed image.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "CPU ADMIRE vs. GPU ADMIRE Benchmarks\nFig. 6 shows the simulated cyst dataset processed with DAS using different GPU cases, ADMIRE using different GPU cases, and ADMIRE using a CPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Nevertheless, as a test, the channel data for the dataset that was used to create Fig. 6 was time-delayed on the GPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Effect of Imaging and Processing Parameters on Run Time\nIn regard to the effect of imaging and processing parameters on the GPU implementation of ADMIRE, Fig. 7 demonstrates that there is a linear relationship between processing time and three of the parameters that were studied (number of depth samples, number of elements per beam, and number of beams).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 7 shows that the processing time decreases as each of these parameters are increased until it eventually levels out.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Based off of the timings where the original data was processed (Fig. 6 and Fig. 7), the average processing time using the multi-GPU implementation ranged from approximately 0.168s to 0.173s.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, Fig. 8 shows that the majority of the processing time for ADMIRE is spent in the model fitting and reconstruction stage.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 12 shows an example of DAS, ADMIRE, and SLSC being computed on the GPU and simultaneously displayed during imaging.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 13 shows an example when using the L7–4 probe sequence to scan the carotid artery.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The images are of the carotid artery, and they are displayed with a dynamic range of 60 dB.Fig. 11.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "The images are of the liver, and they are displayed with a dynamic range of 60 dB.Fig. 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the SLSC lag was updated to 20 during imaging.Fig. 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The case in Fig. 10 and the case in Fig. 11 were the slowest due to the fact that scan conversion was performed, and a finely sampled cartesian grid was used.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        },
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For the case presented in Fig. 13, the frame rate was approximately 23–24 frames per second.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "These times are for a multi-purpose, multi-tissue phantom imaging case similar to the one shown in Fig. 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, the time for image display is for the particular window sizes that are shown in Fig. 12 and its corresponding video.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Fig. 6, when compared to the CPU implementation of ADMIRE, the GPU implementation for both of the single GPU cases and the multi-GPU implementation all provide a speedup of two orders of magnitude.B.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Now, besides the effects of these parameters on the computational aspects of ADMIRE, the number of depths, the number of elements per beam, and the number of beams can also affect the time taken for memory operations to occur as shown in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "As previously stated, these operations are included in the processing times in Fig. 7, so reducing them also decreases the processing times.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, for varying the number of beams, the processing time appears to change by a larger amount when the number of beams changes by a multiple of 32, as shown in Fig. 7.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "This is why the processing time for the model fitting and reconstruction stage is similar for these two cases in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Effect of GPU Hardware on Run Time\nIn regard to the effect of the type of GPU on processing time, Fig. 6 and Fig. 7 show that when compared to the 1080 Ti GPU, running ADMIRE on the 2080 Ti GPU is approximately 2.2 times faster.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "9–12, and the frame rate was approximately 23–24 frames per second for the case presented in Fig. 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "An overview of ADMIRE is provided in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The entire processing pipeline is shown in Fig. 2 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "After doing this, each window contains the aperture domain data for multiple frequencies, and the completion of this step corresponds to the completion of (A) in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Once these steps are complete, (B) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "This process is illustrated in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In this case, 115,200 total model fits must be performed, so each one of these model fits will be assigned to one thread as shown in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The solid red lines represent minimizing the objective function with respect to one model coefficient at a time.Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "This memory access pattern is illustrated by (A) in Fig. 5 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "After the data is stored, (C) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that in Fig. 2, image display is listed under CPU due to the fact that MATLAB is used to display the processed image.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "CPU ADMIRE vs. GPU ADMIRE Benchmarks\nFig. 6 shows the simulated cyst dataset processed with DAS using different GPU cases, ADMIRE using different GPU cases, and ADMIRE using a CPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Nevertheless, as a test, the channel data for the dataset that was used to create Fig. 6 was time-delayed on the GPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Effect of Imaging and Processing Parameters on Run Time\nIn regard to the effect of imaging and processing parameters on the GPU implementation of ADMIRE, Fig. 7 demonstrates that there is a linear relationship between processing time and three of the parameters that were studied (number of depth samples, number of elements per beam, and number of beams).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 7 shows that the processing time decreases as each of these parameters are increased until it eventually levels out.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Based off of the timings where the original data was processed (Fig. 6 and Fig. 7), the average processing time using the multi-GPU implementation ranged from approximately 0.168s to 0.173s.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, Fig. 8 shows that the majority of the processing time for ADMIRE is spent in the model fitting and reconstruction stage.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 12 shows an example of DAS, ADMIRE, and SLSC being computed on the GPU and simultaneously displayed during imaging.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 13 shows an example when using the L7–4 probe sequence to scan the carotid artery.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The images are of the carotid artery, and they are displayed with a dynamic range of 60 dB.Fig. 11.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "The images are of the liver, and they are displayed with a dynamic range of 60 dB.Fig. 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the SLSC lag was updated to 20 during imaging.Fig. 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The case in Fig. 10 and the case in Fig. 11 were the slowest due to the fact that scan conversion was performed, and a finely sampled cartesian grid was used.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        },
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For the case presented in Fig. 13, the frame rate was approximately 23–24 frames per second.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "These times are for a multi-purpose, multi-tissue phantom imaging case similar to the one shown in Fig. 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, the time for image display is for the particular window sizes that are shown in Fig. 12 and its corresponding video.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Fig. 6, when compared to the CPU implementation of ADMIRE, the GPU implementation for both of the single GPU cases and the multi-GPU implementation all provide a speedup of two orders of magnitude.B.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Now, besides the effects of these parameters on the computational aspects of ADMIRE, the number of depths, the number of elements per beam, and the number of beams can also affect the time taken for memory operations to occur as shown in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "As previously stated, these operations are included in the processing times in Fig. 7, so reducing them also decreases the processing times.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, for varying the number of beams, the processing time appears to change by a larger amount when the number of beams changes by a multiple of 32, as shown in Fig. 7.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "This is why the processing time for the model fitting and reconstruction stage is similar for these two cases in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Effect of GPU Hardware on Run Time\nIn regard to the effect of the type of GPU on processing time, Fig. 6 and Fig. 7 show that when compared to the 1080 Ti GPU, running ADMIRE on the 2080 Ti GPU is approximately 2.2 times faster.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "9–12, and the frame rate was approximately 23–24 frames per second for the case presented in Fig. 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "An overview of ADMIRE is provided in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The entire processing pipeline is shown in Fig. 2 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "After doing this, each window contains the aperture domain data for multiple frequencies, and the completion of this step corresponds to the completion of (A) in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Once these steps are complete, (B) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "This process is illustrated in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In this case, 115,200 total model fits must be performed, so each one of these model fits will be assigned to one thread as shown in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The solid red lines represent minimizing the objective function with respect to one model coefficient at a time.Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "This memory access pattern is illustrated by (A) in Fig. 5 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "After the data is stored, (C) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that in Fig. 2, image display is listed under CPU due to the fact that MATLAB is used to display the processed image.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "CPU ADMIRE vs. GPU ADMIRE Benchmarks\nFig. 6 shows the simulated cyst dataset processed with DAS using different GPU cases, ADMIRE using different GPU cases, and ADMIRE using a CPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Nevertheless, as a test, the channel data for the dataset that was used to create Fig. 6 was time-delayed on the GPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Effect of Imaging and Processing Parameters on Run Time\nIn regard to the effect of imaging and processing parameters on the GPU implementation of ADMIRE, Fig. 7 demonstrates that there is a linear relationship between processing time and three of the parameters that were studied (number of depth samples, number of elements per beam, and number of beams).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 7 shows that the processing time decreases as each of these parameters are increased until it eventually levels out.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Based off of the timings where the original data was processed (Fig. 6 and Fig. 7), the average processing time using the multi-GPU implementation ranged from approximately 0.168s to 0.173s.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, Fig. 8 shows that the majority of the processing time for ADMIRE is spent in the model fitting and reconstruction stage.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 12 shows an example of DAS, ADMIRE, and SLSC being computed on the GPU and simultaneously displayed during imaging.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 13 shows an example when using the L7–4 probe sequence to scan the carotid artery.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The images are of the carotid artery, and they are displayed with a dynamic range of 60 dB.Fig. 11.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "The images are of the liver, and they are displayed with a dynamic range of 60 dB.Fig. 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the SLSC lag was updated to 20 during imaging.Fig. 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The case in Fig. 10 and the case in Fig. 11 were the slowest due to the fact that scan conversion was performed, and a finely sampled cartesian grid was used.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        },
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For the case presented in Fig. 13, the frame rate was approximately 23–24 frames per second.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "These times are for a multi-purpose, multi-tissue phantom imaging case similar to the one shown in Fig. 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, the time for image display is for the particular window sizes that are shown in Fig. 12 and its corresponding video.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Fig. 6, when compared to the CPU implementation of ADMIRE, the GPU implementation for both of the single GPU cases and the multi-GPU implementation all provide a speedup of two orders of magnitude.B.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Now, besides the effects of these parameters on the computational aspects of ADMIRE, the number of depths, the number of elements per beam, and the number of beams can also affect the time taken for memory operations to occur as shown in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "As previously stated, these operations are included in the processing times in Fig. 7, so reducing them also decreases the processing times.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, for varying the number of beams, the processing time appears to change by a larger amount when the number of beams changes by a multiple of 32, as shown in Fig. 7.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "This is why the processing time for the model fitting and reconstruction stage is similar for these two cases in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Effect of GPU Hardware on Run Time\nIn regard to the effect of the type of GPU on processing time, Fig. 6 and Fig. 7 show that when compared to the 1080 Ti GPU, running ADMIRE on the 2080 Ti GPU is approximately 2.2 times faster.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "9–12, and the frame rate was approximately 23–24 frames per second for the case presented in Fig. 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "An overview of ADMIRE is provided in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The entire processing pipeline is shown in Fig. 2 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "After doing this, each window contains the aperture domain data for multiple frequencies, and the completion of this step corresponds to the completion of (A) in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Once these steps are complete, (B) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "This process is illustrated in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In this case, 115,200 total model fits must be performed, so each one of these model fits will be assigned to one thread as shown in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The solid red lines represent minimizing the objective function with respect to one model coefficient at a time.Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "This memory access pattern is illustrated by (A) in Fig. 5 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "After the data is stored, (C) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that in Fig. 2, image display is listed under CPU due to the fact that MATLAB is used to display the processed image.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "CPU ADMIRE vs. GPU ADMIRE Benchmarks\nFig. 6 shows the simulated cyst dataset processed with DAS using different GPU cases, ADMIRE using different GPU cases, and ADMIRE using a CPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Nevertheless, as a test, the channel data for the dataset that was used to create Fig. 6 was time-delayed on the GPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Effect of Imaging and Processing Parameters on Run Time\nIn regard to the effect of imaging and processing parameters on the GPU implementation of ADMIRE, Fig. 7 demonstrates that there is a linear relationship between processing time and three of the parameters that were studied (number of depth samples, number of elements per beam, and number of beams).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 7 shows that the processing time decreases as each of these parameters are increased until it eventually levels out.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Based off of the timings where the original data was processed (Fig. 6 and Fig. 7), the average processing time using the multi-GPU implementation ranged from approximately 0.168s to 0.173s.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, Fig. 8 shows that the majority of the processing time for ADMIRE is spent in the model fitting and reconstruction stage.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 12 shows an example of DAS, ADMIRE, and SLSC being computed on the GPU and simultaneously displayed during imaging.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 13 shows an example when using the L7–4 probe sequence to scan the carotid artery.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The images are of the carotid artery, and they are displayed with a dynamic range of 60 dB.Fig. 11.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "The images are of the liver, and they are displayed with a dynamic range of 60 dB.Fig. 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the SLSC lag was updated to 20 during imaging.Fig. 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The case in Fig. 10 and the case in Fig. 11 were the slowest due to the fact that scan conversion was performed, and a finely sampled cartesian grid was used.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        },
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For the case presented in Fig. 13, the frame rate was approximately 23–24 frames per second.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "These times are for a multi-purpose, multi-tissue phantom imaging case similar to the one shown in Fig. 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, the time for image display is for the particular window sizes that are shown in Fig. 12 and its corresponding video.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Fig. 6, when compared to the CPU implementation of ADMIRE, the GPU implementation for both of the single GPU cases and the multi-GPU implementation all provide a speedup of two orders of magnitude.B.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Now, besides the effects of these parameters on the computational aspects of ADMIRE, the number of depths, the number of elements per beam, and the number of beams can also affect the time taken for memory operations to occur as shown in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "As previously stated, these operations are included in the processing times in Fig. 7, so reducing them also decreases the processing times.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, for varying the number of beams, the processing time appears to change by a larger amount when the number of beams changes by a multiple of 32, as shown in Fig. 7.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "This is why the processing time for the model fitting and reconstruction stage is similar for these two cases in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Effect of GPU Hardware on Run Time\nIn regard to the effect of the type of GPU on processing time, Fig. 6 and Fig. 7 show that when compared to the 1080 Ti GPU, running ADMIRE on the 2080 Ti GPU is approximately 2.2 times faster.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "9–12, and the frame rate was approximately 23–24 frames per second for the case presented in Fig. 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "An overview of ADMIRE is provided in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The entire processing pipeline is shown in Fig. 2 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "After doing this, each window contains the aperture domain data for multiple frequencies, and the completion of this step corresponds to the completion of (A) in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Once these steps are complete, (B) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "This process is illustrated in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In this case, 115,200 total model fits must be performed, so each one of these model fits will be assigned to one thread as shown in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The solid red lines represent minimizing the objective function with respect to one model coefficient at a time.Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "This memory access pattern is illustrated by (A) in Fig. 5 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "After the data is stored, (C) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that in Fig. 2, image display is listed under CPU due to the fact that MATLAB is used to display the processed image.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "CPU ADMIRE vs. GPU ADMIRE Benchmarks\nFig. 6 shows the simulated cyst dataset processed with DAS using different GPU cases, ADMIRE using different GPU cases, and ADMIRE using a CPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Nevertheless, as a test, the channel data for the dataset that was used to create Fig. 6 was time-delayed on the GPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Effect of Imaging and Processing Parameters on Run Time\nIn regard to the effect of imaging and processing parameters on the GPU implementation of ADMIRE, Fig. 7 demonstrates that there is a linear relationship between processing time and three of the parameters that were studied (number of depth samples, number of elements per beam, and number of beams).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 7 shows that the processing time decreases as each of these parameters are increased until it eventually levels out.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Based off of the timings where the original data was processed (Fig. 6 and Fig. 7), the average processing time using the multi-GPU implementation ranged from approximately 0.168s to 0.173s.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, Fig. 8 shows that the majority of the processing time for ADMIRE is spent in the model fitting and reconstruction stage.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 12 shows an example of DAS, ADMIRE, and SLSC being computed on the GPU and simultaneously displayed during imaging.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 13 shows an example when using the L7–4 probe sequence to scan the carotid artery.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The images are of the carotid artery, and they are displayed with a dynamic range of 60 dB.Fig. 11.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "The images are of the liver, and they are displayed with a dynamic range of 60 dB.Fig. 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the SLSC lag was updated to 20 during imaging.Fig. 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The case in Fig. 10 and the case in Fig. 11 were the slowest due to the fact that scan conversion was performed, and a finely sampled cartesian grid was used.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        },
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For the case presented in Fig. 13, the frame rate was approximately 23–24 frames per second.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "These times are for a multi-purpose, multi-tissue phantom imaging case similar to the one shown in Fig. 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, the time for image display is for the particular window sizes that are shown in Fig. 12 and its corresponding video.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Fig. 6, when compared to the CPU implementation of ADMIRE, the GPU implementation for both of the single GPU cases and the multi-GPU implementation all provide a speedup of two orders of magnitude.B.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Now, besides the effects of these parameters on the computational aspects of ADMIRE, the number of depths, the number of elements per beam, and the number of beams can also affect the time taken for memory operations to occur as shown in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "As previously stated, these operations are included in the processing times in Fig. 7, so reducing them also decreases the processing times.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, for varying the number of beams, the processing time appears to change by a larger amount when the number of beams changes by a multiple of 32, as shown in Fig. 7.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "This is why the processing time for the model fitting and reconstruction stage is similar for these two cases in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Effect of GPU Hardware on Run Time\nIn regard to the effect of the type of GPU on processing time, Fig. 6 and Fig. 7 show that when compared to the 1080 Ti GPU, running ADMIRE on the 2080 Ti GPU is approximately 2.2 times faster.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "9–12, and the frame rate was approximately 23–24 frames per second for the case presented in Fig. 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "An overview of ADMIRE is provided in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The entire processing pipeline is shown in Fig. 2 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "After doing this, each window contains the aperture domain data for multiple frequencies, and the completion of this step corresponds to the completion of (A) in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Once these steps are complete, (B) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "This process is illustrated in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In this case, 115,200 total model fits must be performed, so each one of these model fits will be assigned to one thread as shown in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The solid red lines represent minimizing the objective function with respect to one model coefficient at a time.Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "This memory access pattern is illustrated by (A) in Fig. 5 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "After the data is stored, (C) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that in Fig. 2, image display is listed under CPU due to the fact that MATLAB is used to display the processed image.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "CPU ADMIRE vs. GPU ADMIRE Benchmarks\nFig. 6 shows the simulated cyst dataset processed with DAS using different GPU cases, ADMIRE using different GPU cases, and ADMIRE using a CPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Nevertheless, as a test, the channel data for the dataset that was used to create Fig. 6 was time-delayed on the GPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Effect of Imaging and Processing Parameters on Run Time\nIn regard to the effect of imaging and processing parameters on the GPU implementation of ADMIRE, Fig. 7 demonstrates that there is a linear relationship between processing time and three of the parameters that were studied (number of depth samples, number of elements per beam, and number of beams).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 7 shows that the processing time decreases as each of these parameters are increased until it eventually levels out.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Based off of the timings where the original data was processed (Fig. 6 and Fig. 7), the average processing time using the multi-GPU implementation ranged from approximately 0.168s to 0.173s.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, Fig. 8 shows that the majority of the processing time for ADMIRE is spent in the model fitting and reconstruction stage.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 12 shows an example of DAS, ADMIRE, and SLSC being computed on the GPU and simultaneously displayed during imaging.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 13 shows an example when using the L7–4 probe sequence to scan the carotid artery.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The images are of the carotid artery, and they are displayed with a dynamic range of 60 dB.Fig. 11.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "The images are of the liver, and they are displayed with a dynamic range of 60 dB.Fig. 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the SLSC lag was updated to 20 during imaging.Fig. 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The case in Fig. 10 and the case in Fig. 11 were the slowest due to the fact that scan conversion was performed, and a finely sampled cartesian grid was used.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        },
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For the case presented in Fig. 13, the frame rate was approximately 23–24 frames per second.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "These times are for a multi-purpose, multi-tissue phantom imaging case similar to the one shown in Fig. 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, the time for image display is for the particular window sizes that are shown in Fig. 12 and its corresponding video.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Fig. 6, when compared to the CPU implementation of ADMIRE, the GPU implementation for both of the single GPU cases and the multi-GPU implementation all provide a speedup of two orders of magnitude.B.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Now, besides the effects of these parameters on the computational aspects of ADMIRE, the number of depths, the number of elements per beam, and the number of beams can also affect the time taken for memory operations to occur as shown in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "As previously stated, these operations are included in the processing times in Fig. 7, so reducing them also decreases the processing times.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, for varying the number of beams, the processing time appears to change by a larger amount when the number of beams changes by a multiple of 32, as shown in Fig. 7.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "This is why the processing time for the model fitting and reconstruction stage is similar for these two cases in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Effect of GPU Hardware on Run Time\nIn regard to the effect of the type of GPU on processing time, Fig. 6 and Fig. 7 show that when compared to the 1080 Ti GPU, running ADMIRE on the 2080 Ti GPU is approximately 2.2 times faster.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "9–12, and the frame rate was approximately 23–24 frames per second for the case presented in Fig. 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "An overview of ADMIRE is provided in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The entire processing pipeline is shown in Fig. 2 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "After doing this, each window contains the aperture domain data for multiple frequencies, and the completion of this step corresponds to the completion of (A) in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Once these steps are complete, (B) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "This process is illustrated in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In this case, 115,200 total model fits must be performed, so each one of these model fits will be assigned to one thread as shown in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The solid red lines represent minimizing the objective function with respect to one model coefficient at a time.Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "This memory access pattern is illustrated by (A) in Fig. 5 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "After the data is stored, (C) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that in Fig. 2, image display is listed under CPU due to the fact that MATLAB is used to display the processed image.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "CPU ADMIRE vs. GPU ADMIRE Benchmarks\nFig. 6 shows the simulated cyst dataset processed with DAS using different GPU cases, ADMIRE using different GPU cases, and ADMIRE using a CPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Nevertheless, as a test, the channel data for the dataset that was used to create Fig. 6 was time-delayed on the GPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Effect of Imaging and Processing Parameters on Run Time\nIn regard to the effect of imaging and processing parameters on the GPU implementation of ADMIRE, Fig. 7 demonstrates that there is a linear relationship between processing time and three of the parameters that were studied (number of depth samples, number of elements per beam, and number of beams).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 7 shows that the processing time decreases as each of these parameters are increased until it eventually levels out.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Based off of the timings where the original data was processed (Fig. 6 and Fig. 7), the average processing time using the multi-GPU implementation ranged from approximately 0.168s to 0.173s.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, Fig. 8 shows that the majority of the processing time for ADMIRE is spent in the model fitting and reconstruction stage.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 12 shows an example of DAS, ADMIRE, and SLSC being computed on the GPU and simultaneously displayed during imaging.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 13 shows an example when using the L7–4 probe sequence to scan the carotid artery.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The images are of the carotid artery, and they are displayed with a dynamic range of 60 dB.Fig. 11.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "The images are of the liver, and they are displayed with a dynamic range of 60 dB.Fig. 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the SLSC lag was updated to 20 during imaging.Fig. 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The case in Fig. 10 and the case in Fig. 11 were the slowest due to the fact that scan conversion was performed, and a finely sampled cartesian grid was used.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        },
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For the case presented in Fig. 13, the frame rate was approximately 23–24 frames per second.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "These times are for a multi-purpose, multi-tissue phantom imaging case similar to the one shown in Fig. 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, the time for image display is for the particular window sizes that are shown in Fig. 12 and its corresponding video.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Fig. 6, when compared to the CPU implementation of ADMIRE, the GPU implementation for both of the single GPU cases and the multi-GPU implementation all provide a speedup of two orders of magnitude.B.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Now, besides the effects of these parameters on the computational aspects of ADMIRE, the number of depths, the number of elements per beam, and the number of beams can also affect the time taken for memory operations to occur as shown in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "As previously stated, these operations are included in the processing times in Fig. 7, so reducing them also decreases the processing times.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, for varying the number of beams, the processing time appears to change by a larger amount when the number of beams changes by a multiple of 32, as shown in Fig. 7.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "This is why the processing time for the model fitting and reconstruction stage is similar for these two cases in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Effect of GPU Hardware on Run Time\nIn regard to the effect of the type of GPU on processing time, Fig. 6 and Fig. 7 show that when compared to the 1080 Ti GPU, running ADMIRE on the 2080 Ti GPU is approximately 2.2 times faster.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "9–12, and the frame rate was approximately 23–24 frames per second for the case presented in Fig. 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "An overview of ADMIRE is provided in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The entire processing pipeline is shown in Fig. 2 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "After doing this, each window contains the aperture domain data for multiple frequencies, and the completion of this step corresponds to the completion of (A) in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Once these steps are complete, (B) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "This process is illustrated in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In this case, 115,200 total model fits must be performed, so each one of these model fits will be assigned to one thread as shown in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The solid red lines represent minimizing the objective function with respect to one model coefficient at a time.Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "This memory access pattern is illustrated by (A) in Fig. 5 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "After the data is stored, (C) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that in Fig. 2, image display is listed under CPU due to the fact that MATLAB is used to display the processed image.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "An overview of ADMIRE is provided in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "An overview of ADMIRE is provided in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The entire processing pipeline is shown in Fig. 2 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The entire processing pipeline is shown in Fig. 2 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "After doing this, each window contains the aperture domain data for multiple frequencies, and the completion of this step corresponds to the completion of (A) in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "After doing this, each window contains the aperture domain data for multiple frequencies, and the completion of this step corresponds to the completion of (A) in Fig. 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Once these steps are complete, (B) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "This process is illustrated in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In this case, 115,200 total model fits must be performed, so each one of these model fits will be assigned to one thread as shown in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The solid red lines represent minimizing the objective function with respect to one model coefficient at a time.Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Once these steps are complete, (B) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "This process is illustrated in Fig. 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In this case, 115,200 total model fits must be performed, so each one of these model fits will be assigned to one thread as shown in Fig. 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "This memory access pattern is illustrated by (A) in Fig. 5 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "This memory access pattern is illustrated by (A) in Fig. 5 below.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 5",
+          "panel": "",
+          "figure_key": "figure_5"
+        }
+      ]
+    },
+    {
+      "sentence": "After the data is stored, (C) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "After the data is stored, (C) in Fig. 1 can be performed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that in Fig. 2, image display is listed under CPU due to the fact that MATLAB is used to display the processed image.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that in Fig. 2, image display is listed under CPU due to the fact that MATLAB is used to display the processed image.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "CPU ADMIRE vs. GPU ADMIRE Benchmarks\nFig. 6 shows the simulated cyst dataset processed with DAS using different GPU cases, ADMIRE using different GPU cases, and ADMIRE using a CPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Nevertheless, as a test, the channel data for the dataset that was used to create Fig. 6 was time-delayed on the GPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Effect of Imaging and Processing Parameters on Run Time\nIn regard to the effect of imaging and processing parameters on the GPU implementation of ADMIRE, Fig. 7 demonstrates that there is a linear relationship between processing time and three of the parameters that were studied (number of depth samples, number of elements per beam, and number of beams).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 7 shows that the processing time decreases as each of these parameters are increased until it eventually levels out.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Based off of the timings where the original data was processed (Fig. 6 and Fig. 7), the average processing time using the multi-GPU implementation ranged from approximately 0.168s to 0.173s.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, Fig. 8 shows that the majority of the processing time for ADMIRE is spent in the model fitting and reconstruction stage.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 12 shows an example of DAS, ADMIRE, and SLSC being computed on the GPU and simultaneously displayed during imaging.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 13 shows an example when using the L7–4 probe sequence to scan the carotid artery.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The images are of the carotid artery, and they are displayed with a dynamic range of 60 dB.Fig. 11.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "The images are of the liver, and they are displayed with a dynamic range of 60 dB.Fig. 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the SLSC lag was updated to 20 during imaging.Fig. 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The case in Fig. 10 and the case in Fig. 11 were the slowest due to the fact that scan conversion was performed, and a finely sampled cartesian grid was used.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        },
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For the case presented in Fig. 13, the frame rate was approximately 23–24 frames per second.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "These times are for a multi-purpose, multi-tissue phantom imaging case similar to the one shown in Fig. 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, the time for image display is for the particular window sizes that are shown in Fig. 12 and its corresponding video.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "CPU ADMIRE vs. GPU ADMIRE Benchmarks\nFig. 6 shows the simulated cyst dataset processed with DAS using different GPU cases, ADMIRE using different GPU cases, and ADMIRE using a CPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Nevertheless, as a test, the channel data for the dataset that was used to create Fig. 6 was time-delayed on the GPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 6 shows the simulated cyst dataset processed with DAS using different GPU cases, ADMIRE using different GPU cases, and ADMIRE using a CPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Nevertheless, as a test, the channel data for the dataset that was used to create Fig. 6 was time-delayed on the GPU.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Effect of Imaging and Processing Parameters on Run Time\nIn regard to the effect of imaging and processing parameters on the GPU implementation of ADMIRE, Fig. 7 demonstrates that there is a linear relationship between processing time and three of the parameters that were studied (number of depth samples, number of elements per beam, and number of beams).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 7 shows that the processing time decreases as each of these parameters are increased until it eventually levels out.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Based off of the timings where the original data was processed (Fig. 6 and Fig. 7), the average processing time using the multi-GPU implementation ranged from approximately 0.168s to 0.173s.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, Fig. 8 shows that the majority of the processing time for ADMIRE is spent in the model fitting and reconstruction stage.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "In regard to the effect of imaging and processing parameters on the GPU implementation of ADMIRE, Fig. 7 demonstrates that there is a linear relationship between processing time and three of the parameters that were studied (number of depth samples, number of elements per beam, and number of beams).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 7 shows that the processing time decreases as each of these parameters are increased until it eventually levels out.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "Based off of the timings where the original data was processed (Fig. 6 and Fig. 7), the average processing time using the multi-GPU implementation ranged from approximately 0.168s to 0.173s.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, Fig. 8 shows that the majority of the processing time for ADMIRE is spent in the model fitting and reconstruction stage.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 12 shows an example of DAS, ADMIRE, and SLSC being computed on the GPU and simultaneously displayed during imaging.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 13 shows an example when using the L7–4 probe sequence to scan the carotid artery.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The images are of the carotid artery, and they are displayed with a dynamic range of 60 dB.Fig. 11.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "The images are of the liver, and they are displayed with a dynamic range of 60 dB.Fig. 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Note that the SLSC lag was updated to 20 during imaging.Fig. 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The case in Fig. 10 and the case in Fig. 11 were the slowest due to the fact that scan conversion was performed, and a finely sampled cartesian grid was used.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        },
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For the case presented in Fig. 13, the frame rate was approximately 23–24 frames per second.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "These times are for a multi-purpose, multi-tissue phantom imaging case similar to the one shown in Fig. 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, the time for image display is for the particular window sizes that are shown in Fig. 12 and its corresponding video.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 12 shows an example of DAS, ADMIRE, and SLSC being computed on the GPU and simultaneously displayed during imaging.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "Fig. 13 shows an example when using the L7–4 probe sequence to scan the carotid artery.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "The case in Fig. 10 and the case in Fig. 11 were the slowest due to the fact that scan conversion was performed, and a finely sampled cartesian grid was used.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 10",
+          "panel": "",
+          "figure_key": "figure_10"
+        },
+        {
+          "figure_number": "Figure 11",
+          "panel": "",
+          "figure_key": "figure_11"
+        }
+      ]
+    },
+    {
+      "sentence": "For the case presented in Fig. 13, the frame rate was approximately 23–24 frames per second.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "These times are for a multi-purpose, multi-tissue phantom imaging case similar to the one shown in Fig. 12.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, the time for image display is for the particular window sizes that are shown in Fig. 12 and its corresponding video.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 12",
+          "panel": "",
+          "figure_key": "figure_12"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Fig. 6, when compared to the CPU implementation of ADMIRE, the GPU implementation for both of the single GPU cases and the multi-GPU implementation all provide a speedup of two orders of magnitude.B.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Now, besides the effects of these parameters on the computational aspects of ADMIRE, the number of depths, the number of elements per beam, and the number of beams can also affect the time taken for memory operations to occur as shown in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "As previously stated, these operations are included in the processing times in Fig. 7, so reducing them also decreases the processing times.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, for varying the number of beams, the processing time appears to change by a larger amount when the number of beams changes by a multiple of 32, as shown in Fig. 7.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "This is why the processing time for the model fitting and reconstruction stage is similar for these two cases in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Effect of GPU Hardware on Run Time\nIn regard to the effect of the type of GPU on processing time, Fig. 6 and Fig. 7 show that when compared to the 1080 Ti GPU, running ADMIRE on the 2080 Ti GPU is approximately 2.2 times faster.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "9–12, and the frame rate was approximately 23–24 frames per second for the case presented in Fig. 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Fig. 6, when compared to the CPU implementation of ADMIRE, the GPU implementation for both of the single GPU cases and the multi-GPU implementation all provide a speedup of two orders of magnitude.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "As shown in Fig. 6, when compared to the CPU implementation of ADMIRE, the GPU implementation for both of the single GPU cases and the multi-GPU implementation all provide a speedup of two orders of magnitude.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        }
+      ]
+    },
+    {
+      "sentence": "Now, besides the effects of these parameters on the computational aspects of ADMIRE, the number of depths, the number of elements per beam, and the number of beams can also affect the time taken for memory operations to occur as shown in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "As previously stated, these operations are included in the processing times in Fig. 7, so reducing them also decreases the processing times.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, for varying the number of beams, the processing time appears to change by a larger amount when the number of beams changes by a multiple of 32, as shown in Fig. 7.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "This is why the processing time for the model fitting and reconstruction stage is similar for these two cases in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Now, besides the effects of these parameters on the computational aspects of ADMIRE, the number of depths, the number of elements per beam, and the number of beams can also affect the time taken for memory operations to occur as shown in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "As previously stated, these operations are included in the processing times in Fig. 7, so reducing them also decreases the processing times.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "In addition, for varying the number of beams, the processing time appears to change by a larger amount when the number of beams changes by a multiple of 32, as shown in Fig. 7.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "This is why the processing time for the model fitting and reconstruction stage is similar for these two cases in Fig. 8.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 8",
+          "panel": "",
+          "figure_key": "figure_8"
+        }
+      ]
+    },
+    {
+      "sentence": "Effect of GPU Hardware on Run Time\nIn regard to the effect of the type of GPU on processing time, Fig. 6 and Fig. 7 show that when compared to the 1080 Ti GPU, running ADMIRE on the 2080 Ti GPU is approximately 2.2 times faster.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "9–12, and the frame rate was approximately 23–24 frames per second for the case presented in Fig. 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    },
+    {
+      "sentence": "In regard to the effect of the type of GPU on processing time, Fig. 6 and Fig. 7 show that when compared to the 1080 Ti GPU, running ADMIRE on the 2080 Ti GPU is approximately 2.2 times faster.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 6",
+          "panel": "",
+          "figure_key": "figure_6"
+        },
+        {
+          "figure_number": "Figure 7",
+          "panel": "",
+          "figure_key": "figure_7"
+        }
+      ]
+    },
+    {
+      "sentence": "9–12, and the frame rate was approximately 23–24 frames per second for the case presented in Fig. 13.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 13",
+          "panel": "",
+          "figure_key": "figure_13"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 11,
+    "claims_count": 348,
+    "images_downloaded": 11,
+    "tables_filtered": 338
+  }
+}

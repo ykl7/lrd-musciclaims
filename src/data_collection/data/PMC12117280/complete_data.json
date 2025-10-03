@@ -1,0 +1,451 @@
+{
+  "paper_id": "PMC12117280",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12117280/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Figure 1.",
+      "caption": "Consolidated Standards of Reporting Trials (CONSORT) diagram of recruitment flow.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6aa1/12117280/b289258f6f20/mental_v12i1e67210_fig1.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6aa1/12117280/b289258f6f20/mental_v12i1e67210_fig1.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6aa1/12117280/b289258f6f20/mental_v12i1e67210_fig1.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6aa1/12117280/b289258f6f20/mental_v12i1e67210_fig1.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "figure1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6aa1/12117280/b289258f6f20/mental_v12i1e67210_fig1.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC12117280/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6aa1/12117280/b289258f6f20/mental_v12i1e67210_fig1.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Figure 2.",
+      "caption": "Top 10 prescriptive predictors of optimization to mindfulness ecological momentary intervention (MEMI) over self-monitoring app (SM) for social anxiety disorder at post-treatment in the final multivariate machine learning (ML) model. SHAP: Shapley additive explanations.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6aa1/12117280/50cd2a2f4c19/mental_v12i1e67210_fig2.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6aa1/12117280/50cd2a2f4c19/mental_v12i1e67210_fig2.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6aa1/12117280/50cd2a2f4c19/mental_v12i1e67210_fig2.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6aa1/12117280/50cd2a2f4c19/mental_v12i1e67210_fig2.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "figure2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6aa1/12117280/50cd2a2f4c19/mental_v12i1e67210_fig2.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC12117280/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6aa1/12117280/50cd2a2f4c19/mental_v12i1e67210_fig2.jpg"
+    },
+    "figure_3": {
+      "figure_number": "Figure 3",
+      "title": "Figure 3.",
+      "caption": "Top 10 prescriptive predictors of optimization to mindfulness ecological momentary intervention (MEMI) over self-monitoring app (SM) for social anxiety disorder at one-month follow-up (1MFU) in the final multivariate machine learning (ML) model. SHAP: Shapley additive explanations.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6aa1/12117280/e623c2bdf702/mental_v12i1e67210_fig3.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6aa1/12117280/e623c2bdf702/mental_v12i1e67210_fig3.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6aa1/12117280/e623c2bdf702/mental_v12i1e67210_fig3.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6aa1/12117280/e623c2bdf702/mental_v12i1e67210_fig3.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "figure3",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6aa1/12117280/e623c2bdf702/mental_v12i1e67210_fig3.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC12117280/images/figure_3.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6aa1/12117280/e623c2bdf702/mental_v12i1e67210_fig3.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "All analyses were derived from published ML tutorials [153-155].Results\nOverview\nFigure 1 illustrates the participant flow and recruitment process, following the Journal Article Reporting Standards [69].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Concerning calibration, the model-specific association between the predicted probabilities and actual outcomes had a small-to-medium effect size (d=0.37; Multimedia Appendix 5).Testing Hypothesis 2 (Theory-Driven Prescriptive Predictors)\nPre-Post Treatment Period\nFigure 2 presents the directions of association between each predictor and probability of posttreatment SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "SHAP: Shapley additive explanations.Pre-1MFU Period\nFigure 3 presents the directions of associations between each predictor and the probability of 1MFU SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "All analyses were derived from published ML tutorials [153-155].Results\nOverview\nFigure 1 illustrates the participant flow and recruitment process, following the Journal Article Reporting Standards [69].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Concerning calibration, the model-specific association between the predicted probabilities and actual outcomes had a small-to-medium effect size (d=0.37; Multimedia Appendix 5).Testing Hypothesis 2 (Theory-Driven Prescriptive Predictors)\nPre-Post Treatment Period\nFigure 2 presents the directions of association between each predictor and probability of posttreatment SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "SHAP: Shapley additive explanations.Pre-1MFU Period\nFigure 3 presents the directions of associations between each predictor and the probability of 1MFU SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "All analyses were derived from published ML tutorials [153-155].Results\nOverview\nFigure 1 illustrates the participant flow and recruitment process, following the Journal Article Reporting Standards [69].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Concerning calibration, the model-specific association between the predicted probabilities and actual outcomes had a small-to-medium effect size (d=0.37; Multimedia Appendix 5).Testing Hypothesis 2 (Theory-Driven Prescriptive Predictors)\nPre-Post Treatment Period\nFigure 2 presents the directions of association between each predictor and probability of posttreatment SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "SHAP: Shapley additive explanations.Pre-1MFU Period\nFigure 3 presents the directions of associations between each predictor and the probability of 1MFU SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "All analyses were derived from published ML tutorials [153-155].Results\nOverview\nFigure 1 illustrates the participant flow and recruitment process, following the Journal Article Reporting Standards [69].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Concerning calibration, the model-specific association between the predicted probabilities and actual outcomes had a small-to-medium effect size (d=0.37; Multimedia Appendix 5).Testing Hypothesis 2 (Theory-Driven Prescriptive Predictors)\nPre-Post Treatment Period\nFigure 2 presents the directions of association between each predictor and probability of posttreatment SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "SHAP: Shapley additive explanations.Pre-1MFU Period\nFigure 3 presents the directions of associations between each predictor and the probability of 1MFU SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "All analyses were derived from published ML tutorials [153-155].Results\nOverview\nFigure 1 illustrates the participant flow and recruitment process, following the Journal Article Reporting Standards [69].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Concerning calibration, the model-specific association between the predicted probabilities and actual outcomes had a small-to-medium effect size (d=0.37; Multimedia Appendix 5).Testing Hypothesis 2 (Theory-Driven Prescriptive Predictors)\nPre-Post Treatment Period\nFigure 2 presents the directions of association between each predictor and probability of posttreatment SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "SHAP: Shapley additive explanations.Pre-1MFU Period\nFigure 3 presents the directions of associations between each predictor and the probability of 1MFU SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "All analyses were derived from published ML tutorials [153-155].Results\nOverview\nFigure 1 illustrates the participant flow and recruitment process, following the Journal Article Reporting Standards [69].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Concerning calibration, the model-specific association between the predicted probabilities and actual outcomes had a small-to-medium effect size (d=0.37; Multimedia Appendix 5).Testing Hypothesis 2 (Theory-Driven Prescriptive Predictors)\nPre-Post Treatment Period\nFigure 2 presents the directions of association between each predictor and probability of posttreatment SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "SHAP: Shapley additive explanations.Pre-1MFU Period\nFigure 3 presents the directions of associations between each predictor and the probability of 1MFU SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "All analyses were derived from published ML tutorials [153-155].Results\nOverview\nFigure 1 illustrates the participant flow and recruitment process, following the Journal Article Reporting Standards [69].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Concerning calibration, the model-specific association between the predicted probabilities and actual outcomes had a small-to-medium effect size (d=0.37; Multimedia Appendix 5).Testing Hypothesis 2 (Theory-Driven Prescriptive Predictors)\nPre-Post Treatment Period\nFigure 2 presents the directions of association between each predictor and probability of posttreatment SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "SHAP: Shapley additive explanations.Pre-1MFU Period\nFigure 3 presents the directions of associations between each predictor and the probability of 1MFU SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "All analyses were derived from published ML tutorials [153-155].Results\nOverview\nFigure 1 illustrates the participant flow and recruitment process, following the Journal Article Reporting Standards [69].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Concerning calibration, the model-specific association between the predicted probabilities and actual outcomes had a small-to-medium effect size (d=0.37; Multimedia Appendix 5).Testing Hypothesis 2 (Theory-Driven Prescriptive Predictors)\nPre-Post Treatment Period\nFigure 2 presents the directions of association between each predictor and probability of posttreatment SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "SHAP: Shapley additive explanations.Pre-1MFU Period\nFigure 3 presents the directions of associations between each predictor and the probability of 1MFU SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Results\nOverview\nFigure 1 illustrates the participant flow and recruitment process, following the Journal Article Reporting Standards [69].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Concerning calibration, the model-specific association between the predicted probabilities and actual outcomes had a small-to-medium effect size (d=0.37; Multimedia Appendix 5).Testing Hypothesis 2 (Theory-Driven Prescriptive Predictors)\nPre-Post Treatment Period\nFigure 2 presents the directions of association between each predictor and probability of posttreatment SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "SHAP: Shapley additive explanations.Pre-1MFU Period\nFigure 3 presents the directions of associations between each predictor and the probability of 1MFU SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Overview\nFigure 1 illustrates the participant flow and recruitment process, following the Journal Article Reporting Standards [69].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 illustrates the participant flow and recruitment process, following the Journal Article Reporting Standards [69].",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Testing Hypothesis 2 (Theory-Driven Prescriptive Predictors)\nPre-Post Treatment Period\nFigure 2 presents the directions of association between each predictor and probability of posttreatment SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "SHAP: Shapley additive explanations.Pre-1MFU Period\nFigure 3 presents the directions of associations between each predictor and the probability of 1MFU SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Pre-Post Treatment Period\nFigure 2 presents the directions of association between each predictor and probability of posttreatment SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 presents the directions of association between each predictor and probability of posttreatment SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Pre-1MFU Period\nFigure 3 presents the directions of associations between each predictor and the probability of 1MFU SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 presents the directions of associations between each predictor and the probability of 1MFU SPDQ remission in the final multivariate model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 3,
+    "claims_count": 35,
+    "images_downloaded": 3,
+    "tables_filtered": 221
+  }
+}

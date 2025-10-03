@@ -1,0 +1,1182 @@
+[
+  {
+    "sentence": "We present maps and summaries of these predictions by each of the nine USEPA National Aquatic Resource Surveys reporting regions (Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Briefly, The USEPA sampled 1,924 streams from across the CONUS (Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This process was repeated to produce an MMI assessment for each of the nine assessment regions (Fig. 1) with a unique set of metrics and reference sites used in each region.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "StreamCat data are available at two scales: local catchments and full-contributing watersheds (Fig. 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In this example, information from catchments 2 and 3 would then be linked to the split catchment to produce site-specific watershed data.Sample-specific watersheds\nMany NRSA sample sites fell well above the outlet of the NHDPlusV2 stream segments (Fig. 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We used these flow rasters to delineate upstream contributing areas within these local catchment, thereby creating a site-specific catchment for these samples (i.e., dark grey area in Fig. 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We then overlaid these site-specific catchments onto the same set of geospatial layers used by Hill et al. (2016), and topologically linked them to upstream catchments (i.e., catchments 2 and 3 in Fig. 2B) to calculate a suite of predictors for each NRSA site that matched the set of StreamCat metrics described above and in Appendix S2.Model development\nWe used RFs (Breiman 2001) to model and predict the probability of streams being in good biological condition.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "National versus regional models\nWe compared a single, national model with models that were developed for each of the nine regions (i.e., a unique model for each region in Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We present maps and summaries of these predictions by each of the nine USEPA National Aquatic Resource Surveys reporting regions (Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We present maps and summaries of these predictions by each of the nine USEPA National Aquatic Resource Surveys reporting regions (Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Briefly, The USEPA sampled 1,924 streams from across the CONUS (Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This process was repeated to produce an MMI assessment for each of the nine assessment regions (Fig. 1) with a unique set of metrics and reference sites used in each region.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "StreamCat data are available at two scales: local catchments and full-contributing watersheds (Fig. 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In this example, information from catchments 2 and 3 would then be linked to the split catchment to produce site-specific watershed data.Sample-specific watersheds\nMany NRSA sample sites fell well above the outlet of the NHDPlusV2 stream segments (Fig. 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We used these flow rasters to delineate upstream contributing areas within these local catchment, thereby creating a site-specific catchment for these samples (i.e., dark grey area in Fig. 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We then overlaid these site-specific catchments onto the same set of geospatial layers used by Hill et al. (2016), and topologically linked them to upstream catchments (i.e., catchments 2 and 3 in Fig. 2B) to calculate a suite of predictors for each NRSA site that matched the set of StreamCat metrics described above and in Appendix S2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Briefly, The USEPA sampled 1,924 streams from across the CONUS (Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Briefly, The USEPA sampled 1,924 streams from across the CONUS (Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This process was repeated to produce an MMI assessment for each of the nine assessment regions (Fig. 1) with a unique set of metrics and reference sites used in each region.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This process was repeated to produce an MMI assessment for each of the nine assessment regions (Fig. 1) with a unique set of metrics and reference sites used in each region.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "StreamCat data are available at two scales: local catchments and full-contributing watersheds (Fig. 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "StreamCat data are available at two scales: local catchments and full-contributing watersheds (Fig. 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample-specific watersheds\nMany NRSA sample sites fell well above the outlet of the NHDPlusV2 stream segments (Fig. 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We used these flow rasters to delineate upstream contributing areas within these local catchment, thereby creating a site-specific catchment for these samples (i.e., dark grey area in Fig. 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We then overlaid these site-specific catchments onto the same set of geospatial layers used by Hill et al. (2016), and topologically linked them to upstream catchments (i.e., catchments 2 and 3 in Fig. 2B) to calculate a suite of predictors for each NRSA site that matched the set of StreamCat metrics described above and in Appendix S2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Many NRSA sample sites fell well above the outlet of the NHDPlusV2 stream segments (Fig. 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We used these flow rasters to delineate upstream contributing areas within these local catchment, thereby creating a site-specific catchment for these samples (i.e., dark grey area in Fig. 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We then overlaid these site-specific catchments onto the same set of geospatial layers used by Hill et al. (2016), and topologically linked them to upstream catchments (i.e., catchments 2 and 3 in Fig. 2B) to calculate a suite of predictors for each NRSA site that matched the set of StreamCat metrics described above and in Appendix S2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "National versus regional models\nWe compared a single, national model with models that were developed for each of the nine regions (i.e., a unique model for each region in Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "National versus regional models\nWe compared a single, national model with models that were developed for each of the nine regions (i.e., a unique model for each region in Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We compared a single, national model with models that were developed for each of the nine regions (i.e., a unique model for each region in Fig. 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, almost all Pr(good) values produced by the national model in the Coastal Plains region were below 0.5, even for sites that were assessed by NRSA to be in good condition (Fig. 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The opposite pattern was observed for sites in the Western Mountains region, where the model over predicted Pr(good) values of true poor sites (Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in the Coastal Plains region, imbalanced response data produced Pr(good) values with compressed ranges relative to models that used balanced observations, although some compression of Pr(good) values was still apparent after balancing (Fig. 4, cf.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Regional boxplots showed Pr(good) values that were unbiased, i.e., generally centered on Pr(0.5) (see Fig. 3C-D for example).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, almost all Pr(good) values produced by the national model in the Coastal Plains region were below 0.5, even for sites that were assessed by NRSA to be in good condition (Fig. 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The opposite pattern was observed for sites in the Western Mountains region, where the model over predicted Pr(good) values of true poor sites (Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, almost all Pr(good) values produced by the national model in the Coastal Plains region were below 0.5, even for sites that were assessed by NRSA to be in good condition (Fig. 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The opposite pattern was observed for sites in the Western Mountains region, where the model over predicted Pr(good) values of true poor sites (Fig. 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in the Coastal Plains region, imbalanced response data produced Pr(good) values with compressed ranges relative to models that used balanced observations, although some compression of Pr(good) values was still apparent after balancing (Fig. 4, cf.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in the Coastal Plains region, imbalanced response data produced Pr(good) values with compressed ranges relative to models that used balanced observations, although some compression of Pr(good) values was still apparent after balancing (Fig. 4, cf.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Regional boxplots showed Pr(good) values that were unbiased, i.e., generally centered on Pr(0.5) (see Fig. 3C-D for example).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Regional boxplots showed Pr(good) values that were unbiased, i.e., generally centered on Pr(0.5) (see Fig. 3C-D for example).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel C",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Mean, standard deviation, and median of predicted probabilities of good biological condition by EPA National Aquatic Resource Survey (NARS) reporting region (see Fig. 1) and for the conterminous US (CONUS).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Mean, standard deviation, and median of predicted probabilities of good biological condition by EPA National Aquatic Resource Survey (NARS) reporting region (see Fig. 1) and for the conterminous US (CONUS).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Mean, standard deviation, and median of predicted probabilities of good biological condition by EPA National Aquatic Resource Survey (NARS) reporting region (see Fig. 1) and for the conterminous US (CONUS).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the border between the Southern Appalachian and Coastal Plains regions was marked by a shift from lower to higher values of Pr(good), respectively (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, in the Potomac watershed (Fig. 6), catchments in Coastal Plains were comprised of similar or higher amounts of urbanization than catchments in Southern Appalachian at the regional boundary.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In the Northern Plains region, larger rivers that received much of their flow from the Bitterroot Mountains (western edge of Northern Plains; Fig 7) continued to have higher values of Pr(good) relative to adjacent first-order streams despite passing through land that is dominated by agriculture (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig. 6 of Esselman et al. 2011 and our Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, the definition of Flotemersch et al. (2015) was extended to local catchments within the NHDPlusV2 (see Fig. 2A for definitions of catchments and watersheds) to generate a national map of catchment integrity (ICI; index of catchment integrity).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "As an illustration, we selected streams that were within the upper 95th percentile of Pr(good) values within each region and mapped them by their Strahler stream order (Fig. 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "For headwater streams, we excluded the criteria of IWI > 0.75 because the catchment and watershed are the same geographic unit (Fig. 2), and restoration of the ICI would result in a commensurate increase in IWI as well.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "This query identified more than 7,300 km of streams within the CONUS that met these criteria (see Table 4 and Fig. 8).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, more than half of these stream lengths (4,659 km) were within the Temperate Plains region alone and were almost entirely comprised of 1st order catchments (Fig. 8), suggesting that local restoration efforts could substantially improve biological conditions within the upper Mississippi Basin.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The development of nine regional models ameliorated biases across regions, but produced sharp changes in predicted condition at regional borders (Fig. 6) and this pattern further supports the use and interpretation of NRSA MMIs on a regional, rather than national, basis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The percentage of excluded stream lengths can be as high as 88% in the Northern Plains (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig. 6 of Esselman et al. 2011 and our Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, the definition of Flotemersch et al. (2015) was extended to local catchments within the NHDPlusV2 (see Fig. 2A for definitions of catchments and watersheds) to generate a national map of catchment integrity (ICI; index of catchment integrity).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig. 6 of Esselman et al. 2011 and our Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, the definition of Flotemersch et al. (2015) was extended to local catchments within the NHDPlusV2 (see Fig. 2A for definitions of catchments and watersheds) to generate a national map of catchment integrity (ICI; index of catchment integrity).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "As an illustration, we selected streams that were within the upper 95th percentile of Pr(good) values within each region and mapped them by their Strahler stream order (Fig. 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "For headwater streams, we excluded the criteria of IWI > 0.75 because the catchment and watershed are the same geographic unit (Fig. 2), and restoration of the ICI would result in a commensurate increase in IWI as well.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "This query identified more than 7,300 km of streams within the CONUS that met these criteria (see Table 4 and Fig. 8).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, more than half of these stream lengths (4,659 km) were within the Temperate Plains region alone and were almost entirely comprised of 1st order catchments (Fig. 8), suggesting that local restoration efforts could substantially improve biological conditions within the upper Mississippi Basin.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "As an illustration, we selected streams that were within the upper 95th percentile of Pr(good) values within each region and mapped them by their Strahler stream order (Fig. 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "For headwater streams, we excluded the criteria of IWI > 0.75 because the catchment and watershed are the same geographic unit (Fig. 2), and restoration of the ICI would result in a commensurate increase in IWI as well.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "This query identified more than 7,300 km of streams within the CONUS that met these criteria (see Table 4 and Fig. 8).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Notably, more than half of these stream lengths (4,659 km) were within the Temperate Plains region alone and were almost entirely comprised of 1st order catchments (Fig. 8), suggesting that local restoration efforts could substantially improve biological conditions within the upper Mississippi Basin.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The development of nine regional models ameliorated biases across regions, but produced sharp changes in predicted condition at regional borders (Fig. 6) and this pattern further supports the use and interpretation of NRSA MMIs on a regional, rather than national, basis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The development of nine regional models ameliorated biases across regions, but produced sharp changes in predicted condition at regional borders (Fig. 6) and this pattern further supports the use and interpretation of NRSA MMIs on a regional, rather than national, basis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The percentage of excluded stream lengths can be as high as 88% in the Northern Plains (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The percentage of excluded stream lengths can be as high as 88% in the Northern Plains (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  }
+]

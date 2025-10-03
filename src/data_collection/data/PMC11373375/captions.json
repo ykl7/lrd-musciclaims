@@ -1,0 +1,10 @@
+{
+  "figure_1": "A sketch of the CTAG computational domain used in this study (a) top view; (b) side view.",
+  "figure_2": "(a) Mean plume velocity and (b) normalized plume width versus distance across the four regimes of the multi-regime approach for one of the training cases obtained from the LES simulation as well as the proposed fit of the multi-regime approach.",
+  "figure_3": "The multi-regime approach is defined by four different regimes which include the vegetation, wake, transition, and recovery zones.",
+  "figure_4": "The parametrized Gaussian-based model aims to use simple user input to evaluate the key parameters and use them to obtain the pollutant concentration using the Gaussian plume equations.",
+  "figure_5": "The steps involved in parameterizing the key parameters of the Gaussian plume equations in each of the regimes of the parametrized Gaussian-based model.",
+  "figure_6": "CTAG (LES) versus the parameterized Gaussian-based model using the multi-regime approach for normalized ground level concentrations for all 15 test cases evaluated at 30 locations within and downwind of the barrier. (a) 15 nm; (b) 22 nm; (c) 30 nm; (d) 43 nm; (e) 60 nm; (f) 88 nm; (g) 126 nm; (h) 253 nm; (i) tracer gas.",
+  "figure_7": "Evaluation metrics for the parameterized Gaussian-based model using the multi-regime approach averaged across all the vertical locations from within the vegetation to 15H downwind of the barrier. The average metrics are listed for all 9 particle sizes and the tracer gas (a) R2; (b) FB; (c) NME.",
+  "figure_8": "CTAG (LES) versus the parameterized Gaussian-based model normalized ground level concentrations for all 4 cases of vegetation with a single row of vegetation. (a) 15 nm; (b) 253 nm."
+}

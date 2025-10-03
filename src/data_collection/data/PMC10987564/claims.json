@@ -1,0 +1,2012 @@
+[
+  {
+    "sentence": "Subject terms: Data publication and archiving, Viral infectionBackground & Summary\nThe ‘Omics of Lethal Human Viruses (OMICS-LHV) Systems Biology Center was funded by the National Institutes of Allergy and Infectious Diseases (NIAID) from June 2013 to June 2018 (grant # U19AI106772), and was tasked with using a systems biology approach (Fig. 1) to study host responses to four viral pathogens that cause lethal disease in humans: Influenza A virus (IAV, Orthomyxoviridae family), Ebola virus (EBOV, Filoviridae family), West Nile virus (WNV, Flaviviridae family), and Middle East respiratory syndrome coronavirus (MERS-CoV, Coronaviridae family) (an overview of basic virology and virus-associated diseases are provided in Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "From this, models of host responses may be used to develop hypotheses, which may be tested by perturbing the system and repeating the systems biology data analysis lifecycle.Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The overall goal was to collect samples from various in vitro and in vivo infection models and perform multi-omics analyses comprising global transcriptomics (mRNA and microRNA), proteomics, metabolomics, and lipidomics; however, in some experiments only transcriptomics analyses were performed (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points are well-aligned across the different virus infection models (Fig. 3), and were selected to allow for analysis of host responses from the time of infection through the destruction of the cell monolayer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points focus primarily on the early stage of virus-induced disease and, in general, are well-aligned across the different virus infection models (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples were collected from 20 Ebola virus-positive patients (11 survivors and 9 fatalities, with multiple samples from survivors) and 10 healthy volunteers (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Raw multi-omics datasets can be accessed at the appropriate public repository (accession numbers provided below), and all public repository accessions associated with all datasets reported herein are shown in Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 136 raw measurement dataset submissions, from the 45 experimental processed data collections, only 34 (25%) have been reported in a previous publication.Additionally, links to the raw datasets at public repositories, along with all primary experimental metadata and statistically processed datasets associated with a given experiment can be accessed from a single location search via the PNNL DataHub directory73, at each virus specific project landing page74, listing all experiments performed with each virus (influenza75, Ebola76, MERS-CoV77, or WNV78) or interferon treatment79, or from individual dataset DOI landing pages associated with each experiment (45 experiments in total) (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The PNNL DataHub directory pages for each experiment are as follows:\n\nInterferon treatment: IFNaCL00180, IFNaHUH00181, IFNaIHH00182, IFNFB00183, and IFNMVE00184\nInfluenza: ICL10285, ICL10386, ICL10487, ICL10588, ICL10689, IM10136, IM10290, and IM10391\nEbola: EH00192, EHUH00193, EHUH00294, EHUH00395, EHUVEC00196, EU93700197\nMERS-CoV: MCL00198, MCL00299, MCL003100, MCL004101, MCL005102, MFB001103, MFB002104, MFB003105, MHAE001106, MHAE002107, MHAE003108, MMVE001109, MMVE002110, MMVE003111, MM001112\nWNV: WDC010113, WDC011114, WCN002115, WCN003116, WGCN002117, WGCN003118, WCB001119, WCT001120, WLN002121, WLN003122, WSE001123\n\nFig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed transcriptomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format on the PNNL DataHub directory (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed proteomics, metabolomics, and lipidomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Through the PNNL DataHub, users can browse OMICS-LHV data records and other project catalogues, as well as publications, data sources (applied instrument capabilities), software (related source code required for reproducibility), and people (project associated personal) assigned to each dataset or PNNL DataHub landing page (Fig. 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Subject terms: Data publication and archiving, Viral infectionBackground & Summary\nThe ‘Omics of Lethal Human Viruses (OMICS-LHV) Systems Biology Center was funded by the National Institutes of Allergy and Infectious Diseases (NIAID) from June 2013 to June 2018 (grant # U19AI106772), and was tasked with using a systems biology approach (Fig. 1) to study host responses to four viral pathogens that cause lethal disease in humans: Influenza A virus (IAV, Orthomyxoviridae family), Ebola virus (EBOV, Filoviridae family), West Nile virus (WNV, Flaviviridae family), and Middle East respiratory syndrome coronavirus (MERS-CoV, Coronaviridae family) (an overview of basic virology and virus-associated diseases are provided in Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "From this, models of host responses may be used to develop hypotheses, which may be tested by perturbing the system and repeating the systems biology data analysis lifecycle.Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The overall goal was to collect samples from various in vitro and in vivo infection models and perform multi-omics analyses comprising global transcriptomics (mRNA and microRNA), proteomics, metabolomics, and lipidomics; however, in some experiments only transcriptomics analyses were performed (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points are well-aligned across the different virus infection models (Fig. 3), and were selected to allow for analysis of host responses from the time of infection through the destruction of the cell monolayer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points focus primarily on the early stage of virus-induced disease and, in general, are well-aligned across the different virus infection models (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples were collected from 20 Ebola virus-positive patients (11 survivors and 9 fatalities, with multiple samples from survivors) and 10 healthy volunteers (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Raw multi-omics datasets can be accessed at the appropriate public repository (accession numbers provided below), and all public repository accessions associated with all datasets reported herein are shown in Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 136 raw measurement dataset submissions, from the 45 experimental processed data collections, only 34 (25%) have been reported in a previous publication.Additionally, links to the raw datasets at public repositories, along with all primary experimental metadata and statistically processed datasets associated with a given experiment can be accessed from a single location search via the PNNL DataHub directory73, at each virus specific project landing page74, listing all experiments performed with each virus (influenza75, Ebola76, MERS-CoV77, or WNV78) or interferon treatment79, or from individual dataset DOI landing pages associated with each experiment (45 experiments in total) (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The PNNL DataHub directory pages for each experiment are as follows:\n\nInterferon treatment: IFNaCL00180, IFNaHUH00181, IFNaIHH00182, IFNFB00183, and IFNMVE00184\nInfluenza: ICL10285, ICL10386, ICL10487, ICL10588, ICL10689, IM10136, IM10290, and IM10391\nEbola: EH00192, EHUH00193, EHUH00294, EHUH00395, EHUVEC00196, EU93700197\nMERS-CoV: MCL00198, MCL00299, MCL003100, MCL004101, MCL005102, MFB001103, MFB002104, MFB003105, MHAE001106, MHAE002107, MHAE003108, MMVE001109, MMVE002110, MMVE003111, MM001112\nWNV: WDC010113, WDC011114, WCN002115, WCN003116, WGCN002117, WGCN003118, WCB001119, WCT001120, WLN002121, WLN003122, WSE001123\n\nFig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed transcriptomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format on the PNNL DataHub directory (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed proteomics, metabolomics, and lipidomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Through the PNNL DataHub, users can browse OMICS-LHV data records and other project catalogues, as well as publications, data sources (applied instrument capabilities), software (related source code required for reproducibility), and people (project associated personal) assigned to each dataset or PNNL DataHub landing page (Fig. 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Subject terms: Data publication and archiving, Viral infectionBackground & Summary\nThe ‘Omics of Lethal Human Viruses (OMICS-LHV) Systems Biology Center was funded by the National Institutes of Allergy and Infectious Diseases (NIAID) from June 2013 to June 2018 (grant # U19AI106772), and was tasked with using a systems biology approach (Fig. 1) to study host responses to four viral pathogens that cause lethal disease in humans: Influenza A virus (IAV, Orthomyxoviridae family), Ebola virus (EBOV, Filoviridae family), West Nile virus (WNV, Flaviviridae family), and Middle East respiratory syndrome coronavirus (MERS-CoV, Coronaviridae family) (an overview of basic virology and virus-associated diseases are provided in Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "From this, models of host responses may be used to develop hypotheses, which may be tested by perturbing the system and repeating the systems biology data analysis lifecycle.Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The overall goal was to collect samples from various in vitro and in vivo infection models and perform multi-omics analyses comprising global transcriptomics (mRNA and microRNA), proteomics, metabolomics, and lipidomics; however, in some experiments only transcriptomics analyses were performed (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points are well-aligned across the different virus infection models (Fig. 3), and were selected to allow for analysis of host responses from the time of infection through the destruction of the cell monolayer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points focus primarily on the early stage of virus-induced disease and, in general, are well-aligned across the different virus infection models (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples were collected from 20 Ebola virus-positive patients (11 survivors and 9 fatalities, with multiple samples from survivors) and 10 healthy volunteers (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Raw multi-omics datasets can be accessed at the appropriate public repository (accession numbers provided below), and all public repository accessions associated with all datasets reported herein are shown in Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 136 raw measurement dataset submissions, from the 45 experimental processed data collections, only 34 (25%) have been reported in a previous publication.Additionally, links to the raw datasets at public repositories, along with all primary experimental metadata and statistically processed datasets associated with a given experiment can be accessed from a single location search via the PNNL DataHub directory73, at each virus specific project landing page74, listing all experiments performed with each virus (influenza75, Ebola76, MERS-CoV77, or WNV78) or interferon treatment79, or from individual dataset DOI landing pages associated with each experiment (45 experiments in total) (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The PNNL DataHub directory pages for each experiment are as follows:\n\nInterferon treatment: IFNaCL00180, IFNaHUH00181, IFNaIHH00182, IFNFB00183, and IFNMVE00184\nInfluenza: ICL10285, ICL10386, ICL10487, ICL10588, ICL10689, IM10136, IM10290, and IM10391\nEbola: EH00192, EHUH00193, EHUH00294, EHUH00395, EHUVEC00196, EU93700197\nMERS-CoV: MCL00198, MCL00299, MCL003100, MCL004101, MCL005102, MFB001103, MFB002104, MFB003105, MHAE001106, MHAE002107, MHAE003108, MMVE001109, MMVE002110, MMVE003111, MM001112\nWNV: WDC010113, WDC011114, WCN002115, WCN003116, WGCN002117, WGCN003118, WCB001119, WCT001120, WLN002121, WLN003122, WSE001123\n\nFig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed transcriptomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format on the PNNL DataHub directory (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed proteomics, metabolomics, and lipidomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Through the PNNL DataHub, users can browse OMICS-LHV data records and other project catalogues, as well as publications, data sources (applied instrument capabilities), software (related source code required for reproducibility), and people (project associated personal) assigned to each dataset or PNNL DataHub landing page (Fig. 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Subject terms: Data publication and archiving, Viral infectionBackground & Summary\nThe ‘Omics of Lethal Human Viruses (OMICS-LHV) Systems Biology Center was funded by the National Institutes of Allergy and Infectious Diseases (NIAID) from June 2013 to June 2018 (grant # U19AI106772), and was tasked with using a systems biology approach (Fig. 1) to study host responses to four viral pathogens that cause lethal disease in humans: Influenza A virus (IAV, Orthomyxoviridae family), Ebola virus (EBOV, Filoviridae family), West Nile virus (WNV, Flaviviridae family), and Middle East respiratory syndrome coronavirus (MERS-CoV, Coronaviridae family) (an overview of basic virology and virus-associated diseases are provided in Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "From this, models of host responses may be used to develop hypotheses, which may be tested by perturbing the system and repeating the systems biology data analysis lifecycle.Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The overall goal was to collect samples from various in vitro and in vivo infection models and perform multi-omics analyses comprising global transcriptomics (mRNA and microRNA), proteomics, metabolomics, and lipidomics; however, in some experiments only transcriptomics analyses were performed (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points are well-aligned across the different virus infection models (Fig. 3), and were selected to allow for analysis of host responses from the time of infection through the destruction of the cell monolayer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points focus primarily on the early stage of virus-induced disease and, in general, are well-aligned across the different virus infection models (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples were collected from 20 Ebola virus-positive patients (11 survivors and 9 fatalities, with multiple samples from survivors) and 10 healthy volunteers (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Raw multi-omics datasets can be accessed at the appropriate public repository (accession numbers provided below), and all public repository accessions associated with all datasets reported herein are shown in Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 136 raw measurement dataset submissions, from the 45 experimental processed data collections, only 34 (25%) have been reported in a previous publication.Additionally, links to the raw datasets at public repositories, along with all primary experimental metadata and statistically processed datasets associated with a given experiment can be accessed from a single location search via the PNNL DataHub directory73, at each virus specific project landing page74, listing all experiments performed with each virus (influenza75, Ebola76, MERS-CoV77, or WNV78) or interferon treatment79, or from individual dataset DOI landing pages associated with each experiment (45 experiments in total) (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The PNNL DataHub directory pages for each experiment are as follows:\n\nInterferon treatment: IFNaCL00180, IFNaHUH00181, IFNaIHH00182, IFNFB00183, and IFNMVE00184\nInfluenza: ICL10285, ICL10386, ICL10487, ICL10588, ICL10689, IM10136, IM10290, and IM10391\nEbola: EH00192, EHUH00193, EHUH00294, EHUH00395, EHUVEC00196, EU93700197\nMERS-CoV: MCL00198, MCL00299, MCL003100, MCL004101, MCL005102, MFB001103, MFB002104, MFB003105, MHAE001106, MHAE002107, MHAE003108, MMVE001109, MMVE002110, MMVE003111, MM001112\nWNV: WDC010113, WDC011114, WCN002115, WCN003116, WGCN002117, WGCN003118, WCB001119, WCT001120, WLN002121, WLN003122, WSE001123\n\nFig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed transcriptomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format on the PNNL DataHub directory (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed proteomics, metabolomics, and lipidomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Through the PNNL DataHub, users can browse OMICS-LHV data records and other project catalogues, as well as publications, data sources (applied instrument capabilities), software (related source code required for reproducibility), and people (project associated personal) assigned to each dataset or PNNL DataHub landing page (Fig. 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Subject terms: Data publication and archiving, Viral infectionBackground & Summary\nThe ‘Omics of Lethal Human Viruses (OMICS-LHV) Systems Biology Center was funded by the National Institutes of Allergy and Infectious Diseases (NIAID) from June 2013 to June 2018 (grant # U19AI106772), and was tasked with using a systems biology approach (Fig. 1) to study host responses to four viral pathogens that cause lethal disease in humans: Influenza A virus (IAV, Orthomyxoviridae family), Ebola virus (EBOV, Filoviridae family), West Nile virus (WNV, Flaviviridae family), and Middle East respiratory syndrome coronavirus (MERS-CoV, Coronaviridae family) (an overview of basic virology and virus-associated diseases are provided in Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "From this, models of host responses may be used to develop hypotheses, which may be tested by perturbing the system and repeating the systems biology data analysis lifecycle.Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The overall goal was to collect samples from various in vitro and in vivo infection models and perform multi-omics analyses comprising global transcriptomics (mRNA and microRNA), proteomics, metabolomics, and lipidomics; however, in some experiments only transcriptomics analyses were performed (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points are well-aligned across the different virus infection models (Fig. 3), and were selected to allow for analysis of host responses from the time of infection through the destruction of the cell monolayer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points focus primarily on the early stage of virus-induced disease and, in general, are well-aligned across the different virus infection models (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples were collected from 20 Ebola virus-positive patients (11 survivors and 9 fatalities, with multiple samples from survivors) and 10 healthy volunteers (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Raw multi-omics datasets can be accessed at the appropriate public repository (accession numbers provided below), and all public repository accessions associated with all datasets reported herein are shown in Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 136 raw measurement dataset submissions, from the 45 experimental processed data collections, only 34 (25%) have been reported in a previous publication.Additionally, links to the raw datasets at public repositories, along with all primary experimental metadata and statistically processed datasets associated with a given experiment can be accessed from a single location search via the PNNL DataHub directory73, at each virus specific project landing page74, listing all experiments performed with each virus (influenza75, Ebola76, MERS-CoV77, or WNV78) or interferon treatment79, or from individual dataset DOI landing pages associated with each experiment (45 experiments in total) (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The PNNL DataHub directory pages for each experiment are as follows:\n\nInterferon treatment: IFNaCL00180, IFNaHUH00181, IFNaIHH00182, IFNFB00183, and IFNMVE00184\nInfluenza: ICL10285, ICL10386, ICL10487, ICL10588, ICL10689, IM10136, IM10290, and IM10391\nEbola: EH00192, EHUH00193, EHUH00294, EHUH00395, EHUVEC00196, EU93700197\nMERS-CoV: MCL00198, MCL00299, MCL003100, MCL004101, MCL005102, MFB001103, MFB002104, MFB003105, MHAE001106, MHAE002107, MHAE003108, MMVE001109, MMVE002110, MMVE003111, MM001112\nWNV: WDC010113, WDC011114, WCN002115, WCN003116, WGCN002117, WGCN003118, WCB001119, WCT001120, WLN002121, WLN003122, WSE001123\n\nFig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed transcriptomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format on the PNNL DataHub directory (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed proteomics, metabolomics, and lipidomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Through the PNNL DataHub, users can browse OMICS-LHV data records and other project catalogues, as well as publications, data sources (applied instrument capabilities), software (related source code required for reproducibility), and people (project associated personal) assigned to each dataset or PNNL DataHub landing page (Fig. 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Subject terms: Data publication and archiving, Viral infectionBackground & Summary\nThe ‘Omics of Lethal Human Viruses (OMICS-LHV) Systems Biology Center was funded by the National Institutes of Allergy and Infectious Diseases (NIAID) from June 2013 to June 2018 (grant # U19AI106772), and was tasked with using a systems biology approach (Fig. 1) to study host responses to four viral pathogens that cause lethal disease in humans: Influenza A virus (IAV, Orthomyxoviridae family), Ebola virus (EBOV, Filoviridae family), West Nile virus (WNV, Flaviviridae family), and Middle East respiratory syndrome coronavirus (MERS-CoV, Coronaviridae family) (an overview of basic virology and virus-associated diseases are provided in Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "From this, models of host responses may be used to develop hypotheses, which may be tested by perturbing the system and repeating the systems biology data analysis lifecycle.Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The overall goal was to collect samples from various in vitro and in vivo infection models and perform multi-omics analyses comprising global transcriptomics (mRNA and microRNA), proteomics, metabolomics, and lipidomics; however, in some experiments only transcriptomics analyses were performed (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points are well-aligned across the different virus infection models (Fig. 3), and were selected to allow for analysis of host responses from the time of infection through the destruction of the cell monolayer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points focus primarily on the early stage of virus-induced disease and, in general, are well-aligned across the different virus infection models (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples were collected from 20 Ebola virus-positive patients (11 survivors and 9 fatalities, with multiple samples from survivors) and 10 healthy volunteers (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Raw multi-omics datasets can be accessed at the appropriate public repository (accession numbers provided below), and all public repository accessions associated with all datasets reported herein are shown in Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 136 raw measurement dataset submissions, from the 45 experimental processed data collections, only 34 (25%) have been reported in a previous publication.Additionally, links to the raw datasets at public repositories, along with all primary experimental metadata and statistically processed datasets associated with a given experiment can be accessed from a single location search via the PNNL DataHub directory73, at each virus specific project landing page74, listing all experiments performed with each virus (influenza75, Ebola76, MERS-CoV77, or WNV78) or interferon treatment79, or from individual dataset DOI landing pages associated with each experiment (45 experiments in total) (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The PNNL DataHub directory pages for each experiment are as follows:\n\nInterferon treatment: IFNaCL00180, IFNaHUH00181, IFNaIHH00182, IFNFB00183, and IFNMVE00184\nInfluenza: ICL10285, ICL10386, ICL10487, ICL10588, ICL10689, IM10136, IM10290, and IM10391\nEbola: EH00192, EHUH00193, EHUH00294, EHUH00395, EHUVEC00196, EU93700197\nMERS-CoV: MCL00198, MCL00299, MCL003100, MCL004101, MCL005102, MFB001103, MFB002104, MFB003105, MHAE001106, MHAE002107, MHAE003108, MMVE001109, MMVE002110, MMVE003111, MM001112\nWNV: WDC010113, WDC011114, WCN002115, WCN003116, WGCN002117, WGCN003118, WCB001119, WCT001120, WLN002121, WLN003122, WSE001123\n\nFig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed transcriptomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format on the PNNL DataHub directory (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed proteomics, metabolomics, and lipidomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Through the PNNL DataHub, users can browse OMICS-LHV data records and other project catalogues, as well as publications, data sources (applied instrument capabilities), software (related source code required for reproducibility), and people (project associated personal) assigned to each dataset or PNNL DataHub landing page (Fig. 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Subject terms: Data publication and archiving, Viral infectionBackground & Summary\nThe ‘Omics of Lethal Human Viruses (OMICS-LHV) Systems Biology Center was funded by the National Institutes of Allergy and Infectious Diseases (NIAID) from June 2013 to June 2018 (grant # U19AI106772), and was tasked with using a systems biology approach (Fig. 1) to study host responses to four viral pathogens that cause lethal disease in humans: Influenza A virus (IAV, Orthomyxoviridae family), Ebola virus (EBOV, Filoviridae family), West Nile virus (WNV, Flaviviridae family), and Middle East respiratory syndrome coronavirus (MERS-CoV, Coronaviridae family) (an overview of basic virology and virus-associated diseases are provided in Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "From this, models of host responses may be used to develop hypotheses, which may be tested by perturbing the system and repeating the systems biology data analysis lifecycle.Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The overall goal was to collect samples from various in vitro and in vivo infection models and perform multi-omics analyses comprising global transcriptomics (mRNA and microRNA), proteomics, metabolomics, and lipidomics; however, in some experiments only transcriptomics analyses were performed (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points are well-aligned across the different virus infection models (Fig. 3), and were selected to allow for analysis of host responses from the time of infection through the destruction of the cell monolayer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points focus primarily on the early stage of virus-induced disease and, in general, are well-aligned across the different virus infection models (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples were collected from 20 Ebola virus-positive patients (11 survivors and 9 fatalities, with multiple samples from survivors) and 10 healthy volunteers (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Raw multi-omics datasets can be accessed at the appropriate public repository (accession numbers provided below), and all public repository accessions associated with all datasets reported herein are shown in Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 136 raw measurement dataset submissions, from the 45 experimental processed data collections, only 34 (25%) have been reported in a previous publication.Additionally, links to the raw datasets at public repositories, along with all primary experimental metadata and statistically processed datasets associated with a given experiment can be accessed from a single location search via the PNNL DataHub directory73, at each virus specific project landing page74, listing all experiments performed with each virus (influenza75, Ebola76, MERS-CoV77, or WNV78) or interferon treatment79, or from individual dataset DOI landing pages associated with each experiment (45 experiments in total) (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The PNNL DataHub directory pages for each experiment are as follows:\n\nInterferon treatment: IFNaCL00180, IFNaHUH00181, IFNaIHH00182, IFNFB00183, and IFNMVE00184\nInfluenza: ICL10285, ICL10386, ICL10487, ICL10588, ICL10689, IM10136, IM10290, and IM10391\nEbola: EH00192, EHUH00193, EHUH00294, EHUH00395, EHUVEC00196, EU93700197\nMERS-CoV: MCL00198, MCL00299, MCL003100, MCL004101, MCL005102, MFB001103, MFB002104, MFB003105, MHAE001106, MHAE002107, MHAE003108, MMVE001109, MMVE002110, MMVE003111, MM001112\nWNV: WDC010113, WDC011114, WCN002115, WCN003116, WGCN002117, WGCN003118, WCB001119, WCT001120, WLN002121, WLN003122, WSE001123\n\nFig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed transcriptomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format on the PNNL DataHub directory (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed proteomics, metabolomics, and lipidomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Through the PNNL DataHub, users can browse OMICS-LHV data records and other project catalogues, as well as publications, data sources (applied instrument capabilities), software (related source code required for reproducibility), and people (project associated personal) assigned to each dataset or PNNL DataHub landing page (Fig. 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Subject terms: Data publication and archiving, Viral infectionBackground & Summary\nThe ‘Omics of Lethal Human Viruses (OMICS-LHV) Systems Biology Center was funded by the National Institutes of Allergy and Infectious Diseases (NIAID) from June 2013 to June 2018 (grant # U19AI106772), and was tasked with using a systems biology approach (Fig. 1) to study host responses to four viral pathogens that cause lethal disease in humans: Influenza A virus (IAV, Orthomyxoviridae family), Ebola virus (EBOV, Filoviridae family), West Nile virus (WNV, Flaviviridae family), and Middle East respiratory syndrome coronavirus (MERS-CoV, Coronaviridae family) (an overview of basic virology and virus-associated diseases are provided in Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "From this, models of host responses may be used to develop hypotheses, which may be tested by perturbing the system and repeating the systems biology data analysis lifecycle.Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The overall goal was to collect samples from various in vitro and in vivo infection models and perform multi-omics analyses comprising global transcriptomics (mRNA and microRNA), proteomics, metabolomics, and lipidomics; however, in some experiments only transcriptomics analyses were performed (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points are well-aligned across the different virus infection models (Fig. 3), and were selected to allow for analysis of host responses from the time of infection through the destruction of the cell monolayer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points focus primarily on the early stage of virus-induced disease and, in general, are well-aligned across the different virus infection models (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples were collected from 20 Ebola virus-positive patients (11 survivors and 9 fatalities, with multiple samples from survivors) and 10 healthy volunteers (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Raw multi-omics datasets can be accessed at the appropriate public repository (accession numbers provided below), and all public repository accessions associated with all datasets reported herein are shown in Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 136 raw measurement dataset submissions, from the 45 experimental processed data collections, only 34 (25%) have been reported in a previous publication.Additionally, links to the raw datasets at public repositories, along with all primary experimental metadata and statistically processed datasets associated with a given experiment can be accessed from a single location search via the PNNL DataHub directory73, at each virus specific project landing page74, listing all experiments performed with each virus (influenza75, Ebola76, MERS-CoV77, or WNV78) or interferon treatment79, or from individual dataset DOI landing pages associated with each experiment (45 experiments in total) (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The PNNL DataHub directory pages for each experiment are as follows:\n\nInterferon treatment: IFNaCL00180, IFNaHUH00181, IFNaIHH00182, IFNFB00183, and IFNMVE00184\nInfluenza: ICL10285, ICL10386, ICL10487, ICL10588, ICL10689, IM10136, IM10290, and IM10391\nEbola: EH00192, EHUH00193, EHUH00294, EHUH00395, EHUVEC00196, EU93700197\nMERS-CoV: MCL00198, MCL00299, MCL003100, MCL004101, MCL005102, MFB001103, MFB002104, MFB003105, MHAE001106, MHAE002107, MHAE003108, MMVE001109, MMVE002110, MMVE003111, MM001112\nWNV: WDC010113, WDC011114, WCN002115, WCN003116, WGCN002117, WGCN003118, WCB001119, WCT001120, WLN002121, WLN003122, WSE001123\n\nFig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed transcriptomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format on the PNNL DataHub directory (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed proteomics, metabolomics, and lipidomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Through the PNNL DataHub, users can browse OMICS-LHV data records and other project catalogues, as well as publications, data sources (applied instrument capabilities), software (related source code required for reproducibility), and people (project associated personal) assigned to each dataset or PNNL DataHub landing page (Fig. 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Background & Summary\nThe ‘Omics of Lethal Human Viruses (OMICS-LHV) Systems Biology Center was funded by the National Institutes of Allergy and Infectious Diseases (NIAID) from June 2013 to June 2018 (grant # U19AI106772), and was tasked with using a systems biology approach (Fig. 1) to study host responses to four viral pathogens that cause lethal disease in humans: Influenza A virus (IAV, Orthomyxoviridae family), Ebola virus (EBOV, Filoviridae family), West Nile virus (WNV, Flaviviridae family), and Middle East respiratory syndrome coronavirus (MERS-CoV, Coronaviridae family) (an overview of basic virology and virus-associated diseases are provided in Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "From this, models of host responses may be used to develop hypotheses, which may be tested by perturbing the system and repeating the systems biology data analysis lifecycle.Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The ‘Omics of Lethal Human Viruses (OMICS-LHV) Systems Biology Center was funded by the National Institutes of Allergy and Infectious Diseases (NIAID) from June 2013 to June 2018 (grant # U19AI106772), and was tasked with using a systems biology approach (Fig. 1) to study host responses to four viral pathogens that cause lethal disease in humans: Influenza A virus (IAV, Orthomyxoviridae family), Ebola virus (EBOV, Filoviridae family), West Nile virus (WNV, Flaviviridae family), and Middle East respiratory syndrome coronavirus (MERS-CoV, Coronaviridae family) (an overview of basic virology and virus-associated diseases are provided in Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The overall goal was to collect samples from various in vitro and in vivo infection models and perform multi-omics analyses comprising global transcriptomics (mRNA and microRNA), proteomics, metabolomics, and lipidomics; however, in some experiments only transcriptomics analyses were performed (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points are well-aligned across the different virus infection models (Fig. 3), and were selected to allow for analysis of host responses from the time of infection through the destruction of the cell monolayer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points focus primarily on the early stage of virus-induced disease and, in general, are well-aligned across the different virus infection models (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples were collected from 20 Ebola virus-positive patients (11 survivors and 9 fatalities, with multiple samples from survivors) and 10 healthy volunteers (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The overall goal was to collect samples from various in vitro and in vivo infection models and perform multi-omics analyses comprising global transcriptomics (mRNA and microRNA), proteomics, metabolomics, and lipidomics; however, in some experiments only transcriptomics analyses were performed (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points are well-aligned across the different virus infection models (Fig. 3), and were selected to allow for analysis of host responses from the time of infection through the destruction of the cell monolayer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points are well-aligned across the different virus infection models (Fig. 3), and were selected to allow for analysis of host responses from the time of infection through the destruction of the cell monolayer.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points focus primarily on the early stage of virus-induced disease and, in general, are well-aligned across the different virus infection models (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sample collection time points focus primarily on the early stage of virus-induced disease and, in general, are well-aligned across the different virus infection models (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples were collected from 20 Ebola virus-positive patients (11 survivors and 9 fatalities, with multiple samples from survivors) and 10 healthy volunteers (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Samples were collected from 20 Ebola virus-positive patients (11 survivors and 9 fatalities, with multiple samples from survivors) and 10 healthy volunteers (Fig. 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Raw multi-omics datasets can be accessed at the appropriate public repository (accession numbers provided below), and all public repository accessions associated with all datasets reported herein are shown in Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 136 raw measurement dataset submissions, from the 45 experimental processed data collections, only 34 (25%) have been reported in a previous publication.Additionally, links to the raw datasets at public repositories, along with all primary experimental metadata and statistically processed datasets associated with a given experiment can be accessed from a single location search via the PNNL DataHub directory73, at each virus specific project landing page74, listing all experiments performed with each virus (influenza75, Ebola76, MERS-CoV77, or WNV78) or interferon treatment79, or from individual dataset DOI landing pages associated with each experiment (45 experiments in total) (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The PNNL DataHub directory pages for each experiment are as follows:\n\nInterferon treatment: IFNaCL00180, IFNaHUH00181, IFNaIHH00182, IFNFB00183, and IFNMVE00184\nInfluenza: ICL10285, ICL10386, ICL10487, ICL10588, ICL10689, IM10136, IM10290, and IM10391\nEbola: EH00192, EHUH00193, EHUH00294, EHUH00395, EHUVEC00196, EU93700197\nMERS-CoV: MCL00198, MCL00299, MCL003100, MCL004101, MCL005102, MFB001103, MFB002104, MFB003105, MHAE001106, MHAE002107, MHAE003108, MMVE001109, MMVE002110, MMVE003111, MM001112\nWNV: WDC010113, WDC011114, WCN002115, WCN003116, WGCN002117, WGCN003118, WCB001119, WCT001120, WLN002121, WLN003122, WSE001123\n\nFig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed transcriptomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format on the PNNL DataHub directory (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed proteomics, metabolomics, and lipidomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Raw multi-omics datasets can be accessed at the appropriate public repository (accession numbers provided below), and all public repository accessions associated with all datasets reported herein are shown in Fig. 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Additionally, links to the raw datasets at public repositories, along with all primary experimental metadata and statistically processed datasets associated with a given experiment can be accessed from a single location search via the PNNL DataHub directory73, at each virus specific project landing page74, listing all experiments performed with each virus (influenza75, Ebola76, MERS-CoV77, or WNV78) or interferon treatment79, or from individual dataset DOI landing pages associated with each experiment (45 experiments in total) (Fig. 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed transcriptomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format on the PNNL DataHub directory (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed transcriptomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format on the PNNL DataHub directory (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed proteomics, metabolomics, and lipidomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Processed proteomics, metabolomics, and lipidomics datasets, which are more accessible to those without expertise in statistical analyses, also are available in Excel file format (an overview of statistical processing is provided in Fig. 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Through the PNNL DataHub, users can browse OMICS-LHV data records and other project catalogues, as well as publications, data sources (applied instrument capabilities), software (related source code required for reproducibility), and people (project associated personal) assigned to each dataset or PNNL DataHub landing page (Fig. 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Through the PNNL DataHub, users can browse OMICS-LHV data records and other project catalogues, as well as publications, data sources (applied instrument capabilities), software (related source code required for reproducibility), and people (project associated personal) assigned to each dataset or PNNL DataHub landing page (Fig. 7).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "figure_1": "Clinical Tractor system architecture. English text is processed through a natural language processing pipeline in GATE. The annotations from GATE are converted to a knowledge base, enriched with background knowledge, then converted to a semantic knowledge base.",
+  "figure_2": "Example mapping rules. The left rule simplifies the syntax of a phrase, converting the passive voice to the active voice. The right rules convert syntactic dobj relations to semantic theme and topic relations.",
+  "figure_3": "A small example using a prototype implementation of Clinical Tractor, with some by-hand augmentation. MetaMap matches and the dependency parse for a single recommendation are shown at the top, with a subset of the CSNePS syntactic KB after propositionalization, and semantic KB after the mapping rules have been applied shown for the phrase “Patients found to have elevated blood pressure.”"
+}

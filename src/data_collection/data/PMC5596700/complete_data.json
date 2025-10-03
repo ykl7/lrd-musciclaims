@@ -1,0 +1,611 @@
+{
+  "paper_id": "PMC5596700",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5596700/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Figure 1.",
+      "caption": "True (grey lines) and average estimated (black dashed lines) baseline cumulative incidence functions based on 1,000 simulation replications according to cause of failure and sample size n.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae2c/5596700/f5b166dd571a/nihms874574f1.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae2c/5596700/f5b166dd571a/nihms874574f1.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae2c/5596700/f5b166dd571a/nihms874574f1.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae2c/5596700/f5b166dd571a/nihms874574f1.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae2c/5596700/f5b166dd571a/nihms874574f1.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC5596700/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae2c/5596700/f5b166dd571a/nihms874574f1.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Figure 2.",
+      "caption": "Example of four patients in a typical HIV care and treatment program.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae2c/5596700/b25b6481952b/nihms874574f2.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae2c/5596700/b25b6481952b/nihms874574f2.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae2c/5596700/b25b6481952b/nihms874574f2.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae2c/5596700/b25b6481952b/nihms874574f2.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae2c/5596700/b25b6481952b/nihms874574f2.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC5596700/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae2c/5596700/b25b6481952b/nihms874574f2.jpg"
+    },
+    "figure_3": {
+      "figure_number": "Figure 3",
+      "title": "Figure 3.",
+      "caption": "Estimated cumulative incidence of loss to care (top left panel) and of death (top right panel) for a female patient with a CD4 count of 120 cells/μl at ART initiation, according to age at ART initiation (solid lines = 20 years; dashed lines = 30 years; dotted lines = 40 years; dashed-dotted lines = 50 years) based on the optimal model according to the grid search, with α = (2, 1.2), and estimated cumulative incidence of loss to care (bottom left panel) and of death (bottom right panel) for a male patient with a CD4 count of 120 cells/μl at ART initiation, according to age (solid lines = 20 years; dashed-dotted lines = 50 years), based on the optimal model (black lines) and the Fine-Gray – proportional odds model (gray lines) with α = (0, 1).",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae2c/5596700/9e51981faa7f/nihms874574f3.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae2c/5596700/9e51981faa7f/nihms874574f3.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae2c/5596700/9e51981faa7f/nihms874574f3.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae2c/5596700/9e51981faa7f/nihms874574f3.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F3",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae2c/5596700/9e51981faa7f/nihms874574f3.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC5596700/images/figure_3.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ae2c/5596700/9e51981faa7f/nihms874574f3.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "Simulation results regarding the baseline cumulative incidence functions are presented in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A schema of typical patient temporal trajectories is presented in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 presents results of these quantities, based on the estimates from the optimal model, for a female patient with CD4 count at ART initiation of 120 cells/μl, by age at ART initiation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The comparison between the predictions from the optimal model and the FGPO model are presented in the bottom row of Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Plotting the object \nf20.01 in the example above (e.g., with the \nplot function) will provide the estimated cumulative incidences that are depicted in the second row of Figure 3 as solid grey lines.Proof of consistency\nEmpirical process theory techniques will be applied to derive the consistency of the B-spline sieve maximum likelihood estimator.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Simulation results regarding the baseline cumulative incidence functions are presented in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A schema of typical patient temporal trajectories is presented in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 presents results of these quantities, based on the estimates from the optimal model, for a female patient with CD4 count at ART initiation of 120 cells/μl, by age at ART initiation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The comparison between the predictions from the optimal model and the FGPO model are presented in the bottom row of Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Plotting the object \nf20.01 in the example above (e.g., with the \nplot function) will provide the estimated cumulative incidences that are depicted in the second row of Figure 3 as solid grey lines.Proof of consistency\nEmpirical process theory techniques will be applied to derive the consistency of the B-spline sieve maximum likelihood estimator.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Simulation results regarding the baseline cumulative incidence functions are presented in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A schema of typical patient temporal trajectories is presented in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 presents results of these quantities, based on the estimates from the optimal model, for a female patient with CD4 count at ART initiation of 120 cells/μl, by age at ART initiation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The comparison between the predictions from the optimal model and the FGPO model are presented in the bottom row of Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Plotting the object \nf20.01 in the example above (e.g., with the \nplot function) will provide the estimated cumulative incidences that are depicted in the second row of Figure 3 as solid grey lines.Proof of consistency\nEmpirical process theory techniques will be applied to derive the consistency of the B-spline sieve maximum likelihood estimator.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Simulation results regarding the baseline cumulative incidence functions are presented in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A schema of typical patient temporal trajectories is presented in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 presents results of these quantities, based on the estimates from the optimal model, for a female patient with CD4 count at ART initiation of 120 cells/μl, by age at ART initiation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The comparison between the predictions from the optimal model and the FGPO model are presented in the bottom row of Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Plotting the object \nf20.01 in the example above (e.g., with the \nplot function) will provide the estimated cumulative incidences that are depicted in the second row of Figure 3 as solid grey lines.Proof of consistency\nEmpirical process theory techniques will be applied to derive the consistency of the B-spline sieve maximum likelihood estimator.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Simulation results regarding the baseline cumulative incidence functions are presented in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A schema of typical patient temporal trajectories is presented in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 presents results of these quantities, based on the estimates from the optimal model, for a female patient with CD4 count at ART initiation of 120 cells/μl, by age at ART initiation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The comparison between the predictions from the optimal model and the FGPO model are presented in the bottom row of Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Plotting the object \nf20.01 in the example above (e.g., with the \nplot function) will provide the estimated cumulative incidences that are depicted in the second row of Figure 3 as solid grey lines.Proof of consistency\nEmpirical process theory techniques will be applied to derive the consistency of the B-spline sieve maximum likelihood estimator.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Simulation results regarding the baseline cumulative incidence functions are presented in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A schema of typical patient temporal trajectories is presented in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 presents results of these quantities, based on the estimates from the optimal model, for a female patient with CD4 count at ART initiation of 120 cells/μl, by age at ART initiation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The comparison between the predictions from the optimal model and the FGPO model are presented in the bottom row of Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Plotting the object \nf20.01 in the example above (e.g., with the \nplot function) will provide the estimated cumulative incidences that are depicted in the second row of Figure 3 as solid grey lines.Proof of consistency\nEmpirical process theory techniques will be applied to derive the consistency of the B-spline sieve maximum likelihood estimator.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Simulation results regarding the baseline cumulative incidence functions are presented in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A schema of typical patient temporal trajectories is presented in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 presents results of these quantities, based on the estimates from the optimal model, for a female patient with CD4 count at ART initiation of 120 cells/μl, by age at ART initiation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The comparison between the predictions from the optimal model and the FGPO model are presented in the bottom row of Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Plotting the object \nf20.01 in the example above (e.g., with the \nplot function) will provide the estimated cumulative incidences that are depicted in the second row of Figure 3 as solid grey lines.Proof of consistency\nEmpirical process theory techniques will be applied to derive the consistency of the B-spline sieve maximum likelihood estimator.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Simulation results regarding the baseline cumulative incidence functions are presented in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A schema of typical patient temporal trajectories is presented in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 presents results of these quantities, based on the estimates from the optimal model, for a female patient with CD4 count at ART initiation of 120 cells/μl, by age at ART initiation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The comparison between the predictions from the optimal model and the FGPO model are presented in the bottom row of Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Plotting the object \nf20.01 in the example above (e.g., with the \nplot function) will provide the estimated cumulative incidences that are depicted in the second row of Figure 3 as solid grey lines.Proof of consistency\nEmpirical process theory techniques will be applied to derive the consistency of the B-spline sieve maximum likelihood estimator.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Simulation results regarding the baseline cumulative incidence functions are presented in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Simulation results regarding the baseline cumulative incidence functions are presented in Figure 1.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A schema of typical patient temporal trajectories is presented in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 presents results of these quantities, based on the estimates from the optimal model, for a female patient with CD4 count at ART initiation of 120 cells/μl, by age at ART initiation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The comparison between the predictions from the optimal model and the FGPO model are presented in the bottom row of Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "A schema of typical patient temporal trajectories is presented in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 presents results of these quantities, based on the estimates from the optimal model, for a female patient with CD4 count at ART initiation of 120 cells/μl, by age at ART initiation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The comparison between the predictions from the optimal model and the FGPO model are presented in the bottom row of Figure 3.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Plotting the object \nf20.01 in the example above (e.g., with the \nplot function) will provide the estimated cumulative incidences that are depicted in the second row of Figure 3 as solid grey lines.Proof of consistency\nEmpirical process theory techniques will be applied to derive the consistency of the B-spline sieve maximum likelihood estimator.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Plotting the object \nf20.01 in the example above (e.g., with the \nplot function) will provide the estimated cumulative incidences that are depicted in the second row of Figure 3 as solid grey lines.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Plotting the object \nf20.01 in the example above (e.g., with the \nplot function) will provide the estimated cumulative incidences that are depicted in the second row of Figure 3 as solid grey lines.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 3,
+    "claims_count": 51,
+    "images_downloaded": 3,
+    "tables_filtered": 133
+  }
+}

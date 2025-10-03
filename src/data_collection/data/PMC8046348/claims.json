@@ -1,0 +1,3097 @@
+[
+  {
+    "sentence": "Taken together, our data demonstrate the importance of rapidly and openly sharing science in the context of a global pandemic and the essential role of preprints in this endeavour.Results\nCOVID-19 preprints were posted early in the pandemic and represent a significant proportion of the COVID-19 literature\nThe COVID-19 pandemic has rapidly spread across the globe, from 3 patients in the city of Wuhan on the December 27, 2019 to over 46.1 million confirmed cases worldwide by the end of October 2020 (Fig 1A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The scientific community responded rapidly as soon as COVID-19 emerged as a serious threat, with publications appearing within weeks of the first reported cases (Fig 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "By the end of April 2020, over 19,000 scientific publications had appeared, published both in scientific journals (12,679; approximately 65%) and on preprint servers (6,710; approximately 35%) (Fig 1B)—in some cases, preprints had already been published in journals during this time period and thus contribute to the counts of both sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "COVID-19, Coronavirus Disease 2019; WHO, World Health Organization.The 30,260 manuscripts posted as preprints were hosted on a range of preprint servers covering diverse subject areas not limited to biomedical research (Fig 1C, data from [15]).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Despite being one of the newest preprint servers, medRxiv hosted the largest number of preprints (7,882); the next largest were SSRN (4,180), Research Square (4,089), RePEc (2,774), arXiv (2,592), bioRxiv (2,328), JMIR (1,218), and Preprints.org (1,020); all other preprint servers were found to host <1,000 preprints (Fig 1C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "In total, 44,503 preprints were deposited to bioRxiv and medRxiv in this period, of which the majority (34,271, 77.0%) were non-COVID-19–related preprints (Fig 2A, S1 Table).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A minor but detectable difference was observed between screening time for COVID-19 and non-COVID-19 preprints (Fig 2B), although this difference appeared to vary with server (2-way ANOVA, interaction term; F1,83333 = 19.22, p < 0.001).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The majority of preprints existed as only a single version for both COVID-19 and non-COVID-19 works, with very few preprints existing in more than 2 versions (Fig 2C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "License choice was significantly associated with preprint category (chi-squared, χ2 = 336.0, df = 5, p < 0.001); authors of COVID-19 preprints were more likely to choose the more restrictive CC-BY-NC-ND or CC-BY-ND than those of non-COVID-19 preprints and less likely to choose CC-BY (Fig 2D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To investigate this, we compared the word counts and reference counts of COVID-19 preprints and non-COVID-19 preprints from bioRxiv (at the time of data extraction, HTML full texts from which word and reference counts were derived were not available for medRxiv) (Fig 2E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "COVID-19 preprints also contain fewer references than non-COVID-19 preprints (Fig 2F), although not fewer than expected relative to overall preprint length, as little difference was detected in reference:word count ratios (median, 1:103 versus 1:101; p = 0.052).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel F",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel F",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel F",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Although little difference was seen in number of authors between preprint servers (S1 Table), COVID-19 preprints had a marginally higher number of authors than non-COVID-19 preprints on average (median, 7 [IQR 8] versus 6 [IQR 5]; p < 0.001), due to the greater likelihood of large (11+) authorship team sizes (Fig 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "However, single-author preprints were approximately 2.6 times more common for COVID-19 (6.1% of preprints) than non-COVID-19 preprints (2.3% of preprints) (Fig 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "COVID-19, Coronavirus Disease 2019.The largest proportion of preprints in our dataset were from corresponding authors in the United States, followed by significant proportions from the United Kingdom and China (Fig 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, we found that most countries posted their first COVID-19 preprint close to the time of their first confirmed COVID-19 case (Fig 3D), with weak positive correlation considering calendar days of both events (Spearman rank; ρ = 0.54, p < 0.001).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, some authors that previously posted preprints in evolutionary biology have posted COVID-19 preprints in microbiology (Fig 3E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel E",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel E",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel E",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "As expected, greater proportions published were seen among preprints posted earlier, with over 40% of COVID-19 preprints submitted in January published by the end of October and less than 10% for those published in August or later (Fig 4A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Published COVID-19 preprints were distributed across many journals, with clinical or multidisciplinary journals tending to publish the most COVID-19 preprints (Fig 4B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel B",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel B",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel B",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This did not appear to be driven by any temporal changes in publishing practices, as the distribution of publication times for non-COVID-19 preprints was similar to our control time frame of January to December 2019 (Fig 4C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel C",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel C",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel C",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This acceleration additionally varied between publishers (2-way ANOVA, interaction term preprint type*publisher; F9,5273 = 6.58, p < 0.001) and was greatest for the American Association for the Advancement of Science (AAAS) at an average difference of 102 days (Tukey HSD; p < 0.001) (Fig 4D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel D",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel D",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel D",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "COVID-19, Coronavirus Disease 2019.Extensive access of preprint servers for COVID-19 research\nAt the start of our time window, COVID-19 preprints received abstract views at a rate over 18 times that of non-COVID-19 preprints (Fig 5A) (time-adjusted negative binomial regression; rate ratio = 18.2, z = 125.0, p < 0.001) and downloads at a rate of almost 30 times (Fig 5B) (rate ratio = 27.1, z = 124.2, p < 0.001).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The disparity between COVID-19 and non-COVID-19 preprints suggests that either COVID-19 preprints continued to slowly accumulate total usage well beyond their first month online (Fig 5) and/or they received a more diluted share of relative initial interest as larger volumes of preprints (and publications) were available by later months (Fig 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This suggests that specific attention has been given disproportionately to bioRxiv and medRxiv as repositories for COVID-19 research.COVID-19 preprints were shared and cited more widely than non-COVID-19 preprints\nWe quantified the citation and online sharing behaviour of COVID-19 preprints using citation count data from Dimensions (https://dimensions.ai) and counts of various altmetric indicators using data from Altmetric (https://altmetric.com) (Fig 6; further details on data sources in Methods section).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In terms of citations, we found higher proportions overall of COVID-19 preprints that received at least a single citation (57.9%) than non-COVID-19 preprints (21.5%) during our study period of January 1 to October 31, 2020, although the citation coverage expectedly decreased for both groups for newer posted preprints (Fig 6A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "COVID-19 preprints received greater Twitter coverage (98.9% received >1 tweet) than non-COVID-19 preprints (90.7%) (note that the threshold for Twitter coverage was set at 1 rather than 0, to account for automated tweets by the official bioRxiv and medRxiv Twitter accounts) and were tweeted at an overall greater rate than non-COVID-19 preprints (rate ratio = 7.6, z = 135.7, p < 0.001) (Fig 6B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel B",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel B",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel B",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In terms of coverage, 28.7% of COVID-19 preprints were featured in at least a single news article, compared to 1.0% of non-COVID-19 preprints (Fig 6C), and were used overall in news articles at a rate almost 100 times that of non-COVID-19 preprints (rate ratio = 92.8, z = 83.3, p < 0.001).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel C",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel C",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel C",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Similarly, COVID-19 preprints were also used more in blogs (coverage COVID-19/non-COVID-19 preprints = 14.3%/9.1%, rate ratio = 3.73, z = 37.3, p < 0.001) and Wikipedia articles (coverage COVID-19/non-COVID-19 preprints = 0.7%/0.2%, rate ratio = 4.47, z = 7.893, p < 0.001) at significantly greater rates than non-COVID-19 preprints (Fig 6D and 6E, Table 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel D",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We found that non-COVID-19 preprints were commented upon less frequently compared to COVID-19 preprints (coverage COVID-19/non-COVID-19 preprints = 15.9%/3.1%, time-adjusted negative binomial regression; rate ratio = 11.0, z = 46.5, p < 0.001) (Fig 6F); the most commented non-COVID-19 preprint received only 68 comments, whereas the most commented COVID-19 preprint had over 580 comments (Table 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel F",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel F",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel F",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Rank\nSource\nDOI\nTitle\nPosted date\nTweets\nNews articles\nBlogs\n\n\n\n1\nmedRxiv\n10.1101/2020.04.14.20062463\nCOVID-19 Antibody Seroprevalence in Santa Clara County, California\nApril 17, 2020\n26,763\n434\n55\n\n\n2\nmedRxiv\n10.1101/2020.04.04.20053058\nIndoor transmission of SARS-CoV-2\nApril 7, 2020\n21,831\n187\n34\n\n\n3\nbioRxiv\n10.1101/2020.04.29.069054\nSpike mutation pipeline reveals the emergence of a more transmissible form of SARS-CoV-2\nApril 30, 2020\n6,848\n449\n29\n\n\n4\nmedRxiv\n10.1101/2020.03.09.20033217\nAerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to SARS-CoV-1\nMarch 10, 2020\n12,484\n354\n29\n\n\n5\nmedRxiv\n10.1101/2020.04.16.20065920\nOutcomes of hydroxychloroquine usage in United States veterans hospitalized with Covid-19\nApril 21, 2020\n10,385\n411\n27\n\n\n6\nmedRxiv\n10.1101/2020.07.09.20148429\nLongitudinal evaluation and decline of antibody responses in SARS-CoV-2 infection\nJuly 11, 2020\n2,167\n281\n27\n\n\n7\nmedRxiv\n10.1101/2020.06.22.20137273\nEffect of Dexamethasone in Hospitalized Patients with COVID-19: Preliminary Report\nJune 22, 2020\n5,698\n246\n26\n\n\n8\nmedRxiv\n10.1101/2020.08.12.20169359\nEffect of Convalescent Plasma on Mortality among Hospitalized Patients with COVID-19: Initial Three-Month Experience\nAugust 12, 2020\n2,746\n264\n26\n\n\n9\nbioRxiv\n10.1101/2020.01.30.927871\nUncanny similarity of unique inserts in the 2019-nCoV spike protein to HIV-1 gp120 and Gag\nJanuary 31, 2020\n16,608\n102\n25\n\n\n10\nbioRxiv\n10.1101/2020.03.30.015347\nSusceptibility of ferrets, cats, dogs, and different domestic animals to SARS-coronavirus-2\nMarch 31, 2020\n4,168\n209\n25\n\n\n11\nmedRxiv\n10.1101/2020.10.15.20209817\nRepurposed antiviral drugs for COVID-19; interim WHO SOLIDARITY trial results\nOctober 15, 2020\n8,569\n396\n25\n\n\n\nOpen in a new tab\nCOVID-19, Coronavirus Disease 2019.Within a set of 81 COVID-19 policy documents (which were manually retrieved from the European Centre for Disease Prevention and Control (ECDC), United Kingdom Parliamentary Office of Science and Technology (UK POST), and World Health Organization Scientific Briefs (WHO SB)), 52 documents cited preprints (Fig 6G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel G",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel G",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel G",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "To understand how different usage and sharing indicators may represent the behaviour of different user groups, we calculated the Spearman correlation between the indicators presented above (citations, tweets, news articles, blog mentions, Wikipedia citations, and comment counts) as well as with abstract views and download counts as previously presented (Fig 6H and 6I).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel H",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, the need to rapidly communicate findings prior to a lengthy review process might be responsible for this observation (Fig 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An analysis of publication timelines for 14 medical journals has shown that some publishers have taken steps to accelerate their publishing processes for COVID-19 research, reducing the time for the peer-review stage (submission to acceptance) on average by 45 days and the editing stage (acceptance to publication) by 14 days [29], yet this still falls some way short of the approximately 1 to 3 days screening time for bioRxiv and medRxiv preprints (Fig 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Despite this warning message, COVID-19 preprints have received unprecedented coverage on online media platforms (Fig 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Nonetheless, the relatively weak correlation found between citations and other indicators of online sharing (Fig 6H) suggests that the interests of scientists versus the broader public differ significantly: Of the articles in the top 10 most shared on Twitter, in news articles or on blogs, only one is ranked among the top 10 most cited articles (S4B Fig).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel H",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel H",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel H",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The fact that news outlets are reporting extensively on COVID-19 preprints (Fig 6C and 6D) represents a marked change in journalistic practice: Pre-pandemic, bioRxiv preprints received very little coverage in comparison to journal articles [25].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel C",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Another marked change was observed in the use of preprints in policy documents (Fig 6G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel G",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel G",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel G",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "These more formal projects partly account for the increased commenting on the most high-profile COVID-19 preprints (Fig 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Usage data (abstract views and PDF downloads) were scraped from the bioRxiv and medRxiv public web pages using the rvest package for R [50]. bioRxiv and medRxiv web pages display abstract views and PDF downloads on a calendar month basis; for subsequent analysis (e.g., Fig 4), these were summed to generate total abstract views and downloads since the time of preprint posting.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Reference lists of each policy document were then text mined and manually verified to calculate the proportion of references that were preprints.Journal article data\nTo compare posting rates of COVID-19 preprints against publication rates of articles published in scientific journals (Fig 1B), we extracted a dataset of COVID-19 journal articles from Dimensions (https://www.dimensions.ai), via the Dimensions Analytics API service.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Results\nCOVID-19 preprints were posted early in the pandemic and represent a significant proportion of the COVID-19 literature\nThe COVID-19 pandemic has rapidly spread across the globe, from 3 patients in the city of Wuhan on the December 27, 2019 to over 46.1 million confirmed cases worldwide by the end of October 2020 (Fig 1A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The scientific community responded rapidly as soon as COVID-19 emerged as a serious threat, with publications appearing within weeks of the first reported cases (Fig 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "By the end of April 2020, over 19,000 scientific publications had appeared, published both in scientific journals (12,679; approximately 65%) and on preprint servers (6,710; approximately 35%) (Fig 1B)—in some cases, preprints had already been published in journals during this time period and thus contribute to the counts of both sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "COVID-19, Coronavirus Disease 2019; WHO, World Health Organization.The 30,260 manuscripts posted as preprints were hosted on a range of preprint servers covering diverse subject areas not limited to biomedical research (Fig 1C, data from [15]).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Despite being one of the newest preprint servers, medRxiv hosted the largest number of preprints (7,882); the next largest were SSRN (4,180), Research Square (4,089), RePEc (2,774), arXiv (2,592), bioRxiv (2,328), JMIR (1,218), and Preprints.org (1,020); all other preprint servers were found to host <1,000 preprints (Fig 1C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "In total, 44,503 preprints were deposited to bioRxiv and medRxiv in this period, of which the majority (34,271, 77.0%) were non-COVID-19–related preprints (Fig 2A, S1 Table).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A minor but detectable difference was observed between screening time for COVID-19 and non-COVID-19 preprints (Fig 2B), although this difference appeared to vary with server (2-way ANOVA, interaction term; F1,83333 = 19.22, p < 0.001).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The majority of preprints existed as only a single version for both COVID-19 and non-COVID-19 works, with very few preprints existing in more than 2 versions (Fig 2C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "License choice was significantly associated with preprint category (chi-squared, χ2 = 336.0, df = 5, p < 0.001); authors of COVID-19 preprints were more likely to choose the more restrictive CC-BY-NC-ND or CC-BY-ND than those of non-COVID-19 preprints and less likely to choose CC-BY (Fig 2D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To investigate this, we compared the word counts and reference counts of COVID-19 preprints and non-COVID-19 preprints from bioRxiv (at the time of data extraction, HTML full texts from which word and reference counts were derived were not available for medRxiv) (Fig 2E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "COVID-19 preprints also contain fewer references than non-COVID-19 preprints (Fig 2F), although not fewer than expected relative to overall preprint length, as little difference was detected in reference:word count ratios (median, 1:103 versus 1:101; p = 0.052).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel F",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel F",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel F",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Although little difference was seen in number of authors between preprint servers (S1 Table), COVID-19 preprints had a marginally higher number of authors than non-COVID-19 preprints on average (median, 7 [IQR 8] versus 6 [IQR 5]; p < 0.001), due to the greater likelihood of large (11+) authorship team sizes (Fig 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "However, single-author preprints were approximately 2.6 times more common for COVID-19 (6.1% of preprints) than non-COVID-19 preprints (2.3% of preprints) (Fig 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "COVID-19, Coronavirus Disease 2019.The largest proportion of preprints in our dataset were from corresponding authors in the United States, followed by significant proportions from the United Kingdom and China (Fig 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, we found that most countries posted their first COVID-19 preprint close to the time of their first confirmed COVID-19 case (Fig 3D), with weak positive correlation considering calendar days of both events (Spearman rank; ρ = 0.54, p < 0.001).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, some authors that previously posted preprints in evolutionary biology have posted COVID-19 preprints in microbiology (Fig 3E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel E",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel E",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel E",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "As expected, greater proportions published were seen among preprints posted earlier, with over 40% of COVID-19 preprints submitted in January published by the end of October and less than 10% for those published in August or later (Fig 4A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Published COVID-19 preprints were distributed across many journals, with clinical or multidisciplinary journals tending to publish the most COVID-19 preprints (Fig 4B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel B",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel B",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel B",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This did not appear to be driven by any temporal changes in publishing practices, as the distribution of publication times for non-COVID-19 preprints was similar to our control time frame of January to December 2019 (Fig 4C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel C",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel C",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel C",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This acceleration additionally varied between publishers (2-way ANOVA, interaction term preprint type*publisher; F9,5273 = 6.58, p < 0.001) and was greatest for the American Association for the Advancement of Science (AAAS) at an average difference of 102 days (Tukey HSD; p < 0.001) (Fig 4D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel D",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel D",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel D",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "COVID-19, Coronavirus Disease 2019.Extensive access of preprint servers for COVID-19 research\nAt the start of our time window, COVID-19 preprints received abstract views at a rate over 18 times that of non-COVID-19 preprints (Fig 5A) (time-adjusted negative binomial regression; rate ratio = 18.2, z = 125.0, p < 0.001) and downloads at a rate of almost 30 times (Fig 5B) (rate ratio = 27.1, z = 124.2, p < 0.001).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The disparity between COVID-19 and non-COVID-19 preprints suggests that either COVID-19 preprints continued to slowly accumulate total usage well beyond their first month online (Fig 5) and/or they received a more diluted share of relative initial interest as larger volumes of preprints (and publications) were available by later months (Fig 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This suggests that specific attention has been given disproportionately to bioRxiv and medRxiv as repositories for COVID-19 research.COVID-19 preprints were shared and cited more widely than non-COVID-19 preprints\nWe quantified the citation and online sharing behaviour of COVID-19 preprints using citation count data from Dimensions (https://dimensions.ai) and counts of various altmetric indicators using data from Altmetric (https://altmetric.com) (Fig 6; further details on data sources in Methods section).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In terms of citations, we found higher proportions overall of COVID-19 preprints that received at least a single citation (57.9%) than non-COVID-19 preprints (21.5%) during our study period of January 1 to October 31, 2020, although the citation coverage expectedly decreased for both groups for newer posted preprints (Fig 6A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "COVID-19 preprints received greater Twitter coverage (98.9% received >1 tweet) than non-COVID-19 preprints (90.7%) (note that the threshold for Twitter coverage was set at 1 rather than 0, to account for automated tweets by the official bioRxiv and medRxiv Twitter accounts) and were tweeted at an overall greater rate than non-COVID-19 preprints (rate ratio = 7.6, z = 135.7, p < 0.001) (Fig 6B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel B",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel B",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel B",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In terms of coverage, 28.7% of COVID-19 preprints were featured in at least a single news article, compared to 1.0% of non-COVID-19 preprints (Fig 6C), and were used overall in news articles at a rate almost 100 times that of non-COVID-19 preprints (rate ratio = 92.8, z = 83.3, p < 0.001).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel C",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel C",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel C",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Similarly, COVID-19 preprints were also used more in blogs (coverage COVID-19/non-COVID-19 preprints = 14.3%/9.1%, rate ratio = 3.73, z = 37.3, p < 0.001) and Wikipedia articles (coverage COVID-19/non-COVID-19 preprints = 0.7%/0.2%, rate ratio = 4.47, z = 7.893, p < 0.001) at significantly greater rates than non-COVID-19 preprints (Fig 6D and 6E, Table 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel D",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We found that non-COVID-19 preprints were commented upon less frequently compared to COVID-19 preprints (coverage COVID-19/non-COVID-19 preprints = 15.9%/3.1%, time-adjusted negative binomial regression; rate ratio = 11.0, z = 46.5, p < 0.001) (Fig 6F); the most commented non-COVID-19 preprint received only 68 comments, whereas the most commented COVID-19 preprint had over 580 comments (Table 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel F",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel F",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel F",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Rank\nSource\nDOI\nTitle\nPosted date\nTweets\nNews articles\nBlogs\n\n\n\n1\nmedRxiv\n10.1101/2020.04.14.20062463\nCOVID-19 Antibody Seroprevalence in Santa Clara County, California\nApril 17, 2020\n26,763\n434\n55\n\n\n2\nmedRxiv\n10.1101/2020.04.04.20053058\nIndoor transmission of SARS-CoV-2\nApril 7, 2020\n21,831\n187\n34\n\n\n3\nbioRxiv\n10.1101/2020.04.29.069054\nSpike mutation pipeline reveals the emergence of a more transmissible form of SARS-CoV-2\nApril 30, 2020\n6,848\n449\n29\n\n\n4\nmedRxiv\n10.1101/2020.03.09.20033217\nAerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to SARS-CoV-1\nMarch 10, 2020\n12,484\n354\n29\n\n\n5\nmedRxiv\n10.1101/2020.04.16.20065920\nOutcomes of hydroxychloroquine usage in United States veterans hospitalized with Covid-19\nApril 21, 2020\n10,385\n411\n27\n\n\n6\nmedRxiv\n10.1101/2020.07.09.20148429\nLongitudinal evaluation and decline of antibody responses in SARS-CoV-2 infection\nJuly 11, 2020\n2,167\n281\n27\n\n\n7\nmedRxiv\n10.1101/2020.06.22.20137273\nEffect of Dexamethasone in Hospitalized Patients with COVID-19: Preliminary Report\nJune 22, 2020\n5,698\n246\n26\n\n\n8\nmedRxiv\n10.1101/2020.08.12.20169359\nEffect of Convalescent Plasma on Mortality among Hospitalized Patients with COVID-19: Initial Three-Month Experience\nAugust 12, 2020\n2,746\n264\n26\n\n\n9\nbioRxiv\n10.1101/2020.01.30.927871\nUncanny similarity of unique inserts in the 2019-nCoV spike protein to HIV-1 gp120 and Gag\nJanuary 31, 2020\n16,608\n102\n25\n\n\n10\nbioRxiv\n10.1101/2020.03.30.015347\nSusceptibility of ferrets, cats, dogs, and different domestic animals to SARS-coronavirus-2\nMarch 31, 2020\n4,168\n209\n25\n\n\n11\nmedRxiv\n10.1101/2020.10.15.20209817\nRepurposed antiviral drugs for COVID-19; interim WHO SOLIDARITY trial results\nOctober 15, 2020\n8,569\n396\n25\n\n\n\nOpen in a new tab\nCOVID-19, Coronavirus Disease 2019.Within a set of 81 COVID-19 policy documents (which were manually retrieved from the European Centre for Disease Prevention and Control (ECDC), United Kingdom Parliamentary Office of Science and Technology (UK POST), and World Health Organization Scientific Briefs (WHO SB)), 52 documents cited preprints (Fig 6G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel G",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel G",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel G",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "To understand how different usage and sharing indicators may represent the behaviour of different user groups, we calculated the Spearman correlation between the indicators presented above (citations, tweets, news articles, blog mentions, Wikipedia citations, and comment counts) as well as with abstract views and download counts as previously presented (Fig 6H and 6I).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel H",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "COVID-19 preprints were posted early in the pandemic and represent a significant proportion of the COVID-19 literature\nThe COVID-19 pandemic has rapidly spread across the globe, from 3 patients in the city of Wuhan on the December 27, 2019 to over 46.1 million confirmed cases worldwide by the end of October 2020 (Fig 1A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The scientific community responded rapidly as soon as COVID-19 emerged as a serious threat, with publications appearing within weeks of the first reported cases (Fig 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "By the end of April 2020, over 19,000 scientific publications had appeared, published both in scientific journals (12,679; approximately 65%) and on preprint servers (6,710; approximately 35%) (Fig 1B)—in some cases, preprints had already been published in journals during this time period and thus contribute to the counts of both sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "COVID-19, Coronavirus Disease 2019; WHO, World Health Organization.The 30,260 manuscripts posted as preprints were hosted on a range of preprint servers covering diverse subject areas not limited to biomedical research (Fig 1C, data from [15]).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Despite being one of the newest preprint servers, medRxiv hosted the largest number of preprints (7,882); the next largest were SSRN (4,180), Research Square (4,089), RePEc (2,774), arXiv (2,592), bioRxiv (2,328), JMIR (1,218), and Preprints.org (1,020); all other preprint servers were found to host <1,000 preprints (Fig 1C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The COVID-19 pandemic has rapidly spread across the globe, from 3 patients in the city of Wuhan on the December 27, 2019 to over 46.1 million confirmed cases worldwide by the end of October 2020 (Fig 1A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The scientific community responded rapidly as soon as COVID-19 emerged as a serious threat, with publications appearing within weeks of the first reported cases (Fig 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "By the end of April 2020, over 19,000 scientific publications had appeared, published both in scientific journals (12,679; approximately 65%) and on preprint servers (6,710; approximately 35%) (Fig 1B)—in some cases, preprints had already been published in journals during this time period and thus contribute to the counts of both sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The 30,260 manuscripts posted as preprints were hosted on a range of preprint servers covering diverse subject areas not limited to biomedical research (Fig 1C, data from [15]).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Despite being one of the newest preprint servers, medRxiv hosted the largest number of preprints (7,882); the next largest were SSRN (4,180), Research Square (4,089), RePEc (2,774), arXiv (2,592), bioRxiv (2,328), JMIR (1,218), and Preprints.org (1,020); all other preprint servers were found to host <1,000 preprints (Fig 1C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "In total, 44,503 preprints were deposited to bioRxiv and medRxiv in this period, of which the majority (34,271, 77.0%) were non-COVID-19–related preprints (Fig 2A, S1 Table).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A minor but detectable difference was observed between screening time for COVID-19 and non-COVID-19 preprints (Fig 2B), although this difference appeared to vary with server (2-way ANOVA, interaction term; F1,83333 = 19.22, p < 0.001).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The majority of preprints existed as only a single version for both COVID-19 and non-COVID-19 works, with very few preprints existing in more than 2 versions (Fig 2C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "License choice was significantly associated with preprint category (chi-squared, χ2 = 336.0, df = 5, p < 0.001); authors of COVID-19 preprints were more likely to choose the more restrictive CC-BY-NC-ND or CC-BY-ND than those of non-COVID-19 preprints and less likely to choose CC-BY (Fig 2D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To investigate this, we compared the word counts and reference counts of COVID-19 preprints and non-COVID-19 preprints from bioRxiv (at the time of data extraction, HTML full texts from which word and reference counts were derived were not available for medRxiv) (Fig 2E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "COVID-19 preprints also contain fewer references than non-COVID-19 preprints (Fig 2F), although not fewer than expected relative to overall preprint length, as little difference was detected in reference:word count ratios (median, 1:103 versus 1:101; p = 0.052).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel F",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel F",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel F",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In total, 44,503 preprints were deposited to bioRxiv and medRxiv in this period, of which the majority (34,271, 77.0%) were non-COVID-19–related preprints (Fig 2A, S1 Table).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A minor but detectable difference was observed between screening time for COVID-19 and non-COVID-19 preprints (Fig 2B), although this difference appeared to vary with server (2-way ANOVA, interaction term; F1,83333 = 19.22, p < 0.001).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The majority of preprints existed as only a single version for both COVID-19 and non-COVID-19 works, with very few preprints existing in more than 2 versions (Fig 2C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "License choice was significantly associated with preprint category (chi-squared, χ2 = 336.0, df = 5, p < 0.001); authors of COVID-19 preprints were more likely to choose the more restrictive CC-BY-NC-ND or CC-BY-ND than those of non-COVID-19 preprints and less likely to choose CC-BY (Fig 2D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel D",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To investigate this, we compared the word counts and reference counts of COVID-19 preprints and non-COVID-19 preprints from bioRxiv (at the time of data extraction, HTML full texts from which word and reference counts were derived were not available for medRxiv) (Fig 2E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel E",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "COVID-19 preprints also contain fewer references than non-COVID-19 preprints (Fig 2F), although not fewer than expected relative to overall preprint length, as little difference was detected in reference:word count ratios (median, 1:103 versus 1:101; p = 0.052).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel F",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel F",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel F",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Although little difference was seen in number of authors between preprint servers (S1 Table), COVID-19 preprints had a marginally higher number of authors than non-COVID-19 preprints on average (median, 7 [IQR 8] versus 6 [IQR 5]; p < 0.001), due to the greater likelihood of large (11+) authorship team sizes (Fig 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "However, single-author preprints were approximately 2.6 times more common for COVID-19 (6.1% of preprints) than non-COVID-19 preprints (2.3% of preprints) (Fig 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "COVID-19, Coronavirus Disease 2019.The largest proportion of preprints in our dataset were from corresponding authors in the United States, followed by significant proportions from the United Kingdom and China (Fig 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, we found that most countries posted their first COVID-19 preprint close to the time of their first confirmed COVID-19 case (Fig 3D), with weak positive correlation considering calendar days of both events (Spearman rank; ρ = 0.54, p < 0.001).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, some authors that previously posted preprints in evolutionary biology have posted COVID-19 preprints in microbiology (Fig 3E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel E",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel E",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel E",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Although little difference was seen in number of authors between preprint servers (S1 Table), COVID-19 preprints had a marginally higher number of authors than non-COVID-19 preprints on average (median, 7 [IQR 8] versus 6 [IQR 5]; p < 0.001), due to the greater likelihood of large (11+) authorship team sizes (Fig 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "However, single-author preprints were approximately 2.6 times more common for COVID-19 (6.1% of preprints) than non-COVID-19 preprints (2.3% of preprints) (Fig 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The largest proportion of preprints in our dataset were from corresponding authors in the United States, followed by significant proportions from the United Kingdom and China (Fig 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Moreover, we found that most countries posted their first COVID-19 preprint close to the time of their first confirmed COVID-19 case (Fig 3D), with weak positive correlation considering calendar days of both events (Spearman rank; ρ = 0.54, p < 0.001).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel D",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, some authors that previously posted preprints in evolutionary biology have posted COVID-19 preprints in microbiology (Fig 3E).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel E",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel E",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel E",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "As expected, greater proportions published were seen among preprints posted earlier, with over 40% of COVID-19 preprints submitted in January published by the end of October and less than 10% for those published in August or later (Fig 4A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Published COVID-19 preprints were distributed across many journals, with clinical or multidisciplinary journals tending to publish the most COVID-19 preprints (Fig 4B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel B",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel B",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel B",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This did not appear to be driven by any temporal changes in publishing practices, as the distribution of publication times for non-COVID-19 preprints was similar to our control time frame of January to December 2019 (Fig 4C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel C",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel C",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel C",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This acceleration additionally varied between publishers (2-way ANOVA, interaction term preprint type*publisher; F9,5273 = 6.58, p < 0.001) and was greatest for the American Association for the Advancement of Science (AAAS) at an average difference of 102 days (Tukey HSD; p < 0.001) (Fig 4D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel D",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel D",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel D",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As expected, greater proportions published were seen among preprints posted earlier, with over 40% of COVID-19 preprints submitted in January published by the end of October and less than 10% for those published in August or later (Fig 4A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Published COVID-19 preprints were distributed across many journals, with clinical or multidisciplinary journals tending to publish the most COVID-19 preprints (Fig 4B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel B",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel B",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel B",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This did not appear to be driven by any temporal changes in publishing practices, as the distribution of publication times for non-COVID-19 preprints was similar to our control time frame of January to December 2019 (Fig 4C).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel C",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel C",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel C",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This acceleration additionally varied between publishers (2-way ANOVA, interaction term preprint type*publisher; F9,5273 = 6.58, p < 0.001) and was greatest for the American Association for the Advancement of Science (AAAS) at an average difference of 102 days (Tukey HSD; p < 0.001) (Fig 4D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel D",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel D",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel D",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Extensive access of preprint servers for COVID-19 research\nAt the start of our time window, COVID-19 preprints received abstract views at a rate over 18 times that of non-COVID-19 preprints (Fig 5A) (time-adjusted negative binomial regression; rate ratio = 18.2, z = 125.0, p < 0.001) and downloads at a rate of almost 30 times (Fig 5B) (rate ratio = 27.1, z = 124.2, p < 0.001).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The disparity between COVID-19 and non-COVID-19 preprints suggests that either COVID-19 preprints continued to slowly accumulate total usage well beyond their first month online (Fig 5) and/or they received a more diluted share of relative initial interest as larger volumes of preprints (and publications) were available by later months (Fig 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "At the start of our time window, COVID-19 preprints received abstract views at a rate over 18 times that of non-COVID-19 preprints (Fig 5A) (time-adjusted negative binomial regression; rate ratio = 18.2, z = 125.0, p < 0.001) and downloads at a rate of almost 30 times (Fig 5B) (rate ratio = 27.1, z = 124.2, p < 0.001).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel A",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel B",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The disparity between COVID-19 and non-COVID-19 preprints suggests that either COVID-19 preprints continued to slowly accumulate total usage well beyond their first month online (Fig 5) and/or they received a more diluted share of relative initial interest as larger volumes of preprints (and publications) were available by later months (Fig 1B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "COVID-19 preprints were shared and cited more widely than non-COVID-19 preprints\nWe quantified the citation and online sharing behaviour of COVID-19 preprints using citation count data from Dimensions (https://dimensions.ai) and counts of various altmetric indicators using data from Altmetric (https://altmetric.com) (Fig 6; further details on data sources in Methods section).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In terms of citations, we found higher proportions overall of COVID-19 preprints that received at least a single citation (57.9%) than non-COVID-19 preprints (21.5%) during our study period of January 1 to October 31, 2020, although the citation coverage expectedly decreased for both groups for newer posted preprints (Fig 6A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "COVID-19 preprints received greater Twitter coverage (98.9% received >1 tweet) than non-COVID-19 preprints (90.7%) (note that the threshold for Twitter coverage was set at 1 rather than 0, to account for automated tweets by the official bioRxiv and medRxiv Twitter accounts) and were tweeted at an overall greater rate than non-COVID-19 preprints (rate ratio = 7.6, z = 135.7, p < 0.001) (Fig 6B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel B",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel B",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel B",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In terms of coverage, 28.7% of COVID-19 preprints were featured in at least a single news article, compared to 1.0% of non-COVID-19 preprints (Fig 6C), and were used overall in news articles at a rate almost 100 times that of non-COVID-19 preprints (rate ratio = 92.8, z = 83.3, p < 0.001).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel C",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel C",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel C",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Similarly, COVID-19 preprints were also used more in blogs (coverage COVID-19/non-COVID-19 preprints = 14.3%/9.1%, rate ratio = 3.73, z = 37.3, p < 0.001) and Wikipedia articles (coverage COVID-19/non-COVID-19 preprints = 0.7%/0.2%, rate ratio = 4.47, z = 7.893, p < 0.001) at significantly greater rates than non-COVID-19 preprints (Fig 6D and 6E, Table 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel D",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We found that non-COVID-19 preprints were commented upon less frequently compared to COVID-19 preprints (coverage COVID-19/non-COVID-19 preprints = 15.9%/3.1%, time-adjusted negative binomial regression; rate ratio = 11.0, z = 46.5, p < 0.001) (Fig 6F); the most commented non-COVID-19 preprint received only 68 comments, whereas the most commented COVID-19 preprint had over 580 comments (Table 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel F",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel F",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel F",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Rank\nSource\nDOI\nTitle\nPosted date\nTweets\nNews articles\nBlogs\n\n\n\n1\nmedRxiv\n10.1101/2020.04.14.20062463\nCOVID-19 Antibody Seroprevalence in Santa Clara County, California\nApril 17, 2020\n26,763\n434\n55\n\n\n2\nmedRxiv\n10.1101/2020.04.04.20053058\nIndoor transmission of SARS-CoV-2\nApril 7, 2020\n21,831\n187\n34\n\n\n3\nbioRxiv\n10.1101/2020.04.29.069054\nSpike mutation pipeline reveals the emergence of a more transmissible form of SARS-CoV-2\nApril 30, 2020\n6,848\n449\n29\n\n\n4\nmedRxiv\n10.1101/2020.03.09.20033217\nAerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to SARS-CoV-1\nMarch 10, 2020\n12,484\n354\n29\n\n\n5\nmedRxiv\n10.1101/2020.04.16.20065920\nOutcomes of hydroxychloroquine usage in United States veterans hospitalized with Covid-19\nApril 21, 2020\n10,385\n411\n27\n\n\n6\nmedRxiv\n10.1101/2020.07.09.20148429\nLongitudinal evaluation and decline of antibody responses in SARS-CoV-2 infection\nJuly 11, 2020\n2,167\n281\n27\n\n\n7\nmedRxiv\n10.1101/2020.06.22.20137273\nEffect of Dexamethasone in Hospitalized Patients with COVID-19: Preliminary Report\nJune 22, 2020\n5,698\n246\n26\n\n\n8\nmedRxiv\n10.1101/2020.08.12.20169359\nEffect of Convalescent Plasma on Mortality among Hospitalized Patients with COVID-19: Initial Three-Month Experience\nAugust 12, 2020\n2,746\n264\n26\n\n\n9\nbioRxiv\n10.1101/2020.01.30.927871\nUncanny similarity of unique inserts in the 2019-nCoV spike protein to HIV-1 gp120 and Gag\nJanuary 31, 2020\n16,608\n102\n25\n\n\n10\nbioRxiv\n10.1101/2020.03.30.015347\nSusceptibility of ferrets, cats, dogs, and different domestic animals to SARS-coronavirus-2\nMarch 31, 2020\n4,168\n209\n25\n\n\n11\nmedRxiv\n10.1101/2020.10.15.20209817\nRepurposed antiviral drugs for COVID-19; interim WHO SOLIDARITY trial results\nOctober 15, 2020\n8,569\n396\n25\n\n\n\nOpen in a new tab\nCOVID-19, Coronavirus Disease 2019.Within a set of 81 COVID-19 policy documents (which were manually retrieved from the European Centre for Disease Prevention and Control (ECDC), United Kingdom Parliamentary Office of Science and Technology (UK POST), and World Health Organization Scientific Briefs (WHO SB)), 52 documents cited preprints (Fig 6G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel G",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel G",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel G",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "To understand how different usage and sharing indicators may represent the behaviour of different user groups, we calculated the Spearman correlation between the indicators presented above (citations, tweets, news articles, blog mentions, Wikipedia citations, and comment counts) as well as with abstract views and download counts as previously presented (Fig 6H and 6I).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel H",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We quantified the citation and online sharing behaviour of COVID-19 preprints using citation count data from Dimensions (https://dimensions.ai) and counts of various altmetric indicators using data from Altmetric (https://altmetric.com) (Fig 6; further details on data sources in Methods section).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In terms of citations, we found higher proportions overall of COVID-19 preprints that received at least a single citation (57.9%) than non-COVID-19 preprints (21.5%) during our study period of January 1 to October 31, 2020, although the citation coverage expectedly decreased for both groups for newer posted preprints (Fig 6A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel A",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "COVID-19 preprints received greater Twitter coverage (98.9% received >1 tweet) than non-COVID-19 preprints (90.7%) (note that the threshold for Twitter coverage was set at 1 rather than 0, to account for automated tweets by the official bioRxiv and medRxiv Twitter accounts) and were tweeted at an overall greater rate than non-COVID-19 preprints (rate ratio = 7.6, z = 135.7, p < 0.001) (Fig 6B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel B",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel B",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel B",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In terms of coverage, 28.7% of COVID-19 preprints were featured in at least a single news article, compared to 1.0% of non-COVID-19 preprints (Fig 6C), and were used overall in news articles at a rate almost 100 times that of non-COVID-19 preprints (rate ratio = 92.8, z = 83.3, p < 0.001).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel C",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel C",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel C",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Similarly, COVID-19 preprints were also used more in blogs (coverage COVID-19/non-COVID-19 preprints = 14.3%/9.1%, rate ratio = 3.73, z = 37.3, p < 0.001) and Wikipedia articles (coverage COVID-19/non-COVID-19 preprints = 0.7%/0.2%, rate ratio = 4.47, z = 7.893, p < 0.001) at significantly greater rates than non-COVID-19 preprints (Fig 6D and 6E, Table 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel D",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We found that non-COVID-19 preprints were commented upon less frequently compared to COVID-19 preprints (coverage COVID-19/non-COVID-19 preprints = 15.9%/3.1%, time-adjusted negative binomial regression; rate ratio = 11.0, z = 46.5, p < 0.001) (Fig 6F); the most commented non-COVID-19 preprint received only 68 comments, whereas the most commented COVID-19 preprint had over 580 comments (Table 5).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel F",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel F",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel F",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Within a set of 81 COVID-19 policy documents (which were manually retrieved from the European Centre for Disease Prevention and Control (ECDC), United Kingdom Parliamentary Office of Science and Technology (UK POST), and World Health Organization Scientific Briefs (WHO SB)), 52 documents cited preprints (Fig 6G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel G",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel G",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel G",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "To understand how different usage and sharing indicators may represent the behaviour of different user groups, we calculated the Spearman correlation between the indicators presented above (citations, tweets, news articles, blog mentions, Wikipedia citations, and comment counts) as well as with abstract views and download counts as previously presented (Fig 6H and 6I).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel H",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, the need to rapidly communicate findings prior to a lengthy review process might be responsible for this observation (Fig 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An analysis of publication timelines for 14 medical journals has shown that some publishers have taken steps to accelerate their publishing processes for COVID-19 research, reducing the time for the peer-review stage (submission to acceptance) on average by 45 days and the editing stage (acceptance to publication) by 14 days [29], yet this still falls some way short of the approximately 1 to 3 days screening time for bioRxiv and medRxiv preprints (Fig 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Despite this warning message, COVID-19 preprints have received unprecedented coverage on online media platforms (Fig 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Nonetheless, the relatively weak correlation found between citations and other indicators of online sharing (Fig 6H) suggests that the interests of scientists versus the broader public differ significantly: Of the articles in the top 10 most shared on Twitter, in news articles or on blogs, only one is ranked among the top 10 most cited articles (S4B Fig).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel H",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel H",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel H",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The fact that news outlets are reporting extensively on COVID-19 preprints (Fig 6C and 6D) represents a marked change in journalistic practice: Pre-pandemic, bioRxiv preprints received very little coverage in comparison to journal articles [25].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel C",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Another marked change was observed in the use of preprints in policy documents (Fig 6G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel G",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel G",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel G",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "These more formal projects partly account for the increased commenting on the most high-profile COVID-19 preprints (Fig 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "In addition, the need to rapidly communicate findings prior to a lengthy review process might be responsible for this observation (Fig 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "An analysis of publication timelines for 14 medical journals has shown that some publishers have taken steps to accelerate their publishing processes for COVID-19 research, reducing the time for the peer-review stage (submission to acceptance) on average by 45 days and the editing stage (acceptance to publication) by 14 days [29], yet this still falls some way short of the approximately 1 to 3 days screening time for bioRxiv and medRxiv preprints (Fig 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Despite this warning message, COVID-19 preprints have received unprecedented coverage on online media platforms (Fig 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Nonetheless, the relatively weak correlation found between citations and other indicators of online sharing (Fig 6H) suggests that the interests of scientists versus the broader public differ significantly: Of the articles in the top 10 most shared on Twitter, in news articles or on blogs, only one is ranked among the top 10 most cited articles (S4B Fig).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel H",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel H",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel H",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The fact that news outlets are reporting extensively on COVID-19 preprints (Fig 6C and 6D) represents a marked change in journalistic practice: Pre-pandemic, bioRxiv preprints received very little coverage in comparison to journal articles [25].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel C",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Another marked change was observed in the use of preprints in policy documents (Fig 6G).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel G",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel G",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel G",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "These more formal projects partly account for the increased commenting on the most high-profile COVID-19 preprints (Fig 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Usage data (abstract views and PDF downloads) were scraped from the bioRxiv and medRxiv public web pages using the rvest package for R [50]. bioRxiv and medRxiv web pages display abstract views and PDF downloads on a calendar month basis; for subsequent analysis (e.g., Fig 4), these were summed to generate total abstract views and downloads since the time of preprint posting.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Reference lists of each policy document were then text mined and manually verified to calculate the proportion of references that were preprints.Journal article data\nTo compare posting rates of COVID-19 preprints against publication rates of articles published in scientific journals (Fig 1B), we extracted a dataset of COVID-19 journal articles from Dimensions (https://www.dimensions.ai), via the Dimensions Analytics API service.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Usage data (abstract views and PDF downloads) were scraped from the bioRxiv and medRxiv public web pages using the rvest package for R [50]. bioRxiv and medRxiv web pages display abstract views and PDF downloads on a calendar month basis; for subsequent analysis (e.g., Fig 4), these were summed to generate total abstract views and downloads since the time of preprint posting.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Usage data (abstract views and PDF downloads) were scraped from the bioRxiv and medRxiv public web pages using the rvest package for R [50]. bioRxiv and medRxiv web pages display abstract views and PDF downloads on a calendar month basis; for subsequent analysis (e.g., Fig 4), these were summed to generate total abstract views and downloads since the time of preprint posting.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Journal article data\nTo compare posting rates of COVID-19 preprints against publication rates of articles published in scientific journals (Fig 1B), we extracted a dataset of COVID-19 journal articles from Dimensions (https://www.dimensions.ai), via the Dimensions Analytics API service.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "To compare posting rates of COVID-19 preprints against publication rates of articles published in scientific journals (Fig 1B), we extracted a dataset of COVID-19 journal articles from Dimensions (https://www.dimensions.ai), via the Dimensions Analytics API service.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "However, Figure 2I indicates the COVID publication rate is somewhere around 12 percent, with the non-COVID rate around 6 or 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel I",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2: It appears panel 2J has incorrect data in it: It caught my eye because there are papers in the \"140 days\" bucket, even though the analysis period is shorter than 140 days.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Line 98: In multiple places (lines 31 and 109, Figure 1B), the text references the number of published papers related to COVID-19, but it's unclear where this information comes from.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The legend for figure 1 says \"Journal data in (B) is based upon data extracted from Dimensions,\" but the paper would benefit from elaboration in the Methods section regarding the search strategy and when the search was performed.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "However, Figure 2C shows a noticeable difference in the distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel C",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1: The y-axis label in panel B looks at first glance like it may refer to a ratio, though I think it actually means \"articles OR preprints.\" Would \"Manuscripts\" be more clear as a label?.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "When comparing COVID-19 preprints against others it remains unclear from the methods section and text, whether all comparisons (e.g.: also license type, number of versions of preprints, lengths of texts) are restricted to preprints posted in the same observational period as COVID-19 preprints (which appears introduced as a statement in the context of Fig 2I).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel I",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In case that the range of dates allowed for non-COVID-19 preprints differed, the interpretation surrounding many elements of Figure 2 might change.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The authors show differences in reception of COVID-19 vs non-COVID-19 manuscripts (Figure 3), which they interpret as \"extensive access\".",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The data as shown in panels Fig 4A-E provides very little information not contained in the text since distributions are similar, sometimes have the same median, and there are many dots - but it remains unintuitive for reader if there would be a relative change (as total number of dots could be dominated by total number of preprints in each category).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "For Figure 4G,H it is unclear whether the inferred statement on higher correlations among COVID-19 truly reflect different correlations, or a higher number of preprints with non-zero values among the COVID-19 group.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel G",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Based on Figure 3A, B, which shows diminishing differences between COVID-19 and non-COVID-19 preprints over time, it remains unclear whether the findings reported by the authors throughout the manuscript only refer to the first weeks of a pandemic (a time-period that would be very important, and where preprints might be particularly relevant), or a \"shift\" as they imply in the discussion section.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The analysis of the paragraph between lines 135-141 visually appears at odds with the referenced panels, Figure 2B, and S2B, where non-COVID-19 preprints appear to have been screened more rapidly than non-COVID-19 preprints.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The wordcloud in Supplemental Fig 4A shows some extraordinary evidence of politicization that isn't mentioned, including the QAnon conspiracy theory (\"qanon\" and \"wwg1wga\"), xenophobia (\"chinazi\"), and US-specific right-wing populism (\"maga\", \"foxnews\", \"firefauci\") (I also think this figure could be moved to the main text).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel A",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1a: since case and death counts are shown together on the same panel, this figure would be more readable with the y-axis on a log scale.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel a",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1b: Since all of the other figures use the same color scheme for COVID-19 preprints vs non-COVID preprints, it would be better to use a different color scheme to describe preprints vs. journal articles here.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel b",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Lines 245-253: A lot of space and effort is spent here explaining that downloads for individual preprints taper off over time—this would be a valuable visualization to add, perhaps as a panel in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a \"downloads in first month\" figure is available as Figure 2, figure supplement 3(a) in Abdill & Blekhman 2019 [1]—the x-axis could be something like \"Month posted,\" and the y-axis would be \"Downloads in first month.\" Using a visualization such as a box-and-whisker plot could illustrate how many downloads were received in, say, March, for preprints posted in March, followed by downloads in April for preprints posted in April, and so on.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1: In panel C, it's difficult to see differences between the smaller servers, particularly because the number of segments means the colors are all very similar.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3: In panel B, it's difficult to compare the two categories because of the dramatically different counts.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6: The content of Panel E is limited by the poor match between the data and the scale of the y-axis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Lines 245-253: A lot of space and effort is spent here explaining that downloads for individual preprints taper off over time—this would be a valuable visualization to add, perhaps as a panel in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of a \"downloads in first month\" figure is available as Figure 2, figure supplement 3(a) in Abdill & Blekhman 2019 [1]—the x-axis could be something like \"Month posted,\" and the y-axis would be \"Downloads in first month.\" Using a visualization such as a box-and-whisker plot could illustrate how many downloads were received in, say, March, for preprints posted in March, followed by downloads in April for preprints posted in April, and so on.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1: In panel C, it's difficult to see differences between the smaller servers, particularly because the number of segments means the colors are all very similar.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3: In panel B, it's difficult to compare the two categories because of the dramatically different counts.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6: The content of Panel E is limited by the poor match between the data and the scale of the y-axis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  }
+]

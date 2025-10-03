@@ -1,0 +1,162 @@
+{
+  "paper_id": "PMC6740325",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6740325/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Figure 1.",
+      "caption": "Residual process for the parametric model π1(Z, β) based on the IeDEA HIV data along with the 95% goodness-of-fit band (grey area) and the corresponding p-value.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3366/6740325/6448f227eca1/nihms959462f1.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3366/6740325/6448f227eca1/nihms959462f1.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3366/6740325/6448f227eca1/nihms959462f1.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3366/6740325/6448f227eca1/nihms959462f1.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3366/6740325/6448f227eca1/nihms959462f1.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC6740325/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3366/6740325/6448f227eca1/nihms959462f1.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Figure 2.",
+      "caption": "Transition probability estimates in the HIV study based on the naïve approach, the complete case analysis (CC) and the proposed NPM-PLE method.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3366/6740325/bd86e5566fc5/nihms959462f2.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3366/6740325/bd86e5566fc5/nihms959462f2.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3366/6740325/bd86e5566fc5/nihms959462f2.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3366/6740325/bd86e5566fc5/nihms959462f2.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3366/6740325/bd86e5566fc5/nihms959462f2.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC6740325/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3366/6740325/bd86e5566fc5/nihms959462f2.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "The left panel of Figure 1 clearly indicates the lack of fit of this model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The residual process for this model (right panel of Figure 1) was close to 0 at all time points and remained within the 95% goodness-of-fit band (p-value=0.436).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Open in a new tab\nResidual process for the parametric model π1(Z, β) based on the IeDEA HIV data along with the 95% goodness-of-fit band (grey area) and the corresponding p-value.The estimates of the transition probabilities of death while in HIV care and disengagement from care are presented in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The naïve analysis, which ignores the information from double-sampling, significantly underestimated mortality while in HIV care (left panel of Figure 2) and, also, overestimated disengagement from HIV care (right panel of Figure 2), compared to the proposed NPMPLE method.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The left panel of Figure 1 clearly indicates the lack of fit of this model.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The residual process for this model (right panel of Figure 1) was close to 0 at all time points and remained within the 95% goodness-of-fit band (p-value=0.436).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The estimates of the transition probabilities of death while in HIV care and disengagement from care are presented in Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The naïve analysis, which ignores the information from double-sampling, significantly underestimated mortality while in HIV care (left panel of Figure 2) and, also, overestimated disengagement from HIV care (right panel of Figure 2), compared to the proposed NPMPLE method.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 2,
+    "claims_count": 8,
+    "images_downloaded": 2,
+    "tables_filtered": 195
+  }
+}

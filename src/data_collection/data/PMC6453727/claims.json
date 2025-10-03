@@ -1,0 +1,4927 @@
+[
+  {
+    "sentence": "Figure 1 shows the structure and workflow of the reconstruction platform.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "System description\nWe constructed a proof‐of‐concept prototype device using two typical PET block detectors, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3 shows the setup of the DAQ system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using the setup described by Fig. 3, 18.4 million coincidence events were collected.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nWe performed an imaging study of a small cylindrical phantom using the prototype system, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2(b) shows the sizes and distribution of the spherical sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We used the robotic arm and the rotation stage to independently move the front and back detectors to seven different locations as illustrated in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The sampling angles between detector pair locations are illustrated by the dash lines in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The tumors were each placed at the center slice of the cylindrical phantom. [Color figure can be viewed at wileyonlinelibrary.com]List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and secondly using TOF information based on the CRT of the system as characterized in the previous section.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The system setup and sample angles in the simulation study were the same as those in Fig. 4(a) except that the front and back detectors are made of an array of 38 × 38 LYSO crystals of 1 × 1 ×  10 mm3 each.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This is because only the central 38 × 38 LYSO crystals in the prototype device can be clearly delineated [explained in Fig. 6(a) and 6(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The spherical tumor sizes and distribution in the Monte Carlo study were illustrated in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and subsequently using TOF information from POC‐PET systems that have CRTs of 700, 500, 300, and 100 ps FWHM, as simulated in GATE.2.C.2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 27 sampling angles simulated, 22 of them are subdivided into six groups, as illustrated in Fig. 4(a) using color‐coded dashed lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The phantom is imaged from four different angles as shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Detector characterization\nFigure 6(a) and 6(b) show the flood images of two block detectors in the prototype POC‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The measured CRT was around 740 ps FWHM. [Color figure can be viewed at wileyonlinelibrary.com]Figure 6(c) shows the coincidence timing spectrum between the two PET detectors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nUsing the 27 sampling angles defined in Fig. 4(a), the sensitivity image of the prototype POC‐PET system is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(c) shows images reconstructed without TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "More importantly, there is a hot spot (highlighted by the red circle) outside of the cylindrical phantom where the system sensitivity is low [also highlighted in Fig. 7(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, Fig. 7(d) shows images reconstructed with TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "A tumor, 6.3 mm in diameter, was not visible in the images [Fig. 7(c) and 7(d)] due to an operator error that led to trapped air bubbles when filling the tumor with radioactivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Results are shown in Fig. 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the images reconstructed without TOF information, while Fig. 10 shows the corresponding reconstructed images when the detector CRT is 300 ps FWHM.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImages reconstructed without TOF information using different numbers of groups of data.Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Table 1, the reconstruction time for the images in Fig. 10 is approximately 65 s each for ten iterations including the time for writing images into files.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU computation time\n\n\n\nFigure 10(a): Group 1\n62.61 s\n2.45 s\n\n\nFigure 10(b): Group 1 + 5\n63.46 s\n2.93 s\n\n\nFigure 10(c): Group 1 + 5 + 3\n64.65 s\n3.38 s\n\n\nFigure 10(d): Group 1 + 5 + 3 + 6\n64.92 s\n3.74 s\n\n\nFigure 10(e): Group 1 + 5 + 3 + 6 + 4\n65.17 s\n4.15 s\n\n\nFigure 10(f): Group 1 + 5 + 3 + 6 + 4 + 2\n65.91 s\n4.51 s\n\n\n\nOpen in a new tab3.D.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Simulation of a large POC‐PET system for body‐size phantom imaging\nWe reconstructed four images (as shown in Fig. 11) following the sequence described in Section 2.C.3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "However, even with a mere three sampling angles and a total DAQ time of 300 s, the image in Fig. 11(c) can still re‐solve most of the tumors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 12 shows the calculated average CRC as a function of tumor size.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were 4.1%, 8.8%, 13.7%, 16.8%, 15.1%, and 21.3%, respectively, for tumors with diameter ranging from 4 to 11 mm in Fig. 11(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were improved to 5.2%, 10.3%, 14.4%, 23.3%, 24.0%, and 28.7%, respectively, when three groups of data were used for reconstruction as shown in Fig. 12(c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImages reconstructed using list‐mode data from different numbers of sampling angles. (a) Sampling angle 1; (b) Sampling angles 1 + 2; (c) Sampling angles 1 + 2 +  3; (d) Sampling angles 1 + 2 +  3 + 4.Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe average CRC as a function of tumor sizes estimated from the four images in Fig. 11. [Color figure can be viewed at wileyonlinelibrary.com]Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU calculation time\n\n\n\nFigure 12(a): Angle 1\n54.8 s\n5.6 s\n\n\nFigure 12(b): Angle 1 + 2\n76.5 s\n13.5 s\n\n\nFigure 12(c): Angle 1 + 2 + 3\n88.8 s\n21.1 s\n\n\nFigure 12(d): Angle 1 + 2 + 3 + 4\n108.1 s\n29.8 s\n\n\n\nOpen in a new tab4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the structure and workflow of the reconstruction platform.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "System description\nWe constructed a proof‐of‐concept prototype device using two typical PET block detectors, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3 shows the setup of the DAQ system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using the setup described by Fig. 3, 18.4 million coincidence events were collected.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nWe performed an imaging study of a small cylindrical phantom using the prototype system, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2(b) shows the sizes and distribution of the spherical sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We used the robotic arm and the rotation stage to independently move the front and back detectors to seven different locations as illustrated in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The sampling angles between detector pair locations are illustrated by the dash lines in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The tumors were each placed at the center slice of the cylindrical phantom. [Color figure can be viewed at wileyonlinelibrary.com]List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and secondly using TOF information based on the CRT of the system as characterized in the previous section.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The system setup and sample angles in the simulation study were the same as those in Fig. 4(a) except that the front and back detectors are made of an array of 38 × 38 LYSO crystals of 1 × 1 ×  10 mm3 each.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This is because only the central 38 × 38 LYSO crystals in the prototype device can be clearly delineated [explained in Fig. 6(a) and 6(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The spherical tumor sizes and distribution in the Monte Carlo study were illustrated in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and subsequently using TOF information from POC‐PET systems that have CRTs of 700, 500, 300, and 100 ps FWHM, as simulated in GATE.2.C.2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 27 sampling angles simulated, 22 of them are subdivided into six groups, as illustrated in Fig. 4(a) using color‐coded dashed lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The phantom is imaged from four different angles as shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Detector characterization\nFigure 6(a) and 6(b) show the flood images of two block detectors in the prototype POC‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The measured CRT was around 740 ps FWHM. [Color figure can be viewed at wileyonlinelibrary.com]Figure 6(c) shows the coincidence timing spectrum between the two PET detectors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nUsing the 27 sampling angles defined in Fig. 4(a), the sensitivity image of the prototype POC‐PET system is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(c) shows images reconstructed without TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "More importantly, there is a hot spot (highlighted by the red circle) outside of the cylindrical phantom where the system sensitivity is low [also highlighted in Fig. 7(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, Fig. 7(d) shows images reconstructed with TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "A tumor, 6.3 mm in diameter, was not visible in the images [Fig. 7(c) and 7(d)] due to an operator error that led to trapped air bubbles when filling the tumor with radioactivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Results are shown in Fig. 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the images reconstructed without TOF information, while Fig. 10 shows the corresponding reconstructed images when the detector CRT is 300 ps FWHM.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImages reconstructed without TOF information using different numbers of groups of data.Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Table 1, the reconstruction time for the images in Fig. 10 is approximately 65 s each for ten iterations including the time for writing images into files.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU computation time\n\n\n\nFigure 10(a): Group 1\n62.61 s\n2.45 s\n\n\nFigure 10(b): Group 1 + 5\n63.46 s\n2.93 s\n\n\nFigure 10(c): Group 1 + 5 + 3\n64.65 s\n3.38 s\n\n\nFigure 10(d): Group 1 + 5 + 3 + 6\n64.92 s\n3.74 s\n\n\nFigure 10(e): Group 1 + 5 + 3 + 6 + 4\n65.17 s\n4.15 s\n\n\nFigure 10(f): Group 1 + 5 + 3 + 6 + 4 + 2\n65.91 s\n4.51 s\n\n\n\nOpen in a new tab3.D.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Simulation of a large POC‐PET system for body‐size phantom imaging\nWe reconstructed four images (as shown in Fig. 11) following the sequence described in Section 2.C.3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "However, even with a mere three sampling angles and a total DAQ time of 300 s, the image in Fig. 11(c) can still re‐solve most of the tumors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 12 shows the calculated average CRC as a function of tumor size.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were 4.1%, 8.8%, 13.7%, 16.8%, 15.1%, and 21.3%, respectively, for tumors with diameter ranging from 4 to 11 mm in Fig. 11(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were improved to 5.2%, 10.3%, 14.4%, 23.3%, 24.0%, and 28.7%, respectively, when three groups of data were used for reconstruction as shown in Fig. 12(c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImages reconstructed using list‐mode data from different numbers of sampling angles. (a) Sampling angle 1; (b) Sampling angles 1 + 2; (c) Sampling angles 1 + 2 +  3; (d) Sampling angles 1 + 2 +  3 + 4.Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe average CRC as a function of tumor sizes estimated from the four images in Fig. 11. [Color figure can be viewed at wileyonlinelibrary.com]Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU calculation time\n\n\n\nFigure 12(a): Angle 1\n54.8 s\n5.6 s\n\n\nFigure 12(b): Angle 1 + 2\n76.5 s\n13.5 s\n\n\nFigure 12(c): Angle 1 + 2 + 3\n88.8 s\n21.1 s\n\n\nFigure 12(d): Angle 1 + 2 + 3 + 4\n108.1 s\n29.8 s\n\n\n\nOpen in a new tab4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the structure and workflow of the reconstruction platform.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "System description\nWe constructed a proof‐of‐concept prototype device using two typical PET block detectors, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3 shows the setup of the DAQ system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using the setup described by Fig. 3, 18.4 million coincidence events were collected.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nWe performed an imaging study of a small cylindrical phantom using the prototype system, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2(b) shows the sizes and distribution of the spherical sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We used the robotic arm and the rotation stage to independently move the front and back detectors to seven different locations as illustrated in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The sampling angles between detector pair locations are illustrated by the dash lines in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The tumors were each placed at the center slice of the cylindrical phantom. [Color figure can be viewed at wileyonlinelibrary.com]List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and secondly using TOF information based on the CRT of the system as characterized in the previous section.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The system setup and sample angles in the simulation study were the same as those in Fig. 4(a) except that the front and back detectors are made of an array of 38 × 38 LYSO crystals of 1 × 1 ×  10 mm3 each.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This is because only the central 38 × 38 LYSO crystals in the prototype device can be clearly delineated [explained in Fig. 6(a) and 6(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The spherical tumor sizes and distribution in the Monte Carlo study were illustrated in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and subsequently using TOF information from POC‐PET systems that have CRTs of 700, 500, 300, and 100 ps FWHM, as simulated in GATE.2.C.2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 27 sampling angles simulated, 22 of them are subdivided into six groups, as illustrated in Fig. 4(a) using color‐coded dashed lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The phantom is imaged from four different angles as shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Detector characterization\nFigure 6(a) and 6(b) show the flood images of two block detectors in the prototype POC‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The measured CRT was around 740 ps FWHM. [Color figure can be viewed at wileyonlinelibrary.com]Figure 6(c) shows the coincidence timing spectrum between the two PET detectors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nUsing the 27 sampling angles defined in Fig. 4(a), the sensitivity image of the prototype POC‐PET system is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(c) shows images reconstructed without TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "More importantly, there is a hot spot (highlighted by the red circle) outside of the cylindrical phantom where the system sensitivity is low [also highlighted in Fig. 7(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, Fig. 7(d) shows images reconstructed with TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "A tumor, 6.3 mm in diameter, was not visible in the images [Fig. 7(c) and 7(d)] due to an operator error that led to trapped air bubbles when filling the tumor with radioactivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Results are shown in Fig. 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the images reconstructed without TOF information, while Fig. 10 shows the corresponding reconstructed images when the detector CRT is 300 ps FWHM.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImages reconstructed without TOF information using different numbers of groups of data.Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Table 1, the reconstruction time for the images in Fig. 10 is approximately 65 s each for ten iterations including the time for writing images into files.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU computation time\n\n\n\nFigure 10(a): Group 1\n62.61 s\n2.45 s\n\n\nFigure 10(b): Group 1 + 5\n63.46 s\n2.93 s\n\n\nFigure 10(c): Group 1 + 5 + 3\n64.65 s\n3.38 s\n\n\nFigure 10(d): Group 1 + 5 + 3 + 6\n64.92 s\n3.74 s\n\n\nFigure 10(e): Group 1 + 5 + 3 + 6 + 4\n65.17 s\n4.15 s\n\n\nFigure 10(f): Group 1 + 5 + 3 + 6 + 4 + 2\n65.91 s\n4.51 s\n\n\n\nOpen in a new tab3.D.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Simulation of a large POC‐PET system for body‐size phantom imaging\nWe reconstructed four images (as shown in Fig. 11) following the sequence described in Section 2.C.3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "However, even with a mere three sampling angles and a total DAQ time of 300 s, the image in Fig. 11(c) can still re‐solve most of the tumors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 12 shows the calculated average CRC as a function of tumor size.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were 4.1%, 8.8%, 13.7%, 16.8%, 15.1%, and 21.3%, respectively, for tumors with diameter ranging from 4 to 11 mm in Fig. 11(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were improved to 5.2%, 10.3%, 14.4%, 23.3%, 24.0%, and 28.7%, respectively, when three groups of data were used for reconstruction as shown in Fig. 12(c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImages reconstructed using list‐mode data from different numbers of sampling angles. (a) Sampling angle 1; (b) Sampling angles 1 + 2; (c) Sampling angles 1 + 2 +  3; (d) Sampling angles 1 + 2 +  3 + 4.Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe average CRC as a function of tumor sizes estimated from the four images in Fig. 11. [Color figure can be viewed at wileyonlinelibrary.com]Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU calculation time\n\n\n\nFigure 12(a): Angle 1\n54.8 s\n5.6 s\n\n\nFigure 12(b): Angle 1 + 2\n76.5 s\n13.5 s\n\n\nFigure 12(c): Angle 1 + 2 + 3\n88.8 s\n21.1 s\n\n\nFigure 12(d): Angle 1 + 2 + 3 + 4\n108.1 s\n29.8 s\n\n\n\nOpen in a new tab4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the structure and workflow of the reconstruction platform.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "System description\nWe constructed a proof‐of‐concept prototype device using two typical PET block detectors, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3 shows the setup of the DAQ system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using the setup described by Fig. 3, 18.4 million coincidence events were collected.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nWe performed an imaging study of a small cylindrical phantom using the prototype system, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2(b) shows the sizes and distribution of the spherical sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We used the robotic arm and the rotation stage to independently move the front and back detectors to seven different locations as illustrated in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The sampling angles between detector pair locations are illustrated by the dash lines in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The tumors were each placed at the center slice of the cylindrical phantom. [Color figure can be viewed at wileyonlinelibrary.com]List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and secondly using TOF information based on the CRT of the system as characterized in the previous section.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The system setup and sample angles in the simulation study were the same as those in Fig. 4(a) except that the front and back detectors are made of an array of 38 × 38 LYSO crystals of 1 × 1 ×  10 mm3 each.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This is because only the central 38 × 38 LYSO crystals in the prototype device can be clearly delineated [explained in Fig. 6(a) and 6(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The spherical tumor sizes and distribution in the Monte Carlo study were illustrated in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and subsequently using TOF information from POC‐PET systems that have CRTs of 700, 500, 300, and 100 ps FWHM, as simulated in GATE.2.C.2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 27 sampling angles simulated, 22 of them are subdivided into six groups, as illustrated in Fig. 4(a) using color‐coded dashed lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The phantom is imaged from four different angles as shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Detector characterization\nFigure 6(a) and 6(b) show the flood images of two block detectors in the prototype POC‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The measured CRT was around 740 ps FWHM. [Color figure can be viewed at wileyonlinelibrary.com]Figure 6(c) shows the coincidence timing spectrum between the two PET detectors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nUsing the 27 sampling angles defined in Fig. 4(a), the sensitivity image of the prototype POC‐PET system is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(c) shows images reconstructed without TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "More importantly, there is a hot spot (highlighted by the red circle) outside of the cylindrical phantom where the system sensitivity is low [also highlighted in Fig. 7(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, Fig. 7(d) shows images reconstructed with TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "A tumor, 6.3 mm in diameter, was not visible in the images [Fig. 7(c) and 7(d)] due to an operator error that led to trapped air bubbles when filling the tumor with radioactivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Results are shown in Fig. 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the images reconstructed without TOF information, while Fig. 10 shows the corresponding reconstructed images when the detector CRT is 300 ps FWHM.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImages reconstructed without TOF information using different numbers of groups of data.Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Table 1, the reconstruction time for the images in Fig. 10 is approximately 65 s each for ten iterations including the time for writing images into files.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU computation time\n\n\n\nFigure 10(a): Group 1\n62.61 s\n2.45 s\n\n\nFigure 10(b): Group 1 + 5\n63.46 s\n2.93 s\n\n\nFigure 10(c): Group 1 + 5 + 3\n64.65 s\n3.38 s\n\n\nFigure 10(d): Group 1 + 5 + 3 + 6\n64.92 s\n3.74 s\n\n\nFigure 10(e): Group 1 + 5 + 3 + 6 + 4\n65.17 s\n4.15 s\n\n\nFigure 10(f): Group 1 + 5 + 3 + 6 + 4 + 2\n65.91 s\n4.51 s\n\n\n\nOpen in a new tab3.D.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Simulation of a large POC‐PET system for body‐size phantom imaging\nWe reconstructed four images (as shown in Fig. 11) following the sequence described in Section 2.C.3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "However, even with a mere three sampling angles and a total DAQ time of 300 s, the image in Fig. 11(c) can still re‐solve most of the tumors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 12 shows the calculated average CRC as a function of tumor size.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were 4.1%, 8.8%, 13.7%, 16.8%, 15.1%, and 21.3%, respectively, for tumors with diameter ranging from 4 to 11 mm in Fig. 11(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were improved to 5.2%, 10.3%, 14.4%, 23.3%, 24.0%, and 28.7%, respectively, when three groups of data were used for reconstruction as shown in Fig. 12(c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImages reconstructed using list‐mode data from different numbers of sampling angles. (a) Sampling angle 1; (b) Sampling angles 1 + 2; (c) Sampling angles 1 + 2 +  3; (d) Sampling angles 1 + 2 +  3 + 4.Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe average CRC as a function of tumor sizes estimated from the four images in Fig. 11. [Color figure can be viewed at wileyonlinelibrary.com]Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU calculation time\n\n\n\nFigure 12(a): Angle 1\n54.8 s\n5.6 s\n\n\nFigure 12(b): Angle 1 + 2\n76.5 s\n13.5 s\n\n\nFigure 12(c): Angle 1 + 2 + 3\n88.8 s\n21.1 s\n\n\nFigure 12(d): Angle 1 + 2 + 3 + 4\n108.1 s\n29.8 s\n\n\n\nOpen in a new tab4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the structure and workflow of the reconstruction platform.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "System description\nWe constructed a proof‐of‐concept prototype device using two typical PET block detectors, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3 shows the setup of the DAQ system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using the setup described by Fig. 3, 18.4 million coincidence events were collected.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nWe performed an imaging study of a small cylindrical phantom using the prototype system, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2(b) shows the sizes and distribution of the spherical sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We used the robotic arm and the rotation stage to independently move the front and back detectors to seven different locations as illustrated in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The sampling angles between detector pair locations are illustrated by the dash lines in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The tumors were each placed at the center slice of the cylindrical phantom. [Color figure can be viewed at wileyonlinelibrary.com]List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and secondly using TOF information based on the CRT of the system as characterized in the previous section.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The system setup and sample angles in the simulation study were the same as those in Fig. 4(a) except that the front and back detectors are made of an array of 38 × 38 LYSO crystals of 1 × 1 ×  10 mm3 each.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This is because only the central 38 × 38 LYSO crystals in the prototype device can be clearly delineated [explained in Fig. 6(a) and 6(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The spherical tumor sizes and distribution in the Monte Carlo study were illustrated in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and subsequently using TOF information from POC‐PET systems that have CRTs of 700, 500, 300, and 100 ps FWHM, as simulated in GATE.2.C.2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 27 sampling angles simulated, 22 of them are subdivided into six groups, as illustrated in Fig. 4(a) using color‐coded dashed lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The phantom is imaged from four different angles as shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Detector characterization\nFigure 6(a) and 6(b) show the flood images of two block detectors in the prototype POC‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The measured CRT was around 740 ps FWHM. [Color figure can be viewed at wileyonlinelibrary.com]Figure 6(c) shows the coincidence timing spectrum between the two PET detectors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nUsing the 27 sampling angles defined in Fig. 4(a), the sensitivity image of the prototype POC‐PET system is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(c) shows images reconstructed without TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "More importantly, there is a hot spot (highlighted by the red circle) outside of the cylindrical phantom where the system sensitivity is low [also highlighted in Fig. 7(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, Fig. 7(d) shows images reconstructed with TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "A tumor, 6.3 mm in diameter, was not visible in the images [Fig. 7(c) and 7(d)] due to an operator error that led to trapped air bubbles when filling the tumor with radioactivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Results are shown in Fig. 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the images reconstructed without TOF information, while Fig. 10 shows the corresponding reconstructed images when the detector CRT is 300 ps FWHM.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImages reconstructed without TOF information using different numbers of groups of data.Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Table 1, the reconstruction time for the images in Fig. 10 is approximately 65 s each for ten iterations including the time for writing images into files.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU computation time\n\n\n\nFigure 10(a): Group 1\n62.61 s\n2.45 s\n\n\nFigure 10(b): Group 1 + 5\n63.46 s\n2.93 s\n\n\nFigure 10(c): Group 1 + 5 + 3\n64.65 s\n3.38 s\n\n\nFigure 10(d): Group 1 + 5 + 3 + 6\n64.92 s\n3.74 s\n\n\nFigure 10(e): Group 1 + 5 + 3 + 6 + 4\n65.17 s\n4.15 s\n\n\nFigure 10(f): Group 1 + 5 + 3 + 6 + 4 + 2\n65.91 s\n4.51 s\n\n\n\nOpen in a new tab3.D.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Simulation of a large POC‐PET system for body‐size phantom imaging\nWe reconstructed four images (as shown in Fig. 11) following the sequence described in Section 2.C.3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "However, even with a mere three sampling angles and a total DAQ time of 300 s, the image in Fig. 11(c) can still re‐solve most of the tumors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 12 shows the calculated average CRC as a function of tumor size.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were 4.1%, 8.8%, 13.7%, 16.8%, 15.1%, and 21.3%, respectively, for tumors with diameter ranging from 4 to 11 mm in Fig. 11(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were improved to 5.2%, 10.3%, 14.4%, 23.3%, 24.0%, and 28.7%, respectively, when three groups of data were used for reconstruction as shown in Fig. 12(c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImages reconstructed using list‐mode data from different numbers of sampling angles. (a) Sampling angle 1; (b) Sampling angles 1 + 2; (c) Sampling angles 1 + 2 +  3; (d) Sampling angles 1 + 2 +  3 + 4.Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe average CRC as a function of tumor sizes estimated from the four images in Fig. 11. [Color figure can be viewed at wileyonlinelibrary.com]Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU calculation time\n\n\n\nFigure 12(a): Angle 1\n54.8 s\n5.6 s\n\n\nFigure 12(b): Angle 1 + 2\n76.5 s\n13.5 s\n\n\nFigure 12(c): Angle 1 + 2 + 3\n88.8 s\n21.1 s\n\n\nFigure 12(d): Angle 1 + 2 + 3 + 4\n108.1 s\n29.8 s\n\n\n\nOpen in a new tab4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the structure and workflow of the reconstruction platform.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "System description\nWe constructed a proof‐of‐concept prototype device using two typical PET block detectors, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3 shows the setup of the DAQ system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using the setup described by Fig. 3, 18.4 million coincidence events were collected.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nWe performed an imaging study of a small cylindrical phantom using the prototype system, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2(b) shows the sizes and distribution of the spherical sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We used the robotic arm and the rotation stage to independently move the front and back detectors to seven different locations as illustrated in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The sampling angles between detector pair locations are illustrated by the dash lines in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The tumors were each placed at the center slice of the cylindrical phantom. [Color figure can be viewed at wileyonlinelibrary.com]List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and secondly using TOF information based on the CRT of the system as characterized in the previous section.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The system setup and sample angles in the simulation study were the same as those in Fig. 4(a) except that the front and back detectors are made of an array of 38 × 38 LYSO crystals of 1 × 1 ×  10 mm3 each.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This is because only the central 38 × 38 LYSO crystals in the prototype device can be clearly delineated [explained in Fig. 6(a) and 6(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The spherical tumor sizes and distribution in the Monte Carlo study were illustrated in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and subsequently using TOF information from POC‐PET systems that have CRTs of 700, 500, 300, and 100 ps FWHM, as simulated in GATE.2.C.2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 27 sampling angles simulated, 22 of them are subdivided into six groups, as illustrated in Fig. 4(a) using color‐coded dashed lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The phantom is imaged from four different angles as shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Detector characterization\nFigure 6(a) and 6(b) show the flood images of two block detectors in the prototype POC‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The measured CRT was around 740 ps FWHM. [Color figure can be viewed at wileyonlinelibrary.com]Figure 6(c) shows the coincidence timing spectrum between the two PET detectors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nUsing the 27 sampling angles defined in Fig. 4(a), the sensitivity image of the prototype POC‐PET system is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(c) shows images reconstructed without TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "More importantly, there is a hot spot (highlighted by the red circle) outside of the cylindrical phantom where the system sensitivity is low [also highlighted in Fig. 7(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, Fig. 7(d) shows images reconstructed with TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "A tumor, 6.3 mm in diameter, was not visible in the images [Fig. 7(c) and 7(d)] due to an operator error that led to trapped air bubbles when filling the tumor with radioactivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Results are shown in Fig. 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the images reconstructed without TOF information, while Fig. 10 shows the corresponding reconstructed images when the detector CRT is 300 ps FWHM.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImages reconstructed without TOF information using different numbers of groups of data.Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Table 1, the reconstruction time for the images in Fig. 10 is approximately 65 s each for ten iterations including the time for writing images into files.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU computation time\n\n\n\nFigure 10(a): Group 1\n62.61 s\n2.45 s\n\n\nFigure 10(b): Group 1 + 5\n63.46 s\n2.93 s\n\n\nFigure 10(c): Group 1 + 5 + 3\n64.65 s\n3.38 s\n\n\nFigure 10(d): Group 1 + 5 + 3 + 6\n64.92 s\n3.74 s\n\n\nFigure 10(e): Group 1 + 5 + 3 + 6 + 4\n65.17 s\n4.15 s\n\n\nFigure 10(f): Group 1 + 5 + 3 + 6 + 4 + 2\n65.91 s\n4.51 s\n\n\n\nOpen in a new tab3.D.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Simulation of a large POC‐PET system for body‐size phantom imaging\nWe reconstructed four images (as shown in Fig. 11) following the sequence described in Section 2.C.3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "However, even with a mere three sampling angles and a total DAQ time of 300 s, the image in Fig. 11(c) can still re‐solve most of the tumors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 12 shows the calculated average CRC as a function of tumor size.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were 4.1%, 8.8%, 13.7%, 16.8%, 15.1%, and 21.3%, respectively, for tumors with diameter ranging from 4 to 11 mm in Fig. 11(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were improved to 5.2%, 10.3%, 14.4%, 23.3%, 24.0%, and 28.7%, respectively, when three groups of data were used for reconstruction as shown in Fig. 12(c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImages reconstructed using list‐mode data from different numbers of sampling angles. (a) Sampling angle 1; (b) Sampling angles 1 + 2; (c) Sampling angles 1 + 2 +  3; (d) Sampling angles 1 + 2 +  3 + 4.Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe average CRC as a function of tumor sizes estimated from the four images in Fig. 11. [Color figure can be viewed at wileyonlinelibrary.com]Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU calculation time\n\n\n\nFigure 12(a): Angle 1\n54.8 s\n5.6 s\n\n\nFigure 12(b): Angle 1 + 2\n76.5 s\n13.5 s\n\n\nFigure 12(c): Angle 1 + 2 + 3\n88.8 s\n21.1 s\n\n\nFigure 12(d): Angle 1 + 2 + 3 + 4\n108.1 s\n29.8 s\n\n\n\nOpen in a new tab4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the structure and workflow of the reconstruction platform.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "System description\nWe constructed a proof‐of‐concept prototype device using two typical PET block detectors, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3 shows the setup of the DAQ system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using the setup described by Fig. 3, 18.4 million coincidence events were collected.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nWe performed an imaging study of a small cylindrical phantom using the prototype system, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2(b) shows the sizes and distribution of the spherical sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We used the robotic arm and the rotation stage to independently move the front and back detectors to seven different locations as illustrated in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The sampling angles between detector pair locations are illustrated by the dash lines in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The tumors were each placed at the center slice of the cylindrical phantom. [Color figure can be viewed at wileyonlinelibrary.com]List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and secondly using TOF information based on the CRT of the system as characterized in the previous section.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The system setup and sample angles in the simulation study were the same as those in Fig. 4(a) except that the front and back detectors are made of an array of 38 × 38 LYSO crystals of 1 × 1 ×  10 mm3 each.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This is because only the central 38 × 38 LYSO crystals in the prototype device can be clearly delineated [explained in Fig. 6(a) and 6(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The spherical tumor sizes and distribution in the Monte Carlo study were illustrated in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and subsequently using TOF information from POC‐PET systems that have CRTs of 700, 500, 300, and 100 ps FWHM, as simulated in GATE.2.C.2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 27 sampling angles simulated, 22 of them are subdivided into six groups, as illustrated in Fig. 4(a) using color‐coded dashed lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The phantom is imaged from four different angles as shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Detector characterization\nFigure 6(a) and 6(b) show the flood images of two block detectors in the prototype POC‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The measured CRT was around 740 ps FWHM. [Color figure can be viewed at wileyonlinelibrary.com]Figure 6(c) shows the coincidence timing spectrum between the two PET detectors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nUsing the 27 sampling angles defined in Fig. 4(a), the sensitivity image of the prototype POC‐PET system is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(c) shows images reconstructed without TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "More importantly, there is a hot spot (highlighted by the red circle) outside of the cylindrical phantom where the system sensitivity is low [also highlighted in Fig. 7(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, Fig. 7(d) shows images reconstructed with TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "A tumor, 6.3 mm in diameter, was not visible in the images [Fig. 7(c) and 7(d)] due to an operator error that led to trapped air bubbles when filling the tumor with radioactivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Results are shown in Fig. 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the images reconstructed without TOF information, while Fig. 10 shows the corresponding reconstructed images when the detector CRT is 300 ps FWHM.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImages reconstructed without TOF information using different numbers of groups of data.Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Table 1, the reconstruction time for the images in Fig. 10 is approximately 65 s each for ten iterations including the time for writing images into files.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU computation time\n\n\n\nFigure 10(a): Group 1\n62.61 s\n2.45 s\n\n\nFigure 10(b): Group 1 + 5\n63.46 s\n2.93 s\n\n\nFigure 10(c): Group 1 + 5 + 3\n64.65 s\n3.38 s\n\n\nFigure 10(d): Group 1 + 5 + 3 + 6\n64.92 s\n3.74 s\n\n\nFigure 10(e): Group 1 + 5 + 3 + 6 + 4\n65.17 s\n4.15 s\n\n\nFigure 10(f): Group 1 + 5 + 3 + 6 + 4 + 2\n65.91 s\n4.51 s\n\n\n\nOpen in a new tab3.D.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Simulation of a large POC‐PET system for body‐size phantom imaging\nWe reconstructed four images (as shown in Fig. 11) following the sequence described in Section 2.C.3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "However, even with a mere three sampling angles and a total DAQ time of 300 s, the image in Fig. 11(c) can still re‐solve most of the tumors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 12 shows the calculated average CRC as a function of tumor size.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were 4.1%, 8.8%, 13.7%, 16.8%, 15.1%, and 21.3%, respectively, for tumors with diameter ranging from 4 to 11 mm in Fig. 11(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were improved to 5.2%, 10.3%, 14.4%, 23.3%, 24.0%, and 28.7%, respectively, when three groups of data were used for reconstruction as shown in Fig. 12(c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImages reconstructed using list‐mode data from different numbers of sampling angles. (a) Sampling angle 1; (b) Sampling angles 1 + 2; (c) Sampling angles 1 + 2 +  3; (d) Sampling angles 1 + 2 +  3 + 4.Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe average CRC as a function of tumor sizes estimated from the four images in Fig. 11. [Color figure can be viewed at wileyonlinelibrary.com]Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU calculation time\n\n\n\nFigure 12(a): Angle 1\n54.8 s\n5.6 s\n\n\nFigure 12(b): Angle 1 + 2\n76.5 s\n13.5 s\n\n\nFigure 12(c): Angle 1 + 2 + 3\n88.8 s\n21.1 s\n\n\nFigure 12(d): Angle 1 + 2 + 3 + 4\n108.1 s\n29.8 s\n\n\n\nOpen in a new tab4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the structure and workflow of the reconstruction platform.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "System description\nWe constructed a proof‐of‐concept prototype device using two typical PET block detectors, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3 shows the setup of the DAQ system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using the setup described by Fig. 3, 18.4 million coincidence events were collected.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nWe performed an imaging study of a small cylindrical phantom using the prototype system, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2(b) shows the sizes and distribution of the spherical sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We used the robotic arm and the rotation stage to independently move the front and back detectors to seven different locations as illustrated in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The sampling angles between detector pair locations are illustrated by the dash lines in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The tumors were each placed at the center slice of the cylindrical phantom. [Color figure can be viewed at wileyonlinelibrary.com]List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and secondly using TOF information based on the CRT of the system as characterized in the previous section.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The system setup and sample angles in the simulation study were the same as those in Fig. 4(a) except that the front and back detectors are made of an array of 38 × 38 LYSO crystals of 1 × 1 ×  10 mm3 each.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This is because only the central 38 × 38 LYSO crystals in the prototype device can be clearly delineated [explained in Fig. 6(a) and 6(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The spherical tumor sizes and distribution in the Monte Carlo study were illustrated in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and subsequently using TOF information from POC‐PET systems that have CRTs of 700, 500, 300, and 100 ps FWHM, as simulated in GATE.2.C.2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 27 sampling angles simulated, 22 of them are subdivided into six groups, as illustrated in Fig. 4(a) using color‐coded dashed lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The phantom is imaged from four different angles as shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Detector characterization\nFigure 6(a) and 6(b) show the flood images of two block detectors in the prototype POC‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The measured CRT was around 740 ps FWHM. [Color figure can be viewed at wileyonlinelibrary.com]Figure 6(c) shows the coincidence timing spectrum between the two PET detectors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nUsing the 27 sampling angles defined in Fig. 4(a), the sensitivity image of the prototype POC‐PET system is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(c) shows images reconstructed without TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "More importantly, there is a hot spot (highlighted by the red circle) outside of the cylindrical phantom where the system sensitivity is low [also highlighted in Fig. 7(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, Fig. 7(d) shows images reconstructed with TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "A tumor, 6.3 mm in diameter, was not visible in the images [Fig. 7(c) and 7(d)] due to an operator error that led to trapped air bubbles when filling the tumor with radioactivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Results are shown in Fig. 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the images reconstructed without TOF information, while Fig. 10 shows the corresponding reconstructed images when the detector CRT is 300 ps FWHM.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImages reconstructed without TOF information using different numbers of groups of data.Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Table 1, the reconstruction time for the images in Fig. 10 is approximately 65 s each for ten iterations including the time for writing images into files.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU computation time\n\n\n\nFigure 10(a): Group 1\n62.61 s\n2.45 s\n\n\nFigure 10(b): Group 1 + 5\n63.46 s\n2.93 s\n\n\nFigure 10(c): Group 1 + 5 + 3\n64.65 s\n3.38 s\n\n\nFigure 10(d): Group 1 + 5 + 3 + 6\n64.92 s\n3.74 s\n\n\nFigure 10(e): Group 1 + 5 + 3 + 6 + 4\n65.17 s\n4.15 s\n\n\nFigure 10(f): Group 1 + 5 + 3 + 6 + 4 + 2\n65.91 s\n4.51 s\n\n\n\nOpen in a new tab3.D.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Simulation of a large POC‐PET system for body‐size phantom imaging\nWe reconstructed four images (as shown in Fig. 11) following the sequence described in Section 2.C.3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "However, even with a mere three sampling angles and a total DAQ time of 300 s, the image in Fig. 11(c) can still re‐solve most of the tumors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 12 shows the calculated average CRC as a function of tumor size.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were 4.1%, 8.8%, 13.7%, 16.8%, 15.1%, and 21.3%, respectively, for tumors with diameter ranging from 4 to 11 mm in Fig. 11(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were improved to 5.2%, 10.3%, 14.4%, 23.3%, 24.0%, and 28.7%, respectively, when three groups of data were used for reconstruction as shown in Fig. 12(c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImages reconstructed using list‐mode data from different numbers of sampling angles. (a) Sampling angle 1; (b) Sampling angles 1 + 2; (c) Sampling angles 1 + 2 +  3; (d) Sampling angles 1 + 2 +  3 + 4.Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe average CRC as a function of tumor sizes estimated from the four images in Fig. 11. [Color figure can be viewed at wileyonlinelibrary.com]Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU calculation time\n\n\n\nFigure 12(a): Angle 1\n54.8 s\n5.6 s\n\n\nFigure 12(b): Angle 1 + 2\n76.5 s\n13.5 s\n\n\nFigure 12(c): Angle 1 + 2 + 3\n88.8 s\n21.1 s\n\n\nFigure 12(d): Angle 1 + 2 + 3 + 4\n108.1 s\n29.8 s\n\n\n\nOpen in a new tab4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the structure and workflow of the reconstruction platform.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "System description\nWe constructed a proof‐of‐concept prototype device using two typical PET block detectors, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3 shows the setup of the DAQ system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using the setup described by Fig. 3, 18.4 million coincidence events were collected.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nWe performed an imaging study of a small cylindrical phantom using the prototype system, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2(b) shows the sizes and distribution of the spherical sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We used the robotic arm and the rotation stage to independently move the front and back detectors to seven different locations as illustrated in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The sampling angles between detector pair locations are illustrated by the dash lines in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The tumors were each placed at the center slice of the cylindrical phantom. [Color figure can be viewed at wileyonlinelibrary.com]List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and secondly using TOF information based on the CRT of the system as characterized in the previous section.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The system setup and sample angles in the simulation study were the same as those in Fig. 4(a) except that the front and back detectors are made of an array of 38 × 38 LYSO crystals of 1 × 1 ×  10 mm3 each.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This is because only the central 38 × 38 LYSO crystals in the prototype device can be clearly delineated [explained in Fig. 6(a) and 6(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The spherical tumor sizes and distribution in the Monte Carlo study were illustrated in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and subsequently using TOF information from POC‐PET systems that have CRTs of 700, 500, 300, and 100 ps FWHM, as simulated in GATE.2.C.2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 27 sampling angles simulated, 22 of them are subdivided into six groups, as illustrated in Fig. 4(a) using color‐coded dashed lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The phantom is imaged from four different angles as shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the structure and workflow of the reconstruction platform.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the structure and workflow of the reconstruction platform.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows the structure and workflow of the reconstruction platform.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "System description\nWe constructed a proof‐of‐concept prototype device using two typical PET block detectors, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3 shows the setup of the DAQ system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using the setup described by Fig. 3, 18.4 million coincidence events were collected.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nWe performed an imaging study of a small cylindrical phantom using the prototype system, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2(b) shows the sizes and distribution of the spherical sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We used the robotic arm and the rotation stage to independently move the front and back detectors to seven different locations as illustrated in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The sampling angles between detector pair locations are illustrated by the dash lines in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The tumors were each placed at the center slice of the cylindrical phantom. [Color figure can be viewed at wileyonlinelibrary.com]List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and secondly using TOF information based on the CRT of the system as characterized in the previous section.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "System description\nWe constructed a proof‐of‐concept prototype device using two typical PET block detectors, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We constructed a proof‐of‐concept prototype device using two typical PET block detectors, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3 shows the setup of the DAQ system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 3 shows the setup of the DAQ system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using the setup described by Fig. 3, 18.4 million coincidence events were collected.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Using the setup described by Fig. 3, 18.4 million coincidence events were collected.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nWe performed an imaging study of a small cylindrical phantom using the prototype system, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2(b) shows the sizes and distribution of the spherical sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We used the robotic arm and the rotation stage to independently move the front and back detectors to seven different locations as illustrated in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The sampling angles between detector pair locations are illustrated by the dash lines in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The tumors were each placed at the center slice of the cylindrical phantom. [Color figure can be viewed at wileyonlinelibrary.com]List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and secondly using TOF information based on the CRT of the system as characterized in the previous section.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We performed an imaging study of a small cylindrical phantom using the prototype system, as shown in Fig. 2(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2(b) shows the sizes and distribution of the spherical sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We used the robotic arm and the rotation stage to independently move the front and back detectors to seven different locations as illustrated in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The sampling angles between detector pair locations are illustrated by the dash lines in Fig. 4(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and secondly using TOF information based on the CRT of the system as characterized in the previous section.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The system setup and sample angles in the simulation study were the same as those in Fig. 4(a) except that the front and back detectors are made of an array of 38 × 38 LYSO crystals of 1 × 1 ×  10 mm3 each.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This is because only the central 38 × 38 LYSO crystals in the prototype device can be clearly delineated [explained in Fig. 6(a) and 6(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The spherical tumor sizes and distribution in the Monte Carlo study were illustrated in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and subsequently using TOF information from POC‐PET systems that have CRTs of 700, 500, 300, and 100 ps FWHM, as simulated in GATE.2.C.2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 27 sampling angles simulated, 22 of them are subdivided into six groups, as illustrated in Fig. 4(a) using color‐coded dashed lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The phantom is imaged from four different angles as shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The system setup and sample angles in the simulation study were the same as those in Fig. 4(a) except that the front and back detectors are made of an array of 38 × 38 LYSO crystals of 1 × 1 ×  10 mm3 each.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This is because only the central 38 × 38 LYSO crystals in the prototype device can be clearly delineated [explained in Fig. 6(a) and 6(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The spherical tumor sizes and distribution in the Monte Carlo study were illustrated in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and subsequently using TOF information from POC‐PET systems that have CRTs of 700, 500, 300, and 100 ps FWHM, as simulated in GATE.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The system setup and sample angles in the simulation study were the same as those in Fig. 4(a) except that the front and back detectors are made of an array of 38 × 38 LYSO crystals of 1 × 1 ×  10 mm3 each.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "This is because only the central 38 × 38 LYSO crystals in the prototype device can be clearly delineated [explained in Fig. 6(a) and 6(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The spherical tumor sizes and distribution in the Monte Carlo study were illustrated in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and subsequently using TOF information from POC‐PET systems that have CRTs of 700, 500, 300, and 100 ps FWHM, as simulated in GATE.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 27 sampling angles simulated, 22 of them are subdivided into six groups, as illustrated in Fig. 4(a) using color‐coded dashed lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Of the 27 sampling angles simulated, 22 of them are subdivided into six groups, as illustrated in Fig. 4(a) using color‐coded dashed lines.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The phantom is imaged from four different angles as shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The phantom is imaged from four different angles as shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Detector characterization\nFigure 6(a) and 6(b) show the flood images of two block detectors in the prototype POC‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The measured CRT was around 740 ps FWHM. [Color figure can be viewed at wileyonlinelibrary.com]Figure 6(c) shows the coincidence timing spectrum between the two PET detectors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nUsing the 27 sampling angles defined in Fig. 4(a), the sensitivity image of the prototype POC‐PET system is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(c) shows images reconstructed without TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "More importantly, there is a hot spot (highlighted by the red circle) outside of the cylindrical phantom where the system sensitivity is low [also highlighted in Fig. 7(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, Fig. 7(d) shows images reconstructed with TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "A tumor, 6.3 mm in diameter, was not visible in the images [Fig. 7(c) and 7(d)] due to an operator error that led to trapped air bubbles when filling the tumor with radioactivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Results are shown in Fig. 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the images reconstructed without TOF information, while Fig. 10 shows the corresponding reconstructed images when the detector CRT is 300 ps FWHM.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImages reconstructed without TOF information using different numbers of groups of data.Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Table 1, the reconstruction time for the images in Fig. 10 is approximately 65 s each for ten iterations including the time for writing images into files.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU computation time\n\n\n\nFigure 10(a): Group 1\n62.61 s\n2.45 s\n\n\nFigure 10(b): Group 1 + 5\n63.46 s\n2.93 s\n\n\nFigure 10(c): Group 1 + 5 + 3\n64.65 s\n3.38 s\n\n\nFigure 10(d): Group 1 + 5 + 3 + 6\n64.92 s\n3.74 s\n\n\nFigure 10(e): Group 1 + 5 + 3 + 6 + 4\n65.17 s\n4.15 s\n\n\nFigure 10(f): Group 1 + 5 + 3 + 6 + 4 + 2\n65.91 s\n4.51 s\n\n\n\nOpen in a new tab3.D.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Simulation of a large POC‐PET system for body‐size phantom imaging\nWe reconstructed four images (as shown in Fig. 11) following the sequence described in Section 2.C.3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "However, even with a mere three sampling angles and a total DAQ time of 300 s, the image in Fig. 11(c) can still re‐solve most of the tumors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 12 shows the calculated average CRC as a function of tumor size.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were 4.1%, 8.8%, 13.7%, 16.8%, 15.1%, and 21.3%, respectively, for tumors with diameter ranging from 4 to 11 mm in Fig. 11(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were improved to 5.2%, 10.3%, 14.4%, 23.3%, 24.0%, and 28.7%, respectively, when three groups of data were used for reconstruction as shown in Fig. 12(c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImages reconstructed using list‐mode data from different numbers of sampling angles. (a) Sampling angle 1; (b) Sampling angles 1 + 2; (c) Sampling angles 1 + 2 +  3; (d) Sampling angles 1 + 2 +  3 + 4.Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe average CRC as a function of tumor sizes estimated from the four images in Fig. 11. [Color figure can be viewed at wileyonlinelibrary.com]Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU calculation time\n\n\n\nFigure 12(a): Angle 1\n54.8 s\n5.6 s\n\n\nFigure 12(b): Angle 1 + 2\n76.5 s\n13.5 s\n\n\nFigure 12(c): Angle 1 + 2 + 3\n88.8 s\n21.1 s\n\n\nFigure 12(d): Angle 1 + 2 + 3 + 4\n108.1 s\n29.8 s\n\n\n\nOpen in a new tab.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Detector characterization\nFigure 6(a) and 6(b) show the flood images of two block detectors in the prototype POC‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The measured CRT was around 740 ps FWHM. [Color figure can be viewed at wileyonlinelibrary.com]Figure 6(c) shows the coincidence timing spectrum between the two PET detectors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nUsing the 27 sampling angles defined in Fig. 4(a), the sensitivity image of the prototype POC‐PET system is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(c) shows images reconstructed without TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "More importantly, there is a hot spot (highlighted by the red circle) outside of the cylindrical phantom where the system sensitivity is low [also highlighted in Fig. 7(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, Fig. 7(d) shows images reconstructed with TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "A tumor, 6.3 mm in diameter, was not visible in the images [Fig. 7(c) and 7(d)] due to an operator error that led to trapped air bubbles when filling the tumor with radioactivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Detector characterization\nFigure 6(a) and 6(b) show the flood images of two block detectors in the prototype POC‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "The measured CRT was around 740 ps FWHM. [Color figure can be viewed at wileyonlinelibrary.com]Figure 6(c) shows the coincidence timing spectrum between the two PET detectors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6(a) and 6(b) show the flood images of two block detectors in the prototype POC‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6(c) shows the coincidence timing spectrum between the two PET detectors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging\nUsing the 27 sampling angles defined in Fig. 4(a), the sensitivity image of the prototype POC‐PET system is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(c) shows images reconstructed without TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "More importantly, there is a hot spot (highlighted by the red circle) outside of the cylindrical phantom where the system sensitivity is low [also highlighted in Fig. 7(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, Fig. 7(d) shows images reconstructed with TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "A tumor, 6.3 mm in diameter, was not visible in the images [Fig. 7(c) and 7(d)] due to an operator error that led to trapped air bubbles when filling the tumor with radioactivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Using the 27 sampling angles defined in Fig. 4(a), the sensitivity image of the prototype POC‐PET system is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(c) shows images reconstructed without TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "More importantly, there is a hot spot (highlighted by the red circle) outside of the cylindrical phantom where the system sensitivity is low [also highlighted in Fig. 7(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In contrast, Fig. 7(d) shows images reconstructed with TOF information.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "A tumor, 6.3 mm in diameter, was not visible in the images [Fig. 7(c) and 7(d)] due to an operator error that led to trapped air bubbles when filling the tumor with radioactivity.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Results are shown in Fig. 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Results are shown in Fig. 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the images reconstructed without TOF information, while Fig. 10 shows the corresponding reconstructed images when the detector CRT is 300 ps FWHM.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImages reconstructed without TOF information using different numbers of groups of data.Figure 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Table 1, the reconstruction time for the images in Fig. 10 is approximately 65 s each for ten iterations including the time for writing images into files.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU computation time\n\n\n\nFigure 10(a): Group 1\n62.61 s\n2.45 s\n\n\nFigure 10(b): Group 1 + 5\n63.46 s\n2.93 s\n\n\nFigure 10(c): Group 1 + 5 + 3\n64.65 s\n3.38 s\n\n\nFigure 10(d): Group 1 + 5 + 3 + 6\n64.92 s\n3.74 s\n\n\nFigure 10(e): Group 1 + 5 + 3 + 6 + 4\n65.17 s\n4.15 s\n\n\nFigure 10(f): Group 1 + 5 + 3 + 6 + 4 + 2\n65.91 s\n4.51 s\n\n\n\nOpen in a new tab.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the images reconstructed without TOF information, while Fig. 10 shows the corresponding reconstructed images when the detector CRT is 300 ps FWHM.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Table 1, the reconstruction time for the images in Fig. 10 is approximately 65 s each for ten iterations including the time for writing images into files.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU computation time\n\n\n\nFigure 10(a): Group 1\n62.61 s\n2.45 s\n\n\nFigure 10(b): Group 1 + 5\n63.46 s\n2.93 s\n\n\nFigure 10(c): Group 1 + 5 + 3\n64.65 s\n3.38 s\n\n\nFigure 10(d): Group 1 + 5 + 3 + 6\n64.92 s\n3.74 s\n\n\nFigure 10(e): Group 1 + 5 + 3 + 6 + 4\n65.17 s\n4.15 s\n\n\nFigure 10(f): Group 1 + 5 + 3 + 6 + 4 + 2\n65.91 s\n4.51 s\n\n\n\nOpen in a new tab.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Fig. 10.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Images\nOverall reconstruction time\nGPU computation time\n\n\n\nFigure 10(a): Group 1\n62.61 s\n2.45 s\n\n\nFigure 10(b): Group 1 + 5\n63.46 s\n2.93 s\n\n\nFigure 10(c): Group 1 + 5 + 3\n64.65 s\n3.38 s\n\n\nFigure 10(d): Group 1 + 5 + 3 + 6\n64.92 s\n3.74 s\n\n\nFigure 10(e): Group 1 + 5 + 3 + 6 + 4\n65.17 s\n4.15 s\n\n\nFigure 10(f): Group 1 + 5 + 3 + 6 + 4 + 2\n65.91 s\n4.51 s.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Simulation of a large POC‐PET system for body‐size phantom imaging\nWe reconstructed four images (as shown in Fig. 11) following the sequence described in Section 2.C.3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "However, even with a mere three sampling angles and a total DAQ time of 300 s, the image in Fig. 11(c) can still re‐solve most of the tumors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 12 shows the calculated average CRC as a function of tumor size.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were 4.1%, 8.8%, 13.7%, 16.8%, 15.1%, and 21.3%, respectively, for tumors with diameter ranging from 4 to 11 mm in Fig. 11(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were improved to 5.2%, 10.3%, 14.4%, 23.3%, 24.0%, and 28.7%, respectively, when three groups of data were used for reconstruction as shown in Fig. 12(c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nImages reconstructed using list‐mode data from different numbers of sampling angles. (a) Sampling angle 1; (b) Sampling angles 1 + 2; (c) Sampling angles 1 + 2 +  3; (d) Sampling angles 1 + 2 +  3 + 4.Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe average CRC as a function of tumor sizes estimated from the four images in Fig. 11. [Color figure can be viewed at wileyonlinelibrary.com]Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU calculation time\n\n\n\nFigure 12(a): Angle 1\n54.8 s\n5.6 s\n\n\nFigure 12(b): Angle 1 + 2\n76.5 s\n13.5 s\n\n\nFigure 12(c): Angle 1 + 2 + 3\n88.8 s\n21.1 s\n\n\nFigure 12(d): Angle 1 + 2 + 3 + 4\n108.1 s\n29.8 s\n\n\n\nOpen in a new tab.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "We reconstructed four images (as shown in Fig. 11) following the sequence described in Section 2.C.3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "However, even with a mere three sampling angles and a total DAQ time of 300 s, the image in Fig. 11(c) can still re‐solve most of the tumors.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 12 shows the calculated average CRC as a function of tumor size.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were 4.1%, 8.8%, 13.7%, 16.8%, 15.1%, and 21.3%, respectively, for tumors with diameter ranging from 4 to 11 mm in Fig. 11(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRCs were improved to 5.2%, 10.3%, 14.4%, 23.3%, 24.0%, and 28.7%, respectively, when three groups of data were used for reconstruction as shown in Fig. 12(c).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "The average CRC as a function of tumor sizes estimated from the four images in Fig. 11. [Color figure can be viewed at wileyonlinelibrary.com].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction\n\n\n\n\n\nImages\nOverall reconstruction time\nGPU calculation time\n\n\n\nFigure 12(a): Angle 1\n54.8 s\n5.6 s\n\n\nFigure 12(b): Angle 1 + 2\n76.5 s\n13.5 s\n\n\nFigure 12(c): Angle 1 + 2 + 3\n88.8 s\n21.1 s\n\n\nFigure 12(d): Angle 1 + 2 + 3 + 4\n108.1 s\n29.8 s\n\n\n\nOpen in a new tab.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstruction time for the images shown in Figure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Images\nOverall reconstruction time\nGPU calculation time\n\n\n\nFigure 12(a): Angle 1\n54.8 s\n5.6 s\n\n\nFigure 12(b): Angle 1 + 2\n76.5 s\n13.5 s\n\n\nFigure 12(c): Angle 1 + 2 + 3\n88.8 s\n21.1 s\n\n\nFigure 12(d): Angle 1 + 2 + 3 + 4\n108.1 s\n29.8 s.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      },
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  }
+]

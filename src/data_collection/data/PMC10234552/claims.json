@@ -1,0 +1,1872 @@
+[
+  {
+    "sentence": "Fig 1C shows this RAMP function and how the mean at each bin changes as a function of the average modeled value bin as well as how the method accounts for the nonlinear performance of the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Centers for Disease Control Wide-ranging Online Database for Epidemiologic Research (CDC-WONDER) [77].Results\nHybrid data fusion\nFig 1 shows the progression of the hybrid data fusion model for 2016 annual PM2.5 in the central North Carolina region as an illustration.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1A shows PM2.5 concentrations at 460 12-km grid cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1B shows the hybrid combination of CMAQ and R-LINE at 144,276 census block centroids.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Results show how the hybrid method captures fine-scale gradients near major roads that CMAQ averages out as shown in Fig 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1C shows the shape of the RAMP curve used to correct biases from the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1D shows the final RAMP hybrid product where hybrid concentrations have been adjusted.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The spatial maps from Fig 2 show annual PM2.5 for CMAQ, Hybrid, and RAMP Hybrid at census block level focusing on smaller domains in Boston, MA and Chicago, IL.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe gradient bar represents concentration levels in μg/m3 that range from the smallest 10th percentile of the 3 three models to the highest 90th percentile of the three models for the corresponding domain.For annual NO2 shown in Fig 2, Hybrid and RAMP are capturing higher concentrations near roads in Boston.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Model\n# Of Sites\nFAC2 (%)\nME\nSDE\nRMSE\nMZ\nSDZ\nPearson R2\n\nSpearman ρ2\n\n\n\n\nPM2.5(μg/m3)\n\nCMAQ\n928\n95\n\n0.02\n\n2.29\n2.29\n7.67\n2.64\n0.30\n0.35\n\n\nHybrid\n95\n0.29\n2.30\n2.32\n7.93\n2.71\n0.32\n0.36\n\n\nRAMP Hybrid\n99\n0.08\n\n1.44\n\n\n1.45\n\n7.72\n1.64\n\n0.51\n\n\n0.48\n\n\n\nNO2(ppb)\nCMAQ\n444\n85\n-1.18\n3.47\n3.66\n7.20\n4.82\n0.63\n0.72\n\n\nHybrid\n85\n2.61\n5.36\n6.31\n10.99\n9.04\n0.62\n0.76\n\n\nRAMP Hybrid\n95\n\n0.05\n\n\n2.51\n\n\n2.51\n\n8.43\n4.89\n\n0.81\n\n\n0.84\n\n\n\n\nOpen in a new tab\nNote: FAC2 is percentage of modeled values between a factor of 2 of the observations; ME is the Mean of the Error; SDE is the Standard Deviation of the Error; RMSE is the Root Mean Squared Error; SDZ is the standard deviation of the modeled value; SDO is the standard deviation of the observed value; MZ is the mean of the modeled value; MO is the mean of the observed valueHealth risk assessment\nTo estimate the difference between RAMP hybrid and CMAQ in premature mortality attributable to PM2.5 and NO2, we aggregated all-cause premature mortality for each county in Fig 3 in space.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The lines in each bar correspond to the 95% confidence intervals.The bar plots in Fig 3 shows the 40 counties that had the most difference in premature mortalities between RAMP Hybrid and CMAQ.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 compares the difference of premature mortality attributable to PM2.5 and NO2 between our models (e.g., Hybrid, CMAQ, and RAMP Hybrid) across the U.S. as a function of distance from road.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in the top panel of Fig 5, Madera County has strong exposure inequity patterns that explain within county EIR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The bottom panel of Fig 5 shows that for PM2.5, there are higher concentrations near the city of Madera.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The magnitude of the EIR is larger and the effect of NO2 is more localized and closer to the roads as is shown in the bottom panel of Fig 5, where the highest concentrations follow Highway 99.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Bottom panel shows RAMP Hybrid concentration as circles for PM2.5 (left) and NO2 (right) at census block centroids where the size of the census block centroid is proportional to population, as well as the percent of Minority population (middle) at census block centroids where size of census block is proportional to percent Minority at Madera County, CA.To follow the near-road effect nationwide, we have created Fig 6 which shows the population-weighted exposure using RAMP aggregated for every census block at every 10m from primary roads across the continental U.S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "This figure also shows that not only are Minorities exposed to higher air pollution than their White counterparts in the corridor very near (i.e., within 10 m of) roads, but this exposure inequity persists even at distance of 100m to 1km of roads, where Minorities can be exposed to up to 15% more PM2.5 than the White population and up to 35% more NO2 than the White population (bottom panel of Fig 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1C shows this RAMP function and how the mean at each bin changes as a function of the average modeled value bin as well as how the method accounts for the nonlinear performance of the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Centers for Disease Control Wide-ranging Online Database for Epidemiologic Research (CDC-WONDER) [77].Results\nHybrid data fusion\nFig 1 shows the progression of the hybrid data fusion model for 2016 annual PM2.5 in the central North Carolina region as an illustration.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1A shows PM2.5 concentrations at 460 12-km grid cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1B shows the hybrid combination of CMAQ and R-LINE at 144,276 census block centroids.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Results show how the hybrid method captures fine-scale gradients near major roads that CMAQ averages out as shown in Fig 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1C shows the shape of the RAMP curve used to correct biases from the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1D shows the final RAMP hybrid product where hybrid concentrations have been adjusted.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The spatial maps from Fig 2 show annual PM2.5 for CMAQ, Hybrid, and RAMP Hybrid at census block level focusing on smaller domains in Boston, MA and Chicago, IL.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe gradient bar represents concentration levels in μg/m3 that range from the smallest 10th percentile of the 3 three models to the highest 90th percentile of the three models for the corresponding domain.For annual NO2 shown in Fig 2, Hybrid and RAMP are capturing higher concentrations near roads in Boston.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Model\n# Of Sites\nFAC2 (%)\nME\nSDE\nRMSE\nMZ\nSDZ\nPearson R2\n\nSpearman ρ2\n\n\n\n\nPM2.5(μg/m3)\n\nCMAQ\n928\n95\n\n0.02\n\n2.29\n2.29\n7.67\n2.64\n0.30\n0.35\n\n\nHybrid\n95\n0.29\n2.30\n2.32\n7.93\n2.71\n0.32\n0.36\n\n\nRAMP Hybrid\n99\n0.08\n\n1.44\n\n\n1.45\n\n7.72\n1.64\n\n0.51\n\n\n0.48\n\n\n\nNO2(ppb)\nCMAQ\n444\n85\n-1.18\n3.47\n3.66\n7.20\n4.82\n0.63\n0.72\n\n\nHybrid\n85\n2.61\n5.36\n6.31\n10.99\n9.04\n0.62\n0.76\n\n\nRAMP Hybrid\n95\n\n0.05\n\n\n2.51\n\n\n2.51\n\n8.43\n4.89\n\n0.81\n\n\n0.84\n\n\n\n\nOpen in a new tab\nNote: FAC2 is percentage of modeled values between a factor of 2 of the observations; ME is the Mean of the Error; SDE is the Standard Deviation of the Error; RMSE is the Root Mean Squared Error; SDZ is the standard deviation of the modeled value; SDO is the standard deviation of the observed value; MZ is the mean of the modeled value; MO is the mean of the observed valueHealth risk assessment\nTo estimate the difference between RAMP hybrid and CMAQ in premature mortality attributable to PM2.5 and NO2, we aggregated all-cause premature mortality for each county in Fig 3 in space.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The lines in each bar correspond to the 95% confidence intervals.The bar plots in Fig 3 shows the 40 counties that had the most difference in premature mortalities between RAMP Hybrid and CMAQ.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 compares the difference of premature mortality attributable to PM2.5 and NO2 between our models (e.g., Hybrid, CMAQ, and RAMP Hybrid) across the U.S. as a function of distance from road.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in the top panel of Fig 5, Madera County has strong exposure inequity patterns that explain within county EIR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The bottom panel of Fig 5 shows that for PM2.5, there are higher concentrations near the city of Madera.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The magnitude of the EIR is larger and the effect of NO2 is more localized and closer to the roads as is shown in the bottom panel of Fig 5, where the highest concentrations follow Highway 99.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Bottom panel shows RAMP Hybrid concentration as circles for PM2.5 (left) and NO2 (right) at census block centroids where the size of the census block centroid is proportional to population, as well as the percent of Minority population (middle) at census block centroids where size of census block is proportional to percent Minority at Madera County, CA.To follow the near-road effect nationwide, we have created Fig 6 which shows the population-weighted exposure using RAMP aggregated for every census block at every 10m from primary roads across the continental U.S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "This figure also shows that not only are Minorities exposed to higher air pollution than their White counterparts in the corridor very near (i.e., within 10 m of) roads, but this exposure inequity persists even at distance of 100m to 1km of roads, where Minorities can be exposed to up to 15% more PM2.5 than the White population and up to 35% more NO2 than the White population (bottom panel of Fig 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1C shows this RAMP function and how the mean at each bin changes as a function of the average modeled value bin as well as how the method accounts for the nonlinear performance of the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Centers for Disease Control Wide-ranging Online Database for Epidemiologic Research (CDC-WONDER) [77].Results\nHybrid data fusion\nFig 1 shows the progression of the hybrid data fusion model for 2016 annual PM2.5 in the central North Carolina region as an illustration.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1A shows PM2.5 concentrations at 460 12-km grid cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1B shows the hybrid combination of CMAQ and R-LINE at 144,276 census block centroids.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Results show how the hybrid method captures fine-scale gradients near major roads that CMAQ averages out as shown in Fig 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1C shows the shape of the RAMP curve used to correct biases from the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1D shows the final RAMP hybrid product where hybrid concentrations have been adjusted.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The spatial maps from Fig 2 show annual PM2.5 for CMAQ, Hybrid, and RAMP Hybrid at census block level focusing on smaller domains in Boston, MA and Chicago, IL.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe gradient bar represents concentration levels in μg/m3 that range from the smallest 10th percentile of the 3 three models to the highest 90th percentile of the three models for the corresponding domain.For annual NO2 shown in Fig 2, Hybrid and RAMP are capturing higher concentrations near roads in Boston.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Model\n# Of Sites\nFAC2 (%)\nME\nSDE\nRMSE\nMZ\nSDZ\nPearson R2\n\nSpearman ρ2\n\n\n\n\nPM2.5(μg/m3)\n\nCMAQ\n928\n95\n\n0.02\n\n2.29\n2.29\n7.67\n2.64\n0.30\n0.35\n\n\nHybrid\n95\n0.29\n2.30\n2.32\n7.93\n2.71\n0.32\n0.36\n\n\nRAMP Hybrid\n99\n0.08\n\n1.44\n\n\n1.45\n\n7.72\n1.64\n\n0.51\n\n\n0.48\n\n\n\nNO2(ppb)\nCMAQ\n444\n85\n-1.18\n3.47\n3.66\n7.20\n4.82\n0.63\n0.72\n\n\nHybrid\n85\n2.61\n5.36\n6.31\n10.99\n9.04\n0.62\n0.76\n\n\nRAMP Hybrid\n95\n\n0.05\n\n\n2.51\n\n\n2.51\n\n8.43\n4.89\n\n0.81\n\n\n0.84\n\n\n\n\nOpen in a new tab\nNote: FAC2 is percentage of modeled values between a factor of 2 of the observations; ME is the Mean of the Error; SDE is the Standard Deviation of the Error; RMSE is the Root Mean Squared Error; SDZ is the standard deviation of the modeled value; SDO is the standard deviation of the observed value; MZ is the mean of the modeled value; MO is the mean of the observed valueHealth risk assessment\nTo estimate the difference between RAMP hybrid and CMAQ in premature mortality attributable to PM2.5 and NO2, we aggregated all-cause premature mortality for each county in Fig 3 in space.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The lines in each bar correspond to the 95% confidence intervals.The bar plots in Fig 3 shows the 40 counties that had the most difference in premature mortalities between RAMP Hybrid and CMAQ.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 compares the difference of premature mortality attributable to PM2.5 and NO2 between our models (e.g., Hybrid, CMAQ, and RAMP Hybrid) across the U.S. as a function of distance from road.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in the top panel of Fig 5, Madera County has strong exposure inequity patterns that explain within county EIR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The bottom panel of Fig 5 shows that for PM2.5, there are higher concentrations near the city of Madera.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The magnitude of the EIR is larger and the effect of NO2 is more localized and closer to the roads as is shown in the bottom panel of Fig 5, where the highest concentrations follow Highway 99.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Bottom panel shows RAMP Hybrid concentration as circles for PM2.5 (left) and NO2 (right) at census block centroids where the size of the census block centroid is proportional to population, as well as the percent of Minority population (middle) at census block centroids where size of census block is proportional to percent Minority at Madera County, CA.To follow the near-road effect nationwide, we have created Fig 6 which shows the population-weighted exposure using RAMP aggregated for every census block at every 10m from primary roads across the continental U.S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "This figure also shows that not only are Minorities exposed to higher air pollution than their White counterparts in the corridor very near (i.e., within 10 m of) roads, but this exposure inequity persists even at distance of 100m to 1km of roads, where Minorities can be exposed to up to 15% more PM2.5 than the White population and up to 35% more NO2 than the White population (bottom panel of Fig 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1C shows this RAMP function and how the mean at each bin changes as a function of the average modeled value bin as well as how the method accounts for the nonlinear performance of the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Centers for Disease Control Wide-ranging Online Database for Epidemiologic Research (CDC-WONDER) [77].Results\nHybrid data fusion\nFig 1 shows the progression of the hybrid data fusion model for 2016 annual PM2.5 in the central North Carolina region as an illustration.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1A shows PM2.5 concentrations at 460 12-km grid cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1B shows the hybrid combination of CMAQ and R-LINE at 144,276 census block centroids.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Results show how the hybrid method captures fine-scale gradients near major roads that CMAQ averages out as shown in Fig 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1C shows the shape of the RAMP curve used to correct biases from the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1D shows the final RAMP hybrid product where hybrid concentrations have been adjusted.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The spatial maps from Fig 2 show annual PM2.5 for CMAQ, Hybrid, and RAMP Hybrid at census block level focusing on smaller domains in Boston, MA and Chicago, IL.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe gradient bar represents concentration levels in μg/m3 that range from the smallest 10th percentile of the 3 three models to the highest 90th percentile of the three models for the corresponding domain.For annual NO2 shown in Fig 2, Hybrid and RAMP are capturing higher concentrations near roads in Boston.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Model\n# Of Sites\nFAC2 (%)\nME\nSDE\nRMSE\nMZ\nSDZ\nPearson R2\n\nSpearman ρ2\n\n\n\n\nPM2.5(μg/m3)\n\nCMAQ\n928\n95\n\n0.02\n\n2.29\n2.29\n7.67\n2.64\n0.30\n0.35\n\n\nHybrid\n95\n0.29\n2.30\n2.32\n7.93\n2.71\n0.32\n0.36\n\n\nRAMP Hybrid\n99\n0.08\n\n1.44\n\n\n1.45\n\n7.72\n1.64\n\n0.51\n\n\n0.48\n\n\n\nNO2(ppb)\nCMAQ\n444\n85\n-1.18\n3.47\n3.66\n7.20\n4.82\n0.63\n0.72\n\n\nHybrid\n85\n2.61\n5.36\n6.31\n10.99\n9.04\n0.62\n0.76\n\n\nRAMP Hybrid\n95\n\n0.05\n\n\n2.51\n\n\n2.51\n\n8.43\n4.89\n\n0.81\n\n\n0.84\n\n\n\n\nOpen in a new tab\nNote: FAC2 is percentage of modeled values between a factor of 2 of the observations; ME is the Mean of the Error; SDE is the Standard Deviation of the Error; RMSE is the Root Mean Squared Error; SDZ is the standard deviation of the modeled value; SDO is the standard deviation of the observed value; MZ is the mean of the modeled value; MO is the mean of the observed valueHealth risk assessment\nTo estimate the difference between RAMP hybrid and CMAQ in premature mortality attributable to PM2.5 and NO2, we aggregated all-cause premature mortality for each county in Fig 3 in space.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The lines in each bar correspond to the 95% confidence intervals.The bar plots in Fig 3 shows the 40 counties that had the most difference in premature mortalities between RAMP Hybrid and CMAQ.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 compares the difference of premature mortality attributable to PM2.5 and NO2 between our models (e.g., Hybrid, CMAQ, and RAMP Hybrid) across the U.S. as a function of distance from road.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in the top panel of Fig 5, Madera County has strong exposure inequity patterns that explain within county EIR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The bottom panel of Fig 5 shows that for PM2.5, there are higher concentrations near the city of Madera.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The magnitude of the EIR is larger and the effect of NO2 is more localized and closer to the roads as is shown in the bottom panel of Fig 5, where the highest concentrations follow Highway 99.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Bottom panel shows RAMP Hybrid concentration as circles for PM2.5 (left) and NO2 (right) at census block centroids where the size of the census block centroid is proportional to population, as well as the percent of Minority population (middle) at census block centroids where size of census block is proportional to percent Minority at Madera County, CA.To follow the near-road effect nationwide, we have created Fig 6 which shows the population-weighted exposure using RAMP aggregated for every census block at every 10m from primary roads across the continental U.S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "This figure also shows that not only are Minorities exposed to higher air pollution than their White counterparts in the corridor very near (i.e., within 10 m of) roads, but this exposure inequity persists even at distance of 100m to 1km of roads, where Minorities can be exposed to up to 15% more PM2.5 than the White population and up to 35% more NO2 than the White population (bottom panel of Fig 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1C shows this RAMP function and how the mean at each bin changes as a function of the average modeled value bin as well as how the method accounts for the nonlinear performance of the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Centers for Disease Control Wide-ranging Online Database for Epidemiologic Research (CDC-WONDER) [77].Results\nHybrid data fusion\nFig 1 shows the progression of the hybrid data fusion model for 2016 annual PM2.5 in the central North Carolina region as an illustration.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1A shows PM2.5 concentrations at 460 12-km grid cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1B shows the hybrid combination of CMAQ and R-LINE at 144,276 census block centroids.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Results show how the hybrid method captures fine-scale gradients near major roads that CMAQ averages out as shown in Fig 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1C shows the shape of the RAMP curve used to correct biases from the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1D shows the final RAMP hybrid product where hybrid concentrations have been adjusted.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The spatial maps from Fig 2 show annual PM2.5 for CMAQ, Hybrid, and RAMP Hybrid at census block level focusing on smaller domains in Boston, MA and Chicago, IL.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe gradient bar represents concentration levels in μg/m3 that range from the smallest 10th percentile of the 3 three models to the highest 90th percentile of the three models for the corresponding domain.For annual NO2 shown in Fig 2, Hybrid and RAMP are capturing higher concentrations near roads in Boston.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Model\n# Of Sites\nFAC2 (%)\nME\nSDE\nRMSE\nMZ\nSDZ\nPearson R2\n\nSpearman ρ2\n\n\n\n\nPM2.5(μg/m3)\n\nCMAQ\n928\n95\n\n0.02\n\n2.29\n2.29\n7.67\n2.64\n0.30\n0.35\n\n\nHybrid\n95\n0.29\n2.30\n2.32\n7.93\n2.71\n0.32\n0.36\n\n\nRAMP Hybrid\n99\n0.08\n\n1.44\n\n\n1.45\n\n7.72\n1.64\n\n0.51\n\n\n0.48\n\n\n\nNO2(ppb)\nCMAQ\n444\n85\n-1.18\n3.47\n3.66\n7.20\n4.82\n0.63\n0.72\n\n\nHybrid\n85\n2.61\n5.36\n6.31\n10.99\n9.04\n0.62\n0.76\n\n\nRAMP Hybrid\n95\n\n0.05\n\n\n2.51\n\n\n2.51\n\n8.43\n4.89\n\n0.81\n\n\n0.84\n\n\n\n\nOpen in a new tab\nNote: FAC2 is percentage of modeled values between a factor of 2 of the observations; ME is the Mean of the Error; SDE is the Standard Deviation of the Error; RMSE is the Root Mean Squared Error; SDZ is the standard deviation of the modeled value; SDO is the standard deviation of the observed value; MZ is the mean of the modeled value; MO is the mean of the observed valueHealth risk assessment\nTo estimate the difference between RAMP hybrid and CMAQ in premature mortality attributable to PM2.5 and NO2, we aggregated all-cause premature mortality for each county in Fig 3 in space.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The lines in each bar correspond to the 95% confidence intervals.The bar plots in Fig 3 shows the 40 counties that had the most difference in premature mortalities between RAMP Hybrid and CMAQ.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 compares the difference of premature mortality attributable to PM2.5 and NO2 between our models (e.g., Hybrid, CMAQ, and RAMP Hybrid) across the U.S. as a function of distance from road.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in the top panel of Fig 5, Madera County has strong exposure inequity patterns that explain within county EIR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The bottom panel of Fig 5 shows that for PM2.5, there are higher concentrations near the city of Madera.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The magnitude of the EIR is larger and the effect of NO2 is more localized and closer to the roads as is shown in the bottom panel of Fig 5, where the highest concentrations follow Highway 99.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Bottom panel shows RAMP Hybrid concentration as circles for PM2.5 (left) and NO2 (right) at census block centroids where the size of the census block centroid is proportional to population, as well as the percent of Minority population (middle) at census block centroids where size of census block is proportional to percent Minority at Madera County, CA.To follow the near-road effect nationwide, we have created Fig 6 which shows the population-weighted exposure using RAMP aggregated for every census block at every 10m from primary roads across the continental U.S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "This figure also shows that not only are Minorities exposed to higher air pollution than their White counterparts in the corridor very near (i.e., within 10 m of) roads, but this exposure inequity persists even at distance of 100m to 1km of roads, where Minorities can be exposed to up to 15% more PM2.5 than the White population and up to 35% more NO2 than the White population (bottom panel of Fig 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1C shows this RAMP function and how the mean at each bin changes as a function of the average modeled value bin as well as how the method accounts for the nonlinear performance of the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Centers for Disease Control Wide-ranging Online Database for Epidemiologic Research (CDC-WONDER) [77].Results\nHybrid data fusion\nFig 1 shows the progression of the hybrid data fusion model for 2016 annual PM2.5 in the central North Carolina region as an illustration.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1A shows PM2.5 concentrations at 460 12-km grid cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1B shows the hybrid combination of CMAQ and R-LINE at 144,276 census block centroids.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Results show how the hybrid method captures fine-scale gradients near major roads that CMAQ averages out as shown in Fig 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1C shows the shape of the RAMP curve used to correct biases from the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1D shows the final RAMP hybrid product where hybrid concentrations have been adjusted.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The spatial maps from Fig 2 show annual PM2.5 for CMAQ, Hybrid, and RAMP Hybrid at census block level focusing on smaller domains in Boston, MA and Chicago, IL.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe gradient bar represents concentration levels in μg/m3 that range from the smallest 10th percentile of the 3 three models to the highest 90th percentile of the three models for the corresponding domain.For annual NO2 shown in Fig 2, Hybrid and RAMP are capturing higher concentrations near roads in Boston.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Model\n# Of Sites\nFAC2 (%)\nME\nSDE\nRMSE\nMZ\nSDZ\nPearson R2\n\nSpearman ρ2\n\n\n\n\nPM2.5(μg/m3)\n\nCMAQ\n928\n95\n\n0.02\n\n2.29\n2.29\n7.67\n2.64\n0.30\n0.35\n\n\nHybrid\n95\n0.29\n2.30\n2.32\n7.93\n2.71\n0.32\n0.36\n\n\nRAMP Hybrid\n99\n0.08\n\n1.44\n\n\n1.45\n\n7.72\n1.64\n\n0.51\n\n\n0.48\n\n\n\nNO2(ppb)\nCMAQ\n444\n85\n-1.18\n3.47\n3.66\n7.20\n4.82\n0.63\n0.72\n\n\nHybrid\n85\n2.61\n5.36\n6.31\n10.99\n9.04\n0.62\n0.76\n\n\nRAMP Hybrid\n95\n\n0.05\n\n\n2.51\n\n\n2.51\n\n8.43\n4.89\n\n0.81\n\n\n0.84\n\n\n\n\nOpen in a new tab\nNote: FAC2 is percentage of modeled values between a factor of 2 of the observations; ME is the Mean of the Error; SDE is the Standard Deviation of the Error; RMSE is the Root Mean Squared Error; SDZ is the standard deviation of the modeled value; SDO is the standard deviation of the observed value; MZ is the mean of the modeled value; MO is the mean of the observed valueHealth risk assessment\nTo estimate the difference between RAMP hybrid and CMAQ in premature mortality attributable to PM2.5 and NO2, we aggregated all-cause premature mortality for each county in Fig 3 in space.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The lines in each bar correspond to the 95% confidence intervals.The bar plots in Fig 3 shows the 40 counties that had the most difference in premature mortalities between RAMP Hybrid and CMAQ.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 compares the difference of premature mortality attributable to PM2.5 and NO2 between our models (e.g., Hybrid, CMAQ, and RAMP Hybrid) across the U.S. as a function of distance from road.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in the top panel of Fig 5, Madera County has strong exposure inequity patterns that explain within county EIR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The bottom panel of Fig 5 shows that for PM2.5, there are higher concentrations near the city of Madera.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The magnitude of the EIR is larger and the effect of NO2 is more localized and closer to the roads as is shown in the bottom panel of Fig 5, where the highest concentrations follow Highway 99.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Bottom panel shows RAMP Hybrid concentration as circles for PM2.5 (left) and NO2 (right) at census block centroids where the size of the census block centroid is proportional to population, as well as the percent of Minority population (middle) at census block centroids where size of census block is proportional to percent Minority at Madera County, CA.To follow the near-road effect nationwide, we have created Fig 6 which shows the population-weighted exposure using RAMP aggregated for every census block at every 10m from primary roads across the continental U.S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "This figure also shows that not only are Minorities exposed to higher air pollution than their White counterparts in the corridor very near (i.e., within 10 m of) roads, but this exposure inequity persists even at distance of 100m to 1km of roads, where Minorities can be exposed to up to 15% more PM2.5 than the White population and up to 35% more NO2 than the White population (bottom panel of Fig 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1C shows this RAMP function and how the mean at each bin changes as a function of the average modeled value bin as well as how the method accounts for the nonlinear performance of the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Centers for Disease Control Wide-ranging Online Database for Epidemiologic Research (CDC-WONDER) [77].Results\nHybrid data fusion\nFig 1 shows the progression of the hybrid data fusion model for 2016 annual PM2.5 in the central North Carolina region as an illustration.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1A shows PM2.5 concentrations at 460 12-km grid cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1B shows the hybrid combination of CMAQ and R-LINE at 144,276 census block centroids.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Results show how the hybrid method captures fine-scale gradients near major roads that CMAQ averages out as shown in Fig 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1C shows the shape of the RAMP curve used to correct biases from the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1D shows the final RAMP hybrid product where hybrid concentrations have been adjusted.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The spatial maps from Fig 2 show annual PM2.5 for CMAQ, Hybrid, and RAMP Hybrid at census block level focusing on smaller domains in Boston, MA and Chicago, IL.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe gradient bar represents concentration levels in μg/m3 that range from the smallest 10th percentile of the 3 three models to the highest 90th percentile of the three models for the corresponding domain.For annual NO2 shown in Fig 2, Hybrid and RAMP are capturing higher concentrations near roads in Boston.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Model\n# Of Sites\nFAC2 (%)\nME\nSDE\nRMSE\nMZ\nSDZ\nPearson R2\n\nSpearman ρ2\n\n\n\n\nPM2.5(μg/m3)\n\nCMAQ\n928\n95\n\n0.02\n\n2.29\n2.29\n7.67\n2.64\n0.30\n0.35\n\n\nHybrid\n95\n0.29\n2.30\n2.32\n7.93\n2.71\n0.32\n0.36\n\n\nRAMP Hybrid\n99\n0.08\n\n1.44\n\n\n1.45\n\n7.72\n1.64\n\n0.51\n\n\n0.48\n\n\n\nNO2(ppb)\nCMAQ\n444\n85\n-1.18\n3.47\n3.66\n7.20\n4.82\n0.63\n0.72\n\n\nHybrid\n85\n2.61\n5.36\n6.31\n10.99\n9.04\n0.62\n0.76\n\n\nRAMP Hybrid\n95\n\n0.05\n\n\n2.51\n\n\n2.51\n\n8.43\n4.89\n\n0.81\n\n\n0.84\n\n\n\n\nOpen in a new tab\nNote: FAC2 is percentage of modeled values between a factor of 2 of the observations; ME is the Mean of the Error; SDE is the Standard Deviation of the Error; RMSE is the Root Mean Squared Error; SDZ is the standard deviation of the modeled value; SDO is the standard deviation of the observed value; MZ is the mean of the modeled value; MO is the mean of the observed valueHealth risk assessment\nTo estimate the difference between RAMP hybrid and CMAQ in premature mortality attributable to PM2.5 and NO2, we aggregated all-cause premature mortality for each county in Fig 3 in space.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The lines in each bar correspond to the 95% confidence intervals.The bar plots in Fig 3 shows the 40 counties that had the most difference in premature mortalities between RAMP Hybrid and CMAQ.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 compares the difference of premature mortality attributable to PM2.5 and NO2 between our models (e.g., Hybrid, CMAQ, and RAMP Hybrid) across the U.S. as a function of distance from road.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in the top panel of Fig 5, Madera County has strong exposure inequity patterns that explain within county EIR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The bottom panel of Fig 5 shows that for PM2.5, there are higher concentrations near the city of Madera.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The magnitude of the EIR is larger and the effect of NO2 is more localized and closer to the roads as is shown in the bottom panel of Fig 5, where the highest concentrations follow Highway 99.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Bottom panel shows RAMP Hybrid concentration as circles for PM2.5 (left) and NO2 (right) at census block centroids where the size of the census block centroid is proportional to population, as well as the percent of Minority population (middle) at census block centroids where size of census block is proportional to percent Minority at Madera County, CA.To follow the near-road effect nationwide, we have created Fig 6 which shows the population-weighted exposure using RAMP aggregated for every census block at every 10m from primary roads across the continental U.S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "This figure also shows that not only are Minorities exposed to higher air pollution than their White counterparts in the corridor very near (i.e., within 10 m of) roads, but this exposure inequity persists even at distance of 100m to 1km of roads, where Minorities can be exposed to up to 15% more PM2.5 than the White population and up to 35% more NO2 than the White population (bottom panel of Fig 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1C shows this RAMP function and how the mean at each bin changes as a function of the average modeled value bin as well as how the method accounts for the nonlinear performance of the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Centers for Disease Control Wide-ranging Online Database for Epidemiologic Research (CDC-WONDER) [77].Results\nHybrid data fusion\nFig 1 shows the progression of the hybrid data fusion model for 2016 annual PM2.5 in the central North Carolina region as an illustration.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1A shows PM2.5 concentrations at 460 12-km grid cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1B shows the hybrid combination of CMAQ and R-LINE at 144,276 census block centroids.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Results show how the hybrid method captures fine-scale gradients near major roads that CMAQ averages out as shown in Fig 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1C shows the shape of the RAMP curve used to correct biases from the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1D shows the final RAMP hybrid product where hybrid concentrations have been adjusted.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The spatial maps from Fig 2 show annual PM2.5 for CMAQ, Hybrid, and RAMP Hybrid at census block level focusing on smaller domains in Boston, MA and Chicago, IL.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe gradient bar represents concentration levels in μg/m3 that range from the smallest 10th percentile of the 3 three models to the highest 90th percentile of the three models for the corresponding domain.For annual NO2 shown in Fig 2, Hybrid and RAMP are capturing higher concentrations near roads in Boston.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Model\n# Of Sites\nFAC2 (%)\nME\nSDE\nRMSE\nMZ\nSDZ\nPearson R2\n\nSpearman ρ2\n\n\n\n\nPM2.5(μg/m3)\n\nCMAQ\n928\n95\n\n0.02\n\n2.29\n2.29\n7.67\n2.64\n0.30\n0.35\n\n\nHybrid\n95\n0.29\n2.30\n2.32\n7.93\n2.71\n0.32\n0.36\n\n\nRAMP Hybrid\n99\n0.08\n\n1.44\n\n\n1.45\n\n7.72\n1.64\n\n0.51\n\n\n0.48\n\n\n\nNO2(ppb)\nCMAQ\n444\n85\n-1.18\n3.47\n3.66\n7.20\n4.82\n0.63\n0.72\n\n\nHybrid\n85\n2.61\n5.36\n6.31\n10.99\n9.04\n0.62\n0.76\n\n\nRAMP Hybrid\n95\n\n0.05\n\n\n2.51\n\n\n2.51\n\n8.43\n4.89\n\n0.81\n\n\n0.84\n\n\n\n\nOpen in a new tab\nNote: FAC2 is percentage of modeled values between a factor of 2 of the observations; ME is the Mean of the Error; SDE is the Standard Deviation of the Error; RMSE is the Root Mean Squared Error; SDZ is the standard deviation of the modeled value; SDO is the standard deviation of the observed value; MZ is the mean of the modeled value; MO is the mean of the observed valueHealth risk assessment\nTo estimate the difference between RAMP hybrid and CMAQ in premature mortality attributable to PM2.5 and NO2, we aggregated all-cause premature mortality for each county in Fig 3 in space.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The lines in each bar correspond to the 95% confidence intervals.The bar plots in Fig 3 shows the 40 counties that had the most difference in premature mortalities between RAMP Hybrid and CMAQ.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 compares the difference of premature mortality attributable to PM2.5 and NO2 between our models (e.g., Hybrid, CMAQ, and RAMP Hybrid) across the U.S. as a function of distance from road.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in the top panel of Fig 5, Madera County has strong exposure inequity patterns that explain within county EIR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The bottom panel of Fig 5 shows that for PM2.5, there are higher concentrations near the city of Madera.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The magnitude of the EIR is larger and the effect of NO2 is more localized and closer to the roads as is shown in the bottom panel of Fig 5, where the highest concentrations follow Highway 99.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Bottom panel shows RAMP Hybrid concentration as circles for PM2.5 (left) and NO2 (right) at census block centroids where the size of the census block centroid is proportional to population, as well as the percent of Minority population (middle) at census block centroids where size of census block is proportional to percent Minority at Madera County, CA.To follow the near-road effect nationwide, we have created Fig 6 which shows the population-weighted exposure using RAMP aggregated for every census block at every 10m from primary roads across the continental U.S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "This figure also shows that not only are Minorities exposed to higher air pollution than their White counterparts in the corridor very near (i.e., within 10 m of) roads, but this exposure inequity persists even at distance of 100m to 1km of roads, where Minorities can be exposed to up to 15% more PM2.5 than the White population and up to 35% more NO2 than the White population (bottom panel of Fig 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1C shows this RAMP function and how the mean at each bin changes as a function of the average modeled value bin as well as how the method accounts for the nonlinear performance of the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1C shows this RAMP function and how the mean at each bin changes as a function of the average modeled value bin as well as how the method accounts for the nonlinear performance of the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1C shows this RAMP function and how the mean at each bin changes as a function of the average modeled value bin as well as how the method accounts for the nonlinear performance of the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Results\nHybrid data fusion\nFig 1 shows the progression of the hybrid data fusion model for 2016 annual PM2.5 in the central North Carolina region as an illustration.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1A shows PM2.5 concentrations at 460 12-km grid cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1B shows the hybrid combination of CMAQ and R-LINE at 144,276 census block centroids.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Results show how the hybrid method captures fine-scale gradients near major roads that CMAQ averages out as shown in Fig 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1C shows the shape of the RAMP curve used to correct biases from the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1D shows the final RAMP hybrid product where hybrid concentrations have been adjusted.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The spatial maps from Fig 2 show annual PM2.5 for CMAQ, Hybrid, and RAMP Hybrid at census block level focusing on smaller domains in Boston, MA and Chicago, IL.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe gradient bar represents concentration levels in μg/m3 that range from the smallest 10th percentile of the 3 three models to the highest 90th percentile of the three models for the corresponding domain.For annual NO2 shown in Fig 2, Hybrid and RAMP are capturing higher concentrations near roads in Boston.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Model\n# Of Sites\nFAC2 (%)\nME\nSDE\nRMSE\nMZ\nSDZ\nPearson R2\n\nSpearman ρ2\n\n\n\n\nPM2.5(μg/m3)\n\nCMAQ\n928\n95\n\n0.02\n\n2.29\n2.29\n7.67\n2.64\n0.30\n0.35\n\n\nHybrid\n95\n0.29\n2.30\n2.32\n7.93\n2.71\n0.32\n0.36\n\n\nRAMP Hybrid\n99\n0.08\n\n1.44\n\n\n1.45\n\n7.72\n1.64\n\n0.51\n\n\n0.48\n\n\n\nNO2(ppb)\nCMAQ\n444\n85\n-1.18\n3.47\n3.66\n7.20\n4.82\n0.63\n0.72\n\n\nHybrid\n85\n2.61\n5.36\n6.31\n10.99\n9.04\n0.62\n0.76\n\n\nRAMP Hybrid\n95\n\n0.05\n\n\n2.51\n\n\n2.51\n\n8.43\n4.89\n\n0.81\n\n\n0.84\n\n\n\n\nOpen in a new tab\nNote: FAC2 is percentage of modeled values between a factor of 2 of the observations; ME is the Mean of the Error; SDE is the Standard Deviation of the Error; RMSE is the Root Mean Squared Error; SDZ is the standard deviation of the modeled value; SDO is the standard deviation of the observed value; MZ is the mean of the modeled value; MO is the mean of the observed valueHealth risk assessment\nTo estimate the difference between RAMP hybrid and CMAQ in premature mortality attributable to PM2.5 and NO2, we aggregated all-cause premature mortality for each county in Fig 3 in space.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The lines in each bar correspond to the 95% confidence intervals.The bar plots in Fig 3 shows the 40 counties that had the most difference in premature mortalities between RAMP Hybrid and CMAQ.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 compares the difference of premature mortality attributable to PM2.5 and NO2 between our models (e.g., Hybrid, CMAQ, and RAMP Hybrid) across the U.S. as a function of distance from road.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in the top panel of Fig 5, Madera County has strong exposure inequity patterns that explain within county EIR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The bottom panel of Fig 5 shows that for PM2.5, there are higher concentrations near the city of Madera.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The magnitude of the EIR is larger and the effect of NO2 is more localized and closer to the roads as is shown in the bottom panel of Fig 5, where the highest concentrations follow Highway 99.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Bottom panel shows RAMP Hybrid concentration as circles for PM2.5 (left) and NO2 (right) at census block centroids where the size of the census block centroid is proportional to population, as well as the percent of Minority population (middle) at census block centroids where size of census block is proportional to percent Minority at Madera County, CA.To follow the near-road effect nationwide, we have created Fig 6 which shows the population-weighted exposure using RAMP aggregated for every census block at every 10m from primary roads across the continental U.S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "This figure also shows that not only are Minorities exposed to higher air pollution than their White counterparts in the corridor very near (i.e., within 10 m of) roads, but this exposure inequity persists even at distance of 100m to 1km of roads, where Minorities can be exposed to up to 15% more PM2.5 than the White population and up to 35% more NO2 than the White population (bottom panel of Fig 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Hybrid data fusion\nFig 1 shows the progression of the hybrid data fusion model for 2016 annual PM2.5 in the central North Carolina region as an illustration.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1A shows PM2.5 concentrations at 460 12-km grid cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1B shows the hybrid combination of CMAQ and R-LINE at 144,276 census block centroids.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Results show how the hybrid method captures fine-scale gradients near major roads that CMAQ averages out as shown in Fig 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1C shows the shape of the RAMP curve used to correct biases from the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1D shows the final RAMP hybrid product where hybrid concentrations have been adjusted.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The spatial maps from Fig 2 show annual PM2.5 for CMAQ, Hybrid, and RAMP Hybrid at census block level focusing on smaller domains in Boston, MA and Chicago, IL.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe gradient bar represents concentration levels in μg/m3 that range from the smallest 10th percentile of the 3 three models to the highest 90th percentile of the three models for the corresponding domain.For annual NO2 shown in Fig 2, Hybrid and RAMP are capturing higher concentrations near roads in Boston.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1 shows the progression of the hybrid data fusion model for 2016 annual PM2.5 in the central North Carolina region as an illustration.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1A shows PM2.5 concentrations at 460 12-km grid cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1B shows the hybrid combination of CMAQ and R-LINE at 144,276 census block centroids.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel B",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Results show how the hybrid method captures fine-scale gradients near major roads that CMAQ averages out as shown in Fig 1A.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel A",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1C shows the shape of the RAMP curve used to correct biases from the Hybrid model.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 1D shows the final RAMP hybrid product where hybrid concentrations have been adjusted.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel D",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The spatial maps from Fig 2 show annual PM2.5 for CMAQ, Hybrid, and RAMP Hybrid at census block level focusing on smaller domains in Boston, MA and Chicago, IL.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For annual NO2 shown in Fig 2, Hybrid and RAMP are capturing higher concentrations near roads in Boston.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Health risk assessment\nTo estimate the difference between RAMP hybrid and CMAQ in premature mortality attributable to PM2.5 and NO2, we aggregated all-cause premature mortality for each county in Fig 3 in space.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The lines in each bar correspond to the 95% confidence intervals.The bar plots in Fig 3 shows the 40 counties that had the most difference in premature mortalities between RAMP Hybrid and CMAQ.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 compares the difference of premature mortality attributable to PM2.5 and NO2 between our models (e.g., Hybrid, CMAQ, and RAMP Hybrid) across the U.S. as a function of distance from road.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "To estimate the difference between RAMP hybrid and CMAQ in premature mortality attributable to PM2.5 and NO2, we aggregated all-cause premature mortality for each county in Fig 3 in space.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The bar plots in Fig 3 shows the 40 counties that had the most difference in premature mortalities between RAMP Hybrid and CMAQ.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 compares the difference of premature mortality attributable to PM2.5 and NO2 between our models (e.g., Hybrid, CMAQ, and RAMP Hybrid) across the U.S. as a function of distance from road.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in the top panel of Fig 5, Madera County has strong exposure inequity patterns that explain within county EIR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The bottom panel of Fig 5 shows that for PM2.5, there are higher concentrations near the city of Madera.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The magnitude of the EIR is larger and the effect of NO2 is more localized and closer to the roads as is shown in the bottom panel of Fig 5, where the highest concentrations follow Highway 99.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Bottom panel shows RAMP Hybrid concentration as circles for PM2.5 (left) and NO2 (right) at census block centroids where the size of the census block centroid is proportional to population, as well as the percent of Minority population (middle) at census block centroids where size of census block is proportional to percent Minority at Madera County, CA.To follow the near-road effect nationwide, we have created Fig 6 which shows the population-weighted exposure using RAMP aggregated for every census block at every 10m from primary roads across the continental U.S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "This figure also shows that not only are Minorities exposed to higher air pollution than their White counterparts in the corridor very near (i.e., within 10 m of) roads, but this exposure inequity persists even at distance of 100m to 1km of roads, where Minorities can be exposed to up to 15% more PM2.5 than the White population and up to 35% more NO2 than the White population (bottom panel of Fig 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in the top panel of Fig 5, Madera County has strong exposure inequity patterns that explain within county EIR.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The bottom panel of Fig 5 shows that for PM2.5, there are higher concentrations near the city of Madera.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The magnitude of the EIR is larger and the effect of NO2 is more localized and closer to the roads as is shown in the bottom panel of Fig 5, where the highest concentrations follow Highway 99.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "To follow the near-road effect nationwide, we have created Fig 6 which shows the population-weighted exposure using RAMP aggregated for every census block at every 10m from primary roads across the continental U.S.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "This figure also shows that not only are Minorities exposed to higher air pollution than their White counterparts in the corridor very near (i.e., within 10 m of) roads, but this exposure inequity persists even at distance of 100m to 1km of roads, where Minorities can be exposed to up to 15% more PM2.5 than the White population and up to 35% more NO2 than the White population (bottom panel of Fig 6).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  }
+]

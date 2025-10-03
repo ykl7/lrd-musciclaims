@@ -1,0 +1,541 @@
+{
+  "paper_id": "PMC7442865",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7442865/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Figure 1.",
+      "caption": "(a) Schematic working principle of acoustic self-tonometer. (b) Prototype of self-tonometer that was used for data acquisition on humans in the clinical trial series.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6714/7442865/cb443741d0f4/tvst-9-9-18-f001.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6714/7442865/cb443741d0f4/tvst-9-9-18-f001.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6714/7442865/cb443741d0f4/tvst-9-9-18-f001.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6714/7442865/cb443741d0f4/tvst-9-9-18-f001.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6714/7442865/cb443741d0f4/tvst-9-9-18-f001.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC7442865/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6714/7442865/cb443741d0f4/tvst-9-9-18-f001.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Figure 2.",
+      "caption": "Course of raw pressure signal with characteristic touchdown behavior leading to overpressure at 2.8 seconds. The pre-evaluation phase from 0 to 5 seconds is not further evaluated. Starting from 5 seconds, the impulses were evaluated for IOP estimation (gray area). The pressure chamber was considered to be airtight.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6714/7442865/f35650081d9c/tvst-9-9-18-f002.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6714/7442865/f35650081d9c/tvst-9-9-18-f002.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6714/7442865/f35650081d9c/tvst-9-9-18-f002.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6714/7442865/f35650081d9c/tvst-9-9-18-f002.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6714/7442865/f35650081d9c/tvst-9-9-18-f002.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC7442865/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6714/7442865/f35650081d9c/tvst-9-9-18-f002.jpg"
+    },
+    "figure_3": {
+      "figure_number": "Figure 3",
+      "title": "Figure 3.",
+      "caption": "(Top) Regression plot of the ANN result. (Bottom) Bland–Altman plot of the self-tonometer results (ST) in reference to the GAT measurements. The achieved measurement uncertainty is calculated only from test data that was not used in the iterative ANN training and amounts to 6.53 mm Hg (kp = 2).",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6714/7442865/5631c3e9a937/tvst-9-9-18-f003.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6714/7442865/5631c3e9a937/tvst-9-9-18-f003.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6714/7442865/5631c3e9a937/tvst-9-9-18-f003.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6714/7442865/5631c3e9a937/tvst-9-9-18-f003.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig3",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6714/7442865/5631c3e9a937/tvst-9-9-18-f003.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC7442865/images/figure_3.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6714/7442865/5631c3e9a937/tvst-9-9-18-f003.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "Figure 1 shows the schematic working principle and the prototype handheld self-tonometer that was used for the clinical trials to acquire measurement data and to test the applicability.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A pressure fluctuation is expected when the self-tonometer is placed correctly on the orbit, as the volume is slightly compressed by the flexible eye gauge transition and the pressure rises according to the general gas equation (pressure sensor signal in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The upper graph in Figure 3 shows the correlation between the self-tonometer results from the ANN and the GAT reference values.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The results shown in Figure 3 are representative of the average of the 1000 ANNs that best achieved the combination of slope of regression line and regression coefficient.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 shows the schematic working principle and the prototype handheld self-tonometer that was used for the clinical trials to acquire measurement data and to test the applicability.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A pressure fluctuation is expected when the self-tonometer is placed correctly on the orbit, as the volume is slightly compressed by the flexible eye gauge transition and the pressure rises according to the general gas equation (pressure sensor signal in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The upper graph in Figure 3 shows the correlation between the self-tonometer results from the ANN and the GAT reference values.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The results shown in Figure 3 are representative of the average of the 1000 ANNs that best achieved the combination of slope of regression line and regression coefficient.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 shows the schematic working principle and the prototype handheld self-tonometer that was used for the clinical trials to acquire measurement data and to test the applicability.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A pressure fluctuation is expected when the self-tonometer is placed correctly on the orbit, as the volume is slightly compressed by the flexible eye gauge transition and the pressure rises according to the general gas equation (pressure sensor signal in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The upper graph in Figure 3 shows the correlation between the self-tonometer results from the ANN and the GAT reference values.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The results shown in Figure 3 are representative of the average of the 1000 ANNs that best achieved the combination of slope of regression line and regression coefficient.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 shows the schematic working principle and the prototype handheld self-tonometer that was used for the clinical trials to acquire measurement data and to test the applicability.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A pressure fluctuation is expected when the self-tonometer is placed correctly on the orbit, as the volume is slightly compressed by the flexible eye gauge transition and the pressure rises according to the general gas equation (pressure sensor signal in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The upper graph in Figure 3 shows the correlation between the self-tonometer results from the ANN and the GAT reference values.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The results shown in Figure 3 are representative of the average of the 1000 ANNs that best achieved the combination of slope of regression line and regression coefficient.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 shows the schematic working principle and the prototype handheld self-tonometer that was used for the clinical trials to acquire measurement data and to test the applicability.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A pressure fluctuation is expected when the self-tonometer is placed correctly on the orbit, as the volume is slightly compressed by the flexible eye gauge transition and the pressure rises according to the general gas equation (pressure sensor signal in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The upper graph in Figure 3 shows the correlation between the self-tonometer results from the ANN and the GAT reference values.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The results shown in Figure 3 are representative of the average of the 1000 ANNs that best achieved the combination of slope of regression line and regression coefficient.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 shows the schematic working principle and the prototype handheld self-tonometer that was used for the clinical trials to acquire measurement data and to test the applicability.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A pressure fluctuation is expected when the self-tonometer is placed correctly on the orbit, as the volume is slightly compressed by the flexible eye gauge transition and the pressure rises according to the general gas equation (pressure sensor signal in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The upper graph in Figure 3 shows the correlation between the self-tonometer results from the ANN and the GAT reference values.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The results shown in Figure 3 are representative of the average of the 1000 ANNs that best achieved the combination of slope of regression line and regression coefficient.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 shows the schematic working principle and the prototype handheld self-tonometer that was used for the clinical trials to acquire measurement data and to test the applicability.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A pressure fluctuation is expected when the self-tonometer is placed correctly on the orbit, as the volume is slightly compressed by the flexible eye gauge transition and the pressure rises according to the general gas equation (pressure sensor signal in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The upper graph in Figure 3 shows the correlation between the self-tonometer results from the ANN and the GAT reference values.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The results shown in Figure 3 are representative of the average of the 1000 ANNs that best achieved the combination of slope of regression line and regression coefficient.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 shows the schematic working principle and the prototype handheld self-tonometer that was used for the clinical trials to acquire measurement data and to test the applicability.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A pressure fluctuation is expected when the self-tonometer is placed correctly on the orbit, as the volume is slightly compressed by the flexible eye gauge transition and the pressure rises according to the general gas equation (pressure sensor signal in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The upper graph in Figure 3 shows the correlation between the self-tonometer results from the ANN and the GAT reference values.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The results shown in Figure 3 are representative of the average of the 1000 ANNs that best achieved the combination of slope of regression line and regression coefficient.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 shows the schematic working principle and the prototype handheld self-tonometer that was used for the clinical trials to acquire measurement data and to test the applicability.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 shows the schematic working principle and the prototype handheld self-tonometer that was used for the clinical trials to acquire measurement data and to test the applicability.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 shows the schematic working principle and the prototype handheld self-tonometer that was used for the clinical trials to acquire measurement data and to test the applicability.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "A pressure fluctuation is expected when the self-tonometer is placed correctly on the orbit, as the volume is slightly compressed by the flexible eye gauge transition and the pressure rises according to the general gas equation (pressure sensor signal in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The upper graph in Figure 3 shows the correlation between the self-tonometer results from the ANN and the GAT reference values.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The results shown in Figure 3 are representative of the average of the 1000 ANNs that best achieved the combination of slope of regression line and regression coefficient.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "A pressure fluctuation is expected when the self-tonometer is placed correctly on the orbit, as the volume is slightly compressed by the flexible eye gauge transition and the pressure rises according to the general gas equation (pressure sensor signal in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "A pressure fluctuation is expected when the self-tonometer is placed correctly on the orbit, as the volume is slightly compressed by the flexible eye gauge transition and the pressure rises according to the general gas equation (pressure sensor signal in Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The upper graph in Figure 3 shows the correlation between the self-tonometer results from the ANN and the GAT reference values.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The results shown in Figure 3 are representative of the average of the 1000 ANNs that best achieved the combination of slope of regression line and regression coefficient.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The upper graph in Figure 3 shows the correlation between the self-tonometer results from the ANN and the GAT reference values.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The results shown in Figure 3 are representative of the average of the 1000 ANNs that best achieved the combination of slope of regression line and regression coefficient.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 3,
+    "claims_count": 44,
+    "images_downloaded": 3,
+    "tables_filtered": 254
+  }
+}

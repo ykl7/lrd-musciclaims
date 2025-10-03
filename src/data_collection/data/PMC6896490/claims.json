@@ -1,0 +1,1302 @@
+[
+  {
+    "sentence": "A variety of patient paths that can occur in the studied orthopaedic outpatient clinic are\ndepicted in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The current layout of the clinic is a rectangular space of 6528 cm\nin length and 2529 cm in width, containing 24 exam rooms and 8 physician work areas as shown\nin Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A summary of this approach is presented in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The PSO pseudo-code pertaining to\nthe problem of optimising the layout of an outpatient clinic is presented in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As part of the improvement in the MH algorithms, the solution quality can be enhanced\nby optimising the MH parameters, such as  and  in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of\nan infeasible layout is shown in Figure 5(a) where (i) the\nwaiting area overlaps with four exam rooms and (ii) one exam room (shaded square unit)\noverlaps with another unit.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "A feasible layout solution can be found by neighbourhood\nsearch where the waiting area is rotated and the exam room is moved slightly, as shown\nin Figure 5(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The stopping\ncriteria used to terminate the PSO procedure, as shown in PSO pseudo-code in Figure 4, are the limit of a maximum number of iterations (10,000\ntimes), or achieving less than a 1% solution improvement in 1000 runs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "These three layouts, in addition\nto the current layout, are presented in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Correspondingly, the candidate layouts in Figure 6 have relatively insignificant differences in terms of the pair-wise\nwalking distances (i.e., less than 8% difference in the objective function value).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However,\nthe aggregate patient walking distances vary between the four layouts, as shown in the box\nplots in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The histograms of patient walking distances for each of the candidate layouts are also\nshown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A variety of patient paths that can occur in the studied orthopaedic outpatient clinic are\ndepicted in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The current layout of the clinic is a rectangular space of 6528 cm\nin length and 2529 cm in width, containing 24 exam rooms and 8 physician work areas as shown\nin Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A summary of this approach is presented in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The PSO pseudo-code pertaining to\nthe problem of optimising the layout of an outpatient clinic is presented in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As part of the improvement in the MH algorithms, the solution quality can be enhanced\nby optimising the MH parameters, such as  and  in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of\nan infeasible layout is shown in Figure 5(a) where (i) the\nwaiting area overlaps with four exam rooms and (ii) one exam room (shaded square unit)\noverlaps with another unit.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "A feasible layout solution can be found by neighbourhood\nsearch where the waiting area is rotated and the exam room is moved slightly, as shown\nin Figure 5(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The stopping\ncriteria used to terminate the PSO procedure, as shown in PSO pseudo-code in Figure 4, are the limit of a maximum number of iterations (10,000\ntimes), or achieving less than a 1% solution improvement in 1000 runs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "These three layouts, in addition\nto the current layout, are presented in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Correspondingly, the candidate layouts in Figure 6 have relatively insignificant differences in terms of the pair-wise\nwalking distances (i.e., less than 8% difference in the objective function value).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However,\nthe aggregate patient walking distances vary between the four layouts, as shown in the box\nplots in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The histograms of patient walking distances for each of the candidate layouts are also\nshown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A variety of patient paths that can occur in the studied orthopaedic outpatient clinic are\ndepicted in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The current layout of the clinic is a rectangular space of 6528 cm\nin length and 2529 cm in width, containing 24 exam rooms and 8 physician work areas as shown\nin Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A summary of this approach is presented in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The PSO pseudo-code pertaining to\nthe problem of optimising the layout of an outpatient clinic is presented in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As part of the improvement in the MH algorithms, the solution quality can be enhanced\nby optimising the MH parameters, such as  and  in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of\nan infeasible layout is shown in Figure 5(a) where (i) the\nwaiting area overlaps with four exam rooms and (ii) one exam room (shaded square unit)\noverlaps with another unit.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "A feasible layout solution can be found by neighbourhood\nsearch where the waiting area is rotated and the exam room is moved slightly, as shown\nin Figure 5(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The stopping\ncriteria used to terminate the PSO procedure, as shown in PSO pseudo-code in Figure 4, are the limit of a maximum number of iterations (10,000\ntimes), or achieving less than a 1% solution improvement in 1000 runs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "These three layouts, in addition\nto the current layout, are presented in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Correspondingly, the candidate layouts in Figure 6 have relatively insignificant differences in terms of the pair-wise\nwalking distances (i.e., less than 8% difference in the objective function value).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However,\nthe aggregate patient walking distances vary between the four layouts, as shown in the box\nplots in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The histograms of patient walking distances for each of the candidate layouts are also\nshown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A variety of patient paths that can occur in the studied orthopaedic outpatient clinic are\ndepicted in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The current layout of the clinic is a rectangular space of 6528 cm\nin length and 2529 cm in width, containing 24 exam rooms and 8 physician work areas as shown\nin Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A summary of this approach is presented in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The PSO pseudo-code pertaining to\nthe problem of optimising the layout of an outpatient clinic is presented in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As part of the improvement in the MH algorithms, the solution quality can be enhanced\nby optimising the MH parameters, such as  and  in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of\nan infeasible layout is shown in Figure 5(a) where (i) the\nwaiting area overlaps with four exam rooms and (ii) one exam room (shaded square unit)\noverlaps with another unit.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "A feasible layout solution can be found by neighbourhood\nsearch where the waiting area is rotated and the exam room is moved slightly, as shown\nin Figure 5(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The stopping\ncriteria used to terminate the PSO procedure, as shown in PSO pseudo-code in Figure 4, are the limit of a maximum number of iterations (10,000\ntimes), or achieving less than a 1% solution improvement in 1000 runs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "These three layouts, in addition\nto the current layout, are presented in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Correspondingly, the candidate layouts in Figure 6 have relatively insignificant differences in terms of the pair-wise\nwalking distances (i.e., less than 8% difference in the objective function value).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However,\nthe aggregate patient walking distances vary between the four layouts, as shown in the box\nplots in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The histograms of patient walking distances for each of the candidate layouts are also\nshown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A variety of patient paths that can occur in the studied orthopaedic outpatient clinic are\ndepicted in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The current layout of the clinic is a rectangular space of 6528 cm\nin length and 2529 cm in width, containing 24 exam rooms and 8 physician work areas as shown\nin Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A summary of this approach is presented in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The PSO pseudo-code pertaining to\nthe problem of optimising the layout of an outpatient clinic is presented in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As part of the improvement in the MH algorithms, the solution quality can be enhanced\nby optimising the MH parameters, such as  and  in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of\nan infeasible layout is shown in Figure 5(a) where (i) the\nwaiting area overlaps with four exam rooms and (ii) one exam room (shaded square unit)\noverlaps with another unit.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "A feasible layout solution can be found by neighbourhood\nsearch where the waiting area is rotated and the exam room is moved slightly, as shown\nin Figure 5(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The stopping\ncriteria used to terminate the PSO procedure, as shown in PSO pseudo-code in Figure 4, are the limit of a maximum number of iterations (10,000\ntimes), or achieving less than a 1% solution improvement in 1000 runs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "These three layouts, in addition\nto the current layout, are presented in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Correspondingly, the candidate layouts in Figure 6 have relatively insignificant differences in terms of the pair-wise\nwalking distances (i.e., less than 8% difference in the objective function value).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However,\nthe aggregate patient walking distances vary between the four layouts, as shown in the box\nplots in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The histograms of patient walking distances for each of the candidate layouts are also\nshown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A variety of patient paths that can occur in the studied orthopaedic outpatient clinic are\ndepicted in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The current layout of the clinic is a rectangular space of 6528 cm\nin length and 2529 cm in width, containing 24 exam rooms and 8 physician work areas as shown\nin Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A summary of this approach is presented in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The PSO pseudo-code pertaining to\nthe problem of optimising the layout of an outpatient clinic is presented in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As part of the improvement in the MH algorithms, the solution quality can be enhanced\nby optimising the MH parameters, such as  and  in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of\nan infeasible layout is shown in Figure 5(a) where (i) the\nwaiting area overlaps with four exam rooms and (ii) one exam room (shaded square unit)\noverlaps with another unit.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "A feasible layout solution can be found by neighbourhood\nsearch where the waiting area is rotated and the exam room is moved slightly, as shown\nin Figure 5(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The stopping\ncriteria used to terminate the PSO procedure, as shown in PSO pseudo-code in Figure 4, are the limit of a maximum number of iterations (10,000\ntimes), or achieving less than a 1% solution improvement in 1000 runs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "These three layouts, in addition\nto the current layout, are presented in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Correspondingly, the candidate layouts in Figure 6 have relatively insignificant differences in terms of the pair-wise\nwalking distances (i.e., less than 8% difference in the objective function value).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However,\nthe aggregate patient walking distances vary between the four layouts, as shown in the box\nplots in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The histograms of patient walking distances for each of the candidate layouts are also\nshown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A variety of patient paths that can occur in the studied orthopaedic outpatient clinic are\ndepicted in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The current layout of the clinic is a rectangular space of 6528 cm\nin length and 2529 cm in width, containing 24 exam rooms and 8 physician work areas as shown\nin Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A summary of this approach is presented in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The PSO pseudo-code pertaining to\nthe problem of optimising the layout of an outpatient clinic is presented in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As part of the improvement in the MH algorithms, the solution quality can be enhanced\nby optimising the MH parameters, such as  and  in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of\nan infeasible layout is shown in Figure 5(a) where (i) the\nwaiting area overlaps with four exam rooms and (ii) one exam room (shaded square unit)\noverlaps with another unit.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "A feasible layout solution can be found by neighbourhood\nsearch where the waiting area is rotated and the exam room is moved slightly, as shown\nin Figure 5(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The stopping\ncriteria used to terminate the PSO procedure, as shown in PSO pseudo-code in Figure 4, are the limit of a maximum number of iterations (10,000\ntimes), or achieving less than a 1% solution improvement in 1000 runs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "These three layouts, in addition\nto the current layout, are presented in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Correspondingly, the candidate layouts in Figure 6 have relatively insignificant differences in terms of the pair-wise\nwalking distances (i.e., less than 8% difference in the objective function value).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However,\nthe aggregate patient walking distances vary between the four layouts, as shown in the box\nplots in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The histograms of patient walking distances for each of the candidate layouts are also\nshown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A variety of patient paths that can occur in the studied orthopaedic outpatient clinic are\ndepicted in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The current layout of the clinic is a rectangular space of 6528 cm\nin length and 2529 cm in width, containing 24 exam rooms and 8 physician work areas as shown\nin Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A summary of this approach is presented in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The PSO pseudo-code pertaining to\nthe problem of optimising the layout of an outpatient clinic is presented in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As part of the improvement in the MH algorithms, the solution quality can be enhanced\nby optimising the MH parameters, such as  and  in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of\nan infeasible layout is shown in Figure 5(a) where (i) the\nwaiting area overlaps with four exam rooms and (ii) one exam room (shaded square unit)\noverlaps with another unit.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "A feasible layout solution can be found by neighbourhood\nsearch where the waiting area is rotated and the exam room is moved slightly, as shown\nin Figure 5(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The stopping\ncriteria used to terminate the PSO procedure, as shown in PSO pseudo-code in Figure 4, are the limit of a maximum number of iterations (10,000\ntimes), or achieving less than a 1% solution improvement in 1000 runs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "These three layouts, in addition\nto the current layout, are presented in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Correspondingly, the candidate layouts in Figure 6 have relatively insignificant differences in terms of the pair-wise\nwalking distances (i.e., less than 8% difference in the objective function value).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However,\nthe aggregate patient walking distances vary between the four layouts, as shown in the box\nplots in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The histograms of patient walking distances for each of the candidate layouts are also\nshown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A variety of patient paths that can occur in the studied orthopaedic outpatient clinic are\ndepicted in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The current layout of the clinic is a rectangular space of 6528 cm\nin length and 2529 cm in width, containing 24 exam rooms and 8 physician work areas as shown\nin Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A variety of patient paths that can occur in the studied orthopaedic outpatient clinic are\ndepicted in Figure 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The current layout of the clinic is a rectangular space of 6528 cm\nin length and 2529 cm in width, containing 24 exam rooms and 8 physician work areas as shown\nin Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A summary of this approach is presented in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The PSO pseudo-code pertaining to\nthe problem of optimising the layout of an outpatient clinic is presented in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As part of the improvement in the MH algorithms, the solution quality can be enhanced\nby optimising the MH parameters, such as  and  in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of\nan infeasible layout is shown in Figure 5(a) where (i) the\nwaiting area overlaps with four exam rooms and (ii) one exam room (shaded square unit)\noverlaps with another unit.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "A feasible layout solution can be found by neighbourhood\nsearch where the waiting area is rotated and the exam room is moved slightly, as shown\nin Figure 5(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The stopping\ncriteria used to terminate the PSO procedure, as shown in PSO pseudo-code in Figure 4, are the limit of a maximum number of iterations (10,000\ntimes), or achieving less than a 1% solution improvement in 1000 runs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "A summary of this approach is presented in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The PSO pseudo-code pertaining to\nthe problem of optimising the layout of an outpatient clinic is presented in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As part of the improvement in the MH algorithms, the solution quality can be enhanced\nby optimising the MH parameters, such as  and  in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of\nan infeasible layout is shown in Figure 5(a) where (i) the\nwaiting area overlaps with four exam rooms and (ii) one exam room (shaded square unit)\noverlaps with another unit.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "A feasible layout solution can be found by neighbourhood\nsearch where the waiting area is rotated and the exam room is moved slightly, as shown\nin Figure 5(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The stopping\ncriteria used to terminate the PSO procedure, as shown in PSO pseudo-code in Figure 4, are the limit of a maximum number of iterations (10,000\ntimes), or achieving less than a 1% solution improvement in 1000 runs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The PSO pseudo-code pertaining to\nthe problem of optimising the layout of an outpatient clinic is presented in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The PSO pseudo-code pertaining to\nthe problem of optimising the layout of an outpatient clinic is presented in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As part of the improvement in the MH algorithms, the solution quality can be enhanced\nby optimising the MH parameters, such as  and  in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "As part of the improvement in the MH algorithms, the solution quality can be enhanced\nby optimising the MH parameters, such as  and  in Figure 4.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of\nan infeasible layout is shown in Figure 5(a) where (i) the\nwaiting area overlaps with four exam rooms and (ii) one exam room (shaded square unit)\noverlaps with another unit.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "A feasible layout solution can be found by neighbourhood\nsearch where the waiting area is rotated and the exam room is moved slightly, as shown\nin Figure 5(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "An example of\nan infeasible layout is shown in Figure 5(a) where (i) the\nwaiting area overlaps with four exam rooms and (ii) one exam room (shaded square unit)\noverlaps with another unit.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "A feasible layout solution can be found by neighbourhood\nsearch where the waiting area is rotated and the exam room is moved slightly, as shown\nin Figure 5(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The stopping\ncriteria used to terminate the PSO procedure, as shown in PSO pseudo-code in Figure 4, are the limit of a maximum number of iterations (10,000\ntimes), or achieving less than a 1% solution improvement in 1000 runs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The stopping\ncriteria used to terminate the PSO procedure, as shown in PSO pseudo-code in Figure 4, are the limit of a maximum number of iterations (10,000\ntimes), or achieving less than a 1% solution improvement in 1000 runs.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "These three layouts, in addition\nto the current layout, are presented in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Correspondingly, the candidate layouts in Figure 6 have relatively insignificant differences in terms of the pair-wise\nwalking distances (i.e., less than 8% difference in the objective function value).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However,\nthe aggregate patient walking distances vary between the four layouts, as shown in the box\nplots in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The histograms of patient walking distances for each of the candidate layouts are also\nshown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "These three layouts, in addition\nto the current layout, are presented in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Correspondingly, the candidate layouts in Figure 6 have relatively insignificant differences in terms of the pair-wise\nwalking distances (i.e., less than 8% difference in the objective function value).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "However,\nthe aggregate patient walking distances vary between the four layouts, as shown in the box\nplots in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The histograms of patient walking distances for each of the candidate layouts are also\nshown in Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  }
+]

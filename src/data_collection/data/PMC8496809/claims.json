@@ -1,0 +1,1562 @@
+[
+  {
+    "sentence": "The yearly number of eligible non-English-language studies published in each journal has increased significantly over time, especially since 2000, in 6 out of the 12 languages covered (French, German, Japanese, Portuguese, Russian, and simplified Chinese), with Portuguese and Russian showing a particularly rapid increase, while traditional Chinese also showed a marginally significant increase (Fig 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Studies in 10 out of the 16 languages we searched were significantly more likely to adopt less robust designs, compared to English-language studies, when controlling for the effect of study taxa and countries where English-language studies were conducted (Fig 2 and S1 Table).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "English-language studies were conducted in a total of 952 of the 2° × 2° grid cells and non-English-language studies in 353 grid cells, 238 of which had no English-language studies (those grid cells shown in black in Fig 3; also see Comparing study locations in Materials and methods).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "More non-English-language studies tended to be found in grid cells with fewer English-language studies, especially in East/Central/Western Asia, Russia, northern Africa, and Latin America (Figs 3 and S2), but the relationship was not significant when controlling for spatial autocorrelation (posterior median slope in a conditional autoregressive model: −0.012, 95% credible interval (CI): −0.032 to 0.005; see an inset in Fig 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Although species with more studies in non-English languages also tended to have more studies in English for all 3 taxa (generalised linear mixed models for amphibians: slope = 0.12, z = 7.93, p < 0.001; birds: slope = 0.060, z = 13.18, p < 0.001; mammals: slope = 0.026, z = 5.65, p < 0.001; also see insets in Fig 4), non-English-language studies provided scientific evidence on the effectiveness of conservation interventions for an additional 9 amphibian, 217 bird, and 64 mammal species that were not covered by English-language studies (Fig 4), meaning 5%, 32%, and 9% increases in the evidence coverage of amphibian, bird, and mammal species, respectively.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We thus assessed the effects of excluding earlier volumes of long-running journals from our searches, by testing how the number of eligible studies changed over time in each journal (see Fig 1 for the result).\n\n\n· Possibility of missing eligible studies\nWe tried to identify as many eligible studies as possible in each language, by making sure that (i) every searcher was well qualified and trained before starting the searches (see Searchers); and (ii) when in doubt, searchers keep, rather than reject, a study as potentially eligible, the validity of which was later assessed by independent experts (see Study validity assessment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This would potentially affect the reported patterns in (i) the number and proportion of eligible studies among non-English languages (S1 Fig); and (ii) the proportion of different study designs among different languages (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nevertheless, among-searcher variations in judgements should affect neither (i) yearly increases in the number of eligible non-English-language studies in each journal (Fig 1), as the same journal was searched by a single searcher, nor (ii) the spatial and taxonomic complementarity between English- and non-English-language studies (Figs 3 and 4), assuming that any such variations in assessment outcomes only affected a limited number of non-English-language studies and thus have not drastically changed the overall patterns in the differences between English and non-English-language studies.\n\n\n· Effects of publication bias\nWe focused only on studies published in peer-reviewed academic journals and thus did not consider the effects of publication bias, caused by ignoring grey literature, within each language, while recognising that important scientific knowledge may also be published in non-English-language grey literature [29].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Journals with 30 or fewer studies screened were excluded from this calculation, as the estimated proportions would be unreliable given the small sample size.Testing yearly changes in the number of eligible non-English-language studies\nTo test whether the number of eligible non-English-language studies had changed over time, we focused only on journals with 10 or more eligible studies, resulting in journals/studies in a total of 12 languages (shown in Fig 1) being used in the following analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The representative area covered by a grid cell in temperate areas is smaller than at the tropics and many of the new grids cells in Fig3 are tropical.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The yearly number of eligible non-English-language studies published in each journal has increased significantly over time, especially since 2000, in 6 out of the 12 languages covered (French, German, Japanese, Portuguese, Russian, and simplified Chinese), with Portuguese and Russian showing a particularly rapid increase, while traditional Chinese also showed a marginally significant increase (Fig 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Studies in 10 out of the 16 languages we searched were significantly more likely to adopt less robust designs, compared to English-language studies, when controlling for the effect of study taxa and countries where English-language studies were conducted (Fig 2 and S1 Table).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "English-language studies were conducted in a total of 952 of the 2° × 2° grid cells and non-English-language studies in 353 grid cells, 238 of which had no English-language studies (those grid cells shown in black in Fig 3; also see Comparing study locations in Materials and methods).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "More non-English-language studies tended to be found in grid cells with fewer English-language studies, especially in East/Central/Western Asia, Russia, northern Africa, and Latin America (Figs 3 and S2), but the relationship was not significant when controlling for spatial autocorrelation (posterior median slope in a conditional autoregressive model: −0.012, 95% credible interval (CI): −0.032 to 0.005; see an inset in Fig 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Although species with more studies in non-English languages also tended to have more studies in English for all 3 taxa (generalised linear mixed models for amphibians: slope = 0.12, z = 7.93, p < 0.001; birds: slope = 0.060, z = 13.18, p < 0.001; mammals: slope = 0.026, z = 5.65, p < 0.001; also see insets in Fig 4), non-English-language studies provided scientific evidence on the effectiveness of conservation interventions for an additional 9 amphibian, 217 bird, and 64 mammal species that were not covered by English-language studies (Fig 4), meaning 5%, 32%, and 9% increases in the evidence coverage of amphibian, bird, and mammal species, respectively.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We thus assessed the effects of excluding earlier volumes of long-running journals from our searches, by testing how the number of eligible studies changed over time in each journal (see Fig 1 for the result).\n\n\n· Possibility of missing eligible studies\nWe tried to identify as many eligible studies as possible in each language, by making sure that (i) every searcher was well qualified and trained before starting the searches (see Searchers); and (ii) when in doubt, searchers keep, rather than reject, a study as potentially eligible, the validity of which was later assessed by independent experts (see Study validity assessment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This would potentially affect the reported patterns in (i) the number and proportion of eligible studies among non-English languages (S1 Fig); and (ii) the proportion of different study designs among different languages (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nevertheless, among-searcher variations in judgements should affect neither (i) yearly increases in the number of eligible non-English-language studies in each journal (Fig 1), as the same journal was searched by a single searcher, nor (ii) the spatial and taxonomic complementarity between English- and non-English-language studies (Figs 3 and 4), assuming that any such variations in assessment outcomes only affected a limited number of non-English-language studies and thus have not drastically changed the overall patterns in the differences between English and non-English-language studies.\n\n\n· Effects of publication bias\nWe focused only on studies published in peer-reviewed academic journals and thus did not consider the effects of publication bias, caused by ignoring grey literature, within each language, while recognising that important scientific knowledge may also be published in non-English-language grey literature [29].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Journals with 30 or fewer studies screened were excluded from this calculation, as the estimated proportions would be unreliable given the small sample size.Testing yearly changes in the number of eligible non-English-language studies\nTo test whether the number of eligible non-English-language studies had changed over time, we focused only on journals with 10 or more eligible studies, resulting in journals/studies in a total of 12 languages (shown in Fig 1) being used in the following analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The representative area covered by a grid cell in temperate areas is smaller than at the tropics and many of the new grids cells in Fig3 are tropical.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The yearly number of eligible non-English-language studies published in each journal has increased significantly over time, especially since 2000, in 6 out of the 12 languages covered (French, German, Japanese, Portuguese, Russian, and simplified Chinese), with Portuguese and Russian showing a particularly rapid increase, while traditional Chinese also showed a marginally significant increase (Fig 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Studies in 10 out of the 16 languages we searched were significantly more likely to adopt less robust designs, compared to English-language studies, when controlling for the effect of study taxa and countries where English-language studies were conducted (Fig 2 and S1 Table).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "English-language studies were conducted in a total of 952 of the 2° × 2° grid cells and non-English-language studies in 353 grid cells, 238 of which had no English-language studies (those grid cells shown in black in Fig 3; also see Comparing study locations in Materials and methods).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "More non-English-language studies tended to be found in grid cells with fewer English-language studies, especially in East/Central/Western Asia, Russia, northern Africa, and Latin America (Figs 3 and S2), but the relationship was not significant when controlling for spatial autocorrelation (posterior median slope in a conditional autoregressive model: −0.012, 95% credible interval (CI): −0.032 to 0.005; see an inset in Fig 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Although species with more studies in non-English languages also tended to have more studies in English for all 3 taxa (generalised linear mixed models for amphibians: slope = 0.12, z = 7.93, p < 0.001; birds: slope = 0.060, z = 13.18, p < 0.001; mammals: slope = 0.026, z = 5.65, p < 0.001; also see insets in Fig 4), non-English-language studies provided scientific evidence on the effectiveness of conservation interventions for an additional 9 amphibian, 217 bird, and 64 mammal species that were not covered by English-language studies (Fig 4), meaning 5%, 32%, and 9% increases in the evidence coverage of amphibian, bird, and mammal species, respectively.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We thus assessed the effects of excluding earlier volumes of long-running journals from our searches, by testing how the number of eligible studies changed over time in each journal (see Fig 1 for the result).\n\n\n· Possibility of missing eligible studies\nWe tried to identify as many eligible studies as possible in each language, by making sure that (i) every searcher was well qualified and trained before starting the searches (see Searchers); and (ii) when in doubt, searchers keep, rather than reject, a study as potentially eligible, the validity of which was later assessed by independent experts (see Study validity assessment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This would potentially affect the reported patterns in (i) the number and proportion of eligible studies among non-English languages (S1 Fig); and (ii) the proportion of different study designs among different languages (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nevertheless, among-searcher variations in judgements should affect neither (i) yearly increases in the number of eligible non-English-language studies in each journal (Fig 1), as the same journal was searched by a single searcher, nor (ii) the spatial and taxonomic complementarity between English- and non-English-language studies (Figs 3 and 4), assuming that any such variations in assessment outcomes only affected a limited number of non-English-language studies and thus have not drastically changed the overall patterns in the differences between English and non-English-language studies.\n\n\n· Effects of publication bias\nWe focused only on studies published in peer-reviewed academic journals and thus did not consider the effects of publication bias, caused by ignoring grey literature, within each language, while recognising that important scientific knowledge may also be published in non-English-language grey literature [29].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Journals with 30 or fewer studies screened were excluded from this calculation, as the estimated proportions would be unreliable given the small sample size.Testing yearly changes in the number of eligible non-English-language studies\nTo test whether the number of eligible non-English-language studies had changed over time, we focused only on journals with 10 or more eligible studies, resulting in journals/studies in a total of 12 languages (shown in Fig 1) being used in the following analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The representative area covered by a grid cell in temperate areas is smaller than at the tropics and many of the new grids cells in Fig3 are tropical.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The yearly number of eligible non-English-language studies published in each journal has increased significantly over time, especially since 2000, in 6 out of the 12 languages covered (French, German, Japanese, Portuguese, Russian, and simplified Chinese), with Portuguese and Russian showing a particularly rapid increase, while traditional Chinese also showed a marginally significant increase (Fig 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Studies in 10 out of the 16 languages we searched were significantly more likely to adopt less robust designs, compared to English-language studies, when controlling for the effect of study taxa and countries where English-language studies were conducted (Fig 2 and S1 Table).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "English-language studies were conducted in a total of 952 of the 2° × 2° grid cells and non-English-language studies in 353 grid cells, 238 of which had no English-language studies (those grid cells shown in black in Fig 3; also see Comparing study locations in Materials and methods).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "More non-English-language studies tended to be found in grid cells with fewer English-language studies, especially in East/Central/Western Asia, Russia, northern Africa, and Latin America (Figs 3 and S2), but the relationship was not significant when controlling for spatial autocorrelation (posterior median slope in a conditional autoregressive model: −0.012, 95% credible interval (CI): −0.032 to 0.005; see an inset in Fig 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Although species with more studies in non-English languages also tended to have more studies in English for all 3 taxa (generalised linear mixed models for amphibians: slope = 0.12, z = 7.93, p < 0.001; birds: slope = 0.060, z = 13.18, p < 0.001; mammals: slope = 0.026, z = 5.65, p < 0.001; also see insets in Fig 4), non-English-language studies provided scientific evidence on the effectiveness of conservation interventions for an additional 9 amphibian, 217 bird, and 64 mammal species that were not covered by English-language studies (Fig 4), meaning 5%, 32%, and 9% increases in the evidence coverage of amphibian, bird, and mammal species, respectively.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We thus assessed the effects of excluding earlier volumes of long-running journals from our searches, by testing how the number of eligible studies changed over time in each journal (see Fig 1 for the result).\n\n\n· Possibility of missing eligible studies\nWe tried to identify as many eligible studies as possible in each language, by making sure that (i) every searcher was well qualified and trained before starting the searches (see Searchers); and (ii) when in doubt, searchers keep, rather than reject, a study as potentially eligible, the validity of which was later assessed by independent experts (see Study validity assessment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This would potentially affect the reported patterns in (i) the number and proportion of eligible studies among non-English languages (S1 Fig); and (ii) the proportion of different study designs among different languages (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nevertheless, among-searcher variations in judgements should affect neither (i) yearly increases in the number of eligible non-English-language studies in each journal (Fig 1), as the same journal was searched by a single searcher, nor (ii) the spatial and taxonomic complementarity between English- and non-English-language studies (Figs 3 and 4), assuming that any such variations in assessment outcomes only affected a limited number of non-English-language studies and thus have not drastically changed the overall patterns in the differences between English and non-English-language studies.\n\n\n· Effects of publication bias\nWe focused only on studies published in peer-reviewed academic journals and thus did not consider the effects of publication bias, caused by ignoring grey literature, within each language, while recognising that important scientific knowledge may also be published in non-English-language grey literature [29].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Journals with 30 or fewer studies screened were excluded from this calculation, as the estimated proportions would be unreliable given the small sample size.Testing yearly changes in the number of eligible non-English-language studies\nTo test whether the number of eligible non-English-language studies had changed over time, we focused only on journals with 10 or more eligible studies, resulting in journals/studies in a total of 12 languages (shown in Fig 1) being used in the following analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The representative area covered by a grid cell in temperate areas is smaller than at the tropics and many of the new grids cells in Fig3 are tropical.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The yearly number of eligible non-English-language studies published in each journal has increased significantly over time, especially since 2000, in 6 out of the 12 languages covered (French, German, Japanese, Portuguese, Russian, and simplified Chinese), with Portuguese and Russian showing a particularly rapid increase, while traditional Chinese also showed a marginally significant increase (Fig 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Studies in 10 out of the 16 languages we searched were significantly more likely to adopt less robust designs, compared to English-language studies, when controlling for the effect of study taxa and countries where English-language studies were conducted (Fig 2 and S1 Table).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "English-language studies were conducted in a total of 952 of the 2° × 2° grid cells and non-English-language studies in 353 grid cells, 238 of which had no English-language studies (those grid cells shown in black in Fig 3; also see Comparing study locations in Materials and methods).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "More non-English-language studies tended to be found in grid cells with fewer English-language studies, especially in East/Central/Western Asia, Russia, northern Africa, and Latin America (Figs 3 and S2), but the relationship was not significant when controlling for spatial autocorrelation (posterior median slope in a conditional autoregressive model: −0.012, 95% credible interval (CI): −0.032 to 0.005; see an inset in Fig 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Although species with more studies in non-English languages also tended to have more studies in English for all 3 taxa (generalised linear mixed models for amphibians: slope = 0.12, z = 7.93, p < 0.001; birds: slope = 0.060, z = 13.18, p < 0.001; mammals: slope = 0.026, z = 5.65, p < 0.001; also see insets in Fig 4), non-English-language studies provided scientific evidence on the effectiveness of conservation interventions for an additional 9 amphibian, 217 bird, and 64 mammal species that were not covered by English-language studies (Fig 4), meaning 5%, 32%, and 9% increases in the evidence coverage of amphibian, bird, and mammal species, respectively.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We thus assessed the effects of excluding earlier volumes of long-running journals from our searches, by testing how the number of eligible studies changed over time in each journal (see Fig 1 for the result).\n\n\n· Possibility of missing eligible studies\nWe tried to identify as many eligible studies as possible in each language, by making sure that (i) every searcher was well qualified and trained before starting the searches (see Searchers); and (ii) when in doubt, searchers keep, rather than reject, a study as potentially eligible, the validity of which was later assessed by independent experts (see Study validity assessment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This would potentially affect the reported patterns in (i) the number and proportion of eligible studies among non-English languages (S1 Fig); and (ii) the proportion of different study designs among different languages (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nevertheless, among-searcher variations in judgements should affect neither (i) yearly increases in the number of eligible non-English-language studies in each journal (Fig 1), as the same journal was searched by a single searcher, nor (ii) the spatial and taxonomic complementarity between English- and non-English-language studies (Figs 3 and 4), assuming that any such variations in assessment outcomes only affected a limited number of non-English-language studies and thus have not drastically changed the overall patterns in the differences between English and non-English-language studies.\n\n\n· Effects of publication bias\nWe focused only on studies published in peer-reviewed academic journals and thus did not consider the effects of publication bias, caused by ignoring grey literature, within each language, while recognising that important scientific knowledge may also be published in non-English-language grey literature [29].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Journals with 30 or fewer studies screened were excluded from this calculation, as the estimated proportions would be unreliable given the small sample size.Testing yearly changes in the number of eligible non-English-language studies\nTo test whether the number of eligible non-English-language studies had changed over time, we focused only on journals with 10 or more eligible studies, resulting in journals/studies in a total of 12 languages (shown in Fig 1) being used in the following analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The representative area covered by a grid cell in temperate areas is smaller than at the tropics and many of the new grids cells in Fig3 are tropical.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The yearly number of eligible non-English-language studies published in each journal has increased significantly over time, especially since 2000, in 6 out of the 12 languages covered (French, German, Japanese, Portuguese, Russian, and simplified Chinese), with Portuguese and Russian showing a particularly rapid increase, while traditional Chinese also showed a marginally significant increase (Fig 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Studies in 10 out of the 16 languages we searched were significantly more likely to adopt less robust designs, compared to English-language studies, when controlling for the effect of study taxa and countries where English-language studies were conducted (Fig 2 and S1 Table).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "English-language studies were conducted in a total of 952 of the 2° × 2° grid cells and non-English-language studies in 353 grid cells, 238 of which had no English-language studies (those grid cells shown in black in Fig 3; also see Comparing study locations in Materials and methods).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "More non-English-language studies tended to be found in grid cells with fewer English-language studies, especially in East/Central/Western Asia, Russia, northern Africa, and Latin America (Figs 3 and S2), but the relationship was not significant when controlling for spatial autocorrelation (posterior median slope in a conditional autoregressive model: −0.012, 95% credible interval (CI): −0.032 to 0.005; see an inset in Fig 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Although species with more studies in non-English languages also tended to have more studies in English for all 3 taxa (generalised linear mixed models for amphibians: slope = 0.12, z = 7.93, p < 0.001; birds: slope = 0.060, z = 13.18, p < 0.001; mammals: slope = 0.026, z = 5.65, p < 0.001; also see insets in Fig 4), non-English-language studies provided scientific evidence on the effectiveness of conservation interventions for an additional 9 amphibian, 217 bird, and 64 mammal species that were not covered by English-language studies (Fig 4), meaning 5%, 32%, and 9% increases in the evidence coverage of amphibian, bird, and mammal species, respectively.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We thus assessed the effects of excluding earlier volumes of long-running journals from our searches, by testing how the number of eligible studies changed over time in each journal (see Fig 1 for the result).\n\n\n· Possibility of missing eligible studies\nWe tried to identify as many eligible studies as possible in each language, by making sure that (i) every searcher was well qualified and trained before starting the searches (see Searchers); and (ii) when in doubt, searchers keep, rather than reject, a study as potentially eligible, the validity of which was later assessed by independent experts (see Study validity assessment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This would potentially affect the reported patterns in (i) the number and proportion of eligible studies among non-English languages (S1 Fig); and (ii) the proportion of different study designs among different languages (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nevertheless, among-searcher variations in judgements should affect neither (i) yearly increases in the number of eligible non-English-language studies in each journal (Fig 1), as the same journal was searched by a single searcher, nor (ii) the spatial and taxonomic complementarity between English- and non-English-language studies (Figs 3 and 4), assuming that any such variations in assessment outcomes only affected a limited number of non-English-language studies and thus have not drastically changed the overall patterns in the differences between English and non-English-language studies.\n\n\n· Effects of publication bias\nWe focused only on studies published in peer-reviewed academic journals and thus did not consider the effects of publication bias, caused by ignoring grey literature, within each language, while recognising that important scientific knowledge may also be published in non-English-language grey literature [29].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Journals with 30 or fewer studies screened were excluded from this calculation, as the estimated proportions would be unreliable given the small sample size.Testing yearly changes in the number of eligible non-English-language studies\nTo test whether the number of eligible non-English-language studies had changed over time, we focused only on journals with 10 or more eligible studies, resulting in journals/studies in a total of 12 languages (shown in Fig 1) being used in the following analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The representative area covered by a grid cell in temperate areas is smaller than at the tropics and many of the new grids cells in Fig3 are tropical.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The yearly number of eligible non-English-language studies published in each journal has increased significantly over time, especially since 2000, in 6 out of the 12 languages covered (French, German, Japanese, Portuguese, Russian, and simplified Chinese), with Portuguese and Russian showing a particularly rapid increase, while traditional Chinese also showed a marginally significant increase (Fig 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Studies in 10 out of the 16 languages we searched were significantly more likely to adopt less robust designs, compared to English-language studies, when controlling for the effect of study taxa and countries where English-language studies were conducted (Fig 2 and S1 Table).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "English-language studies were conducted in a total of 952 of the 2° × 2° grid cells and non-English-language studies in 353 grid cells, 238 of which had no English-language studies (those grid cells shown in black in Fig 3; also see Comparing study locations in Materials and methods).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "More non-English-language studies tended to be found in grid cells with fewer English-language studies, especially in East/Central/Western Asia, Russia, northern Africa, and Latin America (Figs 3 and S2), but the relationship was not significant when controlling for spatial autocorrelation (posterior median slope in a conditional autoregressive model: −0.012, 95% credible interval (CI): −0.032 to 0.005; see an inset in Fig 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Although species with more studies in non-English languages also tended to have more studies in English for all 3 taxa (generalised linear mixed models for amphibians: slope = 0.12, z = 7.93, p < 0.001; birds: slope = 0.060, z = 13.18, p < 0.001; mammals: slope = 0.026, z = 5.65, p < 0.001; also see insets in Fig 4), non-English-language studies provided scientific evidence on the effectiveness of conservation interventions for an additional 9 amphibian, 217 bird, and 64 mammal species that were not covered by English-language studies (Fig 4), meaning 5%, 32%, and 9% increases in the evidence coverage of amphibian, bird, and mammal species, respectively.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We thus assessed the effects of excluding earlier volumes of long-running journals from our searches, by testing how the number of eligible studies changed over time in each journal (see Fig 1 for the result).\n\n\n· Possibility of missing eligible studies\nWe tried to identify as many eligible studies as possible in each language, by making sure that (i) every searcher was well qualified and trained before starting the searches (see Searchers); and (ii) when in doubt, searchers keep, rather than reject, a study as potentially eligible, the validity of which was later assessed by independent experts (see Study validity assessment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This would potentially affect the reported patterns in (i) the number and proportion of eligible studies among non-English languages (S1 Fig); and (ii) the proportion of different study designs among different languages (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nevertheless, among-searcher variations in judgements should affect neither (i) yearly increases in the number of eligible non-English-language studies in each journal (Fig 1), as the same journal was searched by a single searcher, nor (ii) the spatial and taxonomic complementarity between English- and non-English-language studies (Figs 3 and 4), assuming that any such variations in assessment outcomes only affected a limited number of non-English-language studies and thus have not drastically changed the overall patterns in the differences between English and non-English-language studies.\n\n\n· Effects of publication bias\nWe focused only on studies published in peer-reviewed academic journals and thus did not consider the effects of publication bias, caused by ignoring grey literature, within each language, while recognising that important scientific knowledge may also be published in non-English-language grey literature [29].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Journals with 30 or fewer studies screened were excluded from this calculation, as the estimated proportions would be unreliable given the small sample size.Testing yearly changes in the number of eligible non-English-language studies\nTo test whether the number of eligible non-English-language studies had changed over time, we focused only on journals with 10 or more eligible studies, resulting in journals/studies in a total of 12 languages (shown in Fig 1) being used in the following analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The representative area covered by a grid cell in temperate areas is smaller than at the tropics and many of the new grids cells in Fig3 are tropical.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The yearly number of eligible non-English-language studies published in each journal has increased significantly over time, especially since 2000, in 6 out of the 12 languages covered (French, German, Japanese, Portuguese, Russian, and simplified Chinese), with Portuguese and Russian showing a particularly rapid increase, while traditional Chinese also showed a marginally significant increase (Fig 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Studies in 10 out of the 16 languages we searched were significantly more likely to adopt less robust designs, compared to English-language studies, when controlling for the effect of study taxa and countries where English-language studies were conducted (Fig 2 and S1 Table).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "English-language studies were conducted in a total of 952 of the 2° × 2° grid cells and non-English-language studies in 353 grid cells, 238 of which had no English-language studies (those grid cells shown in black in Fig 3; also see Comparing study locations in Materials and methods).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "More non-English-language studies tended to be found in grid cells with fewer English-language studies, especially in East/Central/Western Asia, Russia, northern Africa, and Latin America (Figs 3 and S2), but the relationship was not significant when controlling for spatial autocorrelation (posterior median slope in a conditional autoregressive model: −0.012, 95% credible interval (CI): −0.032 to 0.005; see an inset in Fig 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Although species with more studies in non-English languages also tended to have more studies in English for all 3 taxa (generalised linear mixed models for amphibians: slope = 0.12, z = 7.93, p < 0.001; birds: slope = 0.060, z = 13.18, p < 0.001; mammals: slope = 0.026, z = 5.65, p < 0.001; also see insets in Fig 4), non-English-language studies provided scientific evidence on the effectiveness of conservation interventions for an additional 9 amphibian, 217 bird, and 64 mammal species that were not covered by English-language studies (Fig 4), meaning 5%, 32%, and 9% increases in the evidence coverage of amphibian, bird, and mammal species, respectively.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We thus assessed the effects of excluding earlier volumes of long-running journals from our searches, by testing how the number of eligible studies changed over time in each journal (see Fig 1 for the result).\n\n\n· Possibility of missing eligible studies\nWe tried to identify as many eligible studies as possible in each language, by making sure that (i) every searcher was well qualified and trained before starting the searches (see Searchers); and (ii) when in doubt, searchers keep, rather than reject, a study as potentially eligible, the validity of which was later assessed by independent experts (see Study validity assessment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This would potentially affect the reported patterns in (i) the number and proportion of eligible studies among non-English languages (S1 Fig); and (ii) the proportion of different study designs among different languages (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nevertheless, among-searcher variations in judgements should affect neither (i) yearly increases in the number of eligible non-English-language studies in each journal (Fig 1), as the same journal was searched by a single searcher, nor (ii) the spatial and taxonomic complementarity between English- and non-English-language studies (Figs 3 and 4), assuming that any such variations in assessment outcomes only affected a limited number of non-English-language studies and thus have not drastically changed the overall patterns in the differences between English and non-English-language studies.\n\n\n· Effects of publication bias\nWe focused only on studies published in peer-reviewed academic journals and thus did not consider the effects of publication bias, caused by ignoring grey literature, within each language, while recognising that important scientific knowledge may also be published in non-English-language grey literature [29].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Journals with 30 or fewer studies screened were excluded from this calculation, as the estimated proportions would be unreliable given the small sample size.Testing yearly changes in the number of eligible non-English-language studies\nTo test whether the number of eligible non-English-language studies had changed over time, we focused only on journals with 10 or more eligible studies, resulting in journals/studies in a total of 12 languages (shown in Fig 1) being used in the following analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The yearly number of eligible non-English-language studies published in each journal has increased significantly over time, especially since 2000, in 6 out of the 12 languages covered (French, German, Japanese, Portuguese, Russian, and simplified Chinese), with Portuguese and Russian showing a particularly rapid increase, while traditional Chinese also showed a marginally significant increase (Fig 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Studies in 10 out of the 16 languages we searched were significantly more likely to adopt less robust designs, compared to English-language studies, when controlling for the effect of study taxa and countries where English-language studies were conducted (Fig 2 and S1 Table).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "English-language studies were conducted in a total of 952 of the 2° × 2° grid cells and non-English-language studies in 353 grid cells, 238 of which had no English-language studies (those grid cells shown in black in Fig 3; also see Comparing study locations in Materials and methods).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "More non-English-language studies tended to be found in grid cells with fewer English-language studies, especially in East/Central/Western Asia, Russia, northern Africa, and Latin America (Figs 3 and S2), but the relationship was not significant when controlling for spatial autocorrelation (posterior median slope in a conditional autoregressive model: −0.012, 95% credible interval (CI): −0.032 to 0.005; see an inset in Fig 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Although species with more studies in non-English languages also tended to have more studies in English for all 3 taxa (generalised linear mixed models for amphibians: slope = 0.12, z = 7.93, p < 0.001; birds: slope = 0.060, z = 13.18, p < 0.001; mammals: slope = 0.026, z = 5.65, p < 0.001; also see insets in Fig 4), non-English-language studies provided scientific evidence on the effectiveness of conservation interventions for an additional 9 amphibian, 217 bird, and 64 mammal species that were not covered by English-language studies (Fig 4), meaning 5%, 32%, and 9% increases in the evidence coverage of amphibian, bird, and mammal species, respectively.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The yearly number of eligible non-English-language studies published in each journal has increased significantly over time, especially since 2000, in 6 out of the 12 languages covered (French, German, Japanese, Portuguese, Russian, and simplified Chinese), with Portuguese and Russian showing a particularly rapid increase, while traditional Chinese also showed a marginally significant increase (Fig 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Studies in 10 out of the 16 languages we searched were significantly more likely to adopt less robust designs, compared to English-language studies, when controlling for the effect of study taxa and countries where English-language studies were conducted (Fig 2 and S1 Table).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "English-language studies were conducted in a total of 952 of the 2° × 2° grid cells and non-English-language studies in 353 grid cells, 238 of which had no English-language studies (those grid cells shown in black in Fig 3; also see Comparing study locations in Materials and methods).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "More non-English-language studies tended to be found in grid cells with fewer English-language studies, especially in East/Central/Western Asia, Russia, northern Africa, and Latin America (Figs 3 and S2), but the relationship was not significant when controlling for spatial autocorrelation (posterior median slope in a conditional autoregressive model: −0.012, 95% credible interval (CI): −0.032 to 0.005; see an inset in Fig 3).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Although species with more studies in non-English languages also tended to have more studies in English for all 3 taxa (generalised linear mixed models for amphibians: slope = 0.12, z = 7.93, p < 0.001; birds: slope = 0.060, z = 13.18, p < 0.001; mammals: slope = 0.026, z = 5.65, p < 0.001; also see insets in Fig 4), non-English-language studies provided scientific evidence on the effectiveness of conservation interventions for an additional 9 amphibian, 217 bird, and 64 mammal species that were not covered by English-language studies (Fig 4), meaning 5%, 32%, and 9% increases in the evidence coverage of amphibian, bird, and mammal species, respectively.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We thus assessed the effects of excluding earlier volumes of long-running journals from our searches, by testing how the number of eligible studies changed over time in each journal (see Fig 1 for the result).\n\n\n· Possibility of missing eligible studies\nWe tried to identify as many eligible studies as possible in each language, by making sure that (i) every searcher was well qualified and trained before starting the searches (see Searchers); and (ii) when in doubt, searchers keep, rather than reject, a study as potentially eligible, the validity of which was later assessed by independent experts (see Study validity assessment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This would potentially affect the reported patterns in (i) the number and proportion of eligible studies among non-English languages (S1 Fig); and (ii) the proportion of different study designs among different languages (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nevertheless, among-searcher variations in judgements should affect neither (i) yearly increases in the number of eligible non-English-language studies in each journal (Fig 1), as the same journal was searched by a single searcher, nor (ii) the spatial and taxonomic complementarity between English- and non-English-language studies (Figs 3 and 4), assuming that any such variations in assessment outcomes only affected a limited number of non-English-language studies and thus have not drastically changed the overall patterns in the differences between English and non-English-language studies.\n\n\n· Effects of publication bias\nWe focused only on studies published in peer-reviewed academic journals and thus did not consider the effects of publication bias, caused by ignoring grey literature, within each language, while recognising that important scientific knowledge may also be published in non-English-language grey literature [29].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Journals with 30 or fewer studies screened were excluded from this calculation, as the estimated proportions would be unreliable given the small sample size.Testing yearly changes in the number of eligible non-English-language studies\nTo test whether the number of eligible non-English-language studies had changed over time, we focused only on journals with 10 or more eligible studies, resulting in journals/studies in a total of 12 languages (shown in Fig 1) being used in the following analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We thus assessed the effects of excluding earlier volumes of long-running journals from our searches, by testing how the number of eligible studies changed over time in each journal (see Fig 1 for the result).\n\n\n· Possibility of missing eligible studies\nWe tried to identify as many eligible studies as possible in each language, by making sure that (i) every searcher was well qualified and trained before starting the searches (see Searchers); and (ii) when in doubt, searchers keep, rather than reject, a study as potentially eligible, the validity of which was later assessed by independent experts (see Study validity assessment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This would potentially affect the reported patterns in (i) the number and proportion of eligible studies among non-English languages (S1 Fig); and (ii) the proportion of different study designs among different languages (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nevertheless, among-searcher variations in judgements should affect neither (i) yearly increases in the number of eligible non-English-language studies in each journal (Fig 1), as the same journal was searched by a single searcher, nor (ii) the spatial and taxonomic complementarity between English- and non-English-language studies (Figs 3 and 4), assuming that any such variations in assessment outcomes only affected a limited number of non-English-language studies and thus have not drastically changed the overall patterns in the differences between English and non-English-language studies.\n\n\n· Effects of publication bias\nWe focused only on studies published in peer-reviewed academic journals and thus did not consider the effects of publication bias, caused by ignoring grey literature, within each language, while recognising that important scientific knowledge may also be published in non-English-language grey literature [29].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We thus assessed the effects of excluding earlier volumes of long-running journals from our searches, by testing how the number of eligible studies changed over time in each journal (see Fig 1 for the result).\n\n\n· Possibility of missing eligible studies\nWe tried to identify as many eligible studies as possible in each language, by making sure that (i) every searcher was well qualified and trained before starting the searches (see Searchers); and (ii) when in doubt, searchers keep, rather than reject, a study as potentially eligible, the validity of which was later assessed by independent experts (see Study validity assessment).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This would potentially affect the reported patterns in (i) the number and proportion of eligible studies among non-English languages (S1 Fig); and (ii) the proportion of different study designs among different languages (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nevertheless, among-searcher variations in judgements should affect neither (i) yearly increases in the number of eligible non-English-language studies in each journal (Fig 1), as the same journal was searched by a single searcher, nor (ii) the spatial and taxonomic complementarity between English- and non-English-language studies (Figs 3 and 4), assuming that any such variations in assessment outcomes only affected a limited number of non-English-language studies and thus have not drastically changed the overall patterns in the differences between English and non-English-language studies.\n\n\n· Effects of publication bias\nWe focused only on studies published in peer-reviewed academic journals and thus did not consider the effects of publication bias, caused by ignoring grey literature, within each language, while recognising that important scientific knowledge may also be published in non-English-language grey literature [29].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We thus assessed the effects of excluding earlier volumes of long-running journals from our searches, by testing how the number of eligible studies changed over time in each journal (see Fig 1 for the result).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This would potentially affect the reported patterns in (i) the number and proportion of eligible studies among non-English languages (S1 Fig); and (ii) the proportion of different study designs among different languages (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Nevertheless, among-searcher variations in judgements should affect neither (i) yearly increases in the number of eligible non-English-language studies in each journal (Fig 1), as the same journal was searched by a single searcher, nor (ii) the spatial and taxonomic complementarity between English- and non-English-language studies (Figs 3 and 4), assuming that any such variations in assessment outcomes only affected a limited number of non-English-language studies and thus have not drastically changed the overall patterns in the differences between English and non-English-language studies.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Journals with 30 or fewer studies screened were excluded from this calculation, as the estimated proportions would be unreliable given the small sample size.Testing yearly changes in the number of eligible non-English-language studies\nTo test whether the number of eligible non-English-language studies had changed over time, we focused only on journals with 10 or more eligible studies, resulting in journals/studies in a total of 12 languages (shown in Fig 1) being used in the following analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Testing yearly changes in the number of eligible non-English-language studies\nTo test whether the number of eligible non-English-language studies had changed over time, we focused only on journals with 10 or more eligible studies, resulting in journals/studies in a total of 12 languages (shown in Fig 1) being used in the following analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "To test whether the number of eligible non-English-language studies had changed over time, we focused only on journals with 10 or more eligible studies, resulting in journals/studies in a total of 12 languages (shown in Fig 1) being used in the following analysis.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The representative area covered by a grid cell in temperate areas is smaller than at the tropics and many of the new grids cells in Fig3 are tropical.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The representative area covered by a grid cell in temperate areas is smaller than at the tropics and many of the new grids cells in Fig3 are tropical.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  }
+]

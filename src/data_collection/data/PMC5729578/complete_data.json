@@ -1,0 +1,352 @@
+{
+  "paper_id": "PMC5729578",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5729578/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Figure 1.",
+      "caption": "Adapted STEADI algorithm for determining fall risk level.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9114/5729578/c9200923def8/nihms923895f1.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9114/5729578/c9200923def8/nihms923895f1.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9114/5729578/c9200923def8/nihms923895f1.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9114/5729578/c9200923def8/nihms923895f1.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9114/5729578/c9200923def8/nihms923895f1.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC5729578/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9114/5729578/c9200923def8/nihms923895f1.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Figure 2.",
+      "caption": "Receiver operating characteristic (ROC) curves comparing model prediction of any fall over the follow-up period.\nAUC = area under the curve",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9114/5729578/a6c447e8b4d8/nihms923895f2.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9114/5729578/a6c447e8b4d8/nihms923895f2.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9114/5729578/a6c447e8b4d8/nihms923895f2.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9114/5729578/a6c447e8b4d8/nihms923895f2.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "F2",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9114/5729578/a6c447e8b4d8/nihms923895f2.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC5729578/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9114/5729578/a6c447e8b4d8/nihms923895f2.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "In secondary analyses, we considered two alternative outcomes: multiple falls and mortality.STEADI Fall Risk\nFall risk was measured at baseline using an adaptation of the STEADI fall risk algorithm for use with NHATS survey variables (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fall risk classification table based on logistic regressiona\n\n\nClassified\nFell\nDid not fall\nTotal\n\n\n\nHigh riskb\n\n30.3%\n18.5%\n48.9%\n\n\nLow risk\n16.4%\n34.8%\n51.1%\n\n\n\n\n\nTotal\n46.7%\n53.3%\n100%\n\n\n\n\n\nSensitivity = .65\nSpecificity = .65\nPPV = .62\nNPV = .68\n\n\n\nOpen in a new tab\n\nNotes:\n\naPredicted probabilities from logistic regression of any fall over four follow-up waves on STEADI fall risk category and age, gender, race/ethnicity, and education.\n\n\nbPredicted probability of falling ≥ .5\n\nPPV: positive predictive value; NPV: negative predictive value\nFigure 2 displays receiver operating characteristics (ROC) curves comparing the discriminant properties of different logistic regression models of falls over follow-up.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "In secondary analyses, we considered two alternative outcomes: multiple falls and mortality.STEADI Fall Risk\nFall risk was measured at baseline using an adaptation of the STEADI fall risk algorithm for use with NHATS survey variables (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fall risk classification table based on logistic regressiona\n\n\nClassified\nFell\nDid not fall\nTotal\n\n\n\nHigh riskb\n\n30.3%\n18.5%\n48.9%\n\n\nLow risk\n16.4%\n34.8%\n51.1%\n\n\n\n\n\nTotal\n46.7%\n53.3%\n100%\n\n\n\n\n\nSensitivity = .65\nSpecificity = .65\nPPV = .62\nNPV = .68\n\n\n\nOpen in a new tab\n\nNotes:\n\naPredicted probabilities from logistic regression of any fall over four follow-up waves on STEADI fall risk category and age, gender, race/ethnicity, and education.\n\n\nbPredicted probability of falling ≥ .5\n\nPPV: positive predictive value; NPV: negative predictive value\nFigure 2 displays receiver operating characteristics (ROC) curves comparing the discriminant properties of different logistic regression models of falls over follow-up.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "In secondary analyses, we considered two alternative outcomes: multiple falls and mortality.STEADI Fall Risk\nFall risk was measured at baseline using an adaptation of the STEADI fall risk algorithm for use with NHATS survey variables (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fall risk classification table based on logistic regressiona\n\n\nClassified\nFell\nDid not fall\nTotal\n\n\n\nHigh riskb\n\n30.3%\n18.5%\n48.9%\n\n\nLow risk\n16.4%\n34.8%\n51.1%\n\n\n\n\n\nTotal\n46.7%\n53.3%\n100%\n\n\n\n\n\nSensitivity = .65\nSpecificity = .65\nPPV = .62\nNPV = .68\n\n\n\nOpen in a new tab\n\nNotes:\n\naPredicted probabilities from logistic regression of any fall over four follow-up waves on STEADI fall risk category and age, gender, race/ethnicity, and education.\n\n\nbPredicted probability of falling ≥ .5\n\nPPV: positive predictive value; NPV: negative predictive value\nFigure 2 displays receiver operating characteristics (ROC) curves comparing the discriminant properties of different logistic regression models of falls over follow-up.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "In secondary analyses, we considered two alternative outcomes: multiple falls and mortality.STEADI Fall Risk\nFall risk was measured at baseline using an adaptation of the STEADI fall risk algorithm for use with NHATS survey variables (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fall risk classification table based on logistic regressiona\n\n\nClassified\nFell\nDid not fall\nTotal\n\n\n\nHigh riskb\n\n30.3%\n18.5%\n48.9%\n\n\nLow risk\n16.4%\n34.8%\n51.1%\n\n\n\n\n\nTotal\n46.7%\n53.3%\n100%\n\n\n\n\n\nSensitivity = .65\nSpecificity = .65\nPPV = .62\nNPV = .68\n\n\n\nOpen in a new tab\n\nNotes:\n\naPredicted probabilities from logistic regression of any fall over four follow-up waves on STEADI fall risk category and age, gender, race/ethnicity, and education.\n\n\nbPredicted probability of falling ≥ .5\n\nPPV: positive predictive value; NPV: negative predictive value\nFigure 2 displays receiver operating characteristics (ROC) curves comparing the discriminant properties of different logistic regression models of falls over follow-up.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "In secondary analyses, we considered two alternative outcomes: multiple falls and mortality.STEADI Fall Risk\nFall risk was measured at baseline using an adaptation of the STEADI fall risk algorithm for use with NHATS survey variables (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fall risk classification table based on logistic regressiona\n\n\nClassified\nFell\nDid not fall\nTotal\n\n\n\nHigh riskb\n\n30.3%\n18.5%\n48.9%\n\n\nLow risk\n16.4%\n34.8%\n51.1%\n\n\n\n\n\nTotal\n46.7%\n53.3%\n100%\n\n\n\n\n\nSensitivity = .65\nSpecificity = .65\nPPV = .62\nNPV = .68\n\n\n\nOpen in a new tab\n\nNotes:\n\naPredicted probabilities from logistic regression of any fall over four follow-up waves on STEADI fall risk category and age, gender, race/ethnicity, and education.\n\n\nbPredicted probability of falling ≥ .5\n\nPPV: positive predictive value; NPV: negative predictive value\nFigure 2 displays receiver operating characteristics (ROC) curves comparing the discriminant properties of different logistic regression models of falls over follow-up.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "In secondary analyses, we considered two alternative outcomes: multiple falls and mortality.STEADI Fall Risk\nFall risk was measured at baseline using an adaptation of the STEADI fall risk algorithm for use with NHATS survey variables (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fall risk classification table based on logistic regressiona\n\n\nClassified\nFell\nDid not fall\nTotal\n\n\n\nHigh riskb\n\n30.3%\n18.5%\n48.9%\n\n\nLow risk\n16.4%\n34.8%\n51.1%\n\n\n\n\n\nTotal\n46.7%\n53.3%\n100%\n\n\n\n\n\nSensitivity = .65\nSpecificity = .65\nPPV = .62\nNPV = .68\n\n\n\nOpen in a new tab\n\nNotes:\n\naPredicted probabilities from logistic regression of any fall over four follow-up waves on STEADI fall risk category and age, gender, race/ethnicity, and education.\n\n\nbPredicted probability of falling ≥ .5\n\nPPV: positive predictive value; NPV: negative predictive value\nFigure 2 displays receiver operating characteristics (ROC) curves comparing the discriminant properties of different logistic regression models of falls over follow-up.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "In secondary analyses, we considered two alternative outcomes: multiple falls and mortality.STEADI Fall Risk\nFall risk was measured at baseline using an adaptation of the STEADI fall risk algorithm for use with NHATS survey variables (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fall risk classification table based on logistic regressiona\n\n\nClassified\nFell\nDid not fall\nTotal\n\n\n\nHigh riskb\n\n30.3%\n18.5%\n48.9%\n\n\nLow risk\n16.4%\n34.8%\n51.1%\n\n\n\n\n\nTotal\n46.7%\n53.3%\n100%\n\n\n\n\n\nSensitivity = .65\nSpecificity = .65\nPPV = .62\nNPV = .68\n\n\n\nOpen in a new tab\n\nNotes:\n\naPredicted probabilities from logistic regression of any fall over four follow-up waves on STEADI fall risk category and age, gender, race/ethnicity, and education.\n\n\nbPredicted probability of falling ≥ .5\n\nPPV: positive predictive value; NPV: negative predictive value\nFigure 2 displays receiver operating characteristics (ROC) curves comparing the discriminant properties of different logistic regression models of falls over follow-up.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "In secondary analyses, we considered two alternative outcomes: multiple falls and mortality.STEADI Fall Risk\nFall risk was measured at baseline using an adaptation of the STEADI fall risk algorithm for use with NHATS survey variables (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fall risk classification table based on logistic regressiona\n\n\nClassified\nFell\nDid not fall\nTotal\n\n\n\nHigh riskb\n\n30.3%\n18.5%\n48.9%\n\n\nLow risk\n16.4%\n34.8%\n51.1%\n\n\n\n\n\nTotal\n46.7%\n53.3%\n100%\n\n\n\n\n\nSensitivity = .65\nSpecificity = .65\nPPV = .62\nNPV = .68\n\n\n\nOpen in a new tab\n\nNotes:\n\naPredicted probabilities from logistic regression of any fall over four follow-up waves on STEADI fall risk category and age, gender, race/ethnicity, and education.\n\n\nbPredicted probability of falling ≥ .5\n\nPPV: positive predictive value; NPV: negative predictive value\nFigure 2 displays receiver operating characteristics (ROC) curves comparing the discriminant properties of different logistic regression models of falls over follow-up.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "In secondary analyses, we considered two alternative outcomes: multiple falls and mortality.STEADI Fall Risk\nFall risk was measured at baseline using an adaptation of the STEADI fall risk algorithm for use with NHATS survey variables (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "In secondary analyses, we considered two alternative outcomes: multiple falls and mortality.STEADI Fall Risk\nFall risk was measured at baseline using an adaptation of the STEADI fall risk algorithm for use with NHATS survey variables (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "STEADI Fall Risk\nFall risk was measured at baseline using an adaptation of the STEADI fall risk algorithm for use with NHATS survey variables (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fall risk was measured at baseline using an adaptation of the STEADI fall risk algorithm for use with NHATS survey variables (Figure 1).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Fall risk classification table based on logistic regressiona\n\n\nClassified\nFell\nDid not fall\nTotal\n\n\n\nHigh riskb\n\n30.3%\n18.5%\n48.9%\n\n\nLow risk\n16.4%\n34.8%\n51.1%\n\n\n\n\n\nTotal\n46.7%\n53.3%\n100%\n\n\n\n\n\nSensitivity = .65\nSpecificity = .65\nPPV = .62\nNPV = .68\n\n\n\nOpen in a new tab\n\nNotes:\n\naPredicted probabilities from logistic regression of any fall over four follow-up waves on STEADI fall risk category and age, gender, race/ethnicity, and education.\n\n\nbPredicted probability of falling ≥ .5\n\nPPV: positive predictive value; NPV: negative predictive value\nFigure 2 displays receiver operating characteristics (ROC) curves comparing the discriminant properties of different logistic regression models of falls over follow-up.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 displays receiver operating characteristics (ROC) curves comparing the discriminant properties of different logistic regression models of falls over follow-up.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 2,
+    "claims_count": 22,
+    "images_downloaded": 2,
+    "tables_filtered": 120
+  }
+}

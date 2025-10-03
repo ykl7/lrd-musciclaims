@@ -1,0 +1,2032 @@
+[
+  {
+    "sentence": "Figure 1 depicts a pair of positive and negative snippets.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Specifically, given a labeled corpus, we optimize the objective in Equation 1 in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 2, Xi is the feature vector representing the i th article—comprising counts of uni- and bigrams— yi is the label for this article, w is the weight vector to be estimated from the data, and w0 is an intercept term.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For each word in position n in the article,\n(a) Draw topic assignment zn|θ ~ Multinomial (θ)\n(b) Draw word as in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Draw class label as in Figure 4, where N is the total number of words in the article, and the empirical topic frequencies of the article is as shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The softmax function is as shown in Equation 2 in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nClass label. c is class label, η is a K-dimensional vector of real values.Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nEmpirical topic frequencies.Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner press release datasets.Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four negatively predictive words on Sumner press release datasets.We also present output from a 20-topic sLDA model fit to the Sumner PR dataset in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the 20-topic sLDA model fit to this dataset, again using press release issuance as the supervision.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive press release features:\n\nface\nresearch funded\nshown\nbetter\nmotor\nyears\ngene\nengland\nedinburgh\ntrial\nproduction\nflu\ncouncil\ntargeting\nproducing\nroslin\nresearch council\nroslin institute\nwidespread\nroyal society\nfaces\nproviding\nwebsite\naffecting\nexciting\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner news coverage (NC) dataset.Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive article features:\n\n95% ci\nwomen\nuse\nrisk\ncountries\nvariation\nhazard\nbody\nengland\nparticipants\nTI-cohort (TI prefix indicates a title term)\ncouncil\nTI-cohort TI-study\nresearch council\nmedical research\nindividual\nindividual\nsex\nmain outcome\ncohort study\nsystolic blood\nrelevant\ncancers\nresearch\nTI-gene\nIn Figure 13, we show results from the sLDA model fit to the Sumner NC corpus using journal features.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 14, we report output from the sLDA model: uncovered topics and their degree of correlation with news media coverage.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  },
+  {
+    "sentence": "Inspecting the topics suggests a fair amount of overlap with the discriminative topics in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, women was a word found frequently in articles that received press releases; indeed, pregnancy and women were among the most probable words under the topic most strongly correlated with press release issuance (see Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 depicts a pair of positive and negative snippets.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Specifically, given a labeled corpus, we optimize the objective in Equation 1 in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 2, Xi is the feature vector representing the i th article—comprising counts of uni- and bigrams— yi is the label for this article, w is the weight vector to be estimated from the data, and w0 is an intercept term.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For each word in position n in the article,\n(a) Draw topic assignment zn|θ ~ Multinomial (θ)\n(b) Draw word as in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Draw class label as in Figure 4, where N is the total number of words in the article, and the empirical topic frequencies of the article is as shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The softmax function is as shown in Equation 2 in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nClass label. c is class label, η is a K-dimensional vector of real values.Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nEmpirical topic frequencies.Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner press release datasets.Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four negatively predictive words on Sumner press release datasets.We also present output from a 20-topic sLDA model fit to the Sumner PR dataset in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the 20-topic sLDA model fit to this dataset, again using press release issuance as the supervision.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive press release features:\n\nface\nresearch funded\nshown\nbetter\nmotor\nyears\ngene\nengland\nedinburgh\ntrial\nproduction\nflu\ncouncil\ntargeting\nproducing\nroslin\nresearch council\nroslin institute\nwidespread\nroyal society\nfaces\nproviding\nwebsite\naffecting\nexciting\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner news coverage (NC) dataset.Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive article features:\n\n95% ci\nwomen\nuse\nrisk\ncountries\nvariation\nhazard\nbody\nengland\nparticipants\nTI-cohort (TI prefix indicates a title term)\ncouncil\nTI-cohort TI-study\nresearch council\nmedical research\nindividual\nindividual\nsex\nmain outcome\ncohort study\nsystolic blood\nrelevant\ncancers\nresearch\nTI-gene\nIn Figure 13, we show results from the sLDA model fit to the Sumner NC corpus using journal features.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 14, we report output from the sLDA model: uncovered topics and their degree of correlation with news media coverage.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  },
+  {
+    "sentence": "Inspecting the topics suggests a fair amount of overlap with the discriminative topics in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, women was a word found frequently in articles that received press releases; indeed, pregnancy and women were among the most probable words under the topic most strongly correlated with press release issuance (see Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 depicts a pair of positive and negative snippets.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Specifically, given a labeled corpus, we optimize the objective in Equation 1 in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 2, Xi is the feature vector representing the i th article—comprising counts of uni- and bigrams— yi is the label for this article, w is the weight vector to be estimated from the data, and w0 is an intercept term.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For each word in position n in the article,\n(a) Draw topic assignment zn|θ ~ Multinomial (θ)\n(b) Draw word as in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Draw class label as in Figure 4, where N is the total number of words in the article, and the empirical topic frequencies of the article is as shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The softmax function is as shown in Equation 2 in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nClass label. c is class label, η is a K-dimensional vector of real values.Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nEmpirical topic frequencies.Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner press release datasets.Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four negatively predictive words on Sumner press release datasets.We also present output from a 20-topic sLDA model fit to the Sumner PR dataset in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the 20-topic sLDA model fit to this dataset, again using press release issuance as the supervision.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive press release features:\n\nface\nresearch funded\nshown\nbetter\nmotor\nyears\ngene\nengland\nedinburgh\ntrial\nproduction\nflu\ncouncil\ntargeting\nproducing\nroslin\nresearch council\nroslin institute\nwidespread\nroyal society\nfaces\nproviding\nwebsite\naffecting\nexciting\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner news coverage (NC) dataset.Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive article features:\n\n95% ci\nwomen\nuse\nrisk\ncountries\nvariation\nhazard\nbody\nengland\nparticipants\nTI-cohort (TI prefix indicates a title term)\ncouncil\nTI-cohort TI-study\nresearch council\nmedical research\nindividual\nindividual\nsex\nmain outcome\ncohort study\nsystolic blood\nrelevant\ncancers\nresearch\nTI-gene\nIn Figure 13, we show results from the sLDA model fit to the Sumner NC corpus using journal features.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 14, we report output from the sLDA model: uncovered topics and their degree of correlation with news media coverage.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  },
+  {
+    "sentence": "Inspecting the topics suggests a fair amount of overlap with the discriminative topics in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, women was a word found frequently in articles that received press releases; indeed, pregnancy and women were among the most probable words under the topic most strongly correlated with press release issuance (see Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 depicts a pair of positive and negative snippets.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Specifically, given a labeled corpus, we optimize the objective in Equation 1 in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 2, Xi is the feature vector representing the i th article—comprising counts of uni- and bigrams— yi is the label for this article, w is the weight vector to be estimated from the data, and w0 is an intercept term.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For each word in position n in the article,\n(a) Draw topic assignment zn|θ ~ Multinomial (θ)\n(b) Draw word as in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Draw class label as in Figure 4, where N is the total number of words in the article, and the empirical topic frequencies of the article is as shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The softmax function is as shown in Equation 2 in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nClass label. c is class label, η is a K-dimensional vector of real values.Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nEmpirical topic frequencies.Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner press release datasets.Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four negatively predictive words on Sumner press release datasets.We also present output from a 20-topic sLDA model fit to the Sumner PR dataset in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the 20-topic sLDA model fit to this dataset, again using press release issuance as the supervision.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive press release features:\n\nface\nresearch funded\nshown\nbetter\nmotor\nyears\ngene\nengland\nedinburgh\ntrial\nproduction\nflu\ncouncil\ntargeting\nproducing\nroslin\nresearch council\nroslin institute\nwidespread\nroyal society\nfaces\nproviding\nwebsite\naffecting\nexciting\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner news coverage (NC) dataset.Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive article features:\n\n95% ci\nwomen\nuse\nrisk\ncountries\nvariation\nhazard\nbody\nengland\nparticipants\nTI-cohort (TI prefix indicates a title term)\ncouncil\nTI-cohort TI-study\nresearch council\nmedical research\nindividual\nindividual\nsex\nmain outcome\ncohort study\nsystolic blood\nrelevant\ncancers\nresearch\nTI-gene\nIn Figure 13, we show results from the sLDA model fit to the Sumner NC corpus using journal features.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 14, we report output from the sLDA model: uncovered topics and their degree of correlation with news media coverage.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  },
+  {
+    "sentence": "Inspecting the topics suggests a fair amount of overlap with the discriminative topics in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, women was a word found frequently in articles that received press releases; indeed, pregnancy and women were among the most probable words under the topic most strongly correlated with press release issuance (see Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 depicts a pair of positive and negative snippets.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Specifically, given a labeled corpus, we optimize the objective in Equation 1 in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 2, Xi is the feature vector representing the i th article—comprising counts of uni- and bigrams— yi is the label for this article, w is the weight vector to be estimated from the data, and w0 is an intercept term.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For each word in position n in the article,\n(a) Draw topic assignment zn|θ ~ Multinomial (θ)\n(b) Draw word as in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Draw class label as in Figure 4, where N is the total number of words in the article, and the empirical topic frequencies of the article is as shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The softmax function is as shown in Equation 2 in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nClass label. c is class label, η is a K-dimensional vector of real values.Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nEmpirical topic frequencies.Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner press release datasets.Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four negatively predictive words on Sumner press release datasets.We also present output from a 20-topic sLDA model fit to the Sumner PR dataset in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the 20-topic sLDA model fit to this dataset, again using press release issuance as the supervision.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive press release features:\n\nface\nresearch funded\nshown\nbetter\nmotor\nyears\ngene\nengland\nedinburgh\ntrial\nproduction\nflu\ncouncil\ntargeting\nproducing\nroslin\nresearch council\nroslin institute\nwidespread\nroyal society\nfaces\nproviding\nwebsite\naffecting\nexciting\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner news coverage (NC) dataset.Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive article features:\n\n95% ci\nwomen\nuse\nrisk\ncountries\nvariation\nhazard\nbody\nengland\nparticipants\nTI-cohort (TI prefix indicates a title term)\ncouncil\nTI-cohort TI-study\nresearch council\nmedical research\nindividual\nindividual\nsex\nmain outcome\ncohort study\nsystolic blood\nrelevant\ncancers\nresearch\nTI-gene\nIn Figure 13, we show results from the sLDA model fit to the Sumner NC corpus using journal features.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 14, we report output from the sLDA model: uncovered topics and their degree of correlation with news media coverage.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  },
+  {
+    "sentence": "Inspecting the topics suggests a fair amount of overlap with the discriminative topics in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, women was a word found frequently in articles that received press releases; indeed, pregnancy and women were among the most probable words under the topic most strongly correlated with press release issuance (see Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 depicts a pair of positive and negative snippets.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Specifically, given a labeled corpus, we optimize the objective in Equation 1 in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 2, Xi is the feature vector representing the i th article—comprising counts of uni- and bigrams— yi is the label for this article, w is the weight vector to be estimated from the data, and w0 is an intercept term.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For each word in position n in the article,\n(a) Draw topic assignment zn|θ ~ Multinomial (θ)\n(b) Draw word as in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Draw class label as in Figure 4, where N is the total number of words in the article, and the empirical topic frequencies of the article is as shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The softmax function is as shown in Equation 2 in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nClass label. c is class label, η is a K-dimensional vector of real values.Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nEmpirical topic frequencies.Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner press release datasets.Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four negatively predictive words on Sumner press release datasets.We also present output from a 20-topic sLDA model fit to the Sumner PR dataset in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the 20-topic sLDA model fit to this dataset, again using press release issuance as the supervision.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive press release features:\n\nface\nresearch funded\nshown\nbetter\nmotor\nyears\ngene\nengland\nedinburgh\ntrial\nproduction\nflu\ncouncil\ntargeting\nproducing\nroslin\nresearch council\nroslin institute\nwidespread\nroyal society\nfaces\nproviding\nwebsite\naffecting\nexciting\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner news coverage (NC) dataset.Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive article features:\n\n95% ci\nwomen\nuse\nrisk\ncountries\nvariation\nhazard\nbody\nengland\nparticipants\nTI-cohort (TI prefix indicates a title term)\ncouncil\nTI-cohort TI-study\nresearch council\nmedical research\nindividual\nindividual\nsex\nmain outcome\ncohort study\nsystolic blood\nrelevant\ncancers\nresearch\nTI-gene\nIn Figure 13, we show results from the sLDA model fit to the Sumner NC corpus using journal features.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 14, we report output from the sLDA model: uncovered topics and their degree of correlation with news media coverage.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  },
+  {
+    "sentence": "Inspecting the topics suggests a fair amount of overlap with the discriminative topics in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, women was a word found frequently in articles that received press releases; indeed, pregnancy and women were among the most probable words under the topic most strongly correlated with press release issuance (see Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 depicts a pair of positive and negative snippets.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Specifically, given a labeled corpus, we optimize the objective in Equation 1 in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 2, Xi is the feature vector representing the i th article—comprising counts of uni- and bigrams— yi is the label for this article, w is the weight vector to be estimated from the data, and w0 is an intercept term.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For each word in position n in the article,\n(a) Draw topic assignment zn|θ ~ Multinomial (θ)\n(b) Draw word as in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Draw class label as in Figure 4, where N is the total number of words in the article, and the empirical topic frequencies of the article is as shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The softmax function is as shown in Equation 2 in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nClass label. c is class label, η is a K-dimensional vector of real values.Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nEmpirical topic frequencies.Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner press release datasets.Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four negatively predictive words on Sumner press release datasets.We also present output from a 20-topic sLDA model fit to the Sumner PR dataset in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the 20-topic sLDA model fit to this dataset, again using press release issuance as the supervision.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive press release features:\n\nface\nresearch funded\nshown\nbetter\nmotor\nyears\ngene\nengland\nedinburgh\ntrial\nproduction\nflu\ncouncil\ntargeting\nproducing\nroslin\nresearch council\nroslin institute\nwidespread\nroyal society\nfaces\nproviding\nwebsite\naffecting\nexciting\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner news coverage (NC) dataset.Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive article features:\n\n95% ci\nwomen\nuse\nrisk\ncountries\nvariation\nhazard\nbody\nengland\nparticipants\nTI-cohort (TI prefix indicates a title term)\ncouncil\nTI-cohort TI-study\nresearch council\nmedical research\nindividual\nindividual\nsex\nmain outcome\ncohort study\nsystolic blood\nrelevant\ncancers\nresearch\nTI-gene\nIn Figure 13, we show results from the sLDA model fit to the Sumner NC corpus using journal features.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 14, we report output from the sLDA model: uncovered topics and their degree of correlation with news media coverage.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  },
+  {
+    "sentence": "Inspecting the topics suggests a fair amount of overlap with the discriminative topics in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, women was a word found frequently in articles that received press releases; indeed, pregnancy and women were among the most probable words under the topic most strongly correlated with press release issuance (see Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 depicts a pair of positive and negative snippets.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Specifically, given a labeled corpus, we optimize the objective in Equation 1 in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 2, Xi is the feature vector representing the i th article—comprising counts of uni- and bigrams— yi is the label for this article, w is the weight vector to be estimated from the data, and w0 is an intercept term.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For each word in position n in the article,\n(a) Draw topic assignment zn|θ ~ Multinomial (θ)\n(b) Draw word as in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Draw class label as in Figure 4, where N is the total number of words in the article, and the empirical topic frequencies of the article is as shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The softmax function is as shown in Equation 2 in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nClass label. c is class label, η is a K-dimensional vector of real values.Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nEmpirical topic frequencies.Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner press release datasets.Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four negatively predictive words on Sumner press release datasets.We also present output from a 20-topic sLDA model fit to the Sumner PR dataset in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the 20-topic sLDA model fit to this dataset, again using press release issuance as the supervision.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive press release features:\n\nface\nresearch funded\nshown\nbetter\nmotor\nyears\ngene\nengland\nedinburgh\ntrial\nproduction\nflu\ncouncil\ntargeting\nproducing\nroslin\nresearch council\nroslin institute\nwidespread\nroyal society\nfaces\nproviding\nwebsite\naffecting\nexciting\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner news coverage (NC) dataset.Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive article features:\n\n95% ci\nwomen\nuse\nrisk\ncountries\nvariation\nhazard\nbody\nengland\nparticipants\nTI-cohort (TI prefix indicates a title term)\ncouncil\nTI-cohort TI-study\nresearch council\nmedical research\nindividual\nindividual\nsex\nmain outcome\ncohort study\nsystolic blood\nrelevant\ncancers\nresearch\nTI-gene\nIn Figure 13, we show results from the sLDA model fit to the Sumner NC corpus using journal features.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 14, we report output from the sLDA model: uncovered topics and their degree of correlation with news media coverage.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  },
+  {
+    "sentence": "Inspecting the topics suggests a fair amount of overlap with the discriminative topics in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, women was a word found frequently in articles that received press releases; indeed, pregnancy and women were among the most probable words under the topic most strongly correlated with press release issuance (see Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 depicts a pair of positive and negative snippets.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Specifically, given a labeled corpus, we optimize the objective in Equation 1 in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 2, Xi is the feature vector representing the i th article—comprising counts of uni- and bigrams— yi is the label for this article, w is the weight vector to be estimated from the data, and w0 is an intercept term.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For each word in position n in the article,\n(a) Draw topic assignment zn|θ ~ Multinomial (θ)\n(b) Draw word as in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Draw class label as in Figure 4, where N is the total number of words in the article, and the empirical topic frequencies of the article is as shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The softmax function is as shown in Equation 2 in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nClass label. c is class label, η is a K-dimensional vector of real values.Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nEmpirical topic frequencies.Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 depicts a pair of positive and negative snippets.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 depicts a pair of positive and negative snippets.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 depicts a pair of positive and negative snippets.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Specifically, given a labeled corpus, we optimize the objective in Equation 1 in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 2, Xi is the feature vector representing the i th article—comprising counts of uni- and bigrams— yi is the label for this article, w is the weight vector to be estimated from the data, and w0 is an intercept term.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For each word in position n in the article,\n(a) Draw topic assignment zn|θ ~ Multinomial (θ)\n(b) Draw word as in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Draw class label as in Figure 4, where N is the total number of words in the article, and the empirical topic frequencies of the article is as shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The softmax function is as shown in Equation 2 in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nClass label. c is class label, η is a K-dimensional vector of real values.Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nEmpirical topic frequencies.Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Specifically, given a labeled corpus, we optimize the objective in Equation 1 in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 2, Xi is the feature vector representing the i th article—comprising counts of uni- and bigrams— yi is the label for this article, w is the weight vector to be estimated from the data, and w0 is an intercept term.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Specifically, given a labeled corpus, we optimize the objective in Equation 1 in Figure 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 2, Xi is the feature vector representing the i th article—comprising counts of uni- and bigrams— yi is the label for this article, w is the weight vector to be estimated from the data, and w0 is an intercept term.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For each word in position n in the article,\n(a) Draw topic assignment zn|θ ~ Multinomial (θ)\n(b) Draw word as in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Draw class label as in Figure 4, where N is the total number of words in the article, and the empirical topic frequencies of the article is as shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The softmax function is as shown in Equation 2 in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nClass label. c is class label, η is a K-dimensional vector of real values.Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nEmpirical topic frequencies.Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "(b) Draw word as in Figure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Draw class label as in Figure 4, where N is the total number of words in the article, and the empirical topic frequencies of the article is as shown in Figure 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The softmax function is as shown in Equation 2 in Figure 6.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner press release datasets.Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four negatively predictive words on Sumner press release datasets.We also present output from a 20-topic sLDA model fit to the Sumner PR dataset in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the 20-topic sLDA model fit to this dataset, again using press release issuance as the supervision.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive press release features:\n\nface\nresearch funded\nshown\nbetter\nmotor\nyears\ngene\nengland\nedinburgh\ntrial\nproduction\nflu\ncouncil\ntargeting\nproducing\nroslin\nresearch council\nroslin institute\nwidespread\nroyal society\nfaces\nproviding\nwebsite\naffecting\nexciting\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner news coverage (NC) dataset.Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive article features:\n\n95% ci\nwomen\nuse\nrisk\ncountries\nvariation\nhazard\nbody\nengland\nparticipants\nTI-cohort (TI prefix indicates a title term)\ncouncil\nTI-cohort TI-study\nresearch council\nmedical research\nindividual\nindividual\nsex\nmain outcome\ncohort study\nsystolic blood\nrelevant\ncancers\nresearch\nTI-gene\nIn Figure 13, we show results from the sLDA model fit to the Sumner NC corpus using journal features.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 14, we report output from the sLDA model: uncovered topics and their degree of correlation with news media coverage.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  },
+  {
+    "sentence": "Inspecting the topics suggests a fair amount of overlap with the discriminative topics in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner press release datasets.Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four negatively predictive words on Sumner press release datasets.We also present output from a 20-topic sLDA model fit to the Sumner PR dataset in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the 20-topic sLDA model fit to this dataset, again using press release issuance as the supervision.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner press release datasets.Figure 8.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four negatively predictive words on Sumner press release datasets.We also present output from a 20-topic sLDA model fit to the Sumner PR dataset in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "We also present output from a 20-topic sLDA model fit to the Sumner PR dataset in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the 20-topic sLDA model fit to this dataset, again using press release issuance as the supervision.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the 20-topic sLDA model fit to this dataset, again using press release issuance as the supervision.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive press release features:\n\nface\nresearch funded\nshown\nbetter\nmotor\nyears\ngene\nengland\nedinburgh\ntrial\nproduction\nflu\ncouncil\ntargeting\nproducing\nroslin\nresearch council\nroslin institute\nwidespread\nroyal society\nfaces\nproviding\nwebsite\naffecting\nexciting\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner news coverage (NC) dataset.Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive article features:\n\n95% ci\nwomen\nuse\nrisk\ncountries\nvariation\nhazard\nbody\nengland\nparticipants\nTI-cohort (TI prefix indicates a title term)\ncouncil\nTI-cohort TI-study\nresearch council\nmedical research\nindividual\nindividual\nsex\nmain outcome\ncohort study\nsystolic blood\nrelevant\ncancers\nresearch\nTI-gene\nIn Figure 13, we show results from the sLDA model fit to the Sumner NC corpus using journal features.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 14, we report output from the sLDA model: uncovered topics and their degree of correlation with news media coverage.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  },
+  {
+    "sentence": "Inspecting the topics suggests a fair amount of overlap with the discriminative topics in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive press release features:\n\nface\nresearch funded\nshown\nbetter\nmotor\nyears\ngene\nengland\nedinburgh\ntrial\nproduction\nflu\ncouncil\ntargeting\nproducing\nroslin\nresearch council\nroslin institute\nwidespread\nroyal society\nfaces\nproviding\nwebsite\naffecting\nexciting\nFigure 11.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 11",
+        "panel": "",
+        "figure_key": "figure_11"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nDensity curve of coefficient values of four positively predictive words on Sumner news coverage (NC) dataset.Figure 12.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 12",
+        "panel": "",
+        "figure_key": "figure_12"
+      }
+    ]
+  },
+  {
+    "sentence": "Top 25 positive article features:\n\n95% ci\nwomen\nuse\nrisk\ncountries\nvariation\nhazard\nbody\nengland\nparticipants\nTI-cohort (TI prefix indicates a title term)\ncouncil\nTI-cohort TI-study\nresearch council\nmedical research\nindividual\nindividual\nsex\nmain outcome\ncohort study\nsystolic blood\nrelevant\ncancers\nresearch\nTI-gene\nIn Figure 13, we show results from the sLDA model fit to the Sumner NC corpus using journal features.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 13, we show results from the sLDA model fit to the Sumner NC corpus using journal features.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 13",
+        "panel": "",
+        "figure_key": "figure_13"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 14, we report output from the sLDA model: uncovered topics and their degree of correlation with news media coverage.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  },
+  {
+    "sentence": "Inspecting the topics suggests a fair amount of overlap with the discriminative topics in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 14, we report output from the sLDA model: uncovered topics and their degree of correlation with news media coverage.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 14",
+        "panel": "",
+        "figure_key": "figure_14"
+      }
+    ]
+  },
+  {
+    "sentence": "Inspecting the topics suggests a fair amount of overlap with the discriminative topics in Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, women was a word found frequently in articles that received press releases; indeed, pregnancy and women were among the most probable words under the topic most strongly correlated with press release issuance (see Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, women was a word found frequently in articles that received press releases; indeed, pregnancy and women were among the most probable words under the topic most strongly correlated with press release issuance (see Figure 4).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "paper_id": "PMC10510714",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10510714/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Figure 1.",
+      "caption": "Improvements of the CombiGEM process. (a) CombiGEM procedure.\nThe\nCombiGEM method uses the BamHI and EcoRI sites on the vector and the compatible BglII\nand MfeI sites in the insert fragments for cloning.\nThe ligated sites are not recognized by any of the enzymes. The inserts\nbring new BamHI and EcoRI sites\nwithin to enable the recursive assembly of modules. The process is\nrun en masse with a pool of inserts. The resulting\nmixture of multimodule constructs are used in experiments. (b) pCombi-CC\nvectors. The BamHI, BglII, EcoRI, and MfeI restriction sites were\nengineered in the expandable single-copy vector pCC1BAC (Lucigen).\nThe added BglII and MfeI sites accept\nincoming fragments. To introduce functionality such as integration\nof the construct into the genome of Mycoplasma mycoides JCVI-syn3.0,9 genetic tools are introduced\ninto these sites along with the first barcode (position 0) to identify\nthe tools (such as the set for mycoplasma Cre-lox integration). To\nmake the vector compatible with the ELAN process (pCombi-CC-Myco2-Next-E),\nthe BglII and MfeI sites were disrupted.\nThe gene cat encodes chloramphenicol acetyltransferase. oriV enables a high-copy replication when trfA gene product is provided in the cell (Lucigen). repE/repA, sopA/parA, sopB/parB, and ori2 (not shown) participate in the replication and partition of F-factor\nreplicon.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f675/10510714/0c3c7ad7f843/sb3c00183_0001.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f675/10510714/0c3c7ad7f843/sb3c00183_0001.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f675/10510714/0c3c7ad7f843/sb3c00183_0001.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f675/10510714/0c3c7ad7f843/sb3c00183_0001.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig1",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f675/10510714/0c3c7ad7f843/sb3c00183_0001.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC10510714/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f675/10510714/0c3c7ad7f843/sb3c00183_0001.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "In this method,\nthe recursive cloning of DNA-barcoded modules via specific designated\nrestriction sites within the modules (between the construct and the\nDNA barcode in each module) results in the accumulation of the DNA\nconstructs on one side and the DNA barcodes on the other side of the\nrestriction sites (Figure 1a).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "In this method,\nthe recursive cloning of DNA-barcoded modules via specific designated\nrestriction sites within the modules (between the construct and the\nDNA barcode in each module) results in the accumulation of the DNA\nconstructs on one side and the DNA barcodes on the other side of the\nrestriction sites (Figure 1a).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        },
+        {
+          "figure_number": "Figure 1",
+          "panel": "Panel a",
+          "figure_key": "figure_1"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 1,
+    "claims_count": 2,
+    "images_downloaded": 1,
+    "tables_filtered": 350
+  }
+}

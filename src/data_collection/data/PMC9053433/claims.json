@@ -1,0 +1,1417 @@
+[
+  {
+    "sentence": "For this study, heterozygous adults for the novel stl159 lesion were crossed to produce homozygous wild-type and heterozygous stl159/+ siblings, which have a normal patterning phenotype called “wild-type”, and stl159 homozygous mutants, which have broad mispatterning of the peripheral nervous system referred to as “mutant” (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Several of these features are shown in Figure 1, with descriptions provided in Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This is due to the relatively short exposure time of the image to avoid capturing the vibration of the living fish in the water (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To show fine features, like small processes on motor nerves, the maximum and minimum intensities can be scaled using the sliders in the B&C box (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Point labels can be turned on and off in with Image > Overlay > Hide Overlay to view both a marked-up and clear image in a single file (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Results can be saved as a .csv for a record of all measurements, e.g., those for a single specimen (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These values, in addition to serving as a running tally of the counted features, can also be used to mark distance between features, measure position, etc.\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The first two results are for lines not represented in the image, as they disappear when new lines are drawn.Measuring Features with Fiji\nMeasuring is a two-step process; first, by carefully drawing a line along the feature (Figure 3A, C), then selecting Analyze > Measure (Figure 3B, D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To represent both dsRed and mEGFP fluorescence in a single image (e.g., Figure 1C, 1E), use the Image > Merge Channels function in Fiji.Data analysis (~2–3 weeks)\nChi Square to Test Mendelian Ratio\nMost student projects predicted phenotypic differences between mutant larvae and wild-type siblings.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For this study, heterozygous adults for the novel stl159 lesion were crossed to produce homozygous wild-type and heterozygous stl159/+ siblings, which have a normal patterning phenotype called “wild-type”, and stl159 homozygous mutants, which have broad mispatterning of the peripheral nervous system referred to as “mutant” (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Several of these features are shown in Figure 1, with descriptions provided in Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This is due to the relatively short exposure time of the image to avoid capturing the vibration of the living fish in the water (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To show fine features, like small processes on motor nerves, the maximum and minimum intensities can be scaled using the sliders in the B&C box (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Point labels can be turned on and off in with Image > Overlay > Hide Overlay to view both a marked-up and clear image in a single file (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Results can be saved as a .csv for a record of all measurements, e.g., those for a single specimen (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These values, in addition to serving as a running tally of the counted features, can also be used to mark distance between features, measure position, etc.\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The first two results are for lines not represented in the image, as they disappear when new lines are drawn.Measuring Features with Fiji\nMeasuring is a two-step process; first, by carefully drawing a line along the feature (Figure 3A, C), then selecting Analyze > Measure (Figure 3B, D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To represent both dsRed and mEGFP fluorescence in a single image (e.g., Figure 1C, 1E), use the Image > Merge Channels function in Fiji.Data analysis (~2–3 weeks)\nChi Square to Test Mendelian Ratio\nMost student projects predicted phenotypic differences between mutant larvae and wild-type siblings.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For this study, heterozygous adults for the novel stl159 lesion were crossed to produce homozygous wild-type and heterozygous stl159/+ siblings, which have a normal patterning phenotype called “wild-type”, and stl159 homozygous mutants, which have broad mispatterning of the peripheral nervous system referred to as “mutant” (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Several of these features are shown in Figure 1, with descriptions provided in Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This is due to the relatively short exposure time of the image to avoid capturing the vibration of the living fish in the water (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To show fine features, like small processes on motor nerves, the maximum and minimum intensities can be scaled using the sliders in the B&C box (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Point labels can be turned on and off in with Image > Overlay > Hide Overlay to view both a marked-up and clear image in a single file (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Results can be saved as a .csv for a record of all measurements, e.g., those for a single specimen (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These values, in addition to serving as a running tally of the counted features, can also be used to mark distance between features, measure position, etc.\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The first two results are for lines not represented in the image, as they disappear when new lines are drawn.Measuring Features with Fiji\nMeasuring is a two-step process; first, by carefully drawing a line along the feature (Figure 3A, C), then selecting Analyze > Measure (Figure 3B, D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To represent both dsRed and mEGFP fluorescence in a single image (e.g., Figure 1C, 1E), use the Image > Merge Channels function in Fiji.Data analysis (~2–3 weeks)\nChi Square to Test Mendelian Ratio\nMost student projects predicted phenotypic differences between mutant larvae and wild-type siblings.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For this study, heterozygous adults for the novel stl159 lesion were crossed to produce homozygous wild-type and heterozygous stl159/+ siblings, which have a normal patterning phenotype called “wild-type”, and stl159 homozygous mutants, which have broad mispatterning of the peripheral nervous system referred to as “mutant” (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Several of these features are shown in Figure 1, with descriptions provided in Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This is due to the relatively short exposure time of the image to avoid capturing the vibration of the living fish in the water (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To show fine features, like small processes on motor nerves, the maximum and minimum intensities can be scaled using the sliders in the B&C box (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Point labels can be turned on and off in with Image > Overlay > Hide Overlay to view both a marked-up and clear image in a single file (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Results can be saved as a .csv for a record of all measurements, e.g., those for a single specimen (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These values, in addition to serving as a running tally of the counted features, can also be used to mark distance between features, measure position, etc.\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The first two results are for lines not represented in the image, as they disappear when new lines are drawn.Measuring Features with Fiji\nMeasuring is a two-step process; first, by carefully drawing a line along the feature (Figure 3A, C), then selecting Analyze > Measure (Figure 3B, D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To represent both dsRed and mEGFP fluorescence in a single image (e.g., Figure 1C, 1E), use the Image > Merge Channels function in Fiji.Data analysis (~2–3 weeks)\nChi Square to Test Mendelian Ratio\nMost student projects predicted phenotypic differences between mutant larvae and wild-type siblings.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For this study, heterozygous adults for the novel stl159 lesion were crossed to produce homozygous wild-type and heterozygous stl159/+ siblings, which have a normal patterning phenotype called “wild-type”, and stl159 homozygous mutants, which have broad mispatterning of the peripheral nervous system referred to as “mutant” (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Several of these features are shown in Figure 1, with descriptions provided in Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This is due to the relatively short exposure time of the image to avoid capturing the vibration of the living fish in the water (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To show fine features, like small processes on motor nerves, the maximum and minimum intensities can be scaled using the sliders in the B&C box (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Point labels can be turned on and off in with Image > Overlay > Hide Overlay to view both a marked-up and clear image in a single file (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Results can be saved as a .csv for a record of all measurements, e.g., those for a single specimen (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These values, in addition to serving as a running tally of the counted features, can also be used to mark distance between features, measure position, etc.\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The first two results are for lines not represented in the image, as they disappear when new lines are drawn.Measuring Features with Fiji\nMeasuring is a two-step process; first, by carefully drawing a line along the feature (Figure 3A, C), then selecting Analyze > Measure (Figure 3B, D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To represent both dsRed and mEGFP fluorescence in a single image (e.g., Figure 1C, 1E), use the Image > Merge Channels function in Fiji.Data analysis (~2–3 weeks)\nChi Square to Test Mendelian Ratio\nMost student projects predicted phenotypic differences between mutant larvae and wild-type siblings.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For this study, heterozygous adults for the novel stl159 lesion were crossed to produce homozygous wild-type and heterozygous stl159/+ siblings, which have a normal patterning phenotype called “wild-type”, and stl159 homozygous mutants, which have broad mispatterning of the peripheral nervous system referred to as “mutant” (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Several of these features are shown in Figure 1, with descriptions provided in Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This is due to the relatively short exposure time of the image to avoid capturing the vibration of the living fish in the water (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To show fine features, like small processes on motor nerves, the maximum and minimum intensities can be scaled using the sliders in the B&C box (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Point labels can be turned on and off in with Image > Overlay > Hide Overlay to view both a marked-up and clear image in a single file (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Results can be saved as a .csv for a record of all measurements, e.g., those for a single specimen (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These values, in addition to serving as a running tally of the counted features, can also be used to mark distance between features, measure position, etc.\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The first two results are for lines not represented in the image, as they disappear when new lines are drawn.Measuring Features with Fiji\nMeasuring is a two-step process; first, by carefully drawing a line along the feature (Figure 3A, C), then selecting Analyze > Measure (Figure 3B, D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To represent both dsRed and mEGFP fluorescence in a single image (e.g., Figure 1C, 1E), use the Image > Merge Channels function in Fiji.Data analysis (~2–3 weeks)\nChi Square to Test Mendelian Ratio\nMost student projects predicted phenotypic differences between mutant larvae and wild-type siblings.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For this study, heterozygous adults for the novel stl159 lesion were crossed to produce homozygous wild-type and heterozygous stl159/+ siblings, which have a normal patterning phenotype called “wild-type”, and stl159 homozygous mutants, which have broad mispatterning of the peripheral nervous system referred to as “mutant” (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Several of these features are shown in Figure 1, with descriptions provided in Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This is due to the relatively short exposure time of the image to avoid capturing the vibration of the living fish in the water (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To show fine features, like small processes on motor nerves, the maximum and minimum intensities can be scaled using the sliders in the B&C box (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Point labels can be turned on and off in with Image > Overlay > Hide Overlay to view both a marked-up and clear image in a single file (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Results can be saved as a .csv for a record of all measurements, e.g., those for a single specimen (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These values, in addition to serving as a running tally of the counted features, can also be used to mark distance between features, measure position, etc.\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The first two results are for lines not represented in the image, as they disappear when new lines are drawn.Measuring Features with Fiji\nMeasuring is a two-step process; first, by carefully drawing a line along the feature (Figure 3A, C), then selecting Analyze > Measure (Figure 3B, D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To represent both dsRed and mEGFP fluorescence in a single image (e.g., Figure 1C, 1E), use the Image > Merge Channels function in Fiji.Data analysis (~2–3 weeks)\nChi Square to Test Mendelian Ratio\nMost student projects predicted phenotypic differences between mutant larvae and wild-type siblings.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For this study, heterozygous adults for the novel stl159 lesion were crossed to produce homozygous wild-type and heterozygous stl159/+ siblings, which have a normal patterning phenotype called “wild-type”, and stl159 homozygous mutants, which have broad mispatterning of the peripheral nervous system referred to as “mutant” (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Several of these features are shown in Figure 1, with descriptions provided in Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This is due to the relatively short exposure time of the image to avoid capturing the vibration of the living fish in the water (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To show fine features, like small processes on motor nerves, the maximum and minimum intensities can be scaled using the sliders in the B&C box (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Point labels can be turned on and off in with Image > Overlay > Hide Overlay to view both a marked-up and clear image in a single file (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Results can be saved as a .csv for a record of all measurements, e.g., those for a single specimen (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These values, in addition to serving as a running tally of the counted features, can also be used to mark distance between features, measure position, etc.\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The first two results are for lines not represented in the image, as they disappear when new lines are drawn.Measuring Features with Fiji\nMeasuring is a two-step process; first, by carefully drawing a line along the feature (Figure 3A, C), then selecting Analyze > Measure (Figure 3B, D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To represent both dsRed and mEGFP fluorescence in a single image (e.g., Figure 1C, 1E), use the Image > Merge Channels function in Fiji.Data analysis (~2–3 weeks)\nChi Square to Test Mendelian Ratio\nMost student projects predicted phenotypic differences between mutant larvae and wild-type siblings.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For this study, heterozygous adults for the novel stl159 lesion were crossed to produce homozygous wild-type and heterozygous stl159/+ siblings, which have a normal patterning phenotype called “wild-type”, and stl159 homozygous mutants, which have broad mispatterning of the peripheral nervous system referred to as “mutant” (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For this study, heterozygous adults for the novel stl159 lesion were crossed to produce homozygous wild-type and heterozygous stl159/+ siblings, which have a normal patterning phenotype called “wild-type”, and stl159 homozygous mutants, which have broad mispatterning of the peripheral nervous system referred to as “mutant” (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "For this study, heterozygous adults for the novel stl159 lesion were crossed to produce homozygous wild-type and heterozygous stl159/+ siblings, which have a normal patterning phenotype called “wild-type”, and stl159 homozygous mutants, which have broad mispatterning of the peripheral nervous system referred to as “mutant” (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Several of these features are shown in Figure 1, with descriptions provided in Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This is due to the relatively short exposure time of the image to avoid capturing the vibration of the living fish in the water (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To show fine features, like small processes on motor nerves, the maximum and minimum intensities can be scaled using the sliders in the B&C box (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Point labels can be turned on and off in with Image > Overlay > Hide Overlay to view both a marked-up and clear image in a single file (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Results can be saved as a .csv for a record of all measurements, e.g., those for a single specimen (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These values, in addition to serving as a running tally of the counted features, can also be used to mark distance between features, measure position, etc.\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The first two results are for lines not represented in the image, as they disappear when new lines are drawn.Measuring Features with Fiji\nMeasuring is a two-step process; first, by carefully drawing a line along the feature (Figure 3A, C), then selecting Analyze > Measure (Figure 3B, D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To represent both dsRed and mEGFP fluorescence in a single image (e.g., Figure 1C, 1E), use the Image > Merge Channels function in Fiji.Data analysis (~2–3 weeks)\nChi Square to Test Mendelian Ratio\nMost student projects predicted phenotypic differences between mutant larvae and wild-type siblings.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Several of these features are shown in Figure 1, with descriptions provided in Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Several of these features are shown in Figure 1, with descriptions provided in Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Several of these features are shown in Figure 1, with descriptions provided in Table 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This is due to the relatively short exposure time of the image to avoid capturing the vibration of the living fish in the water (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To show fine features, like small processes on motor nerves, the maximum and minimum intensities can be scaled using the sliders in the B&C box (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Point labels can be turned on and off in with Image > Overlay > Hide Overlay to view both a marked-up and clear image in a single file (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Results can be saved as a .csv for a record of all measurements, e.g., those for a single specimen (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These values, in addition to serving as a running tally of the counted features, can also be used to mark distance between features, measure position, etc.\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "The first two results are for lines not represented in the image, as they disappear when new lines are drawn.Measuring Features with Fiji\nMeasuring is a two-step process; first, by carefully drawing a line along the feature (Figure 3A, C), then selecting Analyze > Measure (Figure 3B, D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To represent both dsRed and mEGFP fluorescence in a single image (e.g., Figure 1C, 1E), use the Image > Merge Channels function in Fiji.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "This is due to the relatively short exposure time of the image to avoid capturing the vibration of the living fish in the water (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To show fine features, like small processes on motor nerves, the maximum and minimum intensities can be scaled using the sliders in the B&C box (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "This is due to the relatively short exposure time of the image to avoid capturing the vibration of the living fish in the water (Figure 2A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel A",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "To show fine features, like small processes on motor nerves, the maximum and minimum intensities can be scaled using the sliders in the B&C box (Figure 2B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "Panel B",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Point labels can be turned on and off in with Image > Overlay > Hide Overlay to view both a marked-up and clear image in a single file (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Results can be saved as a .csv for a record of all measurements, e.g., those for a single specimen (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "These values, in addition to serving as a running tally of the counted features, can also be used to mark distance between features, measure position, etc.\nFigure 3.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Point labels can be turned on and off in with Image > Overlay > Hide Overlay to view both a marked-up and clear image in a single file (Figure 3A).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Results can be saved as a .csv for a record of all measurements, e.g., those for a single specimen (Figure 3B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Measuring Features with Fiji\nMeasuring is a two-step process; first, by carefully drawing a line along the feature (Figure 3A, C), then selecting Analyze > Measure (Figure 3B, D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Measuring is a two-step process; first, by carefully drawing a line along the feature (Figure 3A, C), then selecting Analyze > Measure (Figure 3B, D).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel A",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel B",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "To represent both dsRed and mEGFP fluorescence in a single image (e.g., Figure 1C, 1E), use the Image > Merge Channels function in Fiji.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "To represent both dsRed and mEGFP fluorescence in a single image (e.g., Figure 1C, 1E), use the Image > Merge Channels function in Fiji.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "Panel C",
+        "figure_key": "figure_1"
+      }
+    ]
+  }
+]

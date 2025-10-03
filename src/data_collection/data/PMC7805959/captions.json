@@ -1,0 +1,14 @@
+{
+  "figure_1": "DJI Inspire 1 (UAS) assisting EMILY (USV) using visual feedback.",
+  "figure_2": "The spatial resolution of the object in the UAS view might be very low.",
+  "figure_3": "The physical configuration of the problem. {I} is UAS 2D image coordinate system with axes Xi and Yi. F(t) is UAS video frame at time t with resolution w × h. a is UAS altitude above ground level. α is UAS camera angle from nadir. (x(t), y(t)) is the object's blob position, that is the centroid of the object's blob in the coordinate frame {I}. θ(t) is the object's blob orientation, that is the angle between the object's blob heading and horizontal line (axis Xi) in the coordinate frame {I}.",
+  "figure_4": "Object's blob brightness may vary significantly in the video frames F(t) with varying t because of the outdoor environmental conditions.",
+  "figure_5": "The illumination conditions may change with the relative position of the UAS, object, and sun.",
+  "figure_6": "Object's blob size may differ significantly in the video frames F(t) with varying t because of the oblique view angle.",
+  "figure_7": "The ratio of the minimum inertia to maximum inertia of the object's blob may differ significantly in the video frames F(t) with varying t because of the oblique view angle.",
+  "figure_8": "Moving UAS causes the stationary background to appear moving in the video frames.",
+  "figure_9": "The color of the object might not be uniform which can be alleviated by Gaussian blur convolution filter.",
+  "figure_10": "Flowcharts for the thresholding and histogramming algorithms.",
+  "figure_11": "Erosion and dilation filters can be applied to the binary threshold map (Left) to filter out noise, smooth shapes, and fill-in holes (Right).",
+  "figure_12": "The backprojection of the object's histogram model and subsequent application of CamShift."
+}

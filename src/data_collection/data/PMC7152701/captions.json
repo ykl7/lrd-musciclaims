@@ -1,0 +1,5 @@
+{
+  "figure_0005": "",
+  "figure_0004": "ABC using rejection sampling. Shown is the case where we need to sample posterior values for a single parameter θ. Each iteration of the algorithm consists of drawing a single random sample from a prior distribution for the parameter (here, Beta(2, 6)), and then generating the predicted mean effect from the model using that sampled parameter value. If the predicted mean effect is near the observed data (in our adapted implementation of the ABC method, if the predicted effect lies within one standard error of the mean effect of interest), then accept the sampled parameter value; otherwise reject that sampled value. This process is repeated until we have sufficient samples from the posterior distribution of the parameter. These samples therefore constitute the posterior distribution of the parameter.",
+  "figure_0001": "A Beta(2,6) prior on the latency factor."
+}

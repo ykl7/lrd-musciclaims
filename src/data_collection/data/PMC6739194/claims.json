@@ -1,0 +1,2302 @@
+[
+  {
+    "sentence": "We use a commercial robotic arm (KUKA KR10‐R1100) to hold the VP‐PET detectors and position them around a patient's body [Fig. 1(a)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The panel consists of 32 detector modules arranged in a 4 × 8 array, as shown in Fig. 1(b).38 Each PET detector module comprises a lutetium yttrium orthosilicate (LYSO) crystal array, a custom acrylic light guide, a multi‐pixel photon‐counters (MPPC, Hamamatsu S12641‐PA‐50(x)) array, and a multiplexing board.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the system architecture that enables coincidence detection between the VP‐PET insert and the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging experiment\nA Data Spectrum Elliptical Lung‐Spine Torso Phantom measuring 316 × 228 × 162 mm3 was imaged to evaluate the enhancement of the CRC of small lesions by the flat‐panel VP‐PET device, as shown in Fig. 3(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fillable spherical glass tumors with inner diameters of 3.3, 4.3, 6.0, 8.0, 9.6, and 11.4 mm [Fig. 3(b)] were mounted inside the torso phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sixty‐three spherical lesions [9 groups of 7 tumors, as illustrated in Fig. 4(c)], each of 4 mm in diameter were placed at the center slice of the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Basic performance of the VP‐PET insert system\nWith the VP‐PET panel detector at (0, −180, 0) mm, the sensitivity profiles of the system measured at different positions (Y = 100 mm, 0 mm and −100 mm, respectively) across the axial FOV are shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom study\nFigure 6 shows (a) the system geometry for imaging experiments, and (b) the corresponding reconstructed images after the 30th iteration using events equivalent to 200 s of a typical clinical FDG scan.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(a) shows the average CRC as a function of tumor sizes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The ratio of the CRC with and without the VP‐PET insert is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The figure without insert attached was a computed tomography (CT) image, while the figures with insert attached are not CT images but drawings that show the relative locations of the insert to the phantom; (b) The corresponding reconstructed images using an acquisition time equivalent to 200 s during a typical clinical fluorodeoxyglucose scan. [Color figure can be viewed at wileyonlinelibrary.com]Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Images reconstructed using these two composite datasets are shown in Fig. 8(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\n(a) From left to right are native scanner image, and images reconstructed using combined datasets from positions 1 and 3 to mimic a dual‐panel virtual‐pinhole positron emission tomography (VP‐PET) device, and a dual‐panel depth‐of‐interaction‐capable VP‐PET device that can triple the number of IS events; (b) the contrast recovery coefficient (CRC) curves for different configurations (Left) and the CRC ratios with and without VP‐PET insert (Right). [Color figure can be viewed at wileyonlinelibrary.com]Figure 8(b) shows the corresponding CRC curves and CRC improvement over native scanner images.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A dual‐panel VP‐PET device provides even higher CRC than those in Fig. 8(b) from a single‐panel VP‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "ROC curves of the three systems are shown in Fig. 9(d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nReconstructed images from (a) native positron emission tomography (PET) scanner; (b) single‐panel virtual‐pinhole PET (VP‐PET) device as in Fig. 4(a); (c) dual‐panel VP‐PET device as in Fig. 4(b); (d) receiver operating characteristic curves of 3 systems. [Color figure can be viewed at wileyonlinelibrary.com]We further analyzed the data to identify the diagnostic threshold that would misclassify individual lesions to become false negative.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the location of individual lesions and the corresponding thresholds when imaged by the native PET scanner [Fig. 10(a)] and the VP‐PET device [Fig. 10(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Consider the lesions in the red square in Fig. 10(b), they gain most contrast and thus have the biggest improvement in lesion detectability when a dual‐panel VP‐PET device was attached to a scanner using the configuration in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nLocation of individual lesions and their corresponding thresholds that would misclassify the tumor to become false negative when the phantom in Fig. 4(c) was imaged by the native positron emission tomography scanner (a) or by the virtual‐pinhole PET (VP‐PET) device (b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We use a commercial robotic arm (KUKA KR10‐R1100) to hold the VP‐PET detectors and position them around a patient's body [Fig. 1(a)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The panel consists of 32 detector modules arranged in a 4 × 8 array, as shown in Fig. 1(b).38 Each PET detector module comprises a lutetium yttrium orthosilicate (LYSO) crystal array, a custom acrylic light guide, a multi‐pixel photon‐counters (MPPC, Hamamatsu S12641‐PA‐50(x)) array, and a multiplexing board.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the system architecture that enables coincidence detection between the VP‐PET insert and the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging experiment\nA Data Spectrum Elliptical Lung‐Spine Torso Phantom measuring 316 × 228 × 162 mm3 was imaged to evaluate the enhancement of the CRC of small lesions by the flat‐panel VP‐PET device, as shown in Fig. 3(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fillable spherical glass tumors with inner diameters of 3.3, 4.3, 6.0, 8.0, 9.6, and 11.4 mm [Fig. 3(b)] were mounted inside the torso phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sixty‐three spherical lesions [9 groups of 7 tumors, as illustrated in Fig. 4(c)], each of 4 mm in diameter were placed at the center slice of the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Basic performance of the VP‐PET insert system\nWith the VP‐PET panel detector at (0, −180, 0) mm, the sensitivity profiles of the system measured at different positions (Y = 100 mm, 0 mm and −100 mm, respectively) across the axial FOV are shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom study\nFigure 6 shows (a) the system geometry for imaging experiments, and (b) the corresponding reconstructed images after the 30th iteration using events equivalent to 200 s of a typical clinical FDG scan.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(a) shows the average CRC as a function of tumor sizes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The ratio of the CRC with and without the VP‐PET insert is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The figure without insert attached was a computed tomography (CT) image, while the figures with insert attached are not CT images but drawings that show the relative locations of the insert to the phantom; (b) The corresponding reconstructed images using an acquisition time equivalent to 200 s during a typical clinical fluorodeoxyglucose scan. [Color figure can be viewed at wileyonlinelibrary.com]Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Images reconstructed using these two composite datasets are shown in Fig. 8(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\n(a) From left to right are native scanner image, and images reconstructed using combined datasets from positions 1 and 3 to mimic a dual‐panel virtual‐pinhole positron emission tomography (VP‐PET) device, and a dual‐panel depth‐of‐interaction‐capable VP‐PET device that can triple the number of IS events; (b) the contrast recovery coefficient (CRC) curves for different configurations (Left) and the CRC ratios with and without VP‐PET insert (Right). [Color figure can be viewed at wileyonlinelibrary.com]Figure 8(b) shows the corresponding CRC curves and CRC improvement over native scanner images.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A dual‐panel VP‐PET device provides even higher CRC than those in Fig. 8(b) from a single‐panel VP‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "ROC curves of the three systems are shown in Fig. 9(d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nReconstructed images from (a) native positron emission tomography (PET) scanner; (b) single‐panel virtual‐pinhole PET (VP‐PET) device as in Fig. 4(a); (c) dual‐panel VP‐PET device as in Fig. 4(b); (d) receiver operating characteristic curves of 3 systems. [Color figure can be viewed at wileyonlinelibrary.com]We further analyzed the data to identify the diagnostic threshold that would misclassify individual lesions to become false negative.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the location of individual lesions and the corresponding thresholds when imaged by the native PET scanner [Fig. 10(a)] and the VP‐PET device [Fig. 10(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Consider the lesions in the red square in Fig. 10(b), they gain most contrast and thus have the biggest improvement in lesion detectability when a dual‐panel VP‐PET device was attached to a scanner using the configuration in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nLocation of individual lesions and their corresponding thresholds that would misclassify the tumor to become false negative when the phantom in Fig. 4(c) was imaged by the native positron emission tomography scanner (a) or by the virtual‐pinhole PET (VP‐PET) device (b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We use a commercial robotic arm (KUKA KR10‐R1100) to hold the VP‐PET detectors and position them around a patient's body [Fig. 1(a)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The panel consists of 32 detector modules arranged in a 4 × 8 array, as shown in Fig. 1(b).38 Each PET detector module comprises a lutetium yttrium orthosilicate (LYSO) crystal array, a custom acrylic light guide, a multi‐pixel photon‐counters (MPPC, Hamamatsu S12641‐PA‐50(x)) array, and a multiplexing board.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the system architecture that enables coincidence detection between the VP‐PET insert and the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging experiment\nA Data Spectrum Elliptical Lung‐Spine Torso Phantom measuring 316 × 228 × 162 mm3 was imaged to evaluate the enhancement of the CRC of small lesions by the flat‐panel VP‐PET device, as shown in Fig. 3(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fillable spherical glass tumors with inner diameters of 3.3, 4.3, 6.0, 8.0, 9.6, and 11.4 mm [Fig. 3(b)] were mounted inside the torso phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sixty‐three spherical lesions [9 groups of 7 tumors, as illustrated in Fig. 4(c)], each of 4 mm in diameter were placed at the center slice of the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Basic performance of the VP‐PET insert system\nWith the VP‐PET panel detector at (0, −180, 0) mm, the sensitivity profiles of the system measured at different positions (Y = 100 mm, 0 mm and −100 mm, respectively) across the axial FOV are shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom study\nFigure 6 shows (a) the system geometry for imaging experiments, and (b) the corresponding reconstructed images after the 30th iteration using events equivalent to 200 s of a typical clinical FDG scan.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(a) shows the average CRC as a function of tumor sizes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The ratio of the CRC with and without the VP‐PET insert is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The figure without insert attached was a computed tomography (CT) image, while the figures with insert attached are not CT images but drawings that show the relative locations of the insert to the phantom; (b) The corresponding reconstructed images using an acquisition time equivalent to 200 s during a typical clinical fluorodeoxyglucose scan. [Color figure can be viewed at wileyonlinelibrary.com]Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Images reconstructed using these two composite datasets are shown in Fig. 8(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\n(a) From left to right are native scanner image, and images reconstructed using combined datasets from positions 1 and 3 to mimic a dual‐panel virtual‐pinhole positron emission tomography (VP‐PET) device, and a dual‐panel depth‐of‐interaction‐capable VP‐PET device that can triple the number of IS events; (b) the contrast recovery coefficient (CRC) curves for different configurations (Left) and the CRC ratios with and without VP‐PET insert (Right). [Color figure can be viewed at wileyonlinelibrary.com]Figure 8(b) shows the corresponding CRC curves and CRC improvement over native scanner images.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A dual‐panel VP‐PET device provides even higher CRC than those in Fig. 8(b) from a single‐panel VP‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "ROC curves of the three systems are shown in Fig. 9(d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nReconstructed images from (a) native positron emission tomography (PET) scanner; (b) single‐panel virtual‐pinhole PET (VP‐PET) device as in Fig. 4(a); (c) dual‐panel VP‐PET device as in Fig. 4(b); (d) receiver operating characteristic curves of 3 systems. [Color figure can be viewed at wileyonlinelibrary.com]We further analyzed the data to identify the diagnostic threshold that would misclassify individual lesions to become false negative.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the location of individual lesions and the corresponding thresholds when imaged by the native PET scanner [Fig. 10(a)] and the VP‐PET device [Fig. 10(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Consider the lesions in the red square in Fig. 10(b), they gain most contrast and thus have the biggest improvement in lesion detectability when a dual‐panel VP‐PET device was attached to a scanner using the configuration in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nLocation of individual lesions and their corresponding thresholds that would misclassify the tumor to become false negative when the phantom in Fig. 4(c) was imaged by the native positron emission tomography scanner (a) or by the virtual‐pinhole PET (VP‐PET) device (b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We use a commercial robotic arm (KUKA KR10‐R1100) to hold the VP‐PET detectors and position them around a patient's body [Fig. 1(a)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The panel consists of 32 detector modules arranged in a 4 × 8 array, as shown in Fig. 1(b).38 Each PET detector module comprises a lutetium yttrium orthosilicate (LYSO) crystal array, a custom acrylic light guide, a multi‐pixel photon‐counters (MPPC, Hamamatsu S12641‐PA‐50(x)) array, and a multiplexing board.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the system architecture that enables coincidence detection between the VP‐PET insert and the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging experiment\nA Data Spectrum Elliptical Lung‐Spine Torso Phantom measuring 316 × 228 × 162 mm3 was imaged to evaluate the enhancement of the CRC of small lesions by the flat‐panel VP‐PET device, as shown in Fig. 3(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fillable spherical glass tumors with inner diameters of 3.3, 4.3, 6.0, 8.0, 9.6, and 11.4 mm [Fig. 3(b)] were mounted inside the torso phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sixty‐three spherical lesions [9 groups of 7 tumors, as illustrated in Fig. 4(c)], each of 4 mm in diameter were placed at the center slice of the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Basic performance of the VP‐PET insert system\nWith the VP‐PET panel detector at (0, −180, 0) mm, the sensitivity profiles of the system measured at different positions (Y = 100 mm, 0 mm and −100 mm, respectively) across the axial FOV are shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom study\nFigure 6 shows (a) the system geometry for imaging experiments, and (b) the corresponding reconstructed images after the 30th iteration using events equivalent to 200 s of a typical clinical FDG scan.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(a) shows the average CRC as a function of tumor sizes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The ratio of the CRC with and without the VP‐PET insert is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The figure without insert attached was a computed tomography (CT) image, while the figures with insert attached are not CT images but drawings that show the relative locations of the insert to the phantom; (b) The corresponding reconstructed images using an acquisition time equivalent to 200 s during a typical clinical fluorodeoxyglucose scan. [Color figure can be viewed at wileyonlinelibrary.com]Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Images reconstructed using these two composite datasets are shown in Fig. 8(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\n(a) From left to right are native scanner image, and images reconstructed using combined datasets from positions 1 and 3 to mimic a dual‐panel virtual‐pinhole positron emission tomography (VP‐PET) device, and a dual‐panel depth‐of‐interaction‐capable VP‐PET device that can triple the number of IS events; (b) the contrast recovery coefficient (CRC) curves for different configurations (Left) and the CRC ratios with and without VP‐PET insert (Right). [Color figure can be viewed at wileyonlinelibrary.com]Figure 8(b) shows the corresponding CRC curves and CRC improvement over native scanner images.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A dual‐panel VP‐PET device provides even higher CRC than those in Fig. 8(b) from a single‐panel VP‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "ROC curves of the three systems are shown in Fig. 9(d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nReconstructed images from (a) native positron emission tomography (PET) scanner; (b) single‐panel virtual‐pinhole PET (VP‐PET) device as in Fig. 4(a); (c) dual‐panel VP‐PET device as in Fig. 4(b); (d) receiver operating characteristic curves of 3 systems. [Color figure can be viewed at wileyonlinelibrary.com]We further analyzed the data to identify the diagnostic threshold that would misclassify individual lesions to become false negative.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the location of individual lesions and the corresponding thresholds when imaged by the native PET scanner [Fig. 10(a)] and the VP‐PET device [Fig. 10(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Consider the lesions in the red square in Fig. 10(b), they gain most contrast and thus have the biggest improvement in lesion detectability when a dual‐panel VP‐PET device was attached to a scanner using the configuration in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nLocation of individual lesions and their corresponding thresholds that would misclassify the tumor to become false negative when the phantom in Fig. 4(c) was imaged by the native positron emission tomography scanner (a) or by the virtual‐pinhole PET (VP‐PET) device (b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We use a commercial robotic arm (KUKA KR10‐R1100) to hold the VP‐PET detectors and position them around a patient's body [Fig. 1(a)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The panel consists of 32 detector modules arranged in a 4 × 8 array, as shown in Fig. 1(b).38 Each PET detector module comprises a lutetium yttrium orthosilicate (LYSO) crystal array, a custom acrylic light guide, a multi‐pixel photon‐counters (MPPC, Hamamatsu S12641‐PA‐50(x)) array, and a multiplexing board.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the system architecture that enables coincidence detection between the VP‐PET insert and the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging experiment\nA Data Spectrum Elliptical Lung‐Spine Torso Phantom measuring 316 × 228 × 162 mm3 was imaged to evaluate the enhancement of the CRC of small lesions by the flat‐panel VP‐PET device, as shown in Fig. 3(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fillable spherical glass tumors with inner diameters of 3.3, 4.3, 6.0, 8.0, 9.6, and 11.4 mm [Fig. 3(b)] were mounted inside the torso phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sixty‐three spherical lesions [9 groups of 7 tumors, as illustrated in Fig. 4(c)], each of 4 mm in diameter were placed at the center slice of the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Basic performance of the VP‐PET insert system\nWith the VP‐PET panel detector at (0, −180, 0) mm, the sensitivity profiles of the system measured at different positions (Y = 100 mm, 0 mm and −100 mm, respectively) across the axial FOV are shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom study\nFigure 6 shows (a) the system geometry for imaging experiments, and (b) the corresponding reconstructed images after the 30th iteration using events equivalent to 200 s of a typical clinical FDG scan.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(a) shows the average CRC as a function of tumor sizes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The ratio of the CRC with and without the VP‐PET insert is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The figure without insert attached was a computed tomography (CT) image, while the figures with insert attached are not CT images but drawings that show the relative locations of the insert to the phantom; (b) The corresponding reconstructed images using an acquisition time equivalent to 200 s during a typical clinical fluorodeoxyglucose scan. [Color figure can be viewed at wileyonlinelibrary.com]Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Images reconstructed using these two composite datasets are shown in Fig. 8(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\n(a) From left to right are native scanner image, and images reconstructed using combined datasets from positions 1 and 3 to mimic a dual‐panel virtual‐pinhole positron emission tomography (VP‐PET) device, and a dual‐panel depth‐of‐interaction‐capable VP‐PET device that can triple the number of IS events; (b) the contrast recovery coefficient (CRC) curves for different configurations (Left) and the CRC ratios with and without VP‐PET insert (Right). [Color figure can be viewed at wileyonlinelibrary.com]Figure 8(b) shows the corresponding CRC curves and CRC improvement over native scanner images.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A dual‐panel VP‐PET device provides even higher CRC than those in Fig. 8(b) from a single‐panel VP‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "ROC curves of the three systems are shown in Fig. 9(d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nReconstructed images from (a) native positron emission tomography (PET) scanner; (b) single‐panel virtual‐pinhole PET (VP‐PET) device as in Fig. 4(a); (c) dual‐panel VP‐PET device as in Fig. 4(b); (d) receiver operating characteristic curves of 3 systems. [Color figure can be viewed at wileyonlinelibrary.com]We further analyzed the data to identify the diagnostic threshold that would misclassify individual lesions to become false negative.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the location of individual lesions and the corresponding thresholds when imaged by the native PET scanner [Fig. 10(a)] and the VP‐PET device [Fig. 10(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Consider the lesions in the red square in Fig. 10(b), they gain most contrast and thus have the biggest improvement in lesion detectability when a dual‐panel VP‐PET device was attached to a scanner using the configuration in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nLocation of individual lesions and their corresponding thresholds that would misclassify the tumor to become false negative when the phantom in Fig. 4(c) was imaged by the native positron emission tomography scanner (a) or by the virtual‐pinhole PET (VP‐PET) device (b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We use a commercial robotic arm (KUKA KR10‐R1100) to hold the VP‐PET detectors and position them around a patient's body [Fig. 1(a)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The panel consists of 32 detector modules arranged in a 4 × 8 array, as shown in Fig. 1(b).38 Each PET detector module comprises a lutetium yttrium orthosilicate (LYSO) crystal array, a custom acrylic light guide, a multi‐pixel photon‐counters (MPPC, Hamamatsu S12641‐PA‐50(x)) array, and a multiplexing board.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the system architecture that enables coincidence detection between the VP‐PET insert and the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging experiment\nA Data Spectrum Elliptical Lung‐Spine Torso Phantom measuring 316 × 228 × 162 mm3 was imaged to evaluate the enhancement of the CRC of small lesions by the flat‐panel VP‐PET device, as shown in Fig. 3(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fillable spherical glass tumors with inner diameters of 3.3, 4.3, 6.0, 8.0, 9.6, and 11.4 mm [Fig. 3(b)] were mounted inside the torso phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sixty‐three spherical lesions [9 groups of 7 tumors, as illustrated in Fig. 4(c)], each of 4 mm in diameter were placed at the center slice of the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Basic performance of the VP‐PET insert system\nWith the VP‐PET panel detector at (0, −180, 0) mm, the sensitivity profiles of the system measured at different positions (Y = 100 mm, 0 mm and −100 mm, respectively) across the axial FOV are shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom study\nFigure 6 shows (a) the system geometry for imaging experiments, and (b) the corresponding reconstructed images after the 30th iteration using events equivalent to 200 s of a typical clinical FDG scan.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(a) shows the average CRC as a function of tumor sizes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The ratio of the CRC with and without the VP‐PET insert is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The figure without insert attached was a computed tomography (CT) image, while the figures with insert attached are not CT images but drawings that show the relative locations of the insert to the phantom; (b) The corresponding reconstructed images using an acquisition time equivalent to 200 s during a typical clinical fluorodeoxyglucose scan. [Color figure can be viewed at wileyonlinelibrary.com]Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Images reconstructed using these two composite datasets are shown in Fig. 8(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\n(a) From left to right are native scanner image, and images reconstructed using combined datasets from positions 1 and 3 to mimic a dual‐panel virtual‐pinhole positron emission tomography (VP‐PET) device, and a dual‐panel depth‐of‐interaction‐capable VP‐PET device that can triple the number of IS events; (b) the contrast recovery coefficient (CRC) curves for different configurations (Left) and the CRC ratios with and without VP‐PET insert (Right). [Color figure can be viewed at wileyonlinelibrary.com]Figure 8(b) shows the corresponding CRC curves and CRC improvement over native scanner images.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A dual‐panel VP‐PET device provides even higher CRC than those in Fig. 8(b) from a single‐panel VP‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "ROC curves of the three systems are shown in Fig. 9(d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nReconstructed images from (a) native positron emission tomography (PET) scanner; (b) single‐panel virtual‐pinhole PET (VP‐PET) device as in Fig. 4(a); (c) dual‐panel VP‐PET device as in Fig. 4(b); (d) receiver operating characteristic curves of 3 systems. [Color figure can be viewed at wileyonlinelibrary.com]We further analyzed the data to identify the diagnostic threshold that would misclassify individual lesions to become false negative.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the location of individual lesions and the corresponding thresholds when imaged by the native PET scanner [Fig. 10(a)] and the VP‐PET device [Fig. 10(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Consider the lesions in the red square in Fig. 10(b), they gain most contrast and thus have the biggest improvement in lesion detectability when a dual‐panel VP‐PET device was attached to a scanner using the configuration in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nLocation of individual lesions and their corresponding thresholds that would misclassify the tumor to become false negative when the phantom in Fig. 4(c) was imaged by the native positron emission tomography scanner (a) or by the virtual‐pinhole PET (VP‐PET) device (b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We use a commercial robotic arm (KUKA KR10‐R1100) to hold the VP‐PET detectors and position them around a patient's body [Fig. 1(a)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The panel consists of 32 detector modules arranged in a 4 × 8 array, as shown in Fig. 1(b).38 Each PET detector module comprises a lutetium yttrium orthosilicate (LYSO) crystal array, a custom acrylic light guide, a multi‐pixel photon‐counters (MPPC, Hamamatsu S12641‐PA‐50(x)) array, and a multiplexing board.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the system architecture that enables coincidence detection between the VP‐PET insert and the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging experiment\nA Data Spectrum Elliptical Lung‐Spine Torso Phantom measuring 316 × 228 × 162 mm3 was imaged to evaluate the enhancement of the CRC of small lesions by the flat‐panel VP‐PET device, as shown in Fig. 3(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fillable spherical glass tumors with inner diameters of 3.3, 4.3, 6.0, 8.0, 9.6, and 11.4 mm [Fig. 3(b)] were mounted inside the torso phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sixty‐three spherical lesions [9 groups of 7 tumors, as illustrated in Fig. 4(c)], each of 4 mm in diameter were placed at the center slice of the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Basic performance of the VP‐PET insert system\nWith the VP‐PET panel detector at (0, −180, 0) mm, the sensitivity profiles of the system measured at different positions (Y = 100 mm, 0 mm and −100 mm, respectively) across the axial FOV are shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom study\nFigure 6 shows (a) the system geometry for imaging experiments, and (b) the corresponding reconstructed images after the 30th iteration using events equivalent to 200 s of a typical clinical FDG scan.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(a) shows the average CRC as a function of tumor sizes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The ratio of the CRC with and without the VP‐PET insert is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The figure without insert attached was a computed tomography (CT) image, while the figures with insert attached are not CT images but drawings that show the relative locations of the insert to the phantom; (b) The corresponding reconstructed images using an acquisition time equivalent to 200 s during a typical clinical fluorodeoxyglucose scan. [Color figure can be viewed at wileyonlinelibrary.com]Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Images reconstructed using these two composite datasets are shown in Fig. 8(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\n(a) From left to right are native scanner image, and images reconstructed using combined datasets from positions 1 and 3 to mimic a dual‐panel virtual‐pinhole positron emission tomography (VP‐PET) device, and a dual‐panel depth‐of‐interaction‐capable VP‐PET device that can triple the number of IS events; (b) the contrast recovery coefficient (CRC) curves for different configurations (Left) and the CRC ratios with and without VP‐PET insert (Right). [Color figure can be viewed at wileyonlinelibrary.com]Figure 8(b) shows the corresponding CRC curves and CRC improvement over native scanner images.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A dual‐panel VP‐PET device provides even higher CRC than those in Fig. 8(b) from a single‐panel VP‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "ROC curves of the three systems are shown in Fig. 9(d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nReconstructed images from (a) native positron emission tomography (PET) scanner; (b) single‐panel virtual‐pinhole PET (VP‐PET) device as in Fig. 4(a); (c) dual‐panel VP‐PET device as in Fig. 4(b); (d) receiver operating characteristic curves of 3 systems. [Color figure can be viewed at wileyonlinelibrary.com]We further analyzed the data to identify the diagnostic threshold that would misclassify individual lesions to become false negative.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the location of individual lesions and the corresponding thresholds when imaged by the native PET scanner [Fig. 10(a)] and the VP‐PET device [Fig. 10(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Consider the lesions in the red square in Fig. 10(b), they gain most contrast and thus have the biggest improvement in lesion detectability when a dual‐panel VP‐PET device was attached to a scanner using the configuration in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nLocation of individual lesions and their corresponding thresholds that would misclassify the tumor to become false negative when the phantom in Fig. 4(c) was imaged by the native positron emission tomography scanner (a) or by the virtual‐pinhole PET (VP‐PET) device (b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We use a commercial robotic arm (KUKA KR10‐R1100) to hold the VP‐PET detectors and position them around a patient's body [Fig. 1(a)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The panel consists of 32 detector modules arranged in a 4 × 8 array, as shown in Fig. 1(b).38 Each PET detector module comprises a lutetium yttrium orthosilicate (LYSO) crystal array, a custom acrylic light guide, a multi‐pixel photon‐counters (MPPC, Hamamatsu S12641‐PA‐50(x)) array, and a multiplexing board.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the system architecture that enables coincidence detection between the VP‐PET insert and the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging experiment\nA Data Spectrum Elliptical Lung‐Spine Torso Phantom measuring 316 × 228 × 162 mm3 was imaged to evaluate the enhancement of the CRC of small lesions by the flat‐panel VP‐PET device, as shown in Fig. 3(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fillable spherical glass tumors with inner diameters of 3.3, 4.3, 6.0, 8.0, 9.6, and 11.4 mm [Fig. 3(b)] were mounted inside the torso phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sixty‐three spherical lesions [9 groups of 7 tumors, as illustrated in Fig. 4(c)], each of 4 mm in diameter were placed at the center slice of the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Basic performance of the VP‐PET insert system\nWith the VP‐PET panel detector at (0, −180, 0) mm, the sensitivity profiles of the system measured at different positions (Y = 100 mm, 0 mm and −100 mm, respectively) across the axial FOV are shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom study\nFigure 6 shows (a) the system geometry for imaging experiments, and (b) the corresponding reconstructed images after the 30th iteration using events equivalent to 200 s of a typical clinical FDG scan.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(a) shows the average CRC as a function of tumor sizes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The ratio of the CRC with and without the VP‐PET insert is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The figure without insert attached was a computed tomography (CT) image, while the figures with insert attached are not CT images but drawings that show the relative locations of the insert to the phantom; (b) The corresponding reconstructed images using an acquisition time equivalent to 200 s during a typical clinical fluorodeoxyglucose scan. [Color figure can be viewed at wileyonlinelibrary.com]Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Images reconstructed using these two composite datasets are shown in Fig. 8(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\n(a) From left to right are native scanner image, and images reconstructed using combined datasets from positions 1 and 3 to mimic a dual‐panel virtual‐pinhole positron emission tomography (VP‐PET) device, and a dual‐panel depth‐of‐interaction‐capable VP‐PET device that can triple the number of IS events; (b) the contrast recovery coefficient (CRC) curves for different configurations (Left) and the CRC ratios with and without VP‐PET insert (Right). [Color figure can be viewed at wileyonlinelibrary.com]Figure 8(b) shows the corresponding CRC curves and CRC improvement over native scanner images.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A dual‐panel VP‐PET device provides even higher CRC than those in Fig. 8(b) from a single‐panel VP‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "ROC curves of the three systems are shown in Fig. 9(d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nReconstructed images from (a) native positron emission tomography (PET) scanner; (b) single‐panel virtual‐pinhole PET (VP‐PET) device as in Fig. 4(a); (c) dual‐panel VP‐PET device as in Fig. 4(b); (d) receiver operating characteristic curves of 3 systems. [Color figure can be viewed at wileyonlinelibrary.com]We further analyzed the data to identify the diagnostic threshold that would misclassify individual lesions to become false negative.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the location of individual lesions and the corresponding thresholds when imaged by the native PET scanner [Fig. 10(a)] and the VP‐PET device [Fig. 10(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Consider the lesions in the red square in Fig. 10(b), they gain most contrast and thus have the biggest improvement in lesion detectability when a dual‐panel VP‐PET device was attached to a scanner using the configuration in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nLocation of individual lesions and their corresponding thresholds that would misclassify the tumor to become false negative when the phantom in Fig. 4(c) was imaged by the native positron emission tomography scanner (a) or by the virtual‐pinhole PET (VP‐PET) device (b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We use a commercial robotic arm (KUKA KR10‐R1100) to hold the VP‐PET detectors and position them around a patient's body [Fig. 1(a)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The panel consists of 32 detector modules arranged in a 4 × 8 array, as shown in Fig. 1(b).38 Each PET detector module comprises a lutetium yttrium orthosilicate (LYSO) crystal array, a custom acrylic light guide, a multi‐pixel photon‐counters (MPPC, Hamamatsu S12641‐PA‐50(x)) array, and a multiplexing board.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the system architecture that enables coincidence detection between the VP‐PET insert and the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging experiment\nA Data Spectrum Elliptical Lung‐Spine Torso Phantom measuring 316 × 228 × 162 mm3 was imaged to evaluate the enhancement of the CRC of small lesions by the flat‐panel VP‐PET device, as shown in Fig. 3(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fillable spherical glass tumors with inner diameters of 3.3, 4.3, 6.0, 8.0, 9.6, and 11.4 mm [Fig. 3(b)] were mounted inside the torso phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sixty‐three spherical lesions [9 groups of 7 tumors, as illustrated in Fig. 4(c)], each of 4 mm in diameter were placed at the center slice of the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We use a commercial robotic arm (KUKA KR10‐R1100) to hold the VP‐PET detectors and position them around a patient's body [Fig. 1(a)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "We use a commercial robotic arm (KUKA KR10‐R1100) to hold the VP‐PET detectors and position them around a patient's body [Fig. 1(a)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The panel consists of 32 detector modules arranged in a 4 × 8 array, as shown in Fig. 1(b).38 Each PET detector module comprises a lutetium yttrium orthosilicate (LYSO) crystal array, a custom acrylic light guide, a multi‐pixel photon‐counters (MPPC, Hamamatsu S12641‐PA‐50(x)) array, and a multiplexing board.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The panel consists of 32 detector modules arranged in a 4 × 8 array, as shown in Fig. 1(b).38 Each PET detector module comprises a lutetium yttrium orthosilicate (LYSO) crystal array, a custom acrylic light guide, a multi‐pixel photon‐counters (MPPC, Hamamatsu S12641‐PA‐50(x)) array, and a multiplexing board.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the system architecture that enables coincidence detection between the VP‐PET insert and the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 2 shows the system architecture that enables coincidence detection between the VP‐PET insert and the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom imaging experiment\nA Data Spectrum Elliptical Lung‐Spine Torso Phantom measuring 316 × 228 × 162 mm3 was imaged to evaluate the enhancement of the CRC of small lesions by the flat‐panel VP‐PET device, as shown in Fig. 3(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fillable spherical glass tumors with inner diameters of 3.3, 4.3, 6.0, 8.0, 9.6, and 11.4 mm [Fig. 3(b)] were mounted inside the torso phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "A Data Spectrum Elliptical Lung‐Spine Torso Phantom measuring 316 × 228 × 162 mm3 was imaged to evaluate the enhancement of the CRC of small lesions by the flat‐panel VP‐PET device, as shown in Fig. 3(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fillable spherical glass tumors with inner diameters of 3.3, 4.3, 6.0, 8.0, 9.6, and 11.4 mm [Fig. 3(b)] were mounted inside the torso phantom.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Sixty‐three spherical lesions [9 groups of 7 tumors, as illustrated in Fig. 4(c)], each of 4 mm in diameter were placed at the center slice of the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Sixty‐three spherical lesions [9 groups of 7 tumors, as illustrated in Fig. 4(c)], each of 4 mm in diameter were placed at the center slice of the scanner.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Basic performance of the VP‐PET insert system\nWith the VP‐PET panel detector at (0, −180, 0) mm, the sensitivity profiles of the system measured at different positions (Y = 100 mm, 0 mm and −100 mm, respectively) across the axial FOV are shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom study\nFigure 6 shows (a) the system geometry for imaging experiments, and (b) the corresponding reconstructed images after the 30th iteration using events equivalent to 200 s of a typical clinical FDG scan.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(a) shows the average CRC as a function of tumor sizes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The ratio of the CRC with and without the VP‐PET insert is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The figure without insert attached was a computed tomography (CT) image, while the figures with insert attached are not CT images but drawings that show the relative locations of the insert to the phantom; (b) The corresponding reconstructed images using an acquisition time equivalent to 200 s during a typical clinical fluorodeoxyglucose scan. [Color figure can be viewed at wileyonlinelibrary.com]Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Images reconstructed using these two composite datasets are shown in Fig. 8(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\n(a) From left to right are native scanner image, and images reconstructed using combined datasets from positions 1 and 3 to mimic a dual‐panel virtual‐pinhole positron emission tomography (VP‐PET) device, and a dual‐panel depth‐of‐interaction‐capable VP‐PET device that can triple the number of IS events; (b) the contrast recovery coefficient (CRC) curves for different configurations (Left) and the CRC ratios with and without VP‐PET insert (Right). [Color figure can be viewed at wileyonlinelibrary.com]Figure 8(b) shows the corresponding CRC curves and CRC improvement over native scanner images.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A dual‐panel VP‐PET device provides even higher CRC than those in Fig. 8(b) from a single‐panel VP‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "ROC curves of the three systems are shown in Fig. 9(d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nReconstructed images from (a) native positron emission tomography (PET) scanner; (b) single‐panel virtual‐pinhole PET (VP‐PET) device as in Fig. 4(a); (c) dual‐panel VP‐PET device as in Fig. 4(b); (d) receiver operating characteristic curves of 3 systems. [Color figure can be viewed at wileyonlinelibrary.com]We further analyzed the data to identify the diagnostic threshold that would misclassify individual lesions to become false negative.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the location of individual lesions and the corresponding thresholds when imaged by the native PET scanner [Fig. 10(a)] and the VP‐PET device [Fig. 10(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Consider the lesions in the red square in Fig. 10(b), they gain most contrast and thus have the biggest improvement in lesion detectability when a dual‐panel VP‐PET device was attached to a scanner using the configuration in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nLocation of individual lesions and their corresponding thresholds that would misclassify the tumor to become false negative when the phantom in Fig. 4(c) was imaged by the native positron emission tomography scanner (a) or by the virtual‐pinhole PET (VP‐PET) device (b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Basic performance of the VP‐PET insert system\nWith the VP‐PET panel detector at (0, −180, 0) mm, the sensitivity profiles of the system measured at different positions (Y = 100 mm, 0 mm and −100 mm, respectively) across the axial FOV are shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "With the VP‐PET panel detector at (0, −180, 0) mm, the sensitivity profiles of the system measured at different positions (Y = 100 mm, 0 mm and −100 mm, respectively) across the axial FOV are shown in Fig. 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Phantom study\nFigure 6 shows (a) the system geometry for imaging experiments, and (b) the corresponding reconstructed images after the 30th iteration using events equivalent to 200 s of a typical clinical FDG scan.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(a) shows the average CRC as a function of tumor sizes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The ratio of the CRC with and without the VP‐PET insert is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The figure without insert attached was a computed tomography (CT) image, while the figures with insert attached are not CT images but drawings that show the relative locations of the insert to the phantom; (b) The corresponding reconstructed images using an acquisition time equivalent to 200 s during a typical clinical fluorodeoxyglucose scan. [Color figure can be viewed at wileyonlinelibrary.com]Figure 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Images reconstructed using these two composite datasets are shown in Fig. 8(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\n(a) From left to right are native scanner image, and images reconstructed using combined datasets from positions 1 and 3 to mimic a dual‐panel virtual‐pinhole positron emission tomography (VP‐PET) device, and a dual‐panel depth‐of‐interaction‐capable VP‐PET device that can triple the number of IS events; (b) the contrast recovery coefficient (CRC) curves for different configurations (Left) and the CRC ratios with and without VP‐PET insert (Right). [Color figure can be viewed at wileyonlinelibrary.com]Figure 8(b) shows the corresponding CRC curves and CRC improvement over native scanner images.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A dual‐panel VP‐PET device provides even higher CRC than those in Fig. 8(b) from a single‐panel VP‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 6 shows (a) the system geometry for imaging experiments, and (b) the corresponding reconstructed images after the 30th iteration using events equivalent to 200 s of a typical clinical FDG scan.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 7(a) shows the average CRC as a function of tumor sizes.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The ratio of the CRC with and without the VP‐PET insert is shown in Fig. 7(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Images reconstructed using these two composite datasets are shown in Fig. 8(a).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8(b) shows the corresponding CRC curves and CRC improvement over native scanner images.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "A dual‐panel VP‐PET device provides even higher CRC than those in Fig. 8(b) from a single‐panel VP‐PET system.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "ROC curves of the three systems are shown in Fig. 9(d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nReconstructed images from (a) native positron emission tomography (PET) scanner; (b) single‐panel virtual‐pinhole PET (VP‐PET) device as in Fig. 4(a); (c) dual‐panel VP‐PET device as in Fig. 4(b); (d) receiver operating characteristic curves of 3 systems. [Color figure can be viewed at wileyonlinelibrary.com]We further analyzed the data to identify the diagnostic threshold that would misclassify individual lesions to become false negative.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the location of individual lesions and the corresponding thresholds when imaged by the native PET scanner [Fig. 10(a)] and the VP‐PET device [Fig. 10(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Consider the lesions in the red square in Fig. 10(b), they gain most contrast and thus have the biggest improvement in lesion detectability when a dual‐panel VP‐PET device was attached to a scanner using the configuration in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nLocation of individual lesions and their corresponding thresholds that would misclassify the tumor to become false negative when the phantom in Fig. 4(c) was imaged by the native positron emission tomography scanner (a) or by the virtual‐pinhole PET (VP‐PET) device (b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "ROC curves of the three systems are shown in Fig. 9(d).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Reconstructed images from (a) native positron emission tomography (PET) scanner; (b) single‐panel virtual‐pinhole PET (VP‐PET) device as in Fig. 4(a); (c) dual‐panel VP‐PET device as in Fig. 4(b); (d) receiver operating characteristic curves of 3 systems. [Color figure can be viewed at wileyonlinelibrary.com].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows the location of individual lesions and the corresponding thresholds when imaged by the native PET scanner [Fig. 10(a)] and the VP‐PET device [Fig. 10(b)].",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Consider the lesions in the red square in Fig. 10(b), they gain most contrast and thus have the biggest improvement in lesion detectability when a dual‐panel VP‐PET device was attached to a scanner using the configuration in Fig. 4(b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      },
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Location of individual lesions and their corresponding thresholds that would misclassify the tumor to become false negative when the phantom in Fig. 4(c) was imaged by the native positron emission tomography scanner (a) or by the virtual‐pinhole PET (VP‐PET) device (b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  }
+]

@@ -1,0 +1,922 @@
+[
+  {
+    "sentence": "Pseudo-Nitzschia and Domoic Acid Levels\nThe pre-bloom (6 April 2022) water sample levels of Pseudo-nitzschia were negligible (~0 cells/L) and increased to over 800,000 cells/L prior to the “bloom” sampling when the levels were at ~300,000 cells/L (8 November 2022) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo-nitzschia levels were again negligible (~0 cells/L) during the post-bloom water sampling (13 April 2023) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Particulate DA levels reached a high three months after the peak Pseudo-nitzschia cell count (2 November 2022) of approximately 2000 ng/L (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Razor clam tissue DA levels (ppm) followed pDA levels, with a peak of approximately 36 ppm just prior to our second sampling and decreasing to approximately 9 ppm during our post-bloom sampling (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Genes with no Blastx results are identified as “Uncharacterized”.\n\n(a) Top 20 down-regulated genes in pre-bloom compared with post-bloom razor clams\n\n\nTranscript_ID\n\n\nDescription\n\n\nlogFC\n\n\nadj.P.Val\n\n\nRepresentative GO ID and Function\n\n\n\na_HQ_transcript/72650\nprotocadherin\n−7.28\n2.02 × 10−15\n\nGO:0098609 cell-cell adhesion\n\n\na_HQ_transcript/45368\nCilia and flagella associate protein\n−5.47\n7.62 × 10−07\n\nGO:0005879 axonemal microtubule\n\n\na_HQ_transcript/23807\nSteroid 17-alpha-hydroxylase\n−7.24\n3.35 × 10−06\n\nGO:0042446 hormone biosynthetic process\n\n\na_HQ_transcript/27296\nUncharacterized\n−4.50\n3.35 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/1070\nUncharacterized\n−7.17\n8.17 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/55144\nATP-dependent translocase ABCB1\n−6.16\n8.17 × 10−06\n\nGO:1905039 carboxylic acid transmembrane transport\n\n\na_HQ_transcript/95382\nUncharacterized\n−4.07\n8.17 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/66970\nATP-dependent translocase ABCB1\n−6.62\n9.54 × 10−06\n\nGO:1905039 carboxylic acid transmembrane transport\n\n\na_HQ_transcript/125280\nUncharacterized\n−4.89\n9.54 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/34261\nNuclear receptor ROR-alpha\n−3.02\n9.54 × 10−06\n\nGO:0071456 cellular response to hypoxia\n\n\na_HQ_transcript/102242\nUncharacterized\n−2.94\n9.54 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/73314\nUncharacterized\n−9.53\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/129123\nUncharacterized\n−5.68\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/146424\nUncharacterized\n−4.91\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/58336\nNose resistant to fluoxetine protein 6\n−2.57\n2.74 × 10−05\n\nGO:0006869 lipid transport\n\n\na_HQ_transcript/22218\nSteroid 17-alpha-hydroxylase\n−3.72\n5.25 × 10−05\n\nGO:0042446 hormone biosynthetic process\n\n\na_HQ_transcript/92691\nAdenylate kinase isoenzyme 1\n−4.21\n5.58 × 10−05\n\nGO:0046034 ATP metabolic process\n\n\na_HQ_transcript/79902\nBeta-1,4-galactosyltransferase galt-1\n−3.66\n5.62 × 10−05\n\nGO:0070085 glycosylation\n\n\na_HQ_transcript/35228\nSteroid 17-alpha-hydroxylase\n−7.11\n6.74 × 10−05\n\nGO:0006694 steroid biosynthetic process\n\n\na_HQ_transcript/95521\nS-crystallin SL11\n−5.73\n9.66 × 10−05\n\nGO:0005212 structural constituent of eye lens\n\n(b) Top 20 up-regulated genes in pre-bloom compared with post-bloom razor clams\n\n\nTranscript_ID\n\n\nDescription\n\n\nlogFC\n\n\nadj.P.Val\n\n\nRepresentative GO ID and Function\n\n\n\na_HQ_transcript/135178\nUncharacterized\n5.34\n0.00\nUncharacterized\n\n\na_HQ_transcript/107478\nTubulin alpha-1A chain\n7.34\n0.00\nGO:0071277 cellular response to calcium ion\n\n\na_HQ_transcript/70915\nDynein beta chain\n3.18\n0.01\nGO:0030030 cell projection organization\n\n\na_HQ_transcript/101470\nLysosomal-associated transmembrane protein 4A\n4.10\n0.01\nGO:0005765 lysosomal membrane\n\n\na_HQ_transcript/136081\nNADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3\n4.16\n0.01\nGO:0032981 mitochondrial respiratory chain complex I assembly\n\n\na_HQ_transcript/90430\nUncharacterized\n2.03\n0.01\nUncharacterized\n\n\na_HQ_transcript/62043\nU2 small nuclear ribonucleoprotein A\n4.00\n0.01\nGO:0000398 mRNA splicing, via spliceosome\n\n\na_HQ_transcript/140232\nPeptidyl-prolyl cis-trans isomerase\n4.54\n0.01\nGO:0006457 protein folding\n\n\na_HQ_transcript/131746\nUncharacterized\n3.63\n0.01\nUncharacterized\n\n\na_HQ_transcript/119340\nSyntaxin-12\n5.99\n0.01\nGO:0033344 cholesterol efflux\n\n\na_HQ_transcript/114019\nUncharacterized\n3.73\n0.01\nUncharacterized\n\n\na_HQ_transcript/80242\nSoluble calcium-activated nucleotidase 1\n4.47\n0.01\nGO:0030166 proteoglycan biosynthetic process\n\n\na_HQ_transcript/60560\nUncharacterized\n1.68\n0.02\nUncharacterized\n\n\na_HQ_transcript/57283\nFibropellin-3\n2.92\n0.02\nGO:0005509 calcium ion binding\n\n\na_HQ_transcript/112742\nPoly [ADP-ribose] polymerase 2\n2.44\n0.02\nGO:0006284 base-excision repair\n\n\na_HQ_transcript/115926\nUncharacterized\n5.11\n0.02\nUncharacterized\n\n\na_HQ_transcript/135559\nUncharacterized\n1.53\n0.02\nUncharacterized\n\n\na_HQ_transcript/107872\nFascin\n4.93\n0.02\nGO:0030036 actin cytoskeleton organization\n\n\na_HQ_transcript/73908\nUncharacterized\n3.86\n0.02\nUncharacterized\n\n\na_HQ_transcript/101113\nN-alpha-acetyltransferase 40\n3.24\n0.03\nGO:0006629 lipid metabolic process\n\n\nOpen in a new tabThe number of differentially expressed genes (DEGs) between the pre-bloom and post-bloom samples with absolute fold change > 1.5 and adjusted p-value < 0.05 was 127, of which 52 were up-regulated and 75 were down-regulated (Figure 2, Supplementary File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "By the third sampling event (13 April 2023; post-bloom), monitored Pseudo-nitzschia and pDA levels were again negligible, razor clam tissue DA levels (ppm) had decreased to approximately 9 ppm, and the fishery was reopened (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo-Nitzschia and Domoic Acid Levels\nThe pre-bloom (6 April 2022) water sample levels of Pseudo-nitzschia were negligible (~0 cells/L) and increased to over 800,000 cells/L prior to the “bloom” sampling when the levels were at ~300,000 cells/L (8 November 2022) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo-nitzschia levels were again negligible (~0 cells/L) during the post-bloom water sampling (13 April 2023) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Particulate DA levels reached a high three months after the peak Pseudo-nitzschia cell count (2 November 2022) of approximately 2000 ng/L (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Razor clam tissue DA levels (ppm) followed pDA levels, with a peak of approximately 36 ppm just prior to our second sampling and decreasing to approximately 9 ppm during our post-bloom sampling (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Genes with no Blastx results are identified as “Uncharacterized”.\n\n(a) Top 20 down-regulated genes in pre-bloom compared with post-bloom razor clams\n\n\nTranscript_ID\n\n\nDescription\n\n\nlogFC\n\n\nadj.P.Val\n\n\nRepresentative GO ID and Function\n\n\n\na_HQ_transcript/72650\nprotocadherin\n−7.28\n2.02 × 10−15\n\nGO:0098609 cell-cell adhesion\n\n\na_HQ_transcript/45368\nCilia and flagella associate protein\n−5.47\n7.62 × 10−07\n\nGO:0005879 axonemal microtubule\n\n\na_HQ_transcript/23807\nSteroid 17-alpha-hydroxylase\n−7.24\n3.35 × 10−06\n\nGO:0042446 hormone biosynthetic process\n\n\na_HQ_transcript/27296\nUncharacterized\n−4.50\n3.35 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/1070\nUncharacterized\n−7.17\n8.17 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/55144\nATP-dependent translocase ABCB1\n−6.16\n8.17 × 10−06\n\nGO:1905039 carboxylic acid transmembrane transport\n\n\na_HQ_transcript/95382\nUncharacterized\n−4.07\n8.17 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/66970\nATP-dependent translocase ABCB1\n−6.62\n9.54 × 10−06\n\nGO:1905039 carboxylic acid transmembrane transport\n\n\na_HQ_transcript/125280\nUncharacterized\n−4.89\n9.54 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/34261\nNuclear receptor ROR-alpha\n−3.02\n9.54 × 10−06\n\nGO:0071456 cellular response to hypoxia\n\n\na_HQ_transcript/102242\nUncharacterized\n−2.94\n9.54 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/73314\nUncharacterized\n−9.53\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/129123\nUncharacterized\n−5.68\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/146424\nUncharacterized\n−4.91\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/58336\nNose resistant to fluoxetine protein 6\n−2.57\n2.74 × 10−05\n\nGO:0006869 lipid transport\n\n\na_HQ_transcript/22218\nSteroid 17-alpha-hydroxylase\n−3.72\n5.25 × 10−05\n\nGO:0042446 hormone biosynthetic process\n\n\na_HQ_transcript/92691\nAdenylate kinase isoenzyme 1\n−4.21\n5.58 × 10−05\n\nGO:0046034 ATP metabolic process\n\n\na_HQ_transcript/79902\nBeta-1,4-galactosyltransferase galt-1\n−3.66\n5.62 × 10−05\n\nGO:0070085 glycosylation\n\n\na_HQ_transcript/35228\nSteroid 17-alpha-hydroxylase\n−7.11\n6.74 × 10−05\n\nGO:0006694 steroid biosynthetic process\n\n\na_HQ_transcript/95521\nS-crystallin SL11\n−5.73\n9.66 × 10−05\n\nGO:0005212 structural constituent of eye lens\n\n(b) Top 20 up-regulated genes in pre-bloom compared with post-bloom razor clams\n\n\nTranscript_ID\n\n\nDescription\n\n\nlogFC\n\n\nadj.P.Val\n\n\nRepresentative GO ID and Function\n\n\n\na_HQ_transcript/135178\nUncharacterized\n5.34\n0.00\nUncharacterized\n\n\na_HQ_transcript/107478\nTubulin alpha-1A chain\n7.34\n0.00\nGO:0071277 cellular response to calcium ion\n\n\na_HQ_transcript/70915\nDynein beta chain\n3.18\n0.01\nGO:0030030 cell projection organization\n\n\na_HQ_transcript/101470\nLysosomal-associated transmembrane protein 4A\n4.10\n0.01\nGO:0005765 lysosomal membrane\n\n\na_HQ_transcript/136081\nNADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3\n4.16\n0.01\nGO:0032981 mitochondrial respiratory chain complex I assembly\n\n\na_HQ_transcript/90430\nUncharacterized\n2.03\n0.01\nUncharacterized\n\n\na_HQ_transcript/62043\nU2 small nuclear ribonucleoprotein A\n4.00\n0.01\nGO:0000398 mRNA splicing, via spliceosome\n\n\na_HQ_transcript/140232\nPeptidyl-prolyl cis-trans isomerase\n4.54\n0.01\nGO:0006457 protein folding\n\n\na_HQ_transcript/131746\nUncharacterized\n3.63\n0.01\nUncharacterized\n\n\na_HQ_transcript/119340\nSyntaxin-12\n5.99\n0.01\nGO:0033344 cholesterol efflux\n\n\na_HQ_transcript/114019\nUncharacterized\n3.73\n0.01\nUncharacterized\n\n\na_HQ_transcript/80242\nSoluble calcium-activated nucleotidase 1\n4.47\n0.01\nGO:0030166 proteoglycan biosynthetic process\n\n\na_HQ_transcript/60560\nUncharacterized\n1.68\n0.02\nUncharacterized\n\n\na_HQ_transcript/57283\nFibropellin-3\n2.92\n0.02\nGO:0005509 calcium ion binding\n\n\na_HQ_transcript/112742\nPoly [ADP-ribose] polymerase 2\n2.44\n0.02\nGO:0006284 base-excision repair\n\n\na_HQ_transcript/115926\nUncharacterized\n5.11\n0.02\nUncharacterized\n\n\na_HQ_transcript/135559\nUncharacterized\n1.53\n0.02\nUncharacterized\n\n\na_HQ_transcript/107872\nFascin\n4.93\n0.02\nGO:0030036 actin cytoskeleton organization\n\n\na_HQ_transcript/73908\nUncharacterized\n3.86\n0.02\nUncharacterized\n\n\na_HQ_transcript/101113\nN-alpha-acetyltransferase 40\n3.24\n0.03\nGO:0006629 lipid metabolic process\n\n\nOpen in a new tabThe number of differentially expressed genes (DEGs) between the pre-bloom and post-bloom samples with absolute fold change > 1.5 and adjusted p-value < 0.05 was 127, of which 52 were up-regulated and 75 were down-regulated (Figure 2, Supplementary File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "By the third sampling event (13 April 2023; post-bloom), monitored Pseudo-nitzschia and pDA levels were again negligible, razor clam tissue DA levels (ppm) had decreased to approximately 9 ppm, and the fishery was reopened (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo-Nitzschia and Domoic Acid Levels\nThe pre-bloom (6 April 2022) water sample levels of Pseudo-nitzschia were negligible (~0 cells/L) and increased to over 800,000 cells/L prior to the “bloom” sampling when the levels were at ~300,000 cells/L (8 November 2022) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo-nitzschia levels were again negligible (~0 cells/L) during the post-bloom water sampling (13 April 2023) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Particulate DA levels reached a high three months after the peak Pseudo-nitzschia cell count (2 November 2022) of approximately 2000 ng/L (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Razor clam tissue DA levels (ppm) followed pDA levels, with a peak of approximately 36 ppm just prior to our second sampling and decreasing to approximately 9 ppm during our post-bloom sampling (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Genes with no Blastx results are identified as “Uncharacterized”.\n\n(a) Top 20 down-regulated genes in pre-bloom compared with post-bloom razor clams\n\n\nTranscript_ID\n\n\nDescription\n\n\nlogFC\n\n\nadj.P.Val\n\n\nRepresentative GO ID and Function\n\n\n\na_HQ_transcript/72650\nprotocadherin\n−7.28\n2.02 × 10−15\n\nGO:0098609 cell-cell adhesion\n\n\na_HQ_transcript/45368\nCilia and flagella associate protein\n−5.47\n7.62 × 10−07\n\nGO:0005879 axonemal microtubule\n\n\na_HQ_transcript/23807\nSteroid 17-alpha-hydroxylase\n−7.24\n3.35 × 10−06\n\nGO:0042446 hormone biosynthetic process\n\n\na_HQ_transcript/27296\nUncharacterized\n−4.50\n3.35 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/1070\nUncharacterized\n−7.17\n8.17 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/55144\nATP-dependent translocase ABCB1\n−6.16\n8.17 × 10−06\n\nGO:1905039 carboxylic acid transmembrane transport\n\n\na_HQ_transcript/95382\nUncharacterized\n−4.07\n8.17 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/66970\nATP-dependent translocase ABCB1\n−6.62\n9.54 × 10−06\n\nGO:1905039 carboxylic acid transmembrane transport\n\n\na_HQ_transcript/125280\nUncharacterized\n−4.89\n9.54 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/34261\nNuclear receptor ROR-alpha\n−3.02\n9.54 × 10−06\n\nGO:0071456 cellular response to hypoxia\n\n\na_HQ_transcript/102242\nUncharacterized\n−2.94\n9.54 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/73314\nUncharacterized\n−9.53\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/129123\nUncharacterized\n−5.68\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/146424\nUncharacterized\n−4.91\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/58336\nNose resistant to fluoxetine protein 6\n−2.57\n2.74 × 10−05\n\nGO:0006869 lipid transport\n\n\na_HQ_transcript/22218\nSteroid 17-alpha-hydroxylase\n−3.72\n5.25 × 10−05\n\nGO:0042446 hormone biosynthetic process\n\n\na_HQ_transcript/92691\nAdenylate kinase isoenzyme 1\n−4.21\n5.58 × 10−05\n\nGO:0046034 ATP metabolic process\n\n\na_HQ_transcript/79902\nBeta-1,4-galactosyltransferase galt-1\n−3.66\n5.62 × 10−05\n\nGO:0070085 glycosylation\n\n\na_HQ_transcript/35228\nSteroid 17-alpha-hydroxylase\n−7.11\n6.74 × 10−05\n\nGO:0006694 steroid biosynthetic process\n\n\na_HQ_transcript/95521\nS-crystallin SL11\n−5.73\n9.66 × 10−05\n\nGO:0005212 structural constituent of eye lens\n\n(b) Top 20 up-regulated genes in pre-bloom compared with post-bloom razor clams\n\n\nTranscript_ID\n\n\nDescription\n\n\nlogFC\n\n\nadj.P.Val\n\n\nRepresentative GO ID and Function\n\n\n\na_HQ_transcript/135178\nUncharacterized\n5.34\n0.00\nUncharacterized\n\n\na_HQ_transcript/107478\nTubulin alpha-1A chain\n7.34\n0.00\nGO:0071277 cellular response to calcium ion\n\n\na_HQ_transcript/70915\nDynein beta chain\n3.18\n0.01\nGO:0030030 cell projection organization\n\n\na_HQ_transcript/101470\nLysosomal-associated transmembrane protein 4A\n4.10\n0.01\nGO:0005765 lysosomal membrane\n\n\na_HQ_transcript/136081\nNADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3\n4.16\n0.01\nGO:0032981 mitochondrial respiratory chain complex I assembly\n\n\na_HQ_transcript/90430\nUncharacterized\n2.03\n0.01\nUncharacterized\n\n\na_HQ_transcript/62043\nU2 small nuclear ribonucleoprotein A\n4.00\n0.01\nGO:0000398 mRNA splicing, via spliceosome\n\n\na_HQ_transcript/140232\nPeptidyl-prolyl cis-trans isomerase\n4.54\n0.01\nGO:0006457 protein folding\n\n\na_HQ_transcript/131746\nUncharacterized\n3.63\n0.01\nUncharacterized\n\n\na_HQ_transcript/119340\nSyntaxin-12\n5.99\n0.01\nGO:0033344 cholesterol efflux\n\n\na_HQ_transcript/114019\nUncharacterized\n3.73\n0.01\nUncharacterized\n\n\na_HQ_transcript/80242\nSoluble calcium-activated nucleotidase 1\n4.47\n0.01\nGO:0030166 proteoglycan biosynthetic process\n\n\na_HQ_transcript/60560\nUncharacterized\n1.68\n0.02\nUncharacterized\n\n\na_HQ_transcript/57283\nFibropellin-3\n2.92\n0.02\nGO:0005509 calcium ion binding\n\n\na_HQ_transcript/112742\nPoly [ADP-ribose] polymerase 2\n2.44\n0.02\nGO:0006284 base-excision repair\n\n\na_HQ_transcript/115926\nUncharacterized\n5.11\n0.02\nUncharacterized\n\n\na_HQ_transcript/135559\nUncharacterized\n1.53\n0.02\nUncharacterized\n\n\na_HQ_transcript/107872\nFascin\n4.93\n0.02\nGO:0030036 actin cytoskeleton organization\n\n\na_HQ_transcript/73908\nUncharacterized\n3.86\n0.02\nUncharacterized\n\n\na_HQ_transcript/101113\nN-alpha-acetyltransferase 40\n3.24\n0.03\nGO:0006629 lipid metabolic process\n\n\nOpen in a new tabThe number of differentially expressed genes (DEGs) between the pre-bloom and post-bloom samples with absolute fold change > 1.5 and adjusted p-value < 0.05 was 127, of which 52 were up-regulated and 75 were down-regulated (Figure 2, Supplementary File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "By the third sampling event (13 April 2023; post-bloom), monitored Pseudo-nitzschia and pDA levels were again negligible, razor clam tissue DA levels (ppm) had decreased to approximately 9 ppm, and the fishery was reopened (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo-Nitzschia and Domoic Acid Levels\nThe pre-bloom (6 April 2022) water sample levels of Pseudo-nitzschia were negligible (~0 cells/L) and increased to over 800,000 cells/L prior to the “bloom” sampling when the levels were at ~300,000 cells/L (8 November 2022) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo-nitzschia levels were again negligible (~0 cells/L) during the post-bloom water sampling (13 April 2023) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Particulate DA levels reached a high three months after the peak Pseudo-nitzschia cell count (2 November 2022) of approximately 2000 ng/L (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Razor clam tissue DA levels (ppm) followed pDA levels, with a peak of approximately 36 ppm just prior to our second sampling and decreasing to approximately 9 ppm during our post-bloom sampling (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Genes with no Blastx results are identified as “Uncharacterized”.\n\n(a) Top 20 down-regulated genes in pre-bloom compared with post-bloom razor clams\n\n\nTranscript_ID\n\n\nDescription\n\n\nlogFC\n\n\nadj.P.Val\n\n\nRepresentative GO ID and Function\n\n\n\na_HQ_transcript/72650\nprotocadherin\n−7.28\n2.02 × 10−15\n\nGO:0098609 cell-cell adhesion\n\n\na_HQ_transcript/45368\nCilia and flagella associate protein\n−5.47\n7.62 × 10−07\n\nGO:0005879 axonemal microtubule\n\n\na_HQ_transcript/23807\nSteroid 17-alpha-hydroxylase\n−7.24\n3.35 × 10−06\n\nGO:0042446 hormone biosynthetic process\n\n\na_HQ_transcript/27296\nUncharacterized\n−4.50\n3.35 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/1070\nUncharacterized\n−7.17\n8.17 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/55144\nATP-dependent translocase ABCB1\n−6.16\n8.17 × 10−06\n\nGO:1905039 carboxylic acid transmembrane transport\n\n\na_HQ_transcript/95382\nUncharacterized\n−4.07\n8.17 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/66970\nATP-dependent translocase ABCB1\n−6.62\n9.54 × 10−06\n\nGO:1905039 carboxylic acid transmembrane transport\n\n\na_HQ_transcript/125280\nUncharacterized\n−4.89\n9.54 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/34261\nNuclear receptor ROR-alpha\n−3.02\n9.54 × 10−06\n\nGO:0071456 cellular response to hypoxia\n\n\na_HQ_transcript/102242\nUncharacterized\n−2.94\n9.54 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/73314\nUncharacterized\n−9.53\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/129123\nUncharacterized\n−5.68\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/146424\nUncharacterized\n−4.91\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/58336\nNose resistant to fluoxetine protein 6\n−2.57\n2.74 × 10−05\n\nGO:0006869 lipid transport\n\n\na_HQ_transcript/22218\nSteroid 17-alpha-hydroxylase\n−3.72\n5.25 × 10−05\n\nGO:0042446 hormone biosynthetic process\n\n\na_HQ_transcript/92691\nAdenylate kinase isoenzyme 1\n−4.21\n5.58 × 10−05\n\nGO:0046034 ATP metabolic process\n\n\na_HQ_transcript/79902\nBeta-1,4-galactosyltransferase galt-1\n−3.66\n5.62 × 10−05\n\nGO:0070085 glycosylation\n\n\na_HQ_transcript/35228\nSteroid 17-alpha-hydroxylase\n−7.11\n6.74 × 10−05\n\nGO:0006694 steroid biosynthetic process\n\n\na_HQ_transcript/95521\nS-crystallin SL11\n−5.73\n9.66 × 10−05\n\nGO:0005212 structural constituent of eye lens\n\n(b) Top 20 up-regulated genes in pre-bloom compared with post-bloom razor clams\n\n\nTranscript_ID\n\n\nDescription\n\n\nlogFC\n\n\nadj.P.Val\n\n\nRepresentative GO ID and Function\n\n\n\na_HQ_transcript/135178\nUncharacterized\n5.34\n0.00\nUncharacterized\n\n\na_HQ_transcript/107478\nTubulin alpha-1A chain\n7.34\n0.00\nGO:0071277 cellular response to calcium ion\n\n\na_HQ_transcript/70915\nDynein beta chain\n3.18\n0.01\nGO:0030030 cell projection organization\n\n\na_HQ_transcript/101470\nLysosomal-associated transmembrane protein 4A\n4.10\n0.01\nGO:0005765 lysosomal membrane\n\n\na_HQ_transcript/136081\nNADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3\n4.16\n0.01\nGO:0032981 mitochondrial respiratory chain complex I assembly\n\n\na_HQ_transcript/90430\nUncharacterized\n2.03\n0.01\nUncharacterized\n\n\na_HQ_transcript/62043\nU2 small nuclear ribonucleoprotein A\n4.00\n0.01\nGO:0000398 mRNA splicing, via spliceosome\n\n\na_HQ_transcript/140232\nPeptidyl-prolyl cis-trans isomerase\n4.54\n0.01\nGO:0006457 protein folding\n\n\na_HQ_transcript/131746\nUncharacterized\n3.63\n0.01\nUncharacterized\n\n\na_HQ_transcript/119340\nSyntaxin-12\n5.99\n0.01\nGO:0033344 cholesterol efflux\n\n\na_HQ_transcript/114019\nUncharacterized\n3.73\n0.01\nUncharacterized\n\n\na_HQ_transcript/80242\nSoluble calcium-activated nucleotidase 1\n4.47\n0.01\nGO:0030166 proteoglycan biosynthetic process\n\n\na_HQ_transcript/60560\nUncharacterized\n1.68\n0.02\nUncharacterized\n\n\na_HQ_transcript/57283\nFibropellin-3\n2.92\n0.02\nGO:0005509 calcium ion binding\n\n\na_HQ_transcript/112742\nPoly [ADP-ribose] polymerase 2\n2.44\n0.02\nGO:0006284 base-excision repair\n\n\na_HQ_transcript/115926\nUncharacterized\n5.11\n0.02\nUncharacterized\n\n\na_HQ_transcript/135559\nUncharacterized\n1.53\n0.02\nUncharacterized\n\n\na_HQ_transcript/107872\nFascin\n4.93\n0.02\nGO:0030036 actin cytoskeleton organization\n\n\na_HQ_transcript/73908\nUncharacterized\n3.86\n0.02\nUncharacterized\n\n\na_HQ_transcript/101113\nN-alpha-acetyltransferase 40\n3.24\n0.03\nGO:0006629 lipid metabolic process\n\n\nOpen in a new tabThe number of differentially expressed genes (DEGs) between the pre-bloom and post-bloom samples with absolute fold change > 1.5 and adjusted p-value < 0.05 was 127, of which 52 were up-regulated and 75 were down-regulated (Figure 2, Supplementary File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "By the third sampling event (13 April 2023; post-bloom), monitored Pseudo-nitzschia and pDA levels were again negligible, razor clam tissue DA levels (ppm) had decreased to approximately 9 ppm, and the fishery was reopened (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo-Nitzschia and Domoic Acid Levels\nThe pre-bloom (6 April 2022) water sample levels of Pseudo-nitzschia were negligible (~0 cells/L) and increased to over 800,000 cells/L prior to the “bloom” sampling when the levels were at ~300,000 cells/L (8 November 2022) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo-nitzschia levels were again negligible (~0 cells/L) during the post-bloom water sampling (13 April 2023) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Particulate DA levels reached a high three months after the peak Pseudo-nitzschia cell count (2 November 2022) of approximately 2000 ng/L (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Razor clam tissue DA levels (ppm) followed pDA levels, with a peak of approximately 36 ppm just prior to our second sampling and decreasing to approximately 9 ppm during our post-bloom sampling (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Genes with no Blastx results are identified as “Uncharacterized”.\n\n(a) Top 20 down-regulated genes in pre-bloom compared with post-bloom razor clams\n\n\nTranscript_ID\n\n\nDescription\n\n\nlogFC\n\n\nadj.P.Val\n\n\nRepresentative GO ID and Function\n\n\n\na_HQ_transcript/72650\nprotocadherin\n−7.28\n2.02 × 10−15\n\nGO:0098609 cell-cell adhesion\n\n\na_HQ_transcript/45368\nCilia and flagella associate protein\n−5.47\n7.62 × 10−07\n\nGO:0005879 axonemal microtubule\n\n\na_HQ_transcript/23807\nSteroid 17-alpha-hydroxylase\n−7.24\n3.35 × 10−06\n\nGO:0042446 hormone biosynthetic process\n\n\na_HQ_transcript/27296\nUncharacterized\n−4.50\n3.35 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/1070\nUncharacterized\n−7.17\n8.17 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/55144\nATP-dependent translocase ABCB1\n−6.16\n8.17 × 10−06\n\nGO:1905039 carboxylic acid transmembrane transport\n\n\na_HQ_transcript/95382\nUncharacterized\n−4.07\n8.17 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/66970\nATP-dependent translocase ABCB1\n−6.62\n9.54 × 10−06\n\nGO:1905039 carboxylic acid transmembrane transport\n\n\na_HQ_transcript/125280\nUncharacterized\n−4.89\n9.54 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/34261\nNuclear receptor ROR-alpha\n−3.02\n9.54 × 10−06\n\nGO:0071456 cellular response to hypoxia\n\n\na_HQ_transcript/102242\nUncharacterized\n−2.94\n9.54 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/73314\nUncharacterized\n−9.53\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/129123\nUncharacterized\n−5.68\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/146424\nUncharacterized\n−4.91\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/58336\nNose resistant to fluoxetine protein 6\n−2.57\n2.74 × 10−05\n\nGO:0006869 lipid transport\n\n\na_HQ_transcript/22218\nSteroid 17-alpha-hydroxylase\n−3.72\n5.25 × 10−05\n\nGO:0042446 hormone biosynthetic process\n\n\na_HQ_transcript/92691\nAdenylate kinase isoenzyme 1\n−4.21\n5.58 × 10−05\n\nGO:0046034 ATP metabolic process\n\n\na_HQ_transcript/79902\nBeta-1,4-galactosyltransferase galt-1\n−3.66\n5.62 × 10−05\n\nGO:0070085 glycosylation\n\n\na_HQ_transcript/35228\nSteroid 17-alpha-hydroxylase\n−7.11\n6.74 × 10−05\n\nGO:0006694 steroid biosynthetic process\n\n\na_HQ_transcript/95521\nS-crystallin SL11\n−5.73\n9.66 × 10−05\n\nGO:0005212 structural constituent of eye lens\n\n(b) Top 20 up-regulated genes in pre-bloom compared with post-bloom razor clams\n\n\nTranscript_ID\n\n\nDescription\n\n\nlogFC\n\n\nadj.P.Val\n\n\nRepresentative GO ID and Function\n\n\n\na_HQ_transcript/135178\nUncharacterized\n5.34\n0.00\nUncharacterized\n\n\na_HQ_transcript/107478\nTubulin alpha-1A chain\n7.34\n0.00\nGO:0071277 cellular response to calcium ion\n\n\na_HQ_transcript/70915\nDynein beta chain\n3.18\n0.01\nGO:0030030 cell projection organization\n\n\na_HQ_transcript/101470\nLysosomal-associated transmembrane protein 4A\n4.10\n0.01\nGO:0005765 lysosomal membrane\n\n\na_HQ_transcript/136081\nNADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3\n4.16\n0.01\nGO:0032981 mitochondrial respiratory chain complex I assembly\n\n\na_HQ_transcript/90430\nUncharacterized\n2.03\n0.01\nUncharacterized\n\n\na_HQ_transcript/62043\nU2 small nuclear ribonucleoprotein A\n4.00\n0.01\nGO:0000398 mRNA splicing, via spliceosome\n\n\na_HQ_transcript/140232\nPeptidyl-prolyl cis-trans isomerase\n4.54\n0.01\nGO:0006457 protein folding\n\n\na_HQ_transcript/131746\nUncharacterized\n3.63\n0.01\nUncharacterized\n\n\na_HQ_transcript/119340\nSyntaxin-12\n5.99\n0.01\nGO:0033344 cholesterol efflux\n\n\na_HQ_transcript/114019\nUncharacterized\n3.73\n0.01\nUncharacterized\n\n\na_HQ_transcript/80242\nSoluble calcium-activated nucleotidase 1\n4.47\n0.01\nGO:0030166 proteoglycan biosynthetic process\n\n\na_HQ_transcript/60560\nUncharacterized\n1.68\n0.02\nUncharacterized\n\n\na_HQ_transcript/57283\nFibropellin-3\n2.92\n0.02\nGO:0005509 calcium ion binding\n\n\na_HQ_transcript/112742\nPoly [ADP-ribose] polymerase 2\n2.44\n0.02\nGO:0006284 base-excision repair\n\n\na_HQ_transcript/115926\nUncharacterized\n5.11\n0.02\nUncharacterized\n\n\na_HQ_transcript/135559\nUncharacterized\n1.53\n0.02\nUncharacterized\n\n\na_HQ_transcript/107872\nFascin\n4.93\n0.02\nGO:0030036 actin cytoskeleton organization\n\n\na_HQ_transcript/73908\nUncharacterized\n3.86\n0.02\nUncharacterized\n\n\na_HQ_transcript/101113\nN-alpha-acetyltransferase 40\n3.24\n0.03\nGO:0006629 lipid metabolic process\n\n\nOpen in a new tabThe number of differentially expressed genes (DEGs) between the pre-bloom and post-bloom samples with absolute fold change > 1.5 and adjusted p-value < 0.05 was 127, of which 52 were up-regulated and 75 were down-regulated (Figure 2, Supplementary File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "By the third sampling event (13 April 2023; post-bloom), monitored Pseudo-nitzschia and pDA levels were again negligible, razor clam tissue DA levels (ppm) had decreased to approximately 9 ppm, and the fishery was reopened (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo-Nitzschia and Domoic Acid Levels\nThe pre-bloom (6 April 2022) water sample levels of Pseudo-nitzschia were negligible (~0 cells/L) and increased to over 800,000 cells/L prior to the “bloom” sampling when the levels were at ~300,000 cells/L (8 November 2022) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo-nitzschia levels were again negligible (~0 cells/L) during the post-bloom water sampling (13 April 2023) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Particulate DA levels reached a high three months after the peak Pseudo-nitzschia cell count (2 November 2022) of approximately 2000 ng/L (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Razor clam tissue DA levels (ppm) followed pDA levels, with a peak of approximately 36 ppm just prior to our second sampling and decreasing to approximately 9 ppm during our post-bloom sampling (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Genes with no Blastx results are identified as “Uncharacterized”.\n\n(a) Top 20 down-regulated genes in pre-bloom compared with post-bloom razor clams\n\n\nTranscript_ID\n\n\nDescription\n\n\nlogFC\n\n\nadj.P.Val\n\n\nRepresentative GO ID and Function\n\n\n\na_HQ_transcript/72650\nprotocadherin\n−7.28\n2.02 × 10−15\n\nGO:0098609 cell-cell adhesion\n\n\na_HQ_transcript/45368\nCilia and flagella associate protein\n−5.47\n7.62 × 10−07\n\nGO:0005879 axonemal microtubule\n\n\na_HQ_transcript/23807\nSteroid 17-alpha-hydroxylase\n−7.24\n3.35 × 10−06\n\nGO:0042446 hormone biosynthetic process\n\n\na_HQ_transcript/27296\nUncharacterized\n−4.50\n3.35 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/1070\nUncharacterized\n−7.17\n8.17 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/55144\nATP-dependent translocase ABCB1\n−6.16\n8.17 × 10−06\n\nGO:1905039 carboxylic acid transmembrane transport\n\n\na_HQ_transcript/95382\nUncharacterized\n−4.07\n8.17 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/66970\nATP-dependent translocase ABCB1\n−6.62\n9.54 × 10−06\n\nGO:1905039 carboxylic acid transmembrane transport\n\n\na_HQ_transcript/125280\nUncharacterized\n−4.89\n9.54 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/34261\nNuclear receptor ROR-alpha\n−3.02\n9.54 × 10−06\n\nGO:0071456 cellular response to hypoxia\n\n\na_HQ_transcript/102242\nUncharacterized\n−2.94\n9.54 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/73314\nUncharacterized\n−9.53\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/129123\nUncharacterized\n−5.68\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/146424\nUncharacterized\n−4.91\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/58336\nNose resistant to fluoxetine protein 6\n−2.57\n2.74 × 10−05\n\nGO:0006869 lipid transport\n\n\na_HQ_transcript/22218\nSteroid 17-alpha-hydroxylase\n−3.72\n5.25 × 10−05\n\nGO:0042446 hormone biosynthetic process\n\n\na_HQ_transcript/92691\nAdenylate kinase isoenzyme 1\n−4.21\n5.58 × 10−05\n\nGO:0046034 ATP metabolic process\n\n\na_HQ_transcript/79902\nBeta-1,4-galactosyltransferase galt-1\n−3.66\n5.62 × 10−05\n\nGO:0070085 glycosylation\n\n\na_HQ_transcript/35228\nSteroid 17-alpha-hydroxylase\n−7.11\n6.74 × 10−05\n\nGO:0006694 steroid biosynthetic process\n\n\na_HQ_transcript/95521\nS-crystallin SL11\n−5.73\n9.66 × 10−05\n\nGO:0005212 structural constituent of eye lens\n\n(b) Top 20 up-regulated genes in pre-bloom compared with post-bloom razor clams\n\n\nTranscript_ID\n\n\nDescription\n\n\nlogFC\n\n\nadj.P.Val\n\n\nRepresentative GO ID and Function\n\n\n\na_HQ_transcript/135178\nUncharacterized\n5.34\n0.00\nUncharacterized\n\n\na_HQ_transcript/107478\nTubulin alpha-1A chain\n7.34\n0.00\nGO:0071277 cellular response to calcium ion\n\n\na_HQ_transcript/70915\nDynein beta chain\n3.18\n0.01\nGO:0030030 cell projection organization\n\n\na_HQ_transcript/101470\nLysosomal-associated transmembrane protein 4A\n4.10\n0.01\nGO:0005765 lysosomal membrane\n\n\na_HQ_transcript/136081\nNADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3\n4.16\n0.01\nGO:0032981 mitochondrial respiratory chain complex I assembly\n\n\na_HQ_transcript/90430\nUncharacterized\n2.03\n0.01\nUncharacterized\n\n\na_HQ_transcript/62043\nU2 small nuclear ribonucleoprotein A\n4.00\n0.01\nGO:0000398 mRNA splicing, via spliceosome\n\n\na_HQ_transcript/140232\nPeptidyl-prolyl cis-trans isomerase\n4.54\n0.01\nGO:0006457 protein folding\n\n\na_HQ_transcript/131746\nUncharacterized\n3.63\n0.01\nUncharacterized\n\n\na_HQ_transcript/119340\nSyntaxin-12\n5.99\n0.01\nGO:0033344 cholesterol efflux\n\n\na_HQ_transcript/114019\nUncharacterized\n3.73\n0.01\nUncharacterized\n\n\na_HQ_transcript/80242\nSoluble calcium-activated nucleotidase 1\n4.47\n0.01\nGO:0030166 proteoglycan biosynthetic process\n\n\na_HQ_transcript/60560\nUncharacterized\n1.68\n0.02\nUncharacterized\n\n\na_HQ_transcript/57283\nFibropellin-3\n2.92\n0.02\nGO:0005509 calcium ion binding\n\n\na_HQ_transcript/112742\nPoly [ADP-ribose] polymerase 2\n2.44\n0.02\nGO:0006284 base-excision repair\n\n\na_HQ_transcript/115926\nUncharacterized\n5.11\n0.02\nUncharacterized\n\n\na_HQ_transcript/135559\nUncharacterized\n1.53\n0.02\nUncharacterized\n\n\na_HQ_transcript/107872\nFascin\n4.93\n0.02\nGO:0030036 actin cytoskeleton organization\n\n\na_HQ_transcript/73908\nUncharacterized\n3.86\n0.02\nUncharacterized\n\n\na_HQ_transcript/101113\nN-alpha-acetyltransferase 40\n3.24\n0.03\nGO:0006629 lipid metabolic process\n\n\nOpen in a new tabThe number of differentially expressed genes (DEGs) between the pre-bloom and post-bloom samples with absolute fold change > 1.5 and adjusted p-value < 0.05 was 127, of which 52 were up-regulated and 75 were down-regulated (Figure 2, Supplementary File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "By the third sampling event (13 April 2023; post-bloom), monitored Pseudo-nitzschia and pDA levels were again negligible, razor clam tissue DA levels (ppm) had decreased to approximately 9 ppm, and the fishery was reopened (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo-Nitzschia and Domoic Acid Levels\nThe pre-bloom (6 April 2022) water sample levels of Pseudo-nitzschia were negligible (~0 cells/L) and increased to over 800,000 cells/L prior to the “bloom” sampling when the levels were at ~300,000 cells/L (8 November 2022) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo-nitzschia levels were again negligible (~0 cells/L) during the post-bloom water sampling (13 April 2023) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Particulate DA levels reached a high three months after the peak Pseudo-nitzschia cell count (2 November 2022) of approximately 2000 ng/L (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Razor clam tissue DA levels (ppm) followed pDA levels, with a peak of approximately 36 ppm just prior to our second sampling and decreasing to approximately 9 ppm during our post-bloom sampling (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Genes with no Blastx results are identified as “Uncharacterized”.\n\n(a) Top 20 down-regulated genes in pre-bloom compared with post-bloom razor clams\n\n\nTranscript_ID\n\n\nDescription\n\n\nlogFC\n\n\nadj.P.Val\n\n\nRepresentative GO ID and Function\n\n\n\na_HQ_transcript/72650\nprotocadherin\n−7.28\n2.02 × 10−15\n\nGO:0098609 cell-cell adhesion\n\n\na_HQ_transcript/45368\nCilia and flagella associate protein\n−5.47\n7.62 × 10−07\n\nGO:0005879 axonemal microtubule\n\n\na_HQ_transcript/23807\nSteroid 17-alpha-hydroxylase\n−7.24\n3.35 × 10−06\n\nGO:0042446 hormone biosynthetic process\n\n\na_HQ_transcript/27296\nUncharacterized\n−4.50\n3.35 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/1070\nUncharacterized\n−7.17\n8.17 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/55144\nATP-dependent translocase ABCB1\n−6.16\n8.17 × 10−06\n\nGO:1905039 carboxylic acid transmembrane transport\n\n\na_HQ_transcript/95382\nUncharacterized\n−4.07\n8.17 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/66970\nATP-dependent translocase ABCB1\n−6.62\n9.54 × 10−06\n\nGO:1905039 carboxylic acid transmembrane transport\n\n\na_HQ_transcript/125280\nUncharacterized\n−4.89\n9.54 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/34261\nNuclear receptor ROR-alpha\n−3.02\n9.54 × 10−06\n\nGO:0071456 cellular response to hypoxia\n\n\na_HQ_transcript/102242\nUncharacterized\n−2.94\n9.54 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/73314\nUncharacterized\n−9.53\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/129123\nUncharacterized\n−5.68\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/146424\nUncharacterized\n−4.91\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/58336\nNose resistant to fluoxetine protein 6\n−2.57\n2.74 × 10−05\n\nGO:0006869 lipid transport\n\n\na_HQ_transcript/22218\nSteroid 17-alpha-hydroxylase\n−3.72\n5.25 × 10−05\n\nGO:0042446 hormone biosynthetic process\n\n\na_HQ_transcript/92691\nAdenylate kinase isoenzyme 1\n−4.21\n5.58 × 10−05\n\nGO:0046034 ATP metabolic process\n\n\na_HQ_transcript/79902\nBeta-1,4-galactosyltransferase galt-1\n−3.66\n5.62 × 10−05\n\nGO:0070085 glycosylation\n\n\na_HQ_transcript/35228\nSteroid 17-alpha-hydroxylase\n−7.11\n6.74 × 10−05\n\nGO:0006694 steroid biosynthetic process\n\n\na_HQ_transcript/95521\nS-crystallin SL11\n−5.73\n9.66 × 10−05\n\nGO:0005212 structural constituent of eye lens\n\n(b) Top 20 up-regulated genes in pre-bloom compared with post-bloom razor clams\n\n\nTranscript_ID\n\n\nDescription\n\n\nlogFC\n\n\nadj.P.Val\n\n\nRepresentative GO ID and Function\n\n\n\na_HQ_transcript/135178\nUncharacterized\n5.34\n0.00\nUncharacterized\n\n\na_HQ_transcript/107478\nTubulin alpha-1A chain\n7.34\n0.00\nGO:0071277 cellular response to calcium ion\n\n\na_HQ_transcript/70915\nDynein beta chain\n3.18\n0.01\nGO:0030030 cell projection organization\n\n\na_HQ_transcript/101470\nLysosomal-associated transmembrane protein 4A\n4.10\n0.01\nGO:0005765 lysosomal membrane\n\n\na_HQ_transcript/136081\nNADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3\n4.16\n0.01\nGO:0032981 mitochondrial respiratory chain complex I assembly\n\n\na_HQ_transcript/90430\nUncharacterized\n2.03\n0.01\nUncharacterized\n\n\na_HQ_transcript/62043\nU2 small nuclear ribonucleoprotein A\n4.00\n0.01\nGO:0000398 mRNA splicing, via spliceosome\n\n\na_HQ_transcript/140232\nPeptidyl-prolyl cis-trans isomerase\n4.54\n0.01\nGO:0006457 protein folding\n\n\na_HQ_transcript/131746\nUncharacterized\n3.63\n0.01\nUncharacterized\n\n\na_HQ_transcript/119340\nSyntaxin-12\n5.99\n0.01\nGO:0033344 cholesterol efflux\n\n\na_HQ_transcript/114019\nUncharacterized\n3.73\n0.01\nUncharacterized\n\n\na_HQ_transcript/80242\nSoluble calcium-activated nucleotidase 1\n4.47\n0.01\nGO:0030166 proteoglycan biosynthetic process\n\n\na_HQ_transcript/60560\nUncharacterized\n1.68\n0.02\nUncharacterized\n\n\na_HQ_transcript/57283\nFibropellin-3\n2.92\n0.02\nGO:0005509 calcium ion binding\n\n\na_HQ_transcript/112742\nPoly [ADP-ribose] polymerase 2\n2.44\n0.02\nGO:0006284 base-excision repair\n\n\na_HQ_transcript/115926\nUncharacterized\n5.11\n0.02\nUncharacterized\n\n\na_HQ_transcript/135559\nUncharacterized\n1.53\n0.02\nUncharacterized\n\n\na_HQ_transcript/107872\nFascin\n4.93\n0.02\nGO:0030036 actin cytoskeleton organization\n\n\na_HQ_transcript/73908\nUncharacterized\n3.86\n0.02\nUncharacterized\n\n\na_HQ_transcript/101113\nN-alpha-acetyltransferase 40\n3.24\n0.03\nGO:0006629 lipid metabolic process\n\n\nOpen in a new tabThe number of differentially expressed genes (DEGs) between the pre-bloom and post-bloom samples with absolute fold change > 1.5 and adjusted p-value < 0.05 was 127, of which 52 were up-regulated and 75 were down-regulated (Figure 2, Supplementary File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "By the third sampling event (13 April 2023; post-bloom), monitored Pseudo-nitzschia and pDA levels were again negligible, razor clam tissue DA levels (ppm) had decreased to approximately 9 ppm, and the fishery was reopened (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo-Nitzschia and Domoic Acid Levels\nThe pre-bloom (6 April 2022) water sample levels of Pseudo-nitzschia were negligible (~0 cells/L) and increased to over 800,000 cells/L prior to the “bloom” sampling when the levels were at ~300,000 cells/L (8 November 2022) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo-nitzschia levels were again negligible (~0 cells/L) during the post-bloom water sampling (13 April 2023) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Particulate DA levels reached a high three months after the peak Pseudo-nitzschia cell count (2 November 2022) of approximately 2000 ng/L (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Razor clam tissue DA levels (ppm) followed pDA levels, with a peak of approximately 36 ppm just prior to our second sampling and decreasing to approximately 9 ppm during our post-bloom sampling (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Genes with no Blastx results are identified as “Uncharacterized”.\n\n(a) Top 20 down-regulated genes in pre-bloom compared with post-bloom razor clams\n\n\nTranscript_ID\n\n\nDescription\n\n\nlogFC\n\n\nadj.P.Val\n\n\nRepresentative GO ID and Function\n\n\n\na_HQ_transcript/72650\nprotocadherin\n−7.28\n2.02 × 10−15\n\nGO:0098609 cell-cell adhesion\n\n\na_HQ_transcript/45368\nCilia and flagella associate protein\n−5.47\n7.62 × 10−07\n\nGO:0005879 axonemal microtubule\n\n\na_HQ_transcript/23807\nSteroid 17-alpha-hydroxylase\n−7.24\n3.35 × 10−06\n\nGO:0042446 hormone biosynthetic process\n\n\na_HQ_transcript/27296\nUncharacterized\n−4.50\n3.35 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/1070\nUncharacterized\n−7.17\n8.17 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/55144\nATP-dependent translocase ABCB1\n−6.16\n8.17 × 10−06\n\nGO:1905039 carboxylic acid transmembrane transport\n\n\na_HQ_transcript/95382\nUncharacterized\n−4.07\n8.17 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/66970\nATP-dependent translocase ABCB1\n−6.62\n9.54 × 10−06\n\nGO:1905039 carboxylic acid transmembrane transport\n\n\na_HQ_transcript/125280\nUncharacterized\n−4.89\n9.54 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/34261\nNuclear receptor ROR-alpha\n−3.02\n9.54 × 10−06\n\nGO:0071456 cellular response to hypoxia\n\n\na_HQ_transcript/102242\nUncharacterized\n−2.94\n9.54 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/73314\nUncharacterized\n−9.53\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/129123\nUncharacterized\n−5.68\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/146424\nUncharacterized\n−4.91\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/58336\nNose resistant to fluoxetine protein 6\n−2.57\n2.74 × 10−05\n\nGO:0006869 lipid transport\n\n\na_HQ_transcript/22218\nSteroid 17-alpha-hydroxylase\n−3.72\n5.25 × 10−05\n\nGO:0042446 hormone biosynthetic process\n\n\na_HQ_transcript/92691\nAdenylate kinase isoenzyme 1\n−4.21\n5.58 × 10−05\n\nGO:0046034 ATP metabolic process\n\n\na_HQ_transcript/79902\nBeta-1,4-galactosyltransferase galt-1\n−3.66\n5.62 × 10−05\n\nGO:0070085 glycosylation\n\n\na_HQ_transcript/35228\nSteroid 17-alpha-hydroxylase\n−7.11\n6.74 × 10−05\n\nGO:0006694 steroid biosynthetic process\n\n\na_HQ_transcript/95521\nS-crystallin SL11\n−5.73\n9.66 × 10−05\n\nGO:0005212 structural constituent of eye lens\n\n(b) Top 20 up-regulated genes in pre-bloom compared with post-bloom razor clams\n\n\nTranscript_ID\n\n\nDescription\n\n\nlogFC\n\n\nadj.P.Val\n\n\nRepresentative GO ID and Function\n\n\n\na_HQ_transcript/135178\nUncharacterized\n5.34\n0.00\nUncharacterized\n\n\na_HQ_transcript/107478\nTubulin alpha-1A chain\n7.34\n0.00\nGO:0071277 cellular response to calcium ion\n\n\na_HQ_transcript/70915\nDynein beta chain\n3.18\n0.01\nGO:0030030 cell projection organization\n\n\na_HQ_transcript/101470\nLysosomal-associated transmembrane protein 4A\n4.10\n0.01\nGO:0005765 lysosomal membrane\n\n\na_HQ_transcript/136081\nNADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3\n4.16\n0.01\nGO:0032981 mitochondrial respiratory chain complex I assembly\n\n\na_HQ_transcript/90430\nUncharacterized\n2.03\n0.01\nUncharacterized\n\n\na_HQ_transcript/62043\nU2 small nuclear ribonucleoprotein A\n4.00\n0.01\nGO:0000398 mRNA splicing, via spliceosome\n\n\na_HQ_transcript/140232\nPeptidyl-prolyl cis-trans isomerase\n4.54\n0.01\nGO:0006457 protein folding\n\n\na_HQ_transcript/131746\nUncharacterized\n3.63\n0.01\nUncharacterized\n\n\na_HQ_transcript/119340\nSyntaxin-12\n5.99\n0.01\nGO:0033344 cholesterol efflux\n\n\na_HQ_transcript/114019\nUncharacterized\n3.73\n0.01\nUncharacterized\n\n\na_HQ_transcript/80242\nSoluble calcium-activated nucleotidase 1\n4.47\n0.01\nGO:0030166 proteoglycan biosynthetic process\n\n\na_HQ_transcript/60560\nUncharacterized\n1.68\n0.02\nUncharacterized\n\n\na_HQ_transcript/57283\nFibropellin-3\n2.92\n0.02\nGO:0005509 calcium ion binding\n\n\na_HQ_transcript/112742\nPoly [ADP-ribose] polymerase 2\n2.44\n0.02\nGO:0006284 base-excision repair\n\n\na_HQ_transcript/115926\nUncharacterized\n5.11\n0.02\nUncharacterized\n\n\na_HQ_transcript/135559\nUncharacterized\n1.53\n0.02\nUncharacterized\n\n\na_HQ_transcript/107872\nFascin\n4.93\n0.02\nGO:0030036 actin cytoskeleton organization\n\n\na_HQ_transcript/73908\nUncharacterized\n3.86\n0.02\nUncharacterized\n\n\na_HQ_transcript/101113\nN-alpha-acetyltransferase 40\n3.24\n0.03\nGO:0006629 lipid metabolic process\n\n\nOpen in a new tabThe number of differentially expressed genes (DEGs) between the pre-bloom and post-bloom samples with absolute fold change > 1.5 and adjusted p-value < 0.05 was 127, of which 52 were up-regulated and 75 were down-regulated (Figure 2, Supplementary File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "By the third sampling event (13 April 2023; post-bloom), monitored Pseudo-nitzschia and pDA levels were again negligible, razor clam tissue DA levels (ppm) had decreased to approximately 9 ppm, and the fishery was reopened (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo-Nitzschia and Domoic Acid Levels\nThe pre-bloom (6 April 2022) water sample levels of Pseudo-nitzschia were negligible (~0 cells/L) and increased to over 800,000 cells/L prior to the “bloom” sampling when the levels were at ~300,000 cells/L (8 November 2022) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo-nitzschia levels were again negligible (~0 cells/L) during the post-bloom water sampling (13 April 2023) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Particulate DA levels reached a high three months after the peak Pseudo-nitzschia cell count (2 November 2022) of approximately 2000 ng/L (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Razor clam tissue DA levels (ppm) followed pDA levels, with a peak of approximately 36 ppm just prior to our second sampling and decreasing to approximately 9 ppm during our post-bloom sampling (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Genes with no Blastx results are identified as “Uncharacterized”.\n\n(a) Top 20 down-regulated genes in pre-bloom compared with post-bloom razor clams\n\n\nTranscript_ID\n\n\nDescription\n\n\nlogFC\n\n\nadj.P.Val\n\n\nRepresentative GO ID and Function\n\n\n\na_HQ_transcript/72650\nprotocadherin\n−7.28\n2.02 × 10−15\n\nGO:0098609 cell-cell adhesion\n\n\na_HQ_transcript/45368\nCilia and flagella associate protein\n−5.47\n7.62 × 10−07\n\nGO:0005879 axonemal microtubule\n\n\na_HQ_transcript/23807\nSteroid 17-alpha-hydroxylase\n−7.24\n3.35 × 10−06\n\nGO:0042446 hormone biosynthetic process\n\n\na_HQ_transcript/27296\nUncharacterized\n−4.50\n3.35 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/1070\nUncharacterized\n−7.17\n8.17 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/55144\nATP-dependent translocase ABCB1\n−6.16\n8.17 × 10−06\n\nGO:1905039 carboxylic acid transmembrane transport\n\n\na_HQ_transcript/95382\nUncharacterized\n−4.07\n8.17 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/66970\nATP-dependent translocase ABCB1\n−6.62\n9.54 × 10−06\n\nGO:1905039 carboxylic acid transmembrane transport\n\n\na_HQ_transcript/125280\nUncharacterized\n−4.89\n9.54 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/34261\nNuclear receptor ROR-alpha\n−3.02\n9.54 × 10−06\n\nGO:0071456 cellular response to hypoxia\n\n\na_HQ_transcript/102242\nUncharacterized\n−2.94\n9.54 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/73314\nUncharacterized\n−9.53\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/129123\nUncharacterized\n−5.68\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/146424\nUncharacterized\n−4.91\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/58336\nNose resistant to fluoxetine protein 6\n−2.57\n2.74 × 10−05\n\nGO:0006869 lipid transport\n\n\na_HQ_transcript/22218\nSteroid 17-alpha-hydroxylase\n−3.72\n5.25 × 10−05\n\nGO:0042446 hormone biosynthetic process\n\n\na_HQ_transcript/92691\nAdenylate kinase isoenzyme 1\n−4.21\n5.58 × 10−05\n\nGO:0046034 ATP metabolic process\n\n\na_HQ_transcript/79902\nBeta-1,4-galactosyltransferase galt-1\n−3.66\n5.62 × 10−05\n\nGO:0070085 glycosylation\n\n\na_HQ_transcript/35228\nSteroid 17-alpha-hydroxylase\n−7.11\n6.74 × 10−05\n\nGO:0006694 steroid biosynthetic process\n\n\na_HQ_transcript/95521\nS-crystallin SL11\n−5.73\n9.66 × 10−05\n\nGO:0005212 structural constituent of eye lens\n\n(b) Top 20 up-regulated genes in pre-bloom compared with post-bloom razor clams\n\n\nTranscript_ID\n\n\nDescription\n\n\nlogFC\n\n\nadj.P.Val\n\n\nRepresentative GO ID and Function\n\n\n\na_HQ_transcript/135178\nUncharacterized\n5.34\n0.00\nUncharacterized\n\n\na_HQ_transcript/107478\nTubulin alpha-1A chain\n7.34\n0.00\nGO:0071277 cellular response to calcium ion\n\n\na_HQ_transcript/70915\nDynein beta chain\n3.18\n0.01\nGO:0030030 cell projection organization\n\n\na_HQ_transcript/101470\nLysosomal-associated transmembrane protein 4A\n4.10\n0.01\nGO:0005765 lysosomal membrane\n\n\na_HQ_transcript/136081\nNADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3\n4.16\n0.01\nGO:0032981 mitochondrial respiratory chain complex I assembly\n\n\na_HQ_transcript/90430\nUncharacterized\n2.03\n0.01\nUncharacterized\n\n\na_HQ_transcript/62043\nU2 small nuclear ribonucleoprotein A\n4.00\n0.01\nGO:0000398 mRNA splicing, via spliceosome\n\n\na_HQ_transcript/140232\nPeptidyl-prolyl cis-trans isomerase\n4.54\n0.01\nGO:0006457 protein folding\n\n\na_HQ_transcript/131746\nUncharacterized\n3.63\n0.01\nUncharacterized\n\n\na_HQ_transcript/119340\nSyntaxin-12\n5.99\n0.01\nGO:0033344 cholesterol efflux\n\n\na_HQ_transcript/114019\nUncharacterized\n3.73\n0.01\nUncharacterized\n\n\na_HQ_transcript/80242\nSoluble calcium-activated nucleotidase 1\n4.47\n0.01\nGO:0030166 proteoglycan biosynthetic process\n\n\na_HQ_transcript/60560\nUncharacterized\n1.68\n0.02\nUncharacterized\n\n\na_HQ_transcript/57283\nFibropellin-3\n2.92\n0.02\nGO:0005509 calcium ion binding\n\n\na_HQ_transcript/112742\nPoly [ADP-ribose] polymerase 2\n2.44\n0.02\nGO:0006284 base-excision repair\n\n\na_HQ_transcript/115926\nUncharacterized\n5.11\n0.02\nUncharacterized\n\n\na_HQ_transcript/135559\nUncharacterized\n1.53\n0.02\nUncharacterized\n\n\na_HQ_transcript/107872\nFascin\n4.93\n0.02\nGO:0030036 actin cytoskeleton organization\n\n\na_HQ_transcript/73908\nUncharacterized\n3.86\n0.02\nUncharacterized\n\n\na_HQ_transcript/101113\nN-alpha-acetyltransferase 40\n3.24\n0.03\nGO:0006629 lipid metabolic process\n\n\nOpen in a new tabThe number of differentially expressed genes (DEGs) between the pre-bloom and post-bloom samples with absolute fold change > 1.5 and adjusted p-value < 0.05 was 127, of which 52 were up-regulated and 75 were down-regulated (Figure 2, Supplementary File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo-Nitzschia and Domoic Acid Levels\nThe pre-bloom (6 April 2022) water sample levels of Pseudo-nitzschia were negligible (~0 cells/L) and increased to over 800,000 cells/L prior to the “bloom” sampling when the levels were at ~300,000 cells/L (8 November 2022) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo-nitzschia levels were again negligible (~0 cells/L) during the post-bloom water sampling (13 April 2023) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Particulate DA levels reached a high three months after the peak Pseudo-nitzschia cell count (2 November 2022) of approximately 2000 ng/L (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Razor clam tissue DA levels (ppm) followed pDA levels, with a peak of approximately 36 ppm just prior to our second sampling and decreasing to approximately 9 ppm during our post-bloom sampling (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The pre-bloom (6 April 2022) water sample levels of Pseudo-nitzschia were negligible (~0 cells/L) and increased to over 800,000 cells/L prior to the “bloom” sampling when the levels were at ~300,000 cells/L (8 November 2022) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Pseudo-nitzschia levels were again negligible (~0 cells/L) during the post-bloom water sampling (13 April 2023) (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Particulate DA levels reached a high three months after the peak Pseudo-nitzschia cell count (2 November 2022) of approximately 2000 ng/L (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Razor clam tissue DA levels (ppm) followed pDA levels, with a peak of approximately 36 ppm just prior to our second sampling and decreasing to approximately 9 ppm during our post-bloom sampling (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Genes with no Blastx results are identified as “Uncharacterized”.\n\n(a) Top 20 down-regulated genes in pre-bloom compared with post-bloom razor clams\n\n\nTranscript_ID\n\n\nDescription\n\n\nlogFC\n\n\nadj.P.Val\n\n\nRepresentative GO ID and Function\n\n\n\na_HQ_transcript/72650\nprotocadherin\n−7.28\n2.02 × 10−15\n\nGO:0098609 cell-cell adhesion\n\n\na_HQ_transcript/45368\nCilia and flagella associate protein\n−5.47\n7.62 × 10−07\n\nGO:0005879 axonemal microtubule\n\n\na_HQ_transcript/23807\nSteroid 17-alpha-hydroxylase\n−7.24\n3.35 × 10−06\n\nGO:0042446 hormone biosynthetic process\n\n\na_HQ_transcript/27296\nUncharacterized\n−4.50\n3.35 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/1070\nUncharacterized\n−7.17\n8.17 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/55144\nATP-dependent translocase ABCB1\n−6.16\n8.17 × 10−06\n\nGO:1905039 carboxylic acid transmembrane transport\n\n\na_HQ_transcript/95382\nUncharacterized\n−4.07\n8.17 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/66970\nATP-dependent translocase ABCB1\n−6.62\n9.54 × 10−06\n\nGO:1905039 carboxylic acid transmembrane transport\n\n\na_HQ_transcript/125280\nUncharacterized\n−4.89\n9.54 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/34261\nNuclear receptor ROR-alpha\n−3.02\n9.54 × 10−06\n\nGO:0071456 cellular response to hypoxia\n\n\na_HQ_transcript/102242\nUncharacterized\n−2.94\n9.54 × 10−06\n\nUncharacterized\n\n\na_HQ_transcript/73314\nUncharacterized\n−9.53\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/129123\nUncharacterized\n−5.68\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/146424\nUncharacterized\n−4.91\n2.74 × 10−05\n\nUncharacterized\n\n\na_HQ_transcript/58336\nNose resistant to fluoxetine protein 6\n−2.57\n2.74 × 10−05\n\nGO:0006869 lipid transport\n\n\na_HQ_transcript/22218\nSteroid 17-alpha-hydroxylase\n−3.72\n5.25 × 10−05\n\nGO:0042446 hormone biosynthetic process\n\n\na_HQ_transcript/92691\nAdenylate kinase isoenzyme 1\n−4.21\n5.58 × 10−05\n\nGO:0046034 ATP metabolic process\n\n\na_HQ_transcript/79902\nBeta-1,4-galactosyltransferase galt-1\n−3.66\n5.62 × 10−05\n\nGO:0070085 glycosylation\n\n\na_HQ_transcript/35228\nSteroid 17-alpha-hydroxylase\n−7.11\n6.74 × 10−05\n\nGO:0006694 steroid biosynthetic process\n\n\na_HQ_transcript/95521\nS-crystallin SL11\n−5.73\n9.66 × 10−05\n\nGO:0005212 structural constituent of eye lens\n\n(b) Top 20 up-regulated genes in pre-bloom compared with post-bloom razor clams\n\n\nTranscript_ID\n\n\nDescription\n\n\nlogFC\n\n\nadj.P.Val\n\n\nRepresentative GO ID and Function\n\n\n\na_HQ_transcript/135178\nUncharacterized\n5.34\n0.00\nUncharacterized\n\n\na_HQ_transcript/107478\nTubulin alpha-1A chain\n7.34\n0.00\nGO:0071277 cellular response to calcium ion\n\n\na_HQ_transcript/70915\nDynein beta chain\n3.18\n0.01\nGO:0030030 cell projection organization\n\n\na_HQ_transcript/101470\nLysosomal-associated transmembrane protein 4A\n4.10\n0.01\nGO:0005765 lysosomal membrane\n\n\na_HQ_transcript/136081\nNADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3\n4.16\n0.01\nGO:0032981 mitochondrial respiratory chain complex I assembly\n\n\na_HQ_transcript/90430\nUncharacterized\n2.03\n0.01\nUncharacterized\n\n\na_HQ_transcript/62043\nU2 small nuclear ribonucleoprotein A\n4.00\n0.01\nGO:0000398 mRNA splicing, via spliceosome\n\n\na_HQ_transcript/140232\nPeptidyl-prolyl cis-trans isomerase\n4.54\n0.01\nGO:0006457 protein folding\n\n\na_HQ_transcript/131746\nUncharacterized\n3.63\n0.01\nUncharacterized\n\n\na_HQ_transcript/119340\nSyntaxin-12\n5.99\n0.01\nGO:0033344 cholesterol efflux\n\n\na_HQ_transcript/114019\nUncharacterized\n3.73\n0.01\nUncharacterized\n\n\na_HQ_transcript/80242\nSoluble calcium-activated nucleotidase 1\n4.47\n0.01\nGO:0030166 proteoglycan biosynthetic process\n\n\na_HQ_transcript/60560\nUncharacterized\n1.68\n0.02\nUncharacterized\n\n\na_HQ_transcript/57283\nFibropellin-3\n2.92\n0.02\nGO:0005509 calcium ion binding\n\n\na_HQ_transcript/112742\nPoly [ADP-ribose] polymerase 2\n2.44\n0.02\nGO:0006284 base-excision repair\n\n\na_HQ_transcript/115926\nUncharacterized\n5.11\n0.02\nUncharacterized\n\n\na_HQ_transcript/135559\nUncharacterized\n1.53\n0.02\nUncharacterized\n\n\na_HQ_transcript/107872\nFascin\n4.93\n0.02\nGO:0030036 actin cytoskeleton organization\n\n\na_HQ_transcript/73908\nUncharacterized\n3.86\n0.02\nUncharacterized\n\n\na_HQ_transcript/101113\nN-alpha-acetyltransferase 40\n3.24\n0.03\nGO:0006629 lipid metabolic process\n\n\nOpen in a new tabThe number of differentially expressed genes (DEGs) between the pre-bloom and post-bloom samples with absolute fold change > 1.5 and adjusted p-value < 0.05 was 127, of which 52 were up-regulated and 75 were down-regulated (Figure 2, Supplementary File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The number of differentially expressed genes (DEGs) between the pre-bloom and post-bloom samples with absolute fold change > 1.5 and adjusted p-value < 0.05 was 127, of which 52 were up-regulated and 75 were down-regulated (Figure 2, Supplementary File S2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "By the third sampling event (13 April 2023; post-bloom), monitored Pseudo-nitzschia and pDA levels were again negligible, razor clam tissue DA levels (ppm) had decreased to approximately 9 ppm, and the fishery was reopened (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "By the third sampling event (13 April 2023; post-bloom), monitored Pseudo-nitzschia and pDA levels were again negligible, razor clam tissue DA levels (ppm) had decreased to approximately 9 ppm, and the fishery was reopened (Figure 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  }
+]

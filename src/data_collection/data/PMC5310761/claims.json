@@ -1,0 +1,2417 @@
+[
+  {
+    "sentence": "A trajectory consists of displacements between locations and pauses at locations, where the individual stops and spends time (Fig 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 2 and Table 1 compare distributions obtained using different data sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The spectrum of results reflects the heterogeneity of the considered datasets (see Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "RangeΔx\n\n\nP(Δx)\nSampling δt\n\n\nP(Δt)\n\n\n\n[1] (D1)\nCDR\n3.0 ⋅ 106\n\n1 Y\n1 km100 km\n\npower-law (T)β = 1.55\nuneven\n\n\n\n[1] (D2)\nCDR\n103\n\n2 W\n1 km100 km\n\n1 h\n\npower-law (T)β = 1.80\n\n\n[2] (D1)\nCDR\n105\n\n6 M\n1 km1000 km\n\npower-law (T)β = 1.75\nuneven\n\n\n\n[2] (D2)\nCDR\n206\n1 W\n1 km500 km\n\npower-law (T)β = 1.75\n2 h\n\n\n\n[3]\nBills records\n4.6 ⋅ 105bills\n1.39 Y\n100 m3200 km\n10 ≤ Δx ≤ 3200 kmpower-lawβ = 1.59\nuneven\n\n\n\n[5] (Geolife)\nGPS\n32\n3.42 Y\n10 m10000 km\n0.01 ≤ Δx ≤ 10 kmpower-lawβ0 = 1.2510 < Δx ≤ 10000 kmpower-lawβ1 = 1.90\n2 min\n\npower-law\nβ = 1.98\n\n\n[6](Nokia)\nGPS\n200\n1.50 Y\n100 m10 km\n\npower-law (T)β = 1.39\n10 sec\n\n\n\n[6] (Geolife)\nGPS\n182\n5.00 Y\n100 m10 km\n\npower-law (T)β = 1.57\n1 − 5 sec\n\n\n\n[7] (5 datasets)\nGPS\n101\n5 M\n10 m10 km\n\npower-law (T)β = [1.35-1.82]\n10 sec\n\npower-law (T)β = [1.45-2.68]\n\n\n[8]\nTaxi (GPS)\n50\n6 M\n1 km100 km\n3 ≤ Δx ≤ 23 kmpower-lawβ0 = 2.5023 < Δx ≤ 100 kmpower-lawβ1 = 4.60\n10 sec\n\n\n\n[9]\nTaxi (GPS)\n6.6 ⋅ 103\n\n1 W\n1 km100 km\n\npower-law (T)β = 1.20\n10 sec\n\n\n\n[10]\nFlickr\n4.0 ⋅ 104\n\n\n1 km10000 km\npower-law (T)\nuneven\n\n\n\n[11]\nLBSN\n2.2 ⋅ 105\n\n4 M\n1 km500 km\n\npower-lawβ = 1.88\nuneven\n\n\n\n[12]\nTwitter\n1.3 ⋅ 107\n\n1 Y\n1 km100 km\n\npower-lawβ = 1.62\nuneven\n\n\n\n[13]\nLBSN\n9.2 ⋅ 105\n\n6 M\n1 km20000 km\n\npower-lawβ = 1.50\nuneven\n\n\n\n[13] (intracity)\nLBSN\n9.2 ⋅ 105\n\n6 M\n10 m100 km\n\npower-law(“poor”) [13]β = 4.67\nuneven\n\n\n\n[14]\nLBSN\n2.6 ⋅ 105\n\n1 Y\n10 m50 km\n\nexponentialλ = 0.179\nuneven\n\n\n\n[15]\nLBSN\n5.2 ⋅ 105\n\n1 Y\n1 km4000 km\n\nexponentialλ = 0.003\nuneven\n\n\n\n[16]\nTwitter\n1.6 ⋅ 105\n\n8 M\n10 m4000 km\n0.01 ≤ Δx ≤ 0.1 kmexponentialλ = 0.0730.1 < Δx ≤ 100 kmStretchedpower-lawβ1 = 0.45100 < Δx ≤ 4000 kmpower-lawβ2 = 1.32 \n\nuneven\n\n\n\n[17]\nTaxi (GPS)\n803\n1.25 Y\n1 km100 km\nΔx ≤ 15 kmexponentialλ = 0.3615 < Δx ≤ 100 kmpower-lawβ = 3.66\n30 sec\n\n\n\n[18] (D1)\nTaxi (GPS)\n104\n\n3 M\n1 km100 km\n1 ≤ Δx ≤ 20 kmexponentialλ0 = 0.2320 < Δx ≤ 100 kmexponentialλ1 = 0.17\n\n1 min\n\n\n\n[18] (D2)\nTaxi (GPS)\n104\n\n2 M\n1 km100 km\n1 ≤ Δx ≤ 20 kmexponentialλ0 = 0.2420 < Δx ≤ 100 kmexponentialλ1 = 0.18\n1 min\n\n\n\n[19]\nTaxi (GPS)\n6.6 ⋅ 103\n\n1 W\n2 km20 km\n\nexponentialλ = [0.072-0.252]\n10 sec\n\n\n\n[20](3 datasets)\nTaxi (GPS)\n104\n\n1 M\n600 m10 km\nexponential\n[9 − 177] s\npower-law\n\n\n[21](6 datasets)\nTaxi (GPS)\n3.0 ⋅ 104\n\n[1 M-2 Y]\n1 km100 km\n\nlog-normalμ = [0.77-1.32],σ = [0.67-0.87]\n[24 − 116] s\n\n\n\n[22]\nTaxi (GPS)\n1.1 ⋅ 103\n\n6 M\n100 m30 km\n\nlog-normalμ = 0.38,σ = 0.48\n30 sec\n\n\n\n[23]\nSurveys\n104\n\n1 Y\n\n\nself-reported\n\npower-law (T)β = 0.49\n\n\n[24]\nPrivate Cars (GPS)\n7.8 ⋅ 105\n\n1 M\n1 km500 km\nsuperimposition Poisson\n10 sec\nΔt ≤ 4hpower-lawβ = 1.031 ≤ Δt ≤ 200hlog-normalμ = 1.60,σ = 1.60\n\n\n[26]\nPrivate Cars (GPS)\n3.5 ⋅ 104\n\n1 M\n300 m100 km\npolynomial\n10 sec\n\npower-lawβ = 0.97\n\n\n[30] (D1)\nCDR\n1.3 ⋅ 106\n\n1 M\n1 km200 km\n\npower-lawβ = 2.02\nuneven\n\n\n\n[30] (D2)\nCDR\n6 ⋅ 106\n\n1 Y\n1 km500 km\n\npower-lawβ = 1.75\nuneven\n\n\n\n[30] (D3)\nCDR\n\n4 Y\n1 km100 km\n\npower-lawβ = 1.80\nuneven\n\n\n\n[34]\nTravel cards\n2.0 ⋅ 106\n\n1 W\n100 m50 km\n\nnegative binomialμ = 9.28,σ = 5.83\nuneven\n\n\n\n[42]\nTravelDiaries\n230\n1.5 M\n1 km400 km\n\npower-law (T)β = 1.05\nself-reported\n\n\n\n[56]\nPrivate Cars (GPS)\n7.5 ⋅ 104\n\n1 M\n10 m500 km\n0.01 ≤ Δx ≤ 20 kmexponential20 < Δx ≤ 150 kmpower-lawβ1 = 3.30\n30 sec\nΔt ≤ 3hexponentialλ = 1.02\n\n\n[57]\nTaxi (GPS)\n\n1 D\n200 m1000 km\n\npower-lawβ = 2.70\n\n\n\n\n\nOpen in a new tabFirst, the datasets considered have different spatial resolution and coverage, and few studies have so far considered the whole range of displacements occurring between ∼10 and 107 m (10000 km) (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Previous studies with comparable spatial coverage (Fig 2) relied on single-transportation modality data [8], unevenly sampled data [16], or small samples (32 individuals in Ref. [5]).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that P(Δr) is best described by a log-normal distribution (Eq (1)) with parameters μ = 6.78 ± 0.07 and σ = 2.45 ± 0.04, which maximises Akaike Information Criterion (see Methods)—among the three models considered—with Akaike weight ∼1 (Fig 3, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 reports the histogram of the individual μ parameters for the 96.2% of the population that is best described by a log-normal distribution, along with three examples of individual distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The best model describing the distribution of waiting times over all individuals is the log-normal distribution (Eq (1), Fig 5, see also S1 File), with parameters μ = −0.42 ± 0.04, σ = 2.14 ± 0.02.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As in the case of displacements, we find that restricting the analysis to large values of our observable Δt, and specifically considering only Δt > Δt∗ = 13 h, results in the selection of the Pareto distribution (Eq (2), see Fig 5), with coefficient β = 1.44 ± 0.01.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that the distribution of distances between consecutive discoveries P(Δr) is best described as a log-normal distribution with parameters μ = 6.59 ± 0.02, σ = 1.99 ± 0.01, (Fig 6, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 7A shows a positive correlation between Δr and Δtdisp for Δr ≳ 300m (p < 0.01).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel A",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Instead, the correlation is negative for distances larger than 5 × 104m (Fig 7B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Supporting figures and tables.(PDF)\n\n\nClick here for additional data file. (446.1KB, pdf) \nData Availability\nData used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Supporting figures and tables.(PDF)\n\n\nClick here for additional data file. (446.1KB, pdf) \nData Availability Statement\nData used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "A trajectory consists of displacements between locations and pauses at locations, where the individual stops and spends time (Fig 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 2 and Table 1 compare distributions obtained using different data sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The spectrum of results reflects the heterogeneity of the considered datasets (see Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "RangeΔx\n\n\nP(Δx)\nSampling δt\n\n\nP(Δt)\n\n\n\n[1] (D1)\nCDR\n3.0 ⋅ 106\n\n1 Y\n1 km100 km\n\npower-law (T)β = 1.55\nuneven\n\n\n\n[1] (D2)\nCDR\n103\n\n2 W\n1 km100 km\n\n1 h\n\npower-law (T)β = 1.80\n\n\n[2] (D1)\nCDR\n105\n\n6 M\n1 km1000 km\n\npower-law (T)β = 1.75\nuneven\n\n\n\n[2] (D2)\nCDR\n206\n1 W\n1 km500 km\n\npower-law (T)β = 1.75\n2 h\n\n\n\n[3]\nBills records\n4.6 ⋅ 105bills\n1.39 Y\n100 m3200 km\n10 ≤ Δx ≤ 3200 kmpower-lawβ = 1.59\nuneven\n\n\n\n[5] (Geolife)\nGPS\n32\n3.42 Y\n10 m10000 km\n0.01 ≤ Δx ≤ 10 kmpower-lawβ0 = 1.2510 < Δx ≤ 10000 kmpower-lawβ1 = 1.90\n2 min\n\npower-law\nβ = 1.98\n\n\n[6](Nokia)\nGPS\n200\n1.50 Y\n100 m10 km\n\npower-law (T)β = 1.39\n10 sec\n\n\n\n[6] (Geolife)\nGPS\n182\n5.00 Y\n100 m10 km\n\npower-law (T)β = 1.57\n1 − 5 sec\n\n\n\n[7] (5 datasets)\nGPS\n101\n5 M\n10 m10 km\n\npower-law (T)β = [1.35-1.82]\n10 sec\n\npower-law (T)β = [1.45-2.68]\n\n\n[8]\nTaxi (GPS)\n50\n6 M\n1 km100 km\n3 ≤ Δx ≤ 23 kmpower-lawβ0 = 2.5023 < Δx ≤ 100 kmpower-lawβ1 = 4.60\n10 sec\n\n\n\n[9]\nTaxi (GPS)\n6.6 ⋅ 103\n\n1 W\n1 km100 km\n\npower-law (T)β = 1.20\n10 sec\n\n\n\n[10]\nFlickr\n4.0 ⋅ 104\n\n\n1 km10000 km\npower-law (T)\nuneven\n\n\n\n[11]\nLBSN\n2.2 ⋅ 105\n\n4 M\n1 km500 km\n\npower-lawβ = 1.88\nuneven\n\n\n\n[12]\nTwitter\n1.3 ⋅ 107\n\n1 Y\n1 km100 km\n\npower-lawβ = 1.62\nuneven\n\n\n\n[13]\nLBSN\n9.2 ⋅ 105\n\n6 M\n1 km20000 km\n\npower-lawβ = 1.50\nuneven\n\n\n\n[13] (intracity)\nLBSN\n9.2 ⋅ 105\n\n6 M\n10 m100 km\n\npower-law(“poor”) [13]β = 4.67\nuneven\n\n\n\n[14]\nLBSN\n2.6 ⋅ 105\n\n1 Y\n10 m50 km\n\nexponentialλ = 0.179\nuneven\n\n\n\n[15]\nLBSN\n5.2 ⋅ 105\n\n1 Y\n1 km4000 km\n\nexponentialλ = 0.003\nuneven\n\n\n\n[16]\nTwitter\n1.6 ⋅ 105\n\n8 M\n10 m4000 km\n0.01 ≤ Δx ≤ 0.1 kmexponentialλ = 0.0730.1 < Δx ≤ 100 kmStretchedpower-lawβ1 = 0.45100 < Δx ≤ 4000 kmpower-lawβ2 = 1.32 \n\nuneven\n\n\n\n[17]\nTaxi (GPS)\n803\n1.25 Y\n1 km100 km\nΔx ≤ 15 kmexponentialλ = 0.3615 < Δx ≤ 100 kmpower-lawβ = 3.66\n30 sec\n\n\n\n[18] (D1)\nTaxi (GPS)\n104\n\n3 M\n1 km100 km\n1 ≤ Δx ≤ 20 kmexponentialλ0 = 0.2320 < Δx ≤ 100 kmexponentialλ1 = 0.17\n\n1 min\n\n\n\n[18] (D2)\nTaxi (GPS)\n104\n\n2 M\n1 km100 km\n1 ≤ Δx ≤ 20 kmexponentialλ0 = 0.2420 < Δx ≤ 100 kmexponentialλ1 = 0.18\n1 min\n\n\n\n[19]\nTaxi (GPS)\n6.6 ⋅ 103\n\n1 W\n2 km20 km\n\nexponentialλ = [0.072-0.252]\n10 sec\n\n\n\n[20](3 datasets)\nTaxi (GPS)\n104\n\n1 M\n600 m10 km\nexponential\n[9 − 177] s\npower-law\n\n\n[21](6 datasets)\nTaxi (GPS)\n3.0 ⋅ 104\n\n[1 M-2 Y]\n1 km100 km\n\nlog-normalμ = [0.77-1.32],σ = [0.67-0.87]\n[24 − 116] s\n\n\n\n[22]\nTaxi (GPS)\n1.1 ⋅ 103\n\n6 M\n100 m30 km\n\nlog-normalμ = 0.38,σ = 0.48\n30 sec\n\n\n\n[23]\nSurveys\n104\n\n1 Y\n\n\nself-reported\n\npower-law (T)β = 0.49\n\n\n[24]\nPrivate Cars (GPS)\n7.8 ⋅ 105\n\n1 M\n1 km500 km\nsuperimposition Poisson\n10 sec\nΔt ≤ 4hpower-lawβ = 1.031 ≤ Δt ≤ 200hlog-normalμ = 1.60,σ = 1.60\n\n\n[26]\nPrivate Cars (GPS)\n3.5 ⋅ 104\n\n1 M\n300 m100 km\npolynomial\n10 sec\n\npower-lawβ = 0.97\n\n\n[30] (D1)\nCDR\n1.3 ⋅ 106\n\n1 M\n1 km200 km\n\npower-lawβ = 2.02\nuneven\n\n\n\n[30] (D2)\nCDR\n6 ⋅ 106\n\n1 Y\n1 km500 km\n\npower-lawβ = 1.75\nuneven\n\n\n\n[30] (D3)\nCDR\n\n4 Y\n1 km100 km\n\npower-lawβ = 1.80\nuneven\n\n\n\n[34]\nTravel cards\n2.0 ⋅ 106\n\n1 W\n100 m50 km\n\nnegative binomialμ = 9.28,σ = 5.83\nuneven\n\n\n\n[42]\nTravelDiaries\n230\n1.5 M\n1 km400 km\n\npower-law (T)β = 1.05\nself-reported\n\n\n\n[56]\nPrivate Cars (GPS)\n7.5 ⋅ 104\n\n1 M\n10 m500 km\n0.01 ≤ Δx ≤ 20 kmexponential20 < Δx ≤ 150 kmpower-lawβ1 = 3.30\n30 sec\nΔt ≤ 3hexponentialλ = 1.02\n\n\n[57]\nTaxi (GPS)\n\n1 D\n200 m1000 km\n\npower-lawβ = 2.70\n\n\n\n\n\nOpen in a new tabFirst, the datasets considered have different spatial resolution and coverage, and few studies have so far considered the whole range of displacements occurring between ∼10 and 107 m (10000 km) (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Previous studies with comparable spatial coverage (Fig 2) relied on single-transportation modality data [8], unevenly sampled data [16], or small samples (32 individuals in Ref. [5]).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that P(Δr) is best described by a log-normal distribution (Eq (1)) with parameters μ = 6.78 ± 0.07 and σ = 2.45 ± 0.04, which maximises Akaike Information Criterion (see Methods)—among the three models considered—with Akaike weight ∼1 (Fig 3, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 reports the histogram of the individual μ parameters for the 96.2% of the population that is best described by a log-normal distribution, along with three examples of individual distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The best model describing the distribution of waiting times over all individuals is the log-normal distribution (Eq (1), Fig 5, see also S1 File), with parameters μ = −0.42 ± 0.04, σ = 2.14 ± 0.02.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As in the case of displacements, we find that restricting the analysis to large values of our observable Δt, and specifically considering only Δt > Δt∗ = 13 h, results in the selection of the Pareto distribution (Eq (2), see Fig 5), with coefficient β = 1.44 ± 0.01.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that the distribution of distances between consecutive discoveries P(Δr) is best described as a log-normal distribution with parameters μ = 6.59 ± 0.02, σ = 1.99 ± 0.01, (Fig 6, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 7A shows a positive correlation between Δr and Δtdisp for Δr ≳ 300m (p < 0.01).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel A",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Instead, the correlation is negative for distances larger than 5 × 104m (Fig 7B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Supporting figures and tables.(PDF)\n\n\nClick here for additional data file. (446.1KB, pdf) \nData Availability\nData used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Supporting figures and tables.(PDF)\n\n\nClick here for additional data file. (446.1KB, pdf) \nData Availability Statement\nData used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "A trajectory consists of displacements between locations and pauses at locations, where the individual stops and spends time (Fig 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 2 and Table 1 compare distributions obtained using different data sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The spectrum of results reflects the heterogeneity of the considered datasets (see Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "RangeΔx\n\n\nP(Δx)\nSampling δt\n\n\nP(Δt)\n\n\n\n[1] (D1)\nCDR\n3.0 ⋅ 106\n\n1 Y\n1 km100 km\n\npower-law (T)β = 1.55\nuneven\n\n\n\n[1] (D2)\nCDR\n103\n\n2 W\n1 km100 km\n\n1 h\n\npower-law (T)β = 1.80\n\n\n[2] (D1)\nCDR\n105\n\n6 M\n1 km1000 km\n\npower-law (T)β = 1.75\nuneven\n\n\n\n[2] (D2)\nCDR\n206\n1 W\n1 km500 km\n\npower-law (T)β = 1.75\n2 h\n\n\n\n[3]\nBills records\n4.6 ⋅ 105bills\n1.39 Y\n100 m3200 km\n10 ≤ Δx ≤ 3200 kmpower-lawβ = 1.59\nuneven\n\n\n\n[5] (Geolife)\nGPS\n32\n3.42 Y\n10 m10000 km\n0.01 ≤ Δx ≤ 10 kmpower-lawβ0 = 1.2510 < Δx ≤ 10000 kmpower-lawβ1 = 1.90\n2 min\n\npower-law\nβ = 1.98\n\n\n[6](Nokia)\nGPS\n200\n1.50 Y\n100 m10 km\n\npower-law (T)β = 1.39\n10 sec\n\n\n\n[6] (Geolife)\nGPS\n182\n5.00 Y\n100 m10 km\n\npower-law (T)β = 1.57\n1 − 5 sec\n\n\n\n[7] (5 datasets)\nGPS\n101\n5 M\n10 m10 km\n\npower-law (T)β = [1.35-1.82]\n10 sec\n\npower-law (T)β = [1.45-2.68]\n\n\n[8]\nTaxi (GPS)\n50\n6 M\n1 km100 km\n3 ≤ Δx ≤ 23 kmpower-lawβ0 = 2.5023 < Δx ≤ 100 kmpower-lawβ1 = 4.60\n10 sec\n\n\n\n[9]\nTaxi (GPS)\n6.6 ⋅ 103\n\n1 W\n1 km100 km\n\npower-law (T)β = 1.20\n10 sec\n\n\n\n[10]\nFlickr\n4.0 ⋅ 104\n\n\n1 km10000 km\npower-law (T)\nuneven\n\n\n\n[11]\nLBSN\n2.2 ⋅ 105\n\n4 M\n1 km500 km\n\npower-lawβ = 1.88\nuneven\n\n\n\n[12]\nTwitter\n1.3 ⋅ 107\n\n1 Y\n1 km100 km\n\npower-lawβ = 1.62\nuneven\n\n\n\n[13]\nLBSN\n9.2 ⋅ 105\n\n6 M\n1 km20000 km\n\npower-lawβ = 1.50\nuneven\n\n\n\n[13] (intracity)\nLBSN\n9.2 ⋅ 105\n\n6 M\n10 m100 km\n\npower-law(“poor”) [13]β = 4.67\nuneven\n\n\n\n[14]\nLBSN\n2.6 ⋅ 105\n\n1 Y\n10 m50 km\n\nexponentialλ = 0.179\nuneven\n\n\n\n[15]\nLBSN\n5.2 ⋅ 105\n\n1 Y\n1 km4000 km\n\nexponentialλ = 0.003\nuneven\n\n\n\n[16]\nTwitter\n1.6 ⋅ 105\n\n8 M\n10 m4000 km\n0.01 ≤ Δx ≤ 0.1 kmexponentialλ = 0.0730.1 < Δx ≤ 100 kmStretchedpower-lawβ1 = 0.45100 < Δx ≤ 4000 kmpower-lawβ2 = 1.32 \n\nuneven\n\n\n\n[17]\nTaxi (GPS)\n803\n1.25 Y\n1 km100 km\nΔx ≤ 15 kmexponentialλ = 0.3615 < Δx ≤ 100 kmpower-lawβ = 3.66\n30 sec\n\n\n\n[18] (D1)\nTaxi (GPS)\n104\n\n3 M\n1 km100 km\n1 ≤ Δx ≤ 20 kmexponentialλ0 = 0.2320 < Δx ≤ 100 kmexponentialλ1 = 0.17\n\n1 min\n\n\n\n[18] (D2)\nTaxi (GPS)\n104\n\n2 M\n1 km100 km\n1 ≤ Δx ≤ 20 kmexponentialλ0 = 0.2420 < Δx ≤ 100 kmexponentialλ1 = 0.18\n1 min\n\n\n\n[19]\nTaxi (GPS)\n6.6 ⋅ 103\n\n1 W\n2 km20 km\n\nexponentialλ = [0.072-0.252]\n10 sec\n\n\n\n[20](3 datasets)\nTaxi (GPS)\n104\n\n1 M\n600 m10 km\nexponential\n[9 − 177] s\npower-law\n\n\n[21](6 datasets)\nTaxi (GPS)\n3.0 ⋅ 104\n\n[1 M-2 Y]\n1 km100 km\n\nlog-normalμ = [0.77-1.32],σ = [0.67-0.87]\n[24 − 116] s\n\n\n\n[22]\nTaxi (GPS)\n1.1 ⋅ 103\n\n6 M\n100 m30 km\n\nlog-normalμ = 0.38,σ = 0.48\n30 sec\n\n\n\n[23]\nSurveys\n104\n\n1 Y\n\n\nself-reported\n\npower-law (T)β = 0.49\n\n\n[24]\nPrivate Cars (GPS)\n7.8 ⋅ 105\n\n1 M\n1 km500 km\nsuperimposition Poisson\n10 sec\nΔt ≤ 4hpower-lawβ = 1.031 ≤ Δt ≤ 200hlog-normalμ = 1.60,σ = 1.60\n\n\n[26]\nPrivate Cars (GPS)\n3.5 ⋅ 104\n\n1 M\n300 m100 km\npolynomial\n10 sec\n\npower-lawβ = 0.97\n\n\n[30] (D1)\nCDR\n1.3 ⋅ 106\n\n1 M\n1 km200 km\n\npower-lawβ = 2.02\nuneven\n\n\n\n[30] (D2)\nCDR\n6 ⋅ 106\n\n1 Y\n1 km500 km\n\npower-lawβ = 1.75\nuneven\n\n\n\n[30] (D3)\nCDR\n\n4 Y\n1 km100 km\n\npower-lawβ = 1.80\nuneven\n\n\n\n[34]\nTravel cards\n2.0 ⋅ 106\n\n1 W\n100 m50 km\n\nnegative binomialμ = 9.28,σ = 5.83\nuneven\n\n\n\n[42]\nTravelDiaries\n230\n1.5 M\n1 km400 km\n\npower-law (T)β = 1.05\nself-reported\n\n\n\n[56]\nPrivate Cars (GPS)\n7.5 ⋅ 104\n\n1 M\n10 m500 km\n0.01 ≤ Δx ≤ 20 kmexponential20 < Δx ≤ 150 kmpower-lawβ1 = 3.30\n30 sec\nΔt ≤ 3hexponentialλ = 1.02\n\n\n[57]\nTaxi (GPS)\n\n1 D\n200 m1000 km\n\npower-lawβ = 2.70\n\n\n\n\n\nOpen in a new tabFirst, the datasets considered have different spatial resolution and coverage, and few studies have so far considered the whole range of displacements occurring between ∼10 and 107 m (10000 km) (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Previous studies with comparable spatial coverage (Fig 2) relied on single-transportation modality data [8], unevenly sampled data [16], or small samples (32 individuals in Ref. [5]).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that P(Δr) is best described by a log-normal distribution (Eq (1)) with parameters μ = 6.78 ± 0.07 and σ = 2.45 ± 0.04, which maximises Akaike Information Criterion (see Methods)—among the three models considered—with Akaike weight ∼1 (Fig 3, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 reports the histogram of the individual μ parameters for the 96.2% of the population that is best described by a log-normal distribution, along with three examples of individual distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The best model describing the distribution of waiting times over all individuals is the log-normal distribution (Eq (1), Fig 5, see also S1 File), with parameters μ = −0.42 ± 0.04, σ = 2.14 ± 0.02.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As in the case of displacements, we find that restricting the analysis to large values of our observable Δt, and specifically considering only Δt > Δt∗ = 13 h, results in the selection of the Pareto distribution (Eq (2), see Fig 5), with coefficient β = 1.44 ± 0.01.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that the distribution of distances between consecutive discoveries P(Δr) is best described as a log-normal distribution with parameters μ = 6.59 ± 0.02, σ = 1.99 ± 0.01, (Fig 6, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 7A shows a positive correlation between Δr and Δtdisp for Δr ≳ 300m (p < 0.01).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel A",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Instead, the correlation is negative for distances larger than 5 × 104m (Fig 7B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Supporting figures and tables.(PDF)\n\n\nClick here for additional data file. (446.1KB, pdf) \nData Availability\nData used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Supporting figures and tables.(PDF)\n\n\nClick here for additional data file. (446.1KB, pdf) \nData Availability Statement\nData used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "A trajectory consists of displacements between locations and pauses at locations, where the individual stops and spends time (Fig 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 2 and Table 1 compare distributions obtained using different data sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The spectrum of results reflects the heterogeneity of the considered datasets (see Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "RangeΔx\n\n\nP(Δx)\nSampling δt\n\n\nP(Δt)\n\n\n\n[1] (D1)\nCDR\n3.0 ⋅ 106\n\n1 Y\n1 km100 km\n\npower-law (T)β = 1.55\nuneven\n\n\n\n[1] (D2)\nCDR\n103\n\n2 W\n1 km100 km\n\n1 h\n\npower-law (T)β = 1.80\n\n\n[2] (D1)\nCDR\n105\n\n6 M\n1 km1000 km\n\npower-law (T)β = 1.75\nuneven\n\n\n\n[2] (D2)\nCDR\n206\n1 W\n1 km500 km\n\npower-law (T)β = 1.75\n2 h\n\n\n\n[3]\nBills records\n4.6 ⋅ 105bills\n1.39 Y\n100 m3200 km\n10 ≤ Δx ≤ 3200 kmpower-lawβ = 1.59\nuneven\n\n\n\n[5] (Geolife)\nGPS\n32\n3.42 Y\n10 m10000 km\n0.01 ≤ Δx ≤ 10 kmpower-lawβ0 = 1.2510 < Δx ≤ 10000 kmpower-lawβ1 = 1.90\n2 min\n\npower-law\nβ = 1.98\n\n\n[6](Nokia)\nGPS\n200\n1.50 Y\n100 m10 km\n\npower-law (T)β = 1.39\n10 sec\n\n\n\n[6] (Geolife)\nGPS\n182\n5.00 Y\n100 m10 km\n\npower-law (T)β = 1.57\n1 − 5 sec\n\n\n\n[7] (5 datasets)\nGPS\n101\n5 M\n10 m10 km\n\npower-law (T)β = [1.35-1.82]\n10 sec\n\npower-law (T)β = [1.45-2.68]\n\n\n[8]\nTaxi (GPS)\n50\n6 M\n1 km100 km\n3 ≤ Δx ≤ 23 kmpower-lawβ0 = 2.5023 < Δx ≤ 100 kmpower-lawβ1 = 4.60\n10 sec\n\n\n\n[9]\nTaxi (GPS)\n6.6 ⋅ 103\n\n1 W\n1 km100 km\n\npower-law (T)β = 1.20\n10 sec\n\n\n\n[10]\nFlickr\n4.0 ⋅ 104\n\n\n1 km10000 km\npower-law (T)\nuneven\n\n\n\n[11]\nLBSN\n2.2 ⋅ 105\n\n4 M\n1 km500 km\n\npower-lawβ = 1.88\nuneven\n\n\n\n[12]\nTwitter\n1.3 ⋅ 107\n\n1 Y\n1 km100 km\n\npower-lawβ = 1.62\nuneven\n\n\n\n[13]\nLBSN\n9.2 ⋅ 105\n\n6 M\n1 km20000 km\n\npower-lawβ = 1.50\nuneven\n\n\n\n[13] (intracity)\nLBSN\n9.2 ⋅ 105\n\n6 M\n10 m100 km\n\npower-law(“poor”) [13]β = 4.67\nuneven\n\n\n\n[14]\nLBSN\n2.6 ⋅ 105\n\n1 Y\n10 m50 km\n\nexponentialλ = 0.179\nuneven\n\n\n\n[15]\nLBSN\n5.2 ⋅ 105\n\n1 Y\n1 km4000 km\n\nexponentialλ = 0.003\nuneven\n\n\n\n[16]\nTwitter\n1.6 ⋅ 105\n\n8 M\n10 m4000 km\n0.01 ≤ Δx ≤ 0.1 kmexponentialλ = 0.0730.1 < Δx ≤ 100 kmStretchedpower-lawβ1 = 0.45100 < Δx ≤ 4000 kmpower-lawβ2 = 1.32 \n\nuneven\n\n\n\n[17]\nTaxi (GPS)\n803\n1.25 Y\n1 km100 km\nΔx ≤ 15 kmexponentialλ = 0.3615 < Δx ≤ 100 kmpower-lawβ = 3.66\n30 sec\n\n\n\n[18] (D1)\nTaxi (GPS)\n104\n\n3 M\n1 km100 km\n1 ≤ Δx ≤ 20 kmexponentialλ0 = 0.2320 < Δx ≤ 100 kmexponentialλ1 = 0.17\n\n1 min\n\n\n\n[18] (D2)\nTaxi (GPS)\n104\n\n2 M\n1 km100 km\n1 ≤ Δx ≤ 20 kmexponentialλ0 = 0.2420 < Δx ≤ 100 kmexponentialλ1 = 0.18\n1 min\n\n\n\n[19]\nTaxi (GPS)\n6.6 ⋅ 103\n\n1 W\n2 km20 km\n\nexponentialλ = [0.072-0.252]\n10 sec\n\n\n\n[20](3 datasets)\nTaxi (GPS)\n104\n\n1 M\n600 m10 km\nexponential\n[9 − 177] s\npower-law\n\n\n[21](6 datasets)\nTaxi (GPS)\n3.0 ⋅ 104\n\n[1 M-2 Y]\n1 km100 km\n\nlog-normalμ = [0.77-1.32],σ = [0.67-0.87]\n[24 − 116] s\n\n\n\n[22]\nTaxi (GPS)\n1.1 ⋅ 103\n\n6 M\n100 m30 km\n\nlog-normalμ = 0.38,σ = 0.48\n30 sec\n\n\n\n[23]\nSurveys\n104\n\n1 Y\n\n\nself-reported\n\npower-law (T)β = 0.49\n\n\n[24]\nPrivate Cars (GPS)\n7.8 ⋅ 105\n\n1 M\n1 km500 km\nsuperimposition Poisson\n10 sec\nΔt ≤ 4hpower-lawβ = 1.031 ≤ Δt ≤ 200hlog-normalμ = 1.60,σ = 1.60\n\n\n[26]\nPrivate Cars (GPS)\n3.5 ⋅ 104\n\n1 M\n300 m100 km\npolynomial\n10 sec\n\npower-lawβ = 0.97\n\n\n[30] (D1)\nCDR\n1.3 ⋅ 106\n\n1 M\n1 km200 km\n\npower-lawβ = 2.02\nuneven\n\n\n\n[30] (D2)\nCDR\n6 ⋅ 106\n\n1 Y\n1 km500 km\n\npower-lawβ = 1.75\nuneven\n\n\n\n[30] (D3)\nCDR\n\n4 Y\n1 km100 km\n\npower-lawβ = 1.80\nuneven\n\n\n\n[34]\nTravel cards\n2.0 ⋅ 106\n\n1 W\n100 m50 km\n\nnegative binomialμ = 9.28,σ = 5.83\nuneven\n\n\n\n[42]\nTravelDiaries\n230\n1.5 M\n1 km400 km\n\npower-law (T)β = 1.05\nself-reported\n\n\n\n[56]\nPrivate Cars (GPS)\n7.5 ⋅ 104\n\n1 M\n10 m500 km\n0.01 ≤ Δx ≤ 20 kmexponential20 < Δx ≤ 150 kmpower-lawβ1 = 3.30\n30 sec\nΔt ≤ 3hexponentialλ = 1.02\n\n\n[57]\nTaxi (GPS)\n\n1 D\n200 m1000 km\n\npower-lawβ = 2.70\n\n\n\n\n\nOpen in a new tabFirst, the datasets considered have different spatial resolution and coverage, and few studies have so far considered the whole range of displacements occurring between ∼10 and 107 m (10000 km) (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Previous studies with comparable spatial coverage (Fig 2) relied on single-transportation modality data [8], unevenly sampled data [16], or small samples (32 individuals in Ref. [5]).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that P(Δr) is best described by a log-normal distribution (Eq (1)) with parameters μ = 6.78 ± 0.07 and σ = 2.45 ± 0.04, which maximises Akaike Information Criterion (see Methods)—among the three models considered—with Akaike weight ∼1 (Fig 3, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 reports the histogram of the individual μ parameters for the 96.2% of the population that is best described by a log-normal distribution, along with three examples of individual distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The best model describing the distribution of waiting times over all individuals is the log-normal distribution (Eq (1), Fig 5, see also S1 File), with parameters μ = −0.42 ± 0.04, σ = 2.14 ± 0.02.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As in the case of displacements, we find that restricting the analysis to large values of our observable Δt, and specifically considering only Δt > Δt∗ = 13 h, results in the selection of the Pareto distribution (Eq (2), see Fig 5), with coefficient β = 1.44 ± 0.01.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that the distribution of distances between consecutive discoveries P(Δr) is best described as a log-normal distribution with parameters μ = 6.59 ± 0.02, σ = 1.99 ± 0.01, (Fig 6, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 7A shows a positive correlation between Δr and Δtdisp for Δr ≳ 300m (p < 0.01).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel A",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Instead, the correlation is negative for distances larger than 5 × 104m (Fig 7B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Supporting figures and tables.(PDF)\n\n\nClick here for additional data file. (446.1KB, pdf) \nData Availability\nData used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Supporting figures and tables.(PDF)\n\n\nClick here for additional data file. (446.1KB, pdf) \nData Availability Statement\nData used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "A trajectory consists of displacements between locations and pauses at locations, where the individual stops and spends time (Fig 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 2 and Table 1 compare distributions obtained using different data sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The spectrum of results reflects the heterogeneity of the considered datasets (see Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "RangeΔx\n\n\nP(Δx)\nSampling δt\n\n\nP(Δt)\n\n\n\n[1] (D1)\nCDR\n3.0 ⋅ 106\n\n1 Y\n1 km100 km\n\npower-law (T)β = 1.55\nuneven\n\n\n\n[1] (D2)\nCDR\n103\n\n2 W\n1 km100 km\n\n1 h\n\npower-law (T)β = 1.80\n\n\n[2] (D1)\nCDR\n105\n\n6 M\n1 km1000 km\n\npower-law (T)β = 1.75\nuneven\n\n\n\n[2] (D2)\nCDR\n206\n1 W\n1 km500 km\n\npower-law (T)β = 1.75\n2 h\n\n\n\n[3]\nBills records\n4.6 ⋅ 105bills\n1.39 Y\n100 m3200 km\n10 ≤ Δx ≤ 3200 kmpower-lawβ = 1.59\nuneven\n\n\n\n[5] (Geolife)\nGPS\n32\n3.42 Y\n10 m10000 km\n0.01 ≤ Δx ≤ 10 kmpower-lawβ0 = 1.2510 < Δx ≤ 10000 kmpower-lawβ1 = 1.90\n2 min\n\npower-law\nβ = 1.98\n\n\n[6](Nokia)\nGPS\n200\n1.50 Y\n100 m10 km\n\npower-law (T)β = 1.39\n10 sec\n\n\n\n[6] (Geolife)\nGPS\n182\n5.00 Y\n100 m10 km\n\npower-law (T)β = 1.57\n1 − 5 sec\n\n\n\n[7] (5 datasets)\nGPS\n101\n5 M\n10 m10 km\n\npower-law (T)β = [1.35-1.82]\n10 sec\n\npower-law (T)β = [1.45-2.68]\n\n\n[8]\nTaxi (GPS)\n50\n6 M\n1 km100 km\n3 ≤ Δx ≤ 23 kmpower-lawβ0 = 2.5023 < Δx ≤ 100 kmpower-lawβ1 = 4.60\n10 sec\n\n\n\n[9]\nTaxi (GPS)\n6.6 ⋅ 103\n\n1 W\n1 km100 km\n\npower-law (T)β = 1.20\n10 sec\n\n\n\n[10]\nFlickr\n4.0 ⋅ 104\n\n\n1 km10000 km\npower-law (T)\nuneven\n\n\n\n[11]\nLBSN\n2.2 ⋅ 105\n\n4 M\n1 km500 km\n\npower-lawβ = 1.88\nuneven\n\n\n\n[12]\nTwitter\n1.3 ⋅ 107\n\n1 Y\n1 km100 km\n\npower-lawβ = 1.62\nuneven\n\n\n\n[13]\nLBSN\n9.2 ⋅ 105\n\n6 M\n1 km20000 km\n\npower-lawβ = 1.50\nuneven\n\n\n\n[13] (intracity)\nLBSN\n9.2 ⋅ 105\n\n6 M\n10 m100 km\n\npower-law(“poor”) [13]β = 4.67\nuneven\n\n\n\n[14]\nLBSN\n2.6 ⋅ 105\n\n1 Y\n10 m50 km\n\nexponentialλ = 0.179\nuneven\n\n\n\n[15]\nLBSN\n5.2 ⋅ 105\n\n1 Y\n1 km4000 km\n\nexponentialλ = 0.003\nuneven\n\n\n\n[16]\nTwitter\n1.6 ⋅ 105\n\n8 M\n10 m4000 km\n0.01 ≤ Δx ≤ 0.1 kmexponentialλ = 0.0730.1 < Δx ≤ 100 kmStretchedpower-lawβ1 = 0.45100 < Δx ≤ 4000 kmpower-lawβ2 = 1.32 \n\nuneven\n\n\n\n[17]\nTaxi (GPS)\n803\n1.25 Y\n1 km100 km\nΔx ≤ 15 kmexponentialλ = 0.3615 < Δx ≤ 100 kmpower-lawβ = 3.66\n30 sec\n\n\n\n[18] (D1)\nTaxi (GPS)\n104\n\n3 M\n1 km100 km\n1 ≤ Δx ≤ 20 kmexponentialλ0 = 0.2320 < Δx ≤ 100 kmexponentialλ1 = 0.17\n\n1 min\n\n\n\n[18] (D2)\nTaxi (GPS)\n104\n\n2 M\n1 km100 km\n1 ≤ Δx ≤ 20 kmexponentialλ0 = 0.2420 < Δx ≤ 100 kmexponentialλ1 = 0.18\n1 min\n\n\n\n[19]\nTaxi (GPS)\n6.6 ⋅ 103\n\n1 W\n2 km20 km\n\nexponentialλ = [0.072-0.252]\n10 sec\n\n\n\n[20](3 datasets)\nTaxi (GPS)\n104\n\n1 M\n600 m10 km\nexponential\n[9 − 177] s\npower-law\n\n\n[21](6 datasets)\nTaxi (GPS)\n3.0 ⋅ 104\n\n[1 M-2 Y]\n1 km100 km\n\nlog-normalμ = [0.77-1.32],σ = [0.67-0.87]\n[24 − 116] s\n\n\n\n[22]\nTaxi (GPS)\n1.1 ⋅ 103\n\n6 M\n100 m30 km\n\nlog-normalμ = 0.38,σ = 0.48\n30 sec\n\n\n\n[23]\nSurveys\n104\n\n1 Y\n\n\nself-reported\n\npower-law (T)β = 0.49\n\n\n[24]\nPrivate Cars (GPS)\n7.8 ⋅ 105\n\n1 M\n1 km500 km\nsuperimposition Poisson\n10 sec\nΔt ≤ 4hpower-lawβ = 1.031 ≤ Δt ≤ 200hlog-normalμ = 1.60,σ = 1.60\n\n\n[26]\nPrivate Cars (GPS)\n3.5 ⋅ 104\n\n1 M\n300 m100 km\npolynomial\n10 sec\n\npower-lawβ = 0.97\n\n\n[30] (D1)\nCDR\n1.3 ⋅ 106\n\n1 M\n1 km200 km\n\npower-lawβ = 2.02\nuneven\n\n\n\n[30] (D2)\nCDR\n6 ⋅ 106\n\n1 Y\n1 km500 km\n\npower-lawβ = 1.75\nuneven\n\n\n\n[30] (D3)\nCDR\n\n4 Y\n1 km100 km\n\npower-lawβ = 1.80\nuneven\n\n\n\n[34]\nTravel cards\n2.0 ⋅ 106\n\n1 W\n100 m50 km\n\nnegative binomialμ = 9.28,σ = 5.83\nuneven\n\n\n\n[42]\nTravelDiaries\n230\n1.5 M\n1 km400 km\n\npower-law (T)β = 1.05\nself-reported\n\n\n\n[56]\nPrivate Cars (GPS)\n7.5 ⋅ 104\n\n1 M\n10 m500 km\n0.01 ≤ Δx ≤ 20 kmexponential20 < Δx ≤ 150 kmpower-lawβ1 = 3.30\n30 sec\nΔt ≤ 3hexponentialλ = 1.02\n\n\n[57]\nTaxi (GPS)\n\n1 D\n200 m1000 km\n\npower-lawβ = 2.70\n\n\n\n\n\nOpen in a new tabFirst, the datasets considered have different spatial resolution and coverage, and few studies have so far considered the whole range of displacements occurring between ∼10 and 107 m (10000 km) (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Previous studies with comparable spatial coverage (Fig 2) relied on single-transportation modality data [8], unevenly sampled data [16], or small samples (32 individuals in Ref. [5]).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that P(Δr) is best described by a log-normal distribution (Eq (1)) with parameters μ = 6.78 ± 0.07 and σ = 2.45 ± 0.04, which maximises Akaike Information Criterion (see Methods)—among the three models considered—with Akaike weight ∼1 (Fig 3, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 reports the histogram of the individual μ parameters for the 96.2% of the population that is best described by a log-normal distribution, along with three examples of individual distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The best model describing the distribution of waiting times over all individuals is the log-normal distribution (Eq (1), Fig 5, see also S1 File), with parameters μ = −0.42 ± 0.04, σ = 2.14 ± 0.02.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As in the case of displacements, we find that restricting the analysis to large values of our observable Δt, and specifically considering only Δt > Δt∗ = 13 h, results in the selection of the Pareto distribution (Eq (2), see Fig 5), with coefficient β = 1.44 ± 0.01.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that the distribution of distances between consecutive discoveries P(Δr) is best described as a log-normal distribution with parameters μ = 6.59 ± 0.02, σ = 1.99 ± 0.01, (Fig 6, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 7A shows a positive correlation between Δr and Δtdisp for Δr ≳ 300m (p < 0.01).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel A",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Instead, the correlation is negative for distances larger than 5 × 104m (Fig 7B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Supporting figures and tables.(PDF)\n\n\nClick here for additional data file. (446.1KB, pdf) \nData Availability\nData used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Supporting figures and tables.(PDF)\n\n\nClick here for additional data file. (446.1KB, pdf) \nData Availability Statement\nData used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "A trajectory consists of displacements between locations and pauses at locations, where the individual stops and spends time (Fig 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 2 and Table 1 compare distributions obtained using different data sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The spectrum of results reflects the heterogeneity of the considered datasets (see Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "RangeΔx\n\n\nP(Δx)\nSampling δt\n\n\nP(Δt)\n\n\n\n[1] (D1)\nCDR\n3.0 ⋅ 106\n\n1 Y\n1 km100 km\n\npower-law (T)β = 1.55\nuneven\n\n\n\n[1] (D2)\nCDR\n103\n\n2 W\n1 km100 km\n\n1 h\n\npower-law (T)β = 1.80\n\n\n[2] (D1)\nCDR\n105\n\n6 M\n1 km1000 km\n\npower-law (T)β = 1.75\nuneven\n\n\n\n[2] (D2)\nCDR\n206\n1 W\n1 km500 km\n\npower-law (T)β = 1.75\n2 h\n\n\n\n[3]\nBills records\n4.6 ⋅ 105bills\n1.39 Y\n100 m3200 km\n10 ≤ Δx ≤ 3200 kmpower-lawβ = 1.59\nuneven\n\n\n\n[5] (Geolife)\nGPS\n32\n3.42 Y\n10 m10000 km\n0.01 ≤ Δx ≤ 10 kmpower-lawβ0 = 1.2510 < Δx ≤ 10000 kmpower-lawβ1 = 1.90\n2 min\n\npower-law\nβ = 1.98\n\n\n[6](Nokia)\nGPS\n200\n1.50 Y\n100 m10 km\n\npower-law (T)β = 1.39\n10 sec\n\n\n\n[6] (Geolife)\nGPS\n182\n5.00 Y\n100 m10 km\n\npower-law (T)β = 1.57\n1 − 5 sec\n\n\n\n[7] (5 datasets)\nGPS\n101\n5 M\n10 m10 km\n\npower-law (T)β = [1.35-1.82]\n10 sec\n\npower-law (T)β = [1.45-2.68]\n\n\n[8]\nTaxi (GPS)\n50\n6 M\n1 km100 km\n3 ≤ Δx ≤ 23 kmpower-lawβ0 = 2.5023 < Δx ≤ 100 kmpower-lawβ1 = 4.60\n10 sec\n\n\n\n[9]\nTaxi (GPS)\n6.6 ⋅ 103\n\n1 W\n1 km100 km\n\npower-law (T)β = 1.20\n10 sec\n\n\n\n[10]\nFlickr\n4.0 ⋅ 104\n\n\n1 km10000 km\npower-law (T)\nuneven\n\n\n\n[11]\nLBSN\n2.2 ⋅ 105\n\n4 M\n1 km500 km\n\npower-lawβ = 1.88\nuneven\n\n\n\n[12]\nTwitter\n1.3 ⋅ 107\n\n1 Y\n1 km100 km\n\npower-lawβ = 1.62\nuneven\n\n\n\n[13]\nLBSN\n9.2 ⋅ 105\n\n6 M\n1 km20000 km\n\npower-lawβ = 1.50\nuneven\n\n\n\n[13] (intracity)\nLBSN\n9.2 ⋅ 105\n\n6 M\n10 m100 km\n\npower-law(“poor”) [13]β = 4.67\nuneven\n\n\n\n[14]\nLBSN\n2.6 ⋅ 105\n\n1 Y\n10 m50 km\n\nexponentialλ = 0.179\nuneven\n\n\n\n[15]\nLBSN\n5.2 ⋅ 105\n\n1 Y\n1 km4000 km\n\nexponentialλ = 0.003\nuneven\n\n\n\n[16]\nTwitter\n1.6 ⋅ 105\n\n8 M\n10 m4000 km\n0.01 ≤ Δx ≤ 0.1 kmexponentialλ = 0.0730.1 < Δx ≤ 100 kmStretchedpower-lawβ1 = 0.45100 < Δx ≤ 4000 kmpower-lawβ2 = 1.32 \n\nuneven\n\n\n\n[17]\nTaxi (GPS)\n803\n1.25 Y\n1 km100 km\nΔx ≤ 15 kmexponentialλ = 0.3615 < Δx ≤ 100 kmpower-lawβ = 3.66\n30 sec\n\n\n\n[18] (D1)\nTaxi (GPS)\n104\n\n3 M\n1 km100 km\n1 ≤ Δx ≤ 20 kmexponentialλ0 = 0.2320 < Δx ≤ 100 kmexponentialλ1 = 0.17\n\n1 min\n\n\n\n[18] (D2)\nTaxi (GPS)\n104\n\n2 M\n1 km100 km\n1 ≤ Δx ≤ 20 kmexponentialλ0 = 0.2420 < Δx ≤ 100 kmexponentialλ1 = 0.18\n1 min\n\n\n\n[19]\nTaxi (GPS)\n6.6 ⋅ 103\n\n1 W\n2 km20 km\n\nexponentialλ = [0.072-0.252]\n10 sec\n\n\n\n[20](3 datasets)\nTaxi (GPS)\n104\n\n1 M\n600 m10 km\nexponential\n[9 − 177] s\npower-law\n\n\n[21](6 datasets)\nTaxi (GPS)\n3.0 ⋅ 104\n\n[1 M-2 Y]\n1 km100 km\n\nlog-normalμ = [0.77-1.32],σ = [0.67-0.87]\n[24 − 116] s\n\n\n\n[22]\nTaxi (GPS)\n1.1 ⋅ 103\n\n6 M\n100 m30 km\n\nlog-normalμ = 0.38,σ = 0.48\n30 sec\n\n\n\n[23]\nSurveys\n104\n\n1 Y\n\n\nself-reported\n\npower-law (T)β = 0.49\n\n\n[24]\nPrivate Cars (GPS)\n7.8 ⋅ 105\n\n1 M\n1 km500 km\nsuperimposition Poisson\n10 sec\nΔt ≤ 4hpower-lawβ = 1.031 ≤ Δt ≤ 200hlog-normalμ = 1.60,σ = 1.60\n\n\n[26]\nPrivate Cars (GPS)\n3.5 ⋅ 104\n\n1 M\n300 m100 km\npolynomial\n10 sec\n\npower-lawβ = 0.97\n\n\n[30] (D1)\nCDR\n1.3 ⋅ 106\n\n1 M\n1 km200 km\n\npower-lawβ = 2.02\nuneven\n\n\n\n[30] (D2)\nCDR\n6 ⋅ 106\n\n1 Y\n1 km500 km\n\npower-lawβ = 1.75\nuneven\n\n\n\n[30] (D3)\nCDR\n\n4 Y\n1 km100 km\n\npower-lawβ = 1.80\nuneven\n\n\n\n[34]\nTravel cards\n2.0 ⋅ 106\n\n1 W\n100 m50 km\n\nnegative binomialμ = 9.28,σ = 5.83\nuneven\n\n\n\n[42]\nTravelDiaries\n230\n1.5 M\n1 km400 km\n\npower-law (T)β = 1.05\nself-reported\n\n\n\n[56]\nPrivate Cars (GPS)\n7.5 ⋅ 104\n\n1 M\n10 m500 km\n0.01 ≤ Δx ≤ 20 kmexponential20 < Δx ≤ 150 kmpower-lawβ1 = 3.30\n30 sec\nΔt ≤ 3hexponentialλ = 1.02\n\n\n[57]\nTaxi (GPS)\n\n1 D\n200 m1000 km\n\npower-lawβ = 2.70\n\n\n\n\n\nOpen in a new tabFirst, the datasets considered have different spatial resolution and coverage, and few studies have so far considered the whole range of displacements occurring between ∼10 and 107 m (10000 km) (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Previous studies with comparable spatial coverage (Fig 2) relied on single-transportation modality data [8], unevenly sampled data [16], or small samples (32 individuals in Ref. [5]).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that P(Δr) is best described by a log-normal distribution (Eq (1)) with parameters μ = 6.78 ± 0.07 and σ = 2.45 ± 0.04, which maximises Akaike Information Criterion (see Methods)—among the three models considered—with Akaike weight ∼1 (Fig 3, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 reports the histogram of the individual μ parameters for the 96.2% of the population that is best described by a log-normal distribution, along with three examples of individual distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The best model describing the distribution of waiting times over all individuals is the log-normal distribution (Eq (1), Fig 5, see also S1 File), with parameters μ = −0.42 ± 0.04, σ = 2.14 ± 0.02.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As in the case of displacements, we find that restricting the analysis to large values of our observable Δt, and specifically considering only Δt > Δt∗ = 13 h, results in the selection of the Pareto distribution (Eq (2), see Fig 5), with coefficient β = 1.44 ± 0.01.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that the distribution of distances between consecutive discoveries P(Δr) is best described as a log-normal distribution with parameters μ = 6.59 ± 0.02, σ = 1.99 ± 0.01, (Fig 6, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 7A shows a positive correlation between Δr and Δtdisp for Δr ≳ 300m (p < 0.01).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel A",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Instead, the correlation is negative for distances larger than 5 × 104m (Fig 7B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Supporting figures and tables.(PDF)\n\n\nClick here for additional data file. (446.1KB, pdf) \nData Availability\nData used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Supporting figures and tables.(PDF)\n\n\nClick here for additional data file. (446.1KB, pdf) \nData Availability Statement\nData used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "A trajectory consists of displacements between locations and pauses at locations, where the individual stops and spends time (Fig 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 2 and Table 1 compare distributions obtained using different data sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The spectrum of results reflects the heterogeneity of the considered datasets (see Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "RangeΔx\n\n\nP(Δx)\nSampling δt\n\n\nP(Δt)\n\n\n\n[1] (D1)\nCDR\n3.0 ⋅ 106\n\n1 Y\n1 km100 km\n\npower-law (T)β = 1.55\nuneven\n\n\n\n[1] (D2)\nCDR\n103\n\n2 W\n1 km100 km\n\n1 h\n\npower-law (T)β = 1.80\n\n\n[2] (D1)\nCDR\n105\n\n6 M\n1 km1000 km\n\npower-law (T)β = 1.75\nuneven\n\n\n\n[2] (D2)\nCDR\n206\n1 W\n1 km500 km\n\npower-law (T)β = 1.75\n2 h\n\n\n\n[3]\nBills records\n4.6 ⋅ 105bills\n1.39 Y\n100 m3200 km\n10 ≤ Δx ≤ 3200 kmpower-lawβ = 1.59\nuneven\n\n\n\n[5] (Geolife)\nGPS\n32\n3.42 Y\n10 m10000 km\n0.01 ≤ Δx ≤ 10 kmpower-lawβ0 = 1.2510 < Δx ≤ 10000 kmpower-lawβ1 = 1.90\n2 min\n\npower-law\nβ = 1.98\n\n\n[6](Nokia)\nGPS\n200\n1.50 Y\n100 m10 km\n\npower-law (T)β = 1.39\n10 sec\n\n\n\n[6] (Geolife)\nGPS\n182\n5.00 Y\n100 m10 km\n\npower-law (T)β = 1.57\n1 − 5 sec\n\n\n\n[7] (5 datasets)\nGPS\n101\n5 M\n10 m10 km\n\npower-law (T)β = [1.35-1.82]\n10 sec\n\npower-law (T)β = [1.45-2.68]\n\n\n[8]\nTaxi (GPS)\n50\n6 M\n1 km100 km\n3 ≤ Δx ≤ 23 kmpower-lawβ0 = 2.5023 < Δx ≤ 100 kmpower-lawβ1 = 4.60\n10 sec\n\n\n\n[9]\nTaxi (GPS)\n6.6 ⋅ 103\n\n1 W\n1 km100 km\n\npower-law (T)β = 1.20\n10 sec\n\n\n\n[10]\nFlickr\n4.0 ⋅ 104\n\n\n1 km10000 km\npower-law (T)\nuneven\n\n\n\n[11]\nLBSN\n2.2 ⋅ 105\n\n4 M\n1 km500 km\n\npower-lawβ = 1.88\nuneven\n\n\n\n[12]\nTwitter\n1.3 ⋅ 107\n\n1 Y\n1 km100 km\n\npower-lawβ = 1.62\nuneven\n\n\n\n[13]\nLBSN\n9.2 ⋅ 105\n\n6 M\n1 km20000 km\n\npower-lawβ = 1.50\nuneven\n\n\n\n[13] (intracity)\nLBSN\n9.2 ⋅ 105\n\n6 M\n10 m100 km\n\npower-law(“poor”) [13]β = 4.67\nuneven\n\n\n\n[14]\nLBSN\n2.6 ⋅ 105\n\n1 Y\n10 m50 km\n\nexponentialλ = 0.179\nuneven\n\n\n\n[15]\nLBSN\n5.2 ⋅ 105\n\n1 Y\n1 km4000 km\n\nexponentialλ = 0.003\nuneven\n\n\n\n[16]\nTwitter\n1.6 ⋅ 105\n\n8 M\n10 m4000 km\n0.01 ≤ Δx ≤ 0.1 kmexponentialλ = 0.0730.1 < Δx ≤ 100 kmStretchedpower-lawβ1 = 0.45100 < Δx ≤ 4000 kmpower-lawβ2 = 1.32 \n\nuneven\n\n\n\n[17]\nTaxi (GPS)\n803\n1.25 Y\n1 km100 km\nΔx ≤ 15 kmexponentialλ = 0.3615 < Δx ≤ 100 kmpower-lawβ = 3.66\n30 sec\n\n\n\n[18] (D1)\nTaxi (GPS)\n104\n\n3 M\n1 km100 km\n1 ≤ Δx ≤ 20 kmexponentialλ0 = 0.2320 < Δx ≤ 100 kmexponentialλ1 = 0.17\n\n1 min\n\n\n\n[18] (D2)\nTaxi (GPS)\n104\n\n2 M\n1 km100 km\n1 ≤ Δx ≤ 20 kmexponentialλ0 = 0.2420 < Δx ≤ 100 kmexponentialλ1 = 0.18\n1 min\n\n\n\n[19]\nTaxi (GPS)\n6.6 ⋅ 103\n\n1 W\n2 km20 km\n\nexponentialλ = [0.072-0.252]\n10 sec\n\n\n\n[20](3 datasets)\nTaxi (GPS)\n104\n\n1 M\n600 m10 km\nexponential\n[9 − 177] s\npower-law\n\n\n[21](6 datasets)\nTaxi (GPS)\n3.0 ⋅ 104\n\n[1 M-2 Y]\n1 km100 km\n\nlog-normalμ = [0.77-1.32],σ = [0.67-0.87]\n[24 − 116] s\n\n\n\n[22]\nTaxi (GPS)\n1.1 ⋅ 103\n\n6 M\n100 m30 km\n\nlog-normalμ = 0.38,σ = 0.48\n30 sec\n\n\n\n[23]\nSurveys\n104\n\n1 Y\n\n\nself-reported\n\npower-law (T)β = 0.49\n\n\n[24]\nPrivate Cars (GPS)\n7.8 ⋅ 105\n\n1 M\n1 km500 km\nsuperimposition Poisson\n10 sec\nΔt ≤ 4hpower-lawβ = 1.031 ≤ Δt ≤ 200hlog-normalμ = 1.60,σ = 1.60\n\n\n[26]\nPrivate Cars (GPS)\n3.5 ⋅ 104\n\n1 M\n300 m100 km\npolynomial\n10 sec\n\npower-lawβ = 0.97\n\n\n[30] (D1)\nCDR\n1.3 ⋅ 106\n\n1 M\n1 km200 km\n\npower-lawβ = 2.02\nuneven\n\n\n\n[30] (D2)\nCDR\n6 ⋅ 106\n\n1 Y\n1 km500 km\n\npower-lawβ = 1.75\nuneven\n\n\n\n[30] (D3)\nCDR\n\n4 Y\n1 km100 km\n\npower-lawβ = 1.80\nuneven\n\n\n\n[34]\nTravel cards\n2.0 ⋅ 106\n\n1 W\n100 m50 km\n\nnegative binomialμ = 9.28,σ = 5.83\nuneven\n\n\n\n[42]\nTravelDiaries\n230\n1.5 M\n1 km400 km\n\npower-law (T)β = 1.05\nself-reported\n\n\n\n[56]\nPrivate Cars (GPS)\n7.5 ⋅ 104\n\n1 M\n10 m500 km\n0.01 ≤ Δx ≤ 20 kmexponential20 < Δx ≤ 150 kmpower-lawβ1 = 3.30\n30 sec\nΔt ≤ 3hexponentialλ = 1.02\n\n\n[57]\nTaxi (GPS)\n\n1 D\n200 m1000 km\n\npower-lawβ = 2.70\n\n\n\n\n\nOpen in a new tabFirst, the datasets considered have different spatial resolution and coverage, and few studies have so far considered the whole range of displacements occurring between ∼10 and 107 m (10000 km) (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Previous studies with comparable spatial coverage (Fig 2) relied on single-transportation modality data [8], unevenly sampled data [16], or small samples (32 individuals in Ref. [5]).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that P(Δr) is best described by a log-normal distribution (Eq (1)) with parameters μ = 6.78 ± 0.07 and σ = 2.45 ± 0.04, which maximises Akaike Information Criterion (see Methods)—among the three models considered—with Akaike weight ∼1 (Fig 3, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 reports the histogram of the individual μ parameters for the 96.2% of the population that is best described by a log-normal distribution, along with three examples of individual distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The best model describing the distribution of waiting times over all individuals is the log-normal distribution (Eq (1), Fig 5, see also S1 File), with parameters μ = −0.42 ± 0.04, σ = 2.14 ± 0.02.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As in the case of displacements, we find that restricting the analysis to large values of our observable Δt, and specifically considering only Δt > Δt∗ = 13 h, results in the selection of the Pareto distribution (Eq (2), see Fig 5), with coefficient β = 1.44 ± 0.01.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that the distribution of distances between consecutive discoveries P(Δr) is best described as a log-normal distribution with parameters μ = 6.59 ± 0.02, σ = 1.99 ± 0.01, (Fig 6, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 7A shows a positive correlation between Δr and Δtdisp for Δr ≳ 300m (p < 0.01).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel A",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Instead, the correlation is negative for distances larger than 5 × 104m (Fig 7B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Supporting figures and tables.(PDF)\n\n\nClick here for additional data file. (446.1KB, pdf) \nData Availability\nData used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Supporting figures and tables.(PDF)\n\n\nClick here for additional data file. (446.1KB, pdf) \nData Availability Statement\nData used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "A trajectory consists of displacements between locations and pauses at locations, where the individual stops and spends time (Fig 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 2 and Table 1 compare distributions obtained using different data sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The spectrum of results reflects the heterogeneity of the considered datasets (see Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "RangeΔx\n\n\nP(Δx)\nSampling δt\n\n\nP(Δt)\n\n\n\n[1] (D1)\nCDR\n3.0 ⋅ 106\n\n1 Y\n1 km100 km\n\npower-law (T)β = 1.55\nuneven\n\n\n\n[1] (D2)\nCDR\n103\n\n2 W\n1 km100 km\n\n1 h\n\npower-law (T)β = 1.80\n\n\n[2] (D1)\nCDR\n105\n\n6 M\n1 km1000 km\n\npower-law (T)β = 1.75\nuneven\n\n\n\n[2] (D2)\nCDR\n206\n1 W\n1 km500 km\n\npower-law (T)β = 1.75\n2 h\n\n\n\n[3]\nBills records\n4.6 ⋅ 105bills\n1.39 Y\n100 m3200 km\n10 ≤ Δx ≤ 3200 kmpower-lawβ = 1.59\nuneven\n\n\n\n[5] (Geolife)\nGPS\n32\n3.42 Y\n10 m10000 km\n0.01 ≤ Δx ≤ 10 kmpower-lawβ0 = 1.2510 < Δx ≤ 10000 kmpower-lawβ1 = 1.90\n2 min\n\npower-law\nβ = 1.98\n\n\n[6](Nokia)\nGPS\n200\n1.50 Y\n100 m10 km\n\npower-law (T)β = 1.39\n10 sec\n\n\n\n[6] (Geolife)\nGPS\n182\n5.00 Y\n100 m10 km\n\npower-law (T)β = 1.57\n1 − 5 sec\n\n\n\n[7] (5 datasets)\nGPS\n101\n5 M\n10 m10 km\n\npower-law (T)β = [1.35-1.82]\n10 sec\n\npower-law (T)β = [1.45-2.68]\n\n\n[8]\nTaxi (GPS)\n50\n6 M\n1 km100 km\n3 ≤ Δx ≤ 23 kmpower-lawβ0 = 2.5023 < Δx ≤ 100 kmpower-lawβ1 = 4.60\n10 sec\n\n\n\n[9]\nTaxi (GPS)\n6.6 ⋅ 103\n\n1 W\n1 km100 km\n\npower-law (T)β = 1.20\n10 sec\n\n\n\n[10]\nFlickr\n4.0 ⋅ 104\n\n\n1 km10000 km\npower-law (T)\nuneven\n\n\n\n[11]\nLBSN\n2.2 ⋅ 105\n\n4 M\n1 km500 km\n\npower-lawβ = 1.88\nuneven\n\n\n\n[12]\nTwitter\n1.3 ⋅ 107\n\n1 Y\n1 km100 km\n\npower-lawβ = 1.62\nuneven\n\n\n\n[13]\nLBSN\n9.2 ⋅ 105\n\n6 M\n1 km20000 km\n\npower-lawβ = 1.50\nuneven\n\n\n\n[13] (intracity)\nLBSN\n9.2 ⋅ 105\n\n6 M\n10 m100 km\n\npower-law(“poor”) [13]β = 4.67\nuneven\n\n\n\n[14]\nLBSN\n2.6 ⋅ 105\n\n1 Y\n10 m50 km\n\nexponentialλ = 0.179\nuneven\n\n\n\n[15]\nLBSN\n5.2 ⋅ 105\n\n1 Y\n1 km4000 km\n\nexponentialλ = 0.003\nuneven\n\n\n\n[16]\nTwitter\n1.6 ⋅ 105\n\n8 M\n10 m4000 km\n0.01 ≤ Δx ≤ 0.1 kmexponentialλ = 0.0730.1 < Δx ≤ 100 kmStretchedpower-lawβ1 = 0.45100 < Δx ≤ 4000 kmpower-lawβ2 = 1.32 \n\nuneven\n\n\n\n[17]\nTaxi (GPS)\n803\n1.25 Y\n1 km100 km\nΔx ≤ 15 kmexponentialλ = 0.3615 < Δx ≤ 100 kmpower-lawβ = 3.66\n30 sec\n\n\n\n[18] (D1)\nTaxi (GPS)\n104\n\n3 M\n1 km100 km\n1 ≤ Δx ≤ 20 kmexponentialλ0 = 0.2320 < Δx ≤ 100 kmexponentialλ1 = 0.17\n\n1 min\n\n\n\n[18] (D2)\nTaxi (GPS)\n104\n\n2 M\n1 km100 km\n1 ≤ Δx ≤ 20 kmexponentialλ0 = 0.2420 < Δx ≤ 100 kmexponentialλ1 = 0.18\n1 min\n\n\n\n[19]\nTaxi (GPS)\n6.6 ⋅ 103\n\n1 W\n2 km20 km\n\nexponentialλ = [0.072-0.252]\n10 sec\n\n\n\n[20](3 datasets)\nTaxi (GPS)\n104\n\n1 M\n600 m10 km\nexponential\n[9 − 177] s\npower-law\n\n\n[21](6 datasets)\nTaxi (GPS)\n3.0 ⋅ 104\n\n[1 M-2 Y]\n1 km100 km\n\nlog-normalμ = [0.77-1.32],σ = [0.67-0.87]\n[24 − 116] s\n\n\n\n[22]\nTaxi (GPS)\n1.1 ⋅ 103\n\n6 M\n100 m30 km\n\nlog-normalμ = 0.38,σ = 0.48\n30 sec\n\n\n\n[23]\nSurveys\n104\n\n1 Y\n\n\nself-reported\n\npower-law (T)β = 0.49\n\n\n[24]\nPrivate Cars (GPS)\n7.8 ⋅ 105\n\n1 M\n1 km500 km\nsuperimposition Poisson\n10 sec\nΔt ≤ 4hpower-lawβ = 1.031 ≤ Δt ≤ 200hlog-normalμ = 1.60,σ = 1.60\n\n\n[26]\nPrivate Cars (GPS)\n3.5 ⋅ 104\n\n1 M\n300 m100 km\npolynomial\n10 sec\n\npower-lawβ = 0.97\n\n\n[30] (D1)\nCDR\n1.3 ⋅ 106\n\n1 M\n1 km200 km\n\npower-lawβ = 2.02\nuneven\n\n\n\n[30] (D2)\nCDR\n6 ⋅ 106\n\n1 Y\n1 km500 km\n\npower-lawβ = 1.75\nuneven\n\n\n\n[30] (D3)\nCDR\n\n4 Y\n1 km100 km\n\npower-lawβ = 1.80\nuneven\n\n\n\n[34]\nTravel cards\n2.0 ⋅ 106\n\n1 W\n100 m50 km\n\nnegative binomialμ = 9.28,σ = 5.83\nuneven\n\n\n\n[42]\nTravelDiaries\n230\n1.5 M\n1 km400 km\n\npower-law (T)β = 1.05\nself-reported\n\n\n\n[56]\nPrivate Cars (GPS)\n7.5 ⋅ 104\n\n1 M\n10 m500 km\n0.01 ≤ Δx ≤ 20 kmexponential20 < Δx ≤ 150 kmpower-lawβ1 = 3.30\n30 sec\nΔt ≤ 3hexponentialλ = 1.02\n\n\n[57]\nTaxi (GPS)\n\n1 D\n200 m1000 km\n\npower-lawβ = 2.70\n\n\n\n\n\nOpen in a new tabFirst, the datasets considered have different spatial resolution and coverage, and few studies have so far considered the whole range of displacements occurring between ∼10 and 107 m (10000 km) (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Previous studies with comparable spatial coverage (Fig 2) relied on single-transportation modality data [8], unevenly sampled data [16], or small samples (32 individuals in Ref. [5]).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that P(Δr) is best described by a log-normal distribution (Eq (1)) with parameters μ = 6.78 ± 0.07 and σ = 2.45 ± 0.04, which maximises Akaike Information Criterion (see Methods)—among the three models considered—with Akaike weight ∼1 (Fig 3, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 reports the histogram of the individual μ parameters for the 96.2% of the population that is best described by a log-normal distribution, along with three examples of individual distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The best model describing the distribution of waiting times over all individuals is the log-normal distribution (Eq (1), Fig 5, see also S1 File), with parameters μ = −0.42 ± 0.04, σ = 2.14 ± 0.02.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As in the case of displacements, we find that restricting the analysis to large values of our observable Δt, and specifically considering only Δt > Δt∗ = 13 h, results in the selection of the Pareto distribution (Eq (2), see Fig 5), with coefficient β = 1.44 ± 0.01.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that the distribution of distances between consecutive discoveries P(Δr) is best described as a log-normal distribution with parameters μ = 6.59 ± 0.02, σ = 1.99 ± 0.01, (Fig 6, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 7A shows a positive correlation between Δr and Δtdisp for Δr ≳ 300m (p < 0.01).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel A",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Instead, the correlation is negative for distances larger than 5 × 104m (Fig 7B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Supporting figures and tables.(PDF)\n\n\nClick here for additional data file. (446.1KB, pdf) \nData Availability\nData used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Supporting figures and tables.(PDF)\n\n\nClick here for additional data file. (446.1KB, pdf) \nData Availability Statement\nData used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "A trajectory consists of displacements between locations and pauses at locations, where the individual stops and spends time (Fig 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 2 and Table 1 compare distributions obtained using different data sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The spectrum of results reflects the heterogeneity of the considered datasets (see Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "RangeΔx\n\n\nP(Δx)\nSampling δt\n\n\nP(Δt)\n\n\n\n[1] (D1)\nCDR\n3.0 ⋅ 106\n\n1 Y\n1 km100 km\n\npower-law (T)β = 1.55\nuneven\n\n\n\n[1] (D2)\nCDR\n103\n\n2 W\n1 km100 km\n\n1 h\n\npower-law (T)β = 1.80\n\n\n[2] (D1)\nCDR\n105\n\n6 M\n1 km1000 km\n\npower-law (T)β = 1.75\nuneven\n\n\n\n[2] (D2)\nCDR\n206\n1 W\n1 km500 km\n\npower-law (T)β = 1.75\n2 h\n\n\n\n[3]\nBills records\n4.6 ⋅ 105bills\n1.39 Y\n100 m3200 km\n10 ≤ Δx ≤ 3200 kmpower-lawβ = 1.59\nuneven\n\n\n\n[5] (Geolife)\nGPS\n32\n3.42 Y\n10 m10000 km\n0.01 ≤ Δx ≤ 10 kmpower-lawβ0 = 1.2510 < Δx ≤ 10000 kmpower-lawβ1 = 1.90\n2 min\n\npower-law\nβ = 1.98\n\n\n[6](Nokia)\nGPS\n200\n1.50 Y\n100 m10 km\n\npower-law (T)β = 1.39\n10 sec\n\n\n\n[6] (Geolife)\nGPS\n182\n5.00 Y\n100 m10 km\n\npower-law (T)β = 1.57\n1 − 5 sec\n\n\n\n[7] (5 datasets)\nGPS\n101\n5 M\n10 m10 km\n\npower-law (T)β = [1.35-1.82]\n10 sec\n\npower-law (T)β = [1.45-2.68]\n\n\n[8]\nTaxi (GPS)\n50\n6 M\n1 km100 km\n3 ≤ Δx ≤ 23 kmpower-lawβ0 = 2.5023 < Δx ≤ 100 kmpower-lawβ1 = 4.60\n10 sec\n\n\n\n[9]\nTaxi (GPS)\n6.6 ⋅ 103\n\n1 W\n1 km100 km\n\npower-law (T)β = 1.20\n10 sec\n\n\n\n[10]\nFlickr\n4.0 ⋅ 104\n\n\n1 km10000 km\npower-law (T)\nuneven\n\n\n\n[11]\nLBSN\n2.2 ⋅ 105\n\n4 M\n1 km500 km\n\npower-lawβ = 1.88\nuneven\n\n\n\n[12]\nTwitter\n1.3 ⋅ 107\n\n1 Y\n1 km100 km\n\npower-lawβ = 1.62\nuneven\n\n\n\n[13]\nLBSN\n9.2 ⋅ 105\n\n6 M\n1 km20000 km\n\npower-lawβ = 1.50\nuneven\n\n\n\n[13] (intracity)\nLBSN\n9.2 ⋅ 105\n\n6 M\n10 m100 km\n\npower-law(“poor”) [13]β = 4.67\nuneven\n\n\n\n[14]\nLBSN\n2.6 ⋅ 105\n\n1 Y\n10 m50 km\n\nexponentialλ = 0.179\nuneven\n\n\n\n[15]\nLBSN\n5.2 ⋅ 105\n\n1 Y\n1 km4000 km\n\nexponentialλ = 0.003\nuneven\n\n\n\n[16]\nTwitter\n1.6 ⋅ 105\n\n8 M\n10 m4000 km\n0.01 ≤ Δx ≤ 0.1 kmexponentialλ = 0.0730.1 < Δx ≤ 100 kmStretchedpower-lawβ1 = 0.45100 < Δx ≤ 4000 kmpower-lawβ2 = 1.32 \n\nuneven\n\n\n\n[17]\nTaxi (GPS)\n803\n1.25 Y\n1 km100 km\nΔx ≤ 15 kmexponentialλ = 0.3615 < Δx ≤ 100 kmpower-lawβ = 3.66\n30 sec\n\n\n\n[18] (D1)\nTaxi (GPS)\n104\n\n3 M\n1 km100 km\n1 ≤ Δx ≤ 20 kmexponentialλ0 = 0.2320 < Δx ≤ 100 kmexponentialλ1 = 0.17\n\n1 min\n\n\n\n[18] (D2)\nTaxi (GPS)\n104\n\n2 M\n1 km100 km\n1 ≤ Δx ≤ 20 kmexponentialλ0 = 0.2420 < Δx ≤ 100 kmexponentialλ1 = 0.18\n1 min\n\n\n\n[19]\nTaxi (GPS)\n6.6 ⋅ 103\n\n1 W\n2 km20 km\n\nexponentialλ = [0.072-0.252]\n10 sec\n\n\n\n[20](3 datasets)\nTaxi (GPS)\n104\n\n1 M\n600 m10 km\nexponential\n[9 − 177] s\npower-law\n\n\n[21](6 datasets)\nTaxi (GPS)\n3.0 ⋅ 104\n\n[1 M-2 Y]\n1 km100 km\n\nlog-normalμ = [0.77-1.32],σ = [0.67-0.87]\n[24 − 116] s\n\n\n\n[22]\nTaxi (GPS)\n1.1 ⋅ 103\n\n6 M\n100 m30 km\n\nlog-normalμ = 0.38,σ = 0.48\n30 sec\n\n\n\n[23]\nSurveys\n104\n\n1 Y\n\n\nself-reported\n\npower-law (T)β = 0.49\n\n\n[24]\nPrivate Cars (GPS)\n7.8 ⋅ 105\n\n1 M\n1 km500 km\nsuperimposition Poisson\n10 sec\nΔt ≤ 4hpower-lawβ = 1.031 ≤ Δt ≤ 200hlog-normalμ = 1.60,σ = 1.60\n\n\n[26]\nPrivate Cars (GPS)\n3.5 ⋅ 104\n\n1 M\n300 m100 km\npolynomial\n10 sec\n\npower-lawβ = 0.97\n\n\n[30] (D1)\nCDR\n1.3 ⋅ 106\n\n1 M\n1 km200 km\n\npower-lawβ = 2.02\nuneven\n\n\n\n[30] (D2)\nCDR\n6 ⋅ 106\n\n1 Y\n1 km500 km\n\npower-lawβ = 1.75\nuneven\n\n\n\n[30] (D3)\nCDR\n\n4 Y\n1 km100 km\n\npower-lawβ = 1.80\nuneven\n\n\n\n[34]\nTravel cards\n2.0 ⋅ 106\n\n1 W\n100 m50 km\n\nnegative binomialμ = 9.28,σ = 5.83\nuneven\n\n\n\n[42]\nTravelDiaries\n230\n1.5 M\n1 km400 km\n\npower-law (T)β = 1.05\nself-reported\n\n\n\n[56]\nPrivate Cars (GPS)\n7.5 ⋅ 104\n\n1 M\n10 m500 km\n0.01 ≤ Δx ≤ 20 kmexponential20 < Δx ≤ 150 kmpower-lawβ1 = 3.30\n30 sec\nΔt ≤ 3hexponentialλ = 1.02\n\n\n[57]\nTaxi (GPS)\n\n1 D\n200 m1000 km\n\npower-lawβ = 2.70\n\n\n\n\n\nOpen in a new tabFirst, the datasets considered have different spatial resolution and coverage, and few studies have so far considered the whole range of displacements occurring between ∼10 and 107 m (10000 km) (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Previous studies with comparable spatial coverage (Fig 2) relied on single-transportation modality data [8], unevenly sampled data [16], or small samples (32 individuals in Ref. [5]).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "A trajectory consists of displacements between locations and pauses at locations, where the individual stops and spends time (Fig 1).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      },
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 2 and Table 1 compare distributions obtained using different data sources.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The spectrum of results reflects the heterogeneity of the considered datasets (see Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "First, the datasets considered have different spatial resolution and coverage, and few studies have so far considered the whole range of displacements occurring between ∼10 and 107 m (10000 km) (Fig 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Previous studies with comparable spatial coverage (Fig 2) relied on single-transportation modality data [8], unevenly sampled data [16], or small samples (32 individuals in Ref. [5]).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that P(Δr) is best described by a log-normal distribution (Eq (1)) with parameters μ = 6.78 ± 0.07 and σ = 2.45 ± 0.04, which maximises Akaike Information Criterion (see Methods)—among the three models considered—with Akaike weight ∼1 (Fig 3, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 reports the histogram of the individual μ parameters for the 96.2% of the population that is best described by a log-normal distribution, along with three examples of individual distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The best model describing the distribution of waiting times over all individuals is the log-normal distribution (Eq (1), Fig 5, see also S1 File), with parameters μ = −0.42 ± 0.04, σ = 2.14 ± 0.02.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As in the case of displacements, we find that restricting the analysis to large values of our observable Δt, and specifically considering only Δt > Δt∗ = 13 h, results in the selection of the Pareto distribution (Eq (2), see Fig 5), with coefficient β = 1.44 ± 0.01.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that the distribution of distances between consecutive discoveries P(Δr) is best described as a log-normal distribution with parameters μ = 6.59 ± 0.02, σ = 1.99 ± 0.01, (Fig 6, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 7A shows a positive correlation between Δr and Δtdisp for Δr ≳ 300m (p < 0.01).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel A",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Instead, the correlation is negative for distances larger than 5 × 104m (Fig 7B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that P(Δr) is best described by a log-normal distribution (Eq (1)) with parameters μ = 6.78 ± 0.07 and σ = 2.45 ± 0.04, which maximises Akaike Information Criterion (see Methods)—among the three models considered—with Akaike weight ∼1 (Fig 3, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 reports the histogram of the individual μ parameters for the 96.2% of the population that is best described by a log-normal distribution, along with three examples of individual distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that P(Δr) is best described by a log-normal distribution (Eq (1)) with parameters μ = 6.78 ± 0.07 and σ = 2.45 ± 0.04, which maximises Akaike Information Criterion (see Methods)—among the three models considered—with Akaike weight ∼1 (Fig 3, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 reports the histogram of the individual μ parameters for the 96.2% of the population that is best described by a log-normal distribution, along with three examples of individual distributions.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "The best model describing the distribution of waiting times over all individuals is the log-normal distribution (Eq (1), Fig 5, see also S1 File), with parameters μ = −0.42 ± 0.04, σ = 2.14 ± 0.02.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As in the case of displacements, we find that restricting the analysis to large values of our observable Δt, and specifically considering only Δt > Δt∗ = 13 h, results in the selection of the Pareto distribution (Eq (2), see Fig 5), with coefficient β = 1.44 ± 0.01.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The best model describing the distribution of waiting times over all individuals is the log-normal distribution (Eq (1), Fig 5, see also S1 File), with parameters μ = −0.42 ± 0.04, σ = 2.14 ± 0.02.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "As in the case of displacements, we find that restricting the analysis to large values of our observable Δt, and specifically considering only Δt > Δt∗ = 13 h, results in the selection of the Pareto distribution (Eq (2), see Fig 5), with coefficient β = 1.44 ± 0.01.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that the distribution of distances between consecutive discoveries P(Δr) is best described as a log-normal distribution with parameters μ = 6.59 ± 0.02, σ = 1.99 ± 0.01, (Fig 6, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "We find that the distribution of distances between consecutive discoveries P(Δr) is best described as a log-normal distribution with parameters μ = 6.59 ± 0.02, σ = 1.99 ± 0.01, (Fig 6, see also S1 File).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 7A shows a positive correlation between Δr and Δtdisp for Δr ≳ 300m (p < 0.01).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel A",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Instead, the correlation is negative for distances larger than 5 × 104m (Fig 7B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 7A shows a positive correlation between Δr and Δtdisp for Δr ≳ 300m (p < 0.01).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel A",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Instead, the correlation is negative for distances larger than 5 × 104m (Fig 7B).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel B",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data Availability\nData used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Supporting figures and tables.(PDF)\n\n\nClick here for additional data file. (446.1KB, pdf) \nData Availability Statement\nData used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Data Availability Statement\nData used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  }
+]

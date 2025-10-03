@@ -1,0 +1,3592 @@
+{
+  "paper_id": "PMC8461675",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8461675/",
+  "figures": {
+    "figure_1": {
+      "figure_number": "Figure 1",
+      "title": "Fig. 1.",
+      "caption": "PRISMA Flow Diagram for the systematic review of PubMed articles related to AD APOE. The PRISMA flow diagram represents the systematic review of PubMed articles and the compilation and curation of journal article data into a manually constructed relational database. The final set of included studies comprised 31 journal articles and 3,045 mice. Features assessed include mouse genotype (wild type, APOE2 knock-in, APOE3 knock-in, APOE4 knock-in, APOE knock-out); type of external APOE modulatory treatment and its intended impact on the underlying etiology and corresponding cognition (positive treatment, negative treatment, untreated); mouse age (in days); and mouse gender (male, female, or mixed/unknown).",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3cee/8461675/fb93c4f0b65b/jad-83-jad210492-g001.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3cee/8461675/fb93c4f0b65b/jad-83-jad210492-g001.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3cee/8461675/fb93c4f0b65b/jad-83-jad210492-g001.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3cee/8461675/fb93c4f0b65b/jad-83-jad210492-g001.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "jad-83-jad210492-g001",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3cee/8461675/fb93c4f0b65b/jad-83-jad210492-g001.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC8461675/images/figure_1.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3cee/8461675/fb93c4f0b65b/jad-83-jad210492-g001.jpg"
+    },
+    "figure_2": {
+      "figure_number": "Figure 2",
+      "title": "Fig. 4.",
+      "caption": "Importance of binomial features on normalized and standardized Morris Water Maze (MWM) escape latency as predicted by supervised random forest modeling. Data was randomly partitioned into a training set (80%) and an independent test set (20%). Overall model accuracy during independent testing was 82%. Twelve binary features were utilized to predict escape latency; thus, each feature was marked for each mouse as being either present or absent. In descending order, the importance of the following binary features was predicted for classifying “superior” cognition: [KI3, age, g_m, KI4, t0, t+, KO, WT, g_mi, t–, g_f, KI2] = [0.270, 0.094, 0.092, 0.088, 0.077, 0.074, 0.069, 0.061, 0.058, 0.054, 0.038, 0.023]. Superior cognition was defined as a standardized and normalized MWM escape latency less than or equal to the overall sample mean (see Methods). Feature legend is as follows: transgenic APOE3 knock-in (KI3), male gender (g_m), transgenic APOE4 knock-in (KI4), untreated (t0), positive treatment meant to enhance cognition (t+), transgenic APOE knockout (KO), wild type (WT), mixed or unknown gender (g_mi), negative treatment (t–), female gender (g_f), and transgenic APOE2 knock-in (KI2). The overall sample size for the supervised random forest model was n = 3,045 mice. There were 1,430 female mice, 1,181 male mice, and 258 mixed/unknown gender mice. The breakdown of mouse genotype sample sizes is given in Table 1.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3cee/8461675/640e81ce14cd/jad-83-jad210492-g004.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3cee/8461675/640e81ce14cd/jad-83-jad210492-g004.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3cee/8461675/640e81ce14cd/jad-83-jad210492-g004.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3cee/8461675/640e81ce14cd/jad-83-jad210492-g004.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "jad-83-jad210492-g004",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3cee/8461675/640e81ce14cd/jad-83-jad210492-g004.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC8461675/images/figure_2.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3cee/8461675/640e81ce14cd/jad-83-jad210492-g004.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "Figure 1 displays a PRISMA Flow Diagram for the present study.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 illustrates the mean escape latency in seconds for each untreated group (t0) with the error bars denoting the corresponding positive standard deviation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The colored * above each bar in Fig. 2 represents a significant pairwise comparison between the group corresponding to the labeled bar and the group corresponding to the color of the asterisk.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The untreated group (t0) for each mouse genotype is shown in each panel of Fig. 3 for visual comparison.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The asterisk (*) indicates Bonferonni-corrected pairwise statistical significance between groups (p < 0.002). a.) All mice genotypes; b.) Wild type mice; c.) Transgenic APOE2 knock-in (KI2) mice; d.) Transgenic APOE3 knock-in (KI3) mice; e.) Transgenic APOE4 knock-in (KI4) mice; f.) Transgenic APOE knockout (KO) mice.Figure 3 illustrates the impact of positive treatment (t+), negative treatment (t–), or no treatment (t0) for each mouse genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3a shows a significant pairwise difference between the normalized escape latencies of all untreated mice (all_t0) and all negatively treated mice (all_t–) as well as between all untreated mice (all_t0) and all positively treated mice (all_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel a",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3b illustrates a significant difference in normalized escape latency between untreated WT (WT_t0) and positively treated WT (WT_t+) mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3c illustrates the normalized escape latency of untreated transgenic APOE2 KI (KI2_t0) given treatment data was absent for this genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3d illustrates no significant difference in normalized escape latency between treated and untreated transgenic APOE3 KI mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3e illustrates significant pairwise differences in normalized escape latency between negatively treated transgenic APOE4 KI (KI4_t–) and untreated (KI4_t0) as well as between untreated and positively treated APOE4 KI (KI4_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3f illustrates a significant pairwise difference in normalized escape latency between negatively treated transgenic APOE KO (KO_t–) and untreated (KO_t0) and between KO_t–and positively treated (KO_t+).Evaluation of feature importance with random forest modeling\nA supervised machine learning technique, random forest modeling, was performed to assess the impact of twelve specific binary features on the prediction of normalized MWM escape latency, including gender (g_m = male; g_f = female, g_mi = mixed/unknown), which was not analyzed in the pairwise statistical analysis presented above.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Random forest modeling yielded the following feature importance for the prediction of superior cognition as measured via standardized and normalized MWM escape latency: [KI3, age, g_m, KI4, t0, t+, KO, WT, g_mi, t–, g_f, KI2] = [0.270, 0.094, 0.092, 0.088, 0.077, 0.074, 0.069, 0.061, 0.058, 0.054, 0.038, 0.023] (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study’s aggregate data analysis, statistical comparison of mean normalized MWM escape latency data in untreated transgenic APOE AD mice indicated that untreated knock-in APOE3 (KI3_t0, Fig. 2) mice out-performed untreated wild type mice (WT_t0, Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Like results seen in human AD risk studies on the basis of APOE isoform, untreated APOE2 knock-in (KI2_t0) transgenic AD mice had the closest normalized escape latency to untreated wild type mice (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "However, untreated APOE4 knock-in (KI4_t0, Fig. 2) and APOE knock-out (KO_t0,) transgenic AD mice performed significantly worse than wild type (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "2 and 3) and the machine learning feature importance (Fig. 4) underscored its known prominence in the AD etiology.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The random forest feature importance (Fig. 4) illustrated that mouse age (in days) was the second-most important individual feature for predicting cognitive performance as measured by MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Statistical analysis of modulatory treatments in the present study illustrated that positive treatments were able to significantly to improve cognition in wild type (WT_t+, Fig. 3b), APOE4 knock-in (KI4_t+, Fig. 3e), and APOE knock-out (KO_t+, Fig. 3f).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Positively treated APOE3 knock-in (KI3_t+, Fig. 3d) has a small, albeit insignificant improvement in MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "No prior positively treated APOE2 mouse model study data met criteria for inclusion in the present study; therefore, the impact of positive treatment on APOE2 knock-in (KI2, Fig. 3c) was unable to be assessed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study, only negative treatments for APOE4 knock-in (KI4_t–, Fig. 3e) and APOE knock-out (KO_t–, Fig. 3f) had significantly different normalized MWM escape latencies compared to untreated mice of the same genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "However, the negatively treated APOE4 knock-in (KI4_t–, Fig. 3e) ironically had improved normalized MWM escape latency compared to untreated APOE4 knock-in (KI4_t0, Fig. 3e).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The plot of random forest feature importance (Fig. 4) illustrated that the male gender (g_m) is the third-most important individual feature for predicting superior cognitive performance in the MWM.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 displays a PRISMA Flow Diagram for the present study.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 illustrates the mean escape latency in seconds for each untreated group (t0) with the error bars denoting the corresponding positive standard deviation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The colored * above each bar in Fig. 2 represents a significant pairwise comparison between the group corresponding to the labeled bar and the group corresponding to the color of the asterisk.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The untreated group (t0) for each mouse genotype is shown in each panel of Fig. 3 for visual comparison.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The asterisk (*) indicates Bonferonni-corrected pairwise statistical significance between groups (p < 0.002). a.) All mice genotypes; b.) Wild type mice; c.) Transgenic APOE2 knock-in (KI2) mice; d.) Transgenic APOE3 knock-in (KI3) mice; e.) Transgenic APOE4 knock-in (KI4) mice; f.) Transgenic APOE knockout (KO) mice.Figure 3 illustrates the impact of positive treatment (t+), negative treatment (t–), or no treatment (t0) for each mouse genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3a shows a significant pairwise difference between the normalized escape latencies of all untreated mice (all_t0) and all negatively treated mice (all_t–) as well as between all untreated mice (all_t0) and all positively treated mice (all_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel a",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3b illustrates a significant difference in normalized escape latency between untreated WT (WT_t0) and positively treated WT (WT_t+) mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3c illustrates the normalized escape latency of untreated transgenic APOE2 KI (KI2_t0) given treatment data was absent for this genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3d illustrates no significant difference in normalized escape latency between treated and untreated transgenic APOE3 KI mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3e illustrates significant pairwise differences in normalized escape latency between negatively treated transgenic APOE4 KI (KI4_t–) and untreated (KI4_t0) as well as between untreated and positively treated APOE4 KI (KI4_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3f illustrates a significant pairwise difference in normalized escape latency between negatively treated transgenic APOE KO (KO_t–) and untreated (KO_t0) and between KO_t–and positively treated (KO_t+).Evaluation of feature importance with random forest modeling\nA supervised machine learning technique, random forest modeling, was performed to assess the impact of twelve specific binary features on the prediction of normalized MWM escape latency, including gender (g_m = male; g_f = female, g_mi = mixed/unknown), which was not analyzed in the pairwise statistical analysis presented above.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Random forest modeling yielded the following feature importance for the prediction of superior cognition as measured via standardized and normalized MWM escape latency: [KI3, age, g_m, KI4, t0, t+, KO, WT, g_mi, t–, g_f, KI2] = [0.270, 0.094, 0.092, 0.088, 0.077, 0.074, 0.069, 0.061, 0.058, 0.054, 0.038, 0.023] (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study’s aggregate data analysis, statistical comparison of mean normalized MWM escape latency data in untreated transgenic APOE AD mice indicated that untreated knock-in APOE3 (KI3_t0, Fig. 2) mice out-performed untreated wild type mice (WT_t0, Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Like results seen in human AD risk studies on the basis of APOE isoform, untreated APOE2 knock-in (KI2_t0) transgenic AD mice had the closest normalized escape latency to untreated wild type mice (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "However, untreated APOE4 knock-in (KI4_t0, Fig. 2) and APOE knock-out (KO_t0,) transgenic AD mice performed significantly worse than wild type (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "2 and 3) and the machine learning feature importance (Fig. 4) underscored its known prominence in the AD etiology.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The random forest feature importance (Fig. 4) illustrated that mouse age (in days) was the second-most important individual feature for predicting cognitive performance as measured by MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Statistical analysis of modulatory treatments in the present study illustrated that positive treatments were able to significantly to improve cognition in wild type (WT_t+, Fig. 3b), APOE4 knock-in (KI4_t+, Fig. 3e), and APOE knock-out (KO_t+, Fig. 3f).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Positively treated APOE3 knock-in (KI3_t+, Fig. 3d) has a small, albeit insignificant improvement in MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "No prior positively treated APOE2 mouse model study data met criteria for inclusion in the present study; therefore, the impact of positive treatment on APOE2 knock-in (KI2, Fig. 3c) was unable to be assessed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study, only negative treatments for APOE4 knock-in (KI4_t–, Fig. 3e) and APOE knock-out (KO_t–, Fig. 3f) had significantly different normalized MWM escape latencies compared to untreated mice of the same genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "However, the negatively treated APOE4 knock-in (KI4_t–, Fig. 3e) ironically had improved normalized MWM escape latency compared to untreated APOE4 knock-in (KI4_t0, Fig. 3e).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The plot of random forest feature importance (Fig. 4) illustrated that the male gender (g_m) is the third-most important individual feature for predicting superior cognitive performance in the MWM.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 displays a PRISMA Flow Diagram for the present study.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 illustrates the mean escape latency in seconds for each untreated group (t0) with the error bars denoting the corresponding positive standard deviation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The colored * above each bar in Fig. 2 represents a significant pairwise comparison between the group corresponding to the labeled bar and the group corresponding to the color of the asterisk.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The untreated group (t0) for each mouse genotype is shown in each panel of Fig. 3 for visual comparison.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The asterisk (*) indicates Bonferonni-corrected pairwise statistical significance between groups (p < 0.002). a.) All mice genotypes; b.) Wild type mice; c.) Transgenic APOE2 knock-in (KI2) mice; d.) Transgenic APOE3 knock-in (KI3) mice; e.) Transgenic APOE4 knock-in (KI4) mice; f.) Transgenic APOE knockout (KO) mice.Figure 3 illustrates the impact of positive treatment (t+), negative treatment (t–), or no treatment (t0) for each mouse genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3a shows a significant pairwise difference between the normalized escape latencies of all untreated mice (all_t0) and all negatively treated mice (all_t–) as well as between all untreated mice (all_t0) and all positively treated mice (all_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel a",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3b illustrates a significant difference in normalized escape latency between untreated WT (WT_t0) and positively treated WT (WT_t+) mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3c illustrates the normalized escape latency of untreated transgenic APOE2 KI (KI2_t0) given treatment data was absent for this genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3d illustrates no significant difference in normalized escape latency between treated and untreated transgenic APOE3 KI mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3e illustrates significant pairwise differences in normalized escape latency between negatively treated transgenic APOE4 KI (KI4_t–) and untreated (KI4_t0) as well as between untreated and positively treated APOE4 KI (KI4_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3f illustrates a significant pairwise difference in normalized escape latency between negatively treated transgenic APOE KO (KO_t–) and untreated (KO_t0) and between KO_t–and positively treated (KO_t+).Evaluation of feature importance with random forest modeling\nA supervised machine learning technique, random forest modeling, was performed to assess the impact of twelve specific binary features on the prediction of normalized MWM escape latency, including gender (g_m = male; g_f = female, g_mi = mixed/unknown), which was not analyzed in the pairwise statistical analysis presented above.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Random forest modeling yielded the following feature importance for the prediction of superior cognition as measured via standardized and normalized MWM escape latency: [KI3, age, g_m, KI4, t0, t+, KO, WT, g_mi, t–, g_f, KI2] = [0.270, 0.094, 0.092, 0.088, 0.077, 0.074, 0.069, 0.061, 0.058, 0.054, 0.038, 0.023] (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study’s aggregate data analysis, statistical comparison of mean normalized MWM escape latency data in untreated transgenic APOE AD mice indicated that untreated knock-in APOE3 (KI3_t0, Fig. 2) mice out-performed untreated wild type mice (WT_t0, Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Like results seen in human AD risk studies on the basis of APOE isoform, untreated APOE2 knock-in (KI2_t0) transgenic AD mice had the closest normalized escape latency to untreated wild type mice (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "However, untreated APOE4 knock-in (KI4_t0, Fig. 2) and APOE knock-out (KO_t0,) transgenic AD mice performed significantly worse than wild type (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "2 and 3) and the machine learning feature importance (Fig. 4) underscored its known prominence in the AD etiology.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The random forest feature importance (Fig. 4) illustrated that mouse age (in days) was the second-most important individual feature for predicting cognitive performance as measured by MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Statistical analysis of modulatory treatments in the present study illustrated that positive treatments were able to significantly to improve cognition in wild type (WT_t+, Fig. 3b), APOE4 knock-in (KI4_t+, Fig. 3e), and APOE knock-out (KO_t+, Fig. 3f).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Positively treated APOE3 knock-in (KI3_t+, Fig. 3d) has a small, albeit insignificant improvement in MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "No prior positively treated APOE2 mouse model study data met criteria for inclusion in the present study; therefore, the impact of positive treatment on APOE2 knock-in (KI2, Fig. 3c) was unable to be assessed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study, only negative treatments for APOE4 knock-in (KI4_t–, Fig. 3e) and APOE knock-out (KO_t–, Fig. 3f) had significantly different normalized MWM escape latencies compared to untreated mice of the same genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "However, the negatively treated APOE4 knock-in (KI4_t–, Fig. 3e) ironically had improved normalized MWM escape latency compared to untreated APOE4 knock-in (KI4_t0, Fig. 3e).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The plot of random forest feature importance (Fig. 4) illustrated that the male gender (g_m) is the third-most important individual feature for predicting superior cognitive performance in the MWM.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 displays a PRISMA Flow Diagram for the present study.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 illustrates the mean escape latency in seconds for each untreated group (t0) with the error bars denoting the corresponding positive standard deviation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The colored * above each bar in Fig. 2 represents a significant pairwise comparison between the group corresponding to the labeled bar and the group corresponding to the color of the asterisk.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The untreated group (t0) for each mouse genotype is shown in each panel of Fig. 3 for visual comparison.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The asterisk (*) indicates Bonferonni-corrected pairwise statistical significance between groups (p < 0.002). a.) All mice genotypes; b.) Wild type mice; c.) Transgenic APOE2 knock-in (KI2) mice; d.) Transgenic APOE3 knock-in (KI3) mice; e.) Transgenic APOE4 knock-in (KI4) mice; f.) Transgenic APOE knockout (KO) mice.Figure 3 illustrates the impact of positive treatment (t+), negative treatment (t–), or no treatment (t0) for each mouse genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3a shows a significant pairwise difference between the normalized escape latencies of all untreated mice (all_t0) and all negatively treated mice (all_t–) as well as between all untreated mice (all_t0) and all positively treated mice (all_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel a",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3b illustrates a significant difference in normalized escape latency between untreated WT (WT_t0) and positively treated WT (WT_t+) mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3c illustrates the normalized escape latency of untreated transgenic APOE2 KI (KI2_t0) given treatment data was absent for this genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3d illustrates no significant difference in normalized escape latency between treated and untreated transgenic APOE3 KI mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3e illustrates significant pairwise differences in normalized escape latency between negatively treated transgenic APOE4 KI (KI4_t–) and untreated (KI4_t0) as well as between untreated and positively treated APOE4 KI (KI4_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3f illustrates a significant pairwise difference in normalized escape latency between negatively treated transgenic APOE KO (KO_t–) and untreated (KO_t0) and between KO_t–and positively treated (KO_t+).Evaluation of feature importance with random forest modeling\nA supervised machine learning technique, random forest modeling, was performed to assess the impact of twelve specific binary features on the prediction of normalized MWM escape latency, including gender (g_m = male; g_f = female, g_mi = mixed/unknown), which was not analyzed in the pairwise statistical analysis presented above.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Random forest modeling yielded the following feature importance for the prediction of superior cognition as measured via standardized and normalized MWM escape latency: [KI3, age, g_m, KI4, t0, t+, KO, WT, g_mi, t–, g_f, KI2] = [0.270, 0.094, 0.092, 0.088, 0.077, 0.074, 0.069, 0.061, 0.058, 0.054, 0.038, 0.023] (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study’s aggregate data analysis, statistical comparison of mean normalized MWM escape latency data in untreated transgenic APOE AD mice indicated that untreated knock-in APOE3 (KI3_t0, Fig. 2) mice out-performed untreated wild type mice (WT_t0, Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Like results seen in human AD risk studies on the basis of APOE isoform, untreated APOE2 knock-in (KI2_t0) transgenic AD mice had the closest normalized escape latency to untreated wild type mice (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "However, untreated APOE4 knock-in (KI4_t0, Fig. 2) and APOE knock-out (KO_t0,) transgenic AD mice performed significantly worse than wild type (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "2 and 3) and the machine learning feature importance (Fig. 4) underscored its known prominence in the AD etiology.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The random forest feature importance (Fig. 4) illustrated that mouse age (in days) was the second-most important individual feature for predicting cognitive performance as measured by MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Statistical analysis of modulatory treatments in the present study illustrated that positive treatments were able to significantly to improve cognition in wild type (WT_t+, Fig. 3b), APOE4 knock-in (KI4_t+, Fig. 3e), and APOE knock-out (KO_t+, Fig. 3f).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Positively treated APOE3 knock-in (KI3_t+, Fig. 3d) has a small, albeit insignificant improvement in MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "No prior positively treated APOE2 mouse model study data met criteria for inclusion in the present study; therefore, the impact of positive treatment on APOE2 knock-in (KI2, Fig. 3c) was unable to be assessed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study, only negative treatments for APOE4 knock-in (KI4_t–, Fig. 3e) and APOE knock-out (KO_t–, Fig. 3f) had significantly different normalized MWM escape latencies compared to untreated mice of the same genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "However, the negatively treated APOE4 knock-in (KI4_t–, Fig. 3e) ironically had improved normalized MWM escape latency compared to untreated APOE4 knock-in (KI4_t0, Fig. 3e).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The plot of random forest feature importance (Fig. 4) illustrated that the male gender (g_m) is the third-most important individual feature for predicting superior cognitive performance in the MWM.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 displays a PRISMA Flow Diagram for the present study.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 illustrates the mean escape latency in seconds for each untreated group (t0) with the error bars denoting the corresponding positive standard deviation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The colored * above each bar in Fig. 2 represents a significant pairwise comparison between the group corresponding to the labeled bar and the group corresponding to the color of the asterisk.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The untreated group (t0) for each mouse genotype is shown in each panel of Fig. 3 for visual comparison.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The asterisk (*) indicates Bonferonni-corrected pairwise statistical significance between groups (p < 0.002). a.) All mice genotypes; b.) Wild type mice; c.) Transgenic APOE2 knock-in (KI2) mice; d.) Transgenic APOE3 knock-in (KI3) mice; e.) Transgenic APOE4 knock-in (KI4) mice; f.) Transgenic APOE knockout (KO) mice.Figure 3 illustrates the impact of positive treatment (t+), negative treatment (t–), or no treatment (t0) for each mouse genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3a shows a significant pairwise difference between the normalized escape latencies of all untreated mice (all_t0) and all negatively treated mice (all_t–) as well as between all untreated mice (all_t0) and all positively treated mice (all_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel a",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3b illustrates a significant difference in normalized escape latency between untreated WT (WT_t0) and positively treated WT (WT_t+) mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3c illustrates the normalized escape latency of untreated transgenic APOE2 KI (KI2_t0) given treatment data was absent for this genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3d illustrates no significant difference in normalized escape latency between treated and untreated transgenic APOE3 KI mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3e illustrates significant pairwise differences in normalized escape latency between negatively treated transgenic APOE4 KI (KI4_t–) and untreated (KI4_t0) as well as between untreated and positively treated APOE4 KI (KI4_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3f illustrates a significant pairwise difference in normalized escape latency between negatively treated transgenic APOE KO (KO_t–) and untreated (KO_t0) and between KO_t–and positively treated (KO_t+).Evaluation of feature importance with random forest modeling\nA supervised machine learning technique, random forest modeling, was performed to assess the impact of twelve specific binary features on the prediction of normalized MWM escape latency, including gender (g_m = male; g_f = female, g_mi = mixed/unknown), which was not analyzed in the pairwise statistical analysis presented above.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Random forest modeling yielded the following feature importance for the prediction of superior cognition as measured via standardized and normalized MWM escape latency: [KI3, age, g_m, KI4, t0, t+, KO, WT, g_mi, t–, g_f, KI2] = [0.270, 0.094, 0.092, 0.088, 0.077, 0.074, 0.069, 0.061, 0.058, 0.054, 0.038, 0.023] (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study’s aggregate data analysis, statistical comparison of mean normalized MWM escape latency data in untreated transgenic APOE AD mice indicated that untreated knock-in APOE3 (KI3_t0, Fig. 2) mice out-performed untreated wild type mice (WT_t0, Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Like results seen in human AD risk studies on the basis of APOE isoform, untreated APOE2 knock-in (KI2_t0) transgenic AD mice had the closest normalized escape latency to untreated wild type mice (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "However, untreated APOE4 knock-in (KI4_t0, Fig. 2) and APOE knock-out (KO_t0,) transgenic AD mice performed significantly worse than wild type (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "2 and 3) and the machine learning feature importance (Fig. 4) underscored its known prominence in the AD etiology.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The random forest feature importance (Fig. 4) illustrated that mouse age (in days) was the second-most important individual feature for predicting cognitive performance as measured by MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Statistical analysis of modulatory treatments in the present study illustrated that positive treatments were able to significantly to improve cognition in wild type (WT_t+, Fig. 3b), APOE4 knock-in (KI4_t+, Fig. 3e), and APOE knock-out (KO_t+, Fig. 3f).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Positively treated APOE3 knock-in (KI3_t+, Fig. 3d) has a small, albeit insignificant improvement in MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "No prior positively treated APOE2 mouse model study data met criteria for inclusion in the present study; therefore, the impact of positive treatment on APOE2 knock-in (KI2, Fig. 3c) was unable to be assessed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study, only negative treatments for APOE4 knock-in (KI4_t–, Fig. 3e) and APOE knock-out (KO_t–, Fig. 3f) had significantly different normalized MWM escape latencies compared to untreated mice of the same genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "However, the negatively treated APOE4 knock-in (KI4_t–, Fig. 3e) ironically had improved normalized MWM escape latency compared to untreated APOE4 knock-in (KI4_t0, Fig. 3e).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The plot of random forest feature importance (Fig. 4) illustrated that the male gender (g_m) is the third-most important individual feature for predicting superior cognitive performance in the MWM.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 displays a PRISMA Flow Diagram for the present study.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 illustrates the mean escape latency in seconds for each untreated group (t0) with the error bars denoting the corresponding positive standard deviation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The colored * above each bar in Fig. 2 represents a significant pairwise comparison between the group corresponding to the labeled bar and the group corresponding to the color of the asterisk.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The untreated group (t0) for each mouse genotype is shown in each panel of Fig. 3 for visual comparison.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The asterisk (*) indicates Bonferonni-corrected pairwise statistical significance between groups (p < 0.002). a.) All mice genotypes; b.) Wild type mice; c.) Transgenic APOE2 knock-in (KI2) mice; d.) Transgenic APOE3 knock-in (KI3) mice; e.) Transgenic APOE4 knock-in (KI4) mice; f.) Transgenic APOE knockout (KO) mice.Figure 3 illustrates the impact of positive treatment (t+), negative treatment (t–), or no treatment (t0) for each mouse genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3a shows a significant pairwise difference between the normalized escape latencies of all untreated mice (all_t0) and all negatively treated mice (all_t–) as well as between all untreated mice (all_t0) and all positively treated mice (all_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel a",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3b illustrates a significant difference in normalized escape latency between untreated WT (WT_t0) and positively treated WT (WT_t+) mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3c illustrates the normalized escape latency of untreated transgenic APOE2 KI (KI2_t0) given treatment data was absent for this genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3d illustrates no significant difference in normalized escape latency between treated and untreated transgenic APOE3 KI mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3e illustrates significant pairwise differences in normalized escape latency between negatively treated transgenic APOE4 KI (KI4_t–) and untreated (KI4_t0) as well as between untreated and positively treated APOE4 KI (KI4_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3f illustrates a significant pairwise difference in normalized escape latency between negatively treated transgenic APOE KO (KO_t–) and untreated (KO_t0) and between KO_t–and positively treated (KO_t+).Evaluation of feature importance with random forest modeling\nA supervised machine learning technique, random forest modeling, was performed to assess the impact of twelve specific binary features on the prediction of normalized MWM escape latency, including gender (g_m = male; g_f = female, g_mi = mixed/unknown), which was not analyzed in the pairwise statistical analysis presented above.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Random forest modeling yielded the following feature importance for the prediction of superior cognition as measured via standardized and normalized MWM escape latency: [KI3, age, g_m, KI4, t0, t+, KO, WT, g_mi, t–, g_f, KI2] = [0.270, 0.094, 0.092, 0.088, 0.077, 0.074, 0.069, 0.061, 0.058, 0.054, 0.038, 0.023] (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study’s aggregate data analysis, statistical comparison of mean normalized MWM escape latency data in untreated transgenic APOE AD mice indicated that untreated knock-in APOE3 (KI3_t0, Fig. 2) mice out-performed untreated wild type mice (WT_t0, Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Like results seen in human AD risk studies on the basis of APOE isoform, untreated APOE2 knock-in (KI2_t0) transgenic AD mice had the closest normalized escape latency to untreated wild type mice (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "However, untreated APOE4 knock-in (KI4_t0, Fig. 2) and APOE knock-out (KO_t0,) transgenic AD mice performed significantly worse than wild type (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "2 and 3) and the machine learning feature importance (Fig. 4) underscored its known prominence in the AD etiology.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The random forest feature importance (Fig. 4) illustrated that mouse age (in days) was the second-most important individual feature for predicting cognitive performance as measured by MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Statistical analysis of modulatory treatments in the present study illustrated that positive treatments were able to significantly to improve cognition in wild type (WT_t+, Fig. 3b), APOE4 knock-in (KI4_t+, Fig. 3e), and APOE knock-out (KO_t+, Fig. 3f).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Positively treated APOE3 knock-in (KI3_t+, Fig. 3d) has a small, albeit insignificant improvement in MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "No prior positively treated APOE2 mouse model study data met criteria for inclusion in the present study; therefore, the impact of positive treatment on APOE2 knock-in (KI2, Fig. 3c) was unable to be assessed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study, only negative treatments for APOE4 knock-in (KI4_t–, Fig. 3e) and APOE knock-out (KO_t–, Fig. 3f) had significantly different normalized MWM escape latencies compared to untreated mice of the same genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "However, the negatively treated APOE4 knock-in (KI4_t–, Fig. 3e) ironically had improved normalized MWM escape latency compared to untreated APOE4 knock-in (KI4_t0, Fig. 3e).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The plot of random forest feature importance (Fig. 4) illustrated that the male gender (g_m) is the third-most important individual feature for predicting superior cognitive performance in the MWM.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 displays a PRISMA Flow Diagram for the present study.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 illustrates the mean escape latency in seconds for each untreated group (t0) with the error bars denoting the corresponding positive standard deviation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The colored * above each bar in Fig. 2 represents a significant pairwise comparison between the group corresponding to the labeled bar and the group corresponding to the color of the asterisk.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The untreated group (t0) for each mouse genotype is shown in each panel of Fig. 3 for visual comparison.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The asterisk (*) indicates Bonferonni-corrected pairwise statistical significance between groups (p < 0.002). a.) All mice genotypes; b.) Wild type mice; c.) Transgenic APOE2 knock-in (KI2) mice; d.) Transgenic APOE3 knock-in (KI3) mice; e.) Transgenic APOE4 knock-in (KI4) mice; f.) Transgenic APOE knockout (KO) mice.Figure 3 illustrates the impact of positive treatment (t+), negative treatment (t–), or no treatment (t0) for each mouse genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3a shows a significant pairwise difference between the normalized escape latencies of all untreated mice (all_t0) and all negatively treated mice (all_t–) as well as between all untreated mice (all_t0) and all positively treated mice (all_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel a",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3b illustrates a significant difference in normalized escape latency between untreated WT (WT_t0) and positively treated WT (WT_t+) mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3c illustrates the normalized escape latency of untreated transgenic APOE2 KI (KI2_t0) given treatment data was absent for this genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3d illustrates no significant difference in normalized escape latency between treated and untreated transgenic APOE3 KI mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3e illustrates significant pairwise differences in normalized escape latency between negatively treated transgenic APOE4 KI (KI4_t–) and untreated (KI4_t0) as well as between untreated and positively treated APOE4 KI (KI4_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3f illustrates a significant pairwise difference in normalized escape latency between negatively treated transgenic APOE KO (KO_t–) and untreated (KO_t0) and between KO_t–and positively treated (KO_t+).Evaluation of feature importance with random forest modeling\nA supervised machine learning technique, random forest modeling, was performed to assess the impact of twelve specific binary features on the prediction of normalized MWM escape latency, including gender (g_m = male; g_f = female, g_mi = mixed/unknown), which was not analyzed in the pairwise statistical analysis presented above.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Random forest modeling yielded the following feature importance for the prediction of superior cognition as measured via standardized and normalized MWM escape latency: [KI3, age, g_m, KI4, t0, t+, KO, WT, g_mi, t–, g_f, KI2] = [0.270, 0.094, 0.092, 0.088, 0.077, 0.074, 0.069, 0.061, 0.058, 0.054, 0.038, 0.023] (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study’s aggregate data analysis, statistical comparison of mean normalized MWM escape latency data in untreated transgenic APOE AD mice indicated that untreated knock-in APOE3 (KI3_t0, Fig. 2) mice out-performed untreated wild type mice (WT_t0, Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Like results seen in human AD risk studies on the basis of APOE isoform, untreated APOE2 knock-in (KI2_t0) transgenic AD mice had the closest normalized escape latency to untreated wild type mice (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "However, untreated APOE4 knock-in (KI4_t0, Fig. 2) and APOE knock-out (KO_t0,) transgenic AD mice performed significantly worse than wild type (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "2 and 3) and the machine learning feature importance (Fig. 4) underscored its known prominence in the AD etiology.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The random forest feature importance (Fig. 4) illustrated that mouse age (in days) was the second-most important individual feature for predicting cognitive performance as measured by MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Statistical analysis of modulatory treatments in the present study illustrated that positive treatments were able to significantly to improve cognition in wild type (WT_t+, Fig. 3b), APOE4 knock-in (KI4_t+, Fig. 3e), and APOE knock-out (KO_t+, Fig. 3f).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Positively treated APOE3 knock-in (KI3_t+, Fig. 3d) has a small, albeit insignificant improvement in MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "No prior positively treated APOE2 mouse model study data met criteria for inclusion in the present study; therefore, the impact of positive treatment on APOE2 knock-in (KI2, Fig. 3c) was unable to be assessed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study, only negative treatments for APOE4 knock-in (KI4_t–, Fig. 3e) and APOE knock-out (KO_t–, Fig. 3f) had significantly different normalized MWM escape latencies compared to untreated mice of the same genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "However, the negatively treated APOE4 knock-in (KI4_t–, Fig. 3e) ironically had improved normalized MWM escape latency compared to untreated APOE4 knock-in (KI4_t0, Fig. 3e).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The plot of random forest feature importance (Fig. 4) illustrated that the male gender (g_m) is the third-most important individual feature for predicting superior cognitive performance in the MWM.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 displays a PRISMA Flow Diagram for the present study.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 illustrates the mean escape latency in seconds for each untreated group (t0) with the error bars denoting the corresponding positive standard deviation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The colored * above each bar in Fig. 2 represents a significant pairwise comparison between the group corresponding to the labeled bar and the group corresponding to the color of the asterisk.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The untreated group (t0) for each mouse genotype is shown in each panel of Fig. 3 for visual comparison.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The asterisk (*) indicates Bonferonni-corrected pairwise statistical significance between groups (p < 0.002). a.) All mice genotypes; b.) Wild type mice; c.) Transgenic APOE2 knock-in (KI2) mice; d.) Transgenic APOE3 knock-in (KI3) mice; e.) Transgenic APOE4 knock-in (KI4) mice; f.) Transgenic APOE knockout (KO) mice.Figure 3 illustrates the impact of positive treatment (t+), negative treatment (t–), or no treatment (t0) for each mouse genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3a shows a significant pairwise difference between the normalized escape latencies of all untreated mice (all_t0) and all negatively treated mice (all_t–) as well as between all untreated mice (all_t0) and all positively treated mice (all_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel a",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3b illustrates a significant difference in normalized escape latency between untreated WT (WT_t0) and positively treated WT (WT_t+) mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3c illustrates the normalized escape latency of untreated transgenic APOE2 KI (KI2_t0) given treatment data was absent for this genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3d illustrates no significant difference in normalized escape latency between treated and untreated transgenic APOE3 KI mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3e illustrates significant pairwise differences in normalized escape latency between negatively treated transgenic APOE4 KI (KI4_t–) and untreated (KI4_t0) as well as between untreated and positively treated APOE4 KI (KI4_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3f illustrates a significant pairwise difference in normalized escape latency between negatively treated transgenic APOE KO (KO_t–) and untreated (KO_t0) and between KO_t–and positively treated (KO_t+).Evaluation of feature importance with random forest modeling\nA supervised machine learning technique, random forest modeling, was performed to assess the impact of twelve specific binary features on the prediction of normalized MWM escape latency, including gender (g_m = male; g_f = female, g_mi = mixed/unknown), which was not analyzed in the pairwise statistical analysis presented above.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Random forest modeling yielded the following feature importance for the prediction of superior cognition as measured via standardized and normalized MWM escape latency: [KI3, age, g_m, KI4, t0, t+, KO, WT, g_mi, t–, g_f, KI2] = [0.270, 0.094, 0.092, 0.088, 0.077, 0.074, 0.069, 0.061, 0.058, 0.054, 0.038, 0.023] (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study’s aggregate data analysis, statistical comparison of mean normalized MWM escape latency data in untreated transgenic APOE AD mice indicated that untreated knock-in APOE3 (KI3_t0, Fig. 2) mice out-performed untreated wild type mice (WT_t0, Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Like results seen in human AD risk studies on the basis of APOE isoform, untreated APOE2 knock-in (KI2_t0) transgenic AD mice had the closest normalized escape latency to untreated wild type mice (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "However, untreated APOE4 knock-in (KI4_t0, Fig. 2) and APOE knock-out (KO_t0,) transgenic AD mice performed significantly worse than wild type (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "2 and 3) and the machine learning feature importance (Fig. 4) underscored its known prominence in the AD etiology.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The random forest feature importance (Fig. 4) illustrated that mouse age (in days) was the second-most important individual feature for predicting cognitive performance as measured by MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Statistical analysis of modulatory treatments in the present study illustrated that positive treatments were able to significantly to improve cognition in wild type (WT_t+, Fig. 3b), APOE4 knock-in (KI4_t+, Fig. 3e), and APOE knock-out (KO_t+, Fig. 3f).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Positively treated APOE3 knock-in (KI3_t+, Fig. 3d) has a small, albeit insignificant improvement in MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "No prior positively treated APOE2 mouse model study data met criteria for inclusion in the present study; therefore, the impact of positive treatment on APOE2 knock-in (KI2, Fig. 3c) was unable to be assessed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study, only negative treatments for APOE4 knock-in (KI4_t–, Fig. 3e) and APOE knock-out (KO_t–, Fig. 3f) had significantly different normalized MWM escape latencies compared to untreated mice of the same genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "However, the negatively treated APOE4 knock-in (KI4_t–, Fig. 3e) ironically had improved normalized MWM escape latency compared to untreated APOE4 knock-in (KI4_t0, Fig. 3e).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The plot of random forest feature importance (Fig. 4) illustrated that the male gender (g_m) is the third-most important individual feature for predicting superior cognitive performance in the MWM.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 displays a PRISMA Flow Diagram for the present study.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 displays a PRISMA Flow Diagram for the present study.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 1 displays a PRISMA Flow Diagram for the present study.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 illustrates the mean escape latency in seconds for each untreated group (t0) with the error bars denoting the corresponding positive standard deviation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The colored * above each bar in Fig. 2 represents a significant pairwise comparison between the group corresponding to the labeled bar and the group corresponding to the color of the asterisk.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The untreated group (t0) for each mouse genotype is shown in each panel of Fig. 3 for visual comparison.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The asterisk (*) indicates Bonferonni-corrected pairwise statistical significance between groups (p < 0.002). a.) All mice genotypes; b.) Wild type mice; c.) Transgenic APOE2 knock-in (KI2) mice; d.) Transgenic APOE3 knock-in (KI3) mice; e.) Transgenic APOE4 knock-in (KI4) mice; f.) Transgenic APOE knockout (KO) mice.Figure 3 illustrates the impact of positive treatment (t+), negative treatment (t–), or no treatment (t0) for each mouse genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3a shows a significant pairwise difference between the normalized escape latencies of all untreated mice (all_t0) and all negatively treated mice (all_t–) as well as between all untreated mice (all_t0) and all positively treated mice (all_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel a",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3b illustrates a significant difference in normalized escape latency between untreated WT (WT_t0) and positively treated WT (WT_t+) mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3c illustrates the normalized escape latency of untreated transgenic APOE2 KI (KI2_t0) given treatment data was absent for this genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3d illustrates no significant difference in normalized escape latency between treated and untreated transgenic APOE3 KI mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3e illustrates significant pairwise differences in normalized escape latency between negatively treated transgenic APOE4 KI (KI4_t–) and untreated (KI4_t0) as well as between untreated and positively treated APOE4 KI (KI4_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3f illustrates a significant pairwise difference in normalized escape latency between negatively treated transgenic APOE KO (KO_t–) and untreated (KO_t0) and between KO_t–and positively treated (KO_t+).Evaluation of feature importance with random forest modeling\nA supervised machine learning technique, random forest modeling, was performed to assess the impact of twelve specific binary features on the prediction of normalized MWM escape latency, including gender (g_m = male; g_f = female, g_mi = mixed/unknown), which was not analyzed in the pairwise statistical analysis presented above.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Random forest modeling yielded the following feature importance for the prediction of superior cognition as measured via standardized and normalized MWM escape latency: [KI3, age, g_m, KI4, t0, t+, KO, WT, g_mi, t–, g_f, KI2] = [0.270, 0.094, 0.092, 0.088, 0.077, 0.074, 0.069, 0.061, 0.058, 0.054, 0.038, 0.023] (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 illustrates the mean escape latency in seconds for each untreated group (t0) with the error bars denoting the corresponding positive standard deviation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The colored * above each bar in Fig. 2 represents a significant pairwise comparison between the group corresponding to the labeled bar and the group corresponding to the color of the asterisk.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 2 illustrates the mean escape latency in seconds for each untreated group (t0) with the error bars denoting the corresponding positive standard deviation.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The colored * above each bar in Fig. 2 represents a significant pairwise comparison between the group corresponding to the labeled bar and the group corresponding to the color of the asterisk.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The untreated group (t0) for each mouse genotype is shown in each panel of Fig. 3 for visual comparison.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The asterisk (*) indicates Bonferonni-corrected pairwise statistical significance between groups (p < 0.002). a.) All mice genotypes; b.) Wild type mice; c.) Transgenic APOE2 knock-in (KI2) mice; d.) Transgenic APOE3 knock-in (KI3) mice; e.) Transgenic APOE4 knock-in (KI4) mice; f.) Transgenic APOE knockout (KO) mice.Figure 3 illustrates the impact of positive treatment (t+), negative treatment (t–), or no treatment (t0) for each mouse genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3a shows a significant pairwise difference between the normalized escape latencies of all untreated mice (all_t0) and all negatively treated mice (all_t–) as well as between all untreated mice (all_t0) and all positively treated mice (all_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel a",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3b illustrates a significant difference in normalized escape latency between untreated WT (WT_t0) and positively treated WT (WT_t+) mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3c illustrates the normalized escape latency of untreated transgenic APOE2 KI (KI2_t0) given treatment data was absent for this genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3d illustrates no significant difference in normalized escape latency between treated and untreated transgenic APOE3 KI mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3e illustrates significant pairwise differences in normalized escape latency between negatively treated transgenic APOE4 KI (KI4_t–) and untreated (KI4_t0) as well as between untreated and positively treated APOE4 KI (KI4_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3f illustrates a significant pairwise difference in normalized escape latency between negatively treated transgenic APOE KO (KO_t–) and untreated (KO_t0) and between KO_t–and positively treated (KO_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The untreated group (t0) for each mouse genotype is shown in each panel of Fig. 3 for visual comparison.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3 illustrates the impact of positive treatment (t+), negative treatment (t–), or no treatment (t0) for each mouse genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3a shows a significant pairwise difference between the normalized escape latencies of all untreated mice (all_t0) and all negatively treated mice (all_t–) as well as between all untreated mice (all_t0) and all positively treated mice (all_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel a",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3b illustrates a significant difference in normalized escape latency between untreated WT (WT_t0) and positively treated WT (WT_t+) mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3c illustrates the normalized escape latency of untreated transgenic APOE2 KI (KI2_t0) given treatment data was absent for this genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3d illustrates no significant difference in normalized escape latency between treated and untreated transgenic APOE3 KI mice.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3e illustrates significant pairwise differences in normalized escape latency between negatively treated transgenic APOE4 KI (KI4_t–) and untreated (KI4_t0) as well as between untreated and positively treated APOE4 KI (KI4_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Figure 3f illustrates a significant pairwise difference in normalized escape latency between negatively treated transgenic APOE KO (KO_t–) and untreated (KO_t0) and between KO_t–and positively treated (KO_t+).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Random forest modeling yielded the following feature importance for the prediction of superior cognition as measured via standardized and normalized MWM escape latency: [KI3, age, g_m, KI4, t0, t+, KO, WT, g_mi, t–, g_f, KI2] = [0.270, 0.094, 0.092, 0.088, 0.077, 0.074, 0.069, 0.061, 0.058, 0.054, 0.038, 0.023] (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Random forest modeling yielded the following feature importance for the prediction of superior cognition as measured via standardized and normalized MWM escape latency: [KI3, age, g_m, KI4, t0, t+, KO, WT, g_mi, t–, g_f, KI2] = [0.270, 0.094, 0.092, 0.088, 0.077, 0.074, 0.069, 0.061, 0.058, 0.054, 0.038, 0.023] (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study’s aggregate data analysis, statistical comparison of mean normalized MWM escape latency data in untreated transgenic APOE AD mice indicated that untreated knock-in APOE3 (KI3_t0, Fig. 2) mice out-performed untreated wild type mice (WT_t0, Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Like results seen in human AD risk studies on the basis of APOE isoform, untreated APOE2 knock-in (KI2_t0) transgenic AD mice had the closest normalized escape latency to untreated wild type mice (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "However, untreated APOE4 knock-in (KI4_t0, Fig. 2) and APOE knock-out (KO_t0,) transgenic AD mice performed significantly worse than wild type (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "2 and 3) and the machine learning feature importance (Fig. 4) underscored its known prominence in the AD etiology.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The random forest feature importance (Fig. 4) illustrated that mouse age (in days) was the second-most important individual feature for predicting cognitive performance as measured by MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Statistical analysis of modulatory treatments in the present study illustrated that positive treatments were able to significantly to improve cognition in wild type (WT_t+, Fig. 3b), APOE4 knock-in (KI4_t+, Fig. 3e), and APOE knock-out (KO_t+, Fig. 3f).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Positively treated APOE3 knock-in (KI3_t+, Fig. 3d) has a small, albeit insignificant improvement in MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "No prior positively treated APOE2 mouse model study data met criteria for inclusion in the present study; therefore, the impact of positive treatment on APOE2 knock-in (KI2, Fig. 3c) was unable to be assessed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study, only negative treatments for APOE4 knock-in (KI4_t–, Fig. 3e) and APOE knock-out (KO_t–, Fig. 3f) had significantly different normalized MWM escape latencies compared to untreated mice of the same genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "However, the negatively treated APOE4 knock-in (KI4_t–, Fig. 3e) ironically had improved normalized MWM escape latency compared to untreated APOE4 knock-in (KI4_t0, Fig. 3e).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The plot of random forest feature importance (Fig. 4) illustrated that the male gender (g_m) is the third-most important individual feature for predicting superior cognitive performance in the MWM.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study’s aggregate data analysis, statistical comparison of mean normalized MWM escape latency data in untreated transgenic APOE AD mice indicated that untreated knock-in APOE3 (KI3_t0, Fig. 2) mice out-performed untreated wild type mice (WT_t0, Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Like results seen in human AD risk studies on the basis of APOE isoform, untreated APOE2 knock-in (KI2_t0) transgenic AD mice had the closest normalized escape latency to untreated wild type mice (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "However, untreated APOE4 knock-in (KI4_t0, Fig. 2) and APOE knock-out (KO_t0,) transgenic AD mice performed significantly worse than wild type (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "2 and 3) and the machine learning feature importance (Fig. 4) underscored its known prominence in the AD etiology.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study’s aggregate data analysis, statistical comparison of mean normalized MWM escape latency data in untreated transgenic APOE AD mice indicated that untreated knock-in APOE3 (KI3_t0, Fig. 2) mice out-performed untreated wild type mice (WT_t0, Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Like results seen in human AD risk studies on the basis of APOE isoform, untreated APOE2 knock-in (KI2_t0) transgenic AD mice had the closest normalized escape latency to untreated wild type mice (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "However, untreated APOE4 knock-in (KI4_t0, Fig. 2) and APOE knock-out (KO_t0,) transgenic AD mice performed significantly worse than wild type (Fig. 2).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        },
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "2 and 3) and the machine learning feature importance (Fig. 4) underscored its known prominence in the AD etiology.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The random forest feature importance (Fig. 4) illustrated that mouse age (in days) was the second-most important individual feature for predicting cognitive performance as measured by MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The random forest feature importance (Fig. 4) illustrated that mouse age (in days) was the second-most important individual feature for predicting cognitive performance as measured by MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Statistical analysis of modulatory treatments in the present study illustrated that positive treatments were able to significantly to improve cognition in wild type (WT_t+, Fig. 3b), APOE4 knock-in (KI4_t+, Fig. 3e), and APOE knock-out (KO_t+, Fig. 3f).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Positively treated APOE3 knock-in (KI3_t+, Fig. 3d) has a small, albeit insignificant improvement in MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "No prior positively treated APOE2 mouse model study data met criteria for inclusion in the present study; therefore, the impact of positive treatment on APOE2 knock-in (KI2, Fig. 3c) was unable to be assessed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study, only negative treatments for APOE4 knock-in (KI4_t–, Fig. 3e) and APOE knock-out (KO_t–, Fig. 3f) had significantly different normalized MWM escape latencies compared to untreated mice of the same genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "However, the negatively treated APOE4 knock-in (KI4_t–, Fig. 3e) ironically had improved normalized MWM escape latency compared to untreated APOE4 knock-in (KI4_t0, Fig. 3e).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Statistical analysis of modulatory treatments in the present study illustrated that positive treatments were able to significantly to improve cognition in wild type (WT_t+, Fig. 3b), APOE4 knock-in (KI4_t+, Fig. 3e), and APOE knock-out (KO_t+, Fig. 3f).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel b",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "Positively treated APOE3 knock-in (KI3_t+, Fig. 3d) has a small, albeit insignificant improvement in MWM escape latency.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel d",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "No prior positively treated APOE2 mouse model study data met criteria for inclusion in the present study; therefore, the impact of positive treatment on APOE2 knock-in (KI2, Fig. 3c) was unable to be assessed.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel c",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "In the present study, only negative treatments for APOE4 knock-in (KI4_t–, Fig. 3e) and APOE knock-out (KO_t–, Fig. 3f) had significantly different normalized MWM escape latencies compared to untreated mice of the same genotype.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel f",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "However, the negatively treated APOE4 knock-in (KI4_t–, Fig. 3e) ironically had improved normalized MWM escape latency compared to untreated APOE4 knock-in (KI4_t0, Fig. 3e).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "Panel e",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "The plot of random forest feature importance (Fig. 4) illustrated that the male gender (g_m) is the third-most important individual feature for predicting superior cognitive performance in the MWM.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "The plot of random forest feature importance (Fig. 4) illustrated that the male gender (g_m) is the third-most important individual feature for predicting superior cognitive performance in the MWM.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 2,
+    "claims_count": 253,
+    "images_downloaded": 2,
+    "tables_filtered": 393
+  }
+}

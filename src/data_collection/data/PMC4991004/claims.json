@@ -1,0 +1,2332 @@
+[
+  {
+    "sentence": "Figure 1 shows a 2D mesh example and its corresponding contour tree.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The framework of topology-aware illumination design proposed in this paper is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison, we see that all renderings (Fig. 3d–f) from approaches presented in this paper show internal structures more clearly (e.g. structures pointed by A) than other approaches by emphasising internal structures from the illumination perspective.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel d",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Structures in Fig. 3f show larger illumination differences among structures than renderings in other figures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel f",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the comparison of renderings using various approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Similar conclusions as in Fig. 3 were got in this comparison.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "More obviously, objects rendered in Fig. 4f show higher perceptual contrast in illuminations than other figures, which allows users more easily detect structural differences and structural details.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel f",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison in Fig. 5, we see that topological illumination shows more structural details such as skin surface and brain shapes (Fig. 5b to Fig. 5d) despite conventional illumination also depicting tumours clearly.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "It is found that perceptual illumination as shown in Fig.5d creates higher and balanced perceptual contrast between objects than other illumination methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination, importance illumination emphasises structures which have high volume (thumb bones in Fig. 6b), and high persistence (kneecap in Fig. 7b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the rendering results of biological cell data set (test data from Vaa3D [1]) with different illumination approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination in Fig. 8a, importance illumination in Fig. 8b emphasises cells based on the cell volume (voxel count of a cell), which allows user to easily detect volume differences of cells via illumination variations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8c emphasises cells based on the topological depth, which allows users to percept topological differences of cell structures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d enhances the perception differences between cells so that users easily identify different cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the topological attenuation of neghip data set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "When topological attenuation is applied, we can see from the figure that object lighting is dimmed out with the decrease of lighting speed V from Fig. 9a–c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel a",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "However, different from the conventional lighting attenuation approach which applies same attenuation factor to objects based on distance only, topological attenuation also considers topological features which can be seen from Fig. 9b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 9b, objects pointed by arrows are not dimmed out as other structures because of their high persistence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows average subjective ratings of depth, shape and structural difference for different illumination methods in the rendering.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows a 2D mesh example and its corresponding contour tree.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The framework of topology-aware illumination design proposed in this paper is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison, we see that all renderings (Fig. 3d–f) from approaches presented in this paper show internal structures more clearly (e.g. structures pointed by A) than other approaches by emphasising internal structures from the illumination perspective.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel d",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Structures in Fig. 3f show larger illumination differences among structures than renderings in other figures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel f",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the comparison of renderings using various approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Similar conclusions as in Fig. 3 were got in this comparison.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "More obviously, objects rendered in Fig. 4f show higher perceptual contrast in illuminations than other figures, which allows users more easily detect structural differences and structural details.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel f",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison in Fig. 5, we see that topological illumination shows more structural details such as skin surface and brain shapes (Fig. 5b to Fig. 5d) despite conventional illumination also depicting tumours clearly.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "It is found that perceptual illumination as shown in Fig.5d creates higher and balanced perceptual contrast between objects than other illumination methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination, importance illumination emphasises structures which have high volume (thumb bones in Fig. 6b), and high persistence (kneecap in Fig. 7b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the rendering results of biological cell data set (test data from Vaa3D [1]) with different illumination approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination in Fig. 8a, importance illumination in Fig. 8b emphasises cells based on the cell volume (voxel count of a cell), which allows user to easily detect volume differences of cells via illumination variations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8c emphasises cells based on the topological depth, which allows users to percept topological differences of cell structures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d enhances the perception differences between cells so that users easily identify different cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the topological attenuation of neghip data set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "When topological attenuation is applied, we can see from the figure that object lighting is dimmed out with the decrease of lighting speed V from Fig. 9a–c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel a",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "However, different from the conventional lighting attenuation approach which applies same attenuation factor to objects based on distance only, topological attenuation also considers topological features which can be seen from Fig. 9b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 9b, objects pointed by arrows are not dimmed out as other structures because of their high persistence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows average subjective ratings of depth, shape and structural difference for different illumination methods in the rendering.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows a 2D mesh example and its corresponding contour tree.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The framework of topology-aware illumination design proposed in this paper is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison, we see that all renderings (Fig. 3d–f) from approaches presented in this paper show internal structures more clearly (e.g. structures pointed by A) than other approaches by emphasising internal structures from the illumination perspective.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel d",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Structures in Fig. 3f show larger illumination differences among structures than renderings in other figures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel f",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the comparison of renderings using various approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Similar conclusions as in Fig. 3 were got in this comparison.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "More obviously, objects rendered in Fig. 4f show higher perceptual contrast in illuminations than other figures, which allows users more easily detect structural differences and structural details.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel f",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison in Fig. 5, we see that topological illumination shows more structural details such as skin surface and brain shapes (Fig. 5b to Fig. 5d) despite conventional illumination also depicting tumours clearly.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "It is found that perceptual illumination as shown in Fig.5d creates higher and balanced perceptual contrast between objects than other illumination methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination, importance illumination emphasises structures which have high volume (thumb bones in Fig. 6b), and high persistence (kneecap in Fig. 7b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the rendering results of biological cell data set (test data from Vaa3D [1]) with different illumination approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination in Fig. 8a, importance illumination in Fig. 8b emphasises cells based on the cell volume (voxel count of a cell), which allows user to easily detect volume differences of cells via illumination variations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8c emphasises cells based on the topological depth, which allows users to percept topological differences of cell structures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d enhances the perception differences between cells so that users easily identify different cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the topological attenuation of neghip data set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "When topological attenuation is applied, we can see from the figure that object lighting is dimmed out with the decrease of lighting speed V from Fig. 9a–c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel a",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "However, different from the conventional lighting attenuation approach which applies same attenuation factor to objects based on distance only, topological attenuation also considers topological features which can be seen from Fig. 9b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 9b, objects pointed by arrows are not dimmed out as other structures because of their high persistence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows average subjective ratings of depth, shape and structural difference for different illumination methods in the rendering.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows a 2D mesh example and its corresponding contour tree.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The framework of topology-aware illumination design proposed in this paper is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison, we see that all renderings (Fig. 3d–f) from approaches presented in this paper show internal structures more clearly (e.g. structures pointed by A) than other approaches by emphasising internal structures from the illumination perspective.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel d",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Structures in Fig. 3f show larger illumination differences among structures than renderings in other figures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel f",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the comparison of renderings using various approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Similar conclusions as in Fig. 3 were got in this comparison.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "More obviously, objects rendered in Fig. 4f show higher perceptual contrast in illuminations than other figures, which allows users more easily detect structural differences and structural details.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel f",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison in Fig. 5, we see that topological illumination shows more structural details such as skin surface and brain shapes (Fig. 5b to Fig. 5d) despite conventional illumination also depicting tumours clearly.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "It is found that perceptual illumination as shown in Fig.5d creates higher and balanced perceptual contrast between objects than other illumination methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination, importance illumination emphasises structures which have high volume (thumb bones in Fig. 6b), and high persistence (kneecap in Fig. 7b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the rendering results of biological cell data set (test data from Vaa3D [1]) with different illumination approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination in Fig. 8a, importance illumination in Fig. 8b emphasises cells based on the cell volume (voxel count of a cell), which allows user to easily detect volume differences of cells via illumination variations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8c emphasises cells based on the topological depth, which allows users to percept topological differences of cell structures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d enhances the perception differences between cells so that users easily identify different cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the topological attenuation of neghip data set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "When topological attenuation is applied, we can see from the figure that object lighting is dimmed out with the decrease of lighting speed V from Fig. 9a–c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel a",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "However, different from the conventional lighting attenuation approach which applies same attenuation factor to objects based on distance only, topological attenuation also considers topological features which can be seen from Fig. 9b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 9b, objects pointed by arrows are not dimmed out as other structures because of their high persistence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows average subjective ratings of depth, shape and structural difference for different illumination methods in the rendering.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows a 2D mesh example and its corresponding contour tree.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The framework of topology-aware illumination design proposed in this paper is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison, we see that all renderings (Fig. 3d–f) from approaches presented in this paper show internal structures more clearly (e.g. structures pointed by A) than other approaches by emphasising internal structures from the illumination perspective.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel d",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Structures in Fig. 3f show larger illumination differences among structures than renderings in other figures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel f",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the comparison of renderings using various approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Similar conclusions as in Fig. 3 were got in this comparison.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "More obviously, objects rendered in Fig. 4f show higher perceptual contrast in illuminations than other figures, which allows users more easily detect structural differences and structural details.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel f",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison in Fig. 5, we see that topological illumination shows more structural details such as skin surface and brain shapes (Fig. 5b to Fig. 5d) despite conventional illumination also depicting tumours clearly.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "It is found that perceptual illumination as shown in Fig.5d creates higher and balanced perceptual contrast between objects than other illumination methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination, importance illumination emphasises structures which have high volume (thumb bones in Fig. 6b), and high persistence (kneecap in Fig. 7b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the rendering results of biological cell data set (test data from Vaa3D [1]) with different illumination approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination in Fig. 8a, importance illumination in Fig. 8b emphasises cells based on the cell volume (voxel count of a cell), which allows user to easily detect volume differences of cells via illumination variations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8c emphasises cells based on the topological depth, which allows users to percept topological differences of cell structures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d enhances the perception differences between cells so that users easily identify different cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the topological attenuation of neghip data set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "When topological attenuation is applied, we can see from the figure that object lighting is dimmed out with the decrease of lighting speed V from Fig. 9a–c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel a",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "However, different from the conventional lighting attenuation approach which applies same attenuation factor to objects based on distance only, topological attenuation also considers topological features which can be seen from Fig. 9b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 9b, objects pointed by arrows are not dimmed out as other structures because of their high persistence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows average subjective ratings of depth, shape and structural difference for different illumination methods in the rendering.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows a 2D mesh example and its corresponding contour tree.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The framework of topology-aware illumination design proposed in this paper is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison, we see that all renderings (Fig. 3d–f) from approaches presented in this paper show internal structures more clearly (e.g. structures pointed by A) than other approaches by emphasising internal structures from the illumination perspective.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel d",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Structures in Fig. 3f show larger illumination differences among structures than renderings in other figures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel f",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the comparison of renderings using various approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Similar conclusions as in Fig. 3 were got in this comparison.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "More obviously, objects rendered in Fig. 4f show higher perceptual contrast in illuminations than other figures, which allows users more easily detect structural differences and structural details.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel f",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison in Fig. 5, we see that topological illumination shows more structural details such as skin surface and brain shapes (Fig. 5b to Fig. 5d) despite conventional illumination also depicting tumours clearly.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "It is found that perceptual illumination as shown in Fig.5d creates higher and balanced perceptual contrast between objects than other illumination methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination, importance illumination emphasises structures which have high volume (thumb bones in Fig. 6b), and high persistence (kneecap in Fig. 7b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the rendering results of biological cell data set (test data from Vaa3D [1]) with different illumination approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination in Fig. 8a, importance illumination in Fig. 8b emphasises cells based on the cell volume (voxel count of a cell), which allows user to easily detect volume differences of cells via illumination variations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8c emphasises cells based on the topological depth, which allows users to percept topological differences of cell structures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d enhances the perception differences between cells so that users easily identify different cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the topological attenuation of neghip data set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "When topological attenuation is applied, we can see from the figure that object lighting is dimmed out with the decrease of lighting speed V from Fig. 9a–c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel a",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "However, different from the conventional lighting attenuation approach which applies same attenuation factor to objects based on distance only, topological attenuation also considers topological features which can be seen from Fig. 9b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 9b, objects pointed by arrows are not dimmed out as other structures because of their high persistence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows average subjective ratings of depth, shape and structural difference for different illumination methods in the rendering.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows a 2D mesh example and its corresponding contour tree.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The framework of topology-aware illumination design proposed in this paper is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison, we see that all renderings (Fig. 3d–f) from approaches presented in this paper show internal structures more clearly (e.g. structures pointed by A) than other approaches by emphasising internal structures from the illumination perspective.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel d",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Structures in Fig. 3f show larger illumination differences among structures than renderings in other figures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel f",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the comparison of renderings using various approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Similar conclusions as in Fig. 3 were got in this comparison.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "More obviously, objects rendered in Fig. 4f show higher perceptual contrast in illuminations than other figures, which allows users more easily detect structural differences and structural details.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel f",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison in Fig. 5, we see that topological illumination shows more structural details such as skin surface and brain shapes (Fig. 5b to Fig. 5d) despite conventional illumination also depicting tumours clearly.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "It is found that perceptual illumination as shown in Fig.5d creates higher and balanced perceptual contrast between objects than other illumination methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination, importance illumination emphasises structures which have high volume (thumb bones in Fig. 6b), and high persistence (kneecap in Fig. 7b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the rendering results of biological cell data set (test data from Vaa3D [1]) with different illumination approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination in Fig. 8a, importance illumination in Fig. 8b emphasises cells based on the cell volume (voxel count of a cell), which allows user to easily detect volume differences of cells via illumination variations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8c emphasises cells based on the topological depth, which allows users to percept topological differences of cell structures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d enhances the perception differences between cells so that users easily identify different cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the topological attenuation of neghip data set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "When topological attenuation is applied, we can see from the figure that object lighting is dimmed out with the decrease of lighting speed V from Fig. 9a–c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel a",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "However, different from the conventional lighting attenuation approach which applies same attenuation factor to objects based on distance only, topological attenuation also considers topological features which can be seen from Fig. 9b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 9b, objects pointed by arrows are not dimmed out as other structures because of their high persistence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows average subjective ratings of depth, shape and structural difference for different illumination methods in the rendering.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows a 2D mesh example and its corresponding contour tree.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The framework of topology-aware illumination design proposed in this paper is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison, we see that all renderings (Fig. 3d–f) from approaches presented in this paper show internal structures more clearly (e.g. structures pointed by A) than other approaches by emphasising internal structures from the illumination perspective.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel d",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Structures in Fig. 3f show larger illumination differences among structures than renderings in other figures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel f",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the comparison of renderings using various approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Similar conclusions as in Fig. 3 were got in this comparison.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "More obviously, objects rendered in Fig. 4f show higher perceptual contrast in illuminations than other figures, which allows users more easily detect structural differences and structural details.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel f",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison in Fig. 5, we see that topological illumination shows more structural details such as skin surface and brain shapes (Fig. 5b to Fig. 5d) despite conventional illumination also depicting tumours clearly.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "It is found that perceptual illumination as shown in Fig.5d creates higher and balanced perceptual contrast between objects than other illumination methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination, importance illumination emphasises structures which have high volume (thumb bones in Fig. 6b), and high persistence (kneecap in Fig. 7b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the rendering results of biological cell data set (test data from Vaa3D [1]) with different illumination approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination in Fig. 8a, importance illumination in Fig. 8b emphasises cells based on the cell volume (voxel count of a cell), which allows user to easily detect volume differences of cells via illumination variations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8c emphasises cells based on the topological depth, which allows users to percept topological differences of cell structures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d enhances the perception differences between cells so that users easily identify different cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the topological attenuation of neghip data set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "When topological attenuation is applied, we can see from the figure that object lighting is dimmed out with the decrease of lighting speed V from Fig. 9a–c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel a",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "However, different from the conventional lighting attenuation approach which applies same attenuation factor to objects based on distance only, topological attenuation also considers topological features which can be seen from Fig. 9b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 9b, objects pointed by arrows are not dimmed out as other structures because of their high persistence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows average subjective ratings of depth, shape and structural difference for different illumination methods in the rendering.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows a 2D mesh example and its corresponding contour tree.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The framework of topology-aware illumination design proposed in this paper is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows a 2D mesh example and its corresponding contour tree.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows a 2D mesh example and its corresponding contour tree.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 1 shows a 2D mesh example and its corresponding contour tree.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "The framework of topology-aware illumination design proposed in this paper is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The framework of topology-aware illumination design proposed in this paper is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The framework of topology-aware illumination design proposed in this paper is illustrated in Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison, we see that all renderings (Fig. 3d–f) from approaches presented in this paper show internal structures more clearly (e.g. structures pointed by A) than other approaches by emphasising internal structures from the illumination perspective.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel d",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Structures in Fig. 3f show larger illumination differences among structures than renderings in other figures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel f",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the comparison of renderings using various approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Similar conclusions as in Fig. 3 were got in this comparison.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "More obviously, objects rendered in Fig. 4f show higher perceptual contrast in illuminations than other figures, which allows users more easily detect structural differences and structural details.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel f",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison in Fig. 5, we see that topological illumination shows more structural details such as skin surface and brain shapes (Fig. 5b to Fig. 5d) despite conventional illumination also depicting tumours clearly.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "It is found that perceptual illumination as shown in Fig.5d creates higher and balanced perceptual contrast between objects than other illumination methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination, importance illumination emphasises structures which have high volume (thumb bones in Fig. 6b), and high persistence (kneecap in Fig. 7b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the rendering results of biological cell data set (test data from Vaa3D [1]) with different illumination approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination in Fig. 8a, importance illumination in Fig. 8b emphasises cells based on the cell volume (voxel count of a cell), which allows user to easily detect volume differences of cells via illumination variations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8c emphasises cells based on the topological depth, which allows users to percept topological differences of cell structures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d enhances the perception differences between cells so that users easily identify different cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the topological attenuation of neghip data set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "When topological attenuation is applied, we can see from the figure that object lighting is dimmed out with the decrease of lighting speed V from Fig. 9a–c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel a",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "However, different from the conventional lighting attenuation approach which applies same attenuation factor to objects based on distance only, topological attenuation also considers topological features which can be seen from Fig. 9b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 9b, objects pointed by arrows are not dimmed out as other structures because of their high persistence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows average subjective ratings of depth, shape and structural difference for different illumination methods in the rendering.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison, we see that all renderings (Fig. 3d–f) from approaches presented in this paper show internal structures more clearly (e.g. structures pointed by A) than other approaches by emphasising internal structures from the illumination perspective.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel d",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Structures in Fig. 3f show larger illumination differences among structures than renderings in other figures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel f",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the comparison of renderings using various approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Similar conclusions as in Fig. 3 were got in this comparison.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "More obviously, objects rendered in Fig. 4f show higher perceptual contrast in illuminations than other figures, which allows users more easily detect structural differences and structural details.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel f",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison in Fig. 5, we see that topological illumination shows more structural details such as skin surface and brain shapes (Fig. 5b to Fig. 5d) despite conventional illumination also depicting tumours clearly.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "It is found that perceptual illumination as shown in Fig.5d creates higher and balanced perceptual contrast between objects than other illumination methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination, importance illumination emphasises structures which have high volume (thumb bones in Fig. 6b), and high persistence (kneecap in Fig. 7b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the rendering results of biological cell data set (test data from Vaa3D [1]) with different illumination approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination in Fig. 8a, importance illumination in Fig. 8b emphasises cells based on the cell volume (voxel count of a cell), which allows user to easily detect volume differences of cells via illumination variations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8c emphasises cells based on the topological depth, which allows users to percept topological differences of cell structures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d enhances the perception differences between cells so that users easily identify different cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the topological attenuation of neghip data set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "When topological attenuation is applied, we can see from the figure that object lighting is dimmed out with the decrease of lighting speed V from Fig. 9a–c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel a",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "However, different from the conventional lighting attenuation approach which applies same attenuation factor to objects based on distance only, topological attenuation also considers topological features which can be seen from Fig. 9b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 9b, objects pointed by arrows are not dimmed out as other structures because of their high persistence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison, we see that all renderings (Fig. 3d–f) from approaches presented in this paper show internal structures more clearly (e.g. structures pointed by A) than other approaches by emphasising internal structures from the illumination perspective.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel d",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Structures in Fig. 3f show larger illumination differences among structures than renderings in other figures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "Panel f",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 4 shows the comparison of renderings using various approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Similar conclusions as in Fig. 3 were got in this comparison.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "More obviously, objects rendered in Fig. 4f show higher perceptual contrast in illuminations than other figures, which allows users more easily detect structural differences and structural details.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "Panel f",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "From the comparison in Fig. 5, we see that topological illumination shows more structural details such as skin surface and brain shapes (Fig. 5b to Fig. 5d) despite conventional illumination also depicting tumours clearly.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "It is found that perceptual illumination as shown in Fig.5d creates higher and balanced perceptual contrast between objects than other illumination methods.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel d",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination, importance illumination emphasises structures which have high volume (thumb bones in Fig. 6b), and high persistence (kneecap in Fig. 7b).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "Panel b",
+        "figure_key": "figure_6"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the rendering results of biological cell data set (test data from Vaa3D [1]) with different illumination approaches.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, compared with conventional illumination in Fig. 8a, importance illumination in Fig. 8b emphasises cells based on the cell volume (voxel count of a cell), which allows user to easily detect volume differences of cells via illumination variations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel a",
+        "figure_key": "figure_8"
+      },
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel b",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8c emphasises cells based on the topological depth, which allows users to percept topological differences of cell structures.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel c",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8d enhances the perception differences between cells so that users easily identify different cells.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "Panel d",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 9 shows the topological attenuation of neghip data set.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "When topological attenuation is applied, we can see from the figure that object lighting is dimmed out with the decrease of lighting speed V from Fig. 9a–c.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel a",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "However, different from the conventional lighting attenuation approach which applies same attenuation factor to objects based on distance only, topological attenuation also considers topological features which can be seen from Fig. 9b.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig. 9b, objects pointed by arrows are not dimmed out as other structures because of their high persistence.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "Panel b",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows average subjective ratings of depth, shape and structural difference for different illumination methods in the rendering.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 10 shows average subjective ratings of depth, shape and structural difference for different illumination methods in the rendering.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 10",
+        "panel": "",
+        "figure_key": "figure_10"
+      }
+    ]
+  }
+]

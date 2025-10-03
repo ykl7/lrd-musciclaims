@@ -1,0 +1,2192 @@
+[
+  {
+    "sentence": "The output is a machine-readable parsed reference that is composed of a metadata field type (e.g., “page”) and a value (e.g., “394–424”), as described in Fig 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "After tokenization, each token is given a label that corresponds to one of the metadata field types, as Fig 2 shows.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 3 illustrates the entire process of building the corpus.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 shows an example of the candidate references and their corresponding metadata extracted from the database.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 3 summarizes the entire process of constructing the corpus.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the pre-labeled reference in Fig 3 shows the result of automatically assigning IOB tags to the tokens of the reference string.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in the pre-labeled reference as shown in Fig 3, the tokens corresponding to the author’s name were incorrectly labeled with the “O” tags as the metadata field value for the author’s name (“W, Choi”) was different from the author’s name represented in the reference string (“Choi, W”).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Similarly, although the page numbers were represented as “329–52” in the original reference string as depicted in Fig 4, the actual metadata field value for the page was entered as “329–352.” Therefore, it is possible that the tokens corresponding to the page were incorrectly labeled with the “O” tags or only a part of the page were correctly tagged because we used the exact string-matching approach.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 5 shows a sample of this Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The annotators conducted the following steps with the given file:\nFig 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in Fig 3, O tags assigned to the author’s name, as described in the pre-labeled reference, were changed to “B-AUT” and “I-AUT.”\nIf the scope of the title was incorrect, the annotator corrected the labels for the corresponding tokens.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 6 shows an example of the predicted metadata field values.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "As described in Fig 7, our corpus was in the form of a “txt” file comprising two columns, where the first column represented the tokens corresponding to its reference string and the second column represented the IOB tags according to the corresponding tokens, and each reference was separated by a newline character.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Most of references are written in English, followed by Korean, Japanese, and Chinese.Fig 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig 6, the predicted metadata field values were stored in an Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 8 depicts the similarity scores according to the metadata field types.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig 8, the first graph represents the results for all the 12,887 references, and the others illustrate the results for the 9,539 English references and 3,348 non-English references.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe first graph shows the results for all the 12,887 references; the rest represent the results for the 9,539 English and 3,348 non-English references.Additionally, we visualized the similarity between BERT-REF1 and GROBID for the three metadata field types in the 3,348 non-English references as shown in Fig 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the similarities according to the metadata field types.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "We also visualized the similarity difference between BERT-REF1 and GROBID for the above three metadata field types in 3,348 non-English references, as shown in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 9, the red similarity points of metadata predicted by BERT-REF1 were distributed closer to 1.0 than GROBID.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "The output is a machine-readable parsed reference that is composed of a metadata field type (e.g., “page”) and a value (e.g., “394–424”), as described in Fig 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "After tokenization, each token is given a label that corresponds to one of the metadata field types, as Fig 2 shows.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 3 illustrates the entire process of building the corpus.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 shows an example of the candidate references and their corresponding metadata extracted from the database.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 3 summarizes the entire process of constructing the corpus.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the pre-labeled reference in Fig 3 shows the result of automatically assigning IOB tags to the tokens of the reference string.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in the pre-labeled reference as shown in Fig 3, the tokens corresponding to the author’s name were incorrectly labeled with the “O” tags as the metadata field value for the author’s name (“W, Choi”) was different from the author’s name represented in the reference string (“Choi, W”).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Similarly, although the page numbers were represented as “329–52” in the original reference string as depicted in Fig 4, the actual metadata field value for the page was entered as “329–352.” Therefore, it is possible that the tokens corresponding to the page were incorrectly labeled with the “O” tags or only a part of the page were correctly tagged because we used the exact string-matching approach.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 5 shows a sample of this Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The annotators conducted the following steps with the given file:\nFig 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in Fig 3, O tags assigned to the author’s name, as described in the pre-labeled reference, were changed to “B-AUT” and “I-AUT.”\nIf the scope of the title was incorrect, the annotator corrected the labels for the corresponding tokens.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 6 shows an example of the predicted metadata field values.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "As described in Fig 7, our corpus was in the form of a “txt” file comprising two columns, where the first column represented the tokens corresponding to its reference string and the second column represented the IOB tags according to the corresponding tokens, and each reference was separated by a newline character.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Most of references are written in English, followed by Korean, Japanese, and Chinese.Fig 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig 6, the predicted metadata field values were stored in an Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 8 depicts the similarity scores according to the metadata field types.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig 8, the first graph represents the results for all the 12,887 references, and the others illustrate the results for the 9,539 English references and 3,348 non-English references.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe first graph shows the results for all the 12,887 references; the rest represent the results for the 9,539 English and 3,348 non-English references.Additionally, we visualized the similarity between BERT-REF1 and GROBID for the three metadata field types in the 3,348 non-English references as shown in Fig 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the similarities according to the metadata field types.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "We also visualized the similarity difference between BERT-REF1 and GROBID for the above three metadata field types in 3,348 non-English references, as shown in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 9, the red similarity points of metadata predicted by BERT-REF1 were distributed closer to 1.0 than GROBID.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "The output is a machine-readable parsed reference that is composed of a metadata field type (e.g., “page”) and a value (e.g., “394–424”), as described in Fig 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "After tokenization, each token is given a label that corresponds to one of the metadata field types, as Fig 2 shows.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 3 illustrates the entire process of building the corpus.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 shows an example of the candidate references and their corresponding metadata extracted from the database.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 3 summarizes the entire process of constructing the corpus.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the pre-labeled reference in Fig 3 shows the result of automatically assigning IOB tags to the tokens of the reference string.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in the pre-labeled reference as shown in Fig 3, the tokens corresponding to the author’s name were incorrectly labeled with the “O” tags as the metadata field value for the author’s name (“W, Choi”) was different from the author’s name represented in the reference string (“Choi, W”).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Similarly, although the page numbers were represented as “329–52” in the original reference string as depicted in Fig 4, the actual metadata field value for the page was entered as “329–352.” Therefore, it is possible that the tokens corresponding to the page were incorrectly labeled with the “O” tags or only a part of the page were correctly tagged because we used the exact string-matching approach.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 5 shows a sample of this Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The annotators conducted the following steps with the given file:\nFig 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in Fig 3, O tags assigned to the author’s name, as described in the pre-labeled reference, were changed to “B-AUT” and “I-AUT.”\nIf the scope of the title was incorrect, the annotator corrected the labels for the corresponding tokens.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 6 shows an example of the predicted metadata field values.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "As described in Fig 7, our corpus was in the form of a “txt” file comprising two columns, where the first column represented the tokens corresponding to its reference string and the second column represented the IOB tags according to the corresponding tokens, and each reference was separated by a newline character.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Most of references are written in English, followed by Korean, Japanese, and Chinese.Fig 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig 6, the predicted metadata field values were stored in an Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 8 depicts the similarity scores according to the metadata field types.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig 8, the first graph represents the results for all the 12,887 references, and the others illustrate the results for the 9,539 English references and 3,348 non-English references.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe first graph shows the results for all the 12,887 references; the rest represent the results for the 9,539 English and 3,348 non-English references.Additionally, we visualized the similarity between BERT-REF1 and GROBID for the three metadata field types in the 3,348 non-English references as shown in Fig 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the similarities according to the metadata field types.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "We also visualized the similarity difference between BERT-REF1 and GROBID for the above three metadata field types in 3,348 non-English references, as shown in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 9, the red similarity points of metadata predicted by BERT-REF1 were distributed closer to 1.0 than GROBID.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "The output is a machine-readable parsed reference that is composed of a metadata field type (e.g., “page”) and a value (e.g., “394–424”), as described in Fig 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "After tokenization, each token is given a label that corresponds to one of the metadata field types, as Fig 2 shows.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 3 illustrates the entire process of building the corpus.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 shows an example of the candidate references and their corresponding metadata extracted from the database.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 3 summarizes the entire process of constructing the corpus.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the pre-labeled reference in Fig 3 shows the result of automatically assigning IOB tags to the tokens of the reference string.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in the pre-labeled reference as shown in Fig 3, the tokens corresponding to the author’s name were incorrectly labeled with the “O” tags as the metadata field value for the author’s name (“W, Choi”) was different from the author’s name represented in the reference string (“Choi, W”).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Similarly, although the page numbers were represented as “329–52” in the original reference string as depicted in Fig 4, the actual metadata field value for the page was entered as “329–352.” Therefore, it is possible that the tokens corresponding to the page were incorrectly labeled with the “O” tags or only a part of the page were correctly tagged because we used the exact string-matching approach.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 5 shows a sample of this Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The annotators conducted the following steps with the given file:\nFig 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in Fig 3, O tags assigned to the author’s name, as described in the pre-labeled reference, were changed to “B-AUT” and “I-AUT.”\nIf the scope of the title was incorrect, the annotator corrected the labels for the corresponding tokens.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 6 shows an example of the predicted metadata field values.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "As described in Fig 7, our corpus was in the form of a “txt” file comprising two columns, where the first column represented the tokens corresponding to its reference string and the second column represented the IOB tags according to the corresponding tokens, and each reference was separated by a newline character.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Most of references are written in English, followed by Korean, Japanese, and Chinese.Fig 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig 6, the predicted metadata field values were stored in an Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 8 depicts the similarity scores according to the metadata field types.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig 8, the first graph represents the results for all the 12,887 references, and the others illustrate the results for the 9,539 English references and 3,348 non-English references.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe first graph shows the results for all the 12,887 references; the rest represent the results for the 9,539 English and 3,348 non-English references.Additionally, we visualized the similarity between BERT-REF1 and GROBID for the three metadata field types in the 3,348 non-English references as shown in Fig 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the similarities according to the metadata field types.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "We also visualized the similarity difference between BERT-REF1 and GROBID for the above three metadata field types in 3,348 non-English references, as shown in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 9, the red similarity points of metadata predicted by BERT-REF1 were distributed closer to 1.0 than GROBID.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "The output is a machine-readable parsed reference that is composed of a metadata field type (e.g., “page”) and a value (e.g., “394–424”), as described in Fig 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "After tokenization, each token is given a label that corresponds to one of the metadata field types, as Fig 2 shows.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 3 illustrates the entire process of building the corpus.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 shows an example of the candidate references and their corresponding metadata extracted from the database.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 3 summarizes the entire process of constructing the corpus.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the pre-labeled reference in Fig 3 shows the result of automatically assigning IOB tags to the tokens of the reference string.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in the pre-labeled reference as shown in Fig 3, the tokens corresponding to the author’s name were incorrectly labeled with the “O” tags as the metadata field value for the author’s name (“W, Choi”) was different from the author’s name represented in the reference string (“Choi, W”).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Similarly, although the page numbers were represented as “329–52” in the original reference string as depicted in Fig 4, the actual metadata field value for the page was entered as “329–352.” Therefore, it is possible that the tokens corresponding to the page were incorrectly labeled with the “O” tags or only a part of the page were correctly tagged because we used the exact string-matching approach.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 5 shows a sample of this Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The annotators conducted the following steps with the given file:\nFig 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in Fig 3, O tags assigned to the author’s name, as described in the pre-labeled reference, were changed to “B-AUT” and “I-AUT.”\nIf the scope of the title was incorrect, the annotator corrected the labels for the corresponding tokens.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 6 shows an example of the predicted metadata field values.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "As described in Fig 7, our corpus was in the form of a “txt” file comprising two columns, where the first column represented the tokens corresponding to its reference string and the second column represented the IOB tags according to the corresponding tokens, and each reference was separated by a newline character.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Most of references are written in English, followed by Korean, Japanese, and Chinese.Fig 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig 6, the predicted metadata field values were stored in an Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 8 depicts the similarity scores according to the metadata field types.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig 8, the first graph represents the results for all the 12,887 references, and the others illustrate the results for the 9,539 English references and 3,348 non-English references.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe first graph shows the results for all the 12,887 references; the rest represent the results for the 9,539 English and 3,348 non-English references.Additionally, we visualized the similarity between BERT-REF1 and GROBID for the three metadata field types in the 3,348 non-English references as shown in Fig 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the similarities according to the metadata field types.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "We also visualized the similarity difference between BERT-REF1 and GROBID for the above three metadata field types in 3,348 non-English references, as shown in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 9, the red similarity points of metadata predicted by BERT-REF1 were distributed closer to 1.0 than GROBID.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "The output is a machine-readable parsed reference that is composed of a metadata field type (e.g., “page”) and a value (e.g., “394–424”), as described in Fig 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "After tokenization, each token is given a label that corresponds to one of the metadata field types, as Fig 2 shows.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 3 illustrates the entire process of building the corpus.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 shows an example of the candidate references and their corresponding metadata extracted from the database.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 3 summarizes the entire process of constructing the corpus.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the pre-labeled reference in Fig 3 shows the result of automatically assigning IOB tags to the tokens of the reference string.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in the pre-labeled reference as shown in Fig 3, the tokens corresponding to the author’s name were incorrectly labeled with the “O” tags as the metadata field value for the author’s name (“W, Choi”) was different from the author’s name represented in the reference string (“Choi, W”).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Similarly, although the page numbers were represented as “329–52” in the original reference string as depicted in Fig 4, the actual metadata field value for the page was entered as “329–352.” Therefore, it is possible that the tokens corresponding to the page were incorrectly labeled with the “O” tags or only a part of the page were correctly tagged because we used the exact string-matching approach.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 5 shows a sample of this Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The annotators conducted the following steps with the given file:\nFig 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in Fig 3, O tags assigned to the author’s name, as described in the pre-labeled reference, were changed to “B-AUT” and “I-AUT.”\nIf the scope of the title was incorrect, the annotator corrected the labels for the corresponding tokens.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 6 shows an example of the predicted metadata field values.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "As described in Fig 7, our corpus was in the form of a “txt” file comprising two columns, where the first column represented the tokens corresponding to its reference string and the second column represented the IOB tags according to the corresponding tokens, and each reference was separated by a newline character.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Most of references are written in English, followed by Korean, Japanese, and Chinese.Fig 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig 6, the predicted metadata field values were stored in an Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 8 depicts the similarity scores according to the metadata field types.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig 8, the first graph represents the results for all the 12,887 references, and the others illustrate the results for the 9,539 English references and 3,348 non-English references.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe first graph shows the results for all the 12,887 references; the rest represent the results for the 9,539 English and 3,348 non-English references.Additionally, we visualized the similarity between BERT-REF1 and GROBID for the three metadata field types in the 3,348 non-English references as shown in Fig 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the similarities according to the metadata field types.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "We also visualized the similarity difference between BERT-REF1 and GROBID for the above three metadata field types in 3,348 non-English references, as shown in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 9, the red similarity points of metadata predicted by BERT-REF1 were distributed closer to 1.0 than GROBID.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "The output is a machine-readable parsed reference that is composed of a metadata field type (e.g., “page”) and a value (e.g., “394–424”), as described in Fig 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "After tokenization, each token is given a label that corresponds to one of the metadata field types, as Fig 2 shows.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 3 illustrates the entire process of building the corpus.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 shows an example of the candidate references and their corresponding metadata extracted from the database.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 3 summarizes the entire process of constructing the corpus.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the pre-labeled reference in Fig 3 shows the result of automatically assigning IOB tags to the tokens of the reference string.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in the pre-labeled reference as shown in Fig 3, the tokens corresponding to the author’s name were incorrectly labeled with the “O” tags as the metadata field value for the author’s name (“W, Choi”) was different from the author’s name represented in the reference string (“Choi, W”).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Similarly, although the page numbers were represented as “329–52” in the original reference string as depicted in Fig 4, the actual metadata field value for the page was entered as “329–352.” Therefore, it is possible that the tokens corresponding to the page were incorrectly labeled with the “O” tags or only a part of the page were correctly tagged because we used the exact string-matching approach.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 5 shows a sample of this Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The annotators conducted the following steps with the given file:\nFig 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in Fig 3, O tags assigned to the author’s name, as described in the pre-labeled reference, were changed to “B-AUT” and “I-AUT.”\nIf the scope of the title was incorrect, the annotator corrected the labels for the corresponding tokens.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 6 shows an example of the predicted metadata field values.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "As described in Fig 7, our corpus was in the form of a “txt” file comprising two columns, where the first column represented the tokens corresponding to its reference string and the second column represented the IOB tags according to the corresponding tokens, and each reference was separated by a newline character.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Most of references are written in English, followed by Korean, Japanese, and Chinese.Fig 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig 6, the predicted metadata field values were stored in an Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 8 depicts the similarity scores according to the metadata field types.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig 8, the first graph represents the results for all the 12,887 references, and the others illustrate the results for the 9,539 English references and 3,348 non-English references.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe first graph shows the results for all the 12,887 references; the rest represent the results for the 9,539 English and 3,348 non-English references.Additionally, we visualized the similarity between BERT-REF1 and GROBID for the three metadata field types in the 3,348 non-English references as shown in Fig 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the similarities according to the metadata field types.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "We also visualized the similarity difference between BERT-REF1 and GROBID for the above three metadata field types in 3,348 non-English references, as shown in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 9, the red similarity points of metadata predicted by BERT-REF1 were distributed closer to 1.0 than GROBID.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "The output is a machine-readable parsed reference that is composed of a metadata field type (e.g., “page”) and a value (e.g., “394–424”), as described in Fig 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "After tokenization, each token is given a label that corresponds to one of the metadata field types, as Fig 2 shows.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 3 illustrates the entire process of building the corpus.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 shows an example of the candidate references and their corresponding metadata extracted from the database.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 3 summarizes the entire process of constructing the corpus.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the pre-labeled reference in Fig 3 shows the result of automatically assigning IOB tags to the tokens of the reference string.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in the pre-labeled reference as shown in Fig 3, the tokens corresponding to the author’s name were incorrectly labeled with the “O” tags as the metadata field value for the author’s name (“W, Choi”) was different from the author’s name represented in the reference string (“Choi, W”).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Similarly, although the page numbers were represented as “329–52” in the original reference string as depicted in Fig 4, the actual metadata field value for the page was entered as “329–352.” Therefore, it is possible that the tokens corresponding to the page were incorrectly labeled with the “O” tags or only a part of the page were correctly tagged because we used the exact string-matching approach.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 5 shows a sample of this Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The annotators conducted the following steps with the given file:\nFig 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in Fig 3, O tags assigned to the author’s name, as described in the pre-labeled reference, were changed to “B-AUT” and “I-AUT.”\nIf the scope of the title was incorrect, the annotator corrected the labels for the corresponding tokens.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 6 shows an example of the predicted metadata field values.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "As described in Fig 7, our corpus was in the form of a “txt” file comprising two columns, where the first column represented the tokens corresponding to its reference string and the second column represented the IOB tags according to the corresponding tokens, and each reference was separated by a newline character.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Most of references are written in English, followed by Korean, Japanese, and Chinese.Fig 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig 6, the predicted metadata field values were stored in an Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 8 depicts the similarity scores according to the metadata field types.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig 8, the first graph represents the results for all the 12,887 references, and the others illustrate the results for the 9,539 English references and 3,348 non-English references.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe first graph shows the results for all the 12,887 references; the rest represent the results for the 9,539 English and 3,348 non-English references.Additionally, we visualized the similarity between BERT-REF1 and GROBID for the three metadata field types in the 3,348 non-English references as shown in Fig 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "The output is a machine-readable parsed reference that is composed of a metadata field type (e.g., “page”) and a value (e.g., “394–424”), as described in Fig 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "After tokenization, each token is given a label that corresponds to one of the metadata field types, as Fig 2 shows.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "The output is a machine-readable parsed reference that is composed of a metadata field type (e.g., “page”) and a value (e.g., “394–424”), as described in Fig 1.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 1",
+        "panel": "",
+        "figure_key": "figure_1"
+      }
+    ]
+  },
+  {
+    "sentence": "After tokenization, each token is given a label that corresponds to one of the metadata field types, as Fig 2 shows.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 3 illustrates the entire process of building the corpus.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 shows an example of the candidate references and their corresponding metadata extracted from the database.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 3 summarizes the entire process of constructing the corpus.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the pre-labeled reference in Fig 3 shows the result of automatically assigning IOB tags to the tokens of the reference string.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in the pre-labeled reference as shown in Fig 3, the tokens corresponding to the author’s name were incorrectly labeled with the “O” tags as the metadata field value for the author’s name (“W, Choi”) was different from the author’s name represented in the reference string (“Choi, W”).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Similarly, although the page numbers were represented as “329–52” in the original reference string as depicted in Fig 4, the actual metadata field value for the page was entered as “329–352.” Therefore, it is possible that the tokens corresponding to the page were incorrectly labeled with the “O” tags or only a part of the page were correctly tagged because we used the exact string-matching approach.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 5 shows a sample of this Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The annotators conducted the following steps with the given file:\nFig 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in Fig 3, O tags assigned to the author’s name, as described in the pre-labeled reference, were changed to “B-AUT” and “I-AUT.”\nIf the scope of the title was incorrect, the annotator corrected the labels for the corresponding tokens.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 6 shows an example of the predicted metadata field values.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 3 illustrates the entire process of building the corpus.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 shows an example of the candidate references and their corresponding metadata extracted from the database.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 4 shows an example of the candidate references and their corresponding metadata extracted from the database.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 3 summarizes the entire process of constructing the corpus.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the pre-labeled reference in Fig 3 shows the result of automatically assigning IOB tags to the tokens of the reference string.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in the pre-labeled reference as shown in Fig 3, the tokens corresponding to the author’s name were incorrectly labeled with the “O” tags as the metadata field value for the author’s name (“W, Choi”) was different from the author’s name represented in the reference string (“Choi, W”).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Similarly, although the page numbers were represented as “329–52” in the original reference string as depicted in Fig 4, the actual metadata field value for the page was entered as “329–352.” Therefore, it is possible that the tokens corresponding to the page were incorrectly labeled with the “O” tags or only a part of the page were correctly tagged because we used the exact string-matching approach.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 5 shows a sample of this Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "The annotators conducted the following steps with the given file:\nFig 5.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 3 summarizes the entire process of constructing the corpus.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the pre-labeled reference in Fig 3 shows the result of automatically assigning IOB tags to the tokens of the reference string.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in the pre-labeled reference as shown in Fig 3, the tokens corresponding to the author’s name were incorrectly labeled with the “O” tags as the metadata field value for the author’s name (“W, Choi”) was different from the author’s name represented in the reference string (“Choi, W”).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Similarly, although the page numbers were represented as “329–52” in the original reference string as depicted in Fig 4, the actual metadata field value for the page was entered as “329–352.” Therefore, it is possible that the tokens corresponding to the page were incorrectly labeled with the “O” tags or only a part of the page were correctly tagged because we used the exact string-matching approach.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 5 shows a sample of this Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in Fig 3, O tags assigned to the author’s name, as described in the pre-labeled reference, were changed to “B-AUT” and “I-AUT.”\nIf the scope of the title was incorrect, the annotator corrected the labels for the corresponding tokens.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in Fig 3, O tags assigned to the author’s name, as described in the pre-labeled reference, were changed to “B-AUT” and “I-AUT.”\nIf the scope of the title was incorrect, the annotator corrected the labels for the corresponding tokens.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, in Fig 3, O tags assigned to the author’s name, as described in the pre-labeled reference, were changed to “B-AUT” and “I-AUT.”.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 6 shows an example of the predicted metadata field values.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 6 shows an example of the predicted metadata field values.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "As described in Fig 7, our corpus was in the form of a “txt” file comprising two columns, where the first column represented the tokens corresponding to its reference string and the second column represented the IOB tags according to the corresponding tokens, and each reference was separated by a newline character.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Most of references are written in English, followed by Korean, Japanese, and Chinese.Fig 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig 6, the predicted metadata field values were stored in an Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 8 depicts the similarity scores according to the metadata field types.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig 8, the first graph represents the results for all the 12,887 references, and the others illustrate the results for the 9,539 English references and 3,348 non-English references.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe first graph shows the results for all the 12,887 references; the rest represent the results for the 9,539 English and 3,348 non-English references.Additionally, we visualized the similarity between BERT-REF1 and GROBID for the three metadata field types in the 3,348 non-English references as shown in Fig 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "As described in Fig 7, our corpus was in the form of a “txt” file comprising two columns, where the first column represented the tokens corresponding to its reference string and the second column represented the IOB tags according to the corresponding tokens, and each reference was separated by a newline character.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig 6, the predicted metadata field values were stored in an Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 8 depicts the similarity scores according to the metadata field types.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig 8, the first graph represents the results for all the 12,887 references, and the others illustrate the results for the 9,539 English references and 3,348 non-English references.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\nThe first graph shows the results for all the 12,887 references; the rest represent the results for the 9,539 English and 3,348 non-English references.Additionally, we visualized the similarity between BERT-REF1 and GROBID for the three metadata field types in the 3,348 non-English references as shown in Fig 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "As shown in Fig 6, the predicted metadata field values were stored in an Excel file.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 6",
+        "panel": "",
+        "figure_key": "figure_6"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig 8 depicts the similarity scores according to the metadata field types.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "In Fig 8, the first graph represents the results for all the 12,887 references, and the others illustrate the results for the 9,539 English references and 3,348 non-English references.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "Additionally, we visualized the similarity between BERT-REF1 and GROBID for the three metadata field types in the 3,348 non-English references as shown in Fig 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the similarities according to the metadata field types.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "We also visualized the similarity difference between BERT-REF1 and GROBID for the above three metadata field types in 3,348 non-English references, as shown in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 9, the red similarity points of metadata predicted by BERT-REF1 were distributed closer to 1.0 than GROBID.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "Figure 8 shows the similarities according to the metadata field types.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "We also visualized the similarity difference between BERT-REF1 and GROBID for the above three metadata field types in 3,348 non-English references, as shown in Figure 9.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  },
+  {
+    "sentence": "In Figure 9, the red similarity points of metadata predicted by BERT-REF1 were distributed closer to 1.0 than GROBID.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 9",
+        "panel": "",
+        "figure_key": "figure_9"
+      }
+    ]
+  }
+]

@@ -1,0 +1,881 @@
+{
+  "paper_id": "PMC7563580",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7563580/",
+  "figures": {
+    "figure_0001": {
+      "figure_number": "Figure 0001",
+      "title": "Figure 1.",
+      "caption": "Sample lecture slide. Sample lecture slide from AI-RADS Lecture 3: K-Nearest Neighbor.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f5f1/7563580/9ea9d5e49865/gr1_lrg.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f5f1/7563580/9ea9d5e49865/gr1_lrg.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f5f1/7563580/9ea9d5e49865/gr1_lrg.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f5f1/7563580/9ea9d5e49865/gr1_lrg.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig0001",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f5f1/7563580/9ea9d5e49865/gr1_lrg.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC7563580/images/figure_0001.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f5f1/7563580/9ea9d5e49865/gr1_lrg.jpg"
+    },
+    "figure_0002": {
+      "figure_number": "Figure 0002",
+      "title": "Figure 2.",
+      "caption": "Curriculum. Overall AI-RADS course objectives.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f5f1/7563580/94f9c9acbc85/gr2_lrg.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f5f1/7563580/94f9c9acbc85/gr2_lrg.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f5f1/7563580/94f9c9acbc85/gr2_lrg.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f5f1/7563580/94f9c9acbc85/gr2_lrg.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig0002",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f5f1/7563580/94f9c9acbc85/gr2_lrg.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC7563580/images/figure_0002.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f5f1/7563580/94f9c9acbc85/gr2_lrg.jpg"
+    },
+    "figure_0003": {
+      "figure_number": "Figure 0003",
+      "title": "Figure 3.",
+      "caption": "Degree of confidence in reading an AI in radiology journal article. Learners were asked before and after each lecture their degree of comfort (1 = not confident, 5 = extremely confident) reading scientific literature utilizing the algorithm described in each lecture. The violin graph above demonstrates the individual responses (dots). The shape of each plot corresponds to the relative distribution of responses in each category, where width correlates with number of responses. The corresponding table displays the results of using Wilcoxon signed rank test to compare pre- and postlecture data.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f5f1/7563580/fb210892d315/gr3_lrg.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f5f1/7563580/fb210892d315/gr3_lrg.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f5f1/7563580/fb210892d315/gr3_lrg.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f5f1/7563580/fb210892d315/gr3_lrg.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig0003",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f5f1/7563580/fb210892d315/gr3_lrg.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC7563580/images/figure_0003.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f5f1/7563580/fb210892d315/gr3_lrg.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "Algorithms were introduced as a string of observations surrounding common problems modern computing has attempted to solve and were initially introduced as familiar anchoring examples such as spam filters, movie recommendations, fraud detection, etc. (Fig. 1\n).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The lectures built on each other's concepts sequentially and were presented as logical extensions of one another (Fig. 2\n).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Sample lecture slide from AI-RADS Lecture 3: K-Nearest Neighbor.Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The corresponding table displays the results of using Wilcoxon signed rank test to compare pre- and postlecture data.Figure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "With the exception of Lecture 7, resident confidence in their ability to read an artificial intelligence related journal article in radiology statistically increased after each lecture (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "With the content-related questions, learners’ perceived ability to explain these concepts showed a marked increase from before to after each didactic session (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Algorithms were introduced as a string of observations surrounding common problems modern computing has attempted to solve and were initially introduced as familiar anchoring examples such as spam filters, movie recommendations, fraud detection, etc. (Fig. 1\n).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The lectures built on each other's concepts sequentially and were presented as logical extensions of one another (Fig. 2\n).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Sample lecture slide from AI-RADS Lecture 3: K-Nearest Neighbor.Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The corresponding table displays the results of using Wilcoxon signed rank test to compare pre- and postlecture data.Figure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "With the exception of Lecture 7, resident confidence in their ability to read an artificial intelligence related journal article in radiology statistically increased after each lecture (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "With the content-related questions, learners’ perceived ability to explain these concepts showed a marked increase from before to after each didactic session (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Algorithms were introduced as a string of observations surrounding common problems modern computing has attempted to solve and were initially introduced as familiar anchoring examples such as spam filters, movie recommendations, fraud detection, etc. (Fig. 1\n).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The lectures built on each other's concepts sequentially and were presented as logical extensions of one another (Fig. 2\n).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Sample lecture slide from AI-RADS Lecture 3: K-Nearest Neighbor.Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The corresponding table displays the results of using Wilcoxon signed rank test to compare pre- and postlecture data.Figure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "With the exception of Lecture 7, resident confidence in their ability to read an artificial intelligence related journal article in radiology statistically increased after each lecture (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "With the content-related questions, learners’ perceived ability to explain these concepts showed a marked increase from before to after each didactic session (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Algorithms were introduced as a string of observations surrounding common problems modern computing has attempted to solve and were initially introduced as familiar anchoring examples such as spam filters, movie recommendations, fraud detection, etc. (Fig. 1\n).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The lectures built on each other's concepts sequentially and were presented as logical extensions of one another (Fig. 2\n).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Sample lecture slide from AI-RADS Lecture 3: K-Nearest Neighbor.Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The corresponding table displays the results of using Wilcoxon signed rank test to compare pre- and postlecture data.Figure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "With the exception of Lecture 7, resident confidence in their ability to read an artificial intelligence related journal article in radiology statistically increased after each lecture (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "With the content-related questions, learners’ perceived ability to explain these concepts showed a marked increase from before to after each didactic session (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Algorithms were introduced as a string of observations surrounding common problems modern computing has attempted to solve and were initially introduced as familiar anchoring examples such as spam filters, movie recommendations, fraud detection, etc. (Fig. 1\n).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The lectures built on each other's concepts sequentially and were presented as logical extensions of one another (Fig. 2\n).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Sample lecture slide from AI-RADS Lecture 3: K-Nearest Neighbor.Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The corresponding table displays the results of using Wilcoxon signed rank test to compare pre- and postlecture data.Figure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "With the exception of Lecture 7, resident confidence in their ability to read an artificial intelligence related journal article in radiology statistically increased after each lecture (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "With the content-related questions, learners’ perceived ability to explain these concepts showed a marked increase from before to after each didactic session (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Algorithms were introduced as a string of observations surrounding common problems modern computing has attempted to solve and were initially introduced as familiar anchoring examples such as spam filters, movie recommendations, fraud detection, etc. (Fig. 1\n).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The lectures built on each other's concepts sequentially and were presented as logical extensions of one another (Fig. 2\n).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Sample lecture slide from AI-RADS Lecture 3: K-Nearest Neighbor.Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The corresponding table displays the results of using Wilcoxon signed rank test to compare pre- and postlecture data.Figure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "With the exception of Lecture 7, resident confidence in their ability to read an artificial intelligence related journal article in radiology statistically increased after each lecture (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "With the content-related questions, learners’ perceived ability to explain these concepts showed a marked increase from before to after each didactic session (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Algorithms were introduced as a string of observations surrounding common problems modern computing has attempted to solve and were initially introduced as familiar anchoring examples such as spam filters, movie recommendations, fraud detection, etc. (Fig. 1\n).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The lectures built on each other's concepts sequentially and were presented as logical extensions of one another (Fig. 2\n).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Sample lecture slide from AI-RADS Lecture 3: K-Nearest Neighbor.Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The corresponding table displays the results of using Wilcoxon signed rank test to compare pre- and postlecture data.Figure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "With the exception of Lecture 7, resident confidence in their ability to read an artificial intelligence related journal article in radiology statistically increased after each lecture (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "With the content-related questions, learners’ perceived ability to explain these concepts showed a marked increase from before to after each didactic session (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Algorithms were introduced as a string of observations surrounding common problems modern computing has attempted to solve and were initially introduced as familiar anchoring examples such as spam filters, movie recommendations, fraud detection, etc. (Fig. 1\n).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The lectures built on each other's concepts sequentially and were presented as logical extensions of one another (Fig. 2\n).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Sample lecture slide from AI-RADS Lecture 3: K-Nearest Neighbor.Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The corresponding table displays the results of using Wilcoxon signed rank test to compare pre- and postlecture data.Figure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "With the exception of Lecture 7, resident confidence in their ability to read an artificial intelligence related journal article in radiology statistically increased after each lecture (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "With the content-related questions, learners’ perceived ability to explain these concepts showed a marked increase from before to after each didactic session (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "Algorithms were introduced as a string of observations surrounding common problems modern computing has attempted to solve and were initially introduced as familiar anchoring examples such as spam filters, movie recommendations, fraud detection, etc. (Fig. 1\n).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The lectures built on each other's concepts sequentially and were presented as logical extensions of one another (Fig. 2\n).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Sample lecture slide from AI-RADS Lecture 3: K-Nearest Neighbor.Figure 2.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Algorithms were introduced as a string of observations surrounding common problems modern computing has attempted to solve and were initially introduced as familiar anchoring examples such as spam filters, movie recommendations, fraud detection, etc. (Fig. 1\n).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "The lectures built on each other's concepts sequentially and were presented as logical extensions of one another (Fig. 2\n).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "The corresponding table displays the results of using Wilcoxon signed rank test to compare pre- and postlecture data.Figure 4.",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "With the exception of Lecture 7, resident confidence in their ability to read an artificial intelligence related journal article in radiology statistically increased after each lecture (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "With the content-related questions, learners’ perceived ability to explain these concepts showed a marked increase from before to after each didactic session (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    },
+    {
+      "sentence": "With the exception of Lecture 7, resident confidence in their ability to read an artificial intelligence related journal article in radiology statistically increased after each lecture (Fig. 3).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        },
+        {
+          "figure_number": "Figure 3",
+          "panel": "",
+          "figure_key": "figure_3"
+        }
+      ]
+    },
+    {
+      "sentence": "With the content-related questions, learners’ perceived ability to explain these concepts showed a marked increase from before to after each didactic session (Fig. 4).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        },
+        {
+          "figure_number": "Figure 4",
+          "panel": "",
+          "figure_key": "figure_4"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 3,
+    "claims_count": 58,
+    "images_downloaded": 3,
+    "tables_filtered": 235
+  }
+}

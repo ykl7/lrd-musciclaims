@@ -1,0 +1,312 @@
+[
+  {
+    "sentence": "For example, the behavior of the mean plume velocity behind the barrier is highly non-linear (Fig. 5a) and difficult to parameterize within a unifying set of equations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig. 2 shows the four regimes of the proposed parametrized Gaussian-based model which were based on the flow characteristics.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Open in a new tab\n(a) Mean plume velocity and (b) normalized plume width versus distance across the four regimes of the multi-regime approach for one of the training cases obtained from the LES simulation as well as the proposed fit of the multi-regime approach.Fig. 2.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Regime III is a transition regime where there is high turbulence, and velocity recirculation for some cases (Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "For example, the behavior of the mean plume velocity behind the barrier is highly non-linear (Fig. 5a) and difficult to parameterize within a unifying set of equations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      },
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig. 2 shows the four regimes of the proposed parametrized Gaussian-based model which were based on the flow characteristics.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Regime III is a transition regime where there is high turbulence, and velocity recirculation for some cases (Fig. 2).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      },
+      {
+        "figure_number": "Figure 2",
+        "panel": "",
+        "figure_key": "figure_2"
+      }
+    ]
+  },
+  {
+    "sentence": "Overview of the multi-regime parameterized Gaussianbased model\nFig. 3 illustrates the overall model development process, which aims to use easily obtained input features, to describe the relevant parameters of the proposed model in each zone identified in the multi-regime description.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig. 3 illustrates the overall model development process, which aims to use easily obtained input features, to describe the relevant parameters of the proposed model in each zone identified in the multi-regime description.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 3",
+        "panel": "",
+        "figure_key": "figure_3"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig. 4 depicts the parameterization steps.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 4",
+        "panel": "",
+        "figure_key": "figure_4"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig. 5a shows the mean plume velocity for one of the training cases.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig. 5a highlights the proposed fitting, while eqn (8)–(11) show the functions that were used for each regime.\n\n\n\n(8)\n\n\n\n(9)\n\n\n\n(10)\n\n\n\n\n(11)\n\n, and , are the locations of the boundaries between the different regimes, and since the fitting needed to be continuous, the value of the mean plume velocity is the same at those locations.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig. 5a shows the mean plume velocity for one of the training cases.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig. 5a highlights the proposed fitting, while eqn (8)–(11) show the functions that were used for each regime.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel a",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig. 5b shows the plume width (3 times the vertical spread, ) for one of the training cases.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We used a linear fitting for each of the four regimes as it described the plume spread growth well, while keeping the parametrized Gaussian-based model simple as highlighted in Fig. 5b and eqn (12)–(15).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig. 5b shows the plume width (3 times the vertical spread, ) for one of the training cases.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "We used a linear fitting for each of the four regimes as it described the plume spread growth well, while keeping the parametrized Gaussian-based model simple as highlighted in Fig. 5b and eqn (12)–(15).",
+    "figure_references": [
+      {
+        "figure_number": "Figure 5",
+        "panel": "Panel b",
+        "figure_key": "figure_5"
+      }
+    ]
+  },
+  {
+    "sentence": "Vertical profile analysis\nFig. 7 shows the average , FB, and NME across all the vertical profiles within the vegetation to  downwind of the barrier, averaged across all 15 test cases for each particle size and the tracer gas.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The FB was negative across all particle sizes and tracer gas, which indicates that the parameterized Gaussian-based model tended to slightly underestimate the vertical concentrations (Fig. 7b), however, it was within a satisfactory range.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "We also performed the same analysis for each of the four regimes and we report the , and NME for them in Section S10 of the ESI. † We also compared normalized vertical concentration profiles at three different locations for all test cases for particle sizes 15 and  and included them in Section S11 of the ESI.†\nFig. 7.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "Fig. 7 shows the average , FB, and NME across all the vertical profiles within the vegetation to  downwind of the barrier, averaged across all 15 test cases for each particle size and the tracer gas.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The FB was negative across all particle sizes and tracer gas, which indicates that the parameterized Gaussian-based model tended to slightly underestimate the vertical concentrations (Fig. 7b), however, it was within a satisfactory range.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      },
+      {
+        "figure_number": "Figure 7",
+        "panel": "Panel b",
+        "figure_key": "figure_7"
+      }
+    ]
+  },
+  {
+    "sentence": "The parameters of those cases are listed in Table S4 the ESI.†\nFig. 8 shows the ground-level concentrations for the 4 single row test cases predicted by the parameterized Gaussian-based model versus that from our LES simulations for particle sizes of 15 and.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  },
+  {
+    "sentence": "The parameters of those cases are listed in Table S4 the ESI.†\nFig. 8 shows the ground-level concentrations for the 4 single row test cases predicted by the parameterized Gaussian-based model versus that from our LES simulations for particle sizes of 15 and.",
+    "figure_references": [
+      {
+        "figure_number": "Figure 8",
+        "panel": "",
+        "figure_key": "figure_8"
+      }
+    ]
+  }
+]

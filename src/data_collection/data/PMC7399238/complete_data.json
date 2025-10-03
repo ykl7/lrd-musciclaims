@@ -1,0 +1,292 @@
+{
+  "paper_id": "PMC7399238",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7399238/",
+  "figures": {
+    "figure_0001": {
+      "figure_number": "Figure 0001",
+      "title": "Fig. 1.",
+      "caption": "An excerpt of the code used to extract phrases containing “functional unit” based on regular expressions operations.",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3d75/7399238/61c97ce09d2d/gr1.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3d75/7399238/61c97ce09d2d/gr1.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3d75/7399238/61c97ce09d2d/gr1.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3d75/7399238/61c97ce09d2d/gr1.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig0001",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3d75/7399238/61c97ce09d2d/gr1.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC7399238/images/figure_0001.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3d75/7399238/61c97ce09d2d/gr1.jpg"
+    },
+    "figure_0002": {
+      "figure_number": "Figure 0002",
+      "title": "Fig. 2.",
+      "caption": "An excerpt of the code used to extract phrases containing “functional unit” or “FU” based on the Natural Language Toolkit (NLTK).",
+      "possible_urls": [
+        [
+          "original_src",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3d75/7399238/887dfab0ebd3/gr2.jpg"
+        ],
+        [
+          "large_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3d75/7399238/887dfab0ebd3/gr2.jpg?maxwidth=2000"
+        ],
+        [
+          "original_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3d75/7399238/887dfab0ebd3/gr2.jpg?size=original"
+        ],
+        [
+          "xlarge_size",
+          "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3d75/7399238/887dfab0ebd3/gr2.jpg?maxwidth=4000"
+        ]
+      ],
+      "figure_id": "fig0002",
+      "is_table": false,
+      "working_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3d75/7399238/887dfab0ebd3/gr2.jpg",
+      "download_success": true,
+      "local_image_path": "./data/PMC7399238/images/figure_0002.jpg",
+      "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3d75/7399238/887dfab0ebd3/gr2.jpg"
+    }
+  },
+  "claims": [
+    {
+      "sentence": "Therefore, “.txt” should be included in the file name or the search term should be modified in the data mining programs as appropriate.Identifying the functional unit\nStatements that contained the phrase “functional unit” were extracted from the text files using the code shown in Fig. 1 (see FU_regex.py in the Supplementary Material for the entire program).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Since the NLTK can tokenize words and sentences within a text file very effectively, the data collected with the regular expressions operations was then supplemented by the NLTK to account for instances when “functional unit” and its abbreviation “FU” was used (see Fig. 2 and FU_NLTK.py in the Supplementary Material).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Therefore, “.txt” should be included in the file name or the search term should be modified in the data mining programs as appropriate.Identifying the functional unit\nStatements that contained the phrase “functional unit” were extracted from the text files using the code shown in Fig. 1 (see FU_regex.py in the Supplementary Material for the entire program).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Since the NLTK can tokenize words and sentences within a text file very effectively, the data collected with the regular expressions operations was then supplemented by the NLTK to account for instances when “functional unit” and its abbreviation “FU” was used (see Fig. 2 and FU_NLTK.py in the Supplementary Material).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Therefore, “.txt” should be included in the file name or the search term should be modified in the data mining programs as appropriate.Identifying the functional unit\nStatements that contained the phrase “functional unit” were extracted from the text files using the code shown in Fig. 1 (see FU_regex.py in the Supplementary Material for the entire program).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Since the NLTK can tokenize words and sentences within a text file very effectively, the data collected with the regular expressions operations was then supplemented by the NLTK to account for instances when “functional unit” and its abbreviation “FU” was used (see Fig. 2 and FU_NLTK.py in the Supplementary Material).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Therefore, “.txt” should be included in the file name or the search term should be modified in the data mining programs as appropriate.Identifying the functional unit\nStatements that contained the phrase “functional unit” were extracted from the text files using the code shown in Fig. 1 (see FU_regex.py in the Supplementary Material for the entire program).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Since the NLTK can tokenize words and sentences within a text file very effectively, the data collected with the regular expressions operations was then supplemented by the NLTK to account for instances when “functional unit” and its abbreviation “FU” was used (see Fig. 2 and FU_NLTK.py in the Supplementary Material).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Therefore, “.txt” should be included in the file name or the search term should be modified in the data mining programs as appropriate.Identifying the functional unit\nStatements that contained the phrase “functional unit” were extracted from the text files using the code shown in Fig. 1 (see FU_regex.py in the Supplementary Material for the entire program).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Since the NLTK can tokenize words and sentences within a text file very effectively, the data collected with the regular expressions operations was then supplemented by the NLTK to account for instances when “functional unit” and its abbreviation “FU” was used (see Fig. 2 and FU_NLTK.py in the Supplementary Material).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Therefore, “.txt” should be included in the file name or the search term should be modified in the data mining programs as appropriate.Identifying the functional unit\nStatements that contained the phrase “functional unit” were extracted from the text files using the code shown in Fig. 1 (see FU_regex.py in the Supplementary Material for the entire program).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Since the NLTK can tokenize words and sentences within a text file very effectively, the data collected with the regular expressions operations was then supplemented by the NLTK to account for instances when “functional unit” and its abbreviation “FU” was used (see Fig. 2 and FU_NLTK.py in the Supplementary Material).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Therefore, “.txt” should be included in the file name or the search term should be modified in the data mining programs as appropriate.Identifying the functional unit\nStatements that contained the phrase “functional unit” were extracted from the text files using the code shown in Fig. 1 (see FU_regex.py in the Supplementary Material for the entire program).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Since the NLTK can tokenize words and sentences within a text file very effectively, the data collected with the regular expressions operations was then supplemented by the NLTK to account for instances when “functional unit” and its abbreviation “FU” was used (see Fig. 2 and FU_NLTK.py in the Supplementary Material).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Therefore, “.txt” should be included in the file name or the search term should be modified in the data mining programs as appropriate.Identifying the functional unit\nStatements that contained the phrase “functional unit” were extracted from the text files using the code shown in Fig. 1 (see FU_regex.py in the Supplementary Material for the entire program).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Since the NLTK can tokenize words and sentences within a text file very effectively, the data collected with the regular expressions operations was then supplemented by the NLTK to account for instances when “functional unit” and its abbreviation “FU” was used (see Fig. 2 and FU_NLTK.py in the Supplementary Material).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Therefore, “.txt” should be included in the file name or the search term should be modified in the data mining programs as appropriate.Identifying the functional unit\nStatements that contained the phrase “functional unit” were extracted from the text files using the code shown in Fig. 1 (see FU_regex.py in the Supplementary Material for the entire program).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Since the NLTK can tokenize words and sentences within a text file very effectively, the data collected with the regular expressions operations was then supplemented by the NLTK to account for instances when “functional unit” and its abbreviation “FU” was used (see Fig. 2 and FU_NLTK.py in the Supplementary Material).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Identifying the functional unit\nStatements that contained the phrase “functional unit” were extracted from the text files using the code shown in Fig. 1 (see FU_regex.py in the Supplementary Material for the entire program).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Since the NLTK can tokenize words and sentences within a text file very effectively, the data collected with the regular expressions operations was then supplemented by the NLTK to account for instances when “functional unit” and its abbreviation “FU” was used (see Fig. 2 and FU_NLTK.py in the Supplementary Material).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    },
+    {
+      "sentence": "Statements that contained the phrase “functional unit” were extracted from the text files using the code shown in Fig. 1 (see FU_regex.py in the Supplementary Material for the entire program).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 1",
+          "panel": "",
+          "figure_key": "figure_1"
+        }
+      ]
+    },
+    {
+      "sentence": "Since the NLTK can tokenize words and sentences within a text file very effectively, the data collected with the regular expressions operations was then supplemented by the NLTK to account for instances when “functional unit” and its abbreviation “FU” was used (see Fig. 2 and FU_NLTK.py in the Supplementary Material).",
+      "figure_references": [
+        {
+          "figure_number": "Figure 2",
+          "panel": "",
+          "figure_key": "figure_2"
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "figures_count": 2,
+    "claims_count": 22,
+    "images_downloaded": 2,
+    "tables_filtered": 76
+  }
+}
