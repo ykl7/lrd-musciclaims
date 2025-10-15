@@ -15,3 +15,17 @@ Search will have publication date - make sure to use it.
 
 use search api for best use.
 
+
+10/06/2025:
+Qwen 8B
+- for small model the prompts has to be consice
+- look at musciclaim section: pertrunb 3: there is a prompt.
+- musclaim github - human annotation app: read instructions: look at interannotatordata.py
+    - it verifies the claim: valid perturbation or not.
+    - only new change is generation, not annotation
+    - the differentiating condition is mentioned in the file.
+- 500 data points: contradictions.: by by qwen model
+- 500: nuertral datapoints by swapping firgure names
+- we need to finetune it: vlm finetuning: vl2.5
+- accuracy test is: small subset that doest go into training - run inference on that with trained model - see what performance.
+- Get the total claims number and share it with yash.
