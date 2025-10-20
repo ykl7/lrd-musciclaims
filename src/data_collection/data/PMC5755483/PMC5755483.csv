@@ -1,0 +1,42 @@
+paper_id,claim,figure_id,title,caption,local_image_path,url
+PMC5755483,Figure 1 illustrates the Publication Parsing process.,PMC5755483_figure_1,Figure 1. Publication parsing process.,,./data/PMC5755483/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/87cc/5755483/35b2f83e6469/peerj-06-4201-g001.jpg
+PMC5755483,The annotation process is illustrated in Fig. 2.,PMC5755483_figure_2,Figure 2. Semantic enrichment.,,./data/PMC5755483/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/87cc/5755483/4ae46ad25933/peerj-06-4201-g002.jpg
+PMC5755483,"The Biotea RDFized version is linked via owl:sameAs to Bio2RDF, identifiers.org and DOI, all of them providing versions of the corresponding article in PubMed.
+ 
+ 
+<bibo:AcademicArticle rdf:about=”http://linkingdata.io/pmcdoc/pmc/3879346”> 
+  <owl:sameAs rdf:resource=”http://bio2rdf.org/pubmed:24392157”/> 
+  <owl:sameAs rdf:resource=”http://identifiers.org/pubmed/24392157”/> 
+  <owl:sameAs rdf:resource=”http://dx.doi.org/10.1371/journal.pone.0084792”/> 
+  <rdfs:seeAlso rdf:resource=”http://info.identifiers.org/pubmed/24392157”/> 
+  <rdfs:seeAlso rdf:resource=”http://www.ncbi.nlm.nih.gov/pubmed/24392157”/> 
+</bibo:AcademicArticle> 
+                                Listing 1: RDF Example    
+A general overview of our model is presented in Fig. 3.",PMC5755483_figure_3,Figure 3. The Biotea model.,,./data/PMC5755483/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/87cc/5755483/fafbe5ada397/peerj-06-4201-g003.jpg
+PMC5755483,The graph for sections and paragraphs is illustrated in Fig. 4.,PMC5755483_figure_4,Figure 4. Text structure RDF model.,,./data/PMC5755483/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/87cc/5755483/3c43355f3aca/peerj-06-4201-g004.jpg
+PMC5755483,Figure 5 illustrates an example expressing the annotation in the OADM model; this is the default annotation ontology used in our RDFization process.,PMC5755483_figure_5,Figure 5. Annotations based on the OADM model.,,./data/PMC5755483/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/87cc/5755483/40b35e9bd7a2/peerj-06-4201-g005.jpg
+PMC5755483,"We are currently supporting only annotations from predefined vocabularies; Fig. 6 illustrates the interface, an online demo with LENS and Hyphothesis is available at Biotea (2017f).",PMC5755483_figure_6,Figure 6. Human annotation interface.,,./data/PMC5755483/images/figure_6.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/87cc/5755483/890da2440af9/peerj-06-4201-g006.jpg
+PMC5755483,Figure 7 illustrates the resulting cluster.,PMC5755483_figure_7,Figure 7. Resulting dataset; 34 papers related “American Joint Committee on Cancer” and clustered based on SNOMED CT annotations.,,./data/PMC5755483/images/figure_7.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/87cc/5755483/96756942f94b/peerj-06-4201-g007.jpg
+PMC5755483,"SNOMED term
+ID
+
+
+
+Probe with target amplification
+snomedct:702675006
+
+
+Polymerase chain reaction
+snomedct:258066000
+
+
+Deoxyribonucleic acid extraction technique
+snomedct:702943006
+
+
+
+Open in a new tabFrom the cluster presented in Fig. 7 we selected the paper, “The has-miR-526b Binding-Site rs8506G>A Polymorphism in the lincRNA-NR_024015 Exon Identified by GWASs Predispose to Non-Cardia Gastric Cancer Risk” (Fan et al., 2014), see third row, Table 3.",PMC5755483_figure_7,Figure 7. Resulting dataset; 34 papers related “American Joint Committee on Cancer” and clustered based on SNOMED CT annotations.,,./data/PMC5755483/images/figure_7.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/87cc/5755483/96756942f94b/peerj-06-4201-g007.jpg
+PMC5755483,The entire query is illustrated in Fig. 8 and the SPARQL code is available at Biotea (2017h).,PMC5755483_figure_8,Figure 8. Example of federated SPARQL Query.,,./data/PMC5755483/images/figure_8.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/87cc/5755483/e7eb126effc9/peerj-06-4201-g008.jpg
+PMC5755483,"The heat-map, see Fig. 9, illustrates the Cosine as a metric for semantic distance/similarity.",PMC5755483_figure_9,Figure 9. Calculating the distance between pairs of articles using annotations.,,./data/PMC5755483/images/figure_9.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/87cc/5755483/837db376c490/peerj-06-4201-g009.jpg
+PMC5755483,A general overview of our model is presented in Fig. 3.,PMC5755483_figure_3,Figure 3. The Biotea model.,,./data/PMC5755483/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/87cc/5755483/fafbe5ada397/peerj-06-4201-g003.jpg
+PMC5755483,"From the cluster presented in Fig. 7 we selected the paper, “The has-miR-526b Binding-Site rs8506G>A Polymorphism in the lincRNA-NR_024015 Exon Identified by GWASs Predispose to Non-Cardia Gastric Cancer Risk” (Fan et al., 2014), see third row, Table 3.",PMC5755483_figure_7,Figure 7. Resulting dataset; 34 papers related “American Joint Committee on Cancer” and clustered based on SNOMED CT annotations.,,./data/PMC5755483/images/figure_7.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/87cc/5755483/96756942f94b/peerj-06-4201-g007.jpg

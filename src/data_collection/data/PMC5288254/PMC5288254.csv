@@ -1,0 +1,214 @@
+paper_id,claim,figure_id,title,caption,local_image_path,url
+PMC5288254,"Asterisks indicate metadata that are available through the IRBAS interface via a map‐based search (Figure 2)
+
+
+
+
+
+Type
+Provision
+Details
+
+
+
+General metadata
+Mandatory
+Dataset name*
+
+Name(s) of the data owner(s) and contributor(s)*
+Contact name(s) and e‐mail(s) for the data provider(s)*
+Data availability status*
+Date the file was created (i.e., when the template was filled and entered into the database)*
+Name(s) of the coder(s) (person(s) who filled the templates with data)
+
+Optional
+Name(s) of the data collector(s)
+
+Name(s) of the taxonomic identifier(s)
+Name(s) of the research project(s) associated with the dataset
+Any existing citation details (e.g., for the publication(s) associated with the dataset or for the actual dataset itself)*
+
+Site metadata
+Mandatory
+Name(s) of sampling location(s)
+
+Latitude(s) and longitude(s) of sampling location(s)*
+Name(s) of river(s) sampled*
+Flow regime (intermittent or perennial) of the sampled river(s)*
+Water regime (permanent or nonpermanent) of the sampled river(s)*
+Name(s) of the catchment(s) and country(ies) in which the sampled river(s) is(are) located*
+Climate (Köppen‐Geiger) classification zone(s) in which the sampled river(s) is(are) located*
+Main land use/land cover category(ies) and level(s) of human modification of the land surrounding the sampling location(s)*
+
+Optional
+Name(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)
+
+Latitude(s) and longitude(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)
+Summary information on the long‐term hydrology at the sampling location(s) (e.g., mean annual duration of zero flow)
+
+Biota metadata
+Mandatory
+Date(s) of sampling*
+
+Flow state(s) at time of sampling (flowing, not flowing, and dry)*
+Water state(s) at time of sampling (wet and dry)*
+Sampling strategy(ies) and method(s)
+Zone(s) of sampling (e.g., benthic zone)*
+Sampled habitat(s) (e.g., riffle and pool)*
+Number of samples collected at each location*
+Type(s) of biota collected (e.g., aquatic invertebrates)*
+Type(s) of abundance data collected (e.g., counts, presence/absence)*
+
+Optional
+Additional information on sampling methods
+
+
+Environment metadata (if an Environment template is completed)
+Mandatory
+Date(s) of sampling*
+
+Flow state(s) at time of sampling (flowing, not flowing, and dry)*
+Water state(s) at time of sampling (wet and dry)*
+Sampling strategy(ies) and method(s)
+Zone(s) of sampling (e.g., benthic zone)*
+Sampled habitat(s) (e.g., riffle and pool)*
+Number of samples collected at each location*
+Type(s) of measures collected (e.g., waterbody dimensions and water chemistry)*
+
+Optional
+Additional information on sampling methods
+
+
+
+Open in a new tabIn this paper, we describe the IRBAS database, including how users can contribute to it and access data.",PMC5288254_figure_2,Figure 2.,"Steps involved in contributing to and accessing data from the IRBAS database. Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface. Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4). Registered users can explore the database via the interface by zooming in on locations with data presented on a map of the world (Step 3a) and make requests to download data (Step 3b) using a simple check‐box selection procedure that sends specific queries via the interface to the database. IRBAS logo © IRBAS",./data/PMC5288254/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/e7f0c4350936/ECE3-7-815-g002.jpg
+PMC5288254,"Together with general metadata (e.g., data contributor and associated publication information; Table 1), these types of data are each uniquely identified and linked to an individual and uniquely identified dataset, which is entered into the database by a contributor through the use of template files (Figure 1).",PMC5288254_figure_1,Figure 1.,"Schematic of the processing and flow of data in the IRBAS database. For each dataset submitted, completion of a Site and Biota template is mandatory (solid arrows) and completion of an Environment template is optional (broken arrows). A dataset must comprise general metadata (e.g., dataset name, data contributor; Table 1) and data collected on sites, biota, and optionally on habitat (environmental data). The Site template is used to insert the site data, including spatial (geo‐locational) data and other metadata about the sampling locations, for example, river names and flow regimes (Table 1). The Biota template is used to insert the biotic sample data (taxonomical inventories of biota) along with metadata on the associated sampling methods and flow status of sites at the time of sampling (Table 1). The Environment template is used to insert the environment sample data (physical and chemical measures) along with metadata on the associated sampling methods and flow status of sites at the time of sampling (Table 1). The general metadata are entered uniformly across each Site, Biota, and Environment templates that encapsulate a unique dataset. IRBAS logo © IRBAS",./data/PMC5288254/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/17e4336d7ae4/ECE3-7-815-g001.jpg
+PMC5288254,"These pages explain how to:
+
+
+1Step 1. contribute data
+
+get started as a registered user
+fill in data entry templates
+save the completed templates
+
+
+
+
+2Step 2. insert completed templates into the database
+
+
+3Step 3. explore the database and request data
+
+via a map interface (identifying locations of samples and extracting metadata)
+via queries (performing more detailed data requests and extraction) (Figure 2).",PMC5288254_figure_2,Figure 2.,"Steps involved in contributing to and accessing data from the IRBAS database. Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface. Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4). Registered users can explore the database via the interface by zooming in on locations with data presented on a map of the world (Step 3a) and make requests to download data (Step 3b) using a simple check‐box selection procedure that sends specific queries via the interface to the database. IRBAS logo © IRBAS",./data/PMC5288254/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/e7f0c4350936/ECE3-7-815-g002.jpg
+PMC5288254,"Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface.",PMC5288254_figure_1,Figure 1.,"Schematic of the processing and flow of data in the IRBAS database. For each dataset submitted, completion of a Site and Biota template is mandatory (solid arrows) and completion of an Environment template is optional (broken arrows). A dataset must comprise general metadata (e.g., dataset name, data contributor; Table 1) and data collected on sites, biota, and optionally on habitat (environmental data). The Site template is used to insert the site data, including spatial (geo‐locational) data and other metadata about the sampling locations, for example, river names and flow regimes (Table 1). The Biota template is used to insert the biotic sample data (taxonomical inventories of biota) along with metadata on the associated sampling methods and flow status of sites at the time of sampling (Table 1). The Environment template is used to insert the environment sample data (physical and chemical measures) along with metadata on the associated sampling methods and flow status of sites at the time of sampling (Table 1). The general metadata are entered uniformly across each Site, Biota, and Environment templates that encapsulate a unique dataset. IRBAS logo © IRBAS",./data/PMC5288254/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/17e4336d7ae4/ECE3-7-815-g001.jpg
+PMC5288254,"Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4).",PMC5288254_figure_4,Figure 4.,"The IRBAS database uses Encyclopedia of Life (EOL; http://www.eol.org/) as its authoritative resource for taxonomic nomenclature and classification hierarchies. All names of taxa supplied by contributors are parsed via a list of names stored on the database (the IRBAS taxonomic library), recognized by EOL, before datasets are inserted into the IRBAS database",./data/PMC5288254/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/d5800b095e03/ECE3-7-815-g004.jpg
+PMC5288254,"IRBAS logo © IRBAS
+
+
+
+
+
+
+Figure 4.",PMC5288254_figure_4,Figure 4.,"The IRBAS database uses Encyclopedia of Life (EOL; http://www.eol.org/) as its authoritative resource for taxonomic nomenclature and classification hierarchies. All names of taxa supplied by contributors are parsed via a list of names stored on the database (the IRBAS taxonomic library), recognized by EOL, before datasets are inserted into the IRBAS database",./data/PMC5288254/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/d5800b095e03/ECE3-7-815-g004.jpg
+PMC5288254,"Step 1: Contributing data
+Contributing data first requires setting up a username and password to become a registered user of the IRBAS database (Step 1a; Figure 2).",PMC5288254_figure_2,Figure 2.,"Steps involved in contributing to and accessing data from the IRBAS database. Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface. Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4). Registered users can explore the database via the interface by zooming in on locations with data presented on a map of the world (Step 3a) and make requests to download data (Step 3b) using a simple check‐box selection procedure that sends specific queries via the interface to the database. IRBAS logo © IRBAS",./data/PMC5288254/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/e7f0c4350936/ECE3-7-815-g002.jpg
+PMC5288254,"Registered users wishing to contribute data can download empty template spreadsheets (in the form of tab‐delimited .txt files) that are used to standardize the format, units, and terminology of datasets, samples, and measures (Step 1b; Figure 2).",PMC5288254_figure_2,Figure 2.,"Steps involved in contributing to and accessing data from the IRBAS database. Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface. Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4). Registered users can explore the database via the interface by zooming in on locations with data presented on a map of the world (Step 3a) and make requests to download data (Step 3b) using a simple check‐box selection procedure that sends specific queries via the interface to the database. IRBAS logo © IRBAS",./data/PMC5288254/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/e7f0c4350936/ECE3-7-815-g002.jpg
+PMC5288254,"For each dataset submitted, a completed Site and Biota template must be provided (i.e., completion of these two templates is mandatory); completion of the Environment template is optional (Figure 1).",PMC5288254_figure_1,Figure 1.,"Schematic of the processing and flow of data in the IRBAS database. For each dataset submitted, completion of a Site and Biota template is mandatory (solid arrows) and completion of an Environment template is optional (broken arrows). A dataset must comprise general metadata (e.g., dataset name, data contributor; Table 1) and data collected on sites, biota, and optionally on habitat (environmental data). The Site template is used to insert the site data, including spatial (geo‐locational) data and other metadata about the sampling locations, for example, river names and flow regimes (Table 1). The Biota template is used to insert the biotic sample data (taxonomical inventories of biota) along with metadata on the associated sampling methods and flow status of sites at the time of sampling (Table 1). The Environment template is used to insert the environment sample data (physical and chemical measures) along with metadata on the associated sampling methods and flow status of sites at the time of sampling (Table 1). The general metadata are entered uniformly across each Site, Biota, and Environment templates that encapsulate a unique dataset. IRBAS logo © IRBAS",./data/PMC5288254/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/17e4336d7ae4/ECE3-7-815-g001.jpg
+PMC5288254,"The general metadata must be uniform across each Site, Biota, and Environment templates that encapsulate a unique dataset (Figure 1).",PMC5288254_figure_1,Figure 1.,"Schematic of the processing and flow of data in the IRBAS database. For each dataset submitted, completion of a Site and Biota template is mandatory (solid arrows) and completion of an Environment template is optional (broken arrows). A dataset must comprise general metadata (e.g., dataset name, data contributor; Table 1) and data collected on sites, biota, and optionally on habitat (environmental data). The Site template is used to insert the site data, including spatial (geo‐locational) data and other metadata about the sampling locations, for example, river names and flow regimes (Table 1). The Biota template is used to insert the biotic sample data (taxonomical inventories of biota) along with metadata on the associated sampling methods and flow status of sites at the time of sampling (Table 1). The Environment template is used to insert the environment sample data (physical and chemical measures) along with metadata on the associated sampling methods and flow status of sites at the time of sampling (Table 1). The general metadata are entered uniformly across each Site, Biota, and Environment templates that encapsulate a unique dataset. IRBAS logo © IRBAS",./data/PMC5288254/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/17e4336d7ae4/ECE3-7-815-g001.jpg
+PMC5288254,Contributors must save their completed templates (Step 1c; Figure 2) before insertion into the database.3.2.,PMC5288254_figure_2,Figure 2.,"Steps involved in contributing to and accessing data from the IRBAS database. Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface. Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4). Registered users can explore the database via the interface by zooming in on locations with data presented on a map of the world (Step 3a) and make requests to download data (Step 3b) using a simple check‐box selection procedure that sends specific queries via the interface to the database. IRBAS logo © IRBAS",./data/PMC5288254/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/e7f0c4350936/ECE3-7-815-g002.jpg
+PMC5288254,"Step 2: Inserting data
+Saved, completed templates are inserted into the database via the interface's file‐selection dialog box (Step 2; Figure 2).",PMC5288254_figure_2,Figure 2.,"Steps involved in contributing to and accessing data from the IRBAS database. Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface. Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4). Registered users can explore the database via the interface by zooming in on locations with data presented on a map of the world (Step 3a) and make requests to download data (Step 3b) using a simple check‐box selection procedure that sends specific queries via the interface to the database. IRBAS logo © IRBAS",./data/PMC5288254/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/e7f0c4350936/ECE3-7-815-g002.jpg
+PMC5288254,"All names of taxa supplied by contributors are parsed via a list of names stored on the database (the IRBAS taxonomic library), recognized by EOL, before datasets are inserted (Figure 4).",PMC5288254_figure_4,Figure 4.,"The IRBAS database uses Encyclopedia of Life (EOL; http://www.eol.org/) as its authoritative resource for taxonomic nomenclature and classification hierarchies. All names of taxa supplied by contributors are parsed via a list of names stored on the database (the IRBAS taxonomic library), recognized by EOL, before datasets are inserted into the IRBAS database",./data/PMC5288254/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/d5800b095e03/ECE3-7-815-g004.jpg
+PMC5288254,"These data were collected from intermittent rivers (and in some cases also from nearby perennial rivers) in North America (USA, 3 datasets), Europe (France, Spain, and UK; 3, 1 and 1 datasets, respectively), and Oceania (Australia and New Zealand; 1 and 2 datasets, respectively; Figure 3).",PMC5288254_figure_3,Figure 3.,"Geographical coverage and numbers of samples with biodiversity or environmental data collected from intermittent and nearby perennial rivers, stored in the IRBAS database as of August 2016. The IRBAS database allows users to contribute and access data and will thus continue to grow in content and value as a research and networking tool. Map data: ©2016 Google",./data/PMC5288254/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/f231f7262895/ECE3-7-815-g003.jpg
+PMC5288254,"Asterisks indicate metadata that are available through the IRBAS interface via a map‐based search (Figure 2)
+
+
+
+
+
+Type
+Provision
+Details
+
+
+
+General metadata
+Mandatory
+Dataset name*
+
+Name(s) of the data owner(s) and contributor(s)*
+Contact name(s) and e‐mail(s) for the data provider(s)*
+Data availability status*
+Date the file was created (i.e., when the template was filled and entered into the database)*
+Name(s) of the coder(s) (person(s) who filled the templates with data)
+
+Optional
+Name(s) of the data collector(s)
+
+Name(s) of the taxonomic identifier(s)
+Name(s) of the research project(s) associated with the dataset
+Any existing citation details (e.g., for the publication(s) associated with the dataset or for the actual dataset itself)*
+
+Site metadata
+Mandatory
+Name(s) of sampling location(s)
+
+Latitude(s) and longitude(s) of sampling location(s)*
+Name(s) of river(s) sampled*
+Flow regime (intermittent or perennial) of the sampled river(s)*
+Water regime (permanent or nonpermanent) of the sampled river(s)*
+Name(s) of the catchment(s) and country(ies) in which the sampled river(s) is(are) located*
+Climate (Köppen‐Geiger) classification zone(s) in which the sampled river(s) is(are) located*
+Main land use/land cover category(ies) and level(s) of human modification of the land surrounding the sampling location(s)*
+
+Optional
+Name(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)
+
+Latitude(s) and longitude(s) of discharge, rain, and/or temperature gauging station(s) near or at the sampling location(s)
+Summary information on the long‐term hydrology at the sampling location(s) (e.g., mean annual duration of zero flow)
+
+Biota metadata
+Mandatory
+Date(s) of sampling*
+
+Flow state(s) at time of sampling (flowing, not flowing, and dry)*
+Water state(s) at time of sampling (wet and dry)*
+Sampling strategy(ies) and method(s)
+Zone(s) of sampling (e.g., benthic zone)*
+Sampled habitat(s) (e.g., riffle and pool)*
+Number of samples collected at each location*
+Type(s) of biota collected (e.g., aquatic invertebrates)*
+Type(s) of abundance data collected (e.g., counts, presence/absence)*
+
+Optional
+Additional information on sampling methods
+
+
+Environment metadata (if an Environment template is completed)
+Mandatory
+Date(s) of sampling*
+
+Flow state(s) at time of sampling (flowing, not flowing, and dry)*
+Water state(s) at time of sampling (wet and dry)*
+Sampling strategy(ies) and method(s)
+Zone(s) of sampling (e.g., benthic zone)*
+Sampled habitat(s) (e.g., riffle and pool)*
+Number of samples collected at each location*
+Type(s) of measures collected (e.g., waterbody dimensions and water chemistry)*
+
+Optional
+Additional information on sampling methods
+
+
+
+Open in a new tab.",PMC5288254_figure_2,Figure 2.,"Steps involved in contributing to and accessing data from the IRBAS database. Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface. Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4). Registered users can explore the database via the interface by zooming in on locations with data presented on a map of the world (Step 3a) and make requests to download data (Step 3b) using a simple check‐box selection procedure that sends specific queries via the interface to the database. IRBAS logo © IRBAS",./data/PMC5288254/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/e7f0c4350936/ECE3-7-815-g002.jpg
+PMC5288254,Asterisks indicate metadata that are available through the IRBAS interface via a map‐based search (Figure 2).,PMC5288254_figure_2,Figure 2.,"Steps involved in contributing to and accessing data from the IRBAS database. Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface. Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4). Registered users can explore the database via the interface by zooming in on locations with data presented on a map of the world (Step 3a) and make requests to download data (Step 3b) using a simple check‐box selection procedure that sends specific queries via the interface to the database. IRBAS logo © IRBAS",./data/PMC5288254/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/e7f0c4350936/ECE3-7-815-g002.jpg
+PMC5288254,"Step 3. explore the database and request data
+
+via a map interface (identifying locations of samples and extracting metadata)
+via queries (performing more detailed data requests and extraction) (Figure 2).",PMC5288254_figure_2,Figure 2.,"Steps involved in contributing to and accessing data from the IRBAS database. Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface. Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4). Registered users can explore the database via the interface by zooming in on locations with data presented on a map of the world (Step 3a) and make requests to download data (Step 3b) using a simple check‐box selection procedure that sends specific queries via the interface to the database. IRBAS logo © IRBAS",./data/PMC5288254/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/e7f0c4350936/ECE3-7-815-g002.jpg
+PMC5288254,via queries (performing more detailed data requests and extraction) (Figure 2).,PMC5288254_figure_2,Figure 2.,"Steps involved in contributing to and accessing data from the IRBAS database. Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface. Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4). Registered users can explore the database via the interface by zooming in on locations with data presented on a map of the world (Step 3a) and make requests to download data (Step 3b) using a simple check‐box selection procedure that sends specific queries via the interface to the database. IRBAS logo © IRBAS",./data/PMC5288254/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/e7f0c4350936/ECE3-7-815-g002.jpg
+PMC5288254,Contributors must save their completed templates (Step 1c; Figure 2) before insertion into the database.,PMC5288254_figure_2,Figure 2.,"Steps involved in contributing to and accessing data from the IRBAS database. Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface. Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4). Registered users can explore the database via the interface by zooming in on locations with data presented on a map of the world (Step 3a) and make requests to download data (Step 3b) using a simple check‐box selection procedure that sends specific queries via the interface to the database. IRBAS logo © IRBAS",./data/PMC5288254/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/e7f0c4350936/ECE3-7-815-g002.jpg
+PMC5288254,Contributing data first requires setting up a username and password to become a registered user of the IRBAS database (Step 1a; Figure 2).,PMC5288254_figure_2,Figure 2.,"Steps involved in contributing to and accessing data from the IRBAS database. Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface. Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4). Registered users can explore the database via the interface by zooming in on locations with data presented on a map of the world (Step 3a) and make requests to download data (Step 3b) using a simple check‐box selection procedure that sends specific queries via the interface to the database. IRBAS logo © IRBAS",./data/PMC5288254/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/e7f0c4350936/ECE3-7-815-g002.jpg
+PMC5288254,"Saved, completed templates are inserted into the database via the interface's file‐selection dialog box (Step 2; Figure 2).",PMC5288254_figure_2,Figure 2.,"Steps involved in contributing to and accessing data from the IRBAS database. Steps 1 and 2 result in the contribution of a dataset to the IRBAS database (see Figure 1), which requires users to register, fill in templates with data (solid arrows indicate mandatory templates and broken arrows optional templates), save these as.csv files, and then insert them into the IRBAS database via the IRBAS interface. Step 2 involves a quality control and assurance parsing process to ensure data are inserted correctly, completely, and in accordance with the standardization requirements of the database, and the checking of taxonomic nomenclature in the Biota file against the IRBAS taxonomic library (Figure 4). Registered users can explore the database via the interface by zooming in on locations with data presented on a map of the world (Step 3a) and make requests to download data (Step 3b) using a simple check‐box selection procedure that sends specific queries via the interface to the database. IRBAS logo © IRBAS",./data/PMC5288254/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/84d1/5288254/e7f0c4350936/ECE3-7-815-g002.jpg

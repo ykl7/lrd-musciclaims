@@ -1,0 +1,26 @@
+paper_id,claim,figure_id,title,caption,local_image_path,url
+PMC10510714,"In this method,
+the recursive cloning of DNA-barcoded modules via specific designated
+restriction sites within the modules (between the construct and the
+DNA barcode in each module) results in the accumulation of the DNA
+constructs on one side and the DNA barcodes on the other side of the
+restriction sites (Figure 1a).",PMC10510714_figure_1,Figure 1.,"Improvements of the CombiGEM process. (a) CombiGEM procedure.
+The
+CombiGEM method uses the BamHI and EcoRI sites on the vector and the compatible BglII
+and MfeI sites in the insert fragments for cloning.
+The ligated sites are not recognized by any of the enzymes. The inserts
+bring new BamHI and EcoRI sites
+within to enable the recursive assembly of modules. The process is
+run en masse with a pool of inserts. The resulting
+mixture of multimodule constructs are used in experiments. (b) pCombi-CC
+vectors. The BamHI, BglII, EcoRI, and MfeI restriction sites were
+engineered in the expandable single-copy vector pCC1BAC (Lucigen).
+The added BglII and MfeI sites accept
+incoming fragments. To introduce functionality such as integration
+of the construct into the genome of Mycoplasma mycoides JCVI-syn3.0,9 genetic tools are introduced
+into these sites along with the first barcode (position 0) to identify
+the tools (such as the set for mycoplasma Cre-lox integration). To
+make the vector compatible with the ELAN process (pCombi-CC-Myco2-Next-E),
+the BglII and MfeI sites were disrupted.
+The gene cat encodes chloramphenicol acetyltransferase. oriV enables a high-copy replication when trfA gene product is provided in the cell (Lucigen). repE/repA, sopA/parA, sopB/parB, and ori2 (not shown) participate in the replication and partition of F-factor
+replicon.",./data/PMC10510714/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f675/10510714/0c3c7ad7f843/sb3c00183_0001.jpg

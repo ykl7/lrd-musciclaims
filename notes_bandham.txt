@@ -29,3 +29,19 @@ Qwen 8B
 - we need to finetune it: vlm finetuning: vl2.5
 - accuracy test is: small subset that doest go into training - run inference on that with trained model - see what performance.
 - Get the total claims number and share it with yash.
+
+
+
+10/16/2025:
+    - st.text(f”You are given a claim and its perturbation. Your task is to judge whether the perturbation is a contradiction of the original claim. Both the original and perturbed claim cannot be true at the same time.“)
+    - “Your task is to perturb the given original claim and produce a contradiction of the original claim. Both the original and perturbed claim cannot be true at the same time.”
+    - manually review atleast 50 claims with figures as reference.
+    - prepare llm judge for validating perturbated and original claim same as what .py is doing (yash).
+    - remove figure reference from the claim text.
+    - after judge, we will have two data sets - one all data points (s + p + n) & filtered data with judge.
+
+
+DID: Used LLM (Qwen8B) for perturbation, for removing fig reference, for judging if the perturbated & original are valid or not.
+
+- Clear the figure reference from the given claim. without changing the meaning at any cost. 
+

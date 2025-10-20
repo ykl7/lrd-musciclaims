@@ -1,0 +1,271 @@
+paper_id,claim,figure_id,title,caption,local_image_path,url
+PMC6453727,Figure 1 shows the structure and workflow of the reconstruction platform.,PMC6453727_figure_1,Figure 1.,"(a) Structure of the fully 3‐D GPU‐based list‐mode image reconstruction workflow. The PET detector trajectories are modeled as a series of static positions during the scan. Current system geometry is computed from the initial detector geometry and the current locations of detector panels. Sensitivity image of current system geometry is computed and added to the previous sensitivity image for image reconstruction using all list‐mode events acquired so far. Using the arrival time of each event and the time frame information of each panel location, the crystal positions of each coincidence event are calculated and sent to GPU memory for list‐mode image reconstruction. The image reconstruction will stop after a pre‐defined number of iterations (N = 10 in this work). (b) Flowchart showing list‐mode GPU reconstruction kernel.",./data/PMC6453727/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/8edb759c3e19/MP-46-1798-g013.jpg
+PMC6453727,"System description
+We constructed a proof‐of‐concept prototype device using two typical PET block detectors, as shown in Fig. 2(a).",PMC6453727_figure_2,Figure 2.,(a) Schematic drawing of the prototype POC‐PET system; (b) Illustration of the sizes and distribution of the spherical tumor inserts in the cylindrical phantom. The 6.3 mm tumor highlighted in a blue box is the one that was accidentally filled with air bubbles. [Color figure can be viewed at wileyonlinelibrary.com],./data/PMC6453727/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/13c8aacffd2a/MP-46-1798-g012.jpg
+PMC6453727,Figure 3 shows the setup of the DAQ system.,PMC6453727_figure_3,Figure 3.,The DAQ architecture of the prototype system. [Color figure can be viewed at wileyonlinelibrary.com],./data/PMC6453727/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/8bbbd55fc022/MP-46-1798-g011.jpg
+PMC6453727,"Using the setup described by Fig. 3, 18.4 million coincidence events were collected.",PMC6453727_figure_3,Figure 3.,The DAQ architecture of the prototype system. [Color figure can be viewed at wileyonlinelibrary.com],./data/PMC6453727/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/8bbbd55fc022/MP-46-1798-g011.jpg
+PMC6453727,"Phantom imaging
+We performed an imaging study of a small cylindrical phantom using the prototype system, as shown in Fig. 2(a).",PMC6453727_figure_2,Figure 2.,(a) Schematic drawing of the prototype POC‐PET system; (b) Illustration of the sizes and distribution of the spherical tumor inserts in the cylindrical phantom. The 6.3 mm tumor highlighted in a blue box is the one that was accidentally filled with air bubbles. [Color figure can be viewed at wileyonlinelibrary.com],./data/PMC6453727/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/13c8aacffd2a/MP-46-1798-g012.jpg
+PMC6453727,Figure 2(b) shows the sizes and distribution of the spherical sources.,PMC6453727_figure_2,Figure 2.,(a) Schematic drawing of the prototype POC‐PET system; (b) Illustration of the sizes and distribution of the spherical tumor inserts in the cylindrical phantom. The 6.3 mm tumor highlighted in a blue box is the one that was accidentally filled with air bubbles. [Color figure can be viewed at wileyonlinelibrary.com],./data/PMC6453727/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/13c8aacffd2a/MP-46-1798-g012.jpg
+PMC6453727,We used the robotic arm and the rotation stage to independently move the front and back detectors to seven different locations as illustrated in Fig. 4(a).,PMC6453727_figure_4,Figure 4.,"(a) An illustration showing the locations of the two PET detectors and the sampling pattern used to image the cylindrical phantom. The blue block denotes the back detector while the green block denotes the front detector. The red circle represents the cylindrical phantom. The coincidence events were acquired at 27 angles by placing both the front and back detectors at seven different positions, as illustrated in dashed line (of all colors); (b) The distribution of nine spherical tumors simulated in the Monte Carlo study. The tumors were each placed at the center slice of the cylindrical phantom. [Color figure can be viewed at wileyonlinelibrary.com]",./data/PMC6453727/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/d40e420d7ea9/MP-46-1798-g001.jpg
+PMC6453727,The sampling angles between detector pair locations are illustrated by the dash lines in Fig. 4(a).,PMC6453727_figure_4,Figure 4.,"(a) An illustration showing the locations of the two PET detectors and the sampling pattern used to image the cylindrical phantom. The blue block denotes the back detector while the green block denotes the front detector. The red circle represents the cylindrical phantom. The coincidence events were acquired at 27 angles by placing both the front and back detectors at seven different positions, as illustrated in dashed line (of all colors); (b) The distribution of nine spherical tumors simulated in the Monte Carlo study. The tumors were each placed at the center slice of the cylindrical phantom. [Color figure can be viewed at wileyonlinelibrary.com]",./data/PMC6453727/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/d40e420d7ea9/MP-46-1798-g001.jpg
+PMC6453727,The tumors were each placed at the center slice of the cylindrical phantom. [Color figure can be viewed at wileyonlinelibrary.com]List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and secondly using TOF information based on the CRT of the system as characterized in the previous section.,PMC6453727_figure_1,Figure 1.,"(a) Structure of the fully 3‐D GPU‐based list‐mode image reconstruction workflow. The PET detector trajectories are modeled as a series of static positions during the scan. Current system geometry is computed from the initial detector geometry and the current locations of detector panels. Sensitivity image of current system geometry is computed and added to the previous sensitivity image for image reconstruction using all list‐mode events acquired so far. Using the arrival time of each event and the time frame information of each panel location, the crystal positions of each coincidence event are calculated and sent to GPU memory for list‐mode image reconstruction. The image reconstruction will stop after a pre‐defined number of iterations (N = 10 in this work). (b) Flowchart showing list‐mode GPU reconstruction kernel.",./data/PMC6453727/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/8edb759c3e19/MP-46-1798-g013.jpg
+PMC6453727,The system setup and sample angles in the simulation study were the same as those in Fig. 4(a) except that the front and back detectors are made of an array of 38 × 38 LYSO crystals of 1 × 1 ×  10 mm3 each.,PMC6453727_figure_4,Figure 4.,"(a) An illustration showing the locations of the two PET detectors and the sampling pattern used to image the cylindrical phantom. The blue block denotes the back detector while the green block denotes the front detector. The red circle represents the cylindrical phantom. The coincidence events were acquired at 27 angles by placing both the front and back detectors at seven different positions, as illustrated in dashed line (of all colors); (b) The distribution of nine spherical tumors simulated in the Monte Carlo study. The tumors were each placed at the center slice of the cylindrical phantom. [Color figure can be viewed at wileyonlinelibrary.com]",./data/PMC6453727/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/d40e420d7ea9/MP-46-1798-g001.jpg
+PMC6453727,This is because only the central 38 × 38 LYSO crystals in the prototype device can be clearly delineated [explained in Fig. 6(a) and 6(b)].,PMC6453727_figure_6,Figure 6.,(a) Flood image of the front detector; (b) Flood image of the back detector; (c) Timing spectrum of the central crystals (4‐by‐4) of the front detector against the entire back detector. The measured CRT was around 740 ps FWHM. [Color figure can be viewed at wileyonlinelibrary.com],./data/PMC6453727/images/figure_6.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/0dda079db394/MP-46-1798-g009.jpg
+PMC6453727,The spherical tumor sizes and distribution in the Monte Carlo study were illustrated in Fig. 4(b).,PMC6453727_figure_4,Figure 4.,"(a) An illustration showing the locations of the two PET detectors and the sampling pattern used to image the cylindrical phantom. The blue block denotes the back detector while the green block denotes the front detector. The red circle represents the cylindrical phantom. The coincidence events were acquired at 27 angles by placing both the front and back detectors at seven different positions, as illustrated in dashed line (of all colors); (b) The distribution of nine spherical tumors simulated in the Monte Carlo study. The tumors were each placed at the center slice of the cylindrical phantom. [Color figure can be viewed at wileyonlinelibrary.com]",./data/PMC6453727/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/d40e420d7ea9/MP-46-1798-g001.jpg
+PMC6453727,"List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and subsequently using TOF information from POC‐PET systems that have CRTs of 700, 500, 300, and 100 ps FWHM, as simulated in GATE.2.C.2.",PMC6453727_figure_1,Figure 1.,"(a) Structure of the fully 3‐D GPU‐based list‐mode image reconstruction workflow. The PET detector trajectories are modeled as a series of static positions during the scan. Current system geometry is computed from the initial detector geometry and the current locations of detector panels. Sensitivity image of current system geometry is computed and added to the previous sensitivity image for image reconstruction using all list‐mode events acquired so far. Using the arrival time of each event and the time frame information of each panel location, the crystal positions of each coincidence event are calculated and sent to GPU memory for list‐mode image reconstruction. The image reconstruction will stop after a pre‐defined number of iterations (N = 10 in this work). (b) Flowchart showing list‐mode GPU reconstruction kernel.",./data/PMC6453727/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/8edb759c3e19/MP-46-1798-g013.jpg
+PMC6453727,"Of the 27 sampling angles simulated, 22 of them are subdivided into six groups, as illustrated in Fig. 4(a) using color‐coded dashed lines.",PMC6453727_figure_4,Figure 4.,"(a) An illustration showing the locations of the two PET detectors and the sampling pattern used to image the cylindrical phantom. The blue block denotes the back detector while the green block denotes the front detector. The red circle represents the cylindrical phantom. The coincidence events were acquired at 27 angles by placing both the front and back detectors at seven different positions, as illustrated in dashed line (of all colors); (b) The distribution of nine spherical tumors simulated in the Monte Carlo study. The tumors were each placed at the center slice of the cylindrical phantom. [Color figure can be viewed at wileyonlinelibrary.com]",./data/PMC6453727/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/d40e420d7ea9/MP-46-1798-g001.jpg
+PMC6453727,The phantom is imaged from four different angles as shown in Fig. 5.,PMC6453727_figure_5,Figure 5.,Scanning strategy when imaging a body‐sized phantom using a large POC‐PET system. (a) scanning angle 1; (b) scanning angle 2; (c) scanning angle 3; (d) scanning angle 4. [Color figure can be viewed at wileyonlinelibrary.com],./data/PMC6453727/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/343289ca70b5/MP-46-1798-g010.jpg
+PMC6453727,"Detector characterization
+Figure 6(a) and 6(b) show the flood images of two block detectors in the prototype POC‐PET system.",PMC6453727_figure_6,Figure 6.,(a) Flood image of the front detector; (b) Flood image of the back detector; (c) Timing spectrum of the central crystals (4‐by‐4) of the front detector against the entire back detector. The measured CRT was around 740 ps FWHM. [Color figure can be viewed at wileyonlinelibrary.com],./data/PMC6453727/images/figure_6.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/0dda079db394/MP-46-1798-g009.jpg
+PMC6453727,The measured CRT was around 740 ps FWHM. [Color figure can be viewed at wileyonlinelibrary.com]Figure 6(c) shows the coincidence timing spectrum between the two PET detectors.,PMC6453727_figure_6,Figure 6.,(a) Flood image of the front detector; (b) Flood image of the back detector; (c) Timing spectrum of the central crystals (4‐by‐4) of the front detector against the entire back detector. The measured CRT was around 740 ps FWHM. [Color figure can be viewed at wileyonlinelibrary.com],./data/PMC6453727/images/figure_6.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/0dda079db394/MP-46-1798-g009.jpg
+PMC6453727,"Phantom imaging
+Using the 27 sampling angles defined in Fig. 4(a), the sensitivity image of the prototype POC‐PET system is shown in Fig. 7(b).",PMC6453727_figure_4,Figure 4.,"(a) An illustration showing the locations of the two PET detectors and the sampling pattern used to image the cylindrical phantom. The blue block denotes the back detector while the green block denotes the front detector. The red circle represents the cylindrical phantom. The coincidence events were acquired at 27 angles by placing both the front and back detectors at seven different positions, as illustrated in dashed line (of all colors); (b) The distribution of nine spherical tumors simulated in the Monte Carlo study. The tumors were each placed at the center slice of the cylindrical phantom. [Color figure can be viewed at wileyonlinelibrary.com]",./data/PMC6453727/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/d40e420d7ea9/MP-46-1798-g001.jpg
+PMC6453727,"Phantom imaging
+Using the 27 sampling angles defined in Fig. 4(a), the sensitivity image of the prototype POC‐PET system is shown in Fig. 7(b).",PMC6453727_figure_7,Figure 7.,"(a) Illustration of the sizes and distribution of the spherical tumor inserts in the cylindrical phantom; (b) Sensitivity image of the prototype POC‐PET system; (c) Image of a cylindrical phantom containing nine spherical tumors with 8:1 tumor‐to‐background radioactivity concentration, reconstructed without TOF information; (d) Image reconstructed with TOF information. [Color figure can be viewed at wileyonlinelibrary.com]",./data/PMC6453727/images/figure_7.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/cdb1a352b6ac/MP-46-1798-g008.jpg
+PMC6453727,Figure 7(c) shows images reconstructed without TOF information.,PMC6453727_figure_7,Figure 7.,"(a) Illustration of the sizes and distribution of the spherical tumor inserts in the cylindrical phantom; (b) Sensitivity image of the prototype POC‐PET system; (c) Image of a cylindrical phantom containing nine spherical tumors with 8:1 tumor‐to‐background radioactivity concentration, reconstructed without TOF information; (d) Image reconstructed with TOF information. [Color figure can be viewed at wileyonlinelibrary.com]",./data/PMC6453727/images/figure_7.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/cdb1a352b6ac/MP-46-1798-g008.jpg
+PMC6453727,"More importantly, there is a hot spot (highlighted by the red circle) outside of the cylindrical phantom where the system sensitivity is low [also highlighted in Fig. 7(b)].",PMC6453727_figure_7,Figure 7.,"(a) Illustration of the sizes and distribution of the spherical tumor inserts in the cylindrical phantom; (b) Sensitivity image of the prototype POC‐PET system; (c) Image of a cylindrical phantom containing nine spherical tumors with 8:1 tumor‐to‐background radioactivity concentration, reconstructed without TOF information; (d) Image reconstructed with TOF information. [Color figure can be viewed at wileyonlinelibrary.com]",./data/PMC6453727/images/figure_7.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/cdb1a352b6ac/MP-46-1798-g008.jpg
+PMC6453727,"In contrast, Fig. 7(d) shows images reconstructed with TOF information.",PMC6453727_figure_7,Figure 7.,"(a) Illustration of the sizes and distribution of the spherical tumor inserts in the cylindrical phantom; (b) Sensitivity image of the prototype POC‐PET system; (c) Image of a cylindrical phantom containing nine spherical tumors with 8:1 tumor‐to‐background radioactivity concentration, reconstructed without TOF information; (d) Image reconstructed with TOF information. [Color figure can be viewed at wileyonlinelibrary.com]",./data/PMC6453727/images/figure_7.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/cdb1a352b6ac/MP-46-1798-g008.jpg
+PMC6453727,"A tumor, 6.3 mm in diameter, was not visible in the images [Fig. 7(c) and 7(d)] due to an operator error that led to trapped air bubbles when filling the tumor with radioactivity.",PMC6453727_figure_7,Figure 7.,"(a) Illustration of the sizes and distribution of the spherical tumor inserts in the cylindrical phantom; (b) Sensitivity image of the prototype POC‐PET system; (c) Image of a cylindrical phantom containing nine spherical tumors with 8:1 tumor‐to‐background radioactivity concentration, reconstructed without TOF information; (d) Image reconstructed with TOF information. [Color figure can be viewed at wileyonlinelibrary.com]",./data/PMC6453727/images/figure_7.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/cdb1a352b6ac/MP-46-1798-g008.jpg
+PMC6453727,Results are shown in Fig. 8.,PMC6453727_figure_8,Figure 8.,Images of the cylindrical phantom measured by the simulated POC‐PET systems. (a) The distribution of nine spherical tumors in the phantom simulated in the Monte Carlo study Images were reconstructed (b) without the TOF information or with a detector CRT of (c) 700 ps FWHM; (d) 500 ps FWHM; (e) 300 ps FWHM; and (f) 100 ps FWHM. [Color figure can be viewed at wileyonlinelibrary.com],./data/PMC6453727/images/figure_8.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/42b11ed501d3/MP-46-1798-g007.jpg
+PMC6453727,"Figure 9 shows the images reconstructed without TOF information, while Fig. 10 shows the corresponding reconstructed images when the detector CRT is 300 ps FWHM.",PMC6453727_figure_9,Figure 9.,Images reconstructed without TOF information using different numbers of groups of data.,./data/PMC6453727/images/figure_9.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/b6bce10f2d2f/MP-46-1798-g006.jpg
+PMC6453727,"Figure 9 shows the images reconstructed without TOF information, while Fig. 10 shows the corresponding reconstructed images when the detector CRT is 300 ps FWHM.",PMC6453727_figure_10,Figure 10.,Images reconstructed using different numbers of groups of data when the detector timing resolution was 300 ps FWHM.,./data/PMC6453727/images/figure_10.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/cacc59edbbad/MP-46-1798-g005.jpg
+PMC6453727,"Open in a new tab
+Images reconstructed without TOF information using different numbers of groups of data.Figure 10.",PMC6453727_figure_10,Figure 10.,Images reconstructed using different numbers of groups of data when the detector timing resolution was 300 ps FWHM.,./data/PMC6453727/images/figure_10.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/cacc59edbbad/MP-46-1798-g005.jpg
+PMC6453727,"As shown in Table 1, the reconstruction time for the images in Fig. 10 is approximately 65 s each for ten iterations including the time for writing images into files.",PMC6453727_figure_10,Figure 10.,Images reconstructed using different numbers of groups of data when the detector timing resolution was 300 ps FWHM.,./data/PMC6453727/images/figure_10.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/cacc59edbbad/MP-46-1798-g005.jpg
+PMC6453727,Reconstruction time for the images shown in Fig. 10.,PMC6453727_figure_10,Figure 10.,Images reconstructed using different numbers of groups of data when the detector timing resolution was 300 ps FWHM.,./data/PMC6453727/images/figure_10.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/cacc59edbbad/MP-46-1798-g005.jpg
+PMC6453727,"Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction
+
+
+
+
+
+Images
+Overall reconstruction time
+GPU computation time
+
+
+
+Figure 10(a): Group 1
+62.61 s
+2.45 s
+
+
+Figure 10(b): Group 1 + 5
+63.46 s
+2.93 s
+
+
+Figure 10(c): Group 1 + 5 + 3
+64.65 s
+3.38 s
+
+
+Figure 10(d): Group 1 + 5 + 3 + 6
+64.92 s
+3.74 s
+
+
+Figure 10(e): Group 1 + 5 + 3 + 6 + 4
+65.17 s
+4.15 s
+
+
+Figure 10(f): Group 1 + 5 + 3 + 6 + 4 + 2
+65.91 s
+4.51 s
+
+
+
+Open in a new tab3.D.",PMC6453727_figure_10,Figure 10.,Images reconstructed using different numbers of groups of data when the detector timing resolution was 300 ps FWHM.,./data/PMC6453727/images/figure_10.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/cacc59edbbad/MP-46-1798-g005.jpg
+PMC6453727,"Simulation of a large POC‐PET system for body‐size phantom imaging
+We reconstructed four images (as shown in Fig. 11) following the sequence described in Section 2.C.3.",PMC6453727_figure_11,Figure 11.,Images reconstructed using list‐mode data from different numbers of sampling angles. (a) Sampling angle 1; (b) Sampling angles 1 + 2; (c) Sampling angles 1 + 2 +  3; (d) Sampling angles 1 + 2 +  3 + 4.,./data/PMC6453727/images/figure_11.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/0bd87a3fc4fd/MP-46-1798-g004.jpg
+PMC6453727,"However, even with a mere three sampling angles and a total DAQ time of 300 s, the image in Fig. 11(c) can still re‐solve most of the tumors.",PMC6453727_figure_11,Figure 11.,Images reconstructed using list‐mode data from different numbers of sampling angles. (a) Sampling angle 1; (b) Sampling angles 1 + 2; (c) Sampling angles 1 + 2 +  3; (d) Sampling angles 1 + 2 +  3 + 4.,./data/PMC6453727/images/figure_11.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/0bd87a3fc4fd/MP-46-1798-g004.jpg
+PMC6453727,Figure 12 shows the calculated average CRC as a function of tumor size.,PMC6453727_figure_12,Figure 12.,The average CRC as a function of tumor sizes estimated from the four images in Fig. 11. [Color figure can be viewed at wileyonlinelibrary.com],./data/PMC6453727/images/figure_12.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/eebfdd7f91df/MP-46-1798-g003.jpg
+PMC6453727,"The average CRCs were 4.1%, 8.8%, 13.7%, 16.8%, 15.1%, and 21.3%, respectively, for tumors with diameter ranging from 4 to 11 mm in Fig. 11(b).",PMC6453727_figure_11,Figure 11.,Images reconstructed using list‐mode data from different numbers of sampling angles. (a) Sampling angle 1; (b) Sampling angles 1 + 2; (c) Sampling angles 1 + 2 +  3; (d) Sampling angles 1 + 2 +  3 + 4.,./data/PMC6453727/images/figure_11.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/0bd87a3fc4fd/MP-46-1798-g004.jpg
+PMC6453727,"The average CRCs were improved to 5.2%, 10.3%, 14.4%, 23.3%, 24.0%, and 28.7%, respectively, when three groups of data were used for reconstruction as shown in Fig. 12(c).",PMC6453727_figure_12,Figure 12.,The average CRC as a function of tumor sizes estimated from the four images in Fig. 11. [Color figure can be viewed at wileyonlinelibrary.com],./data/PMC6453727/images/figure_12.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/eebfdd7f91df/MP-46-1798-g003.jpg
+PMC6453727,"Open in a new tab
+Images reconstructed using list‐mode data from different numbers of sampling angles. (a) Sampling angle 1; (b) Sampling angles 1 + 2; (c) Sampling angles 1 + 2 +  3; (d) Sampling angles 1 + 2 +  3 + 4.Figure 12.",PMC6453727_figure_12,Figure 12.,The average CRC as a function of tumor sizes estimated from the four images in Fig. 11. [Color figure can be viewed at wileyonlinelibrary.com],./data/PMC6453727/images/figure_12.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/eebfdd7f91df/MP-46-1798-g003.jpg
+PMC6453727,"Open in a new tab
+The average CRC as a function of tumor sizes estimated from the four images in Fig. 11. [Color figure can be viewed at wileyonlinelibrary.com]Table 2.",PMC6453727_figure_11,Figure 11.,Images reconstructed using list‐mode data from different numbers of sampling angles. (a) Sampling angle 1; (b) Sampling angles 1 + 2; (c) Sampling angles 1 + 2 +  3; (d) Sampling angles 1 + 2 +  3 + 4.,./data/PMC6453727/images/figure_11.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/0bd87a3fc4fd/MP-46-1798-g004.jpg
+PMC6453727,Reconstruction time for the images shown in Figure 11.,PMC6453727_figure_11,Figure 11.,Images reconstructed using list‐mode data from different numbers of sampling angles. (a) Sampling angle 1; (b) Sampling angles 1 + 2; (c) Sampling angles 1 + 2 +  3; (d) Sampling angles 1 + 2 +  3 + 4.,./data/PMC6453727/images/figure_11.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/0bd87a3fc4fd/MP-46-1798-g004.jpg
+PMC6453727,"Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction
+
+
+
+
+
+Images
+Overall reconstruction time
+GPU calculation time
+
+
+
+Figure 12(a): Angle 1
+54.8 s
+5.6 s
+
+
+Figure 12(b): Angle 1 + 2
+76.5 s
+13.5 s
+
+
+Figure 12(c): Angle 1 + 2 + 3
+88.8 s
+21.1 s
+
+
+Figure 12(d): Angle 1 + 2 + 3 + 4
+108.1 s
+29.8 s
+
+
+
+Open in a new tab4.",PMC6453727_figure_12,Figure 12.,The average CRC as a function of tumor sizes estimated from the four images in Fig. 11. [Color figure can be viewed at wileyonlinelibrary.com],./data/PMC6453727/images/figure_12.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/eebfdd7f91df/MP-46-1798-g003.jpg
+PMC6453727,"We constructed a proof‐of‐concept prototype device using two typical PET block detectors, as shown in Fig. 2(a).",PMC6453727_figure_2,Figure 2.,(a) Schematic drawing of the prototype POC‐PET system; (b) Illustration of the sizes and distribution of the spherical tumor inserts in the cylindrical phantom. The 6.3 mm tumor highlighted in a blue box is the one that was accidentally filled with air bubbles. [Color figure can be viewed at wileyonlinelibrary.com],./data/PMC6453727/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/13c8aacffd2a/MP-46-1798-g012.jpg
+PMC6453727,"We performed an imaging study of a small cylindrical phantom using the prototype system, as shown in Fig. 2(a).",PMC6453727_figure_2,Figure 2.,(a) Schematic drawing of the prototype POC‐PET system; (b) Illustration of the sizes and distribution of the spherical tumor inserts in the cylindrical phantom. The 6.3 mm tumor highlighted in a blue box is the one that was accidentally filled with air bubbles. [Color figure can be viewed at wileyonlinelibrary.com],./data/PMC6453727/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/13c8aacffd2a/MP-46-1798-g012.jpg
+PMC6453727,List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and secondly using TOF information based on the CRT of the system as characterized in the previous section.,PMC6453727_figure_1,Figure 1.,"(a) Structure of the fully 3‐D GPU‐based list‐mode image reconstruction workflow. The PET detector trajectories are modeled as a series of static positions during the scan. Current system geometry is computed from the initial detector geometry and the current locations of detector panels. Sensitivity image of current system geometry is computed and added to the previous sensitivity image for image reconstruction using all list‐mode events acquired so far. Using the arrival time of each event and the time frame information of each panel location, the crystal positions of each coincidence event are calculated and sent to GPU memory for list‐mode image reconstruction. The image reconstruction will stop after a pre‐defined number of iterations (N = 10 in this work). (b) Flowchart showing list‐mode GPU reconstruction kernel.",./data/PMC6453727/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/8edb759c3e19/MP-46-1798-g013.jpg
+PMC6453727,"List‐mode events were reconstructed based on the flowchart in Fig. 1 first without the TOF information and subsequently using TOF information from POC‐PET systems that have CRTs of 700, 500, 300, and 100 ps FWHM, as simulated in GATE.",PMC6453727_figure_1,Figure 1.,"(a) Structure of the fully 3‐D GPU‐based list‐mode image reconstruction workflow. The PET detector trajectories are modeled as a series of static positions during the scan. Current system geometry is computed from the initial detector geometry and the current locations of detector panels. Sensitivity image of current system geometry is computed and added to the previous sensitivity image for image reconstruction using all list‐mode events acquired so far. Using the arrival time of each event and the time frame information of each panel location, the crystal positions of each coincidence event are calculated and sent to GPU memory for list‐mode image reconstruction. The image reconstruction will stop after a pre‐defined number of iterations (N = 10 in this work). (b) Flowchart showing list‐mode GPU reconstruction kernel.",./data/PMC6453727/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/8edb759c3e19/MP-46-1798-g013.jpg
+PMC6453727,"Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction
+
+
+
+
+
+Images
+Overall reconstruction time
+GPU calculation time
+
+
+
+Figure 12(a): Angle 1
+54.8 s
+5.6 s
+
+
+Figure 12(b): Angle 1 + 2
+76.5 s
+13.5 s
+
+
+Figure 12(c): Angle 1 + 2 + 3
+88.8 s
+21.1 s
+
+
+Figure 12(d): Angle 1 + 2 + 3 + 4
+108.1 s
+29.8 s
+
+
+
+Open in a new tab.",PMC6453727_figure_12,Figure 12.,The average CRC as a function of tumor sizes estimated from the four images in Fig. 11. [Color figure can be viewed at wileyonlinelibrary.com],./data/PMC6453727/images/figure_12.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/eebfdd7f91df/MP-46-1798-g003.jpg
+PMC6453727,Figure 6(a) and 6(b) show the flood images of two block detectors in the prototype POC‐PET system.,PMC6453727_figure_6,Figure 6.,(a) Flood image of the front detector; (b) Flood image of the back detector; (c) Timing spectrum of the central crystals (4‐by‐4) of the front detector against the entire back detector. The measured CRT was around 740 ps FWHM. [Color figure can be viewed at wileyonlinelibrary.com],./data/PMC6453727/images/figure_6.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/0dda079db394/MP-46-1798-g009.jpg
+PMC6453727,Figure 6(c) shows the coincidence timing spectrum between the two PET detectors.,PMC6453727_figure_6,Figure 6.,(a) Flood image of the front detector; (b) Flood image of the back detector; (c) Timing spectrum of the central crystals (4‐by‐4) of the front detector against the entire back detector. The measured CRT was around 740 ps FWHM. [Color figure can be viewed at wileyonlinelibrary.com],./data/PMC6453727/images/figure_6.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/0dda079db394/MP-46-1798-g009.jpg
+PMC6453727,"Using the 27 sampling angles defined in Fig. 4(a), the sensitivity image of the prototype POC‐PET system is shown in Fig. 7(b).",PMC6453727_figure_4,Figure 4.,"(a) An illustration showing the locations of the two PET detectors and the sampling pattern used to image the cylindrical phantom. The blue block denotes the back detector while the green block denotes the front detector. The red circle represents the cylindrical phantom. The coincidence events were acquired at 27 angles by placing both the front and back detectors at seven different positions, as illustrated in dashed line (of all colors); (b) The distribution of nine spherical tumors simulated in the Monte Carlo study. The tumors were each placed at the center slice of the cylindrical phantom. [Color figure can be viewed at wileyonlinelibrary.com]",./data/PMC6453727/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/d40e420d7ea9/MP-46-1798-g001.jpg
+PMC6453727,"Using the 27 sampling angles defined in Fig. 4(a), the sensitivity image of the prototype POC‐PET system is shown in Fig. 7(b).",PMC6453727_figure_7,Figure 7.,"(a) Illustration of the sizes and distribution of the spherical tumor inserts in the cylindrical phantom; (b) Sensitivity image of the prototype POC‐PET system; (c) Image of a cylindrical phantom containing nine spherical tumors with 8:1 tumor‐to‐background radioactivity concentration, reconstructed without TOF information; (d) Image reconstructed with TOF information. [Color figure can be viewed at wileyonlinelibrary.com]",./data/PMC6453727/images/figure_7.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/cdb1a352b6ac/MP-46-1798-g008.jpg
+PMC6453727,"Times shown in the table are all for ten iterations of list‐mode TOF‐PET image reconstruction
+
+
+
+
+
+Images
+Overall reconstruction time
+GPU computation time
+
+
+
+Figure 10(a): Group 1
+62.61 s
+2.45 s
+
+
+Figure 10(b): Group 1 + 5
+63.46 s
+2.93 s
+
+
+Figure 10(c): Group 1 + 5 + 3
+64.65 s
+3.38 s
+
+
+Figure 10(d): Group 1 + 5 + 3 + 6
+64.92 s
+3.74 s
+
+
+Figure 10(e): Group 1 + 5 + 3 + 6 + 4
+65.17 s
+4.15 s
+
+
+Figure 10(f): Group 1 + 5 + 3 + 6 + 4 + 2
+65.91 s
+4.51 s
+
+
+
+Open in a new tab.",PMC6453727_figure_10,Figure 10.,Images reconstructed using different numbers of groups of data when the detector timing resolution was 300 ps FWHM.,./data/PMC6453727/images/figure_10.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/cacc59edbbad/MP-46-1798-g005.jpg
+PMC6453727,"Images
+Overall reconstruction time
+GPU computation time
+
+
+
+Figure 10(a): Group 1
+62.61 s
+2.45 s
+
+
+Figure 10(b): Group 1 + 5
+63.46 s
+2.93 s
+
+
+Figure 10(c): Group 1 + 5 + 3
+64.65 s
+3.38 s
+
+
+Figure 10(d): Group 1 + 5 + 3 + 6
+64.92 s
+3.74 s
+
+
+Figure 10(e): Group 1 + 5 + 3 + 6 + 4
+65.17 s
+4.15 s
+
+
+Figure 10(f): Group 1 + 5 + 3 + 6 + 4 + 2
+65.91 s
+4.51 s.",PMC6453727_figure_10,Figure 10.,Images reconstructed using different numbers of groups of data when the detector timing resolution was 300 ps FWHM.,./data/PMC6453727/images/figure_10.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/cacc59edbbad/MP-46-1798-g005.jpg
+PMC6453727,We reconstructed four images (as shown in Fig. 11) following the sequence described in Section 2.C.3.,PMC6453727_figure_11,Figure 11.,Images reconstructed using list‐mode data from different numbers of sampling angles. (a) Sampling angle 1; (b) Sampling angles 1 + 2; (c) Sampling angles 1 + 2 +  3; (d) Sampling angles 1 + 2 +  3 + 4.,./data/PMC6453727/images/figure_11.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/0bd87a3fc4fd/MP-46-1798-g004.jpg
+PMC6453727,The average CRC as a function of tumor sizes estimated from the four images in Fig. 11. [Color figure can be viewed at wileyonlinelibrary.com].,PMC6453727_figure_11,Figure 11.,Images reconstructed using list‐mode data from different numbers of sampling angles. (a) Sampling angle 1; (b) Sampling angles 1 + 2; (c) Sampling angles 1 + 2 +  3; (d) Sampling angles 1 + 2 +  3 + 4.,./data/PMC6453727/images/figure_11.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/0bd87a3fc4fd/MP-46-1798-g004.jpg
+PMC6453727,"Images
+Overall reconstruction time
+GPU calculation time
+
+
+
+Figure 12(a): Angle 1
+54.8 s
+5.6 s
+
+
+Figure 12(b): Angle 1 + 2
+76.5 s
+13.5 s
+
+
+Figure 12(c): Angle 1 + 2 + 3
+88.8 s
+21.1 s
+
+
+Figure 12(d): Angle 1 + 2 + 3 + 4
+108.1 s
+29.8 s.",PMC6453727_figure_12,Figure 12.,The average CRC as a function of tumor sizes estimated from the four images in Fig. 11. [Color figure can be viewed at wileyonlinelibrary.com],./data/PMC6453727/images/figure_12.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b532/9559923/eebfdd7f91df/MP-46-1798-g003.jpg

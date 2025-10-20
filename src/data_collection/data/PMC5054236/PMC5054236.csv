@@ -1,0 +1,80 @@
+paper_id,claim,figure_id,title,caption,local_image_path,url
+PMC5054236,Figure 1 depicts a pair of positive and negative snippets.,PMC5054236_figure_1,Figure 1.,A pair of positive and negative instance snippets from the Sumner press release (PR) dataset.,./data/PMC5054236/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/56fe/5054236/3234364cf9b7/medinform_v4i3e27_fig1.jpg
+PMC5054236,"Specifically, given a labeled corpus, we optimize the objective in Equation 1 in Figure 2.",PMC5054236_figure_2,Figure 2.,"Equation 1. Xi is the feature vector representing the i th article—comprising counts of uni- and bigrams— yi is the label for this article, w is the weight vector to be estimated from the data, and wis an intercept term. λ is a scalar hyper-parameter that controls the trade-off between regularization strength and empirical predictive performance on the training set.",./data/PMC5054236/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/56fe/5054236/903252a0fff3/medinform_v4i3e27_fig2.jpg
+PMC5054236,"In Figure 2, Xi is the feature vector representing the i th article—comprising counts of uni- and bigrams— yi is the label for this article, w is the weight vector to be estimated from the data, and w0 is an intercept term.",PMC5054236_figure_2,Figure 2.,"Equation 1. Xi is the feature vector representing the i th article—comprising counts of uni- and bigrams— yi is the label for this article, w is the weight vector to be estimated from the data, and wis an intercept term. λ is a scalar hyper-parameter that controls the trade-off between regularization strength and empirical predictive performance on the training set.",./data/PMC5054236/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/56fe/5054236/903252a0fff3/medinform_v4i3e27_fig2.jpg
+PMC5054236,"For each word in position n in the article,
+(a) Draw topic assignment zn|θ ~ Multinomial (θ)
+(b) Draw word as in Figure 3.",PMC5054236_figure_3,Figure 3.,"Word distribution. wn is the word at position n, zn is the topic at position n, and βK is a vector of term probabilities.",./data/PMC5054236/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/56fe/5054236/14f308ff4a1f/medinform_v4i3e27_fig3.jpg
+PMC5054236,"Draw class label as in Figure 4, where N is the total number of words in the article, and the empirical topic frequencies of the article is as shown in Figure 5.",PMC5054236_figure_4,Figure 4.,"Class label. c is class label, η is a K-dimensional vector of real values.",./data/PMC5054236/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/56fe/5054236/df13cb9aaf88/medinform_v4i3e27_fig4.jpg
+PMC5054236,The softmax function is as shown in Equation 2 in Figure 6.,PMC5054236_figure_6,Figure 6.,Equation 2: softmax function.,./data/PMC5054236/images/figure_6.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/56fe/5054236/8e5c8c05aa09/medinform_v4i3e27_fig6.jpg
+PMC5054236,"Open in a new tab
+Empirical topic frequencies.Figure 6.",PMC5054236_figure_6,Figure 6.,Equation 2: softmax function.,./data/PMC5054236/images/figure_6.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/56fe/5054236/8e5c8c05aa09/medinform_v4i3e27_fig6.jpg
+PMC5054236,"Open in a new tab
+Density curve of coefficient values of four positively predictive words on Sumner press release datasets.Figure 8.",PMC5054236_figure_8,Figure 8.,Density curve of coefficient values of four negatively predictive words on Sumner press release datasets.,./data/PMC5054236/images/figure_8.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/56fe/5054236/635523c7633f/medinform_v4i3e27_fig8.jpg
+PMC5054236,"Open in a new tab
+Density curve of coefficient values of four negatively predictive words on Sumner press release datasets.We also present output from a 20-topic sLDA model fit to the Sumner PR dataset in Figure 9.",PMC5054236_figure_9,Figure 9.,The top 10 most probable words under the topics uncovered by a 20-topic supervised latent Dirichlet allocation model fit to the Sumner press release dataset. The horizontal axis corresponds to the coefficient of the topic. mh: this prefix indicates a Medical Subject Headings (MeSH) term; ti: this prefix indicates a title term.,./data/PMC5054236/images/figure_9.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/56fe/5054236/61210b1148fe/medinform_v4i3e27_fig9.jpg
+PMC5054236,"Figure 10 shows the 20-topic sLDA model fit to this dataset, again using press release issuance as the supervision.",PMC5054236_figure_10,Figure 10.,"The top 10 most probable words under the topics uncovered by a 20-topic supervised latent Dirichlet allocation model fit to the Journal of the American Medical Association dataset, using press release issuance as the supervision. The horizontal axis corresponds to the coefficient of the topic. mh: this prefix indicates a Medical Subject Headings (MeSH) term.",./data/PMC5054236/images/figure_10.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/56fe/5054236/68a268a9c9d1/medinform_v4i3e27_fig10.jpg
+PMC5054236,"Top 25 positive press release features:
+
+face
+research funded
+shown
+better
+motor
+years
+gene
+england
+edinburgh
+trial
+production
+flu
+council
+targeting
+producing
+roslin
+research council
+roslin institute
+widespread
+royal society
+faces
+providing
+website
+affecting
+exciting
+Figure 11.",PMC5054236_figure_11,Figure 11.,Density curve of coefficient values of four positively predictive words on Sumner news coverage (NC) dataset.,./data/PMC5054236/images/figure_11.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/56fe/5054236/6c1fa2d5bdf9/medinform_v4i3e27_fig11.jpg
+PMC5054236,"Open in a new tab
+Density curve of coefficient values of four positively predictive words on Sumner news coverage (NC) dataset.Figure 12.",PMC5054236_figure_12,Figure 12.,Density curve of coefficient values of four negatively predictive words on Sumner news coverage (NC) dataset.,./data/PMC5054236/images/figure_12.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/56fe/5054236/e77ef8483c96/medinform_v4i3e27_fig12.jpg
+PMC5054236,"Top 25 positive article features:
+
+95% ci
+women
+use
+risk
+countries
+variation
+hazard
+body
+england
+participants
+TI-cohort (TI prefix indicates a title term)
+council
+TI-cohort TI-study
+research council
+medical research
+individual
+individual
+sex
+main outcome
+cohort study
+systolic blood
+relevant
+cancers
+research
+TI-gene
+In Figure 13, we show results from the sLDA model fit to the Sumner NC corpus using journal features.",PMC5054236_figure_13,Figure 13.,Top 10 most probable words in the topics uncovered by the supervised latent Dirichlet allocation model—again assuming 20 topics—fit to the Sumner news coverage dataset. mh: this prefix indicates a Medical Subject Headings (MeSH) term; ti: this prefix indicates a title term.,./data/PMC5054236/images/figure_13.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/56fe/5054236/71a2d00c2d4a/medinform_v4i3e27_fig13.jpg
+PMC5054236,"In Figure 14, we report output from the sLDA model: uncovered topics and their degree of correlation with news media coverage.",PMC5054236_figure_14,Figure 14.,"Top 10 words from the 20 topics uncovered by the supervised latent Dirichlet allocation on the Reuters corpus, again using news coverage as the supervision. mh: this prefix indicates a Medical Subject Headings (MeSH) term; ti: this prefix indicates a title term.",./data/PMC5054236/images/figure_14.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/56fe/5054236/c2936fae468e/medinform_v4i3e27_fig14.jpg
+PMC5054236,Inspecting the topics suggests a fair amount of overlap with the discriminative topics in Figure 7.,PMC5054236_figure_7,Figure 7.,Density curve of coefficient values of four positively predictive words on Sumner press release datasets.,./data/PMC5054236/images/figure_7.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/56fe/5054236/d17f78db0594/medinform_v4i3e27_fig7.jpg
+PMC5054236,"For example, women was a word found frequently in articles that received press releases; indeed, pregnancy and women were among the most probable words under the topic most strongly correlated with press release issuance (see Figure 4).",PMC5054236_figure_4,Figure 4.,"Class label. c is class label, η is a K-dimensional vector of real values.",./data/PMC5054236/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/56fe/5054236/df13cb9aaf88/medinform_v4i3e27_fig4.jpg
+PMC5054236,(b) Draw word as in Figure 3.,PMC5054236_figure_3,Figure 3.,"Word distribution. wn is the word at position n, zn is the topic at position n, and βK is a vector of term probabilities.",./data/PMC5054236/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/56fe/5054236/14f308ff4a1f/medinform_v4i3e27_fig3.jpg
+PMC5054236,We also present output from a 20-topic sLDA model fit to the Sumner PR dataset in Figure 9.,PMC5054236_figure_9,Figure 9.,The top 10 most probable words under the topics uncovered by a 20-topic supervised latent Dirichlet allocation model fit to the Sumner press release dataset. The horizontal axis corresponds to the coefficient of the topic. mh: this prefix indicates a Medical Subject Headings (MeSH) term; ti: this prefix indicates a title term.,./data/PMC5054236/images/figure_9.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/56fe/5054236/61210b1148fe/medinform_v4i3e27_fig9.jpg
+PMC5054236,"In Figure 13, we show results from the sLDA model fit to the Sumner NC corpus using journal features.",PMC5054236_figure_13,Figure 13.,Top 10 most probable words in the topics uncovered by the supervised latent Dirichlet allocation model—again assuming 20 topics—fit to the Sumner news coverage dataset. mh: this prefix indicates a Medical Subject Headings (MeSH) term; ti: this prefix indicates a title term.,./data/PMC5054236/images/figure_13.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/56fe/5054236/71a2d00c2d4a/medinform_v4i3e27_fig13.jpg

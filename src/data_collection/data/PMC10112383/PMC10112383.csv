@@ -1,0 +1,2244 @@
+paper_id,claim,figure_id,title,caption,local_image_path,url
+PMC10112383,"VDR protein levels were detected in all cells, and generally were elevated following 1α,25(OH)2D3 treatment, which was most pronounced in nonmalignant AA RC43N cells; RC77T cells did not change VDR expression in response to 1α,25(OH)2D3 (Fig. 1A).",PMC10112383_figure_1,FIGURE 1.,"Expression of VDR and responses to 1α,25(OH)2D3 in AA and EA cell lines. A, Western immunoblot measurements of VDR levels after 1α,25(OH)2D3 treatment (100 nmol/L, 24 hours) or vehicle control. B, RIME analyses of VDR in the indicated cells (in quadriplicates) and significantly different proteins were identified using an edgeR workflow. Volcano plots depicting enrichment levels, compared with IgG controls, between the indicated cells in basal or 1α,25(OH)2D3-stimulated conditions (100 nmol/L, 4 hours). Significant (Padj < 0.1) differentially and uniquely enriched proteins in each cell and treatment condition were classified either as a CoA, CoR, Mixed, or TF. C, The most altered components of the VDR complex were established in RC43T compared with LNCaP, and RC43N with HPr1AR, and then the delta between these comparisons were identified and ranked.",./data/PMC10112383/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/efa4c1e0d84c/crc-22-0389_fig1.jpg
+PMC10112383,"In RC43T compared with LNCaP, the basal VDR was enriched for the TF, SAFB2 and following 1α,25(OH)2D3 treatment there was a gain of the NFκB CoR PPP1R13L, TRIM29 and TGFB1, and loss of PARP1 (Fig. 1B; Supplementary Table S2).",PMC10112383_figure_1,FIGURE 1.,"Expression of VDR and responses to 1α,25(OH)2D3 in AA and EA cell lines. A, Western immunoblot measurements of VDR levels after 1α,25(OH)2D3 treatment (100 nmol/L, 24 hours) or vehicle control. B, RIME analyses of VDR in the indicated cells (in quadriplicates) and significantly different proteins were identified using an edgeR workflow. Volcano plots depicting enrichment levels, compared with IgG controls, between the indicated cells in basal or 1α,25(OH)2D3-stimulated conditions (100 nmol/L, 4 hours). Significant (Padj < 0.1) differentially and uniquely enriched proteins in each cell and treatment condition were classified either as a CoA, CoR, Mixed, or TF. C, The most altered components of the VDR complex were established in RC43T compared with LNCaP, and RC43N with HPr1AR, and then the delta between these comparisons were identified and ranked.",./data/PMC10112383/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/efa4c1e0d84c/crc-22-0389_fig1.jpg
+PMC10112383,"Next, we identified those differentially enriched proteins that were altered the most depending on genomic ancestry and oncogenic transformation (Fig. 1C).",PMC10112383_figure_1,FIGURE 1.,"Expression of VDR and responses to 1α,25(OH)2D3 in AA and EA cell lines. A, Western immunoblot measurements of VDR levels after 1α,25(OH)2D3 treatment (100 nmol/L, 24 hours) or vehicle control. B, RIME analyses of VDR in the indicated cells (in quadriplicates) and significantly different proteins were identified using an edgeR workflow. Volcano plots depicting enrichment levels, compared with IgG controls, between the indicated cells in basal or 1α,25(OH)2D3-stimulated conditions (100 nmol/L, 4 hours). Significant (Padj < 0.1) differentially and uniquely enriched proteins in each cell and treatment condition were classified either as a CoA, CoR, Mixed, or TF. C, The most altered components of the VDR complex were established in RC43T compared with LNCaP, and RC43N with HPr1AR, and then the delta between these comparisons were identified and ranked.",./data/PMC10112383/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/efa4c1e0d84c/crc-22-0389_fig1.jpg
+PMC10112383,"The greatest 1α,25(OH)2D3-dependent impact on NF and mononucleosome (mono) regions was in RC43N and RC43T (Fig. 2A, left, right).",PMC10112383_figure_2,FIGURE 2.,"VDR ATAC-seq in AA and EA cell lines. A, ATAC-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T following 1α,25(OH)2D3 treatment (100 nmol/L, 4 hours) or vehicle control. FASTQ files were QC processed, aligned to hg38 (Rsubread), sorted and duplicates removed before further processing with ATACseqQC to generate nucleosome free and mononucleosome regions. Differential enrichment of regions was measured with csaw and the significantly different regions (Padj < 0.1) were then intersected to generate the Venn diagrams of overlapping regions by a minimum of 1 bp (ChIPpeakAnno). B, Motif enrichment in NF regions was undertaken with Homer and ranked by significance to visualize in descending significance. C, Frequency of enriched motifs by TF families’ class. D, Enrichment of circadian rhythm TFs.",./data/PMC10112383/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/c41adce460c5/crc-22-0389_fig2.jpg
+PMC10112383,Others nuclear receptor motifs such as NR4A1/NUR77 and PGR were common (Fig. 3B; Supplementary Table S6).,PMC10112383_figure_3,FIGURE 3.,"VDR ChIP-seq in AA and EA cell lines. A, Basal and 1α,25(OH)2D3-stimulated (100 nmol/L, 6 hours) VDR ChIP-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T. FASTQ files were QC processed, aligned to hg38 (Rsubread), sorted and duplicates removed before differential enrichment of regions was measured with csaw and the significantly different regions compared with IgG controls (Padj < 0.1) were then intersected to generate the Venn diagrams of overlapping regions by a minimum of 1 bp (ChIPpeakAnno). B, Significantly differentially enriched motifs were identified by Homer and nuclear receptors are illustrated. C, Changes in motif enrichment were calculated (delta) and ranked by significance for visualization.",./data/PMC10112383/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/d9a81bad5ca0/crc-22-0389_fig3.jpg
+PMC10112383,"Again, delta enrichment values (Fig. 3C) revealed that 1α,25(OH)2D3 treatment reduced motif enrichment in LNCaP, RC43N, and RC43T cells suggesting that VDR binding sites became more exclusive.",PMC10112383_figure_3,FIGURE 3.,"VDR ChIP-seq in AA and EA cell lines. A, Basal and 1α,25(OH)2D3-stimulated (100 nmol/L, 6 hours) VDR ChIP-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T. FASTQ files were QC processed, aligned to hg38 (Rsubread), sorted and duplicates removed before differential enrichment of regions was measured with csaw and the significantly different regions compared with IgG controls (Padj < 0.1) were then intersected to generate the Venn diagrams of overlapping regions by a minimum of 1 bp (ChIPpeakAnno). B, Significantly differentially enriched motifs were identified by Homer and nuclear receptors are illustrated. C, Changes in motif enrichment were calculated (delta) and ranked by significance for visualization.",./data/PMC10112383/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/d9a81bad5ca0/crc-22-0389_fig3.jpg
+PMC10112383,"For example, RIME data (Fig. 1) were related to VDR cistromes (Fig. 2 and 3) within each cell.",PMC10112383_figure_1,FIGURE 1.,"Expression of VDR and responses to 1α,25(OH)2D3 in AA and EA cell lines. A, Western immunoblot measurements of VDR levels after 1α,25(OH)2D3 treatment (100 nmol/L, 24 hours) or vehicle control. B, RIME analyses of VDR in the indicated cells (in quadriplicates) and significantly different proteins were identified using an edgeR workflow. Volcano plots depicting enrichment levels, compared with IgG controls, between the indicated cells in basal or 1α,25(OH)2D3-stimulated conditions (100 nmol/L, 4 hours). Significant (Padj < 0.1) differentially and uniquely enriched proteins in each cell and treatment condition were classified either as a CoA, CoR, Mixed, or TF. C, The most altered components of the VDR complex were established in RC43T compared with LNCaP, and RC43N with HPr1AR, and then the delta between these comparisons were identified and ranked.",./data/PMC10112383/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/efa4c1e0d84c/crc-22-0389_fig1.jpg
+PMC10112383,"For example, RIME data (Fig. 1) were related to VDR cistromes (Fig. 2 and 3) within each cell.",PMC10112383_figure_2,FIGURE 2.,"VDR ATAC-seq in AA and EA cell lines. A, ATAC-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T following 1α,25(OH)2D3 treatment (100 nmol/L, 4 hours) or vehicle control. FASTQ files were QC processed, aligned to hg38 (Rsubread), sorted and duplicates removed before further processing with ATACseqQC to generate nucleosome free and mononucleosome regions. Differential enrichment of regions was measured with csaw and the significantly different regions (Padj < 0.1) were then intersected to generate the Venn diagrams of overlapping regions by a minimum of 1 bp (ChIPpeakAnno). B, Motif enrichment in NF regions was undertaken with Homer and ranked by significance to visualize in descending significance. C, Frequency of enriched motifs by TF families’ class. D, Enrichment of circadian rhythm TFs.",./data/PMC10112383/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/c41adce460c5/crc-22-0389_fig2.jpg
+PMC10112383,"The 1α,25(OH)2D3-dependent NF regions in RC43T annotated to multiple proteins that were enriched in the basal VDR complex (logPV = 26.8) including VDR and XRCC5 and given that these represent loss of NF regions it may reflect why the number of proteins in the 1α,25(OH)2D3-regulated VDR complex in RC43T is much reduced compared with the basal state (Fig. 1B).",PMC10112383_figure_1,FIGURE 1.,"Expression of VDR and responses to 1α,25(OH)2D3 in AA and EA cell lines. A, Western immunoblot measurements of VDR levels after 1α,25(OH)2D3 treatment (100 nmol/L, 24 hours) or vehicle control. B, RIME analyses of VDR in the indicated cells (in quadriplicates) and significantly different proteins were identified using an edgeR workflow. Volcano plots depicting enrichment levels, compared with IgG controls, between the indicated cells in basal or 1α,25(OH)2D3-stimulated conditions (100 nmol/L, 4 hours). Significant (Padj < 0.1) differentially and uniquely enriched proteins in each cell and treatment condition were classified either as a CoA, CoR, Mixed, or TF. C, The most altered components of the VDR complex were established in RC43T compared with LNCaP, and RC43N with HPr1AR, and then the delta between these comparisons were identified and ranked.",./data/PMC10112383/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/efa4c1e0d84c/crc-22-0389_fig1.jpg
+PMC10112383,"This identified 27 altered coregulators in AA patients, and from these, five were uniquely or more significantly altered in AA compared with EA TMPRSS2 fusion negative prostate cancer (Fig. 5A).",PMC10112383_figure_5,FIGURE 5.,"The impact of BAZ1A on expression of VDR-dependent gene networks. A, Altered BAZ1A and SMARCA5 expression in AA prostate cancer was identified in TCGA prostate cancer cohort by comparing EA and AA tumors and considering status of TMPRSS2 translocations. B, The blot used for Fig. 1A (cells treated with 1α,25(OH)2D3 (100 nmol/L, 24 hours) or vehicle control and total protein isolated) was stripped and reprobed with antibodies toward BAZ1A and SMARCA5. C, Unique DEGs in cells with restored expression of BAZ1A. D, BAZ1A-dependent DEGs enhanced inflammatory responses and repressed MYC networks. E, Comparable and divergent GSEA enrichment in BAZ1A-dependent DEGS in RC43N and RC43T that were different from the direction of enrichment in the parental cells.",./data/PMC10112383/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/0e5ebcdbe8b0/crc-22-0389_fig5.jpg
+PMC10112383,Expression responses were broadly the same for SMARCA5 (Fig. 5B).,PMC10112383_figure_5,FIGURE 5.,"The impact of BAZ1A on expression of VDR-dependent gene networks. A, Altered BAZ1A and SMARCA5 expression in AA prostate cancer was identified in TCGA prostate cancer cohort by comparing EA and AA tumors and considering status of TMPRSS2 translocations. B, The blot used for Fig. 1A (cells treated with 1α,25(OH)2D3 (100 nmol/L, 24 hours) or vehicle control and total protein isolated) was stripped and reprobed with antibodies toward BAZ1A and SMARCA5. C, Unique DEGs in cells with restored expression of BAZ1A. D, BAZ1A-dependent DEGs enhanced inflammatory responses and repressed MYC networks. E, Comparable and divergent GSEA enrichment in BAZ1A-dependent DEGS in RC43N and RC43T that were different from the direction of enrichment in the parental cells.",./data/PMC10112383/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/0e5ebcdbe8b0/crc-22-0389_fig5.jpg
+PMC10112383,"B, The blot used for Fig. 1A (cells treated with 1α,25(OH)2D3 (100 nmol/L, 24 hours) or vehicle control and total protein isolated) was stripped and reprobed with antibodies toward BAZ1A and SMARCA5.",PMC10112383_figure_1,FIGURE 1.,"Expression of VDR and responses to 1α,25(OH)2D3 in AA and EA cell lines. A, Western immunoblot measurements of VDR levels after 1α,25(OH)2D3 treatment (100 nmol/L, 24 hours) or vehicle control. B, RIME analyses of VDR in the indicated cells (in quadriplicates) and significantly different proteins were identified using an edgeR workflow. Volcano plots depicting enrichment levels, compared with IgG controls, between the indicated cells in basal or 1α,25(OH)2D3-stimulated conditions (100 nmol/L, 4 hours). Significant (Padj < 0.1) differentially and uniquely enriched proteins in each cell and treatment condition were classified either as a CoA, CoR, Mixed, or TF. C, The most altered components of the VDR complex were established in RC43T compared with LNCaP, and RC43N with HPr1AR, and then the delta between these comparisons were identified and ranked.",./data/PMC10112383/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/efa4c1e0d84c/crc-22-0389_fig1.jpg
+PMC10112383,"Finally, we used partial correlation analyses to define how genomic ancestry and oncogenic transformation enriched components of the VDR complex (Fig. 1C) impacted the strength of the correlations between VDR and AA VDR ChIP-seq annotated genes in AA tumors, or EA VDR ChIP-seq annotated genes in EA tumors.",PMC10112383_figure_1,FIGURE 1.,"Expression of VDR and responses to 1α,25(OH)2D3 in AA and EA cell lines. A, Western immunoblot measurements of VDR levels after 1α,25(OH)2D3 treatment (100 nmol/L, 24 hours) or vehicle control. B, RIME analyses of VDR in the indicated cells (in quadriplicates) and significantly different proteins were identified using an edgeR workflow. Volcano plots depicting enrichment levels, compared with IgG controls, between the indicated cells in basal or 1α,25(OH)2D3-stimulated conditions (100 nmol/L, 4 hours). Significant (Padj < 0.1) differentially and uniquely enriched proteins in each cell and treatment condition were classified either as a CoA, CoR, Mixed, or TF. C, The most altered components of the VDR complex were established in RC43T compared with LNCaP, and RC43N with HPr1AR, and then the delta between these comparisons were identified and ranked.",./data/PMC10112383/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/efa4c1e0d84c/crc-22-0389_fig1.jpg
+PMC10112383,"Supplementary Material
+
+Supplementary Table 1Supplementary Table_1 RIME
+
+
+crc-22-0389-s01.docx (16.2KB, docx) 
+
+Supplementary Table 2Supplementary Table _2 - RIME II
+
+
+crc-22-0389-s02.docx (15.8KB, docx) 
+
+Supplementary Table 3ST_3 ATAC-Seq
+
+
+crc-22-0389-s03.docx (17.1KB, docx) 
+
+Supplementary Table 4ST_4 ChIP-Seq
+
+
+crc-22-0389-s04.docx (13.8KB, docx) 
+
+Supplementary Table 5ST_5 ChromHMM
+
+
+crc-22-0389-s05.docx (14.5KB, docx) 
+
+Supplementary Table 6ST_6 ChIP-Seq Motif
+
+
+crc-22-0389-s06.docx (16.5KB, docx) 
+
+Supplementary Table 7ST_7 ATAC-Seq to RIME
+
+
+crc-22-0389-s07.docx (17KB, docx) 
+
+Supplementary Table 8ST_8 ATAC/ChIP-Seq to splicing
+
+
+crc-22-0389-s08.docx (15.2KB, docx) 
+
+Supplementary Table 9ST_9 LISA analyses of RNA-Seq
+
+
+crc-22-0389-s09.docx (17.9KB, docx) 
+
+Supplementary Table 10ST_10 ATAC overlap ChIP
+
+
+crc-22-0389-s10.docx (13.7KB, docx) 
+
+Supplementary Table 11ST_11 ATAC- to RNA-Seq
+
+
+crc-22-0389-s11.docx (22.9KB, docx) 
+
+Supplementary Table 12ST_12 ChIP-Seq to RNA-Seq
+
+
+crc-22-0389-s12.docx (19.1KB, docx) 
+
+Supplementary Table 13ST_13 BAZ1A and lineage plasticity
+
+
+crc-22-0389-s13.docx (14.9KB, docx) 
+
+Supplementary Table 14ST_14 Serum miRNA and PCa
+
+
+crc-22-0389-s14.docx (15.8KB, docx) 
+
+Supplementary Table 15ST_15 Cistrome and miRNA expression
+
+
+crc-22-0389-s15.docx (14.2KB, docx) 
+
+Supplementary Table 16ST_16 Cistrome and RNA-Seq in tumors
+
+
+crc-22-0389-s16.docx (15.8KB, docx) 
+
+Supplementary Figure 1SF_1 workflow
+
+
+crc-22-0389-s17.pptx (67.7KB, pptx) 
+
+Supplementary Figure 2SF_2 Ancestry cell lines
+
+
+crc-22-0389-s18.pptx (658.4KB, pptx) 
+
+Supplementary Figure 3SF_3 motifs in ATAC-Seq
+
+
+crc-22-0389-s19.pptx (597.7KB, pptx) 
+
+Supplementary Figure 4SF_4 VDR cistrome
+
+
+crc-22-0389-s20.pptx (337.6KB, pptx) 
+
+Supplementary Figure 5SF_5 ChIP-Seq motif
+
+
+crc-22-0389-s21.pptx (704.3KB, pptx) 
+
+Supplementary Figure 6SF_6 RNA-Seq PCA
+
+
+crc-22-0389-s22.pptx (208.6KB, pptx) 
+
+Supplementary Figure 7SF_7 RNA-Seq volcanos
+
+
+crc-22-0389-s23.pptx (1.1MB, pptx) 
+
+Supplementary Figure 8SF_8 RNA-Seq GSEA
+
+
+crc-22-0389-s24.pptx (795.3KB, pptx) 
+
+Supplementary Figure 9SF_9 overlap miRNA
+
+
+crc-22-0389-s25.pptx (391.9KB, pptx) 
+
+Supplementary Figure 10SF_10 cistrome-transcriptome
+
+
+crc-22-0389-s26.pptx (8.6MB, pptx) 
+
+Supplementary Figure 11SF_11 BAZ containing complexes expression
+
+
+crc-22-0389-s27.pptx (930.6KB, pptx) 
+
+Supplementary Figure 12SF_12 BAZ1A-GSEA
+
+
+crc-22-0389-s28.pptx (644.4KB, pptx) 
+
+Supplementary Figure 13SF_13 GSEA tumors
+
+
+crc-22-0389-s29.pptx (571.2KB, pptx).",PMC10112383_figure_1,FIGURE 1.,"Expression of VDR and responses to 1α,25(OH)2D3 in AA and EA cell lines. A, Western immunoblot measurements of VDR levels after 1α,25(OH)2D3 treatment (100 nmol/L, 24 hours) or vehicle control. B, RIME analyses of VDR in the indicated cells (in quadriplicates) and significantly different proteins were identified using an edgeR workflow. Volcano plots depicting enrichment levels, compared with IgG controls, between the indicated cells in basal or 1α,25(OH)2D3-stimulated conditions (100 nmol/L, 4 hours). Significant (Padj < 0.1) differentially and uniquely enriched proteins in each cell and treatment condition were classified either as a CoA, CoR, Mixed, or TF. C, The most altered components of the VDR complex were established in RC43T compared with LNCaP, and RC43N with HPr1AR, and then the delta between these comparisons were identified and ranked.",./data/PMC10112383/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/efa4c1e0d84c/crc-22-0389_fig1.jpg
+PMC10112383,"Supplementary Material
+
+Supplementary Table 1Supplementary Table_1 RIME
+
+
+crc-22-0389-s01.docx (16.2KB, docx) 
+
+Supplementary Table 2Supplementary Table _2 - RIME II
+
+
+crc-22-0389-s02.docx (15.8KB, docx) 
+
+Supplementary Table 3ST_3 ATAC-Seq
+
+
+crc-22-0389-s03.docx (17.1KB, docx) 
+
+Supplementary Table 4ST_4 ChIP-Seq
+
+
+crc-22-0389-s04.docx (13.8KB, docx) 
+
+Supplementary Table 5ST_5 ChromHMM
+
+
+crc-22-0389-s05.docx (14.5KB, docx) 
+
+Supplementary Table 6ST_6 ChIP-Seq Motif
+
+
+crc-22-0389-s06.docx (16.5KB, docx) 
+
+Supplementary Table 7ST_7 ATAC-Seq to RIME
+
+
+crc-22-0389-s07.docx (17KB, docx) 
+
+Supplementary Table 8ST_8 ATAC/ChIP-Seq to splicing
+
+
+crc-22-0389-s08.docx (15.2KB, docx) 
+
+Supplementary Table 9ST_9 LISA analyses of RNA-Seq
+
+
+crc-22-0389-s09.docx (17.9KB, docx) 
+
+Supplementary Table 10ST_10 ATAC overlap ChIP
+
+
+crc-22-0389-s10.docx (13.7KB, docx) 
+
+Supplementary Table 11ST_11 ATAC- to RNA-Seq
+
+
+crc-22-0389-s11.docx (22.9KB, docx) 
+
+Supplementary Table 12ST_12 ChIP-Seq to RNA-Seq
+
+
+crc-22-0389-s12.docx (19.1KB, docx) 
+
+Supplementary Table 13ST_13 BAZ1A and lineage plasticity
+
+
+crc-22-0389-s13.docx (14.9KB, docx) 
+
+Supplementary Table 14ST_14 Serum miRNA and PCa
+
+
+crc-22-0389-s14.docx (15.8KB, docx) 
+
+Supplementary Table 15ST_15 Cistrome and miRNA expression
+
+
+crc-22-0389-s15.docx (14.2KB, docx) 
+
+Supplementary Table 16ST_16 Cistrome and RNA-Seq in tumors
+
+
+crc-22-0389-s16.docx (15.8KB, docx) 
+
+Supplementary Figure 1SF_1 workflow
+
+
+crc-22-0389-s17.pptx (67.7KB, pptx) 
+
+Supplementary Figure 2SF_2 Ancestry cell lines
+
+
+crc-22-0389-s18.pptx (658.4KB, pptx) 
+
+Supplementary Figure 3SF_3 motifs in ATAC-Seq
+
+
+crc-22-0389-s19.pptx (597.7KB, pptx) 
+
+Supplementary Figure 4SF_4 VDR cistrome
+
+
+crc-22-0389-s20.pptx (337.6KB, pptx) 
+
+Supplementary Figure 5SF_5 ChIP-Seq motif
+
+
+crc-22-0389-s21.pptx (704.3KB, pptx) 
+
+Supplementary Figure 6SF_6 RNA-Seq PCA
+
+
+crc-22-0389-s22.pptx (208.6KB, pptx) 
+
+Supplementary Figure 7SF_7 RNA-Seq volcanos
+
+
+crc-22-0389-s23.pptx (1.1MB, pptx) 
+
+Supplementary Figure 8SF_8 RNA-Seq GSEA
+
+
+crc-22-0389-s24.pptx (795.3KB, pptx) 
+
+Supplementary Figure 9SF_9 overlap miRNA
+
+
+crc-22-0389-s25.pptx (391.9KB, pptx) 
+
+Supplementary Figure 10SF_10 cistrome-transcriptome
+
+
+crc-22-0389-s26.pptx (8.6MB, pptx) 
+
+Supplementary Figure 11SF_11 BAZ containing complexes expression
+
+
+crc-22-0389-s27.pptx (930.6KB, pptx) 
+
+Supplementary Figure 12SF_12 BAZ1A-GSEA
+
+
+crc-22-0389-s28.pptx (644.4KB, pptx) 
+
+Supplementary Figure 13SF_13 GSEA tumors
+
+
+crc-22-0389-s29.pptx (571.2KB, pptx).",PMC10112383_figure_2,FIGURE 2.,"VDR ATAC-seq in AA and EA cell lines. A, ATAC-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T following 1α,25(OH)2D3 treatment (100 nmol/L, 4 hours) or vehicle control. FASTQ files were QC processed, aligned to hg38 (Rsubread), sorted and duplicates removed before further processing with ATACseqQC to generate nucleosome free and mononucleosome regions. Differential enrichment of regions was measured with csaw and the significantly different regions (Padj < 0.1) were then intersected to generate the Venn diagrams of overlapping regions by a minimum of 1 bp (ChIPpeakAnno). B, Motif enrichment in NF regions was undertaken with Homer and ranked by significance to visualize in descending significance. C, Frequency of enriched motifs by TF families’ class. D, Enrichment of circadian rhythm TFs.",./data/PMC10112383/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/c41adce460c5/crc-22-0389_fig2.jpg
+PMC10112383,"Supplementary Material
+
+Supplementary Table 1Supplementary Table_1 RIME
+
+
+crc-22-0389-s01.docx (16.2KB, docx) 
+
+Supplementary Table 2Supplementary Table _2 - RIME II
+
+
+crc-22-0389-s02.docx (15.8KB, docx) 
+
+Supplementary Table 3ST_3 ATAC-Seq
+
+
+crc-22-0389-s03.docx (17.1KB, docx) 
+
+Supplementary Table 4ST_4 ChIP-Seq
+
+
+crc-22-0389-s04.docx (13.8KB, docx) 
+
+Supplementary Table 5ST_5 ChromHMM
+
+
+crc-22-0389-s05.docx (14.5KB, docx) 
+
+Supplementary Table 6ST_6 ChIP-Seq Motif
+
+
+crc-22-0389-s06.docx (16.5KB, docx) 
+
+Supplementary Table 7ST_7 ATAC-Seq to RIME
+
+
+crc-22-0389-s07.docx (17KB, docx) 
+
+Supplementary Table 8ST_8 ATAC/ChIP-Seq to splicing
+
+
+crc-22-0389-s08.docx (15.2KB, docx) 
+
+Supplementary Table 9ST_9 LISA analyses of RNA-Seq
+
+
+crc-22-0389-s09.docx (17.9KB, docx) 
+
+Supplementary Table 10ST_10 ATAC overlap ChIP
+
+
+crc-22-0389-s10.docx (13.7KB, docx) 
+
+Supplementary Table 11ST_11 ATAC- to RNA-Seq
+
+
+crc-22-0389-s11.docx (22.9KB, docx) 
+
+Supplementary Table 12ST_12 ChIP-Seq to RNA-Seq
+
+
+crc-22-0389-s12.docx (19.1KB, docx) 
+
+Supplementary Table 13ST_13 BAZ1A and lineage plasticity
+
+
+crc-22-0389-s13.docx (14.9KB, docx) 
+
+Supplementary Table 14ST_14 Serum miRNA and PCa
+
+
+crc-22-0389-s14.docx (15.8KB, docx) 
+
+Supplementary Table 15ST_15 Cistrome and miRNA expression
+
+
+crc-22-0389-s15.docx (14.2KB, docx) 
+
+Supplementary Table 16ST_16 Cistrome and RNA-Seq in tumors
+
+
+crc-22-0389-s16.docx (15.8KB, docx) 
+
+Supplementary Figure 1SF_1 workflow
+
+
+crc-22-0389-s17.pptx (67.7KB, pptx) 
+
+Supplementary Figure 2SF_2 Ancestry cell lines
+
+
+crc-22-0389-s18.pptx (658.4KB, pptx) 
+
+Supplementary Figure 3SF_3 motifs in ATAC-Seq
+
+
+crc-22-0389-s19.pptx (597.7KB, pptx) 
+
+Supplementary Figure 4SF_4 VDR cistrome
+
+
+crc-22-0389-s20.pptx (337.6KB, pptx) 
+
+Supplementary Figure 5SF_5 ChIP-Seq motif
+
+
+crc-22-0389-s21.pptx (704.3KB, pptx) 
+
+Supplementary Figure 6SF_6 RNA-Seq PCA
+
+
+crc-22-0389-s22.pptx (208.6KB, pptx) 
+
+Supplementary Figure 7SF_7 RNA-Seq volcanos
+
+
+crc-22-0389-s23.pptx (1.1MB, pptx) 
+
+Supplementary Figure 8SF_8 RNA-Seq GSEA
+
+
+crc-22-0389-s24.pptx (795.3KB, pptx) 
+
+Supplementary Figure 9SF_9 overlap miRNA
+
+
+crc-22-0389-s25.pptx (391.9KB, pptx) 
+
+Supplementary Figure 10SF_10 cistrome-transcriptome
+
+
+crc-22-0389-s26.pptx (8.6MB, pptx) 
+
+Supplementary Figure 11SF_11 BAZ containing complexes expression
+
+
+crc-22-0389-s27.pptx (930.6KB, pptx) 
+
+Supplementary Figure 12SF_12 BAZ1A-GSEA
+
+
+crc-22-0389-s28.pptx (644.4KB, pptx) 
+
+Supplementary Figure 13SF_13 GSEA tumors
+
+
+crc-22-0389-s29.pptx (571.2KB, pptx).",PMC10112383_figure_3,FIGURE 3.,"VDR ChIP-seq in AA and EA cell lines. A, Basal and 1α,25(OH)2D3-stimulated (100 nmol/L, 6 hours) VDR ChIP-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T. FASTQ files were QC processed, aligned to hg38 (Rsubread), sorted and duplicates removed before differential enrichment of regions was measured with csaw and the significantly different regions compared with IgG controls (Padj < 0.1) were then intersected to generate the Venn diagrams of overlapping regions by a minimum of 1 bp (ChIPpeakAnno). B, Significantly differentially enriched motifs were identified by Homer and nuclear receptors are illustrated. C, Changes in motif enrichment were calculated (delta) and ranked by significance for visualization.",./data/PMC10112383/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/d9a81bad5ca0/crc-22-0389_fig3.jpg
+PMC10112383,"Supplementary Material
+
+Supplementary Table 1Supplementary Table_1 RIME
+
+
+crc-22-0389-s01.docx (16.2KB, docx) 
+
+Supplementary Table 2Supplementary Table _2 - RIME II
+
+
+crc-22-0389-s02.docx (15.8KB, docx) 
+
+Supplementary Table 3ST_3 ATAC-Seq
+
+
+crc-22-0389-s03.docx (17.1KB, docx) 
+
+Supplementary Table 4ST_4 ChIP-Seq
+
+
+crc-22-0389-s04.docx (13.8KB, docx) 
+
+Supplementary Table 5ST_5 ChromHMM
+
+
+crc-22-0389-s05.docx (14.5KB, docx) 
+
+Supplementary Table 6ST_6 ChIP-Seq Motif
+
+
+crc-22-0389-s06.docx (16.5KB, docx) 
+
+Supplementary Table 7ST_7 ATAC-Seq to RIME
+
+
+crc-22-0389-s07.docx (17KB, docx) 
+
+Supplementary Table 8ST_8 ATAC/ChIP-Seq to splicing
+
+
+crc-22-0389-s08.docx (15.2KB, docx) 
+
+Supplementary Table 9ST_9 LISA analyses of RNA-Seq
+
+
+crc-22-0389-s09.docx (17.9KB, docx) 
+
+Supplementary Table 10ST_10 ATAC overlap ChIP
+
+
+crc-22-0389-s10.docx (13.7KB, docx) 
+
+Supplementary Table 11ST_11 ATAC- to RNA-Seq
+
+
+crc-22-0389-s11.docx (22.9KB, docx) 
+
+Supplementary Table 12ST_12 ChIP-Seq to RNA-Seq
+
+
+crc-22-0389-s12.docx (19.1KB, docx) 
+
+Supplementary Table 13ST_13 BAZ1A and lineage plasticity
+
+
+crc-22-0389-s13.docx (14.9KB, docx) 
+
+Supplementary Table 14ST_14 Serum miRNA and PCa
+
+
+crc-22-0389-s14.docx (15.8KB, docx) 
+
+Supplementary Table 15ST_15 Cistrome and miRNA expression
+
+
+crc-22-0389-s15.docx (14.2KB, docx) 
+
+Supplementary Table 16ST_16 Cistrome and RNA-Seq in tumors
+
+
+crc-22-0389-s16.docx (15.8KB, docx) 
+
+Supplementary Figure 1SF_1 workflow
+
+
+crc-22-0389-s17.pptx (67.7KB, pptx) 
+
+Supplementary Figure 2SF_2 Ancestry cell lines
+
+
+crc-22-0389-s18.pptx (658.4KB, pptx) 
+
+Supplementary Figure 3SF_3 motifs in ATAC-Seq
+
+
+crc-22-0389-s19.pptx (597.7KB, pptx) 
+
+Supplementary Figure 4SF_4 VDR cistrome
+
+
+crc-22-0389-s20.pptx (337.6KB, pptx) 
+
+Supplementary Figure 5SF_5 ChIP-Seq motif
+
+
+crc-22-0389-s21.pptx (704.3KB, pptx) 
+
+Supplementary Figure 6SF_6 RNA-Seq PCA
+
+
+crc-22-0389-s22.pptx (208.6KB, pptx) 
+
+Supplementary Figure 7SF_7 RNA-Seq volcanos
+
+
+crc-22-0389-s23.pptx (1.1MB, pptx) 
+
+Supplementary Figure 8SF_8 RNA-Seq GSEA
+
+
+crc-22-0389-s24.pptx (795.3KB, pptx) 
+
+Supplementary Figure 9SF_9 overlap miRNA
+
+
+crc-22-0389-s25.pptx (391.9KB, pptx) 
+
+Supplementary Figure 10SF_10 cistrome-transcriptome
+
+
+crc-22-0389-s26.pptx (8.6MB, pptx) 
+
+Supplementary Figure 11SF_11 BAZ containing complexes expression
+
+
+crc-22-0389-s27.pptx (930.6KB, pptx) 
+
+Supplementary Figure 12SF_12 BAZ1A-GSEA
+
+
+crc-22-0389-s28.pptx (644.4KB, pptx) 
+
+Supplementary Figure 13SF_13 GSEA tumors
+
+
+crc-22-0389-s29.pptx (571.2KB, pptx).",PMC10112383_figure_4,FIGURE 4.,"1α,25(OH)2D3-dependent RNA- and small RNA-Seq in AA and EA cell lines. A and B, Basal and 1α,25(OH)2D3-stimulated (100 nmol/L, 8 hours) RNA-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T. FASTQ files were QC processed, aligned to hg38 (Rsubread), and processed with limma-voom and edgeR workflow to identify significant DEGs (logPV > 1 and absFC > 0.37) are illustrated on Volcano plots with top DEGs illustrated. C, GSEAs (Chemical Perturbations in GSEA) was undertaken and the terms identified and visualized where the NES was in the opposite direction are visualized in RC43N and RC43T.",./data/PMC10112383/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/679f860fed65/crc-22-0389_fig4.jpg
+PMC10112383,"Supplementary Material
+
+Supplementary Table 1Supplementary Table_1 RIME
+
+
+crc-22-0389-s01.docx (16.2KB, docx) 
+
+Supplementary Table 2Supplementary Table _2 - RIME II
+
+
+crc-22-0389-s02.docx (15.8KB, docx) 
+
+Supplementary Table 3ST_3 ATAC-Seq
+
+
+crc-22-0389-s03.docx (17.1KB, docx) 
+
+Supplementary Table 4ST_4 ChIP-Seq
+
+
+crc-22-0389-s04.docx (13.8KB, docx) 
+
+Supplementary Table 5ST_5 ChromHMM
+
+
+crc-22-0389-s05.docx (14.5KB, docx) 
+
+Supplementary Table 6ST_6 ChIP-Seq Motif
+
+
+crc-22-0389-s06.docx (16.5KB, docx) 
+
+Supplementary Table 7ST_7 ATAC-Seq to RIME
+
+
+crc-22-0389-s07.docx (17KB, docx) 
+
+Supplementary Table 8ST_8 ATAC/ChIP-Seq to splicing
+
+
+crc-22-0389-s08.docx (15.2KB, docx) 
+
+Supplementary Table 9ST_9 LISA analyses of RNA-Seq
+
+
+crc-22-0389-s09.docx (17.9KB, docx) 
+
+Supplementary Table 10ST_10 ATAC overlap ChIP
+
+
+crc-22-0389-s10.docx (13.7KB, docx) 
+
+Supplementary Table 11ST_11 ATAC- to RNA-Seq
+
+
+crc-22-0389-s11.docx (22.9KB, docx) 
+
+Supplementary Table 12ST_12 ChIP-Seq to RNA-Seq
+
+
+crc-22-0389-s12.docx (19.1KB, docx) 
+
+Supplementary Table 13ST_13 BAZ1A and lineage plasticity
+
+
+crc-22-0389-s13.docx (14.9KB, docx) 
+
+Supplementary Table 14ST_14 Serum miRNA and PCa
+
+
+crc-22-0389-s14.docx (15.8KB, docx) 
+
+Supplementary Table 15ST_15 Cistrome and miRNA expression
+
+
+crc-22-0389-s15.docx (14.2KB, docx) 
+
+Supplementary Table 16ST_16 Cistrome and RNA-Seq in tumors
+
+
+crc-22-0389-s16.docx (15.8KB, docx) 
+
+Supplementary Figure 1SF_1 workflow
+
+
+crc-22-0389-s17.pptx (67.7KB, pptx) 
+
+Supplementary Figure 2SF_2 Ancestry cell lines
+
+
+crc-22-0389-s18.pptx (658.4KB, pptx) 
+
+Supplementary Figure 3SF_3 motifs in ATAC-Seq
+
+
+crc-22-0389-s19.pptx (597.7KB, pptx) 
+
+Supplementary Figure 4SF_4 VDR cistrome
+
+
+crc-22-0389-s20.pptx (337.6KB, pptx) 
+
+Supplementary Figure 5SF_5 ChIP-Seq motif
+
+
+crc-22-0389-s21.pptx (704.3KB, pptx) 
+
+Supplementary Figure 6SF_6 RNA-Seq PCA
+
+
+crc-22-0389-s22.pptx (208.6KB, pptx) 
+
+Supplementary Figure 7SF_7 RNA-Seq volcanos
+
+
+crc-22-0389-s23.pptx (1.1MB, pptx) 
+
+Supplementary Figure 8SF_8 RNA-Seq GSEA
+
+
+crc-22-0389-s24.pptx (795.3KB, pptx) 
+
+Supplementary Figure 9SF_9 overlap miRNA
+
+
+crc-22-0389-s25.pptx (391.9KB, pptx) 
+
+Supplementary Figure 10SF_10 cistrome-transcriptome
+
+
+crc-22-0389-s26.pptx (8.6MB, pptx) 
+
+Supplementary Figure 11SF_11 BAZ containing complexes expression
+
+
+crc-22-0389-s27.pptx (930.6KB, pptx) 
+
+Supplementary Figure 12SF_12 BAZ1A-GSEA
+
+
+crc-22-0389-s28.pptx (644.4KB, pptx) 
+
+Supplementary Figure 13SF_13 GSEA tumors
+
+
+crc-22-0389-s29.pptx (571.2KB, pptx).",PMC10112383_figure_5,FIGURE 5.,"The impact of BAZ1A on expression of VDR-dependent gene networks. A, Altered BAZ1A and SMARCA5 expression in AA prostate cancer was identified in TCGA prostate cancer cohort by comparing EA and AA tumors and considering status of TMPRSS2 translocations. B, The blot used for Fig. 1A (cells treated with 1α,25(OH)2D3 (100 nmol/L, 24 hours) or vehicle control and total protein isolated) was stripped and reprobed with antibodies toward BAZ1A and SMARCA5. C, Unique DEGs in cells with restored expression of BAZ1A. D, BAZ1A-dependent DEGs enhanced inflammatory responses and repressed MYC networks. E, Comparable and divergent GSEA enrichment in BAZ1A-dependent DEGS in RC43N and RC43T that were different from the direction of enrichment in the parental cells.",./data/PMC10112383/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/0e5ebcdbe8b0/crc-22-0389_fig5.jpg
+PMC10112383,"Supplementary Figure 1SF_1 workflow
+
+
+crc-22-0389-s17.pptx (67.7KB, pptx).",PMC10112383_figure_1,FIGURE 1.,"Expression of VDR and responses to 1α,25(OH)2D3 in AA and EA cell lines. A, Western immunoblot measurements of VDR levels after 1α,25(OH)2D3 treatment (100 nmol/L, 24 hours) or vehicle control. B, RIME analyses of VDR in the indicated cells (in quadriplicates) and significantly different proteins were identified using an edgeR workflow. Volcano plots depicting enrichment levels, compared with IgG controls, between the indicated cells in basal or 1α,25(OH)2D3-stimulated conditions (100 nmol/L, 4 hours). Significant (Padj < 0.1) differentially and uniquely enriched proteins in each cell and treatment condition were classified either as a CoA, CoR, Mixed, or TF. C, The most altered components of the VDR complex were established in RC43T compared with LNCaP, and RC43N with HPr1AR, and then the delta between these comparisons were identified and ranked.",./data/PMC10112383/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/efa4c1e0d84c/crc-22-0389_fig1.jpg
+PMC10112383,Supplementary Figure 1SF_1 workflow.,PMC10112383_figure_1,FIGURE 1.,"Expression of VDR and responses to 1α,25(OH)2D3 in AA and EA cell lines. A, Western immunoblot measurements of VDR levels after 1α,25(OH)2D3 treatment (100 nmol/L, 24 hours) or vehicle control. B, RIME analyses of VDR in the indicated cells (in quadriplicates) and significantly different proteins were identified using an edgeR workflow. Volcano plots depicting enrichment levels, compared with IgG controls, between the indicated cells in basal or 1α,25(OH)2D3-stimulated conditions (100 nmol/L, 4 hours). Significant (Padj < 0.1) differentially and uniquely enriched proteins in each cell and treatment condition were classified either as a CoA, CoR, Mixed, or TF. C, The most altered components of the VDR complex were established in RC43T compared with LNCaP, and RC43N with HPr1AR, and then the delta between these comparisons were identified and ranked.",./data/PMC10112383/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/efa4c1e0d84c/crc-22-0389_fig1.jpg
+PMC10112383,Supplementary Figure 1.,PMC10112383_figure_1,FIGURE 1.,"Expression of VDR and responses to 1α,25(OH)2D3 in AA and EA cell lines. A, Western immunoblot measurements of VDR levels after 1α,25(OH)2D3 treatment (100 nmol/L, 24 hours) or vehicle control. B, RIME analyses of VDR in the indicated cells (in quadriplicates) and significantly different proteins were identified using an edgeR workflow. Volcano plots depicting enrichment levels, compared with IgG controls, between the indicated cells in basal or 1α,25(OH)2D3-stimulated conditions (100 nmol/L, 4 hours). Significant (Padj < 0.1) differentially and uniquely enriched proteins in each cell and treatment condition were classified either as a CoA, CoR, Mixed, or TF. C, The most altered components of the VDR complex were established in RC43T compared with LNCaP, and RC43N with HPr1AR, and then the delta between these comparisons were identified and ranked.",./data/PMC10112383/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/efa4c1e0d84c/crc-22-0389_fig1.jpg
+PMC10112383,"Supplementary Figure 2SF_2 Ancestry cell lines
+
+
+crc-22-0389-s18.pptx (658.4KB, pptx).",PMC10112383_figure_2,FIGURE 2.,"VDR ATAC-seq in AA and EA cell lines. A, ATAC-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T following 1α,25(OH)2D3 treatment (100 nmol/L, 4 hours) or vehicle control. FASTQ files were QC processed, aligned to hg38 (Rsubread), sorted and duplicates removed before further processing with ATACseqQC to generate nucleosome free and mononucleosome regions. Differential enrichment of regions was measured with csaw and the significantly different regions (Padj < 0.1) were then intersected to generate the Venn diagrams of overlapping regions by a minimum of 1 bp (ChIPpeakAnno). B, Motif enrichment in NF regions was undertaken with Homer and ranked by significance to visualize in descending significance. C, Frequency of enriched motifs by TF families’ class. D, Enrichment of circadian rhythm TFs.",./data/PMC10112383/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/c41adce460c5/crc-22-0389_fig2.jpg
+PMC10112383,Supplementary Figure 2SF_2 Ancestry cell lines.,PMC10112383_figure_2,FIGURE 2.,"VDR ATAC-seq in AA and EA cell lines. A, ATAC-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T following 1α,25(OH)2D3 treatment (100 nmol/L, 4 hours) or vehicle control. FASTQ files were QC processed, aligned to hg38 (Rsubread), sorted and duplicates removed before further processing with ATACseqQC to generate nucleosome free and mononucleosome regions. Differential enrichment of regions was measured with csaw and the significantly different regions (Padj < 0.1) were then intersected to generate the Venn diagrams of overlapping regions by a minimum of 1 bp (ChIPpeakAnno). B, Motif enrichment in NF regions was undertaken with Homer and ranked by significance to visualize in descending significance. C, Frequency of enriched motifs by TF families’ class. D, Enrichment of circadian rhythm TFs.",./data/PMC10112383/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/c41adce460c5/crc-22-0389_fig2.jpg
+PMC10112383,Supplementary Figure 2.,PMC10112383_figure_2,FIGURE 2.,"VDR ATAC-seq in AA and EA cell lines. A, ATAC-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T following 1α,25(OH)2D3 treatment (100 nmol/L, 4 hours) or vehicle control. FASTQ files were QC processed, aligned to hg38 (Rsubread), sorted and duplicates removed before further processing with ATACseqQC to generate nucleosome free and mononucleosome regions. Differential enrichment of regions was measured with csaw and the significantly different regions (Padj < 0.1) were then intersected to generate the Venn diagrams of overlapping regions by a minimum of 1 bp (ChIPpeakAnno). B, Motif enrichment in NF regions was undertaken with Homer and ranked by significance to visualize in descending significance. C, Frequency of enriched motifs by TF families’ class. D, Enrichment of circadian rhythm TFs.",./data/PMC10112383/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/c41adce460c5/crc-22-0389_fig2.jpg
+PMC10112383,"Supplementary Figure 3SF_3 motifs in ATAC-Seq
+
+
+crc-22-0389-s19.pptx (597.7KB, pptx).",PMC10112383_figure_3,FIGURE 3.,"VDR ChIP-seq in AA and EA cell lines. A, Basal and 1α,25(OH)2D3-stimulated (100 nmol/L, 6 hours) VDR ChIP-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T. FASTQ files were QC processed, aligned to hg38 (Rsubread), sorted and duplicates removed before differential enrichment of regions was measured with csaw and the significantly different regions compared with IgG controls (Padj < 0.1) were then intersected to generate the Venn diagrams of overlapping regions by a minimum of 1 bp (ChIPpeakAnno). B, Significantly differentially enriched motifs were identified by Homer and nuclear receptors are illustrated. C, Changes in motif enrichment were calculated (delta) and ranked by significance for visualization.",./data/PMC10112383/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/d9a81bad5ca0/crc-22-0389_fig3.jpg
+PMC10112383,Supplementary Figure 3SF_3 motifs in ATAC-Seq.,PMC10112383_figure_3,FIGURE 3.,"VDR ChIP-seq in AA and EA cell lines. A, Basal and 1α,25(OH)2D3-stimulated (100 nmol/L, 6 hours) VDR ChIP-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T. FASTQ files were QC processed, aligned to hg38 (Rsubread), sorted and duplicates removed before differential enrichment of regions was measured with csaw and the significantly different regions compared with IgG controls (Padj < 0.1) were then intersected to generate the Venn diagrams of overlapping regions by a minimum of 1 bp (ChIPpeakAnno). B, Significantly differentially enriched motifs were identified by Homer and nuclear receptors are illustrated. C, Changes in motif enrichment were calculated (delta) and ranked by significance for visualization.",./data/PMC10112383/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/d9a81bad5ca0/crc-22-0389_fig3.jpg
+PMC10112383,Supplementary Figure 3.,PMC10112383_figure_3,FIGURE 3.,"VDR ChIP-seq in AA and EA cell lines. A, Basal and 1α,25(OH)2D3-stimulated (100 nmol/L, 6 hours) VDR ChIP-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T. FASTQ files were QC processed, aligned to hg38 (Rsubread), sorted and duplicates removed before differential enrichment of regions was measured with csaw and the significantly different regions compared with IgG controls (Padj < 0.1) were then intersected to generate the Venn diagrams of overlapping regions by a minimum of 1 bp (ChIPpeakAnno). B, Significantly differentially enriched motifs were identified by Homer and nuclear receptors are illustrated. C, Changes in motif enrichment were calculated (delta) and ranked by significance for visualization.",./data/PMC10112383/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/d9a81bad5ca0/crc-22-0389_fig3.jpg
+PMC10112383,"Supplementary Figure 4SF_4 VDR cistrome
+
+
+crc-22-0389-s20.pptx (337.6KB, pptx).",PMC10112383_figure_4,FIGURE 4.,"1α,25(OH)2D3-dependent RNA- and small RNA-Seq in AA and EA cell lines. A and B, Basal and 1α,25(OH)2D3-stimulated (100 nmol/L, 8 hours) RNA-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T. FASTQ files were QC processed, aligned to hg38 (Rsubread), and processed with limma-voom and edgeR workflow to identify significant DEGs (logPV > 1 and absFC > 0.37) are illustrated on Volcano plots with top DEGs illustrated. C, GSEAs (Chemical Perturbations in GSEA) was undertaken and the terms identified and visualized where the NES was in the opposite direction are visualized in RC43N and RC43T.",./data/PMC10112383/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/679f860fed65/crc-22-0389_fig4.jpg
+PMC10112383,Supplementary Figure 4SF_4 VDR cistrome.,PMC10112383_figure_4,FIGURE 4.,"1α,25(OH)2D3-dependent RNA- and small RNA-Seq in AA and EA cell lines. A and B, Basal and 1α,25(OH)2D3-stimulated (100 nmol/L, 8 hours) RNA-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T. FASTQ files were QC processed, aligned to hg38 (Rsubread), and processed with limma-voom and edgeR workflow to identify significant DEGs (logPV > 1 and absFC > 0.37) are illustrated on Volcano plots with top DEGs illustrated. C, GSEAs (Chemical Perturbations in GSEA) was undertaken and the terms identified and visualized where the NES was in the opposite direction are visualized in RC43N and RC43T.",./data/PMC10112383/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/679f860fed65/crc-22-0389_fig4.jpg
+PMC10112383,Supplementary Figure 4.,PMC10112383_figure_4,FIGURE 4.,"1α,25(OH)2D3-dependent RNA- and small RNA-Seq in AA and EA cell lines. A and B, Basal and 1α,25(OH)2D3-stimulated (100 nmol/L, 8 hours) RNA-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T. FASTQ files were QC processed, aligned to hg38 (Rsubread), and processed with limma-voom and edgeR workflow to identify significant DEGs (logPV > 1 and absFC > 0.37) are illustrated on Volcano plots with top DEGs illustrated. C, GSEAs (Chemical Perturbations in GSEA) was undertaken and the terms identified and visualized where the NES was in the opposite direction are visualized in RC43N and RC43T.",./data/PMC10112383/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/679f860fed65/crc-22-0389_fig4.jpg
+PMC10112383,"Supplementary Figure 5SF_5 ChIP-Seq motif
+
+
+crc-22-0389-s21.pptx (704.3KB, pptx).",PMC10112383_figure_5,FIGURE 5.,"The impact of BAZ1A on expression of VDR-dependent gene networks. A, Altered BAZ1A and SMARCA5 expression in AA prostate cancer was identified in TCGA prostate cancer cohort by comparing EA and AA tumors and considering status of TMPRSS2 translocations. B, The blot used for Fig. 1A (cells treated with 1α,25(OH)2D3 (100 nmol/L, 24 hours) or vehicle control and total protein isolated) was stripped and reprobed with antibodies toward BAZ1A and SMARCA5. C, Unique DEGs in cells with restored expression of BAZ1A. D, BAZ1A-dependent DEGs enhanced inflammatory responses and repressed MYC networks. E, Comparable and divergent GSEA enrichment in BAZ1A-dependent DEGS in RC43N and RC43T that were different from the direction of enrichment in the parental cells.",./data/PMC10112383/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/0e5ebcdbe8b0/crc-22-0389_fig5.jpg
+PMC10112383,Supplementary Figure 5SF_5 ChIP-Seq motif.,PMC10112383_figure_5,FIGURE 5.,"The impact of BAZ1A on expression of VDR-dependent gene networks. A, Altered BAZ1A and SMARCA5 expression in AA prostate cancer was identified in TCGA prostate cancer cohort by comparing EA and AA tumors and considering status of TMPRSS2 translocations. B, The blot used for Fig. 1A (cells treated with 1α,25(OH)2D3 (100 nmol/L, 24 hours) or vehicle control and total protein isolated) was stripped and reprobed with antibodies toward BAZ1A and SMARCA5. C, Unique DEGs in cells with restored expression of BAZ1A. D, BAZ1A-dependent DEGs enhanced inflammatory responses and repressed MYC networks. E, Comparable and divergent GSEA enrichment in BAZ1A-dependent DEGS in RC43N and RC43T that were different from the direction of enrichment in the parental cells.",./data/PMC10112383/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/0e5ebcdbe8b0/crc-22-0389_fig5.jpg
+PMC10112383,Supplementary Figure 5.,PMC10112383_figure_5,FIGURE 5.,"The impact of BAZ1A on expression of VDR-dependent gene networks. A, Altered BAZ1A and SMARCA5 expression in AA prostate cancer was identified in TCGA prostate cancer cohort by comparing EA and AA tumors and considering status of TMPRSS2 translocations. B, The blot used for Fig. 1A (cells treated with 1α,25(OH)2D3 (100 nmol/L, 24 hours) or vehicle control and total protein isolated) was stripped and reprobed with antibodies toward BAZ1A and SMARCA5. C, Unique DEGs in cells with restored expression of BAZ1A. D, BAZ1A-dependent DEGs enhanced inflammatory responses and repressed MYC networks. E, Comparable and divergent GSEA enrichment in BAZ1A-dependent DEGS in RC43N and RC43T that were different from the direction of enrichment in the parental cells.",./data/PMC10112383/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/0e5ebcdbe8b0/crc-22-0389_fig5.jpg
+PMC10112383,"Supplementary Materials
+
+Supplementary Table 1Supplementary Table_1 RIME
+
+
+crc-22-0389-s01.docx (16.2KB, docx) 
+
+Supplementary Table 2Supplementary Table _2 - RIME II
+
+
+crc-22-0389-s02.docx (15.8KB, docx) 
+
+Supplementary Table 3ST_3 ATAC-Seq
+
+
+crc-22-0389-s03.docx (17.1KB, docx) 
+
+Supplementary Table 4ST_4 ChIP-Seq
+
+
+crc-22-0389-s04.docx (13.8KB, docx) 
+
+Supplementary Table 5ST_5 ChromHMM
+
+
+crc-22-0389-s05.docx (14.5KB, docx) 
+
+Supplementary Table 6ST_6 ChIP-Seq Motif
+
+
+crc-22-0389-s06.docx (16.5KB, docx) 
+
+Supplementary Table 7ST_7 ATAC-Seq to RIME
+
+
+crc-22-0389-s07.docx (17KB, docx) 
+
+Supplementary Table 8ST_8 ATAC/ChIP-Seq to splicing
+
+
+crc-22-0389-s08.docx (15.2KB, docx) 
+
+Supplementary Table 9ST_9 LISA analyses of RNA-Seq
+
+
+crc-22-0389-s09.docx (17.9KB, docx) 
+
+Supplementary Table 10ST_10 ATAC overlap ChIP
+
+
+crc-22-0389-s10.docx (13.7KB, docx) 
+
+Supplementary Table 11ST_11 ATAC- to RNA-Seq
+
+
+crc-22-0389-s11.docx (22.9KB, docx) 
+
+Supplementary Table 12ST_12 ChIP-Seq to RNA-Seq
+
+
+crc-22-0389-s12.docx (19.1KB, docx) 
+
+Supplementary Table 13ST_13 BAZ1A and lineage plasticity
+
+
+crc-22-0389-s13.docx (14.9KB, docx) 
+
+Supplementary Table 14ST_14 Serum miRNA and PCa
+
+
+crc-22-0389-s14.docx (15.8KB, docx) 
+
+Supplementary Table 15ST_15 Cistrome and miRNA expression
+
+
+crc-22-0389-s15.docx (14.2KB, docx) 
+
+Supplementary Table 16ST_16 Cistrome and RNA-Seq in tumors
+
+
+crc-22-0389-s16.docx (15.8KB, docx) 
+
+Supplementary Figure 1SF_1 workflow
+
+
+crc-22-0389-s17.pptx (67.7KB, pptx) 
+
+Supplementary Figure 2SF_2 Ancestry cell lines
+
+
+crc-22-0389-s18.pptx (658.4KB, pptx) 
+
+Supplementary Figure 3SF_3 motifs in ATAC-Seq
+
+
+crc-22-0389-s19.pptx (597.7KB, pptx) 
+
+Supplementary Figure 4SF_4 VDR cistrome
+
+
+crc-22-0389-s20.pptx (337.6KB, pptx) 
+
+Supplementary Figure 5SF_5 ChIP-Seq motif
+
+
+crc-22-0389-s21.pptx (704.3KB, pptx) 
+
+Supplementary Figure 6SF_6 RNA-Seq PCA
+
+
+crc-22-0389-s22.pptx (208.6KB, pptx) 
+
+Supplementary Figure 7SF_7 RNA-Seq volcanos
+
+
+crc-22-0389-s23.pptx (1.1MB, pptx) 
+
+Supplementary Figure 8SF_8 RNA-Seq GSEA
+
+
+crc-22-0389-s24.pptx (795.3KB, pptx) 
+
+Supplementary Figure 9SF_9 overlap miRNA
+
+
+crc-22-0389-s25.pptx (391.9KB, pptx) 
+
+Supplementary Figure 10SF_10 cistrome-transcriptome
+
+
+crc-22-0389-s26.pptx (8.6MB, pptx) 
+
+Supplementary Figure 11SF_11 BAZ containing complexes expression
+
+
+crc-22-0389-s27.pptx (930.6KB, pptx) 
+
+Supplementary Figure 12SF_12 BAZ1A-GSEA
+
+
+crc-22-0389-s28.pptx (644.4KB, pptx) 
+
+Supplementary Figure 13SF_13 GSEA tumors
+
+
+crc-22-0389-s29.pptx (571.2KB, pptx) 
+Data Availability Statement
+RNA-, ChIP- and ATAC-seq data are available (GSE223406).",PMC10112383_figure_1,FIGURE 1.,"Expression of VDR and responses to 1α,25(OH)2D3 in AA and EA cell lines. A, Western immunoblot measurements of VDR levels after 1α,25(OH)2D3 treatment (100 nmol/L, 24 hours) or vehicle control. B, RIME analyses of VDR in the indicated cells (in quadriplicates) and significantly different proteins were identified using an edgeR workflow. Volcano plots depicting enrichment levels, compared with IgG controls, between the indicated cells in basal or 1α,25(OH)2D3-stimulated conditions (100 nmol/L, 4 hours). Significant (Padj < 0.1) differentially and uniquely enriched proteins in each cell and treatment condition were classified either as a CoA, CoR, Mixed, or TF. C, The most altered components of the VDR complex were established in RC43T compared with LNCaP, and RC43N with HPr1AR, and then the delta between these comparisons were identified and ranked.",./data/PMC10112383/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/efa4c1e0d84c/crc-22-0389_fig1.jpg
+PMC10112383,"Supplementary Materials
+
+Supplementary Table 1Supplementary Table_1 RIME
+
+
+crc-22-0389-s01.docx (16.2KB, docx) 
+
+Supplementary Table 2Supplementary Table _2 - RIME II
+
+
+crc-22-0389-s02.docx (15.8KB, docx) 
+
+Supplementary Table 3ST_3 ATAC-Seq
+
+
+crc-22-0389-s03.docx (17.1KB, docx) 
+
+Supplementary Table 4ST_4 ChIP-Seq
+
+
+crc-22-0389-s04.docx (13.8KB, docx) 
+
+Supplementary Table 5ST_5 ChromHMM
+
+
+crc-22-0389-s05.docx (14.5KB, docx) 
+
+Supplementary Table 6ST_6 ChIP-Seq Motif
+
+
+crc-22-0389-s06.docx (16.5KB, docx) 
+
+Supplementary Table 7ST_7 ATAC-Seq to RIME
+
+
+crc-22-0389-s07.docx (17KB, docx) 
+
+Supplementary Table 8ST_8 ATAC/ChIP-Seq to splicing
+
+
+crc-22-0389-s08.docx (15.2KB, docx) 
+
+Supplementary Table 9ST_9 LISA analyses of RNA-Seq
+
+
+crc-22-0389-s09.docx (17.9KB, docx) 
+
+Supplementary Table 10ST_10 ATAC overlap ChIP
+
+
+crc-22-0389-s10.docx (13.7KB, docx) 
+
+Supplementary Table 11ST_11 ATAC- to RNA-Seq
+
+
+crc-22-0389-s11.docx (22.9KB, docx) 
+
+Supplementary Table 12ST_12 ChIP-Seq to RNA-Seq
+
+
+crc-22-0389-s12.docx (19.1KB, docx) 
+
+Supplementary Table 13ST_13 BAZ1A and lineage plasticity
+
+
+crc-22-0389-s13.docx (14.9KB, docx) 
+
+Supplementary Table 14ST_14 Serum miRNA and PCa
+
+
+crc-22-0389-s14.docx (15.8KB, docx) 
+
+Supplementary Table 15ST_15 Cistrome and miRNA expression
+
+
+crc-22-0389-s15.docx (14.2KB, docx) 
+
+Supplementary Table 16ST_16 Cistrome and RNA-Seq in tumors
+
+
+crc-22-0389-s16.docx (15.8KB, docx) 
+
+Supplementary Figure 1SF_1 workflow
+
+
+crc-22-0389-s17.pptx (67.7KB, pptx) 
+
+Supplementary Figure 2SF_2 Ancestry cell lines
+
+
+crc-22-0389-s18.pptx (658.4KB, pptx) 
+
+Supplementary Figure 3SF_3 motifs in ATAC-Seq
+
+
+crc-22-0389-s19.pptx (597.7KB, pptx) 
+
+Supplementary Figure 4SF_4 VDR cistrome
+
+
+crc-22-0389-s20.pptx (337.6KB, pptx) 
+
+Supplementary Figure 5SF_5 ChIP-Seq motif
+
+
+crc-22-0389-s21.pptx (704.3KB, pptx) 
+
+Supplementary Figure 6SF_6 RNA-Seq PCA
+
+
+crc-22-0389-s22.pptx (208.6KB, pptx) 
+
+Supplementary Figure 7SF_7 RNA-Seq volcanos
+
+
+crc-22-0389-s23.pptx (1.1MB, pptx) 
+
+Supplementary Figure 8SF_8 RNA-Seq GSEA
+
+
+crc-22-0389-s24.pptx (795.3KB, pptx) 
+
+Supplementary Figure 9SF_9 overlap miRNA
+
+
+crc-22-0389-s25.pptx (391.9KB, pptx) 
+
+Supplementary Figure 10SF_10 cistrome-transcriptome
+
+
+crc-22-0389-s26.pptx (8.6MB, pptx) 
+
+Supplementary Figure 11SF_11 BAZ containing complexes expression
+
+
+crc-22-0389-s27.pptx (930.6KB, pptx) 
+
+Supplementary Figure 12SF_12 BAZ1A-GSEA
+
+
+crc-22-0389-s28.pptx (644.4KB, pptx) 
+
+Supplementary Figure 13SF_13 GSEA tumors
+
+
+crc-22-0389-s29.pptx (571.2KB, pptx) 
+Data Availability Statement
+RNA-, ChIP- and ATAC-seq data are available (GSE223406).",PMC10112383_figure_2,FIGURE 2.,"VDR ATAC-seq in AA and EA cell lines. A, ATAC-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T following 1α,25(OH)2D3 treatment (100 nmol/L, 4 hours) or vehicle control. FASTQ files were QC processed, aligned to hg38 (Rsubread), sorted and duplicates removed before further processing with ATACseqQC to generate nucleosome free and mononucleosome regions. Differential enrichment of regions was measured with csaw and the significantly different regions (Padj < 0.1) were then intersected to generate the Venn diagrams of overlapping regions by a minimum of 1 bp (ChIPpeakAnno). B, Motif enrichment in NF regions was undertaken with Homer and ranked by significance to visualize in descending significance. C, Frequency of enriched motifs by TF families’ class. D, Enrichment of circadian rhythm TFs.",./data/PMC10112383/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/c41adce460c5/crc-22-0389_fig2.jpg
+PMC10112383,"Supplementary Materials
+
+Supplementary Table 1Supplementary Table_1 RIME
+
+
+crc-22-0389-s01.docx (16.2KB, docx) 
+
+Supplementary Table 2Supplementary Table _2 - RIME II
+
+
+crc-22-0389-s02.docx (15.8KB, docx) 
+
+Supplementary Table 3ST_3 ATAC-Seq
+
+
+crc-22-0389-s03.docx (17.1KB, docx) 
+
+Supplementary Table 4ST_4 ChIP-Seq
+
+
+crc-22-0389-s04.docx (13.8KB, docx) 
+
+Supplementary Table 5ST_5 ChromHMM
+
+
+crc-22-0389-s05.docx (14.5KB, docx) 
+
+Supplementary Table 6ST_6 ChIP-Seq Motif
+
+
+crc-22-0389-s06.docx (16.5KB, docx) 
+
+Supplementary Table 7ST_7 ATAC-Seq to RIME
+
+
+crc-22-0389-s07.docx (17KB, docx) 
+
+Supplementary Table 8ST_8 ATAC/ChIP-Seq to splicing
+
+
+crc-22-0389-s08.docx (15.2KB, docx) 
+
+Supplementary Table 9ST_9 LISA analyses of RNA-Seq
+
+
+crc-22-0389-s09.docx (17.9KB, docx) 
+
+Supplementary Table 10ST_10 ATAC overlap ChIP
+
+
+crc-22-0389-s10.docx (13.7KB, docx) 
+
+Supplementary Table 11ST_11 ATAC- to RNA-Seq
+
+
+crc-22-0389-s11.docx (22.9KB, docx) 
+
+Supplementary Table 12ST_12 ChIP-Seq to RNA-Seq
+
+
+crc-22-0389-s12.docx (19.1KB, docx) 
+
+Supplementary Table 13ST_13 BAZ1A and lineage plasticity
+
+
+crc-22-0389-s13.docx (14.9KB, docx) 
+
+Supplementary Table 14ST_14 Serum miRNA and PCa
+
+
+crc-22-0389-s14.docx (15.8KB, docx) 
+
+Supplementary Table 15ST_15 Cistrome and miRNA expression
+
+
+crc-22-0389-s15.docx (14.2KB, docx) 
+
+Supplementary Table 16ST_16 Cistrome and RNA-Seq in tumors
+
+
+crc-22-0389-s16.docx (15.8KB, docx) 
+
+Supplementary Figure 1SF_1 workflow
+
+
+crc-22-0389-s17.pptx (67.7KB, pptx) 
+
+Supplementary Figure 2SF_2 Ancestry cell lines
+
+
+crc-22-0389-s18.pptx (658.4KB, pptx) 
+
+Supplementary Figure 3SF_3 motifs in ATAC-Seq
+
+
+crc-22-0389-s19.pptx (597.7KB, pptx) 
+
+Supplementary Figure 4SF_4 VDR cistrome
+
+
+crc-22-0389-s20.pptx (337.6KB, pptx) 
+
+Supplementary Figure 5SF_5 ChIP-Seq motif
+
+
+crc-22-0389-s21.pptx (704.3KB, pptx) 
+
+Supplementary Figure 6SF_6 RNA-Seq PCA
+
+
+crc-22-0389-s22.pptx (208.6KB, pptx) 
+
+Supplementary Figure 7SF_7 RNA-Seq volcanos
+
+
+crc-22-0389-s23.pptx (1.1MB, pptx) 
+
+Supplementary Figure 8SF_8 RNA-Seq GSEA
+
+
+crc-22-0389-s24.pptx (795.3KB, pptx) 
+
+Supplementary Figure 9SF_9 overlap miRNA
+
+
+crc-22-0389-s25.pptx (391.9KB, pptx) 
+
+Supplementary Figure 10SF_10 cistrome-transcriptome
+
+
+crc-22-0389-s26.pptx (8.6MB, pptx) 
+
+Supplementary Figure 11SF_11 BAZ containing complexes expression
+
+
+crc-22-0389-s27.pptx (930.6KB, pptx) 
+
+Supplementary Figure 12SF_12 BAZ1A-GSEA
+
+
+crc-22-0389-s28.pptx (644.4KB, pptx) 
+
+Supplementary Figure 13SF_13 GSEA tumors
+
+
+crc-22-0389-s29.pptx (571.2KB, pptx) 
+Data Availability Statement
+RNA-, ChIP- and ATAC-seq data are available (GSE223406).",PMC10112383_figure_3,FIGURE 3.,"VDR ChIP-seq in AA and EA cell lines. A, Basal and 1α,25(OH)2D3-stimulated (100 nmol/L, 6 hours) VDR ChIP-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T. FASTQ files were QC processed, aligned to hg38 (Rsubread), sorted and duplicates removed before differential enrichment of regions was measured with csaw and the significantly different regions compared with IgG controls (Padj < 0.1) were then intersected to generate the Venn diagrams of overlapping regions by a minimum of 1 bp (ChIPpeakAnno). B, Significantly differentially enriched motifs were identified by Homer and nuclear receptors are illustrated. C, Changes in motif enrichment were calculated (delta) and ranked by significance for visualization.",./data/PMC10112383/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/d9a81bad5ca0/crc-22-0389_fig3.jpg
+PMC10112383,"Supplementary Materials
+
+Supplementary Table 1Supplementary Table_1 RIME
+
+
+crc-22-0389-s01.docx (16.2KB, docx) 
+
+Supplementary Table 2Supplementary Table _2 - RIME II
+
+
+crc-22-0389-s02.docx (15.8KB, docx) 
+
+Supplementary Table 3ST_3 ATAC-Seq
+
+
+crc-22-0389-s03.docx (17.1KB, docx) 
+
+Supplementary Table 4ST_4 ChIP-Seq
+
+
+crc-22-0389-s04.docx (13.8KB, docx) 
+
+Supplementary Table 5ST_5 ChromHMM
+
+
+crc-22-0389-s05.docx (14.5KB, docx) 
+
+Supplementary Table 6ST_6 ChIP-Seq Motif
+
+
+crc-22-0389-s06.docx (16.5KB, docx) 
+
+Supplementary Table 7ST_7 ATAC-Seq to RIME
+
+
+crc-22-0389-s07.docx (17KB, docx) 
+
+Supplementary Table 8ST_8 ATAC/ChIP-Seq to splicing
+
+
+crc-22-0389-s08.docx (15.2KB, docx) 
+
+Supplementary Table 9ST_9 LISA analyses of RNA-Seq
+
+
+crc-22-0389-s09.docx (17.9KB, docx) 
+
+Supplementary Table 10ST_10 ATAC overlap ChIP
+
+
+crc-22-0389-s10.docx (13.7KB, docx) 
+
+Supplementary Table 11ST_11 ATAC- to RNA-Seq
+
+
+crc-22-0389-s11.docx (22.9KB, docx) 
+
+Supplementary Table 12ST_12 ChIP-Seq to RNA-Seq
+
+
+crc-22-0389-s12.docx (19.1KB, docx) 
+
+Supplementary Table 13ST_13 BAZ1A and lineage plasticity
+
+
+crc-22-0389-s13.docx (14.9KB, docx) 
+
+Supplementary Table 14ST_14 Serum miRNA and PCa
+
+
+crc-22-0389-s14.docx (15.8KB, docx) 
+
+Supplementary Table 15ST_15 Cistrome and miRNA expression
+
+
+crc-22-0389-s15.docx (14.2KB, docx) 
+
+Supplementary Table 16ST_16 Cistrome and RNA-Seq in tumors
+
+
+crc-22-0389-s16.docx (15.8KB, docx) 
+
+Supplementary Figure 1SF_1 workflow
+
+
+crc-22-0389-s17.pptx (67.7KB, pptx) 
+
+Supplementary Figure 2SF_2 Ancestry cell lines
+
+
+crc-22-0389-s18.pptx (658.4KB, pptx) 
+
+Supplementary Figure 3SF_3 motifs in ATAC-Seq
+
+
+crc-22-0389-s19.pptx (597.7KB, pptx) 
+
+Supplementary Figure 4SF_4 VDR cistrome
+
+
+crc-22-0389-s20.pptx (337.6KB, pptx) 
+
+Supplementary Figure 5SF_5 ChIP-Seq motif
+
+
+crc-22-0389-s21.pptx (704.3KB, pptx) 
+
+Supplementary Figure 6SF_6 RNA-Seq PCA
+
+
+crc-22-0389-s22.pptx (208.6KB, pptx) 
+
+Supplementary Figure 7SF_7 RNA-Seq volcanos
+
+
+crc-22-0389-s23.pptx (1.1MB, pptx) 
+
+Supplementary Figure 8SF_8 RNA-Seq GSEA
+
+
+crc-22-0389-s24.pptx (795.3KB, pptx) 
+
+Supplementary Figure 9SF_9 overlap miRNA
+
+
+crc-22-0389-s25.pptx (391.9KB, pptx) 
+
+Supplementary Figure 10SF_10 cistrome-transcriptome
+
+
+crc-22-0389-s26.pptx (8.6MB, pptx) 
+
+Supplementary Figure 11SF_11 BAZ containing complexes expression
+
+
+crc-22-0389-s27.pptx (930.6KB, pptx) 
+
+Supplementary Figure 12SF_12 BAZ1A-GSEA
+
+
+crc-22-0389-s28.pptx (644.4KB, pptx) 
+
+Supplementary Figure 13SF_13 GSEA tumors
+
+
+crc-22-0389-s29.pptx (571.2KB, pptx) 
+Data Availability Statement
+RNA-, ChIP- and ATAC-seq data are available (GSE223406).",PMC10112383_figure_4,FIGURE 4.,"1α,25(OH)2D3-dependent RNA- and small RNA-Seq in AA and EA cell lines. A and B, Basal and 1α,25(OH)2D3-stimulated (100 nmol/L, 8 hours) RNA-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T. FASTQ files were QC processed, aligned to hg38 (Rsubread), and processed with limma-voom and edgeR workflow to identify significant DEGs (logPV > 1 and absFC > 0.37) are illustrated on Volcano plots with top DEGs illustrated. C, GSEAs (Chemical Perturbations in GSEA) was undertaken and the terms identified and visualized where the NES was in the opposite direction are visualized in RC43N and RC43T.",./data/PMC10112383/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/679f860fed65/crc-22-0389_fig4.jpg
+PMC10112383,"Supplementary Materials
+
+Supplementary Table 1Supplementary Table_1 RIME
+
+
+crc-22-0389-s01.docx (16.2KB, docx) 
+
+Supplementary Table 2Supplementary Table _2 - RIME II
+
+
+crc-22-0389-s02.docx (15.8KB, docx) 
+
+Supplementary Table 3ST_3 ATAC-Seq
+
+
+crc-22-0389-s03.docx (17.1KB, docx) 
+
+Supplementary Table 4ST_4 ChIP-Seq
+
+
+crc-22-0389-s04.docx (13.8KB, docx) 
+
+Supplementary Table 5ST_5 ChromHMM
+
+
+crc-22-0389-s05.docx (14.5KB, docx) 
+
+Supplementary Table 6ST_6 ChIP-Seq Motif
+
+
+crc-22-0389-s06.docx (16.5KB, docx) 
+
+Supplementary Table 7ST_7 ATAC-Seq to RIME
+
+
+crc-22-0389-s07.docx (17KB, docx) 
+
+Supplementary Table 8ST_8 ATAC/ChIP-Seq to splicing
+
+
+crc-22-0389-s08.docx (15.2KB, docx) 
+
+Supplementary Table 9ST_9 LISA analyses of RNA-Seq
+
+
+crc-22-0389-s09.docx (17.9KB, docx) 
+
+Supplementary Table 10ST_10 ATAC overlap ChIP
+
+
+crc-22-0389-s10.docx (13.7KB, docx) 
+
+Supplementary Table 11ST_11 ATAC- to RNA-Seq
+
+
+crc-22-0389-s11.docx (22.9KB, docx) 
+
+Supplementary Table 12ST_12 ChIP-Seq to RNA-Seq
+
+
+crc-22-0389-s12.docx (19.1KB, docx) 
+
+Supplementary Table 13ST_13 BAZ1A and lineage plasticity
+
+
+crc-22-0389-s13.docx (14.9KB, docx) 
+
+Supplementary Table 14ST_14 Serum miRNA and PCa
+
+
+crc-22-0389-s14.docx (15.8KB, docx) 
+
+Supplementary Table 15ST_15 Cistrome and miRNA expression
+
+
+crc-22-0389-s15.docx (14.2KB, docx) 
+
+Supplementary Table 16ST_16 Cistrome and RNA-Seq in tumors
+
+
+crc-22-0389-s16.docx (15.8KB, docx) 
+
+Supplementary Figure 1SF_1 workflow
+
+
+crc-22-0389-s17.pptx (67.7KB, pptx) 
+
+Supplementary Figure 2SF_2 Ancestry cell lines
+
+
+crc-22-0389-s18.pptx (658.4KB, pptx) 
+
+Supplementary Figure 3SF_3 motifs in ATAC-Seq
+
+
+crc-22-0389-s19.pptx (597.7KB, pptx) 
+
+Supplementary Figure 4SF_4 VDR cistrome
+
+
+crc-22-0389-s20.pptx (337.6KB, pptx) 
+
+Supplementary Figure 5SF_5 ChIP-Seq motif
+
+
+crc-22-0389-s21.pptx (704.3KB, pptx) 
+
+Supplementary Figure 6SF_6 RNA-Seq PCA
+
+
+crc-22-0389-s22.pptx (208.6KB, pptx) 
+
+Supplementary Figure 7SF_7 RNA-Seq volcanos
+
+
+crc-22-0389-s23.pptx (1.1MB, pptx) 
+
+Supplementary Figure 8SF_8 RNA-Seq GSEA
+
+
+crc-22-0389-s24.pptx (795.3KB, pptx) 
+
+Supplementary Figure 9SF_9 overlap miRNA
+
+
+crc-22-0389-s25.pptx (391.9KB, pptx) 
+
+Supplementary Figure 10SF_10 cistrome-transcriptome
+
+
+crc-22-0389-s26.pptx (8.6MB, pptx) 
+
+Supplementary Figure 11SF_11 BAZ containing complexes expression
+
+
+crc-22-0389-s27.pptx (930.6KB, pptx) 
+
+Supplementary Figure 12SF_12 BAZ1A-GSEA
+
+
+crc-22-0389-s28.pptx (644.4KB, pptx) 
+
+Supplementary Figure 13SF_13 GSEA tumors
+
+
+crc-22-0389-s29.pptx (571.2KB, pptx) 
+Data Availability Statement
+RNA-, ChIP- and ATAC-seq data are available (GSE223406).",PMC10112383_figure_5,FIGURE 5.,"The impact of BAZ1A on expression of VDR-dependent gene networks. A, Altered BAZ1A and SMARCA5 expression in AA prostate cancer was identified in TCGA prostate cancer cohort by comparing EA and AA tumors and considering status of TMPRSS2 translocations. B, The blot used for Fig. 1A (cells treated with 1α,25(OH)2D3 (100 nmol/L, 24 hours) or vehicle control and total protein isolated) was stripped and reprobed with antibodies toward BAZ1A and SMARCA5. C, Unique DEGs in cells with restored expression of BAZ1A. D, BAZ1A-dependent DEGs enhanced inflammatory responses and repressed MYC networks. E, Comparable and divergent GSEA enrichment in BAZ1A-dependent DEGS in RC43N and RC43T that were different from the direction of enrichment in the parental cells.",./data/PMC10112383/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/0e5ebcdbe8b0/crc-22-0389_fig5.jpg
+PMC10112383,"Supplementary Materials
+
+Supplementary Table 1Supplementary Table_1 RIME
+
+
+crc-22-0389-s01.docx (16.2KB, docx) 
+
+Supplementary Table 2Supplementary Table _2 - RIME II
+
+
+crc-22-0389-s02.docx (15.8KB, docx) 
+
+Supplementary Table 3ST_3 ATAC-Seq
+
+
+crc-22-0389-s03.docx (17.1KB, docx) 
+
+Supplementary Table 4ST_4 ChIP-Seq
+
+
+crc-22-0389-s04.docx (13.8KB, docx) 
+
+Supplementary Table 5ST_5 ChromHMM
+
+
+crc-22-0389-s05.docx (14.5KB, docx) 
+
+Supplementary Table 6ST_6 ChIP-Seq Motif
+
+
+crc-22-0389-s06.docx (16.5KB, docx) 
+
+Supplementary Table 7ST_7 ATAC-Seq to RIME
+
+
+crc-22-0389-s07.docx (17KB, docx) 
+
+Supplementary Table 8ST_8 ATAC/ChIP-Seq to splicing
+
+
+crc-22-0389-s08.docx (15.2KB, docx) 
+
+Supplementary Table 9ST_9 LISA analyses of RNA-Seq
+
+
+crc-22-0389-s09.docx (17.9KB, docx) 
+
+Supplementary Table 10ST_10 ATAC overlap ChIP
+
+
+crc-22-0389-s10.docx (13.7KB, docx) 
+
+Supplementary Table 11ST_11 ATAC- to RNA-Seq
+
+
+crc-22-0389-s11.docx (22.9KB, docx) 
+
+Supplementary Table 12ST_12 ChIP-Seq to RNA-Seq
+
+
+crc-22-0389-s12.docx (19.1KB, docx) 
+
+Supplementary Table 13ST_13 BAZ1A and lineage plasticity
+
+
+crc-22-0389-s13.docx (14.9KB, docx) 
+
+Supplementary Table 14ST_14 Serum miRNA and PCa
+
+
+crc-22-0389-s14.docx (15.8KB, docx) 
+
+Supplementary Table 15ST_15 Cistrome and miRNA expression
+
+
+crc-22-0389-s15.docx (14.2KB, docx) 
+
+Supplementary Table 16ST_16 Cistrome and RNA-Seq in tumors
+
+
+crc-22-0389-s16.docx (15.8KB, docx) 
+
+Supplementary Figure 1SF_1 workflow
+
+
+crc-22-0389-s17.pptx (67.7KB, pptx) 
+
+Supplementary Figure 2SF_2 Ancestry cell lines
+
+
+crc-22-0389-s18.pptx (658.4KB, pptx) 
+
+Supplementary Figure 3SF_3 motifs in ATAC-Seq
+
+
+crc-22-0389-s19.pptx (597.7KB, pptx) 
+
+Supplementary Figure 4SF_4 VDR cistrome
+
+
+crc-22-0389-s20.pptx (337.6KB, pptx) 
+
+Supplementary Figure 5SF_5 ChIP-Seq motif
+
+
+crc-22-0389-s21.pptx (704.3KB, pptx) 
+
+Supplementary Figure 6SF_6 RNA-Seq PCA
+
+
+crc-22-0389-s22.pptx (208.6KB, pptx) 
+
+Supplementary Figure 7SF_7 RNA-Seq volcanos
+
+
+crc-22-0389-s23.pptx (1.1MB, pptx) 
+
+Supplementary Figure 8SF_8 RNA-Seq GSEA
+
+
+crc-22-0389-s24.pptx (795.3KB, pptx) 
+
+Supplementary Figure 9SF_9 overlap miRNA
+
+
+crc-22-0389-s25.pptx (391.9KB, pptx) 
+
+Supplementary Figure 10SF_10 cistrome-transcriptome
+
+
+crc-22-0389-s26.pptx (8.6MB, pptx) 
+
+Supplementary Figure 11SF_11 BAZ containing complexes expression
+
+
+crc-22-0389-s27.pptx (930.6KB, pptx) 
+
+Supplementary Figure 12SF_12 BAZ1A-GSEA
+
+
+crc-22-0389-s28.pptx (644.4KB, pptx) 
+
+Supplementary Figure 13SF_13 GSEA tumors
+
+
+crc-22-0389-s29.pptx (571.2KB, pptx).",PMC10112383_figure_1,FIGURE 1.,"Expression of VDR and responses to 1α,25(OH)2D3 in AA and EA cell lines. A, Western immunoblot measurements of VDR levels after 1α,25(OH)2D3 treatment (100 nmol/L, 24 hours) or vehicle control. B, RIME analyses of VDR in the indicated cells (in quadriplicates) and significantly different proteins were identified using an edgeR workflow. Volcano plots depicting enrichment levels, compared with IgG controls, between the indicated cells in basal or 1α,25(OH)2D3-stimulated conditions (100 nmol/L, 4 hours). Significant (Padj < 0.1) differentially and uniquely enriched proteins in each cell and treatment condition were classified either as a CoA, CoR, Mixed, or TF. C, The most altered components of the VDR complex were established in RC43T compared with LNCaP, and RC43N with HPr1AR, and then the delta between these comparisons were identified and ranked.",./data/PMC10112383/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/efa4c1e0d84c/crc-22-0389_fig1.jpg
+PMC10112383,"Supplementary Materials
+
+Supplementary Table 1Supplementary Table_1 RIME
+
+
+crc-22-0389-s01.docx (16.2KB, docx) 
+
+Supplementary Table 2Supplementary Table _2 - RIME II
+
+
+crc-22-0389-s02.docx (15.8KB, docx) 
+
+Supplementary Table 3ST_3 ATAC-Seq
+
+
+crc-22-0389-s03.docx (17.1KB, docx) 
+
+Supplementary Table 4ST_4 ChIP-Seq
+
+
+crc-22-0389-s04.docx (13.8KB, docx) 
+
+Supplementary Table 5ST_5 ChromHMM
+
+
+crc-22-0389-s05.docx (14.5KB, docx) 
+
+Supplementary Table 6ST_6 ChIP-Seq Motif
+
+
+crc-22-0389-s06.docx (16.5KB, docx) 
+
+Supplementary Table 7ST_7 ATAC-Seq to RIME
+
+
+crc-22-0389-s07.docx (17KB, docx) 
+
+Supplementary Table 8ST_8 ATAC/ChIP-Seq to splicing
+
+
+crc-22-0389-s08.docx (15.2KB, docx) 
+
+Supplementary Table 9ST_9 LISA analyses of RNA-Seq
+
+
+crc-22-0389-s09.docx (17.9KB, docx) 
+
+Supplementary Table 10ST_10 ATAC overlap ChIP
+
+
+crc-22-0389-s10.docx (13.7KB, docx) 
+
+Supplementary Table 11ST_11 ATAC- to RNA-Seq
+
+
+crc-22-0389-s11.docx (22.9KB, docx) 
+
+Supplementary Table 12ST_12 ChIP-Seq to RNA-Seq
+
+
+crc-22-0389-s12.docx (19.1KB, docx) 
+
+Supplementary Table 13ST_13 BAZ1A and lineage plasticity
+
+
+crc-22-0389-s13.docx (14.9KB, docx) 
+
+Supplementary Table 14ST_14 Serum miRNA and PCa
+
+
+crc-22-0389-s14.docx (15.8KB, docx) 
+
+Supplementary Table 15ST_15 Cistrome and miRNA expression
+
+
+crc-22-0389-s15.docx (14.2KB, docx) 
+
+Supplementary Table 16ST_16 Cistrome and RNA-Seq in tumors
+
+
+crc-22-0389-s16.docx (15.8KB, docx) 
+
+Supplementary Figure 1SF_1 workflow
+
+
+crc-22-0389-s17.pptx (67.7KB, pptx) 
+
+Supplementary Figure 2SF_2 Ancestry cell lines
+
+
+crc-22-0389-s18.pptx (658.4KB, pptx) 
+
+Supplementary Figure 3SF_3 motifs in ATAC-Seq
+
+
+crc-22-0389-s19.pptx (597.7KB, pptx) 
+
+Supplementary Figure 4SF_4 VDR cistrome
+
+
+crc-22-0389-s20.pptx (337.6KB, pptx) 
+
+Supplementary Figure 5SF_5 ChIP-Seq motif
+
+
+crc-22-0389-s21.pptx (704.3KB, pptx) 
+
+Supplementary Figure 6SF_6 RNA-Seq PCA
+
+
+crc-22-0389-s22.pptx (208.6KB, pptx) 
+
+Supplementary Figure 7SF_7 RNA-Seq volcanos
+
+
+crc-22-0389-s23.pptx (1.1MB, pptx) 
+
+Supplementary Figure 8SF_8 RNA-Seq GSEA
+
+
+crc-22-0389-s24.pptx (795.3KB, pptx) 
+
+Supplementary Figure 9SF_9 overlap miRNA
+
+
+crc-22-0389-s25.pptx (391.9KB, pptx) 
+
+Supplementary Figure 10SF_10 cistrome-transcriptome
+
+
+crc-22-0389-s26.pptx (8.6MB, pptx) 
+
+Supplementary Figure 11SF_11 BAZ containing complexes expression
+
+
+crc-22-0389-s27.pptx (930.6KB, pptx) 
+
+Supplementary Figure 12SF_12 BAZ1A-GSEA
+
+
+crc-22-0389-s28.pptx (644.4KB, pptx) 
+
+Supplementary Figure 13SF_13 GSEA tumors
+
+
+crc-22-0389-s29.pptx (571.2KB, pptx).",PMC10112383_figure_2,FIGURE 2.,"VDR ATAC-seq in AA and EA cell lines. A, ATAC-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T following 1α,25(OH)2D3 treatment (100 nmol/L, 4 hours) or vehicle control. FASTQ files were QC processed, aligned to hg38 (Rsubread), sorted and duplicates removed before further processing with ATACseqQC to generate nucleosome free and mononucleosome regions. Differential enrichment of regions was measured with csaw and the significantly different regions (Padj < 0.1) were then intersected to generate the Venn diagrams of overlapping regions by a minimum of 1 bp (ChIPpeakAnno). B, Motif enrichment in NF regions was undertaken with Homer and ranked by significance to visualize in descending significance. C, Frequency of enriched motifs by TF families’ class. D, Enrichment of circadian rhythm TFs.",./data/PMC10112383/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/c41adce460c5/crc-22-0389_fig2.jpg
+PMC10112383,"Supplementary Materials
+
+Supplementary Table 1Supplementary Table_1 RIME
+
+
+crc-22-0389-s01.docx (16.2KB, docx) 
+
+Supplementary Table 2Supplementary Table _2 - RIME II
+
+
+crc-22-0389-s02.docx (15.8KB, docx) 
+
+Supplementary Table 3ST_3 ATAC-Seq
+
+
+crc-22-0389-s03.docx (17.1KB, docx) 
+
+Supplementary Table 4ST_4 ChIP-Seq
+
+
+crc-22-0389-s04.docx (13.8KB, docx) 
+
+Supplementary Table 5ST_5 ChromHMM
+
+
+crc-22-0389-s05.docx (14.5KB, docx) 
+
+Supplementary Table 6ST_6 ChIP-Seq Motif
+
+
+crc-22-0389-s06.docx (16.5KB, docx) 
+
+Supplementary Table 7ST_7 ATAC-Seq to RIME
+
+
+crc-22-0389-s07.docx (17KB, docx) 
+
+Supplementary Table 8ST_8 ATAC/ChIP-Seq to splicing
+
+
+crc-22-0389-s08.docx (15.2KB, docx) 
+
+Supplementary Table 9ST_9 LISA analyses of RNA-Seq
+
+
+crc-22-0389-s09.docx (17.9KB, docx) 
+
+Supplementary Table 10ST_10 ATAC overlap ChIP
+
+
+crc-22-0389-s10.docx (13.7KB, docx) 
+
+Supplementary Table 11ST_11 ATAC- to RNA-Seq
+
+
+crc-22-0389-s11.docx (22.9KB, docx) 
+
+Supplementary Table 12ST_12 ChIP-Seq to RNA-Seq
+
+
+crc-22-0389-s12.docx (19.1KB, docx) 
+
+Supplementary Table 13ST_13 BAZ1A and lineage plasticity
+
+
+crc-22-0389-s13.docx (14.9KB, docx) 
+
+Supplementary Table 14ST_14 Serum miRNA and PCa
+
+
+crc-22-0389-s14.docx (15.8KB, docx) 
+
+Supplementary Table 15ST_15 Cistrome and miRNA expression
+
+
+crc-22-0389-s15.docx (14.2KB, docx) 
+
+Supplementary Table 16ST_16 Cistrome and RNA-Seq in tumors
+
+
+crc-22-0389-s16.docx (15.8KB, docx) 
+
+Supplementary Figure 1SF_1 workflow
+
+
+crc-22-0389-s17.pptx (67.7KB, pptx) 
+
+Supplementary Figure 2SF_2 Ancestry cell lines
+
+
+crc-22-0389-s18.pptx (658.4KB, pptx) 
+
+Supplementary Figure 3SF_3 motifs in ATAC-Seq
+
+
+crc-22-0389-s19.pptx (597.7KB, pptx) 
+
+Supplementary Figure 4SF_4 VDR cistrome
+
+
+crc-22-0389-s20.pptx (337.6KB, pptx) 
+
+Supplementary Figure 5SF_5 ChIP-Seq motif
+
+
+crc-22-0389-s21.pptx (704.3KB, pptx) 
+
+Supplementary Figure 6SF_6 RNA-Seq PCA
+
+
+crc-22-0389-s22.pptx (208.6KB, pptx) 
+
+Supplementary Figure 7SF_7 RNA-Seq volcanos
+
+
+crc-22-0389-s23.pptx (1.1MB, pptx) 
+
+Supplementary Figure 8SF_8 RNA-Seq GSEA
+
+
+crc-22-0389-s24.pptx (795.3KB, pptx) 
+
+Supplementary Figure 9SF_9 overlap miRNA
+
+
+crc-22-0389-s25.pptx (391.9KB, pptx) 
+
+Supplementary Figure 10SF_10 cistrome-transcriptome
+
+
+crc-22-0389-s26.pptx (8.6MB, pptx) 
+
+Supplementary Figure 11SF_11 BAZ containing complexes expression
+
+
+crc-22-0389-s27.pptx (930.6KB, pptx) 
+
+Supplementary Figure 12SF_12 BAZ1A-GSEA
+
+
+crc-22-0389-s28.pptx (644.4KB, pptx) 
+
+Supplementary Figure 13SF_13 GSEA tumors
+
+
+crc-22-0389-s29.pptx (571.2KB, pptx).",PMC10112383_figure_3,FIGURE 3.,"VDR ChIP-seq in AA and EA cell lines. A, Basal and 1α,25(OH)2D3-stimulated (100 nmol/L, 6 hours) VDR ChIP-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T. FASTQ files were QC processed, aligned to hg38 (Rsubread), sorted and duplicates removed before differential enrichment of regions was measured with csaw and the significantly different regions compared with IgG controls (Padj < 0.1) were then intersected to generate the Venn diagrams of overlapping regions by a minimum of 1 bp (ChIPpeakAnno). B, Significantly differentially enriched motifs were identified by Homer and nuclear receptors are illustrated. C, Changes in motif enrichment were calculated (delta) and ranked by significance for visualization.",./data/PMC10112383/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/d9a81bad5ca0/crc-22-0389_fig3.jpg
+PMC10112383,"Supplementary Materials
+
+Supplementary Table 1Supplementary Table_1 RIME
+
+
+crc-22-0389-s01.docx (16.2KB, docx) 
+
+Supplementary Table 2Supplementary Table _2 - RIME II
+
+
+crc-22-0389-s02.docx (15.8KB, docx) 
+
+Supplementary Table 3ST_3 ATAC-Seq
+
+
+crc-22-0389-s03.docx (17.1KB, docx) 
+
+Supplementary Table 4ST_4 ChIP-Seq
+
+
+crc-22-0389-s04.docx (13.8KB, docx) 
+
+Supplementary Table 5ST_5 ChromHMM
+
+
+crc-22-0389-s05.docx (14.5KB, docx) 
+
+Supplementary Table 6ST_6 ChIP-Seq Motif
+
+
+crc-22-0389-s06.docx (16.5KB, docx) 
+
+Supplementary Table 7ST_7 ATAC-Seq to RIME
+
+
+crc-22-0389-s07.docx (17KB, docx) 
+
+Supplementary Table 8ST_8 ATAC/ChIP-Seq to splicing
+
+
+crc-22-0389-s08.docx (15.2KB, docx) 
+
+Supplementary Table 9ST_9 LISA analyses of RNA-Seq
+
+
+crc-22-0389-s09.docx (17.9KB, docx) 
+
+Supplementary Table 10ST_10 ATAC overlap ChIP
+
+
+crc-22-0389-s10.docx (13.7KB, docx) 
+
+Supplementary Table 11ST_11 ATAC- to RNA-Seq
+
+
+crc-22-0389-s11.docx (22.9KB, docx) 
+
+Supplementary Table 12ST_12 ChIP-Seq to RNA-Seq
+
+
+crc-22-0389-s12.docx (19.1KB, docx) 
+
+Supplementary Table 13ST_13 BAZ1A and lineage plasticity
+
+
+crc-22-0389-s13.docx (14.9KB, docx) 
+
+Supplementary Table 14ST_14 Serum miRNA and PCa
+
+
+crc-22-0389-s14.docx (15.8KB, docx) 
+
+Supplementary Table 15ST_15 Cistrome and miRNA expression
+
+
+crc-22-0389-s15.docx (14.2KB, docx) 
+
+Supplementary Table 16ST_16 Cistrome and RNA-Seq in tumors
+
+
+crc-22-0389-s16.docx (15.8KB, docx) 
+
+Supplementary Figure 1SF_1 workflow
+
+
+crc-22-0389-s17.pptx (67.7KB, pptx) 
+
+Supplementary Figure 2SF_2 Ancestry cell lines
+
+
+crc-22-0389-s18.pptx (658.4KB, pptx) 
+
+Supplementary Figure 3SF_3 motifs in ATAC-Seq
+
+
+crc-22-0389-s19.pptx (597.7KB, pptx) 
+
+Supplementary Figure 4SF_4 VDR cistrome
+
+
+crc-22-0389-s20.pptx (337.6KB, pptx) 
+
+Supplementary Figure 5SF_5 ChIP-Seq motif
+
+
+crc-22-0389-s21.pptx (704.3KB, pptx) 
+
+Supplementary Figure 6SF_6 RNA-Seq PCA
+
+
+crc-22-0389-s22.pptx (208.6KB, pptx) 
+
+Supplementary Figure 7SF_7 RNA-Seq volcanos
+
+
+crc-22-0389-s23.pptx (1.1MB, pptx) 
+
+Supplementary Figure 8SF_8 RNA-Seq GSEA
+
+
+crc-22-0389-s24.pptx (795.3KB, pptx) 
+
+Supplementary Figure 9SF_9 overlap miRNA
+
+
+crc-22-0389-s25.pptx (391.9KB, pptx) 
+
+Supplementary Figure 10SF_10 cistrome-transcriptome
+
+
+crc-22-0389-s26.pptx (8.6MB, pptx) 
+
+Supplementary Figure 11SF_11 BAZ containing complexes expression
+
+
+crc-22-0389-s27.pptx (930.6KB, pptx) 
+
+Supplementary Figure 12SF_12 BAZ1A-GSEA
+
+
+crc-22-0389-s28.pptx (644.4KB, pptx) 
+
+Supplementary Figure 13SF_13 GSEA tumors
+
+
+crc-22-0389-s29.pptx (571.2KB, pptx).",PMC10112383_figure_4,FIGURE 4.,"1α,25(OH)2D3-dependent RNA- and small RNA-Seq in AA and EA cell lines. A and B, Basal and 1α,25(OH)2D3-stimulated (100 nmol/L, 8 hours) RNA-seq was undertaken in triplicate in HPr1AR, LNCaP, RC43N, and RC43T. FASTQ files were QC processed, aligned to hg38 (Rsubread), and processed with limma-voom and edgeR workflow to identify significant DEGs (logPV > 1 and absFC > 0.37) are illustrated on Volcano plots with top DEGs illustrated. C, GSEAs (Chemical Perturbations in GSEA) was undertaken and the terms identified and visualized where the NES was in the opposite direction are visualized in RC43N and RC43T.",./data/PMC10112383/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/679f860fed65/crc-22-0389_fig4.jpg
+PMC10112383,"Supplementary Materials
+
+Supplementary Table 1Supplementary Table_1 RIME
+
+
+crc-22-0389-s01.docx (16.2KB, docx) 
+
+Supplementary Table 2Supplementary Table _2 - RIME II
+
+
+crc-22-0389-s02.docx (15.8KB, docx) 
+
+Supplementary Table 3ST_3 ATAC-Seq
+
+
+crc-22-0389-s03.docx (17.1KB, docx) 
+
+Supplementary Table 4ST_4 ChIP-Seq
+
+
+crc-22-0389-s04.docx (13.8KB, docx) 
+
+Supplementary Table 5ST_5 ChromHMM
+
+
+crc-22-0389-s05.docx (14.5KB, docx) 
+
+Supplementary Table 6ST_6 ChIP-Seq Motif
+
+
+crc-22-0389-s06.docx (16.5KB, docx) 
+
+Supplementary Table 7ST_7 ATAC-Seq to RIME
+
+
+crc-22-0389-s07.docx (17KB, docx) 
+
+Supplementary Table 8ST_8 ATAC/ChIP-Seq to splicing
+
+
+crc-22-0389-s08.docx (15.2KB, docx) 
+
+Supplementary Table 9ST_9 LISA analyses of RNA-Seq
+
+
+crc-22-0389-s09.docx (17.9KB, docx) 
+
+Supplementary Table 10ST_10 ATAC overlap ChIP
+
+
+crc-22-0389-s10.docx (13.7KB, docx) 
+
+Supplementary Table 11ST_11 ATAC- to RNA-Seq
+
+
+crc-22-0389-s11.docx (22.9KB, docx) 
+
+Supplementary Table 12ST_12 ChIP-Seq to RNA-Seq
+
+
+crc-22-0389-s12.docx (19.1KB, docx) 
+
+Supplementary Table 13ST_13 BAZ1A and lineage plasticity
+
+
+crc-22-0389-s13.docx (14.9KB, docx) 
+
+Supplementary Table 14ST_14 Serum miRNA and PCa
+
+
+crc-22-0389-s14.docx (15.8KB, docx) 
+
+Supplementary Table 15ST_15 Cistrome and miRNA expression
+
+
+crc-22-0389-s15.docx (14.2KB, docx) 
+
+Supplementary Table 16ST_16 Cistrome and RNA-Seq in tumors
+
+
+crc-22-0389-s16.docx (15.8KB, docx) 
+
+Supplementary Figure 1SF_1 workflow
+
+
+crc-22-0389-s17.pptx (67.7KB, pptx) 
+
+Supplementary Figure 2SF_2 Ancestry cell lines
+
+
+crc-22-0389-s18.pptx (658.4KB, pptx) 
+
+Supplementary Figure 3SF_3 motifs in ATAC-Seq
+
+
+crc-22-0389-s19.pptx (597.7KB, pptx) 
+
+Supplementary Figure 4SF_4 VDR cistrome
+
+
+crc-22-0389-s20.pptx (337.6KB, pptx) 
+
+Supplementary Figure 5SF_5 ChIP-Seq motif
+
+
+crc-22-0389-s21.pptx (704.3KB, pptx) 
+
+Supplementary Figure 6SF_6 RNA-Seq PCA
+
+
+crc-22-0389-s22.pptx (208.6KB, pptx) 
+
+Supplementary Figure 7SF_7 RNA-Seq volcanos
+
+
+crc-22-0389-s23.pptx (1.1MB, pptx) 
+
+Supplementary Figure 8SF_8 RNA-Seq GSEA
+
+
+crc-22-0389-s24.pptx (795.3KB, pptx) 
+
+Supplementary Figure 9SF_9 overlap miRNA
+
+
+crc-22-0389-s25.pptx (391.9KB, pptx) 
+
+Supplementary Figure 10SF_10 cistrome-transcriptome
+
+
+crc-22-0389-s26.pptx (8.6MB, pptx) 
+
+Supplementary Figure 11SF_11 BAZ containing complexes expression
+
+
+crc-22-0389-s27.pptx (930.6KB, pptx) 
+
+Supplementary Figure 12SF_12 BAZ1A-GSEA
+
+
+crc-22-0389-s28.pptx (644.4KB, pptx) 
+
+Supplementary Figure 13SF_13 GSEA tumors
+
+
+crc-22-0389-s29.pptx (571.2KB, pptx).",PMC10112383_figure_5,FIGURE 5.,"The impact of BAZ1A on expression of VDR-dependent gene networks. A, Altered BAZ1A and SMARCA5 expression in AA prostate cancer was identified in TCGA prostate cancer cohort by comparing EA and AA tumors and considering status of TMPRSS2 translocations. B, The blot used for Fig. 1A (cells treated with 1α,25(OH)2D3 (100 nmol/L, 24 hours) or vehicle control and total protein isolated) was stripped and reprobed with antibodies toward BAZ1A and SMARCA5. C, Unique DEGs in cells with restored expression of BAZ1A. D, BAZ1A-dependent DEGs enhanced inflammatory responses and repressed MYC networks. E, Comparable and divergent GSEA enrichment in BAZ1A-dependent DEGS in RC43N and RC43T that were different from the direction of enrichment in the parental cells.",./data/PMC10112383/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/051e/10112383/0e5ebcdbe8b0/crc-22-0389_fig5.jpg

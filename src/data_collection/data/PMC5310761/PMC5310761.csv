@@ -1,0 +1,491 @@
+paper_id,claim,figure_id,title,caption,local_image_path,url
+PMC5310761,"A trajectory consists of displacements between locations and pauses at locations, where the individual stops and spends time (Fig 1).",PMC5310761_figure_1,Fig 1. Example of an individual trajectory.,"An individual trajectory is composed of pauses (red dots) and displacements (dashed black line). The trajectory shows the positions of one individual across 26 hours. Location is estimated from individual’s WiFi scans as detailed in the text and the data is sampled in 1 min bins. Red dots correspond to locations where the individual spent more than 10 consecutive minutes. The coordinates of these locations have been slightly altered to protect the subject privacy. The map was generated with the Matplotlib Basemap toolkit for Python (https://pypi.python.org/pypi/basemap). Map data © OpenStreetMap contributors (License: http://www.openstreetmap.org/copyright). Map tiles by Stamen Design, under CC BY 3.0.",./data/PMC5310761/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/22b29b0d0bd1/pone.0171686.g001.jpg
+PMC5310761,Fig 2 and Table 1 compare distributions obtained using different data sources.,PMC5310761_figure_2,Fig 3. Distribution of displacements.,Blue dotted line: data. Black dashed line: log-normal fit with characteristic parameter μ and σ. Red dashed line: Pareto fit with characteristic parameter β for Δr > 7420 m.,./data/PMC5310761/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/e48cde4cd8a1/pone.0171686.g003.jpg
+PMC5310761,The spectrum of results reflects the heterogeneity of the considered datasets (see Fig 2).,PMC5310761_figure_2,Fig 3. Distribution of displacements.,Blue dotted line: data. Black dashed line: log-normal fit with characteristic parameter μ and σ. Red dashed line: Pareto fit with characteristic parameter β for Δr > 7420 m.,./data/PMC5310761/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/e48cde4cd8a1/pone.0171686.g003.jpg
+PMC5310761,"RangeΔx
+
+
+P(Δx)
+Sampling δt
+
+
+P(Δt)
+
+
+
+[1] (D1)
+CDR
+3.0 ⋅ 106
+
+1 Y
+1 km100 km
+
+power-law (T)β = 1.55
+uneven
+
+
+
+[1] (D2)
+CDR
+103
+
+2 W
+1 km100 km
+
+1 h
+
+power-law (T)β = 1.80
+
+
+[2] (D1)
+CDR
+105
+
+6 M
+1 km1000 km
+
+power-law (T)β = 1.75
+uneven
+
+
+
+[2] (D2)
+CDR
+206
+1 W
+1 km500 km
+
+power-law (T)β = 1.75
+2 h
+
+
+
+[3]
+Bills records
+4.6 ⋅ 105bills
+1.39 Y
+100 m3200 km
+10 ≤ Δx ≤ 3200 kmpower-lawβ = 1.59
+uneven
+
+
+
+[5] (Geolife)
+GPS
+32
+3.42 Y
+10 m10000 km
+0.01 ≤ Δx ≤ 10 kmpower-lawβ0 = 1.2510 < Δx ≤ 10000 kmpower-lawβ1 = 1.90
+2 min
+
+power-law
+β = 1.98
+
+
+[6](Nokia)
+GPS
+200
+1.50 Y
+100 m10 km
+
+power-law (T)β = 1.39
+10 sec
+
+
+
+[6] (Geolife)
+GPS
+182
+5.00 Y
+100 m10 km
+
+power-law (T)β = 1.57
+1 − 5 sec
+
+
+
+[7] (5 datasets)
+GPS
+101
+5 M
+10 m10 km
+
+power-law (T)β = [1.35-1.82]
+10 sec
+
+power-law (T)β = [1.45-2.68]
+
+
+[8]
+Taxi (GPS)
+50
+6 M
+1 km100 km
+3 ≤ Δx ≤ 23 kmpower-lawβ0 = 2.5023 < Δx ≤ 100 kmpower-lawβ1 = 4.60
+10 sec
+
+
+
+[9]
+Taxi (GPS)
+6.6 ⋅ 103
+
+1 W
+1 km100 km
+
+power-law (T)β = 1.20
+10 sec
+
+
+
+[10]
+Flickr
+4.0 ⋅ 104
+
+
+1 km10000 km
+power-law (T)
+uneven
+
+
+
+[11]
+LBSN
+2.2 ⋅ 105
+
+4 M
+1 km500 km
+
+power-lawβ = 1.88
+uneven
+
+
+
+[12]
+Twitter
+1.3 ⋅ 107
+
+1 Y
+1 km100 km
+
+power-lawβ = 1.62
+uneven
+
+
+
+[13]
+LBSN
+9.2 ⋅ 105
+
+6 M
+1 km20000 km
+
+power-lawβ = 1.50
+uneven
+
+
+
+[13] (intracity)
+LBSN
+9.2 ⋅ 105
+
+6 M
+10 m100 km
+
+power-law(“poor”) [13]β = 4.67
+uneven
+
+
+
+[14]
+LBSN
+2.6 ⋅ 105
+
+1 Y
+10 m50 km
+
+exponentialλ = 0.179
+uneven
+
+
+
+[15]
+LBSN
+5.2 ⋅ 105
+
+1 Y
+1 km4000 km
+
+exponentialλ = 0.003
+uneven
+
+
+
+[16]
+Twitter
+1.6 ⋅ 105
+
+8 M
+10 m4000 km
+0.01 ≤ Δx ≤ 0.1 kmexponentialλ = 0.0730.1 < Δx ≤ 100 kmStretchedpower-lawβ1 = 0.45100 < Δx ≤ 4000 kmpower-lawβ2 = 1.32 
+
+uneven
+
+
+
+[17]
+Taxi (GPS)
+803
+1.25 Y
+1 km100 km
+Δx ≤ 15 kmexponentialλ = 0.3615 < Δx ≤ 100 kmpower-lawβ = 3.66
+30 sec
+
+
+
+[18] (D1)
+Taxi (GPS)
+104
+
+3 M
+1 km100 km
+1 ≤ Δx ≤ 20 kmexponentialλ0 = 0.2320 < Δx ≤ 100 kmexponentialλ1 = 0.17
+
+1 min
+
+
+
+[18] (D2)
+Taxi (GPS)
+104
+
+2 M
+1 km100 km
+1 ≤ Δx ≤ 20 kmexponentialλ0 = 0.2420 < Δx ≤ 100 kmexponentialλ1 = 0.18
+1 min
+
+
+
+[19]
+Taxi (GPS)
+6.6 ⋅ 103
+
+1 W
+2 km20 km
+
+exponentialλ = [0.072-0.252]
+10 sec
+
+
+
+[20](3 datasets)
+Taxi (GPS)
+104
+
+1 M
+600 m10 km
+exponential
+[9 − 177] s
+power-law
+
+
+[21](6 datasets)
+Taxi (GPS)
+3.0 ⋅ 104
+
+[1 M-2 Y]
+1 km100 km
+
+log-normalμ = [0.77-1.32],σ = [0.67-0.87]
+[24 − 116] s
+
+
+
+[22]
+Taxi (GPS)
+1.1 ⋅ 103
+
+6 M
+100 m30 km
+
+log-normalμ = 0.38,σ = 0.48
+30 sec
+
+
+
+[23]
+Surveys
+104
+
+1 Y
+
+
+self-reported
+
+power-law (T)β = 0.49
+
+
+[24]
+Private Cars (GPS)
+7.8 ⋅ 105
+
+1 M
+1 km500 km
+superimposition Poisson
+10 sec
+Δt ≤ 4hpower-lawβ = 1.031 ≤ Δt ≤ 200hlog-normalμ = 1.60,σ = 1.60
+
+
+[26]
+Private Cars (GPS)
+3.5 ⋅ 104
+
+1 M
+300 m100 km
+polynomial
+10 sec
+
+power-lawβ = 0.97
+
+
+[30] (D1)
+CDR
+1.3 ⋅ 106
+
+1 M
+1 km200 km
+
+power-lawβ = 2.02
+uneven
+
+
+
+[30] (D2)
+CDR
+6 ⋅ 106
+
+1 Y
+1 km500 km
+
+power-lawβ = 1.75
+uneven
+
+
+
+[30] (D3)
+CDR
+
+4 Y
+1 km100 km
+
+power-lawβ = 1.80
+uneven
+
+
+
+[34]
+Travel cards
+2.0 ⋅ 106
+
+1 W
+100 m50 km
+
+negative binomialμ = 9.28,σ = 5.83
+uneven
+
+
+
+[42]
+TravelDiaries
+230
+1.5 M
+1 km400 km
+
+power-law (T)β = 1.05
+self-reported
+
+
+
+[56]
+Private Cars (GPS)
+7.5 ⋅ 104
+
+1 M
+10 m500 km
+0.01 ≤ Δx ≤ 20 kmexponential20 < Δx ≤ 150 kmpower-lawβ1 = 3.30
+30 sec
+Δt ≤ 3hexponentialλ = 1.02
+
+
+[57]
+Taxi (GPS)
+
+1 D
+200 m1000 km
+
+power-lawβ = 2.70
+
+
+
+
+
+Open in a new tabFirst, the datasets considered have different spatial resolution and coverage, and few studies have so far considered the whole range of displacements occurring between ∼10 and 107 m (10000 km) (Fig 2).",PMC5310761_figure_2,Fig 3. Distribution of displacements.,Blue dotted line: data. Black dashed line: log-normal fit with characteristic parameter μ and σ. Red dashed line: Pareto fit with characteristic parameter β for Δr > 7420 m.,./data/PMC5310761/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/e48cde4cd8a1/pone.0171686.g003.jpg
+PMC5310761,"Previous studies with comparable spatial coverage (Fig 2) relied on single-transportation modality data [8], unevenly sampled data [16], or small samples (32 individuals in Ref. [5]).",PMC5310761_figure_2,Fig 3. Distribution of displacements.,Blue dotted line: data. Black dashed line: log-normal fit with characteristic parameter μ and σ. Red dashed line: Pareto fit with characteristic parameter β for Δr > 7420 m.,./data/PMC5310761/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/e48cde4cd8a1/pone.0171686.g003.jpg
+PMC5310761,"We find that P(Δr) is best described by a log-normal distribution (Eq (1)) with parameters μ = 6.78 ± 0.07 and σ = 2.45 ± 0.04, which maximises Akaike Information Criterion (see Methods)—among the three models considered—with Akaike weight ∼1 (Fig 3, see also S1 File).",PMC5310761_figure_3,Fig 4. Distribution of individual displacements.,"A) Frequency histogram of 96.2% of individuals for which the individual distribution of displacement is log-normal, according to the value of the log-normal fit coefficient μ. B-C-D) Examples of the distribution of displacements P(Δr) of three individuals i1 (B), i2 (C), i3 (D) (dotted line), with the corresponding log-normal fit (dashed line). The value of the fit coefficients μ and σ are reported in each subfigure.",./data/PMC5310761/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/83fb246019e2/pone.0171686.g004.jpg
+PMC5310761,"Fig 4 reports the histogram of the individual μ parameters for the 96.2% of the population that is best described by a log-normal distribution, along with three examples of individual distributions.",PMC5310761_figure_4,Fig 5. Distribution of waiting times between displacements.,Yellow dotted line: data. Black dashed line: Log-normal fit with characteristic parameter μ and σ. Red dashed line: Pareto fit with characteristic parameter β for Δt > 13 h.,./data/PMC5310761/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/60da93ecedc4/pone.0171686.g005.jpg
+PMC5310761,"The best model describing the distribution of waiting times over all individuals is the log-normal distribution (Eq (1), Fig 5, see also S1 File), with parameters μ = −0.42 ± 0.04, σ = 2.14 ± 0.02.",PMC5310761_figure_5,Fig 6. Distribution of displacements between discoveries.,Green dotted line: data. Black dashed line: Log-normal fit with characteristic parameter μ and σ. Red dashed line: Pareto fit with characteristic parameter β for Δr > 2800 m.,./data/PMC5310761/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/60d8a959bb7f/pone.0171686.g006.jpg
+PMC5310761,"As in the case of displacements, we find that restricting the analysis to large values of our observable Δt, and specifically considering only Δt > Δt∗ = 13 h, results in the selection of the Pareto distribution (Eq (2), see Fig 5), with coefficient β = 1.44 ± 0.01.",PMC5310761_figure_5,Fig 6. Distribution of displacements between discoveries.,Green dotted line: data. Black dashed line: Log-normal fit with characteristic parameter μ and σ. Red dashed line: Pareto fit with characteristic parameter β for Δr > 2800 m.,./data/PMC5310761/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/60d8a959bb7f/pone.0171686.g006.jpg
+PMC5310761,"We find that the distribution of distances between consecutive discoveries P(Δr) is best described as a log-normal distribution with parameters μ = 6.59 ± 0.02, σ = 1.99 ± 0.01, (Fig 6, see also S1 File).",PMC5310761_figure_6,Fig 7. Correlations between displacements and pauses.,"A) The duration Δtdisp of a displacement vs the distance Δr between origin and destination. The blue line is the median value of Δr and Δtdisp computed within log-spaced 2-dimensional bins. The filled blue area corresponds to the 25-75 percentile range. The value of the Pearson correlation coefficient within the shaded grey area indicates a positive correlation, with p − value < 0.01. The dashed line is a power-law function with coefficient β, as a guide for the eye. B) The waiting time Δt at destination vs the distance Δr between origin and destination. The blue line is the median value of Δr and Δt computed within log-spaced 2-dimensional bins. The filled blue area corresponds to the 25-75 percentile range. The value of the Pearson correlation coefficient within the shaded grey area indicates a positive correlation, with p − value < 0.01. The dashed line is a power-law function with coefficient β, as a guide for the eye.",./data/PMC5310761/images/figure_6.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/b5a09fe2ae97/pone.0171686.g007.jpg
+PMC5310761,"Supporting figures and tables.(PDF)
+
+
+Click here for additional data file. (446.1KB, pdf) 
+Data Availability
+Data used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",PMC5310761_figure_3,Fig 4. Distribution of individual displacements.,"A) Frequency histogram of 96.2% of individuals for which the individual distribution of displacement is log-normal, according to the value of the log-normal fit coefficient μ. B-C-D) Examples of the distribution of displacements P(Δr) of three individuals i1 (B), i2 (C), i3 (D) (dotted line), with the corresponding log-normal fit (dashed line). The value of the fit coefficients μ and σ are reported in each subfigure.",./data/PMC5310761/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/83fb246019e2/pone.0171686.g004.jpg
+PMC5310761,"Supporting figures and tables.(PDF)
+
+
+Click here for additional data file. (446.1KB, pdf) 
+Data Availability
+Data used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",PMC5310761_figure_5,Fig 6. Distribution of displacements between discoveries.,Green dotted line: data. Black dashed line: Log-normal fit with characteristic parameter μ and σ. Red dashed line: Pareto fit with characteristic parameter β for Δr > 2800 m.,./data/PMC5310761/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/60d8a959bb7f/pone.0171686.g006.jpg
+PMC5310761,"Supporting figures and tables.(PDF)
+
+
+Click here for additional data file. (446.1KB, pdf) 
+Data Availability
+Data used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",PMC5310761_figure_6,Fig 7. Correlations between displacements and pauses.,"A) The duration Δtdisp of a displacement vs the distance Δr between origin and destination. The blue line is the median value of Δr and Δtdisp computed within log-spaced 2-dimensional bins. The filled blue area corresponds to the 25-75 percentile range. The value of the Pearson correlation coefficient within the shaded grey area indicates a positive correlation, with p − value < 0.01. The dashed line is a power-law function with coefficient β, as a guide for the eye. B) The waiting time Δt at destination vs the distance Δr between origin and destination. The blue line is the median value of Δr and Δt computed within log-spaced 2-dimensional bins. The filled blue area corresponds to the 25-75 percentile range. The value of the Pearson correlation coefficient within the shaded grey area indicates a positive correlation, with p − value < 0.01. The dashed line is a power-law function with coefficient β, as a guide for the eye.",./data/PMC5310761/images/figure_6.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/b5a09fe2ae97/pone.0171686.g007.jpg
+PMC5310761,"Data used to generate Fig.4 can not be shared due to privacy consideration regarding subjects in our dataset, including European Union regulations and Danish Data Protection Agency rules.",PMC5310761_figure_4,Fig 5. Distribution of waiting times between displacements.,Yellow dotted line: data. Black dashed line: Log-normal fit with characteristic parameter μ and σ. Red dashed line: Pareto fit with characteristic parameter β for Δt > 13 h.,./data/PMC5310761/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/60da93ecedc4/pone.0171686.g005.jpg
+PMC5310761,"Supporting figures and tables.(PDF)
+
+
+Click here for additional data file. (446.1KB, pdf) 
+Data Availability Statement
+Data used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",PMC5310761_figure_3,Fig 4. Distribution of individual displacements.,"A) Frequency histogram of 96.2% of individuals for which the individual distribution of displacement is log-normal, according to the value of the log-normal fit coefficient μ. B-C-D) Examples of the distribution of displacements P(Δr) of three individuals i1 (B), i2 (C), i3 (D) (dotted line), with the corresponding log-normal fit (dashed line). The value of the fit coefficients μ and σ are reported in each subfigure.",./data/PMC5310761/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/83fb246019e2/pone.0171686.g004.jpg
+PMC5310761,"Supporting figures and tables.(PDF)
+
+
+Click here for additional data file. (446.1KB, pdf) 
+Data Availability Statement
+Data used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",PMC5310761_figure_5,Fig 6. Distribution of displacements between discoveries.,Green dotted line: data. Black dashed line: Log-normal fit with characteristic parameter μ and σ. Red dashed line: Pareto fit with characteristic parameter β for Δr > 2800 m.,./data/PMC5310761/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/60d8a959bb7f/pone.0171686.g006.jpg
+PMC5310761,"Supporting figures and tables.(PDF)
+
+
+Click here for additional data file. (446.1KB, pdf) 
+Data Availability Statement
+Data used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",PMC5310761_figure_6,Fig 7. Correlations between displacements and pauses.,"A) The duration Δtdisp of a displacement vs the distance Δr between origin and destination. The blue line is the median value of Δr and Δtdisp computed within log-spaced 2-dimensional bins. The filled blue area corresponds to the 25-75 percentile range. The value of the Pearson correlation coefficient within the shaded grey area indicates a positive correlation, with p − value < 0.01. The dashed line is a power-law function with coefficient β, as a guide for the eye. B) The waiting time Δt at destination vs the distance Δr between origin and destination. The blue line is the median value of Δr and Δt computed within log-spaced 2-dimensional bins. The filled blue area corresponds to the 25-75 percentile range. The value of the Pearson correlation coefficient within the shaded grey area indicates a positive correlation, with p − value < 0.01. The dashed line is a power-law function with coefficient β, as a guide for the eye.",./data/PMC5310761/images/figure_6.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/b5a09fe2ae97/pone.0171686.g007.jpg
+PMC5310761,"First, the datasets considered have different spatial resolution and coverage, and few studies have so far considered the whole range of displacements occurring between ∼10 and 107 m (10000 km) (Fig 2).",PMC5310761_figure_2,Fig 3. Distribution of displacements.,Blue dotted line: data. Black dashed line: log-normal fit with characteristic parameter μ and σ. Red dashed line: Pareto fit with characteristic parameter β for Δr > 7420 m.,./data/PMC5310761/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/e48cde4cd8a1/pone.0171686.g003.jpg
+PMC5310761,"Data Availability
+Data used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",PMC5310761_figure_3,Fig 4. Distribution of individual displacements.,"A) Frequency histogram of 96.2% of individuals for which the individual distribution of displacement is log-normal, according to the value of the log-normal fit coefficient μ. B-C-D) Examples of the distribution of displacements P(Δr) of three individuals i1 (B), i2 (C), i3 (D) (dotted line), with the corresponding log-normal fit (dashed line). The value of the fit coefficients μ and σ are reported in each subfigure.",./data/PMC5310761/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/83fb246019e2/pone.0171686.g004.jpg
+PMC5310761,"Data Availability
+Data used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",PMC5310761_figure_5,Fig 6. Distribution of displacements between discoveries.,Green dotted line: data. Black dashed line: Log-normal fit with characteristic parameter μ and σ. Red dashed line: Pareto fit with characteristic parameter β for Δr > 2800 m.,./data/PMC5310761/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/60d8a959bb7f/pone.0171686.g006.jpg
+PMC5310761,"Data Availability
+Data used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",PMC5310761_figure_6,Fig 7. Correlations between displacements and pauses.,"A) The duration Δtdisp of a displacement vs the distance Δr between origin and destination. The blue line is the median value of Δr and Δtdisp computed within log-spaced 2-dimensional bins. The filled blue area corresponds to the 25-75 percentile range. The value of the Pearson correlation coefficient within the shaded grey area indicates a positive correlation, with p − value < 0.01. The dashed line is a power-law function with coefficient β, as a guide for the eye. B) The waiting time Δt at destination vs the distance Δr between origin and destination. The blue line is the median value of Δr and Δt computed within log-spaced 2-dimensional bins. The filled blue area corresponds to the 25-75 percentile range. The value of the Pearson correlation coefficient within the shaded grey area indicates a positive correlation, with p − value < 0.01. The dashed line is a power-law function with coefficient β, as a guide for the eye.",./data/PMC5310761/images/figure_6.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/b5a09fe2ae97/pone.0171686.g007.jpg
+PMC5310761,"Data used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",PMC5310761_figure_3,Fig 4. Distribution of individual displacements.,"A) Frequency histogram of 96.2% of individuals for which the individual distribution of displacement is log-normal, according to the value of the log-normal fit coefficient μ. B-C-D) Examples of the distribution of displacements P(Δr) of three individuals i1 (B), i2 (C), i3 (D) (dotted line), with the corresponding log-normal fit (dashed line). The value of the fit coefficients μ and σ are reported in each subfigure.",./data/PMC5310761/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/83fb246019e2/pone.0171686.g004.jpg
+PMC5310761,"Data used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",PMC5310761_figure_5,Fig 6. Distribution of displacements between discoveries.,Green dotted line: data. Black dashed line: Log-normal fit with characteristic parameter μ and σ. Red dashed line: Pareto fit with characteristic parameter β for Δr > 2800 m.,./data/PMC5310761/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/60d8a959bb7f/pone.0171686.g006.jpg
+PMC5310761,"Data used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",PMC5310761_figure_6,Fig 7. Correlations between displacements and pauses.,"A) The duration Δtdisp of a displacement vs the distance Δr between origin and destination. The blue line is the median value of Δr and Δtdisp computed within log-spaced 2-dimensional bins. The filled blue area corresponds to the 25-75 percentile range. The value of the Pearson correlation coefficient within the shaded grey area indicates a positive correlation, with p − value < 0.01. The dashed line is a power-law function with coefficient β, as a guide for the eye. B) The waiting time Δt at destination vs the distance Δr between origin and destination. The blue line is the median value of Δr and Δt computed within log-spaced 2-dimensional bins. The filled blue area corresponds to the 25-75 percentile range. The value of the Pearson correlation coefficient within the shaded grey area indicates a positive correlation, with p − value < 0.01. The dashed line is a power-law function with coefficient β, as a guide for the eye.",./data/PMC5310761/images/figure_6.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/b5a09fe2ae97/pone.0171686.g007.jpg
+PMC5310761,"Data Availability Statement
+Data used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",PMC5310761_figure_3,Fig 4. Distribution of individual displacements.,"A) Frequency histogram of 96.2% of individuals for which the individual distribution of displacement is log-normal, according to the value of the log-normal fit coefficient μ. B-C-D) Examples of the distribution of displacements P(Δr) of three individuals i1 (B), i2 (C), i3 (D) (dotted line), with the corresponding log-normal fit (dashed line). The value of the fit coefficients μ and σ are reported in each subfigure.",./data/PMC5310761/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/83fb246019e2/pone.0171686.g004.jpg
+PMC5310761,"Data Availability Statement
+Data used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",PMC5310761_figure_5,Fig 6. Distribution of displacements between discoveries.,Green dotted line: data. Black dashed line: Log-normal fit with characteristic parameter μ and σ. Red dashed line: Pareto fit with characteristic parameter β for Δr > 2800 m.,./data/PMC5310761/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/60d8a959bb7f/pone.0171686.g006.jpg
+PMC5310761,"Data Availability Statement
+Data used to generate Fig.3, Fig.5, Fig.6 and Fig.7 can be found at https://figshare.com/s/f424d0c0d1721365950d (DOI: 10.6084/m9.figshare.4596346).",PMC5310761_figure_6,Fig 7. Correlations between displacements and pauses.,"A) The duration Δtdisp of a displacement vs the distance Δr between origin and destination. The blue line is the median value of Δr and Δtdisp computed within log-spaced 2-dimensional bins. The filled blue area corresponds to the 25-75 percentile range. The value of the Pearson correlation coefficient within the shaded grey area indicates a positive correlation, with p − value < 0.01. The dashed line is a power-law function with coefficient β, as a guide for the eye. B) The waiting time Δt at destination vs the distance Δr between origin and destination. The blue line is the median value of Δr and Δt computed within log-spaced 2-dimensional bins. The filled blue area corresponds to the 25-75 percentile range. The value of the Pearson correlation coefficient within the shaded grey area indicates a positive correlation, with p − value < 0.01. The dashed line is a power-law function with coefficient β, as a guide for the eye.",./data/PMC5310761/images/figure_6.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e15/5310761/b5a09fe2ae97/pone.0171686.g007.jpg

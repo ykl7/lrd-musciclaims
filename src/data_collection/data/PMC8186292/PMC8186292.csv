@@ -1,0 +1,331 @@
+paper_id,claim,figure_id,title,caption,local_image_path,url
+PMC8186292,"Figure 1 shows a simple competing risks model (for a review on competing risks see Bakoyannis and Touloumi 2012), which is a special case of a multi-state model with single initial state and several absorbing states, of the two aforementioned states.",PMC8186292_figure_1,Figure 1:,Competing risks model of disengagement from care and death after ART initiation.,./data/PMC8186292/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/35b2b767b2eb/j_scid-2019-0013_fig_001.jpg
+PMC8186292,"Figure 1:
+
+Open in a new tab
+Competing risks model of disengagement from care and death after ART initiation.More recently, a number of research papers have started to look at disengagement from care as a transient state, with a proportion of patients who have disengaged from care at one program re-engaging in care either in the same program or elsewhere (Geng, Odeny, and Lyamuya 2015, 2016; Lee et al.",PMC8186292_figure_1,Figure 1:,Competing risks model of disengagement from care and death after ART initiation.,./data/PMC8186292/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/35b2b767b2eb/j_scid-2019-0013_fig_001.jpg
+PMC8186292,Figure 2 presents a multi-state model of patient churning in an out of care after ART initiation.,PMC8186292_figure_2,Figure 2:,Multi-state model of patient churning in an out of care after ART initiation.,./data/PMC8186292/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/1d6e761af1c3/j_scid-2019-0013_fig_002.jpg
+PMC8186292,"Figure 2:
+
+Open in a new tab
+Multi-state model of patient churning in an out of care after ART initiation.Estimation of the transition rates between the states of the multi-state model depicted in Figure 2 can be based on data from HIV care and treatment programs.",PMC8186292_figure_2,Figure 2:,Multi-state model of patient churning in an out of care after ART initiation.,./data/PMC8186292/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/1d6e761af1c3/j_scid-2019-0013_fig_002.jpg
+PMC8186292,The methodological work to date has focused on utilizing data from double-sampling to overcome biases arising from death under-reporting in situations such as the one depicted in the model in Figure 1 (An et al.,PMC8186292_figure_1,Figure 1:,Competing risks model of disengagement from care and death after ART initiation.,./data/PMC8186292/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/35b2b767b2eb/j_scid-2019-0013_fig_001.jpg
+PMC8186292,"However, the previously proposed approaches cannot be used to adjust for the biases arising from death under-reporting when estimating more complex models, such as that depicted in Figure 2, where “gap in care” is not treated as an absorbing state.",PMC8186292_figure_2,Figure 2:,Multi-state model of patient churning in an out of care after ART initiation.,./data/PMC8186292/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/1d6e761af1c3/j_scid-2019-0013_fig_002.jpg
+PMC8186292,"For completeness, the analysis of death while in care and gap in care after ART initiation (the remaining transitions in Figure 2) using previously proposed methods is provided in Appendix.",PMC8186292_figure_2,Figure 2:,Multi-state model of patient churning in an out of care after ART initiation.,./data/PMC8186292/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/1d6e761af1c3/j_scid-2019-0013_fig_002.jpg
+PMC8186292,A schematic of the double-sampling strategy in AMPATH is shown in Figure 3.,PMC8186292_figure_3,Figure 3:,Double-sampling in AMPATH.,./data/PMC8186292/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/a54cd0a43d02/j_scid-2019-0013_fig_003.jpg
+PMC8186292,"Figure 3:
+
+Open in a new tab
+Double-sampling in AMPATH.The statistical problem
+Recently, we presented a methodology to nonparametrically estimate the transitions in a multi-state model with missing data on the absorbing states (Bakoyannis, Zhang, and Yiannoutsos 2019).",PMC8186292_figure_3,Figure 3:,Double-sampling in AMPATH.,./data/PMC8186292/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/a54cd0a43d02/j_scid-2019-0013_fig_003.jpg
+PMC8186292,"These methods can be used to analyze the transition hazards from the “on ART” state to the “gap in care” and “death” states in the model depicted in Figure 2 using the data up to the first gap in care or death (or right censoring), under a double-sampling design such as that implemented in AMPATH.",PMC8186292_figure_2,Figure 2:,Multi-state model of patient churning in an out of care after ART initiation.,./data/PMC8186292/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/1d6e761af1c3/j_scid-2019-0013_fig_002.jpg
+PMC8186292,"In this work we address the issue of analyzing this missing piece in the model, which is depicted in Figure 2.",PMC8186292_figure_2,Figure 2:,Multi-state model of patient churning in an out of care after ART initiation.,./data/PMC8186292/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/1d6e761af1c3/j_scid-2019-0013_fig_002.jpg
+PMC8186292,"More precisely, we focus on the analysis of the hazard of return to care and death after the first true gap in care (Figure 2).",PMC8186292_figure_2,Figure 2:,Multi-state model of patient churning in an out of care after ART initiation.,./data/PMC8186292/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/1d6e761af1c3/j_scid-2019-0013_fig_002.jpg
+PMC8186292,Average estimates of the cumulative baseline cause-specific hazard functions along with the corresponding true values are shown in Figure 4.,PMC8186292_figure_4,Figure 4:,Simulation results corresponding to Scenario 1.,./data/PMC8186292/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/5623979781d3/j_scid-2019-0013_fig_004.jpg
+PMC8186292,"Figure 4:
+
+Open in a new tab
+Simulation results corresponding to Scenario 1.Similarly to the results for the covariate effect estimators, the estimate of the cumulative baseline cause-specific hazard from the complete case analysis is quite biased.",PMC8186292_figure_4,Figure 4:,Simulation results corresponding to Scenario 1.,./data/PMC8186292/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/5623979781d3/j_scid-2019-0013_fig_004.jpg
+PMC8186292,"Scenario 2: — 
+n=5,000 and 74% missingness
+
+The results from this scenario are presented in Table 2 and Figure 5.",PMC8186292_figure_5,Figure 5:,Simulation results corresponding to Scenario 2.,./data/PMC8186292/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/06fecd7f2d69/j_scid-2019-0013_fig_005.jpg
+PMC8186292,"Analysis
+
+Event 1
+Event 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC
+% Bias
+−19.870
+−20.374
+32.168
+20.748
+
+
+MCSDa
+
+0.045
+0.093
+0.064
+0.122
+
+
+ASEb
+
+0.043
+0.090
+0.063
+0.122
+
+
+CPc
+
+0.375
+0.388
+0.279
+0.875
+
+
+MICE
+% Bias
+−9.884
+−11.248
+−26.093
+−26.087
+
+
+MCSDa
+
+0.044
+0.083
+0.041
+0.074
+
+
+ASEb
+
+0.057
+0.105
+0.042
+0.076
+
+
+CPc
+
+0.931
+0.866
+0.216
+0.647
+
+
+SIPW
+% Bias
+0.408
+0.256
+0.405
+−0.656
+
+
+MCSDa
+
+0.058
+0.118
+0.068
+0.126
+
+
+ASEb
+
+0.056
+0.117
+0.068
+0.125
+
+
+CPc
+
+0.937
+0.941
+0.949
+0.950
+
+
+
+Open in a new tab
+aMonte Carlo standard deviation of the estimates. bAverage of the standard error estimates. cEmpirical coverage probability.Figure 5:
+
+Open in a new tab
+Simulation results corresponding to Scenario 2.The results shown in Table 2 are similar as in Scenario 1 (Table 1).",PMC8186292_figure_5,Figure 5:,Simulation results corresponding to Scenario 2.,./data/PMC8186292/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/06fecd7f2d69/j_scid-2019-0013_fig_005.jpg
+PMC8186292,A similar pattern in bias is observed with respect to the estimation of the baseline cumulative cause-specific hazard (Figure 5).,PMC8186292_figure_5,Figure 5:,Simulation results corresponding to Scenario 2.,./data/PMC8186292/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/06fecd7f2d69/j_scid-2019-0013_fig_005.jpg
+PMC8186292,"Scenario 3: — 
+n=20,000 and 87% missingness
+
+The results from this scenario are presented in Table 3 and Figure 6.",PMC8186292_figure_6,Figure 6:,Simulation results corresponding to Scenario 3.,./data/PMC8186292/images/figure_6.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/5673345cdeaa/j_scid-2019-0013_fig_006.jpg
+PMC8186292,"Analysis
+
+Event 1
+Event 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC
+% Bias
+−22.842
+−21.349
+36.646
+37.663
+
+
+MCSDa
+
+0.030
+0.064
+0.047
+0.092
+
+
+ASEb
+
+0.029
+0.064
+0.046
+0.092
+
+
+CPc
+
+0.028
+0.091
+0.019
+0.473
+
+
+MICE
+% Bias
+−9.713
+−11.929
+−30.823
+−31.537
+
+
+MCSDa
+
+0.032
+0.063
+0.027
+0.050
+
+
+ASEb
+
+0.042
+0.077
+0.028
+0.050
+
+
+CPc
+
+0.873
+0.780
+0.011
+0.276
+
+
+SIPW
+% Bias
+−0.376
+−0.546
+0.467
+0.269
+
+
+MCSDa
+
+0.043
+0.092
+0.052
+0.098
+
+
+ASEb
+
+0.042
+0.090
+0.053
+0.097
+
+
+CPc
+
+0.947
+0.938
+0.949
+0.942
+
+
+
+Open in a new tab
+aMonte Carlo standard deviation of the estimates. bAverage of the standard error estimates. cEmpirical coverage probability.Figure 6:
+
+Open in a new tab
+Simulation results corresponding to Scenario 3.A similar pattern to the simulation results from Scenarios one and two is observed here.",PMC8186292_figure_6,Figure 6:,Simulation results corresponding to Scenario 3.,./data/PMC8186292/images/figure_6.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/5673345cdeaa/j_scid-2019-0013_fig_006.jpg
+PMC8186292,"The overall estimated cumulative incidences of death and return to care after a gap in care, based on the SIPW method, are given in Figure 7.",PMC8186292_figure_7,Figure 7:,Cumulative incidence of death and return to care after the first gap in care.,./data/PMC8186292/images/figure_7.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/9384b6c7e82b/j_scid-2019-0013_fig_007.jpg
+PMC8186292,"Figure 7:
+
+Open in a new tab
+Cumulative incidence of death and return to care after the first gap in care.In Figure 7, it appears that a large proportion of patients who have a gap in care return to care quickly after the gap in care and continue to re-engage over the next two years after the gap in care.",PMC8186292_figure_7,Figure 7:,Cumulative incidence of death and return to care after the first gap in care.,./data/PMC8186292/images/figure_7.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/9384b6c7e82b/j_scid-2019-0013_fig_007.jpg
+PMC8186292,"The analysis of the remaining transitions in the model depicted in Figure 2, i.e. death while in care and gap in care after ART initiation, is presented in the Appendix.Discussion
+In this paper we propose a sieve inverse probability weighting (SIPW) estimator for semiparametric analysis of return to care and death after a gap in care.",PMC8186292_figure_2,Figure 2:,Multi-state model of patient churning in an out of care after ART initiation.,./data/PMC8186292/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/1d6e761af1c3/j_scid-2019-0013_fig_002.jpg
+PMC8186292,"The contents of this journal article are the sole responsibility of AMPATH and do not necessarily reflect the views of USAID or the United States Government.Appendix: Analysis of the hazards of a first gap in care and death
+In this Appendix, we provide the analysis of the hazards of death while in care and of a gap in care after ART initiation (i.e. the remaining hazards in the multi-state churn model depicted in Figure 2).",PMC8186292_figure_2,Figure 2:,Multi-state model of patient churning in an out of care after ART initiation.,./data/PMC8186292/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/1d6e761af1c3/j_scid-2019-0013_fig_002.jpg
+PMC8186292,"Figure A1:
+
+Open in a new tab
+Cumulative incidence of death while in care and gap in care after ART initiation.In Figure 7, it appears that a large proportion of patients who initiate ART have a subsequent gap in care.",PMC8186292_figure_7,Figure 7:,Cumulative incidence of death and return to care after the first gap in care.,./data/PMC8186292/images/figure_7.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/9384b6c7e82b/j_scid-2019-0013_fig_007.jpg
+PMC8186292,Estimation of the transition rates between the states of the multi-state model depicted in Figure 2 can be based on data from HIV care and treatment programs.,PMC8186292_figure_2,Figure 2:,Multi-state model of patient churning in an out of care after ART initiation.,./data/PMC8186292/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/1d6e761af1c3/j_scid-2019-0013_fig_002.jpg
+PMC8186292,"Figure 3:
+
+Open in a new tab
+Double-sampling in AMPATH.",PMC8186292_figure_3,Figure 3:,Double-sampling in AMPATH.,./data/PMC8186292/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/a54cd0a43d02/j_scid-2019-0013_fig_003.jpg
+PMC8186292,The results from this scenario are presented in Table 2 and Figure 5.,PMC8186292_figure_5,Figure 5:,Simulation results corresponding to Scenario 2.,./data/PMC8186292/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/06fecd7f2d69/j_scid-2019-0013_fig_005.jpg
+PMC8186292,The results from this scenario are presented in Table 3 and Figure 6.,PMC8186292_figure_6,Figure 6:,Simulation results corresponding to Scenario 3.,./data/PMC8186292/images/figure_6.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/5673345cdeaa/j_scid-2019-0013_fig_006.jpg
+PMC8186292,"The analysis of the remaining transitions in the model depicted in Figure 2, i.e. death while in care and gap in care after ART initiation, is presented in the Appendix.",PMC8186292_figure_2,Figure 2:,Multi-state model of patient churning in an out of care after ART initiation.,./data/PMC8186292/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/1d6e761af1c3/j_scid-2019-0013_fig_002.jpg
+PMC8186292,"In Figure 7, it appears that a large proportion of patients who have a gap in care return to care quickly after the gap in care and continue to re-engage over the next two years after the gap in care.",PMC8186292_figure_7,Figure 7:,Cumulative incidence of death and return to care after the first gap in care.,./data/PMC8186292/images/figure_7.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/9384b6c7e82b/j_scid-2019-0013_fig_007.jpg
+PMC8186292,"Appendix: Analysis of the hazards of a first gap in care and death
+In this Appendix, we provide the analysis of the hazards of death while in care and of a gap in care after ART initiation (i.e. the remaining hazards in the multi-state churn model depicted in Figure 2).",PMC8186292_figure_2,Figure 2:,Multi-state model of patient churning in an out of care after ART initiation.,./data/PMC8186292/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/1d6e761af1c3/j_scid-2019-0013_fig_002.jpg
+PMC8186292,"In this Appendix, we provide the analysis of the hazards of death while in care and of a gap in care after ART initiation (i.e. the remaining hazards in the multi-state churn model depicted in Figure 2).",PMC8186292_figure_2,Figure 2:,Multi-state model of patient churning in an out of care after ART initiation.,./data/PMC8186292/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/1d6e761af1c3/j_scid-2019-0013_fig_002.jpg
+PMC8186292,"In Figure 7, it appears that a large proportion of patients who initiate ART have a subsequent gap in care.",PMC8186292_figure_7,Figure 7:,Cumulative incidence of death and return to care after the first gap in care.,./data/PMC8186292/images/figure_7.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aca/10243176/9384b6c7e82b/j_scid-2019-0013_fig_007.jpg

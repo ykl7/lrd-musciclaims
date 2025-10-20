@@ -1,0 +1,66 @@
+paper_id,claim,figure_id,title,caption,local_image_path,url
+PMC6896490,"A variety of patient paths that can occur in the studied orthopaedic outpatient clinic are
+depicted in Figure 1.",PMC6896490_figure_1,"Figure
+1.","Variety of complex patient paths in an orthopaedic outpatient
+clinic. Blue arrows indicate patient movements inside the clinic and dashed blue
+arrows represent providers (i.e., physicians, nurses, and mid-level providers)
+movements.",./data/PMC6896490/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1412/6896490/db308cfcfbdd/THSS_A_1561160_F0001_C.jpg
+PMC6896490,"The current layout of the clinic is a rectangular space of 6528 cm
+in length and 2529 cm in width, containing 24 exam rooms and 8 physician work areas as shown
+in Figure 2.",PMC6896490_figure_2,Figure 2.,"The
+current layout of the existing orthopaedic outpatient clinic. Each of the four units
+with similar colour defines a pod with three exam rooms and one physician work
+area.",./data/PMC6896490/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1412/6896490/e18b8b4daeed/THSS_A_1561160_F0002_B.jpg
+PMC6896490,A summary of this approach is presented in Figure 3.,PMC6896490_figure_3,Figure 3.,"The
+proposed simulation-optimisation platform to solve the outpatient clinic layout design
+problem.",./data/PMC6896490/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1412/6896490/94b4bc911fc1/THSS_A_1561160_F0003_B.jpg
+PMC6896490,"The PSO pseudo-code pertaining to
+the problem of optimising the layout of an outpatient clinic is presented in Figure 4.",PMC6896490_figure_4,"Figure
+4.","Revised Particle Swarm Optimisation (PSO) pseudo-code for
+layout optimisation problem.",./data/PMC6896490/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1412/6896490/f244ece2455a/THSS_A_1561160_F0004_B.jpg
+PMC6896490,"As part of the improvement in the MH algorithms, the solution quality can be enhanced
+by optimising the MH parameters, such as  and  in Figure 4.",PMC6896490_figure_4,"Figure
+4.","Revised Particle Swarm Optimisation (PSO) pseudo-code for
+layout optimisation problem.",./data/PMC6896490/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1412/6896490/f244ece2455a/THSS_A_1561160_F0004_B.jpg
+PMC6896490,"An example of
+an infeasible layout is shown in Figure 5(a) where (i) the
+waiting area overlaps with four exam rooms and (ii) one exam room (shaded square unit)
+overlaps with another unit.",PMC6896490_figure_5,"Figure
+5.","Neighbourhood search heuristic example. The layout in (a) is
+not a feasible layout. A neighbourhood search algorithm explores local solutions
+created by moving units in one of the eight possible directions and rotating units
+to create a feasible solution as shown in (b). Note that the red arrows in (a)
+show the selected movement directions.",./data/PMC6896490/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1412/6896490/698764253cc5/THSS_A_1561160_F0005_C.jpg
+PMC6896490,"A feasible layout solution can be found by neighbourhood
+search where the waiting area is rotated and the exam room is moved slightly, as shown
+in Figure 5(b).",PMC6896490_figure_5,"Figure
+5.","Neighbourhood search heuristic example. The layout in (a) is
+not a feasible layout. A neighbourhood search algorithm explores local solutions
+created by moving units in one of the eight possible directions and rotating units
+to create a feasible solution as shown in (b). Note that the red arrows in (a)
+show the selected movement directions.",./data/PMC6896490/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1412/6896490/698764253cc5/THSS_A_1561160_F0005_C.jpg
+PMC6896490,"The stopping
+criteria used to terminate the PSO procedure, as shown in PSO pseudo-code in Figure 4, are the limit of a maximum number of iterations (10,000
+times), or achieving less than a 1% solution improvement in 1000 runs.",PMC6896490_figure_4,"Figure
+4.","Revised Particle Swarm Optimisation (PSO) pseudo-code for
+layout optimisation problem.",./data/PMC6896490/images/figure_4.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1412/6896490/f244ece2455a/THSS_A_1561160_F0004_B.jpg
+PMC6896490,"These three layouts, in addition
+to the current layout, are presented in Figure 6.",PMC6896490_figure_6,"Figure
+6.","Final candidate layouts for the studied outpatient clinic from
+optimisation model. Note that each of the four units with similar colour defines a pod
+and the smaller room in the pod is the physician work area.",./data/PMC6896490/images/figure_6.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1412/6896490/4f276cfdd85e/THSS_A_1561160_F0006_B.jpg
+PMC6896490,"Correspondingly, the candidate layouts in Figure 6 have relatively insignificant differences in terms of the pair-wise
+walking distances (i.e., less than 8% difference in the objective function value).",PMC6896490_figure_6,"Figure
+6.","Final candidate layouts for the studied outpatient clinic from
+optimisation model. Note that each of the four units with similar colour defines a pod
+and the smaller room in the pod is the physician work area.",./data/PMC6896490/images/figure_6.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1412/6896490/4f276cfdd85e/THSS_A_1561160_F0006_B.jpg
+PMC6896490,"However,
+the aggregate patient walking distances vary between the four layouts, as shown in the box
+plots in Figure 7.",PMC6896490_figure_7,"Figure
+7.","Box plot of simulated patient walking distances for the three
+candidate and the current layouts.",./data/PMC6896490/images/figure_7.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1412/6896490/804b8f078f75/THSS_A_1561160_F0007_B.jpg
+PMC6896490,"The histograms of patient walking distances for each of the candidate layouts are also
+shown in Figure 8.",PMC6896490_figure_8,"Figure
+8.","Histograms of aggregate patient walking distances for the
+candidate layouts (in metres). Candidate Layout 2 outperforms other layouts, with a
+lower mean, median, and maximum walking distance for patients during the visit.",./data/PMC6896490/images/figure_8.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1412/6896490/e462263b9dc4/THSS_A_1561160_F0008_B.jpg

@@ -1,0 +1,434 @@
+paper_id,claim,figure_id,title,caption,local_image_path,url
+PMC7009867,"In addition, these viruses also bear substantial zoonotic potential, which has, so far, not been associated with representatives of above‐mentioned 2.3.4.4 lineage detected in Europe, and only rarely for viruses of the 2.3.2.1 clade (Figure 1).",PMC7009867_figure_1,Figure 1.,"World‐wide distribution of influenza HPAI H5 and H7 subtypes and clades in domestic birds, wild birds and humans (1 January 2016–31 August 2017)",./data/PMC7009867/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/7af1bcd80b4d/EFS2-15-e04991-g001.jpg
+PMC7009867,"List of species according to the sub‐group, the order and family they belong to in the non‐water birds group
+
+
+
+
+
+Sub‐category
+Order
+Family
+
+
+
+Raptors
+Falconiformes
+Falconidae
+
+
+Accipitriformes
+Accipitridae, Pandionidae
+
+
+Strigiformes
+Stigidae, Tytonidae
+
+
+Song birds
+Passeriformes
+Aegithalidae, Alaudidae, Bombycillidae, Certhiidae, Cinclidae, Corvidae, Emberizidae, Estrildidae, Fringillidae, Hirundinidae, Laniidae, Motacillidae, Muscicapidae, Oriolidae, Paridae, Ploceidae, Prunellidae, Remizidae, Sittidae, Sturnidae, Sylviidae, Troglodytidae, etc.
+
+
+Columbiformes
+Columbidea
+
+
+Waders
+Charadriiformes
+Charadiidea, Scolopaciea, Recurvirostridae, etc.
+
+
+Gulls–Terns–Storks–Cranes
+Charadriiformes
+Laridae
+
+
+Ciconiiformes
+Ciconiidae
+
+
+Gruiformes
+Gruidae
+
+
+
+Open in a new tabGiven the flyways of migratory water birds (see for instance Scott and Rose (1996) and data received as per procurement, coordinated by Linnaeus University (SE) and Erasmus Medical Centre (NL), OC/EFSA/ALPHA2015/01 supplemented with NP/EFSA/ALPHA/2015/04, unpublished (the Consortium report Waldenström et al., 2017)), four entry routes where migratory wild birds would cross the EU border were considered (Figure 2):
+
+
+the NE route, via the EU border with Russia and Belarus, where migratory birds generally enter the EU during the autumn migration (and to a limited extent during cold spells in winter) along the East Atlantic flyway.",PMC7009867_figure_2,Figure 2.,Map of the borders where migratory wild birds enter the EU via the four entry routes considered in this opinion,./data/PMC7009867/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/48ed5053b34c/EFS2-15-e04991-g042.jpg
+PMC7009867,"Figure 3 depicts the essential structures of the set‐up, which is shortly described in the paragraphs that follow.",PMC7009867_figure_3,Figure 3.,"Proposed entry pathways of HPAI viruses belonging to clades 2.3.2.1c, 2.2.1.2 and 2.3.4.4 into the EU via migratory wild birds
+
+Bold lines, quantitative assessment; thin lines, qualitative assessment.",./data/PMC7009867/images/figure_3.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/43c49da8c73f/EFS2-15-e04991-g003.jpg
+PMC7009867,"List of variables used in the HPAI clade 2.3.4.4 simulation model with description, type of EKE performed, type of distribution fitted and relative parameter estimates
+
+
+
+
+
+
+
+
+
+
+
+Parameter
+Description
+Source
+Uncertainty distribution shape
+U distr par1
+U distr par2
+U distr par3
+U distr par4
+More info
+
+
+
+
+MSLength
+
+Length (in days) of the fall–winter migration season for wild birds entering the EU through the north‐east border
+Semi‐formal EKE
+Constant
+125
+NA
+NA
+NA
+Section D.1.1
+
+
+
+
+π
+
+MWB
+
+
+Number of HPAI clade 2.3.4.4 infected water birds at the moment they cross the EU border out of 106
+
+Formal EKE
+Weibull
+Scale = 0.48
+Shape = 237.75
+NA
+NA
+Section D.1.2
+
+
+
+
+Prob(contact
+
+NWB,NWB
+
+)
+
+Probability that a non‐water bird comes in contact with HPAI clade 2.3.4.4 infectious excretions of non‐water birds
+Semi‐formal EKE
+Beta
+α = 0.72
+β = 69.84
+NA
+NA
+Section D.1.4
+
+
+
+
+Prob(contact
+
+NWB,WB
+
+)
+
+Probability that a water bird comes in contact with HPAI clade 2.3.4.4 infectious excretions non‐water birds
+Semi‐formal EKE
+Beta
+α = 0.55
+β = 74.55
+NA
+NA
+Section D.1.4
+
+
+
+
+Prob(contact
+
+WB,NWB
+
+)
+
+Probability that a non‐water bird comes in contact with HPAI clade 2.3.4.4 infectious excretions non‐water birds
+Semi‐formal EKE
+Beta
+α = 0.56
+β = 45.26
+NA
+NA
+Section D.1.4
+
+
+
+
+Prob(contact
+
+WB,WB
+
+)
+
+Probability that a water bird comes in contact with HPAI clade 2.3.4.4 infectious excretions water birds
+Semi‐formal EKE
+Beta
+α = 0.56
+β = 35.64
+NA
+NA
+Section D.1.4
+
+
+
+
+1/r
+
+NWB
+
+
+Reciprocal of the duration in days of the HPAI clade 2.3.4.4 shedding period in non‐water birds
+Semi‐formal EKE
+Tnorm
+Mean = 4.14
+SD = 4.3
+Lower bound = −0.15
+Upper bound = 17.28
+Section D.1.5
+
+
+
+
+1/r
+
+WB
+
+
+Reciprocal of the duration in days of the HPAI clade 2.3.4.4 shedding period in water birds
+Semi‐formal EKE
+Weibull
+Scale = 1.87
+Shape = 5.96
+NA
+NA
+Section D.1.5
+
+
+
+
+md
+
+NWB
+
+
+Mortality rate in non‐water birds due to HPAI clade 2.3.4.4 disease
+Literature
+Constant
+0.75
+NA
+NA
+NA
+Section D.1.7
+
+
+
+
+md
+
+WB
+
+
+Mortality rate in water birds due to HPAI clade 2.3.4.4 disease
+Literature
+Constant
+0.07
+NA
+NA
+NA
+Section D.1.7
+
+
+
+
+Preservation
+
+AIV preservation in the environment
+Literature
+Constant
+13
+
+
+
+Section D.1.9
+
+
+
+
+Prob(Inf
+
+NWB
+
+ | contact)
+
+Probability that a susceptible non‐water bird becomes infected with HPAI clade 2.3.4.4 given a contact with excretions containing infectious virus in a forage area
+Semi‐formal EKE
+Beta
+α = 0.78
+β = 1596.73
+NA
+NA
+Section D.1.10
+
+
+
+
+Prob(Inf
+
+WB
+
+ | contact)
+
+Probability that a susceptible water bird becomes infected with HPAI clade 2.3.4.4 given a contact with excretions containing infectious virus in a forage area
+Semi‐formal EKE
+Beta
+α = 0.74
+β = 235.89
+NA
+NA
+Section D.1.10
+
+
+
+
+
+
+Number of non‐water birds landing into a holding
+Formal
+lnorm
+Mean = 6.75
+SD = 1.05
+NA
+NA
+Section D.1.12
+
+
+
+
+
+
+Number of water birds landing into a holding
+Formal
+Weibull
+Scale = 0.46
+Shape = 111.36
+NA
+NA
+Section D.1.12
+
+
+
+
+β
+
+b0
+
+
+Regression coefficient for the probability for a worst‐case holding to get the HPAI clade 2.3.4.4 infection given the presence of HPAI‐infected wild bird
+Formal
+beta
+α = 0.38
+β = 561.41
+NA
+NA
+Section D1.13
+
+
+
+
+TMWB
+
+Total number of Migratory WB entering EU during migration season
+Selected scenarios
+Tnorm
+Mean = 53403.94
+SD = 70370.43
+Lower bound = 1,6826.33
+Upper bound = 5,5632.39
+Section C.5.2 Model scenarios
+
+
+
+Open in a new tab
+NA, not applicable.The model outcome suggests, with a probability of 1 (median of the uncertainty distribution), that at least one migratory water bird infected with HPAIV clade 2.3.4.4 enters the EU via the NE route (see Figure 1, Appendix E).",PMC7009867_figure_1,Figure 1.,"World‐wide distribution of influenza HPAI H5 and H7 subtypes and clades in domestic birds, wild birds and humans (1 January 2016–31 August 2017)",./data/PMC7009867/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/7af1bcd80b4d/EFS2-15-e04991-g001.jpg
+PMC7009867,"When 648 susceptible water birds enter daily (i.e. when the total population size at the end of the migratory season reaches 100,000 wild birds), the prevalence increases after 2 days and reaches a plateau around day 25 of the migration season (median 0.002, 95th percentile24 0.029 at the end of the migration season i.e. day 125) (see Figure 5: scenario 1, population capacity 100,000 birds).",PMC7009867_figure_5,Figure 5.,"Modelled HPAI clade 2.3.4.4 worst‐case prevalence (95th percentile) in wild water birds (piWB) after entry of infected wild water birds at day 1 of the migration season. Different population sizes (10–100,000) and scenarios 1–4 are presented. Scenario 1: 90% water birds, 90% migratory birds; scenario 2: 10% water birds, 90% migratory birds; scenario 3: 90% water birds, 10% migratory birds; scenario 4: 10% water birds, 10% migratory birds",./data/PMC7009867/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/6b8c48be0204/EFS2-15-e04991-g005.jpg
+PMC7009867,"Then, the virus prevalence increases gradually in the wild bird reservoir until the end of the migration season (median 0.000, 95th percentile 0.020 at day 125) (see Figure 5: scenario 1, population capacity 10,000 birds).",PMC7009867_figure_5,Figure 5.,"Modelled HPAI clade 2.3.4.4 worst‐case prevalence (95th percentile) in wild water birds (piWB) after entry of infected wild water birds at day 1 of the migration season. Different population sizes (10–100,000) and scenarios 1–4 are presented. Scenario 1: 90% water birds, 90% migratory birds; scenario 2: 10% water birds, 90% migratory birds; scenario 3: 90% water birds, 10% migratory birds; scenario 4: 10% water birds, 10% migratory birds",./data/PMC7009867/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/6b8c48be0204/EFS2-15-e04991-g005.jpg
+PMC7009867,"In scenario 3, due to the high number of resident water birds, virus prevalence immediately increases within the wild bird reservoir after the entry of infected wild water birds (95th percentile 0.020 at day 125) (see Figure 5: scenario 3, population capacity 100,000 birds).",PMC7009867_figure_5,Figure 5.,"Modelled HPAI clade 2.3.4.4 worst‐case prevalence (95th percentile) in wild water birds (piWB) after entry of infected wild water birds at day 1 of the migration season. Different population sizes (10–100,000) and scenarios 1–4 are presented. Scenario 1: 90% water birds, 90% migratory birds; scenario 2: 10% water birds, 90% migratory birds; scenario 3: 90% water birds, 10% migratory birds; scenario 4: 10% water birds, 10% migratory birds",./data/PMC7009867/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/6b8c48be0204/EFS2-15-e04991-g005.jpg
+PMC7009867,"Having sufficient susceptible resident wild birds but lowering the number of infected wild water birds entering, results in lower maximum prevalence levels in the wild bird reservoir (95th percentile 0.004 at day 125) (see Figure 5: scenario 3, population capacity 10,000 birds).",PMC7009867_figure_5,Figure 5.,"Modelled HPAI clade 2.3.4.4 worst‐case prevalence (95th percentile) in wild water birds (piWB) after entry of infected wild water birds at day 1 of the migration season. Different population sizes (10–100,000) and scenarios 1–4 are presented. Scenario 1: 90% water birds, 90% migratory birds; scenario 2: 10% water birds, 90% migratory birds; scenario 3: 90% water birds, 10% migratory birds; scenario 4: 10% water birds, 10% migratory birds",./data/PMC7009867/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/6b8c48be0204/EFS2-15-e04991-g005.jpg
+PMC7009867,"Scenario 1: 90% water birds, 90% migratory birds; scenario 2: 10% water birds, 90% migratory birds; scenario 3: 90% water birds, 10% migratory birds; scenario 4: 10% water birds, 10% migratory birds
+Reducing the number of water birds in the wild population (scenarios 2 and 4), will lead to an epizootic in the residential wild bird population only when considerable numbers of susceptible water birds enter (see Figure 5, scenario 2)27 or considerable numbers of susceptible water birds are resident (see Figure 5, scenario 4).28
+
+Simulating entry of infected wild water birds in the middle of the migration season (day 60) suggests immediate onset of an epizootic in the wild bird reservoir as the critical number of susceptible water birds is already available (see Figure E.2, Appendix E).",PMC7009867_figure_5,Figure 5.,"Modelled HPAI clade 2.3.4.4 worst‐case prevalence (95th percentile) in wild water birds (piWB) after entry of infected wild water birds at day 1 of the migration season. Different population sizes (10–100,000) and scenarios 1–4 are presented. Scenario 1: 90% water birds, 90% migratory birds; scenario 2: 10% water birds, 90% migratory birds; scenario 3: 90% water birds, 10% migratory birds; scenario 4: 10% water birds, 10% migratory birds",./data/PMC7009867/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/6b8c48be0204/EFS2-15-e04991-g005.jpg
+PMC7009867,The HPAI prevalence in wild water birds at the end of the migration season is similar to the level obtained when infected wild birds arrive already in the beginning of the migration season (comparison Figure 5 with Figure E.2).,PMC7009867_figure_5,Figure 5.,"Modelled HPAI clade 2.3.4.4 worst‐case prevalence (95th percentile) in wild water birds (piWB) after entry of infected wild water birds at day 1 of the migration season. Different population sizes (10–100,000) and scenarios 1–4 are presented. Scenario 1: 90% water birds, 90% migratory birds; scenario 2: 10% water birds, 90% migratory birds; scenario 3: 90% water birds, 10% migratory birds; scenario 4: 10% water birds, 10% migratory birds",./data/PMC7009867/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/6b8c48be0204/EFS2-15-e04991-g005.jpg
+PMC7009867,"The evolution of the daily probability of a holding without biosecurity to become HPAI clade 2.3.4.4 infected during the migratory season (see Figure E.4, Appendix E) follows the kinetics of virus prevalence in wild water birds (Figure 5).",PMC7009867_figure_5,Figure 5.,"Modelled HPAI clade 2.3.4.4 worst‐case prevalence (95th percentile) in wild water birds (piWB) after entry of infected wild water birds at day 1 of the migration season. Different population sizes (10–100,000) and scenarios 1–4 are presented. Scenario 1: 90% water birds, 90% migratory birds; scenario 2: 10% water birds, 90% migratory birds; scenario 3: 90% water birds, 10% migratory birds; scenario 4: 10% water birds, 10% migratory birds",./data/PMC7009867/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/6b8c48be0204/EFS2-15-e04991-g005.jpg
+PMC7009867,"The median seasonal probability of poultry holdings without biosecurity becoming HPAIV clade 2.3.4.4 infected is 0 and 2 (94 and 407, 95th percentile) per 1,000 holdings when considering wild bird populations of 10,000 and 100,000 birds, respectively (Figure 6).",PMC7009867_figure_6,Figure 6.,"Seasonal probability (median (lower bar) – 95th percentile (upper bar)) of a poultry holding without biosecurity becoming infected with HPAIV clade 2.3.4.4 via wild birds over the entire migratory season, when this holding is located in an area where 10–105 wild birds are present (consisting of 90% migratory birds, 90% water birds; scenario 1)",./data/PMC7009867/images/figure_6.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/071cbf63c529/EFS2-15-e04991-g006.jpg
+PMC7009867,"Based on these values, the implementation and maintenance of carefully selected and adapted biosecurity measures are key in the protection of poultry holdings from AIV incursions (Figure 7).",PMC7009867_figure_7,Figure 7.,"Based on median value of probability that holdings will become infected with HPAI clade 2.3.4.4 given the exposure to 100 infected wild bird, fold reductions were calculated for increasing level of biosecurity",./data/PMC7009867/images/figure_7.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/97e654f4dd38/EFS2-15-e04991-g007.jpg
+PMC7009867,"For HPAIV clade 2.3.2.1c, there are various reports of infected wild birds (and poultry) in Central Asia (see Figure 1 in Section 3.1.1).",PMC7009867_figure_1,Figure 1.,"World‐wide distribution of influenza HPAI H5 and H7 subtypes and clades in domestic birds, wild birds and humans (1 January 2016–31 August 2017)",./data/PMC7009867/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/7af1bcd80b4d/EFS2-15-e04991-g001.jpg
+PMC7009867,"For HPAIV clade 2.2.1.2, there are detections reported in wild birds in Egypt as well as in poultry in Egypt and its directly neighbouring countries such as Libya, Palestinian Territories (see Figure 1 in Section 3.1.1).",PMC7009867_figure_1,Figure 1.,"World‐wide distribution of influenza HPAI H5 and H7 subtypes and clades in domestic birds, wild birds and humans (1 January 2016–31 August 2017)",./data/PMC7009867/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/7af1bcd80b4d/EFS2-15-e04991-g001.jpg
+PMC7009867,"For HPAIV clade 2.3.2.1c, poultry outbreaks have been reported in multiple sub‐Saharan West African countries (see Section 3.1.1 and Figure 1).",PMC7009867_figure_1,Figure 1.,"World‐wide distribution of influenza HPAI H5 and H7 subtypes and clades in domestic birds, wild birds and humans (1 January 2016–31 August 2017)",./data/PMC7009867/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/7af1bcd80b4d/EFS2-15-e04991-g001.jpg
+PMC7009867,"Viruses of clades 2.2.1.2 and 2.3.2.1c have never been reported in North America (Figure 1, Section 3.1.1), hence the probability that they enter the EU via the NW route is extremely low (more than 1,000‐fold lower) compared with HPAIV clade 2.3.4.4 entry via the NE route.3.2.7.",PMC7009867_figure_1,Figure 1.,"World‐wide distribution of influenza HPAI H5 and H7 subtypes and clades in domestic birds, wild birds and humans (1 January 2016–31 August 2017)",./data/PMC7009867/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/7af1bcd80b4d/EFS2-15-e04991-g001.jpg
+PMC7009867,"When the prevalence of infected entering water birds is high (0.06, see scenario 1 in Figure 8), an immediate onset of the epidemic and a rapid increase in the prevalence of infected water birds is observed during the first 10 days.",PMC7009867_figure_8,Figure 8.,"Modelled LPAI 95th percentile prevalence in wild water birds (piWB) after entry of infected wild water birds at day 1 of the migration season. Different population sizes (10,000 and 100,000) and scenarios 1–4 are presented. Scenario 1: 0.06 prevalence in infected entering water birds; scenario 2: 0.02 prevalence in infected entering water birds; scenario 3: 0.02 prevalence in entering infected water birds and 50% immune population; scenario 4: 0.002 prevalence in infected entering water birds",./data/PMC7009867/images/figure_8.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/ed1fa943692c/EFS2-15-e04991-g008.jpg
+PMC7009867,"When an average of 39 susceptible water birds enter daily, the prevalence immediately increases and reaches a maximum around day 10 (median 0.013, 95th percentile 0.017) and then decreases to 0.003 (95th percentile 0.007) at the end of the considered period (i.e. day 125) (see Figure 8: scenario 1, population capacity 100,000 birds).",PMC7009867_figure_8,Figure 8.,"Modelled LPAI 95th percentile prevalence in wild water birds (piWB) after entry of infected wild water birds at day 1 of the migration season. Different population sizes (10,000 and 100,000) and scenarios 1–4 are presented. Scenario 1: 0.06 prevalence in infected entering water birds; scenario 2: 0.02 prevalence in infected entering water birds; scenario 3: 0.02 prevalence in entering infected water birds and 50% immune population; scenario 4: 0.002 prevalence in infected entering water birds",./data/PMC7009867/images/figure_8.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/ed1fa943692c/EFS2-15-e04991-g008.jpg
+PMC7009867,"When compared with HPAI (see Figure 5 in Section 3.2.2), it can be concluded that LPAIV can reach similar maximum prevalence levels.",PMC7009867_figure_5,Figure 5.,"Modelled HPAI clade 2.3.4.4 worst‐case prevalence (95th percentile) in wild water birds (piWB) after entry of infected wild water birds at day 1 of the migration season. Different population sizes (10–100,000) and scenarios 1–4 are presented. Scenario 1: 90% water birds, 90% migratory birds; scenario 2: 10% water birds, 90% migratory birds; scenario 3: 90% water birds, 10% migratory birds; scenario 4: 10% water birds, 10% migratory birds",./data/PMC7009867/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/6b8c48be0204/EFS2-15-e04991-g005.jpg
+PMC7009867,"Probability of LPAI entry into poultry holdings without biosecurity measures
+The evolution of the daily probability of a holding without biosecurity becoming LPAI infected during a period of 125 days (see Figure E.9, Appendix E) follows the kinetics of virus prevalence in wild water birds (Figure 8).",PMC7009867_figure_8,Figure 8.,"Modelled LPAI 95th percentile prevalence in wild water birds (piWB) after entry of infected wild water birds at day 1 of the migration season. Different population sizes (10,000 and 100,000) and scenarios 1–4 are presented. Scenario 1: 0.06 prevalence in infected entering water birds; scenario 2: 0.02 prevalence in infected entering water birds; scenario 3: 0.02 prevalence in entering infected water birds and 50% immune population; scenario 4: 0.002 prevalence in infected entering water birds",./data/PMC7009867/images/figure_8.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/ed1fa943692c/EFS2-15-e04991-g008.jpg
+PMC7009867,"The median probability of poultry holdings without biosecurity becoming LPAI infected over the season (125 days) is 9 and 12 (796 and 863, 95th percentile) per 10,000 holdings when considering wild bird populations of 10,000 and 100,000 birds, respectively (Figure 9).",PMC7009867_figure_9,Figure I.1.,"Duck and geese production by region reported by MSs to EFSA (autumn 2016) (taken from EFSA, ECDC, EURL, 2017a, 2017b)",./data/PMC7009867/images/figure_9.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/2dbeac485ada/EFS2-15-e04991-g029.jpg
+PMC7009867,"As a result, there were high numbers of detections made by passive surveillance in anseriforme and game bird holdings during the 2016/2017 HPAI epizootic (Figure 10; see also EFSA scientific report 2017b).",PMC7009867_figure_10,Figure 10.,HPAI virus detected in Anseriformes and game birds during the 2016/2017 H5 HPAI (clade 2.3.4.4b) epizootic,./data/PMC7009867/images/figure_10.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/0368562c1d6b/EFS2-15-e04991-g010.jpg
+PMC7009867,"Sampling carried out on ducks and geese between 2014 and 2016 can be found in Figure 11, while sampling carried out on game birds (both gallinaceous and anseriforme) over the same time period can be found in Figure 12.",PMC7009867_figure_11,Figure 11.,Active serological surveillance in duck and geese holdings samples between 2014 and 2016,./data/PMC7009867/images/figure_11.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/dff48c7d1e4e/EFS2-15-e04991-g011.jpg
+PMC7009867,"Sampling carried out on ducks and geese between 2014 and 2016 can be found in Figure 11, while sampling carried out on game birds (both gallinaceous and anseriforme) over the same time period can be found in Figure 12.",PMC7009867_figure_12,Figure I.2.,"Game bird production by region reported by MSs to EFSA (autumn 2016) (taken from EFSA, ECDC, EURL, 2017a, 2017b)",./data/PMC7009867/images/figure_12.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/ebe1f2a4953e/EFS2-15-e04991-g030.jpg
+PMC7009867,"Based on the wild bird HPAI findings during these epizootics, a predictive risk map was created using a logistic regression model analysing the relationship between reported wild bird events and environmental factors (Figure 13; see Section 2.7).",PMC7009867_figure_13,Figure I.10.,"Map showing regions with holdings showing prior exposure to AI in farmed anseriforme poultry and all game birds, 2014–2016",./data/PMC7009867/images/figure_13.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/42a8c8b699e0/EFS2-15-e04991-g038.jpg
+PMC7009867,"Instead of active wild bird surveillance across the EU (as done in the past), a few priority locations within the EU could be identified (e.g. based on Figure 13) to implement targeted wild bird surveillance combining active virology tests (swabbing) with enhanced passive surveillance.",PMC7009867_figure_13,Figure I.10.,"Map showing regions with holdings showing prior exposure to AI in farmed anseriforme poultry and all game birds, 2014–2016",./data/PMC7009867/images/figure_13.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/42a8c8b699e0/EFS2-15-e04991-g038.jpg
+PMC7009867,"Four different biosecurity levels have been considered (see Figure 7, Section 3.2.2).",PMC7009867_figure_7,Figure 7.,"Based on median value of probability that holdings will become infected with HPAI clade 2.3.4.4 given the exposure to 100 infected wild bird, fold reductions were calculated for increasing level of biosecurity",./data/PMC7009867/images/figure_7.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/97e654f4dd38/EFS2-15-e04991-g007.jpg
+PMC7009867,"Adopted: 14 September 2017
+Amended: 14 December 2017
+
+Reproduction of the images listed below is prohibited and permission must be sought directly from the copyright holder:
+Figure 1: © FAO
+
+
+This publication is linked to the following EFSA Journal article: http://onlinelibrary.wiley.com/doi/10.2903/j.efsa.2017.5018/full
+
+This publication is linked to the following EFSA Supporting Publications article: http://onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2017.EN-1282/full, http://onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2017.EN-1283/full, http://onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2017.EN-1284/full, http://onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2017.EN-1285/full, http://onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2017.EN-1286/full, http://onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2017.EN-1287/full
+
+
+Notes
+
+
+1Council Directive 2005/94/EC of 20 December 2005 on Community measures for the control of avian influenza and repealing Directive 92/40/EEC.",PMC7009867_figure_1,Figure 1.,"World‐wide distribution of influenza HPAI H5 and H7 subtypes and clades in domestic birds, wild birds and humans (1 January 2016–31 August 2017)",./data/PMC7009867/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/7af1bcd80b4d/EFS2-15-e04991-g001.jpg
+PMC7009867,"27Reaching the critical number of susceptible residential birds after entry of susceptible migratory birds for around 10 days (population capacity 100,000 birds; median 0.000, 95th percentile 0.023 at day 125; see Figure 5, scenario 2).",PMC7009867_figure_5,Figure 5.,"Modelled HPAI clade 2.3.4.4 worst‐case prevalence (95th percentile) in wild water birds (piWB) after entry of infected wild water birds at day 1 of the migration season. Different population sizes (10–100,000) and scenarios 1–4 are presented. Scenario 1: 90% water birds, 90% migratory birds; scenario 2: 10% water birds, 90% migratory birds; scenario 3: 90% water birds, 10% migratory birds; scenario 4: 10% water birds, 10% migratory birds",./data/PMC7009867/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/6b8c48be0204/EFS2-15-e04991-g005.jpg
+PMC7009867,"28The presence of 9,000 susceptible resident water birds (population capacity 100,000 birds; median 0.000, 95th percentile 0.005 at day 125; see Figure 5, scenario 4).",PMC7009867_figure_5,Figure 5.,"Modelled HPAI clade 2.3.4.4 worst‐case prevalence (95th percentile) in wild water birds (piWB) after entry of infected wild water birds at day 1 of the migration season. Different population sizes (10–100,000) and scenarios 1–4 are presented. Scenario 1: 90% water birds, 90% migratory birds; scenario 2: 10% water birds, 90% migratory birds; scenario 3: 90% water birds, 10% migratory birds; scenario 4: 10% water birds, 10% migratory birds",./data/PMC7009867/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/6b8c48be0204/EFS2-15-e04991-g005.jpg
+PMC7009867,"Given the flyways of migratory water birds (see for instance Scott and Rose (1996) and data received as per procurement, coordinated by Linnaeus University (SE) and Erasmus Medical Centre (NL), OC/EFSA/ALPHA2015/01 supplemented with NP/EFSA/ALPHA/2015/04, unpublished (the Consortium report Waldenström et al., 2017)), four entry routes where migratory wild birds would cross the EU border were considered (Figure 2):.",PMC7009867_figure_2,Figure 2.,Map of the borders where migratory wild birds enter the EU via the four entry routes considered in this opinion,./data/PMC7009867/images/figure_2.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/48ed5053b34c/EFS2-15-e04991-g042.jpg
+PMC7009867,"The model outcome suggests, with a probability of 1 (median of the uncertainty distribution), that at least one migratory water bird infected with HPAIV clade 2.3.4.4 enters the EU via the NE route (see Figure 1, Appendix E).",PMC7009867_figure_1,Figure 1.,"World‐wide distribution of influenza HPAI H5 and H7 subtypes and clades in domestic birds, wild birds and humans (1 January 2016–31 August 2017)",./data/PMC7009867/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/7af1bcd80b4d/EFS2-15-e04991-g001.jpg
+PMC7009867,"Reducing the number of water birds in the wild population (scenarios 2 and 4), will lead to an epizootic in the residential wild bird population only when considerable numbers of susceptible water birds enter (see Figure 5, scenario 2)27 or considerable numbers of susceptible water birds are resident (see Figure 5, scenario 4).28.",PMC7009867_figure_5,Figure 5.,"Modelled HPAI clade 2.3.4.4 worst‐case prevalence (95th percentile) in wild water birds (piWB) after entry of infected wild water birds at day 1 of the migration season. Different population sizes (10–100,000) and scenarios 1–4 are presented. Scenario 1: 90% water birds, 90% migratory birds; scenario 2: 10% water birds, 90% migratory birds; scenario 3: 90% water birds, 10% migratory birds; scenario 4: 10% water birds, 10% migratory birds",./data/PMC7009867/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/6b8c48be0204/EFS2-15-e04991-g005.jpg
+PMC7009867,"Viruses of clades 2.2.1.2 and 2.3.2.1c have never been reported in North America (Figure 1, Section 3.1.1), hence the probability that they enter the EU via the NW route is extremely low (more than 1,000‐fold lower) compared with HPAIV clade 2.3.4.4 entry via the NE route.",PMC7009867_figure_1,Figure 1.,"World‐wide distribution of influenza HPAI H5 and H7 subtypes and clades in domestic birds, wild birds and humans (1 January 2016–31 August 2017)",./data/PMC7009867/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/7af1bcd80b4d/EFS2-15-e04991-g001.jpg
+PMC7009867,"The evolution of the daily probability of a holding without biosecurity becoming LPAI infected during a period of 125 days (see Figure E.9, Appendix E) follows the kinetics of virus prevalence in wild water birds (Figure 8).",PMC7009867_figure_8,Figure 8.,"Modelled LPAI 95th percentile prevalence in wild water birds (piWB) after entry of infected wild water birds at day 1 of the migration season. Different population sizes (10,000 and 100,000) and scenarios 1–4 are presented. Scenario 1: 0.06 prevalence in infected entering water birds; scenario 2: 0.02 prevalence in infected entering water birds; scenario 3: 0.02 prevalence in entering infected water birds and 50% immune population; scenario 4: 0.002 prevalence in infected entering water birds",./data/PMC7009867/images/figure_8.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/ed1fa943692c/EFS2-15-e04991-g008.jpg
+PMC7009867,"Adopted: 14 September 2017
+Amended: 14 December 2017
+
+Reproduction of the images listed below is prohibited and permission must be sought directly from the copyright holder:
+Figure 1: © FAO
+
+
+This publication is linked to the following EFSA Journal article: http://onlinelibrary.wiley.com/doi/10.2903/j.efsa.2017.5018/full
+
+This publication is linked to the following EFSA Supporting Publications article: http://onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2017.EN-1282/full, http://onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2017.EN-1283/full, http://onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2017.EN-1284/full, http://onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2017.EN-1285/full, http://onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2017.EN-1286/full, http://onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2017.EN-1287/full.",PMC7009867_figure_1,Figure 1.,"World‐wide distribution of influenza HPAI H5 and H7 subtypes and clades in domestic birds, wild birds and humans (1 January 2016–31 August 2017)",./data/PMC7009867/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/7af1bcd80b4d/EFS2-15-e04991-g001.jpg
+PMC7009867,"Reproduction of the images listed below is prohibited and permission must be sought directly from the copyright holder:
+Figure 1: © FAO.",PMC7009867_figure_1,Figure 1.,"World‐wide distribution of influenza HPAI H5 and H7 subtypes and clades in domestic birds, wild birds and humans (1 January 2016–31 August 2017)",./data/PMC7009867/images/figure_1.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/7af1bcd80b4d/EFS2-15-e04991-g001.jpg
+PMC7009867,"Reaching the critical number of susceptible residential birds after entry of susceptible migratory birds for around 10 days (population capacity 100,000 birds; median 0.000, 95th percentile 0.023 at day 125; see Figure 5, scenario 2).",PMC7009867_figure_5,Figure 5.,"Modelled HPAI clade 2.3.4.4 worst‐case prevalence (95th percentile) in wild water birds (piWB) after entry of infected wild water birds at day 1 of the migration season. Different population sizes (10–100,000) and scenarios 1–4 are presented. Scenario 1: 90% water birds, 90% migratory birds; scenario 2: 10% water birds, 90% migratory birds; scenario 3: 90% water birds, 10% migratory birds; scenario 4: 10% water birds, 10% migratory birds",./data/PMC7009867/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/6b8c48be0204/EFS2-15-e04991-g005.jpg
+PMC7009867,"The presence of 9,000 susceptible resident water birds (population capacity 100,000 birds; median 0.000, 95th percentile 0.005 at day 125; see Figure 5, scenario 4).",PMC7009867_figure_5,Figure 5.,"Modelled HPAI clade 2.3.4.4 worst‐case prevalence (95th percentile) in wild water birds (piWB) after entry of infected wild water birds at day 1 of the migration season. Different population sizes (10–100,000) and scenarios 1–4 are presented. Scenario 1: 90% water birds, 90% migratory birds; scenario 2: 10% water birds, 90% migratory birds; scenario 3: 90% water birds, 10% migratory birds; scenario 4: 10% water birds, 10% migratory birds",./data/PMC7009867/images/figure_5.jpg,https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd10/7009867/6b8c48be0204/EFS2-15-e04991-g005.jpg
