@@ -31,7 +31,6 @@ Qwen 8B
 - Get the total claims number and share it with yash.
 
 
-
 10/16/2025:
     - st.text(f”You are given a claim and its perturbation. Your task is to judge whether the perturbation is a contradiction of the original claim. Both the original and perturbed claim cannot be true at the same time.“)
     - “Your task is to perturb the given original claim and produce a contradiction of the original claim. Both the original and perturbed claim cannot be true at the same time.”
@@ -44,4 +43,12 @@ Qwen 8B
 DID: Used LLM (Qwen8B) for perturbation, for removing fig reference, for judging if the perturbated & original are valid or not.
 
 - Clear the figure reference from the given claim. without changing the meaning at any cost. 
+
+10/15/2025: Part 1 (Generating contradict & neutral data using Qwen)
+
+# Command to start running vllm in the background
+nohup python -m vllm.entrypoints.openai.api_server --model Qwen/Qwen3-VL-8B-Instruct --host 0.0.0.0 --port 8002 --gpu-memory-utilization 0.9 --tensor-parallel-size 1 --max-model-len 8192 > ~/vllm.log 2>&1 & tail -f ~/vllm.log
+
+# comment to stay connected to cluster in the background.
+ssh -fN context3
 
