@@ -29,3 +29,13 @@ Qwen 8B
 - we need to finetune it: vlm finetuning: vl2.5
 - accuracy test is: small subset that doest go into training - run inference on that with trained model - see what performance.
 - Get the total claims number and share it with yash.
+
+
+10/15/2025: Part 1 (Generating contradict & neutral data using Qwen)
+
+# Command to start running vllm in the background
+nohup python -m vllm.entrypoints.openai.api_server --model Qwen/Qwen3-VL-8B-Instruct --host 0.0.0.0 --port 8002 --gpu-memory-utilization 0.9 --tensor-parallel-size 1 --max-model-len 8192 > ~/vllm.log 2>&1 & tail -f ~/vllm.log
+
+# comment to stay connected to cluster in the background.
+ssh -fN context3
+
