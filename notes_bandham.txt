@@ -52,3 +52,16 @@ nohup python -m vllm.entrypoints.openai.api_server --model Qwen/Qwen3-VL-8B-Inst
 # comment to stay connected to cluster in the background.
 ssh -fN context3
 
+
+
+10/22/2025:
+- give ip, fig, claim and caption, train to produce judgement. Just jdgement
+- panel + judgement
+- read / explore panel segmentation. image based segmentation. try to talk to people about this. People doing research.
+
+do we fine-tune the model? Lora, 32 16.
+
+train & dev set (10%)
+at end acc should go up and during training loss should go down.
+decode and get the accuracy.
+also read about patience / early stopping parameter for this fine-tuning.
