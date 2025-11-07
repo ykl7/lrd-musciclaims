@@ -65,3 +65,17 @@ train & dev set (10%)
 at end acc should go up and during training loss should go down.
 decode and get the accuracy.
 also read about patience / early stopping parameter for this fine-tuning.
+
+
+
+
+I want to fine-tune a Qwen 8B model by passing panels, fig file, claim and caption, train to produce judgement that SUPPORT CONTRADICT OR NEUTRAL. Just jdgement, no reasoning.
+all the above data fields are columns.
+- train & dev set (10%)
+
+Lora, 32 x 16.
+Accuracy is the validation metric.
+decode the model outputs to actual label and get the accuracy.
+use patience / early stopping parameter for this fine-tuning.
+
+
