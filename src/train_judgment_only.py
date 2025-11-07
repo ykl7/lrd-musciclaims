@@ -2,6 +2,9 @@
 Fine-tune Qwen3-VL-8B-Instruct for multimodal claim judgment.
 Uses images + text (panels, claim, caption) to predict SUPPORT/CONTRADICT/NEUTRAL.
 """
+import os
+# GPU 0
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
 import pandas as pd
 import torch
@@ -19,7 +22,6 @@ from peft import LoraConfig, get_peft_model, TaskType
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 import numpy as np
-import os
 import json
 from PIL import Image
 from qwen_vl_utils import process_vision_info
