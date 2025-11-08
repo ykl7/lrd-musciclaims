@@ -1,0 +1,21 @@
+
+======================================================================
+Label Token Mapping:
+  SUPPORT: token_id=50 ('S')
+  CONTRADICT: token_id=5790 ('CON')
+  NEUTRAL: token_id=3944 ('NE')
+======================================================================
+
+
+======================================================================
+🚀 STARTING TRAINING
+======================================================================
+  Effective batch size: 16
+  Total epochs: 10
+  Early stopping patience: 3
+  Metric for best model: label_accuracy
+
+  Metrics tracked:
+    • Token Accuracy (logits-based, all positions)
+    • Label Accuracy (classification at judgment position)
+======================================================================
