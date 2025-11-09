@@ -1,4 +1,4 @@
-"""This script perturbs the SUPPORT claims into CONTRADICTION claims using LLM via vLLM server.
+"""This script perturbs the SUPPORT claims into CONTRADICT claims using LLM via vLLM server.
 if the JUDGE step is enabled, it also verifies the generated contradictions (code to change is "is_valid = ??").
 It processes claims asynchronously with controlled concurrency to optimize throughput."""
 
@@ -166,7 +166,7 @@ async def process_single_claim(index: int, row: pd.Series, pbar: tqdm) -> dict:
     if is_valid:
         new_row = row.to_dict()
         new_row['claim'] = perturbed_claim
-        new_row['class'] = 'CONTRADICTION'
+        new_row['class'] = 'CONTRADICT'
         return new_row
     
     return None
