@@ -7,6 +7,7 @@ from openai import AsyncOpenAI
 from tqdm.auto import tqdm
 import asyncio
 import re
+import argparse
 
 # --- Configuration & Setup ---
 try:
@@ -133,7 +134,7 @@ Judgment:
         print(f"\nError during JUDGE call for claim '{original_claim[:50]}...': {e}")
         return False
 
-async def process_single_claim(index: int, row: pd.Series, pbar: tqdm) -> dict:
+async def process_single_claim(index: int, row: pd.Series, pbar: tqdm, enable_judge: bool) -> dict:
     """
     Process a single claim: generate contradiction and judge it.
     Returns the new row dict if valid, None otherwise.
@@ -149,8 +150,10 @@ async def process_single_claim(index: int, row: pd.Series, pbar: tqdm) -> dict:
         return None
         
     # Step 2: Judge the candidate
-    # is_valid = await is_contradiction(original_claim, perturbed_claim)
-    is_valid = True
+    if enable_judge:
+        is_valid = await is_contradiction(original_claim, perturbed_claim)
+    else:
+        is_valid = True
     
     # --- Print the full comparison with the judgment ---
     print("\n" + "="*80)
@@ -171,7 +174,7 @@ async def process_single_claim(index: int, row: pd.Series, pbar: tqdm) -> dict:
     
     return None
 
-async def perturb_dataframe_claims(df: pd.DataFrame, max_concurrent: int = 5) -> pd.DataFrame:
+async def perturb_dataframe_claims(df: pd.DataFrame, enable_judge: bool = False, max_concurrent: int = 5) -> pd.DataFrame:
     """
     Process claims asynchronously with controlled concurrency.
     
@@ -189,7 +192,7 @@ async def perturb_dataframe_claims(df: pd.DataFrame, max_concurrent: int = 5) ->
     
     async def process_with_semaphore(index, row, pbar):
         async with semaphore:
-            return await process_single_claim(index, row, pbar)
+            return await process_single_claim(index, row, pbar, enable_judge)
     
     # Create progress bar
     pbar = tqdm(total=len(support_df), desc="Processing claims")
@@ -217,7 +220,7 @@ async def perturb_dataframe_claims(df: pd.DataFrame, max_concurrent: int = 5) ->
     
     return final_df
 
-async def main():
+async def main(args, max_concurrent: int = 32):
     """Main async function."""
     # Validate connection
     if not await validate_connection():
@@ -228,16 +231,40 @@ async def main():
     df_initial = pd.read_csv(support_data_path)
     
     # Process claims
-    df_final = await perturb_dataframe_claims(df_initial, max_concurrent=10)
+    df_final = await perturb_dataframe_claims(df_initial, args.enable_judge, max_concurrent=max_concurrent)
     
     print("\n--- Final DataFrame with VALIDATED Perturbations ---")
     print(df_final)
     
     # Save results
-    output_filename = "all_perturbed_data_without_judge.csv"
+    if args.enable_judge:
+        output_filename = "all_perturbed_data_with_judge_v1.csv"
+    else:
+        output_filename = "all_perturbed_data_without_judge_v1.csv"
     df_final.to_csv(output_filename, index=False)
     print(f"\n✅ Final, high-quality data saved to '{output_filename}'")
 
 # --- Main Execution ---
 if __name__ == "__main__":
-    asyncio.run(main())
+    parser = argparse.ArgumentParser(
+        description="Generate contradictory claims from support claims using LLM",
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter
+    )
+    parser.add_argument(
+        '--enable-judge',
+        action='store_true',
+        help='Enable the judge step to validate contradictions (default: disabled)'
+    )
+    parser.set_defaults(enable_judge=False)
+    args = parser.parse_args()
+    max_concurrent = 400
+    # Print configuration
+    print("\n" + "="*80)
+    print("🔧 Configuration:")
+    print("="*80)
+    print(f"  Judge validation: {'ENABLED ✅' if args.enable_judge else 'DISABLED ⚡ (faster)'}")
+    print(f"  Max concurrent requests: {max_concurrent}")
+    print("="*80 + "\n")
+    
+    # run the main async function
+    asyncio.run(main(args, max_concurrent))

@@ -5,7 +5,7 @@ import re
 import asyncio
 
 client = AsyncOpenAI(
-    base_url="http://localhost:8002/v1",
+    base_url="http://localhost:8003/v1",
     api_key="EMPTY"
 )
 print("✅ Async client configured.")
@@ -178,11 +178,10 @@ def remove_figure_references(text: str) -> str:
     
     return text
 
-async def main():
+async def main(CONCURRENCY_LIMIT: int = 32):
     if not await validate_connection():
         return
 
-    CONCURRENCY_LIMIT = 32
     semaphore = asyncio.Semaphore(CONCURRENCY_LIMIT)
 
     try:
@@ -200,7 +199,7 @@ async def main():
         df['new_claim'] = cleaned
         
         # filling nans in panels
-        df['panels'].fillna('ALL_PANELS', inplace=True)
+        df.fillna({'panels': 'ALL_PANELS'}, inplace=True)
 
         df.dropna(subset=["new_claim"], inplace=True)
         df['new_claim'] = df['new_claim'].apply(remove_figure_references)
@@ -220,7 +219,8 @@ async def main():
         for i in df_valid['new_claim'].tolist():
             if 'Fig' in i or 'fig' in i:
                 count += 1
-        print(count / len(df_valid) * 100)
+        print("count: ", count)
+        print("Percent:", (count/len(df_valid))*100)
         
         df_valid.to_csv("all_data_with_judge_without_fig_ref_v3.csv", index=False)
         print(f"\n✅ Saved {len(df_valid):,} rows")
@@ -230,4 +230,4 @@ async def main():
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    asyncio.run(main(CONCURRENCY_LIMIT=250))

@@ -83,11 +83,11 @@ def run_debug_tests():
 
 if run_debug_tests():
     try:
-        df = pd.read_csv('all_data_without_judge_with_fig_ref.csv')
+        df = pd.read_csv('all_data_with_judge_with_fig_ref_v1.csv')
         df['panels'] = df['claim'].fillna('').apply(extract_panel_data)
-        df.to_csv('all_data_without_judge_with_fig_ref_v2.csv', index=False)
-        print(f"✅ Processed {len(df)} claims. Results saved to 'all_data_without_judge_with_fig_ref_v2.csv'")
-        print("\n--- Sample (first 20 rows) ---")
+        df.to_csv('all_data_with_judge_with_fig_ref_v2.csv', index=False)
+        print(f"✅ Processed {len(df)} claims. Results saved to 'all_data_with_judge_with_fig_ref_v2.csv'")
+        # print("\n--- Sample (first 20 rows) ---")
         # print(df[['claim', 'panels']].head(20).to_string())
     except FileNotFoundError:
         print("❌ Error: File not found.")

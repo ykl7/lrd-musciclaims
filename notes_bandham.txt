@@ -79,3 +79,27 @@ decode the model outputs to actual label and get the accuracy.
 use patience / early stopping parameter for this fine-tuning.
 
 
+
+
+ssh -L 8003:a100-01:8003 mbandham@dn-rome1 -N
+
+
+srun --partition=a100-long --nodelist=a100-06 --gres=gpu:2 --mem=200G --time=48:00:00 --pty bash
+
+
+nohup python -m vllm.entrypoints.openai.api_server --model Qwen/Qwen3-VL-8B-Instruct --host 0.0.0.0 --port 8002 --gpu-memory-utilization 0.9 --tensor-parallel-size 1 --max-model-len 8192 > ~/vllm.log 2>&1 & tail -f ~/vllm.log
+
+Order:
+perbate .py
+combine datasets .py
+extract panel names .py
+remove fig ref .py
+
+
+nohup python -m vllm.entrypoints.openai.api_server --model Qwen/Qwen3-VL-8B-Instruct --host 0.0.0.0 --port 8003 --gpu-memory-utilization 0.9 --tensor-parallel-size 1 --max-model-len 8192 > ~/vllm.log 2>&1 & tail -f ~/vllm.log
+
+12192
+
+
+
+
