@@ -2,9 +2,22 @@ import os
 # Set GPUs before any other imports
 # os.environ["CUDA_VISIBLE_DEVICES"] = "2,3"
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
+os.environ["TRITON_CACHE_DIR"] = "/gpfs/projects/MaffeiGroup/triton_cache"
 
 import pandas as pd
+# Silence verbose compilation warnings
+import warnings
+warnings.filterwarnings("ignore", category=UserWarning, module="torch._dynamo")
+
 import torch
+# Reduce compiler verbosity
+torch._dynamo.config.suppress_errors = True
+torch._dynamo.config.verbose = False
+
+import logging
+logging.getLogger("torch._dynamo").setLevel(logging.ERROR)
+logging.getLogger("torch.fx").setLevel(logging.ERROR)
+
 from torch.utils.data import Dataset
 from transformers import (
     AutoProcessor,
@@ -35,9 +48,9 @@ CONFIG = {
     "max_length": 512,
     "train_split": 0.9,
     "batch_size": 1,
-    "gradient_accumulation_steps": 16,
+    "gradient_accumulation_steps": 8,
     "learning_rate": 2e-4,
-    "num_epochs": 10,
+    "num_epochs": 1,
     "lora_r": 32,
     "lora_alpha": 16,
     "lora_dropout": 0.05,
@@ -466,6 +479,42 @@ def train_model(model, processor, train_dataset, dev_dataset, config):
     data_collator = MultimodalDataCollator(processor)
     
     # Training arguments - optimized for DDP
+    # training_args = TrainingArguments(
+    #     output_dir=config["output_dir"],
+    #     num_train_epochs=config["num_epochs"],
+    #     per_device_train_batch_size=config["batch_size"],
+    #     per_device_eval_batch_size=config["batch_size"],
+    #     gradient_accumulation_steps=config["gradient_accumulation_steps"],
+    #     learning_rate=config["learning_rate"],
+    #     lr_scheduler_type="cosine",
+    #     warmup_ratio=0.1,
+    #     logging_steps=10,
+    #     eval_strategy="epoch",
+    #     save_strategy="epoch",
+    #     save_total_limit=2,
+    #     load_best_model_at_end=True,
+    #     metric_for_best_model="label_accuracy",
+    #     greater_is_better=True,
+    #     fp16=True,
+    #     report_to="wandb" if (config.get("use_wandb", False) and is_main_process()) else "none",
+    #     seed=config["seed"],
+        
+    #     # CRITICAL: Data loading settings for DDP
+    #     dataloader_num_workers=4,  # Safe for PIL Image + DDP
+    #     dataloader_prefetch_factor=2,
+    #     remove_unused_columns=False,
+    #     gradient_checkpointing=True,
+    #     optim="adamw_torch_fused",
+    #     torch_compile=True,
+    #     eval_accumulation_steps=4,
+    #     include_inputs_for_metrics=False,
+    #     prediction_loss_only=False,
+        
+    #     # DDP settings
+    #     ddp_find_unused_parameters=False,  # CRITICAL for PEFT
+    #     ddp_backend="gloo",
+    # )
+
     training_args = TrainingArguments(
         output_dir=config["output_dir"],
         num_train_epochs=config["num_epochs"],
@@ -476,8 +525,10 @@ def train_model(model, processor, train_dataset, dev_dataset, config):
         lr_scheduler_type="cosine",
         warmup_ratio=0.1,
         logging_steps=10,
-        eval_strategy="epoch",
-        save_strategy="epoch",
+        eval_strategy="steps",
+	eval_steps=100,
+        save_strategy='steps',
+	save_steps=100,
         save_total_limit=2,
         load_best_model_at_end=True,
         metric_for_best_model="label_accuracy",
@@ -486,16 +537,18 @@ def train_model(model, processor, train_dataset, dev_dataset, config):
         report_to="wandb" if (config.get("use_wandb", False) and is_main_process()) else "none",
         seed=config["seed"],
         
-        # CRITICAL: Data loading settings for DDP
-        dataloader_num_workers=0,  # Safe for PIL Image + DDP
+        dataloader_num_workers=0,
         remove_unused_columns=False,
         gradient_checkpointing=True,
         optim="adamw_torch_fused",
         
-        # DDP settings
-        ddp_find_unused_parameters=False,  # CRITICAL for PEFT
+        ddp_find_unused_parameters=False,
         ddp_backend="gloo",
+        
+        eval_accumulation_steps=4,
+        include_inputs_for_metrics=False,
     )
+
     
     callbacks = [
         LoggingCallback(),

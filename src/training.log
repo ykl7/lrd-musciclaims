@@ -1,0 +1,161 @@
+nohup: ignoring input
+W1110 09:35:59.845000 985220 torch/distributed/run.py:774] 
+W1110 09:35:59.845000 985220 torch/distributed/run.py:774] *****************************************
+W1110 09:35:59.845000 985220 torch/distributed/run.py:774] Setting OMP_NUM_THREADS environment variable for each process to be 1 in default, to avoid your system being overloaded, please further tune the variable for optimal performance in your application as needed. 
+W1110 09:35:59.845000 985220 torch/distributed/run.py:774] *****************************************
+
+======================================================================
+🔧 Qwen3-VL Judgment Task Fine-tuning
+======================================================================
+
+Loading data from ./data_collection/all_data_with_judge_without_fig_ref_v3.csv...
+Total samples: 11125
+Label distribution:
+class
+SUPPORT       3990
+CONTRADICT    3643
+NEUTRAL       3492
+Name: count, dtype: int64
+
+Train samples: 10012
+Dev samples: 1113
+✅ Saved train/dev splits to ./qwen3_vl_judgment_lora
+Loading model: Qwen/Qwen3-VL-8B-Instruct
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:08,  2.83s/it]Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:08,  2.83s/it]Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:08,  2.83s/it]Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:08,  2.83s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:06<00:07,  3.55s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:06<00:07,  3.55s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:06<00:07,  3.55s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:06<00:07,  3.55s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:12<00:04,  4.46s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:12<00:04,  4.46s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:12<00:04,  4.46s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:12<00:04,  4.46s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:16<00:00,  4.31s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:16<00:00,  4.31s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:16<00:00,  4.31s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:16<00:00,  4.31s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:16<00:00,  4.12s/it]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:16<00:00,  4.12s/it]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:16<00:00,  4.12s/it]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:16<00:00,  4.12s/it]
+trainable params: 30,670,848 || all params: 8,797,794,544 || trainable%: 0.3486
+✅ Train dataset: 10012 samples
+✅ Dev dataset: 1113 samples
+
+
+======================================================================
+🚀 Starting training on 4 GPU(s)
+======================================================================
+
+wandb: Currently logged in as: bandhammanikanta (bandhammanikanta-personal) to https://api.wandb.ai. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.22.3
+wandb: Run data is saved locally in /gpfs/projects/MaffeiGroup/lrd-musciclaims/src/wandb/run-20251110_094056-skd20lyy
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run silver-puddle-21
+wandb: ⭐️ View project at https://wandb.ai/bandhammanikanta-personal/qwen3-vl-ft-label-only
+wandb: 🚀 View run at https://wandb.ai/bandhammanikanta-personal/qwen3-vl-ft-label-only/runs/skd20lyy
+
+======================================================================
+Label Token Mapping:
+  SUPPORT: token_id=50 ('S')
+  CONTRADICT: token_id=5790 ('CON')
+  NEUTRAL: token_id=3944 ('NE')
+======================================================================
+
+[Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+[Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+[Gloo] Rank [Gloo] Rank 32 is connected to  is connected to 33 peer ranks.  peer ranks. Expected number of connected peer ranks is : Expected number of connected peer ranks is : 33
+
+
+======================================================================
+Training Configuration:
+======================================================================
+  Number of GPUs: 4
+  Per-device batch size: 1
+  Gradient accumulation: 8
+  Effective batch size: 32
+  Learning rate: 0.0002
+  Epochs: 1
+======================================================================
+
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/gpfs/projects/MaffeiGroup/lrd-musciclaims/src/train_judgment_only_v2.py", line 661, in <module>
+[rank0]:     main()
+[rank0]:   File "/gpfs/projects/MaffeiGroup/lrd-musciclaims/src/train_judgment_only_v2.py", line 646, in main
+[rank0]:     trainer, final_metrics = train_model(
+[rank0]:                              ^^^^^^^^^^^^
+[rank0]:   File "/gpfs/projects/MaffeiGroup/lrd-musciclaims/src/train_judgment_only_v2.py", line 581, in train_model
+[rank0]:     trainer.train(resume_from_checkpoint=True)
+[rank0]:   File "/gpfs/projects/MaffeiGroup/lrd_uv_p311_venv/lib/python3.11/site-packages/transformers/trainer.py", line 2293, in train
+[rank0]:     raise ValueError(f"No valid checkpoint found in output directory ({args.output_dir})")
+[rank0]: ValueError: No valid checkpoint found in output directory (./qwen3_vl_judgment_lora)
+[rank1]: Traceback (most recent call last):
+[rank1]:   File "/gpfs/projects/MaffeiGroup/lrd-musciclaims/src/train_judgment_only_v2.py", line 661, in <module>
+[rank1]:     main()
+[rank1]:   File "/gpfs/projects/MaffeiGroup/lrd-musciclaims/src/train_judgment_only_v2.py", line 646, in main
+[rank1]:     trainer, final_metrics = train_model(
+[rank1]:                              ^^^^^^^^^^^^
+[rank1]:   File "/gpfs/projects/MaffeiGroup/lrd-musciclaims/src/train_judgment_only_v2.py", line 581, in train_model
+[rank1]:     trainer.train(resume_from_checkpoint=True)
+[rank1]:   File "/gpfs/projects/MaffeiGroup/lrd_uv_p311_venv/lib/python3.11/site-packages/transformers/trainer.py", line 2293, in train
+[rank1]:     raise ValueError(f"No valid checkpoint found in output directory ({args.output_dir})")
+[rank1]: ValueError: No valid checkpoint found in output directory (./qwen3_vl_judgment_lora)
+[rank2]: Traceback (most recent call last):
+[rank2]:   File "/gpfs/projects/MaffeiGroup/lrd-musciclaims/src/train_judgment_only_v2.py", line 661, in <module>
+[rank2]:     main()
+[rank2]:   File "/gpfs/projects/MaffeiGroup/lrd-musciclaims/src/train_judgment_only_v2.py", line 646, in main
+[rank2]:     trainer, final_metrics = train_model(
+[rank2]:                              ^^^^^^^^^^^^
+[rank2]:   File "/gpfs/projects/MaffeiGroup/lrd-musciclaims/src/train_judgment_only_v2.py", line 581, in train_model
+[rank2]:     trainer.train(resume_from_checkpoint=True)
+[rank2]:   File "/gpfs/projects/MaffeiGroup/lrd_uv_p311_venv/lib/python3.11/site-packages/transformers/trainer.py", line 2293, in train
+[rank2]:     raise ValueError(f"No valid checkpoint found in output directory ({args.output_dir})")
+[rank2]: ValueError: No valid checkpoint found in output directory (./qwen3_vl_judgment_lora)
+[rank3]: Traceback (most recent call last):
+[rank3]:   File "/gpfs/projects/MaffeiGroup/lrd-musciclaims/src/train_judgment_only_v2.py", line 661, in <module>
+[rank3]:     main()
+[rank3]:   File "/gpfs/projects/MaffeiGroup/lrd-musciclaims/src/train_judgment_only_v2.py", line 646, in main
+[rank3]:     trainer, final_metrics = train_model(
+[rank3]:                              ^^^^^^^^^^^^
+[rank3]:   File "/gpfs/projects/MaffeiGroup/lrd-musciclaims/src/train_judgment_only_v2.py", line 581, in train_model
+[rank3]:     trainer.train(resume_from_checkpoint=True)
+[rank3]:   File "/gpfs/projects/MaffeiGroup/lrd_uv_p311_venv/lib/python3.11/site-packages/transformers/trainer.py", line 2293, in train
+[rank3]:     raise ValueError(f"No valid checkpoint found in output directory ({args.output_dir})")
+[rank3]: ValueError: No valid checkpoint found in output directory (./qwen3_vl_judgment_lora)
+[1;34mwandb[0m: 
+[1;34mwandb[0m: 🚀 View run [33msilver-puddle-21[0m at: [34m[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20251110_094056-skd20lyy/logs[0m
+W1110 09:45:06.368000 985220 torch/distributed/elastic/multiprocessing/api.py:900] Sending process 985404 closing signal SIGTERM
+E1110 09:45:06.457000 985220 torch/distributed/elastic/multiprocessing/api.py:874] failed (exitcode: 1) local_rank: 0 (pid: 985402) of binary: /gpfs/projects/MaffeiGroup/lrd_uv_p311_venv/bin/python3
+Traceback (most recent call last):
+  File "/gpfs/projects/MaffeiGroup/lrd_uv_p311_venv/bin/torchrun", line 10, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/gpfs/projects/MaffeiGroup/lrd_uv_p311_venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 357, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/gpfs/projects/MaffeiGroup/lrd_uv_p311_venv/lib/python3.11/site-packages/torch/distributed/run.py", line 901, in main
+    run(args)
+  File "/gpfs/projects/MaffeiGroup/lrd_uv_p311_venv/lib/python3.11/site-packages/torch/distributed/run.py", line 892, in run
+    elastic_launch(
+  File "/gpfs/projects/MaffeiGroup/lrd_uv_p311_venv/lib/python3.11/site-packages/torch/distributed/launcher/api.py", line 143, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/gpfs/projects/MaffeiGroup/lrd_uv_p311_venv/lib/python3.11/site-packages/torch/distributed/launcher/api.py", line 277, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+train_judgment_only_v2.py FAILED
+------------------------------------------------------------
+Failures:
+[1]:
+  time      : 2025-11-10_09:45:06
+  host      : a100-06.cm.cluster
+  rank      : 1 (local_rank: 1)
+  exitcode  : 1 (pid: 985403)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+[2]:
+  time      : 2025-11-10_09:45:06
+  host      : a100-06.cm.cluster
+  rank      : 3 (local_rank: 3)
+  exitcode  : 1 (pid: 985405)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2025-11-10_09:45:06
+  host      : a100-06.cm.cluster
+  rank      : 0 (local_rank: 0)
+  exitcode  : 1 (pid: 985402)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================
