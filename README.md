@@ -22,6 +22,8 @@ The fine-tuning pipeline for the "Judgment Only" task is currently under develop
    * **Error:** `RuntimeError: CUDA driver error: invalid argument` at `torch.prod(grid_thw)`.
 2. **Data Pipeline Crashes:**
    * **Error:** `IndexError: list index out of range` or `numel overflow`.
+3. **Label parsing from tokens:**
+    * **Error:** `When doing evaluation, we need to extract labels from tokens to get accuracy`.
 
 
 #### How to Run
