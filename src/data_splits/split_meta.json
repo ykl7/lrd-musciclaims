@@ -1,0 +1,13 @@
+{
+  "source_file": "data_collection/all_data_with_judge_without_fig_ref_v3.csv",
+  "source_sha256_16hex": "00d4b3a4e8f332fc",
+  "label_column": "class",
+  "n_rows_total": 11125,
+  "n_train": 10012,
+  "n_dev": 1113,
+  "ratios": {
+    "train": 0.9,
+    "dev": 0.1
+  },
+  "seed": 42
+}

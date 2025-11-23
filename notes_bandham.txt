@@ -101,5 +101,8 @@ nohup python -m vllm.entrypoints.openai.api_server --model Qwen/Qwen3-VL-8B-Inst
 12192
 
 
+nohup python -m vllm.entrypoints.openai.api_server  --model ./qwen3_vl_judgment_merged --served-model-name qwen3-vl-judgment --host 0.0.0.0 --port 8003 --gpu-memory-utilization 0.9 --tensor-parallel-size 4 --max-model-len 8192 --trust-remote-code --enforce-eager > vllm.log 2>&1 & tail -f vllm.log
 
+
+nohup torchrun --nproc_per_node=4 train_judgment_only_unsloth_v3.py > training.log 2>&1 & tail -f training.log
 

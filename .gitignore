@@ -1,4 +1,12 @@
 .ipynb_checkpoints/
 *.err
 *.out
-src/wandb/
+wandb/
+src/ft_label_judgment_only/unsloth_compiled_cache/
+src/ft_label_judgment_only/qwen3_vl_judgment_merged
+src/ft_label_judgment_only/qwen3_vl_judgment_lora
+src/cns-mm-benchmark/**/*.pdf
+src/cns-mm-benchmark/**/*.pkl
+*.ipynb_checkpoints/
+*/cns-mm-benchmark/results/
+*/cns-mm-benchmark/manual/
